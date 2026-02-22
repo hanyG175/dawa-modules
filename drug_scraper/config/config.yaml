@@ -1,0 +1,41 @@
+# Drug Scraper Configuration
+
+# Scraping settings
+scraping:
+  timeout: 30
+  retry_attempts: 3
+  retry_delay: 5
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+# Rate limiting
+rate_limiting:
+  requests_per_second: 1
+  respect_robots_txt: true
+
+# Data sources
+sources:
+  drugbank:
+    enabled: true
+    base_url: "https://www.drugbank.ca"
+    priority: 1
+  pubchem:
+    enabled: true
+    base_url: "https://pubchem.ncbi.nlm.nih.gov"
+    priority: 2
+  chembl:
+    enabled: false
+    base_url: "https://www.ebi.ac.uk/chembl"
+    priority: 3
+
+# Data storage
+storage:
+  raw_path: "./data/raw"
+  processed_path: "./data/processed"
+  format: "json"
+
+# Logging
+logging:
+  level: "INFO"
+  file: "./logs/scraper.log"
+  max_file_size: 10485760  # 10MB
+  backup_count: 5
