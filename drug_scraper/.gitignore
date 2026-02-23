@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 .venv
-
+draft.py
 # Python
 __pycache__/
 *.py[cod]
