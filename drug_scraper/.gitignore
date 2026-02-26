@@ -25,7 +25,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+*.xsd
+*.xml
 # IDE
 .vscode/
 .idea/
