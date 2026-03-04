@@ -10,8 +10,7 @@ from pathlib import Path
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.scrapers.drugbank_scraper import DrugBankScraper
-from src.scrapers.pubchem_scraper import PubChemScraper
+from src.drugbank_scraper import DrugBankScraper
 from src.utils.config import Config
 from src.utils.logger import setup_logger
 
@@ -26,7 +25,7 @@ def main():
     )
     parser.add_argument(
         "--source",
-        choices=["drugbank", "pubchem", "all"],
+        choices=["drugbank", "all"],
         default="all",
         help="Data source to scrape",
     )
@@ -50,9 +49,6 @@ def main():
 
     if args.source in ["drugbank", "all"]:
         scrapers.append(DrugBankScraper())
-
-    if args.source in ["pubchem", "all"]:
-        scrapers.append(PubChemScraper())
 
     # Create output directory if it doesn't exist
     output_dir = Path("data/raw")

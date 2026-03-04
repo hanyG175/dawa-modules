@@ -14,7 +14,7 @@ from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from .base_scraper import BaseScraper
+from .scrapers.base_scraper import BaseScraper
 
 logger = logging.getLogger(__name__)
 

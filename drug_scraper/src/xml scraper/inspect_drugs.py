@@ -5,7 +5,7 @@ Shows you exactly what fields are populated for real drugs.
 
 import json
 
-from draft import DrugBankAnalyzer
+from xml_scraper.analyser import DrugBankAnalyzer
 
 
 def inspect_drug(index: int = 0):
