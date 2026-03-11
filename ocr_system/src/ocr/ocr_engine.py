@@ -1,10 +1,21 @@
 """OCR engine using Tesseract for text extraction."""
 
 import logging
+import os
 from typing import Dict, List, Optional, Any
 from PIL import Image
 import pytesseract
 from pytesseract import Output
+
+# Configure pytesseract to use Tesseract executable if installed in default location
+tesseract_paths = [
+    r"C:\Program Files\Tesseract-OCR\tesseract.exe",
+    r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
+]
+for path in tesseract_paths:
+    if os.path.exists(path):
+        pytesseract.pytesseract.pytesseract_cmd = path
+        break
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +30,6 @@ class OCREngine:
         "eng": "English",
         "fra": "French",
         "ara": "Arabic",
-        # Add more as needed
     }
     
     def __init__(self, languages: Optional[List[str]] = None, config: Optional[str] = None):
@@ -230,6 +240,10 @@ class OCREngine:
         
         return blocks
     
+    
+    #------------------------------------------------------
+    # Language settings
+    #------------------------------------------------------
     def add_language(self, language_code: str) -> None:
         """
         Add additional language for OCR.

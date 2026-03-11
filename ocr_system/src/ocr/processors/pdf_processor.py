@@ -1,10 +1,11 @@
 """PDF document processor for converting PDFs to processable images."""
 
+import io
 import logging
 from pathlib import Path
 from typing import List, Optional
-from pdf2image import convert_from_path
 from PIL import Image
+import fitz  # PyMuPDF
 
 from . import BaseProcessor
 
@@ -68,7 +69,24 @@ class PDFProcessor(BaseProcessor):
         
         try:
             self.logger.info(f"Processing PDF: {file_path} at {self.dpi} DPI")
-            images = convert_from_path(file_path, dpi=self.dpi)
+            
+            # Open PDF with PyMuPDF (fitz)
+            pdf_document = fitz.open(file_path)
+            images = []
+            
+            for page_num in range(len(pdf_document)):
+                page = pdf_document[page_num]
+                # Render page to image with DPI
+                zoom = self.dpi / 72.0  # 72 DPI is default
+                mat = fitz.Matrix(zoom, zoom)
+                pix = page.get_pixmap(matrix=mat)
+                
+                # Convert to PIL Image
+                img_data = pix.tobytes("ppm")
+                img = Image.open(io.BytesIO(img_data))
+                images.append(img)
+            
+            pdf_document.close()
             self.logger.info(f"Successfully converted {len(images)} pages")
             return images
         except Exception as e:
@@ -89,11 +107,10 @@ class PDFProcessor(BaseProcessor):
             return 0
         
         try:
-            images = convert_from_path(file_path, first_page=1, last_page=1)
-            # This gives us one page, but we need total count
-            # For optimization, convert all and count
-            images = convert_from_path(file_path)
-            return len(images)
+            pdf_document = fitz.open(file_path)
+            page_count = len(pdf_document)
+            pdf_document.close()
+            return page_count
         except Exception as e:
             self.logger.error(f"Error getting page count: {str(e)}")
             return 0

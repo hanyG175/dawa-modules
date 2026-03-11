@@ -103,15 +103,16 @@ class OCRPipeline(ABC):
     """
     
     @abstractmethod
-    def process_pdf(self, pdf_path: str) -> List[ExtractedData]:
+    def process_pdf(self, pdf_path: str) -> ExtractedData:
         """
         Process PDF document through OCR pipeline.
+        All pages are combined into a single ExtractedData object.
         
         Args:
             pdf_path: Path to PDF file
             
         Returns:
-            List of extracted data from all pages
+            ExtractedData object with all pages combined
         """
         pass
     
