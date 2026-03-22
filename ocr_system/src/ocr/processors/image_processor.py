@@ -126,10 +126,10 @@ class ImageProcessor(BaseProcessor):
             img_cv = cv2.fastNlMeansDenoisingColored(
                 img_cv,
                 None,
-                h=10,
-                hForColorComponents=10,
-                templateWindowSize=7,
-                searchWindowSize=21
+                10,
+                10,
+                7,
+                21,
             )
             
             # 2. Grayscale

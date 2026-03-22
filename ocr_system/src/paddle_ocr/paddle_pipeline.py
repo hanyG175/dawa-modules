@@ -51,13 +51,13 @@ class PaddleOCRPipeline:
             Dictionary with processing results
         """
         try:
-            file_path = Path(file_path)
-            logger.info(f"Processing: {file_path}")
+            input_path = Path(file_path)
+            logger.info(f"Processing: {input_path}")
             
-            if file_path.suffix.lower() == ".pdf":
-                return self._process_pdf(file_path)
+            if input_path.suffix.lower() == ".pdf":
+                return self._process_pdf(input_path)
             else:
-                return self._process_image(file_path)
+                return self._process_image(input_path)
         
         except Exception as e:
             logger.error(f"Processing error: {str(e)}")
@@ -77,12 +77,29 @@ class PaddleOCRPipeline:
         all_text = []
         confidence_scores = []
         page_success_count = 0
-        for image in images:
+        page_layouts = []
+        all_layout_blocks = []
+
+        for page_idx, image in enumerate(images, start=1):
             result = self.paddle_engine.extract_text(image)
             if result["success"]:
                 all_text.append(result["text"])
                 confidence_scores.append(result["confidence"])
                 page_success_count += 1
+
+            layout_result = self.paddle_engine.extract_layout(image)
+            if layout_result.get("success"):
+                blocks = layout_result.get("blocks", [])
+                page_layouts.append(
+                    {
+                        "page": page_idx,
+                        "blocks": blocks,
+                    }
+                )
+                for block in blocks:
+                    block_with_page = dict(block)
+                    block_with_page["page"] = page_idx
+                    all_layout_blocks.append(block_with_page)
                 
         
         return {
@@ -92,7 +109,10 @@ class PaddleOCRPipeline:
             "page_count": len(images),
             "processed_pages": page_success_count,
             "text": "\n\n".join(all_text),
-            "average_confidence": sum(confidence_scores) / len(confidence_scores) if confidence_scores else 0.0,    
+            "average_confidence": sum(confidence_scores) / len(confidence_scores) if confidence_scores else 0.0,
+            "layout_pages": page_layouts,
+            "layout_blocks": all_layout_blocks,
+            "layout_success": len(page_layouts) > 0,
         }
     
     def _process_image(self, file_path: Path) -> Dict[str, Any]:

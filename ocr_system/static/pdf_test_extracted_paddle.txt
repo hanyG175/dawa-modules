@@ -1,0 +1,70 @@
+PaddleOCR PDF Extraction Result
+============================================================
+Source PDF: static/test.pdf
+Pages: 1
+Processed Pages: 1
+Average Confidence: 95.54%
+Layout detected: True
+Layout blocks count: 1
+
+Layout Blocks
+------------------------------------------------------------
+[1] page=1 type=figure bbox=[398, 944, 2130, 2770]
+    text: Xycare? Par consequent I'utilisation de Lévocetirizine n'est pas recommandée au cours de I'allaitement et ne doit etre envisagée que si les benefices attendus pour la mere sont plus importants que le 
+
+Extracted Text
+------------------------------------------------------------
+Xycare'
+Lévocétirizine dichlorhydrate 5 mg
+comprimés pelliculés
+COMPOSITION
+Lévocétirizine dichlorhydrate ...
+Stæarate de magnesium.
+c les autres excipient
+padray whi
+Excipient aefet notire : lactose monohydrae... 3.50 mg
+@) FORME PHARMACEUTIQUE ET PRÉSENTATION
+Boite de 14 et de 28 comprimés ronds pelliculés, blancs, dosés á 5 mg.
+CLASSE PHARMACO-THÉRAPEUTIQUE
+Antihistaminique a usage systémique, dérivé de la pipérazine.
+INDICATIONS THÉRAPEUTIQUES
+) CONTRE-INDICATIONS
+isibilité a la lévocétirizine, á I'un des comp
+I est indispensable de demander I'avis de voti
+votre pharmacien.
+le profil c
+a pris
+dée ch
+déficit en lactase (mala
+Ne pas hésiter ä demander I'avis de votre médecin ou de votre pharmacien
+manipuler ún outl ou unemachin
+GROSSESSE ET ALLAITEMENT
+Falaitermen et ne dolt tre envisagee que si les bénefices attendus pur la mre sont
+oujours demander I'avis de votre médecin ou de votre pharmacien avant d'utilise
+lédicament.
+COMMENT PRENDRE CE MÉDICAMENT
+Mode d'administration : Voie
+ec une
+Enfants de 6 a 12 a
+est de 5 mg une fois par jour
+ez les enfants de moins de 6
+int la nécessit
+nsuffisant
+ans tous le
+médecin
+SURDOSAGE
+es symptön
+arrhées, vertige
+onfusionnel. tachycardie, tremblements et rétention rinaire.
+La lévocétirizine n'est pas liminée par hémodialyse.
+) EFFETS INDÉSIRABLES
+Les effets indsirables tels qu'asthénie et douleur abdominale ont été rarement observés
+s visuels.
+oubles card
+buccale, diarrhée.
+urticaire
+CONSERVATION
+0
+de la D.E..Algérie: 15/ 01 A054/2
+ires BIOCARE
+BIOCARE

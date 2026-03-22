@@ -8,6 +8,7 @@ from .processors.pdf_processor import PDFProcessor
 from .processors.image_processor import ImageProcessor
 from .data_extraction import DataExtractor
 from .pipeline import StandardOCRPipeline
+from .simple_pipeline import SimpleOCRPipeline
 from .interfaces import (
     OCRPipeline,
     DataCleanerInterface,
@@ -23,6 +24,7 @@ __all__ = [
     "ImageProcessor",
     "DataExtractor",
     "StandardOCRPipeline",
+    "SimpleOCRPipeline",
     "OCRPipeline",
     "DataCleanerInterface",
     "SearchEngineInterface",

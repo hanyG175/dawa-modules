@@ -1,69 +1,54 @@
-import PIL
-from PIL import Image
-import pytesseract
+"""Simple OCR demo: process image/pdf and save txt outputs."""
+
+from pathlib import Path
 import os
-from src.ocr import StandardOCRPipeline
-from src.ocr.processors.image_processor import ImageProcessor
-from src.ocr.processors.pdf_processor import PDFProcessor
-from src.ocr.data_extraction import DataExtractor
-from matplotlib import pyplot as plt
+
+from src.ocr import SimpleOCRPipeline
 
 
-pipeline = StandardOCRPipeline()
-extractor = DataExtractor()
+def _load_local_env(env_path: Path) -> None:
+	"""Load key=value pairs from a small local .env file if present."""
+	if not env_path.exists():
+		return
 
-# Process image through cleaning pipeline
-cleaned_results = pipeline.process_pdf("med.pdf")
-
-# Export to CSV
-print("\n" + "="*60)
-print("EXPORTING TO CSV")
-print("="*60)
-
-try:
-    # Export as flattened format (single row)
-    csv_path = extractor.save_extracted_data_to_csv(cleaned_results, "ocr_results.csv")
-    print(f"✓ Exported to {csv_path}")
-    
-    # Export with raw text included
-    csv_path_text = extractor.save_extracted_data_to_csv(
-        cleaned_results, 
-        "ocr_results_with_text.csv",
-        include_raw_text=True
-    )
-    print(f"✓ Exported (with raw text) to {csv_path_text}")
-    
-except Exception as e:
-    print(f"✗ Error exporting to CSV: {e}")
-#-------------------------------------------------------------------------
-# # Image comaprision original vs processed
-# original_image =  Image.open("Screenshot 2025-12-12 234708.png")
-
-# processed_image = ImageProcessor(enhance_quality=True).process("Screenshot 2025-12-12 234708.png")
-# image = ImageProcessor(enhance_quality=True).process("Screenshot 2025-12-12 234708.png")
-
-# fig, axes = plt.subplots(1, 2, figsize=(12, 5))
-# axes[0].imshow(original_image)
-# axes[0].set_title('Original Image')
-# axes[0].axis('off')
-# axes[1].imshow(image)
-# axes[1].set_title('Processed Image')
-# axes[1].axis('off')
-# plt.show()
-
-#------------------------------------------------------
-# Testing the PDF processor
-
-# pdf_processor = PDFProcessor(dpi=300)
-# pdf_images = pdf_processor.process("med.pdf")
-# print(f"Extracted {len(pdf_images)} pages from PDF.")
+	for line in env_path.read_text(encoding="utf-8").splitlines():
+		stripped = line.strip()
+		if not stripped or stripped.startswith("#") or "=" not in stripped:
+			continue
+		key, value = stripped.split("=", 1)
+		key = key.strip()
+		value = value.strip().strip('"').strip("'")
+		if key and key not in os.environ:
+			os.environ[key] = value
 
 
-# fig, axes = plt.subplots(1, 2, figsize=(12, 5))
-# axes[0].imshow(pdf_images[0])  # Show the first page as original
-# axes[0].set_title('1st Page of PDF')
-# axes[0].axis('off')
-# axes[1].imshow(pdf_images[-1])
-# axes[1].set_title('Last Page of PDF')
-# axes[1].axis('off')
-# plt.show()
+def main() -> None:
+	_load_local_env(Path("src/ocr/.env"))
+	print("Loaded OCR_LANGUAGES:", os.environ.get("OCR_LANGUAGES", "(not set)"))
+	print("Loaded TESSDATA_PREFIX:", os.environ.get("TESSDATA_PREFIX", "(not set)"))
+	print()
+
+	pipeline = SimpleOCRPipeline(languages=["fra"])
+
+	image_input = "static/test_1.jpg"
+	image_result = pipeline.process_image(image_input)
+	image_output = pipeline.save_result_txt(image_result, "static/test_2_ocr.txt")
+
+	print("[IMAGE]")
+	print(f"Success: {image_result.get('success')}")
+	print(f"Confidence: {image_result.get('confidence', 0.0):.2%}")
+	print(f"Saved: {image_output}")
+
+	# pdf_input = "static/test.pdf"
+	# pdf_result = pipeline.process_document(pdf_input)
+	# pdf_output = pipeline.save_result_txt(pdf_result, "static/test_pdf_ocr_1.txt")
+
+	# print("\n[PDF]")
+	# print(f"Success: {pdf_result.get('success')}")
+	# print(f"Pages: {pdf_result.get('page_count', 0)}")
+	# print(f"Avg confidence: {pdf_result.get('average_confidence', 0.0):.2%}")
+	# print(f"Saved: {pdf_output}")
+
+
+if __name__ == "__main__":
+	main()

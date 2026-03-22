@@ -1,0 +1,11 @@
+Simple OCR Result
+============================================================
+Source: static/test_1.jpg
+Type: image
+Success: True
+Languages: fra
+Confidence: 70.32%
+
+Extracted text
+------------------------------------------------------------
+“ « x £ , Â Anîq‘fen louprotèns 600 ma 30 Camprimés pelliculés [\ 2 > ®® “ Pharmallian£? _ » d d

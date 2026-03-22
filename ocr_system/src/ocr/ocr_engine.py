@@ -7,15 +7,26 @@ from PIL import Image
 import pytesseract
 from pytesseract import Output
 
-# Configure pytesseract to use Tesseract executable if installed in default location
-tesseract_paths = [
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe",
-    r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
-]
-for path in tesseract_paths:
-    if os.path.exists(path):
-        pytesseract.pytesseract.pytesseract_cmd = path
-        break
+# Configure Tesseract paths from environment or defaults
+env_tesseract_cmd = os.environ.get("TESSERACT_CMD")
+env_tessdata_prefix = os.environ.get("TESSDATA_PREFIX")
+
+# Set executable
+if env_tesseract_cmd and os.path.exists(env_tesseract_cmd):
+    pytesseract.pytesseract.pytesseract_cmd = env_tesseract_cmd
+else:
+    tesseract_paths = [
+        r"C:\Program Files\Tesseract-OCR\tesseract.exe",
+        r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
+    ]
+    for path in tesseract_paths:
+        if os.path.exists(path):
+            pytesseract.pytesseract.pytesseract_cmd = path
+            break
+
+# Set TESSDATA_PREFIX for language data
+if env_tessdata_prefix:
+    os.environ["TESSDATA_PREFIX"] = env_tessdata_prefix
 
 logger = logging.getLogger(__name__)
 
@@ -27,7 +38,6 @@ class OCREngine:
     """
     
     SUPPORTED_LANGUAGES = {
-        "eng": "English",
         "fra": "French",
         "ara": "Arabic",
     }
@@ -42,7 +52,7 @@ class OCREngine:
             config: Custom Tesseract config string (advanced users)
         """
         self.logger = logging.getLogger(self.__class__.__name__)
-        self.languages = languages or ["eng"]
+        self.languages = languages or ["fr"]
         self.lang_string = "+".join(self.languages)
         
         # Default optimized config for medical documents
