@@ -60,14 +60,16 @@ class GoogleOCR:
                 },
                 media_body=MediaFileUpload(img_file, resumable=True)
             ).execute()
-            downloader = MediaIoBaseDownload(
-                io.FileIO(txt_file, 'wb'),
-                service.files().export_media(
-                    fileId=res['id'], mimeType="text/plain")
-            )
-            done = False
-            while done is False:
-                _, done = downloader.next_chunk()
+            
+            with io.FileIO(txt_file, 'wb') as fh:
+                downloader = MediaIoBaseDownload(
+                    fh,
+                    service.files().export_media(
+                        fileId=res['id'], mimeType="text/plain")
+                )
+                done = False
+                while done is False:
+                    _, done = downloader.next_chunk()
 
             service.files().delete(fileId=res['id']).execute()
             service.close()

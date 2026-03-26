@@ -86,9 +86,15 @@ class GoogleDriveOCRModule:
             )
         finally:
             if temp_input and temp_input.exists():
-                temp_input.unlink(missing_ok=True)
+                try:
+                    temp_input.unlink(missing_ok=True)
+                except OSError:
+                    pass
             if temp_output and temp_output.exists():
-                temp_output.unlink(missing_ok=True)
+                try:
+                    temp_output.unlink(missing_ok=True)
+                except OSError:
+                    pass
 
     def extract_batch_pdfs(self, files: Iterable[tuple[str, bytes]]) -> list[OCRResult]:
         results: list[OCRResult] = []
