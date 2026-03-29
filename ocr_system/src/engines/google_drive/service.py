@@ -6,14 +6,14 @@ from tempfile import NamedTemporaryFile
 from typing import Iterable
 
 try:
-    from OCRGoogle.GoogleOCR import GoogleOCR
+    from src.engines.google_drive.GoogleOCR import GoogleOCR
 except ModuleNotFoundError:
     import sys
 
-    project_root = Path(__file__).resolve().parents[2]
+    project_root = Path(__file__).resolve().parents[3]
     if str(project_root) not in sys.path:
         sys.path.insert(0, str(project_root))
-    from OCRGoogle.GoogleOCR import GoogleOCR
+    from src.engines.google_drive.GoogleOCR import GoogleOCR
 
 
 SUPPORTED_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".tif", ".tiff"}

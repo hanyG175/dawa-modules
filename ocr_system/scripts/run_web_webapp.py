@@ -4,7 +4,7 @@ from pathlib import Path
 
 def main():
     root = Path(__file__).parent.resolve()
-    webapp_path = root / "src" / "web_app" / "app.py"
+    webapp_path = root.parent / "src" / "web" / "app.py"
     
     # ensure it's loaded properly
     if not webapp_path.exists():

@@ -8,7 +8,7 @@ project_root = Path(__file__).resolve().parent.parent.parent
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
-from src.google_drive_ocr.service import GoogleDriveOCRModule
+from src.engines.google_drive.service import GoogleDriveOCRModule
 
 app = Flask(__name__)
 # Keep the temp files logic exactly the same, this just hooks to the web UI

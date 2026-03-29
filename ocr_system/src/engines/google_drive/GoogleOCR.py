@@ -17,8 +17,8 @@ class GoogleOCR:
 
         self.scopes = SCOPES
         self.application_name = APPLICATION_NAME
-        self.client_secret_file = str(Path(__file__).parent / CLIENT_SECRET_FILE)
-        self.credential_path = str(Path(__file__).parent / 'drive-python-quickstart.json')
+        self.client_secret_file = str(Path(__file__).parents[3] / 'credentials' / CLIENT_SECRET_FILE)
+        self.credential_path = str(Path(__file__).parents[3] / 'credentials' / 'drive-python-quickstart.json')
 
         store = Storage(self.credential_path)
         credentials = store.get()
@@ -128,3 +128,4 @@ if __name__ == '__main__':
     except Exception as e:
         print(f'OCR failed: {e}')
         raise SystemExit(1)
+
