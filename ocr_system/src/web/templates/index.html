@@ -42,22 +42,45 @@
         </div>
 
         <!-- Result Section -->
-        <div id="resultContainer" class="hidden bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
+        <div id="resultContainer" class="hidden bg-white p-8 rounded-2xl shadow-lg border border-gray-100 max-w-7xl mx-auto mt-8">
             <div class="flex justify-between items-center mb-6 border-b border-gray-100 pb-4">
                 <div class="flex items-center">
                     <svg class="w-6 h-6 text-green-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     <h2 class="text-2xl font-bold text-gray-800">Extraction Result</h2>
                 </div>
-                <div class="text-sm bg-gray-50 px-4 py-2 rounded-lg font-medium text-gray-600 flex space-x-4 border border-gray-200">
-                    <span id="charCount" class="text-indigo-600">Characters: 0</span>
-                    <span class="text-gray-300">|</span>
-                    <span id="wordCount" class="text-indigo-600">Words: 0</span>
+                <div class="flex items-center space-x-4">
+                    <div class="text-sm bg-gray-50 px-4 py-2 rounded-lg font-medium text-gray-600 flex space-x-4 border border-gray-200">
+                        <span id="charCount" class="text-indigo-600">Characters: 0</span>
+                        <span class="text-gray-300">|</span>
+                        <span id="wordCount" class="text-indigo-600">Words: 0</span>
+                    </div>
+                    <button id="runParseBtn" class="bg-gradient-to-r from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white font-bold py-2 px-6 rounded-lg shadow-md transition-all duration-200 transform hover:-translate-y-0.5 flex items-center h-full">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
+                        Parse Clinical Data
+                    </button>
                 </div>
             </div>
 
             <div id="errorMsg" class="hidden font-medium text-red-600 mb-6 bg-red-50 p-4 rounded-lg border border-red-100"></div>
             
-            <textarea id="resultTextarea" class="w-full h-96 bg-gray-50 border border-gray-300 rounded-xl p-6 text-gray-800 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent leading-relaxed text-base shadow-inner resize-y" readonly></textarea>
+            <div id="textAreasGrid" class="grid grid-cols-1 gap-6">
+                <div id="rawCol" class="flex flex-col">
+                    <h3 class="font-semibold text-gray-700 mb-2">Raw OCR Output</h3>
+                    <textarea id="resultTextarea" class="w-full h-[500px] bg-gray-50 border border-gray-300 rounded-xl p-6 text-gray-800 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent leading-relaxed text-base shadow-inner resize-y" readonly></textarea>
+                </div>
+
+                <div id="jsonCol" class="hidden flex-col">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="font-semibold text-emerald-700">Parsed Clinical Data</h3>
+                        <div class="flex space-x-1 bg-emerald-50 border border-emerald-100 rounded-lg p-1">
+                            <button id="viewFormattedBtn" class="px-4 py-1 text-sm rounded-md bg-white shadow-sm font-bold text-emerald-700 border border-gray-100 transition-all">Readable</button>
+                            <button id="viewJsonBtn" class="px-4 py-1 text-sm rounded-md text-gray-500 font-semibold hover:text-gray-700 border border-transparent hover:bg-white/50 transition-all">JSON</button>
+                        </div>
+                    </div>
+                    <textarea id="jsonTextarea" class="hidden w-full h-[500px] bg-gray-900 border border-emerald-500 rounded-xl p-6 text-emerald-400 font-mono focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent leading-relaxed text-sm shadow-inner resize-y" readonly></textarea>
+                    <div id="formattedView" class="w-full h-[500px] bg-white border border-emerald-500 rounded-xl p-6 text-gray-800 focus:outline-none overflow-y-auto leading-relaxed shadow-inner relative"></div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -76,6 +99,16 @@
             const errorMsg = document.getElementById('errorMsg');
             const charCount = document.getElementById('charCount');
             const wordCount = document.getElementById('wordCount');
+            
+            // Reset grid layout for safety
+            const textAreasGrid = document.getElementById('textAreasGrid');
+            const jsonCol = document.getElementById('jsonCol');
+            const runParseBtn = document.getElementById('runParseBtn');
+            textAreasGrid.classList.remove('lg:grid-cols-2');
+            jsonCol.classList.add('hidden');
+            runParseBtn.innerText = 'Parse Clinical Data';
+            runParseBtn.disabled = false;
+            runParseBtn.classList.remove('opacity-50', 'cursor-not-allowed');
 
             // Set UI to Loading state
             checkBtn.disabled = true;
@@ -118,6 +151,107 @@
                 checkBtn.classList.remove('opacity-70', 'cursor-not-allowed');
                 loading.classList.add('hidden');
             }
+        });
+
+        // Parse Button Logic
+        document.getElementById('runParseBtn').addEventListener('click', async () => {
+            const resultTextarea = document.getElementById('resultTextarea');
+            const jsonTextarea = document.getElementById('jsonTextarea');
+            const runParseBtn = document.getElementById('runParseBtn');
+            const textAreasGrid = document.getElementById('textAreasGrid');
+            const jsonCol = document.getElementById('jsonCol');
+            const errorMsg = document.getElementById('errorMsg');
+
+            if (!resultTextarea.value) return;
+
+            runParseBtn.disabled = true;
+            runParseBtn.classList.add('opacity-50', 'cursor-not-allowed');
+            runParseBtn.innerText = 'Parsing...';
+
+            try {
+                const response = await fetch('/api/parse', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: resultTextarea.value })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Update Grid to Side-by-Side
+                    textAreasGrid.classList.add('lg:grid-cols-2');
+                    jsonCol.classList.remove('hidden');
+                    
+                    // Format JSON output
+                    jsonTextarea.value = JSON.stringify(data.data, null, 4);
+
+                    // Format Readable HTML
+                    const labels = {
+                        'nom_medicament': '💊 Nom du Médicament',
+                        'indications': '🎯 Indications',
+                        'contre_indications': '🛑 Contre-indications',
+                        'precautions': '⚠️ Précautions d\'emploi',
+                        'interactions': '🔄 Interactions',
+                        'grossesse_allaitement': '🤰 Grossesse et Allaitement',
+                        'posologie': '⚕️ Posologie',
+                        'effets_indesirables': '🤢 Effets Indésirables',
+                        'conservation': '📦 Conservation',
+                        'composition': '🧪 Composition'
+                    };
+                    
+                    let formattedHtml = '';
+                    for (const key in labels) {
+                        if (data.data[key]) {
+                            formattedHtml += `<h4 class="text-emerald-800 font-bold mt-2 text-lg border-b border-emerald-100 pb-2">${labels[key]}</h4>`;
+                            formattedHtml += `<p class="whitespace-pre-wrap text-gray-700 mt-3 mb-6 text-sm bg-emerald-50 p-4 rounded-xl border border-emerald-100/50">${data.data[key]}</p>`;
+                        }
+                    }
+                    if (formattedHtml === '') {
+                        formattedHtml = '<div class="absolute inset-0 flex items-center justify-center"><p class="text-gray-400 font-medium">Aucune donnée trouvée.</p></div>';
+                    }
+                    document.getElementById('formattedView').innerHTML = formattedHtml;
+                    
+                    runParseBtn.innerText = 'Extraction Success';
+                } else {
+                    errorMsg.textContent = "Parse Error: " + (data.error || 'An error occurred.');
+                    errorMsg.classList.remove('hidden');
+                    runParseBtn.innerText = 'Parse Failed';
+                }
+            } catch (err) {
+                errorMsg.textContent = 'Failed to connect to parser backend.';
+                errorMsg.classList.remove('hidden');
+                runParseBtn.innerText = 'Parse Failed';
+            }
+        });
+
+        // Setup View Toggle Logic for the right column
+        const viewFormattedBtn = document.getElementById('viewFormattedBtn');
+        const viewJsonBtn = document.getElementById('viewJsonBtn');
+        const jsonTextarea = document.getElementById('jsonTextarea');
+        const formattedView = document.getElementById('formattedView');
+
+        viewFormattedBtn.addEventListener('click', () => {
+            formattedView.classList.remove('hidden');
+            jsonTextarea.classList.add('hidden');
+            
+            // Toggle Tab styling
+            viewFormattedBtn.classList.add('bg-white', 'shadow-sm', 'text-emerald-700', 'border-gray-100');
+            viewFormattedBtn.classList.remove('text-gray-500', 'border-transparent', 'hover:bg-white/50');
+            
+            viewJsonBtn.classList.remove('bg-white', 'shadow-sm', 'text-emerald-700', 'border-gray-100');
+            viewJsonBtn.classList.add('text-gray-500', 'border-transparent', 'hover:bg-white/50');
+        });
+
+        viewJsonBtn.addEventListener('click', () => {
+            jsonTextarea.classList.remove('hidden');
+            formattedView.classList.add('hidden');
+            
+            // Toggle Tab styling
+            viewJsonBtn.classList.add('bg-white', 'shadow-sm', 'text-emerald-700', 'border-gray-100');
+            viewJsonBtn.classList.remove('text-gray-500', 'border-transparent', 'hover:bg-white/50');
+            
+            viewFormattedBtn.classList.remove('bg-white', 'shadow-sm', 'text-emerald-700', 'border-gray-100');
+            viewFormattedBtn.classList.add('text-gray-500', 'border-transparent', 'hover:bg-white/50');
         });
     </script>
 </body>

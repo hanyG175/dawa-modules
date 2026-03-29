@@ -9,11 +9,12 @@ if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
 from src.engines.google_drive.service import GoogleDriveOCRModule
+from src.core.parsing.french_medical_parser import FrenchDrugNoticeParser
 
 app = Flask(__name__)
-# Keep the temp files logic exactly the same, this just hooks to the web UI
-# Initialize OCR module
+# Initialize OCR module and Parser
 service = GoogleDriveOCRModule()
+parser = FrenchDrugNoticeParser()
 
 @app.route('/')
 def index():
@@ -40,6 +41,25 @@ def extract():
             'words': result.words,
             'error': result.error
         })
+    except Exception as e:
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/api/parse', methods=['POST'])
+def parse_text():
+    data = request.get_json()
+    if not data or 'text' not in data:
+        return jsonify({'success': False, 'error': 'No text provided to parse'}), 400
+        
+    try:
+        raw_text = data['text']
+        parsed_obj = parser.parse(raw_text)
+        parsed_dict = parsed_obj.to_dict()
+        
+        # Remove the massive raw cleaned text string to keep the JSON output clean
+        if 'texte_brut_nettoye' in parsed_dict:
+            del parsed_dict['texte_brut_nettoye']
+            
+        return jsonify({'success': True, 'data': parsed_dict})
     except Exception as e:
         return jsonify({'success': False, 'error': str(e)}), 500
 
