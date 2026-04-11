@@ -9,12 +9,16 @@ if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
 from src.engines.google_drive.service import GoogleDriveOCRModule
-from src.core.parsing.french_medical_parser import FrenchDrugNoticeParser
+from src.core.parsing import FrenchDrugNoticeParser, PrescriptionParser, DrugBoxParser
 
 app = Flask(__name__)
-# Initialize OCR module and Parser
+# Initialize OCR module and Parsers
 service = GoogleDriveOCRModule()
-parser = FrenchDrugNoticeParser()
+parsers = {
+    'notice': FrenchDrugNoticeParser(),
+    'prescription': PrescriptionParser(),
+    'box': DrugBoxParser()
+}
 
 @app.route('/')
 def index():
@@ -50,18 +54,24 @@ def parse_text():
     if not data or 'text' not in data:
         return jsonify({'success': False, 'error': 'No text provided to parse'}), 400
         
+    doc_type = data.get('doc_type', 'notice')
+    if doc_type not in parsers:
+        return jsonify({'success': False, 'error': 'Invalid document type selected'}), 400
+        
     try:
         raw_text = data['text']
-        parsed_obj = parser.parse(raw_text)
+        active_parser = parsers[doc_type]
+        parsed_obj = active_parser.parse(raw_text)
         parsed_dict = parsed_obj.to_dict()
         
-        # Remove the massive raw cleaned text string to keep the JSON output clean
+        # Remove the massive raw cleaned text string to keep the JSON output clean (if present)
         if 'texte_brut_nettoye' in parsed_dict:
             del parsed_dict['texte_brut_nettoye']
             
-        return jsonify({'success': True, 'data': parsed_dict})
+        return jsonify({'success': True, 'data': parsed_dict, 'doc_type': doc_type})
     except Exception as e:
         return jsonify({'success': False, 'error': str(e)}), 500
+
 
 if __name__ == '__main__':
     print("Starting Flask Web App...")
