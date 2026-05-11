@@ -1,0 +1,19 @@
+{
+    "paracetamol": {
+        "interactions": {
+            "ibuprofene": "Risque accru de toxicité rénale et gastro-intestinale.",
+            "warfarine": "Le paracétamol peut augmenter l'effet anticoagulant de la warfarine, augmentant le risque de saignement."
+        }
+    },
+    "aspirine": {
+        "interactions": {
+            "ibuprofene": "L'ibuprofène peut interférer avec l'effet antiplaquettaire de l'aspirine.",
+            "clopidogrel": "Risque hémorragique considérablement augmenté."
+        }
+    },
+    "amoxicilline": {
+        "interactions": {
+            "methotrexate": "Augmentation de la toxicité du méthotrexate due à une diminution de l'excrétion rénale."
+        }
+    }
+}
