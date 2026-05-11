@@ -4,4 +4,13 @@ Data Cleaning/*/data
 Data Cleaning/*/output
 */output
 Data Cleaning/test_nomenclature.xlsx
-ocr_system/data/sample_images/*
+Data Cleaning/colab_all_final_translated_results-20260415T173352Z-3-001
+Data Cleaning/Database_Exports
+Data Cleaning/*/*.csv
+Data Cleaning/Database_Exports_cleaned
+Data Cleaning/backups
+Data Cleaning/Data_Cleaned_NonRAG
+Data Cleaning/*.csv
+Data Cleaning/*/*.json
+Data Cleaning/old
+frontend
