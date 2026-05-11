@@ -7,19 +7,22 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 import pandas as pd
 
 
-ROOT_DIR = Path("french_medicines")
-OUT_DIR = Path("French")
+ROOT_DIR = Path("French/data")
+OUT_DIR = Path("French/output")
 
 # Source priority by field (best-practice: official source first for clinical text)
 FIELD_PRIORITY = {
-    "full_name": ["gov-api", "vidal", "pharmanet"],
+    "full_name": ["pharmanet", "gov-api", "vidal"],
     "brand_name": ["pharmanet", "vidal", "gov-api"],
-    "dci": ["vidal", "gov-api", "pharmanet"],
+    "dci": ["pharmanet", "vidal", "gov-api"],
     "form": ["pharmanet", "vidal", "gov-api"],
     "dosage": ["pharmanet", "vidal", "gov-api"],
     "conditionnement": ["pharmanet", "vidal", "gov-api"],
     "laboratory": ["pharmanet", "vidal", "gov-api"],
-    "market_status": ["vidal", "gov-api", "pharmanet"],
+    "pays": ["pharmanet"],
+    "tarif_reference_da": ["pharmanet"],
+    "ppa_da": ["pharmanet"],
+    "liste_prescription": ["pharmanet", "vidal", "gov-api"],
     "atc": ["gov-api", "vidal", "pharmanet"],
     "indications": ["gov-api", "vidal", "pharmanet"],
     "posology": ["gov-api", "vidal", "pharmanet"],
@@ -128,7 +131,9 @@ def safe_json_load(path: Path) -> Optional[Any]:
 
 
 def list_json_files(root: Path) -> List[Path]:
-    return sorted(root.rglob("*.json"))
+    files = sorted(root.rglob("*.json"))
+    # Exclude 'raw' directory which contains unscraped/raw individual files
+    return [f for f in files if "raw" not in f.parts]
 
 
 def get_instance_keys(root: Path, file_path: Path) -> Tuple[str, str]:
@@ -136,11 +141,27 @@ def get_instance_keys(root: Path, file_path: Path) -> Tuple[str, str]:
     Expected structure:
     french_medicines/{medicine_name}/{instance_id}/.../{file}.json
     """
-    rel = file_path.relative_to(root)
-    parts = rel.parts
-    medicine_name = parts[0] if len(parts) > 0 else ""
-    instance_id = parts[1] if len(parts) > 1 else ""
-    return medicine_name, instance_id
+    try:
+        # We need to extract the structure based on the known 'data/' anchor or directory hierarchy
+        # The file_path might be like ".../French/data/ABACAVIR_SULFATE_EXPERIME_EN_ABACAVIR/111/.../file.json"
+        
+        # We find the parts relative to the folder containing the actual medicines.
+        # If 'data' is part of the path, the medicine name is the folder right after 'data'.
+        parts = file_path.parts
+        if 'data' in parts:
+            data_index = parts.index('data')
+            medicine_name = parts[data_index + 1] if len(parts) > data_index + 1 else ""
+            instance_id = parts[data_index + 2] if len(parts) > data_index + 2 else ""
+        else:
+            # Fallback to the relative_to logic if 'data' is not present
+            rel = file_path.relative_to(root)
+            medicine_name = rel.parts[0] if len(rel.parts) > 0 else ""
+            instance_id = rel.parts[1] if len(rel.parts) > 1 else ""
+            
+        return medicine_name, instance_id
+    except Exception:
+        # Fallback just in case
+        return "unknown", "unknown"
 
 
 def extract_excel_meta(doc: Dict[str, Any]) -> Dict[str, str]:
@@ -192,7 +213,10 @@ def extract_vidal(doc: Dict[str, Any]) -> Dict[str, str]:
         "dosage": clean_text(doc.get("excel_meta", {}).get("dosage")),
         "conditionnement": clean_text(doc.get("excel_meta", {}).get("conditionnement")),
         "laboratory": clean_text((doc.get("laboratory", {}) or {}).get("name")),
-        "market_status": clean_text(doc.get("market_status")),
+        "pays": "",
+        "tarif_reference_da": "",
+        "ppa_da": "",
+        "liste_prescription": clean_text(doc.get("list")),
         "atc": clean_text("\n".join(atc_h) if atc_h else " | ".join(atc_codes)),
         "indications": clean_text((doc.get("sections", {}) or {}).get("indications", "")),
         "posology": clean_text(dci_data.get("posology_text") or flatten_to_text(dci_data.get("posology_structured"))),
@@ -224,7 +248,10 @@ def extract_gov(doc: Dict[str, Any]) -> Dict[str, str]:
         "dosage": clean_text(doc.get("excel_meta", {}).get("dosage")),
         "conditionnement": clean_text(doc.get("excel_meta", {}).get("conditionnement")),
         "laboratory": clean_text(rcp.get("7._TITULAIRE_DE_L’AUTORISATION_DE_MISE_SUR_LE_MARCHE")),
-        "market_status": clean_text(doc.get("target", {}).get("StatutBdm")),
+        "pays": "",
+        "tarif_reference_da": "",
+        "ppa_da": "",
+        "liste_prescription": clean_text(doc.get("target", {}).get("ListeBdm") or rcp.get("liste")),
         "atc": atc_txt,
         "indications": clean_text(rcp.get("indications") or notice.get("qu_est_ce_que")),
         "posology": clean_text(rcp.get("posologie") or notice.get("comment_utiliser")),
@@ -247,7 +274,10 @@ def extract_pharmanet(doc: Dict[str, Any]) -> Dict[str, str]:
         "dosage": clean_text(doc.get("dosage_pharmanet") or doc.get("excel_meta", {}).get("dosage")),
         "conditionnement": clean_text(doc.get("conditionnement_pharmanet") or doc.get("excel_meta", {}).get("conditionnement")),
         "laboratory": clean_text(doc.get("laboratoire")),
-        "market_status": clean_text(doc.get("type", "")),
+        "pays": clean_text(doc.get("pays")),
+        "tarif_reference_da": clean_text(doc.get("tarif_reference_da")),
+        "ppa_da": clean_text(doc.get("ppa_da")),
+        "liste_prescription": clean_text(doc.get("liste")),
         "atc": clean_text(doc.get("code_dci", "") or doc.get("dci_code", "")),
         "indications": clean_text(doc.get("classe_therapeutique")),
         "posology": clean_text(doc.get("notice_text")),
@@ -309,7 +339,10 @@ def build_rag_content(row: Dict[str, Any]) -> str:
         ("Dosage", row.get("dosage")),
         ("Conditionnement", row.get("conditionnement")),
         ("Laboratoire", row.get("laboratory")),
-        ("Statut commercial", row.get("market_status")),
+        ("Pays", row.get("pays")),
+        ("Tarif de référence (DA)", row.get("tarif_reference_da")),
+        ("PPA (DA)", row.get("ppa_da")),
+        ("Liste de prescription", row.get("liste_prescription")),
         ("ATC", row.get("atc")),
         ("Indications", row.get("indications")),
         ("Posologie", row.get("posology")),
@@ -334,7 +367,12 @@ def main() -> None:
     json_files = list_json_files(ROOT_DIR)
     source_rows: List[Dict[str, Any]] = []
 
-    for fp in json_files:
+    print(f"Found {len(json_files)} JSON files to process. Starting extraction...")
+
+    for i, fp in enumerate(json_files, 1):
+        if i % 1000 == 0:
+            print(f"  Processed {i}/{len(json_files)} files...")
+            
         doc = safe_json_load(fp)
         if not doc:
             continue
