@@ -22,9 +22,8 @@ RUN pip install --no-cache-dir gunicorn
 # Copy the rest of the application code
 COPY . .
 
-# Expose the port the app runs on
-EXPOSE 5000
+# Expose the port Render assigns
+EXPOSE ${PORT}
 
-# Command to run the application using Gunicorn
-# Adjust 'src.web.app:app' if your Flask app object is located elsewhere natively
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--timeout", "120", "--workers", "2", "src.web.app:app"]
+# Run Gunicorn, binding to Render's dynamic port
+CMD ["gunicorn", "--bind", "0.0.0.0:${PORT}", "--timeout", "120", "--workers", "2", "src.web.app:app"]

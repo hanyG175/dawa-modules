@@ -175,7 +175,7 @@ def generate_llm_report():
     ddi_context = data.get('ddi_context', '')
     target_lang = data.get('language', 'fr')
     try:
-        llm_analysis = None # skipped, handled by separate endpoint now
+        llm_analysis = llm_engine.analyze_prescription(pres_dict, ddi_context, language=target_lang)
         return jsonify({'success': True, 'llm_report': llm_analysis})
     except Exception as e:
         return jsonify({'success': False, 'error': str(e)}), 500

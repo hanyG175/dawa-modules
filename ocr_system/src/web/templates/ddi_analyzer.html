@@ -94,7 +94,7 @@
                     </div>
 
                     <button type="submit" id="processBtn" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 pt-3 px-4 rounded-lg shadow-md transition-colors flex justify-center items-center">
-                        <span id="btnText">Traiter l'Ordonnance (OCR + LLM)</span>
+                        <span id="btnText">Traiter l'Ordonnance (OCR + DDI)</span>
                         <svg id="btnLoader" class="hidden animate-spin ml-2 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
                     </button>
                 </form>
@@ -104,22 +104,16 @@
             </div>
         </div>
 
-        <!-- Middle Row: Pre-Analysis JSON Data (OCR) -->
-        <div class="cyber-panel p-6" id="extractedDataPanel" style="display:none;">
-            <h2 class="text-xl font-bold mb-4 text-purple-800 border-b pb-2">Données Structurées (Avant LLM)</h2>
-            <div class="bg-slate-900 rounded-md p-4 overflow-hidden">
-                <pre id="jsonOutput" class="text-sm text-green-400 font-mono whitespace-pre-wrap overflow-auto h-64"></pre>
-            </div>
-        </div>
+        
 
         <!-- Bottom Rows: Static DDI Table Panel -->
         <div id="staticDdiPanel" class="cyber-panel overflow-hidden mb-6 hidden" style="border: 2px solid #ef4444;">
-            <div class="bg-red-50 px-6 py-4 border-b border-red-200 flex items-center justify-between">
+            <div id="ansmHeader" class="bg-red-50 px-6 py-4 border-b border-red-200 flex items-center justify-between">
                 <div>
-                    <h2 class="text-xl font-bold text-red-900">Interactions Identifiées (Thésaurus ANSM)</h2>
-                    <p class="text-sm text-red-700 mt-1">Alertes formelles de niveau clinique strict.</p>
+                    <h2 id="ansmTitle" class="text-xl font-bold text-red-900">Interactions Identifiées (Thésaurus ANSM)</h2>
+                    <p id="ansmSubtitle" class="text-sm text-red-700 mt-1">Alertes formelles de niveau clinique strict.</p>
                 </div>
-                <span class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-red-300">Base de Données Locale</span>
+                <span id="ansmBadge" class="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-red-300">Base de Données Locale</span>
             </div>
             <div class="p-0 overflow-x-auto">
                 <table class="w-full text-sm text-left text-gray-700">
@@ -138,7 +132,16 @@
             </div>
         </div>
 
-        <!-- Bottom Rows: LLM Panel -->
+        
+        <!-- LLM Generation Button -->
+        <div class="mt-8 mb-4 flex justify-center">
+            <button id="analyzeLlmBtn" class="hidden bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-transform transform hover:scale-105 flex items-center">
+                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                Générer le Rapport IA (OpenFDA + LLM)
+            </button>
+        </div>
+        
+<!-- Bottom Rows: LLM Panel -->
         <div class="cyber-panel p-6 flex flex-col relative" id="llmPanel">
              <!-- Loading Overlay -->
              <div id="llmOverlay" class="absolute inset-0 bg-white/80 backdrop-blur-sm z-10 flex flex-col justify-center items-center rounded-lg hidden">
@@ -164,6 +167,16 @@
         </div>
     </main>
 
+    <!-- Bottom: Pre-Analysis JSON Data (OCR) -->
+    <section class="container mx-auto px-4 mb-12" id="extractedDataSection" style="display:none;">
+        <div class="cyber-panel p-6">
+            <h2 class="text-xl font-bold mb-4 text-purple-800 border-b pb-2">Données Structurées (Avant LLM)</h2>
+            <div class="bg-slate-900 rounded-md p-4 overflow-hidden">
+                <pre id="jsonOutput" class="text-sm text-green-400 font-mono whitespace-pre-wrap overflow-auto h-64"></pre>
+            </div>
+        </div>
+    </section>
+
     <!-- Markdown Parser for JS -> Simple implementation -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
@@ -175,7 +188,7 @@
         const btnLoader = document.getElementById('btnLoader');
         const errorBox = document.getElementById('errorBox');
         const jsonOutput = document.getElementById('jsonOutput');
-        const extractedDataPanel = document.getElementById('extractedDataPanel');
+        const extractedDataPanel = document.getElementById('extractedDataSection');
         const llmOutput = document.getElementById('llmOutput');
         const llmOverlay = document.getElementById('llmOverlay');
         const loadingStageText = document.getElementById('loadingStageText');
@@ -200,7 +213,9 @@
         const showError = (msg) => {
             errorBox.textContent = msg;
             errorBox.classList.remove('hidden');
-            llmOverlay.classList.add('hidden');
+            if (llmOverlay) {
+                llmOverlay.classList.add('hidden');
+            }
             setLoading(false);
         };
 
@@ -211,11 +226,13 @@
                 btnText.textContent = "Traitement global...";
                 btnLoader.classList.remove('hidden');
                 errorBox.classList.add('hidden');
-                llmOverlay.classList.remove('hidden');
+                if (llmOverlay) {
+                    llmOverlay.classList.remove('hidden');
+                }
             } else {
                 processBtn.disabled = false;
                 processBtn.classList.remove('opacity-75', 'cursor-not-allowed');
-                btnText.textContent = "Traiter l'Ordonnance (OCR + LLM)";
+                btnText.textContent = "Traiter l'Ordonnance (OCR + DDI)";
                 btnLoader.classList.add('hidden');
             }
         };
@@ -260,7 +277,7 @@
             }
 
             // --- Phase 2: DDI & LLM Analysis API Call ---
-            updateStage("Étape 2/3 : Parsing, OpenFDA/Neo4j et Inférence LLM...\n(Cela peut prendre ~30s)");
+            updateStage("Étape 2/3 : Parsing, OpenFDA/Neo4j et DDI ANSM...\n(Cela peut prendre ~30s)");
             try {
                 const targetLang = document.getElementById('langSelect').value;
                 const ddiResponse = await fetch('/api/analyze_prescription', {
@@ -300,7 +317,7 @@
             }
 
             setLoading(true);
-            updateStage("Recherche DCI/INN, OpenFDA, Neo4j et Inférence LLM...");
+            updateStage("Recherche DCI/INN, OpenFDA, Neo4j et DDI ANSM...");
 
             try {
                 const targetLang = document.getElementById('langSelect').value;
@@ -328,111 +345,181 @@
             }
         });
 
+        let currentAnalysisData = null;
+        let currentTargetLang = 'fr';
+
         function renderAnalysis(analysisData, targetLang) {
+            currentAnalysisData = analysisData;
+            currentTargetLang = targetLang;
+
             // Show Parsed Data
-                extractedDataPanel.style.display = 'block';
-                jsonOutput.textContent = JSON.stringify(analysisData.parsed_prescription, null, 2);
+            extractedDataPanel.style.display = 'block';
+            jsonOutput.textContent = JSON.stringify(analysisData.parsed_prescription, null, 2);
+            
+            // Render Static DDI Table if we have ANSM pairs
+            staticDdiPanel.classList.remove('hidden');
+            ddiTableBody.innerHTML = ''; // clear old rows
 
-                // Render Static DDI Table if we have ANSM pairs
-                staticDdiPanel.classList.remove('hidden');
-                ddiTableBody.innerHTML = ''; // clear old rows
-                if (analysisData.ansm_pairs && analysisData.ansm_pairs.length > 0) {
-                    analysisData.ansm_pairs.forEach((pair, idx) => {
-                        let severities = Array.isArray(pair.severity) ? pair.severity : [pair.severity];
-                        
-                        let severityHtml = severities.map(sev => {
-                            let severityClass = "bg-red-50 text-red-700";
-                            if(sev.toLowerCase().includes("déconseill") || sev.toLowerCase().includes("precaution")) {
-                                severityClass = "bg-yellow-50 text-yellow-700";
-                            }
-                            return `<span class="px-2 py-1 rounded text-[10px] font-bold uppercase tracking-wider border border-current mb-1 block w-fit ${severityClass}">${sev}</span>`;
-                        }).join('');
+            const tableHeader = document.getElementById('ansmHeader');
+            const tableTitle = document.getElementById('ansmTitle');
+            const tableSubText = document.getElementById('ansmSubtitle');
+            const tableBadge = document.getElementById('ansmBadge');
 
-                        let riskHtml = "";
-                        if (Array.isArray(pair.risk)) {
-                            for(let i=0; i<pair.risk.length; i++) {
-                                riskHtml += `<div class="mb-2"><strong class="text-sm text-gray-800">${severities[i] || 'Risque'}</strong>: ${pair.risk[i]}<br/>`;
-                                if (pair.management && pair.management[i]) {
-                                    let mgmt = pair.management[i];
-                                    let isLong = mgmt.length > 100;
-                                    let mgmtId = `mgmt-${idx}-${i}`;
-                                    if(isLong) {
-                                        riskHtml += `<span class="italic text-gray-600">Conduite:</span> <span id="${mgmtId}-short">${mgmt.substring(0, 100)}...</span> <span id="${mgmtId}-full" class="hidden">${mgmt}</span> <button onclick="document.getElementById('${mgmtId}-short').classList.toggle('hidden'); document.getElementById('${mgmtId}-full').classList.toggle('hidden'); this.textContent = this.textContent === 'Voir plus' ? 'Voir moins' : 'Voir plus';" class="text-xs text-blue-500 hover:text-blue-700 underline focus:outline-none">Voir plus</button></div>`;
-                                    } else {
-                                        riskHtml += `<span class="italic text-gray-600">Conduite:</span> ${mgmt}</div>`;
-                                    }
-                                } else {
-                                    riskHtml += `</div>`;
-                                }
-                            }
-                        } else {
-                            riskHtml = `<div class="mb-2">${pair.risk}</div>`;
-                            if (pair.management) {
-                                let mgmt = pair.management;
+            if (analysisData.ansm_pairs && analysisData.ansm_pairs.length > 0) {
+                // RED ALERT THEME
+                staticDdiPanel.style.border = '2px solid #ef4444';
+                if(tableHeader) tableHeader.className = 'bg-red-50 px-6 py-4 border-b border-red-200 flex items-center justify-between';
+                if (tableTitle) tableTitle.className = 'text-xl font-bold text-red-900';
+                if (tableSubText) tableSubText.className = 'text-sm text-red-700 mt-1';
+                if (tableBadge) tableBadge.className = 'bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-red-300';
+                
+                analysisData.ansm_pairs.forEach((pair, idx) => {
+                    let severities = Array.isArray(pair.severity) ? pair.severity : [pair.severity];
+                    let severityHtml = severities.map(sev => {
+                        let severityClass = "bg-red-50 text-red-700";
+                        if(sev.toLowerCase().includes("déconseill") || sev.toLowerCase().includes("precaution")) {
+                            severityClass = "bg-yellow-50 text-yellow-700";
+                        }
+                        return `<span class="px-2 py-1 rounded text-[10px] font-bold uppercase tracking-wider border border-current mb-1 block w-fit ${severityClass}">${sev}</span>`;
+                    }).join('');
+
+                    let riskHtml = "";
+                    if (Array.isArray(pair.risk)) {
+                        for(let i=0; i<pair.risk.length; i++) {
+                            riskHtml += `<div class="mb-2"><strong class="text-sm text-gray-800">${severities[i] || 'Risque'}</strong>: ${pair.risk[i]}<br/>`;
+                            if (pair.management && pair.management[i]) {
+                                let mgmt = pair.management[i];
                                 let isLong = mgmt.length > 100;
-                                let mgmtId = `mgmt-${idx}`;
+                                let mgmtId = `mgmt-${idx}-${i}`;
                                 if(isLong) {
-                                    riskHtml += `<div class="mt-1"><span class="italic text-gray-600">Conduite:</span> <span id="${mgmtId}-short">${mgmt.substring(0, 100)}...</span> <span id="${mgmtId}-full" class="hidden">${mgmt}</span> <button onclick="document.getElementById('${mgmtId}-short').classList.toggle('hidden'); document.getElementById('${mgmtId}-full').classList.toggle('hidden'); this.textContent = this.textContent === 'Voir plus' ? 'Voir moins' : 'Voir plus';" class="text-xs text-blue-500 hover:text-blue-700 underline focus:outline-none">Voir plus</button></div>`;
+                                    riskHtml += `<span class="italic text-gray-600">Conduite:</span> <span id="${mgmtId}-short">${mgmt.substring(0, 100)}...</span> <span id="${mgmtId}-full" class="hidden">${mgmt}</span> <button onclick="document.getElementById('${mgmtId}-short').classList.toggle('hidden'); document.getElementById('${mgmtId}-full').classList.toggle('hidden'); this.textContent = this.textContent === 'Voir plus' ? 'Voir moins' : 'Voir plus';" class="text-xs text-blue-500 hover:text-blue-700 underline focus:outline-none">Voir plus</button></div>`;
                                 } else {
-                                    riskHtml += `<div class="mt-1"><span class="italic text-gray-600">Conduite:</span> ${mgmt}</div>`;
+                                    riskHtml += `<span class="italic text-gray-600">Conduite:</span> ${mgmt}</div>`;
                                 }
+                            } else {
+                                riskHtml += `</div>`;
                             }
                         }
+                    } else {
+                        riskHtml = `<div class="mb-2">${pair.risk}</div>`;
+                        if (pair.management) {
+                            let mgmt = pair.management;
+                            let isLong = mgmt.length > 100;
+                            let mgmtId = `mgmt-${idx}`;
+                            if(isLong) {
+                                riskHtml += `<div class="mt-1"><span class="italic text-gray-600">Conduite:</span> <span id="${mgmtId}-short">${mgmt.substring(0, 100)}...</span> <span id="${mgmtId}-full" class="hidden">${mgmt}</span> <button onclick="document.getElementById('${mgmtId}-short').classList.toggle('hidden'); document.getElementById('${mgmtId}-full').classList.toggle('hidden'); this.textContent = this.textContent === 'Voir plus' ? 'Voir moins' : 'Voir plus';" class="text-xs text-blue-500 hover:text-blue-700 underline focus:outline-none">Voir plus</button></div>`;
+                            } else {
+                                riskHtml += `<div class="mt-1"><span class="italic text-gray-600">Conduite:</span> ${mgmt}</div>`;
+                            }
+                        }
+                    }
 
-                        let dciClassHtml = `
-                            <div class="mb-1"><span class="font-semibold text-gray-800">${pair.drug_a_dci || pair.drug_a}</span> <span class="text-xs text-gray-500">(${pair.class_a || 'Substance principale'})</span></div>
-                            <div class="text-xs text-gray-400 italic my-1">associé à</div>
-                            <div><span class="font-semibold text-gray-800">${pair.drug_b_dci || pair.drug_b}</span> <span class="text-xs text-gray-500">(${pair.class_b || 'Substance principale'})</span></div>
-                        `;
+                    let dciClassHtml = `
+                        <div class="mb-1"><span class="font-semibold text-gray-800">${pair.drug_a_dci || pair.drug_a}</span> <span class="text-xs text-gray-500">(${pair.class_a || 'Substance principale'})</span></div>
+                        <div class="text-xs text-gray-400 italic my-1">associé à</div>
+                        <div><span class="font-semibold text-gray-800">${pair.drug_b_dci || pair.drug_b}</span> <span class="text-xs text-gray-500">(${pair.class_b || 'Substance principale'})</span></div>
+                    `;
 
-                        const rowHTML = `
-                            <tr class="hover:bg-gray-50 transition-colors">
-                                <td class="px-6 py-4 font-bold text-gray-900 border-r border-gray-100">
-                                    <div class="flex flex-col">
-                                        <span class="text-indigo-600">${pair.original_a || pair.drug_a}</span>
-                                        <span class="text-xs text-gray-400 font-normal italic my-1">associé à</span>
-                                        <span class="text-indigo-600">${pair.original_b || pair.drug_b}</span>
-                                    </div>
-                                </td>
-                                <td class="px-6 py-4 text-sm border-r border-gray-100">
-                                    ${dciClassHtml}
-                                </td>
-                                <td class="px-3 py-4 border-r border-gray-100">
-                                    ${severityHtml}
-                                </td>
-                                <td class="px-6 py-4 text-gray-700 font-medium text-sm">
-                                    ${riskHtml}
-                                </td>
-                            </tr>
-                        `;
-                        ddiTableBody.insertAdjacentHTML('beforeend', rowHTML);
-                    });
-                } else {
-                    const emptyRow = `
-                        <tr class="bg-gray-50">
-                            <td colspan="4" class="px-6 py-8 text-center text-gray-500 font-medium italic">
-                                Aucune interaction sévère identifiée dans le thésaurus ANSM pour ces molécules.
+                    const rowHTML = `
+                        <tr class="hover:bg-gray-50 transition-colors">
+                            <td class="px-6 py-4 font-bold text-gray-900 border-r border-gray-100">
+                                <div class="flex flex-col">
+                                    <span class="text-indigo-600">${pair.original_a || pair.drug_a}</span>
+                                    <span class="text-xs text-gray-400 font-normal italic my-1">associé à</span>
+                                    <span class="text-indigo-600">${pair.original_b || pair.drug_b}</span>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 text-sm border-r border-gray-100">
+                                ${dciClassHtml}
+                            </td>
+                            <td class="px-3 py-4 border-r border-gray-100">
+                                ${severityHtml}
+                            </td>
+                            <td class="px-6 py-4 text-gray-700 font-medium text-sm">
+                                ${riskHtml}
                             </td>
                         </tr>
                     `;
-                    ddiTableBody.insertAdjacentHTML('beforeend', emptyRow);
-                }
+                    ddiTableBody.insertAdjacentHTML('beforeend', rowHTML);
+                });
+            } else {
+                // GREEN SUCCESS THEME
+                staticDdiPanel.style.border = '2px solid #22c55e'; 
+                if(tableHeader) tableHeader.className = 'bg-green-50 px-6 py-4 border-b border-green-200 flex items-center justify-between';
+                if (tableTitle) tableTitle.className = 'text-xl font-bold text-green-900';
+                if (tableSubText) tableSubText.className = 'text-sm text-green-700 mt-1';
+                if (tableBadge) tableBadge.className = 'bg-green-100 text-green-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-green-300';
+                
+                const emptyRow = `
+                    <tr class="bg-gray-50">
+                        <td colspan="4" class="px-6 py-8 text-center text-green-600 font-bold italic">
+                            ✓ Aucune interaction nocive identifiée dans le thésaurus ANSM pour ces molécules.
+                        </td>
+                    </tr>
+                `;
+                ddiTableBody.insertAdjacentHTML('beforeend', emptyRow);
+            }
 
-                // Show LLM Markdown
-                updateStage("Étape 3/3 : Finalisation...");
-                llmOutput.innerHTML = marked.parse(analysisData.llm_report);
-
-                // Handle RTL for Arabic
-                if (targetLang === 'ar') {
-                    llmOutput.setAttribute('dir', 'rtl');
-                    llmOutput.classList.add('text-right');
-                    llmOutput.classList.remove('text-left');
-                } else {
-                    llmOutput.setAttribute('dir', 'ltr');
-                    llmOutput.classList.remove('text-right');
-                    llmOutput.classList.add('text-left');
-                }
+            // Show LLM Button properly
+            const analyzeLlmBtn = document.getElementById('analyzeLlmBtn');
+            if (analyzeLlmBtn) {
+                analyzeLlmBtn.classList.remove('hidden');
+            }
+            llmOutput.innerHTML = '<div class="flex flex-col items-center justify-center h-full text-slate-400"><p class="text-center">Cliquez sur le bouton violet ci-dessus pour générer le rapport IA (OpenFDA + Qwen LLM).</p></div>';
         }
-    </script>
+
+        // Setup the new Event Listener
+        document.addEventListener('DOMContentLoaded', () => {
+            const analyzeBtn = document.getElementById('analyzeLlmBtn');
+            if (analyzeBtn) {
+                analyzeBtn.addEventListener('click', async () => {
+                    if (!currentAnalysisData) return;
+
+                    analyzeBtn.disabled = true;
+                    analyzeBtn.innerHTML = '<svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> Génération du Rapport IA en cours...';
+                    
+                    llmOverlay.classList.remove('hidden');
+                    updateStage("Interrogation du modèle IA (Qwen) avec les données OpenFDA...");
+                    
+                    try {
+                        const response = await fetch('/api/generate_llm_report', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({
+                                parsed_prescription: currentAnalysisData.parsed_prescription,
+                                ddi_context: currentAnalysisData.ddi_context,
+                                language: currentTargetLang
+                            })
+                        });
+
+                        const result = await response.json();
+
+                        if (result.success && result.llm_report) {
+                            llmOutput.innerHTML = marked.parse(result.llm_report);
+                            
+                            if (currentTargetLang === 'ar') {
+                                llmOutput.setAttribute('dir', 'rtl');
+                                llmOutput.classList.add('text-right');
+                                llmOutput.classList.remove('text-left');
+                            } else {
+                                llmOutput.setAttribute('dir', 'ltr');
+                                llmOutput.classList.remove('text-right');
+                                llmOutput.classList.add('text-left');
+                            }
+                        } else {
+                            llmOutput.innerHTML = `<div class="text-red-500">Erreur LLM: ${result.error || "Rapport vide"}</div>`;
+                        }
+                    } catch(e) {
+                        llmOutput.innerHTML = `<div class="text-red-500">Erreur critique LLM: ${e.message}</div>`;
+                    } finally {
+                        llmOverlay.classList.add('hidden');
+                        analyzeBtn.disabled = false;
+                        analyzeBtn.innerHTML = '<svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg> Régénérer le Rapport IA';
+                    }
+                });
+            }
+        });</script>
 </body>
 </html>
