@@ -2,6 +2,7 @@ import json
 import requests
 import pandas as pd
 import itertools
+import os
 from pathlib import Path
 from typing import Dict, List, Any
 try:
@@ -17,12 +18,20 @@ class DDIChecker:
     def __init__(self):
         # Neo4j setup
         self.driver = None
+        self.neo4j_database = os.getenv("NEO4J_DATABASE", "neo4j")
         if GraphDatabase:
             try:
-                uri = "neo4j+s://6c51198a.databases.neo4j.io"
-                username = "neo4j"
-                password = "iG2wNnspn5U91akemAvUI_TZskhTEX5ZTNDwDionEk4"
+                uri = os.getenv("NEO4J_URI", "")
+                username = os.getenv("NEO4J_USERNAME", "")
+                password = os.getenv("NEO4J_PASSWORD", "")
+
+                if not uri or not username or not password:
+                    print("Neo4j disabled: missing NEO4J_URI / NEO4J_USERNAME / NEO4J_PASSWORD environment variables.")
+                    return
+
                 self.driver = GraphDatabase.driver(uri, auth=(username, password))
+                self.driver.verify_connectivity()
+                print(f"Neo4j connected successfully: {uri} (db={self.neo4j_database})")
             except Exception as e:
                 print(f"Error connecting to Neo4j: {e}")
 
@@ -36,7 +45,7 @@ class DDIChecker:
         structured_pairs = []
 
         try:
-            with self.driver.session() as session:
+            with self.driver.session(database=self.neo4j_database) as session:
                 for d_info1, d_info2 in itertools.combinations(drugs_dci_structs, 2):
                     d1_orig = d_info1.get("original_query", "").strip()
                     d2_orig = d_info2.get("original_query", "").strip()

@@ -8,6 +8,7 @@ ENV PYTHONUNBUFFERED=1
 # Install minimal system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
+    ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
 # Set the working directory in the container

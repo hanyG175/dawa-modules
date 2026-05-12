@@ -377,7 +377,7 @@
                     let severities = Array.isArray(pair.severity) ? pair.severity : [pair.severity];
                     let severityHtml = severities.map(sev => {
                         let severityClass = "bg-red-50 text-red-700";
-                        if(sev.toLowerCase().includes("déconseill") || sev.toLowerCase().includes("precaution")) {
+                        if(sev.toLowerCase().includes("déconseill") || sev.toLowerCase().includes("precaution") || sev.toLowerCase().includes("DECONSEILL")) {
                             severityClass = "bg-yellow-50 text-yellow-700";
                         }
                         return `<span class="px-2 py-1 rounded text-[10px] font-bold uppercase tracking-wider border border-current mb-1 block w-fit ${severityClass}">${sev}</span>`;
