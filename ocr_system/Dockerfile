@@ -23,7 +23,7 @@ RUN pip install --no-cache-dir gunicorn
 COPY . .
 
 # Expose the port Render assigns
-EXPOSE ${PORT}
+EXPOSE $PORT
 
-# Run Gunicorn, binding to Render's dynamic port
-CMD ["gunicorn", "--bind", "0.0.0.0:${PORT}", "--timeout", "120", "--workers", "2", "src.web.app:app"]
+# Use shell form so $PORT expands correctly
+CMD gunicorn --bind 0.0.0.0:$PORT --timeout 120 --workers 2 src.web.app:app

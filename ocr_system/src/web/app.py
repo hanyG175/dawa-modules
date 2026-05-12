@@ -43,7 +43,7 @@ def extract():
         return jsonify({'success': False, 'error': 'No file part'}), 400
     
     file = request.files['file']
-    if file.filename == '':
+    if file.filename == '' or file.filename is None:
         return jsonify({'success': False, 'error': 'No selected file'}), 400
         
     try:
