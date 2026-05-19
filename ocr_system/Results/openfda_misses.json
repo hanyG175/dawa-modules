@@ -1,0 +1,2164 @@
+[
+  {
+    "inn": "mequitazine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "mequitazine"
+    ]
+  },
+  {
+    "inn": "rupatadine fumarate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "rupatadine fumarate",
+      "rupatadine"
+    ]
+  },
+  {
+    "inn": "bilastine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "bilastine"
+    ]
+  },
+  {
+    "inn": "ebastine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ebastine"
+    ]
+  },
+  {
+    "inn": "grass pollen allergenic extract",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "grass pollen allergenic extract"
+    ]
+  },
+  {
+    "inn": "alfentanil hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "alfentanil hydrochloride",
+      "alfentanil"
+    ]
+  },
+  {
+    "inn": "halothane",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "halothane"
+    ]
+  },
+  {
+    "inn": "thiopental sodium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "thiopental sodium",
+      "thiopental"
+    ]
+  },
+  {
+    "inn": "nefopam hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nefopam hydrochloride",
+      "nefopam"
+    ]
+  },
+  {
+    "inn": "dexketoprofen",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dexketoprofen"
+    ]
+  },
+  {
+    "inn": "niflumic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "niflumic acid"
+    ]
+  },
+  {
+    "inn": "morniflumate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "morniflumate"
+    ]
+  },
+  {
+    "inn": "diacerein",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "diacerein"
+    ]
+  },
+  {
+    "inn": "parecoxib",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "parecoxib"
+    ]
+  },
+  {
+    "inn": "etoricoxib",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "etoricoxib"
+    ]
+  },
+  {
+    "inn": "dexketoprofen trometamol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dexketoprofen trometamol"
+    ]
+  },
+  {
+    "inn": "lornoxicam",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lornoxicam"
+    ]
+  },
+  {
+    "inn": "alpha-amylase",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "alpha-amylase"
+    ]
+  },
+  {
+    "inn": "nintedanib esylate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nintedanib esylate"
+    ]
+  },
+  {
+    "inn": "clodronate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "clodronate"
+    ]
+  },
+  {
+    "inn": "vinflunine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vinflunine"
+    ]
+  },
+  {
+    "inn": "epidermal growth factor receptor conjugate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "epidermal growth factor receptor conjugate"
+    ]
+  },
+  {
+    "inn": "molsidomine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "molsidomine"
+    ]
+  },
+  {
+    "inn": "abciximab",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "abciximab"
+    ]
+  },
+  {
+    "inn": "moxonidine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "moxonidine"
+    ]
+  },
+  {
+    "inn": "lercanidipine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lercanidipine hydrochloride",
+      "lercanidipine"
+    ]
+  },
+  {
+    "inn": "perindopril ter-butylamine/indapamide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "perindopril ter-butylamine/indapamide",
+      "perindopril ter-butylamine"
+    ]
+  },
+  {
+    "inn": "perindopril arginine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "perindopril arginine"
+    ]
+  },
+  {
+    "inn": "perindopril arginine/indapamide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "perindopril arginine/indapamide",
+      "perindopril arginine"
+    ]
+  },
+  {
+    "inn": "valsartan, amlodipine besylate and hydrochlorothiazide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "valsartan, amlodipine besylate and hydrochlorothiazide"
+    ]
+  },
+  {
+    "inn": "amlodipine besylate, valsartan and hydrochlorothiazide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "amlodipine besylate, valsartan and hydrochlorothiazide"
+    ]
+  },
+  {
+    "inn": "perindopril arginine/indapamide/amlodipine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "perindopril arginine/indapamide/amlodipine",
+      "perindopril arginine"
+    ]
+  },
+  {
+    "inn": "levosimendan",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "levosimendan"
+    ]
+  },
+  {
+    "inn": "naftidrofuryl hydrogeno-oxalate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "naftidrofuryl hydrogeno-oxalate"
+    ]
+  },
+  {
+    "inn": "naftidrofuryl",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "naftidrofuryl"
+    ]
+  },
+  {
+    "inn": "ticlopidine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ticlopidine hydrochloride",
+      "ticlopidine"
+    ]
+  },
+  {
+    "inn": "trimetazidine dihydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "trimetazidine dihydrochloride",
+      "trimetazidine"
+    ]
+  },
+  {
+    "inn": "diosmine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "diosmine"
+    ]
+  },
+  {
+    "inn": "hydrosmine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hydrosmine"
+    ]
+  },
+  {
+    "inn": "fraction flavonoique purifiee",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "fraction flavonoique purifiee"
+    ]
+  },
+  {
+    "inn": "ginkgo biloba extract/heptaminol/troxerutine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ginkgo biloba extract/heptaminol/troxerutine",
+      "ginkgo biloba extract"
+    ]
+  },
+  {
+    "inn": "calcium dobesilate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "calcium dobesilate"
+    ]
+  },
+  {
+    "inn": "asiaticoside",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "asiaticoside"
+    ]
+  },
+  {
+    "inn": "chlortetracycline hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "chlortetracycline hydrochloride",
+      "chlortetracycline"
+    ]
+  },
+  {
+    "inn": "fusidic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "fusidic acid"
+    ]
+  },
+  {
+    "inn": "sodium fusidate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sodium fusidate"
+    ]
+  },
+  {
+    "inn": "nadifloxacin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nadifloxacin"
+    ]
+  },
+  {
+    "inn": "amorolfine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "amorolfine hydrochloride",
+      "amorolfine"
+    ]
+  },
+  {
+    "inn": "amorolfine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "amorolfine"
+    ]
+  },
+  {
+    "inn": "hydrocortisone aceponate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hydrocortisone aceponate"
+    ]
+  },
+  {
+    "inn": "prednicarbate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "prednicarbate"
+    ]
+  },
+  {
+    "inn": "hexamidine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hexamidine"
+    ]
+  },
+  {
+    "inn": "iode bisublime/ethanol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "iode bisublime/ethanol",
+      "iode bisublime"
+    ]
+  },
+  {
+    "inn": "gadoteric acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "gadoteric acid"
+    ]
+  },
+  {
+    "inn": "meglumine ioxithalamate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "meglumine ioxithalamate"
+    ]
+  },
+  {
+    "inn": "iobitridol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "iobitridol"
+    ]
+  },
+  {
+    "inn": "meglumine ioxithalamate/sodium ioxithalamate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "meglumine ioxithalamate/sodium ioxithalamate",
+      "meglumine ioxithalamate"
+    ]
+  },
+  {
+    "inn": "carbimazole",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carbimazole"
+    ]
+  },
+  {
+    "inn": "benzylthiouracil",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "benzylthiouracil"
+    ]
+  },
+  {
+    "inn": "nandrolone decanoate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nandrolone decanoate",
+      "nandrolone"
+    ]
+  },
+  {
+    "inn": "urofollitropin and lutropin alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "urofollitropin and lutropin alfa"
+    ]
+  },
+  {
+    "inn": "follitropin beta",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "follitropin beta"
+    ]
+  },
+  {
+    "inn": "dydrogesterone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dydrogesterone"
+    ]
+  },
+  {
+    "inn": "lynestrenol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lynestrenol"
+    ]
+  },
+  {
+    "inn": "nomegestrol acetate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nomegestrol acetate",
+      "nomegestrol"
+    ]
+  },
+  {
+    "inn": "dexlasoprazole",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dexlasoprazole"
+    ]
+  },
+  {
+    "inn": "phosphate d alluminium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "phosphate d alluminium"
+    ]
+  },
+  {
+    "inn": "diosmectite",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "diosmectite"
+    ]
+  },
+  {
+    "inn": "montmorillonite beidellitique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "montmorillonite beidellitique"
+    ]
+  },
+  {
+    "inn": "phloroglucinol/simethicone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "phloroglucinol/simethicone",
+      "phloroglucinol"
+    ]
+  },
+  {
+    "inn": "dimeticone/gaiazulene",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dimeticone/gaiazulene",
+      "dimeticone"
+    ]
+  },
+  {
+    "inn": "nifuroxazide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nifuroxazide"
+    ]
+  },
+  {
+    "inn": "tiemonium methylsulfate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "tiemonium methylsulfate"
+    ]
+  },
+  {
+    "inn": "tiemonium methyle sulfate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "tiemonium methyle sulfate",
+      "tiemonium methyle"
+    ]
+  },
+  {
+    "inn": "mebeverine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "mebeverine hydrochloride",
+      "mebeverine"
+    ]
+  },
+  {
+    "inn": "pinaverium bromide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "pinaverium bromide",
+      "pinaverium"
+    ]
+  },
+  {
+    "inn": "phloroglucinol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "phloroglucinol"
+    ]
+  },
+  {
+    "inn": "alverine/simethicone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "alverine/simethicone",
+      "alverine"
+    ]
+  },
+  {
+    "inn": "domperidone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "domperidone"
+    ]
+  },
+  {
+    "inn": "trimebutine maleate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "trimebutine maleate",
+      "trimebutine"
+    ]
+  },
+  {
+    "inn": "metopimazine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "metopimazine"
+    ]
+  },
+  {
+    "inn": "saccharomyces boulardii",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "saccharomyces boulardii"
+    ]
+  },
+  {
+    "inn": "racecadotril",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "racecadotril"
+    ]
+  },
+  {
+    "inn": "diosmectile",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "diosmectile"
+    ]
+  },
+  {
+    "inn": "polyethylene glycol 3350, sodium sulfate, sodium bicarbonate, sodium chloride and potassium chloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "polyethylene glycol 3350, sodium sulfate, sodium bicarbonate, sodium chloride and potassium chloride",
+      "polyethylene glycol 3350, sodium sulfate, sodium bicarbonate, sodium chloride and potassium"
+    ]
+  },
+  {
+    "inn": "carraghenates/titanium dioxide/zinc oxide/lidocaine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carraghenates/titanium dioxide/zinc oxide/lidocaine",
+      "carraghenates"
+    ]
+  },
+  {
+    "inn": "carraghenates/titanium dioxide/zinc oxide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carraghenates/titanium dioxide/zinc oxide",
+      "carraghenates"
+    ]
+  },
+  {
+    "inn": "uree 13c",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "uree 13c"
+    ]
+  },
+  {
+    "inn": "tribenoside/lidocaine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "tribenoside/lidocaine",
+      "tribenoside"
+    ]
+  },
+  {
+    "inn": "promestriene",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "promestriene"
+    ]
+  },
+  {
+    "inn": "ornidazole",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ornidazole"
+    ]
+  },
+  {
+    "inn": "fenticonazole nitrate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "fenticonazole nitrate",
+      "fenticonazole"
+    ]
+  },
+  {
+    "inn": "atosiban",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "atosiban"
+    ]
+  },
+  {
+    "inn": "carbetocine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carbetocine"
+    ]
+  },
+  {
+    "inn": "ethinylestradiol/gestodene",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ethinylestradiol/gestodene",
+      "ethinylestradiol"
+    ]
+  },
+  {
+    "inn": "acenocoumarol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "acenocoumarol"
+    ]
+  },
+  {
+    "inn": "tinzaparin sodium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "tinzaparin sodium",
+      "tinzaparin"
+    ]
+  },
+  {
+    "inn": "sodium feredetate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sodium feredetate"
+    ]
+  },
+  {
+    "inn": "ferric iron",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ferric iron"
+    ]
+  },
+  {
+    "inn": "ferrous iron/folic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ferrous iron/folic acid",
+      "ferrous iron"
+    ]
+  },
+  {
+    "inn": "ferrous glycine sulfate/folic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ferrous glycine sulfate/folic acid",
+      "ferrous glycine sulfate",
+      "ferrous glycine"
+    ]
+  },
+  {
+    "inn": "complexe hydroxide ferrique polymaltose",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "complexe hydroxide ferrique polymaltose"
+    ]
+  },
+  {
+    "inn": "ferric iron/folic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ferric iron/folic acid",
+      "ferric iron"
+    ]
+  },
+  {
+    "inn": "ferric hydroxide polymaltose complex",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ferric hydroxide polymaltose complex"
+    ]
+  },
+  {
+    "inn": "ethamsylate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ethamsylate"
+    ]
+  },
+  {
+    "inn": "fibrinogen (human)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "fibrinogen (human)"
+    ]
+  },
+  {
+    "inn": "eftrenonacog alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "eftrenonacog alfa"
+    ]
+  },
+  {
+    "inn": "octocog alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "octocog alfa"
+    ]
+  },
+  {
+    "inn": "modified fluid gelatin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "modified fluid gelatin"
+    ]
+  },
+  {
+    "inn": "eptacog alfa (activated)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "eptacog alfa (activated)"
+    ]
+  },
+  {
+    "inn": "rho(d) immune globulin (human)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "rho(d) immune globulin (human)"
+    ]
+  },
+  {
+    "inn": "von willebrand factor (human)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "von willebrand factor (human)"
+    ]
+  },
+  {
+    "inn": "turoctocog alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "turoctocog alfa"
+    ]
+  },
+  {
+    "inn": "prothrombin complex concentrate (human)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "prothrombin complex concentrate (human)"
+    ]
+  },
+  {
+    "inn": "moroctocog alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "moroctocog alfa"
+    ]
+  },
+  {
+    "inn": "nonacog alpha",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nonacog alpha"
+    ]
+  },
+  {
+    "inn": "efmoroctocog alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "efmoroctocog alfa"
+    ]
+  },
+  {
+    "inn": "lenograstime",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lenograstime"
+    ]
+  },
+  {
+    "inn": "cephradine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "cephradine"
+    ]
+  },
+  {
+    "inn": "cefoperazone sodium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "cefoperazone sodium",
+      "cefoperazone"
+    ]
+  },
+  {
+    "inn": "ceftizoxime sodium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ceftizoxime sodium",
+      "ceftizoxime"
+    ]
+  },
+  {
+    "inn": "pristinamycin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "pristinamycin"
+    ]
+  },
+  {
+    "inn": "spiramycin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "spiramycin"
+    ]
+  },
+  {
+    "inn": "roxithromycin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "roxithromycin"
+    ]
+  },
+  {
+    "inn": "spiramycin/metronidazole",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "spiramycin/metronidazole",
+      "spiramycin"
+    ]
+  },
+  {
+    "inn": "norfloxacin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "norfloxacin"
+    ]
+  },
+  {
+    "inn": "gemifloxacin mesylate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "gemifloxacin mesylate",
+      "gemifloxacin"
+    ]
+  },
+  {
+    "inn": "boceprevir",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "boceprevir"
+    ]
+  },
+  {
+    "inn": "daclatasvir",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "daclatasvir"
+    ]
+  },
+  {
+    "inn": "influenza virus vaccine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "influenza virus vaccine"
+    ]
+  },
+  {
+    "inn": "vaccin grippal quadrivalent inactive a virion fragmente",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vaccin grippal quadrivalent inactive a virion fragmente"
+    ]
+  },
+  {
+    "inn": "vaccin pour la prevention du coronavirus covid-19",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vaccin pour la prevention du coronavirus covid-19"
+    ]
+  },
+  {
+    "inn": "sars-cov-2 antigen",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sars-cov-2 antigen"
+    ]
+  },
+  {
+    "inn": "vaccin pneumococcique polyosidique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vaccin pneumococcique polyosidique"
+    ]
+  },
+  {
+    "inn": "anatoxine diphterique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "anatoxine diphterique"
+    ]
+  },
+  {
+    "inn": "neisseria meningitidis groupe",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "neisseria meningitidis groupe"
+    ]
+  },
+  {
+    "inn": "vaccin papillomavirus humain (types 6,11,16,18,31,33,45,52,58) recombinant,adsorbe",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vaccin papillomavirus humain (types 6,11,16,18,31,33,45,52,58) recombinant,adsorbe"
+    ]
+  },
+  {
+    "inn": "vaccin meningococcique conjugue des groupes a,c,w et y",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vaccin meningococcique conjugue des groupes a,c,w et y"
+    ]
+  },
+  {
+    "inn": "teicoplanin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "teicoplanin"
+    ]
+  },
+  {
+    "inn": "gliclazide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "gliclazide"
+    ]
+  },
+  {
+    "inn": "metformin embonate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "metformin embonate"
+    ]
+  },
+  {
+    "inn": "gliquidone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "gliquidone"
+    ]
+  },
+  {
+    "inn": "vildagliptin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vildagliptin"
+    ]
+  },
+  {
+    "inn": "vildagliptin/metformin hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "vildagliptin/metformin hydrochloride",
+      "vildagliptin",
+      "vildagliptin/metformin"
+    ]
+  },
+  {
+    "inn": "calcium bromo-galactogluconate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "calcium bromo-galactogluconate"
+    ]
+  },
+  {
+    "inn": "magnesium pidolate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "magnesium pidolate"
+    ]
+  },
+  {
+    "inn": "oligoelements",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "oligoelements"
+    ]
+  },
+  {
+    "inn": "calcium pidolate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "calcium pidolate"
+    ]
+  },
+  {
+    "inn": "magnesium pidolate/magnesium -",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "magnesium pidolate/magnesium -",
+      "magnesium pidolate"
+    ]
+  },
+  {
+    "inn": "magnesium pidolate/magnesium-",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "magnesium pidolate/magnesium-",
+      "magnesium pidolate"
+    ]
+  },
+  {
+    "inn": "cholecalciferol and calcium carbonate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "cholecalciferol and calcium carbonate"
+    ]
+  },
+  {
+    "inn": "alfacalcidol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "alfacalcidol"
+    ]
+  },
+  {
+    "inn": "complexe vitaminique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "complexe vitaminique"
+    ]
+  },
+  {
+    "inn": "arginine aspartate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "arginine aspartate"
+    ]
+  },
+  {
+    "inn": "complexe vitaminique/oligoelements",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "complexe vitaminique/oligoelements",
+      "complexe vitaminique"
+    ]
+  },
+  {
+    "inn": "arginine aspartate/ascorbic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "arginine aspartate/ascorbic acid",
+      "arginine aspartate"
+    ]
+  },
+  {
+    "inn": "citrillune malate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "citrillune malate"
+    ]
+  },
+  {
+    "inn": "ornithine oxoglutarate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ornithine oxoglutarate"
+    ]
+  },
+  {
+    "inn": "purified soybean oil",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "purified soybean oil"
+    ]
+  },
+  {
+    "inn": "amino acids/glucose/lipids",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "amino acids/glucose/lipids",
+      "amino acids"
+    ]
+  },
+  {
+    "inn": "solution normo protidique normo energetique adulte",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "solution normo protidique normo energetique adulte"
+    ]
+  },
+  {
+    "inn": "lait sans phenylalanine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lait sans phenylalanine"
+    ]
+  },
+  {
+    "inn": "cow milk protein-free formula",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "cow milk protein-free formula"
+    ]
+  },
+  {
+    "inn": "lait en poudre sans phenylalanine sans tyrosine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "lait en poudre sans phenylalanine sans tyrosine"
+    ]
+  },
+  {
+    "inn": "recombinant human epidermal growth factor",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "recombinant human epidermal growth factor"
+    ]
+  },
+  {
+    "inn": "agalsidase alfa",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "agalsidase alfa"
+    ]
+  },
+  {
+    "inn": "idursulfase-beta",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "idursulfase-beta"
+    ]
+  },
+  {
+    "inn": "elosulfate alpha",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "elosulfate alpha"
+    ]
+  },
+  {
+    "inn": "citicoline",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "citicoline"
+    ]
+  },
+  {
+    "inn": "bromoisovaleryl ethyl ester/phenobarbital/peppermint oil",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "bromoisovaleryl ethyl ester/phenobarbital/peppermint oil",
+      "bromoisovaleryl ethyl ester"
+    ]
+  },
+  {
+    "inn": "mianserine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "mianserine hydrochloride",
+      "mianserine"
+    ]
+  },
+  {
+    "inn": "prazepam",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "prazepam"
+    ]
+  },
+  {
+    "inn": "etifoxine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "etifoxine hydrochloride",
+      "etifoxine"
+    ]
+  },
+  {
+    "inn": "bromazepam",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "bromazepam"
+    ]
+  },
+  {
+    "inn": "levomepromazine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "levomepromazine"
+    ]
+  },
+  {
+    "inn": "sulpiride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sulpiride"
+    ]
+  },
+  {
+    "inn": "oxybuprocaine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "oxybuprocaine"
+    ]
+  },
+  {
+    "inn": "n-acetylaspartylglutamic acid",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "n-acetylaspartylglutamic acid"
+    ]
+  },
+  {
+    "inn": "levocabastine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "levocabastine"
+    ]
+  },
+  {
+    "inn": "antazoline/naphazoline",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "antazoline/naphazoline",
+      "antazoline"
+    ]
+  },
+  {
+    "inn": "neomycin sulfate and triamcinolone acetonide",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "neomycin sulfate and triamcinolone acetonide"
+    ]
+  },
+  {
+    "inn": "rifamycin sodium",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "rifamycin sodium",
+      "rifamycin"
+    ]
+  },
+  {
+    "inn": "framycetine/dexamethasone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "framycetine/dexamethasone",
+      "framycetine"
+    ]
+  },
+  {
+    "inn": "oxytetracycline hydrochloride and dexamethasone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "oxytetracycline hydrochloride and dexamethasone"
+    ]
+  },
+  {
+    "inn": "picloxydine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "picloxydine hydrochloride",
+      "picloxydine"
+    ]
+  },
+  {
+    "inn": "carbomer",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carbomer"
+    ]
+  },
+  {
+    "inn": "n-acetyl- dl- leucine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "n-acetyl- dl- leucine"
+    ]
+  },
+  {
+    "inn": "betahistine dihydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "betahistine dihydrochloride",
+      "betahistine"
+    ]
+  },
+  {
+    "inn": "betahistine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "betahistine"
+    ]
+  },
+  {
+    "inn": "ginkgo (ginkgo biloba ) extrait quantifie",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ginkgo (ginkgo biloba ) extrait quantifie"
+    ]
+  },
+  {
+    "inn": "antipyrine and benzocaine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "antipyrine and benzocaine"
+    ]
+  },
+  {
+    "inn": "flubendazole",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "flubendazole"
+    ]
+  },
+  {
+    "inn": "artesunate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "artesunate"
+    ]
+  },
+  {
+    "inn": "meglumine antimoniate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "meglumine antimoniate"
+    ]
+  },
+  {
+    "inn": "dextromethorphan hydrobromide and pyrilamine maleate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dextromethorphan hydrobromide and pyrilamine maleate",
+      "dextromethorphan hydrobromide and pyrilamine"
+    ]
+  },
+  {
+    "inn": "dextromethorphan hydrobromide, pyrilamine maleate and guaifenesin",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dextromethorphan hydrobromide, pyrilamine maleate and guaifenesin"
+    ]
+  },
+  {
+    "inn": "pholcodine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "pholcodine"
+    ]
+  },
+  {
+    "inn": "oxeladine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "oxeladine"
+    ]
+  },
+  {
+    "inn": "oxomemazine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "oxomemazine"
+    ]
+  },
+  {
+    "inn": "sodium tenoate/eucalyptus oil",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sodium tenoate/eucalyptus oil",
+      "sodium tenoate"
+    ]
+  },
+  {
+    "inn": "sodium tenoate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sodium tenoate"
+    ]
+  },
+  {
+    "inn": "sodium tenoate/eucalyptus oil/acetaminophen",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "sodium tenoate/eucalyptus oil/acetaminophen",
+      "sodium tenoate"
+    ]
+  },
+  {
+    "inn": "pholcodine/erysimum extract",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "pholcodine/erysimum extract",
+      "pholcodine"
+    ]
+  },
+  {
+    "inn": "butamirate citrate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "butamirate citrate",
+      "butamirate"
+    ]
+  },
+  {
+    "inn": "carbocysteine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "carbocysteine"
+    ]
+  },
+  {
+    "inn": "ambroxol hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "ambroxol hydrochloride",
+      "ambroxol"
+    ]
+  },
+  {
+    "inn": "bromhexine hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "bromhexine hydrochloride",
+      "bromhexine"
+    ]
+  },
+  {
+    "inn": "bromhexine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "bromhexine"
+    ]
+  },
+  {
+    "inn": "inhalation balsams",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "inhalation balsams"
+    ]
+  },
+  {
+    "inn": "tolperisone hydrochloride",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "tolperisone hydrochloride",
+      "tolperisone"
+    ]
+  },
+  {
+    "inn": "thiocolchicoside",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "thiocolchicoside"
+    ]
+  },
+  {
+    "inn": "strontium ranelate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "strontium ranelate"
+    ]
+  },
+  {
+    "inn": "thiophene",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "thiophene"
+    ]
+  },
+  {
+    "inn": "framycetine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "framycetine"
+    ]
+  },
+  {
+    "inn": "framycetine/hydrocortisone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "framycetine/hydrocortisone",
+      "framycetine"
+    ]
+  },
+  {
+    "inn": "biclotymol/lysozyme/enoxolone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "biclotymol/lysozyme/enoxolone",
+      "biclotymol"
+    ]
+  },
+  {
+    "inn": "n-acetylaspartylglutamic acid magnesium salt",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "n-acetylaspartylglutamic acid magnesium salt"
+    ]
+  },
+  {
+    "inn": "hexetidine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hexetidine"
+    ]
+  },
+  {
+    "inn": "amylocaine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "amylocaine"
+    ]
+  },
+  {
+    "inn": "biclotymol",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "biclotymol"
+    ]
+  },
+  {
+    "inn": "hexetidine/choline salicylate/chlorbutanol hemihydratee",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hexetidine/choline salicylate/chlorbutanol hemihydratee",
+      "hexetidine"
+    ]
+  },
+  {
+    "inn": "nitroxoline",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "nitroxoline"
+    ]
+  },
+  {
+    "inn": "dialyse en poche isotonique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dialyse en poche isotonique"
+    ]
+  },
+  {
+    "inn": "dialyse en poche hypertonique",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dialyse en poche hypertonique"
+    ]
+  },
+  {
+    "inn": "hemodialysis concentrate bicarbonate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hemodialysis concentrate bicarbonate"
+    ]
+  },
+  {
+    "inn": "hemodialysis acid concentrate",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hemodialysis acid concentrate"
+    ]
+  },
+  {
+    "inn": "hemodialysis concentrate bicarbonate powder",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "hemodialysis concentrate bicarbonate powder"
+    ]
+  },
+  {
+    "inn": "mesterolone",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "mesterolone"
+    ]
+  },
+  {
+    "inn": "udenafil",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "udenafil"
+    ]
+  },
+  {
+    "inn": "dapoxetine",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "dapoxetine"
+    ]
+  },
+  {
+    "inn": "eosin aqueous solution",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "eosin aqueous solution"
+    ]
+  },
+  {
+    "inn": "mercurochrome",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "mercurochrome"
+    ]
+  },
+  {
+    "inn": "antithymocyte globulin (equine)",
+    "hit": false,
+    "matched_name": null,
+    "strategy": "miss",
+    "candidates": [
+      "antithymocyte globulin (equine)"
+    ]
+  }
+]
