@@ -81,3 +81,21 @@ More project guidance is in [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`
 ## Current limitations
 
 This is a research project being shaped into a publishable repository. The OCR, DDI, scraper, and data-cleaning components do not yet share one deployment pipeline, one database contract, or one automated CI workflow. Those boundaries are deliberate and documented so that future integration work can happen without hiding the current state.
+
+## Final UI and separately hosted components
+
+The **final UI is maintained outside this repository** and is not the frontend currently reproduced here. Its source repository, release status, and ownership should be confirmed before it is linked publicly.
+
+- UI repository: **link to be added after approval**
+- Presentation screenshots: stored in [`docs/screenshots`](docs/screenshots) when approved and sanitized
+- The screenshots in this repository should show synthetic or anonymized data only
+
+A **RAG assistant** is also used in the project. It is implemented with **RAGFlow and prompt engineering**, with the knowledge and conversation service hosted on a dedicated virtual machine.
+
+The RAG assistant is therefore documented as an external deployment rather than a self-contained module in this repository:
+
+- This repository does not include the private VM configuration or credentials.
+- This repository does not include private indexed documents or proprietary embeddings.
+- API endpoints and access procedures are documented only for authorized team members.
+
+This separation keeps the repository honest: cloning it provides the OCR, parsing, DDI, scraping, and data-cleaning components, while the final UI and hosted RAG service require separately maintained repositories or controlled infrastructure.
