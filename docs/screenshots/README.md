@@ -3,9 +3,13 @@
 This directory can contain approved, sanitized screenshots of the final user interface.
 
 Example README usage:
+## Home Page
+![Home_Page](../screenshots/home-page.png)
 
-![Home_Page](../screenshots/home_page.png)
-![AI_assistant_view](../screenshots/example_AI_assistant_view.png)
+## AI assistant
+![AI_assistant_view](../screenshots/example_ai_assistant_view.png)
+
+## DDI Page
 ![DDI_page](../screenshots/DDI-page.png)
 
 
