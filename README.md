@@ -1,35 +1,62 @@
-# Semantic Drug Search Engine
+# DAWA Modules: OCR, drug-interaction and data pipelines
 
-This repository contains the working parts of a graduation project for a semantic drug search and drug-interaction platform. It is organized as a small monorepo because the project includes several related applications and data workflows rather than one deployable service.
+Python components from DAWA, a graduation project on a medicine information assistant
+for Algeria. The repo covers the data and document-processing side of the project:
+prescription OCR, drug-name parsing, a drug-drug interaction (DDI) workflow, DrugBank
+extraction tools, and multilingual data cleaning.
+
+> **Not medical advice.** This is a research and learning project. It must not be used
+> to make decisions about medication. Always consult a doctor or pharmacist.
+
+## My contribution
+
+<!-- TODO: fill in before publishing. Keep only what is true and delete this comment. -->
+- **Built by me:** [list the modules you wrote, e.g. OCR parsing, DDI workflow, scrapers, data cleaning]
+- **Built with others:** [list modules written together, and with whom/what role]
+- **RAG assistant (not in this repo):** I prepared and cleaned the data it uses and designed
+  its prompts. The RAG framework is [RAGFlow](https://github.com/infiniflow/ragflow), which
+  I did not write, running on a hosted VM.
+
+## How the pieces fit
+
+```
+prescription / medicine image
+        |
+   ocr_system  ->  text
+        |
+   drug-name parsing  ->  list of drugs
+        |
+   ddi_module  ->  interaction check (Neo4j graph + OpenFDA, optional LLM summary)
+
+drug_scraper + data_cleaning  ->  the drug data the other parts rely on
+```
 
 ## Repository map
 
 | Directory | Purpose | Status |
 | --- | --- | --- |
-| [`ocr_system`](ocr_system) | OCR, document parsing, and the OCR web application | Active development |
-| [`ddi_module`](ddi_module) | Standalone prescription and drug-drug interaction workflow | Active development |
+| [`ocr_system`](ocr_system) | OCR, document parsing, and the OCR web app | Active development |
+| [`ddi_module`](ddi_module) | Prescription and drug-drug interaction workflow | Active development |
 | [`drug_scraper(drugbank)`](drug_scraper%28drugbank%29) | DrugBank scraping and XML extraction tools | Active development |
-| [`data_cleaning`](data_cleaning) | Experimental and production data-cleaning pipelines | Research / data work |
-| [`colaboration`](colaboration) | Experimental scraper application and experiments | Experimental |
+| [`data_cleaning`](data_cleaning) | Data-cleaning pipelines for multilingual drug data | Research |
+| [`colaboration`](colaboration) | Experimental scraper app and experiments | Experimental |
 
-The Neo4j node and relationship exports used by the DDI workflow live in [`ddi_module/data/neo4j`](ddi_module/data/neo4j). New exports, credentials, caches, virtual environments, and runtime output should not be committed.
+## Implemented
 
-## What is currently implemented
+- Google Drive OCR for PDFs, scans, prescriptions, and medicine images
+- Drug-name and prescription parsing after OCR
+- A standalone DDI workflow with optional Google OCR, Neo4j, OpenFDA, and LLM integrations
+- DrugBank scraping and streaming XML extraction
+- Data-cleaning pipelines for multilingual drug data
+- An experimental scraper service
 
-- Google Drive OCR for PDFs, scans, prescriptions, and medicine images.
-- Drug-name and prescription parsing after OCR.
-- A standalone DDI workflow with optional Google OCR, Neo4j, OpenFDA, and LLM integrations.
-- DrugBank scraping and streaming XML extraction utilities.
-- Data-cleaning pipelines for multilingual drug data.
-- An experimental scraper service.
+Some integrations need external credentials or services and will not run in a clean checkout.
 
-Some integrations are intentionally optional and require external credentials or services. The repository does not pretend that those services are available in a clean checkout.
+## Quick start (Windows PowerShell)
 
-## Quick start
+Each application has its own dependencies. Use a separate virtual environment per app.
 
-Each application has its own dependencies. Use a separate virtual environment for each Python application, or install only the component you are working on.
-
-### DDI module
+**DDI module**
 
 ```powershell
 cd ddi_module
@@ -40,9 +67,9 @@ Copy-Item .env.example .env
 python launch.py
 ```
 
-The app is served at `http://127.0.0.1:5000/ddi`. Google credentials and service configuration are documented in [`ddi_module/README.md`](ddi_module/README.md).
+Served at `http://127.0.0.1:5000/ddi`. See [`ddi_module/README.md`](ddi_module/README.md).
 
-### OCR system
+**OCR system** (needs Google Drive OAuth credentials)
 
 ```powershell
 cd ocr_system
@@ -53,9 +80,9 @@ Copy-Item .env.example .env
 python src\web\app.py
 ```
 
-The OCR system requires Google Drive OAuth credentials. See [`ocr_system/README.md`](ocr_system/README.md).
+See [`ocr_system/README.md`](ocr_system/README.md).
 
-### Drug scraper
+**Drug scraper**
 
 ```powershell
 cd 'drug_scraper(drugbank)'
@@ -65,37 +92,29 @@ pip install -r requirements.txt
 python main.py --source drugbank --limit 10
 ```
 
-The full DrugBank XML file is intentionally treated as local input data and should not be uploaded to a public repository.
+## Data and licensing
 
-## Development conventions
+- The full DrugBank XML file is local input only and is not in this repo. DrugBank data
+  has its own license terms, so check them before using or sharing any data derived from it.
+- The Neo4j exports in `ddi_module/data/neo4j` were [describe the source and confirm you are
+  allowed to publish them, or remove them from the repo].
+- Code license: [choose one, e.g. MIT]. Third-party data and services keep their own licenses.
 
-- Keep application dependencies in the application directory that uses them.
-- Keep credentials in local `.env` files or ignored credential directories. Commit only `.env.example` files.
-- Keep generated files under ignored data/output directories; commit small, intentional fixtures only.
-- Prefer package-safe names: lowercase letters, numbers, and underscores for Python packages.
-- Add tests beside the component they protect, or under a clearly named top-level test suite.
-- Do not commit `__pycache__`, virtual environments, `node_modules`, logs, generated reports, or raw proprietary datasets.
+## Final UI and hosted components
 
-More project guidance is in [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`](SECURITY.md), and [`docs/repository-structure.md`](docs/repository-structure.md).
+- The final UI is maintained outside this repository. [Add a link only if you have the
+  owner's permission, and name the owner.]
+- Screenshots: [add 2 or 3 sanitized screenshots here, with no patient data, after approval].
+- The RAG assistant runs on a dedicated VM. Its configuration, credentials, indexed
+  documents and embeddings are not in this repo.
 
-## Current limitations
+## Limitations
 
-This is a research project being shaped into a publishable repository. The OCR, DDI, scraper, and data-cleaning components do not yet share one deployment pipeline, one database contract, or one automated CI workflow. Those boundaries are deliberate and documented so that future integration work can happen without hiding the current state.
+The components do not yet share one deployment pipeline, one database contract, or automated
+CI. This is a research project being shaped into a publishable repo.
 
-## Final UI and separately hosted components
+## Contributing and security
 
-The **final UI is maintained outside this repository** and is not the frontend currently reproduced here. Its source repository, release status, and ownership should be confirmed before it is linked publicly.
-
-- UI repository: [DAWA Frontend]([docs/screenshots](https://github.com/BelkacemYerfa/dawa-frontend))
-- Presentation screenshots: stored in [`docs/screenshots`](docs/screenshots) when approved and sanitized
-- The screenshots in this repository should show synthetic or anonymized data only
-
-A **RAG assistant** is also used in the project. It is implemented with **RAGFlow and prompt engineering**, with the knowledge and conversation service hosted on a dedicated virtual machine.
-
-The RAG assistant is therefore documented as an external deployment rather than a self-contained module in this repository:
-
-- This repository does not include the private VM configuration or credentials.
-- This repository does not include private indexed documents or proprietary embeddings.
-- API endpoints and access procedures are documented only for authorized team members.
-
-This separation keeps the repository honest: cloning it provides the OCR, parsing, DDI, scraping, and data-cleaning components, while the final UI and hosted RAG service require separately maintained repositories or controlled infrastructure.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`](SECURITY.md), and
+[`docs/repository-structure.md`](docs/repository-structure.md). Never commit credentials,
+`.env` files, caches, virtual environments, or raw proprietary data.
