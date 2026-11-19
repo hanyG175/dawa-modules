@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_C_068
+DCI: ADRENALINE (tartrate) 0,01 mg/ml + ARTICAINE CHLORHYDRATE 40 mg/ml sol inj p us dent (SEPTANEST ADRENALINEE AU 1/100 000)
+DrugBank ID: DB11573
+DrugBank Name: Aluminum chlorohydrate
+Brand Names: ARTIDENT 4% | TURBOCAINE
+Pharmaceutical Forms: Sol Inj A Usage Dentaire
+Dosages: 1ml contient 40mg arti../0.018mg epin
+Packaging: boite de 50 carpules de 1.7ml | boite de 50 cartouhes de 1.8ml
+Registration Numbers: 321/02 C 068/23 | 617/02 C 068/24
+Drug Codes: 02 C 068
+
+------------------------------------------------------------
+
+## Description
+
+Aluminum chlorohydrate is a group of water-soluble aluminum complexes with the general formula AlnCl(3n-m)(OH)m. It is included up to 25% in over-the-counter hygiene products as an active antiperspirant agent. The primary site of action of aluminum chlorohydrate is at the level of the stratum corneum layer, which is relatively near the skin surface 1 . It is also used as a coagulant in the water purification process.
+
+## Pharmacodynamics
+
+Aluminum chlorohydrate serves to reduce excessive sweating by directly blocking the sweat ducts 4 .
+
+## Mechanism Of Action
+
+Aluminum salts plug eccrine sweat pores and forms aggregates with swear proteins that bind to the wall of the sweat duct and form a tenuous membrane 4 .
+
+## Absorption
+
+Penetration of aluminum chlorohydrate following dermal application is minimal, with the rate being around 0.01% and up to 0.06% in pre-damaged skin 3 . In a preliminary study, dermally applied aluminium chlorohydrate displayed 0.012% of the applied aluminium being absorbed through the skin, which accounts for 4 mcg of aluminum following a single dermal application 2 . This is about 2.5% of the aluminium typically absorbed by the gut from food over the same time period 2 .
+
+## Volume Of Distribution
+
+No pharmacokinetic information available.
+
+## Metabolism
+
+No pharmacokinetic information available.
+
+## Route Of Elimination
+
+No pharmacokinetic information available.
+
+## Half Life
+
+No pharmacokinetic information available.
+
+## Clearance
+
+No pharmacokinetic information available.
+
+## Toxicity
+
+Dermal and oral LD50 in rat is > 2000 mg/kg MSDS .

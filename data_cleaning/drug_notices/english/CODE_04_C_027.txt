@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_C_027
+DCI: Alpha-Amylase
+DrugBank ID: DB11065
+DrugBank Name: Pancrelipase amylase
+Brand Names: ALFALASE | LAMYLASE | MAXILASE | MEGAMYLASE
+Pharmaceutical Forms: Siropop
+Dosages: 200 u ceip/ml
+Packaging: b/01flacon de 100 ml | b/01flacon de 125 ml
+Laboratories: OPELLA HEALTHCARE FRANCE SAS | 157 AVENUE CHARLES-DE-GAULLE | 92200 NEUILLY-SUR-SEINE - France
+ATC Classification: Classe pharmacothérapeutique : ENZYMES A VISEE ANTI-INFLAMMATOIRE
+Registration Numbers: 065/04 C 027/19 | 077/04 C 027/15/23 | 201/04 C 027/96/24 | 599/04 C 027/22
+Drug Codes: 04 C 027
+
+------------------------------------------------------------
+
+## Description
+
+Pancrelipase, in general, is composed of a mixture of pancreatic enzymes which include amylases, lipases, and proteases. These enzymes are extracted from porcine pancreatic glands. 4 The amylases are enzymes that help in the chemical process of digestion by hydrolizing starch into more available saccharide forms. 3 The pancrelipase amylase is a single polypeptide chain containing two SH groups and four disulfide bridges. 6 The pancrelipase mixture, including pancrelipase amylase, was developed by Ortho-McNeil-Janssen Pharmaceuticals, Inc and FDA approved on April 12, 2010. 5
+
+## Pharmacodynamics
+
+Please refer to Pancrelipase .
+
+## Mechanism Of Action
+
+Dietary starch Cleavage
+
+## Absorption
+
+Please refer to Pancrelipase .
+
+## Volume Of Distribution
+
+Please refer to Pancrelipase .
+
+## Metabolism
+
+Please refer to Pancrelipase .
+
+## Route Of Elimination
+
+Please refer to Pancrelipase .
+
+## Half Life
+
+Please refer to Pancrelipase .
+
+## Clearance
+
+Please refer to Pancrelipase .
+
+## Toxicity
+
+Please refer to Pancrelipase .

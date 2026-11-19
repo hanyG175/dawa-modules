@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_28_A_003
+DCI: Lanadelumab
+DrugBank ID: DB14597
+DrugBank Name: Lanadelumab
+Brand Names: TAKHZYRO
+Pharmaceutical Forms: Sol Pour Inj Sous-Cutanee
+Dosages: 300mg/2ml
+Packaging: boite de 01 seringue pre remplie de 2ml de solution contenant 300mg de lanadelumab
+Registration Numbers: 626/28 A 003/24
+Drug Codes: 28 A 003
+
+------------------------------------------------------------
+
+## Description
+
+Lanadelumab, also known as DX-2930, is a human IgG1 monoclonal antibody designed for subcutaneous self-injection. 6 It is a fully human immunoglobulin, k-light-chain made in recombinant Chinese Hamster Ovary cells. 5 It has been granted priority review, breakthrough therapy, and orphan drug designations for rare diseases based on the results of clinical trials. 1 Lanadelumab was approved for use in patients with hereditary angioedema by the FDA in August 2018, 5 followed by Health Canada in October 2018 12 and the EMA in November 2018. 11
+
+## Pharmacodynamics
+
+In phase 1 studies, the level of kininogen, the substrate of kallikrein, was studied as a marker of kallikrein activity. In patients with C1 deficiency, the level of cleaved kininogen is 4-fold higher when compared with C1-normal individuals. When lanadelumab was administered, the levels of cleaved kininogen were significantly reduced with a dose of 300 and 400 mg of lanadelumab with a maximum reduction at day 22 corresponding with time for maximum concentration. This maximum reduction corresponded with the normal levels of cleaved kininogen. Similarly, the decreases of cleaved kininogen corresponded with reductions in the levels of the activated factor XII. 2 Clinically, the attacks of angioedema completely vanished in the patients receiving a dose of 300 mg of lanadelumab. In other doses such as 400 mg and combo 300/400 mg the attack reduction reached 90%. 2 In phase 3 clinical trials, lanadelumab showed an attack rate reduction of over 70% for all studied regimens. 1
+
+## Mechanism Of Action
+
+Plasma kallikrein Inhibitor Regulator
+
+## Absorption
+
+Drug levels of lanadelumab are dose-dependent and the maximum plasma concentration increases correspondingly with increasing dosage. The C max and AUC ranged from 3800 - 45000 ng/ml and 64000 - 762000 ng.day/ml, respectively, across a dosing range of 30 to 400 mg. A sustained quantifiable drug concentration was observed through day 120. 2 The bioavailability of lanadelumab is approximately 66% with a time to reach peak drug concentration of approximately 7 days. 9 , 4
+
+## Volume Of Distribution
+
+The apparent volume of distribution of lanadelumab is approximately 14 - 16 L depending on the dose administered. 9
+
+## Metabolism
+
+As with other therapeutic proteins, the degradation of lanadelumab likely occurs via catabolism to smaller peptides and amino acids.
+
+## Half Life
+
+Lanadelumab has a half-life of approximately 2 weeks after subcutaneous administration. 9
+
+## Clearance
+
+The apparent clearance of lanadelumab ranges from 0.667 to 0.809 L/day depending on the administered dose. 9
+
+## Toxicity
+
+No significant toxicities related to the administration of lanadelumab have been reported. 4 Studies regarding the carcinogenic potential or overdosage effect have not been performed. Published literature supports bradykinin, which is elevated in HAE, as a pro-tumorigenic molecule. However, the malignancy risk in humans from an antibody that inhibits plasma kallikrein activity, such as lanadelumab-flyo, which lowers bradykinin levels, is currently unknown. 9 There are no available data on lanadelumab use in pregnant women to inform of any drug-associated risks. Monoclonal antibodies such as lanadelumab-flyo are transported across the placenta during the third trimester of pregnancy; therefore, potential effects on a fetus are likely to be greater during the third trimester of pregnancy. An enhanced pre-and postnatal development (ePPND) study conducted in pregnant monkeys at doses resulting in exposures of up to 33 times the exposure achieved (on an AUC basis) at the maximum recommended human dose (MRHD) revealed no evidence of harm to the developing fetus. 9

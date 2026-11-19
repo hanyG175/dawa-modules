@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_A_015
+DCI: Sirolimus
+DrugBank ID: DB00877
+DrugBank Name: Sirolimus
+Brand Names: RAPAMUNE
+Pharmaceutical Forms: Comprimé
+Dosages: 1mg
+Packaging: b/30
+Registration Numbers: 045/27 A 015/18/24
+Drug Codes: 27 A 015
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Sirolimus is an immunosuppressant drug with antifungal and antitumour effects. 2 In animal models, sirolimus prolonged allograft survival following various organ transplants and reversed an acute rejection of heart and kidney allografts in rats. Upon oral administration of 2 mg/day and 5 mg/day, sirolimus significantly reduced the incidence of organ rejection in low- to moderate-immunologic risk renal transplant patients at six months following transplantation compared with either azathioprine or placebo. In some studies, the immunosuppressive effect of sirolimus lasted up to six months after discontinuation of therapy: this tolerization effect is alloantigen-specific. 8 Sirolimus potently inhibits antigen-induced proliferation of T cells, B cells, and antibody production. 3 In rodent models of autoimmune disease, sirolimus suppressed immune-mediated events associated with systemic lupus erythematosus, collagen-induced arthritis, autoimmune type I diabetes, autoimmune myocarditis, experimental allergic encephalomyelitis, graft-versus-host disease, and autoimmune uveoretinitis. 8
+
+## Mechanism Of Action
+
+Serine/threonine-protein kinase mTOR Inhibitor
+
+## Absorption
+
+In adult renal transplant patients with low- to moderate-immunologic risk, oral administration of 2 mg sirolimus led to a C max of 14.4 ± 5.3 ng/mL for oral solution and 15.0 ± 4.9 ng/mL for oral tablets. The t max was 2.1 ± 0.8 hours for oral solution and 3.5 ± 2.4 hours for oral tablets. In healthy subjects, the t max is one hour. In a multi-dose study, steady-state was reached six days following repeated twice-daily administration without an initial loading dose, with the average trough concentration of sirolimus increased approximately 2- to 3-fold. It is suspected that a loading dose of three times the maintenance dose will provide near steady-state concentrations within one day in most patients. 8 The systemic availability of sirolimus is approximately 14%. In healthy subjects, the mean bioavailability of sirolimus after administration of the tablet is approximately 27% higher relative to the solution. Sirolimus tablets are not bioequivalent to the solution; however, clinical equivalence has been demonstrated at the 2 mg dose level. Sirolimus concentrations, following the administration of Rapamune Oral Solution to stable renal transplant patients, are dose-proportional between 3 and 12 mg/m 2 . 8
+
+## Volume Of Distribution
+
+The mean (± SD) blood-to-plasma ratio of sirolimus was 36 ± 18 L in stable renal allograft patients, indicating that sirolimus is extensively partitioned into formed blood elements. The mean volume of distribution (V ss/F ) of sirolimus is 12 ± 8 L/kg. 8
+
+## Metabolism
+
+Sirolimus undergoes extensive metabolism in the intestinal wall and liver. Sirolimus is primarily metabolized by O-demethylation and/or hydroxylation via CYP3A4 to form seven major metabolites, including hydroxy, demethyl, and hydroxydemethyl metabolites, which are pharmacologically inactive. Sirolimus also undergoes counter-transport from enterocytes of the small intestine into the gut lumen. 8 Hover over products below to view reaction partners Sirolimus 41-O-demethylrapamycin 39-O-Desmethylsirolimus 16-O-Desmethylsirolimus 12-OH-sirolimus 11-OH-sirolimus 25-OH-sirolimus 24-OH-sirolimus 46-OH-sirolimus
+
+## Route Of Elimination
+
+Following oral administration of [ 14 C] sirolimus in healthy subjects, about 91% of the radioactivity was recovered from feces and only 2.2% of the radioactivity was detected in urine. Some of the metabolites of sirolimus are also detectable in feces and urine. 8
+
+## Half Life
+
+The mean ± SD terminal elimination half-life (t½) of sirolimus after multiple dosing in stable renal transplant patients was estimated to be about 62 ± 16 hours. 8
+
+## Clearance
+
+In adult renal transplant patients with low- to moderate-immunologic risk, oral administration of 2 mg sirolimus led to oral clearance of 173 ± 50 mL/h/kg for oral solution and 139 ± 63 mL/h/kg for oral tablets. 8
+
+## Toxicity
+
+Oral LD 50 of sirolimus is 800 mg/kg in rats and 2500 mg/kg in mouse. 12 Sirolimus is a narrow therapeutic index drug. 5 Although there are reports of overdose with sirolimus, there is limited information on overdose in the clinical setting. Symptoms of overdose are consistent with the adverse effects of sirolimus. General supportive measures are recommended in the event of an overdose. Because sirolimus has low aqueous solubility and high erythrocyte and plasma protein binding, it is not expected to be dialyzable to any significant extent. 8

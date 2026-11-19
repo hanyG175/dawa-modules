@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_B_157
+DCI: Adapalene
+Brand Names: ADAPALENE NOVAGENERICS
+Pharmaceutical Forms: Sol. App. Locale
+Dosages: 0.001
+Packaging: T/30G
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 312,77 DA
+PPA (DA): 312,77 DA
+Prescription List: Liste I
+ATC Classification: 07B109
+Registration Numbers: 123/07 B 157/08/15 | 149/07 B 157/18/24
+Drug Codes: 07 B 157
+
+------------------------------------------------------------
+
+## Indications
+
+DERMATOLOGIE
+
+## Mechanism Of Action
+
+ANTI-ACNEIQUES, ANTI-ALOPECIQUES ET ANTI-SEBORRHEIQUES

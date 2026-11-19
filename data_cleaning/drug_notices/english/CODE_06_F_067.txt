@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_067
+DCI: ACEBUTOLOL (chlorhydrate) 200 mg cp (ACEBUTOLOL ARROW)
+DrugBank ID: DB01193
+DrugBank Name: Acebutolol
+Brand Names: ACEBUTOLOL IVAL | CARDITAL | CLOXTON | SEBUTOL
+Pharmaceutical Forms: Comprimé
+Dosages: 200 mg | 200mg
+Packaging: b/20 | b/30 | boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C07 - BETA-BLOQUANTS | C07A - BETA-BLOQUANTS | C07AB - BETA-BLOQUANTS SELECTIFS | C07AB04 - ACEBUTOLOL
+Registration Numbers: 003/06 F 067/23 | 235/06 F 067/10/25 | 268/06 F 067/06/25 | 521/06 F 067/10/18
+Drug Codes: 06 F 067
+
+------------------------------------------------------------
+
+## Description
+
+A cardioselective beta-adrenergic antagonist with little effect on the bronchial receptors. The drug has stabilizing and quinidine-like effects on cardiac rhythm as well as weak inherent sympathomimetic action.
+
+## Pharmacodynamics
+
+Acebutolol is a cardioselective, beta-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range. In general, beta-blockers reduce the work the heart has to do and allow it to beat more regularly. Acebutolol has less antagonistic effects on peripheral vascular ß2-receptors at rest and after epinephrine stimulation than nonselective beta-antagonists. Low doses of acebutolol produce less evidence of bronchoconstriction than nonselective agents like propranolol but more than atenolol.
+
+## Mechanism Of Action
+
+Beta-1 adrenergic receptor Partial agonist
+
+## Absorption
+
+Well absorbed from the Gl tract with an absolute bioavailability of approximately 40% for the parent compound.
+
+## Metabolism
+
+Subject to extensive first-pass hepatic biotransformation (primarily to diacetolol).
+
+## Route Of Elimination
+
+Elimination via renal excretion is approximately 30% to 40% and by non-renal mechanisms 50% to 60%, which includes excretion into the bile and direct passage through the intestinal wall.
+
+## Half Life
+
+The plasma elimination half-life is approximately 3 to 4 hours. The half-life of its metabolite, diacetolol, is 8 to 13 hours.
+
+## Toxicity
+
+Symptoms of overdose include extreme bradycardia, advanced atrioventricular block, intraventricular conduction defects, hypotension, severe congestive heart failure, seizures, and in susceptible patients, bronchospasm, and hypoglycemia.

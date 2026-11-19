@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_J_141
+DCI: Somatropine
+DrugBank ID: DB00052
+DrugBank Name: Somatotropin
+Brand Names: SAIZEN CLICKEASY
+Pharmaceutical Forms: Poudreet Solvt. Sol. Inj. Sc Multidose
+Dosages: 8mg/1.37ml
+Packaging: b/01fl pdre.+01cart. solvt. pre-assembles dans un dispositif de reconstitution click easy
+Registration Numbers: 062/09 J 141/06/14
+Drug Codes: 09 J 141
+
+------------------------------------------------------------
+
+## Description
+
+Human growth hormone (HGH), also known as somatotropin, is a peptide hormone that is synthesized and secreted by the somatotropic cells of the anterior pituitary gland. 1 Growth hormone plays an essential role in growth regulation during childhood as well as other basal metabolic functions, muscle and fat mass regulation, blood glucose level regulation, and lipid regulation in both children and adults. 1 , 10 Synthesized in a strain of Escherichia coli , recombinant HGH is a polypeptide hormone that contains 191 amino acid residues with a molecular weight of 22 kDa. It has an identical primary protein structure to endogenous human growth hormone. 2 Recombinant HGH has been commercially available since 1985 after its development by Genentech. Somatrem was the first available recombinant HGH and was largely replaced by somatropin, another form of recombinant HGH. 1 Growth hormone therapy is approved for various disorders of growth hormone deficiency, growth failure, or short stature including Turner syndrome, chronic renal insufficiency before transplantation, Prader-Willi syndrome, a history of fetal growth restriction, short stature homeobox (SHOX) haploinsufficiency, Noonan syndrome, idiopathic short stature, and adult- or childhood-onset growth hormone deficiency. 2 Recombinant growth hormone is available as a subcutaneous injection for children and adults under a wide variety of brand names.
+
+## Pharmacodynamics
+
+Somatotropin induces growth in nearly every tissue and organ in the body. 10 It stimulates linear growth and cartilaginous growth of long bones. In children with short stature, growth hormone increases both the number and size of muscle cells. It also promotes the growth of internal organs, and it also increases red cell mass. By promoting nitrogen retention, growth hormone increases cellular protein synthesis. Growth hormone also retains potassium and phosphorus in the serum, which may be the result of cell growth. Growth hormone stimulates the synthesis of chondroitin sulfate and collagen and increases the urinary excretion of hydroxyproline. It has negligible effects on serum calcium levels. Although increased calcium excretion in the urine is observed, calcium absorption from the intestine is simultaneously enhanced. 7 In end-stage renal disease, growth hormone was shown to improve several nutritional parameters, such as increases in serum insulin-like growth factor-I (IGF-I), serum albumin, and transferrin, as well as a reduction in blood urea nitrogen. 5 The metabolic effects of growth hormone are caused by the upregulation of insulin-like growth factor-1. Generally, growth hormone leads cells to enter an anabolic protein state with increased amino acid uptake, protein synthesis, and decreased catabolism of proteins. 10 The diabetogenic effect of larger doses of growth hormone is well documented in the literature: somatotropin antagonizes insulin action in vivo , causing insulin resistance and glucose intolerance. It increases glucose production through gluconeogenesis and glycogenolysis from the liver and kidney 4 and suppresses glucose uptake in the adipose tissue. 3 In mice, growth hormone increased mRNA expression of 2 major gluconeogenic genes, phosphoenolpyruvate carboxy-kinase and glucose-6-phosphatase. 4 The risk for impaired glucose tolerance and reduced insulin sensitivity may be increased in susceptible patients, especially in those with risk factors for diabetes mellitus, such as obesity, Turner syndrome, or a family history of diabetes mellitus. The development of new-onset type 2 Diabetes Mellitus was observed in patients receiving somatotropin treatment. 7 Growth hormone stimulates lipolysis via activation of the hormone-sensitive lipase in the adipose tissue, thereby increasing circulating levels of free fatty acids and triglycerides in the plasma. It also leads to a reduction of fat stores and decreased serum levels of low-density lipoprotein (LDL) cholesterol. 7 In contrast to the effects seen in the adipose tissue, growth hormone promotes cellular uptake of free fatty acids in skeletal muscle by increasing the activity of lipoprotein lipase. Growth hormone may cause hyperinsulinism following beta-cell compensation for insulin resistance; however, there is some evidence that growth hormone directly promotes beta-cell proliferation and glucose-stimulated insulin secretion. 4
+
+## Mechanism Of Action
+
+Growth hormone receptor Ligand Prolactin receptor Ligand
+
+## Absorption
+
+When somatotropin was administered subcutaneously at the dose of 0.024 mg/kg or 3 IU/m 2 , the C max ranged from 13.8 (±5.8) to 17.1 (±10.0) ng/mL and the T max was four to five hours. Following intravenous infusion of 33 ng/kg/min of somatotropin in patients with growth hormone deficiency, the mean steady-state serum levels of approximately 23.1 (±15.0) ng/mL were reached at 150 minutes. 7
+
+## Volume Of Distribution
+
+Information is unavailable.
+
+## Metabolism
+
+Information is unavailable.
+
+## Route Of Elimination
+
+Information is unavailable.
+
+## Half Life
+
+When somatotropin was administered subcutaneously at the dose of 0.024 mg/kg or 3 IU/m 2 , the mean apparent terminal half-life was Following intravenous infusion of 33 ng/kg/min of somatotropin in patients with growth hormone deficiency, the terminal elimination half-life was approximately 21.1 (±5.1) minutes. 7
+
+## Clearance
+
+Following intravenous infusion of 33 ng/kg/min of somatotropin in patients with growth hormone deficiency, the mean clearance rate was approximately 2.3 (±1.8) mL/min/kg or 139 (±105) mL/min. 7
+
+## Toxicity
+
+The oral LD 50 is 242 mg/kg in rats and 828 mg/kg in mice. The inhalatory LD 50 is 710 mg/m 3 and dermal LD 50 is 1100 mg/kg in rats. The intraperitoneal LD 50 in mice is 828 mg/kg. 14 Hypoglycemia followed by hyperglycemia, possibly with fluid retention, can be observed in somatropin overdose. Long-term or excessive use of growth hormone can lead to the signs and symptoms of gigantism and acromegaly. 7

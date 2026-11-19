@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_M_206
+DCI: Vemurafenib
+DrugBank ID: DB08881
+DrugBank Name: Vemurafenib
+Brand Names: ZELBORAF
+Pharmaceutical Forms: Comprimé
+Dosages: 240 mg
+Packaging: b/56
+Registration Numbers: 128/05 M 206/19
+Drug Codes: 05 M 206
+
+------------------------------------------------------------
+
+## Description
+
+Vemurafenib is a competitive kinase inhibitor with activity against BRAF kinase with mutations like V600E. 2 It exerts its function by binding to the ATP-binding domain of the mutant BRAF. 3 Vemurafenib was co-developed by Roche and Plexxikon and it obtained its FDA approval on August 17, 2011, under the company Hoffmann La Roche. After approval, Roche in collaboration with Genentech launched a broad development program. 8
+
+## Pharmacodynamics
+
+BRAF activation results in cell growth, proliferation, and metastasis. BRAF is an intermediary molecule in MAPK whose activation depends on ERK activation, elevation of cyclin D1 and cellular proliferation. The mutation V600E produces a constitutively form of BRAF. Vemurafenib has been shown to reduce all activation markers related to BRAF; in clinical trials, vemurafenib treatment showed a reduction of cytoplasmic phosphorylated ERK and a cell proliferation driven by Ki-67. Studies also reported decrease in MAPK-related metabolic activity. 3 All the different reports indicate thet Vemurafenib generates an almost complete inhibition of the MAPK pathway.
+
+## Mechanism Of Action
+
+Serine/threonine-protein kinase B-raf Inhibitor
+
+## Absorption
+
+Vemurafenib is well absorbed after oral administration. 6 Peak concentrations are reached in 3 hours when an oral dose of 960 mg twice daily for 15 days has been given to patients. In the same conditions, Vemurafenib presents a Cmax of 62 mcg/ml and AUC of 601 mcg h/ml. Label It is unknown how food affects the absorption of vemurafenib. It presents an accumulation ratio of 7.36 after repeating doses of 960 mg 10
+
+## Volume Of Distribution
+
+The estimation of the volume of distribution for Vemurafenib is 106 L. 7
+
+## Metabolism
+
+Vemurafenib is metabolized by CYP3A4 and the metabolites make up 5% of the components in plasma. The parent compound makes up for the remaining 95%. 7 Hover over products below to view reaction partners Vemurafenib vemurafenib intermediary metabolite secondary metabolite of vemurafenib alternative secondary metabolite of vemurafenib
+
+## Route Of Elimination
+
+Analysis showed that 94% of administered Vemurafenib is excreted via feces and 1% is excreted by urine. 7
+
+## Half Life
+
+The elimination half-life of Vemurafenib is estimated to be 57 hours (range of 30-120 hours). 7
+
+## Clearance
+
+The total body clearance is 31 L/day. 7
+
+## Toxicity
+
+In the few toxicity reports, it has been shown an increased in the development of cutaneous squamous cell carcinomas or acceleration in pre-existant tumor growth. Label

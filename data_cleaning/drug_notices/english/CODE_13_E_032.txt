@@ -1,0 +1,63 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_032
+DCI: Spiramycine
+DrugBank ID: DB06145
+DrugBank Name: Spiramycin
+Brand Names: PRAMYCINE | ROVA NS | ROVADAL | ROVAMYNE | SPIRA | SPIRACARE | SPIRALEX | SPIRAMEX | SPIRAMYNAL
+Pharmaceutical Forms: Comprimé
+Dosages: 3000000ui
+Packaging: b/10 | b/15 et b/10 | b/16
+Registration Numbers: 003/13 E 032/09/18 | 039/13 E 032/04/15 | 235/13 E 032/19 | 263/13 E 032/08/24 | 293/13 E 032/05/25 | 318/13 E 032/25 | 380/13 E 032/19 | 400/13 E 032/16 | 470/13 E 032/21
+Drug Codes: 13 E 032
+
+------------------------------------------------------------
+
+## Description
+
+Spiramycin is a primarily bacteriostatic macrolide antimicrobial agent with activity against Gram-positive cocci and rods, Gram-negative cocci and also Legionellae, mycoplasmas, chlamydiae, some types of spirochetes, Toxoplasma gondii and Cryptosporidium.
+Spiramycin is a 16-membered ring macrolide discovered in 1952 as a product of Streptomyces ambofaciens that has been available in oral formulations since 1955, and parenteral formulations since 1987. Resistant organisms include Enterobacteria, pseudomonads, and moulds.
+
+## Pharmacodynamics
+
+The absolute bioavailability of oral spiramycin is generally within the range of 30 to 40%. After a 1 g oral dose, the maximum serum drug concentration was found to be within the range 0.4 to 1.4 mg/L.
+
+## Mechanism Of Action
+
+Large ribosomal subunit protein uL3 (Streptococcus pyogenes serotype M1) Antagonist Inhibitor
+
+## Absorption
+
+The extent of absorption of Spiramycin was shown to be incomplete. Oral bioavailability ranges from 30-39%.
+Spiramycin has slower rate of absorption than Erythromycin. It has a high pKa (7.9) which could be a result of high degree of ionization in acidic medium of the stomach.
+
+## Volume Of Distribution
+
+The tissue distribution of spiramycin is extensive. The volume of distribution is in excess of 300 L, and concentrations achieved in bone, muscle, respiratory tract and saliva exceed those found in serum. Spiramycin showed high concentrations in tissues such as: lungs, bronchi, tonsils, and sinuses.
+
+## Metabolism
+
+Spiramycin is less metabolised than some of the other macrolides. Metabolism has not been well studied. It is mainly done in the liver to the active metabolites.
+
+## Route Of Elimination
+
+Fecal-biliary route is the primary route of elimination. The secondary route is renal-urinary route.
+
+## Half Life
+
+Intravenous:
+Young persons (18 to 32 years of age): Approximately 4.5 to 6.2 hours.
+Elderly persons (73 to 85 years of age): Approximately 9.8 to 13.5 hours. Oral: 5.5-8 hours, Rectal in children: 8 hours
+
+## Clearance
+
+80% of the administered dose excreted in the bile, which makes the fecal-biliary route is the most important route of elimination.
+Enterohepatic recycling could also occur.
+Only 4 to 14% of an administered dose is eliminated through renal-urinary excretion route.
+
+## Toxicity
+
+Cardiac toxicity, specifically QT prolongation (irregular heartbeat; recurrent fainting). Cholestatic hepatitis (abdominal pain; nausea; vomiting; yellow eyes or skin). Gastrointestinal toxicity, specifically acute colitis (abdominal pain and tenderness; bloody stools; fever). Intestinal injury (abdominal pain and tenderness).
+Ulcerated esophagitis (chest pain; heartburn).

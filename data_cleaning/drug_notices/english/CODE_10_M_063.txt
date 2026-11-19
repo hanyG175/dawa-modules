@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_M_063
+DCI: Docusate Sodique
+DrugBank ID: DB11089
+DrugBank Name: Docusate
+Brand Names: REGULAX | SPEEDYLAX
+Pharmaceutical Forms: Gélule
+Dosages: 0.12g/10g
+Packaging: b/06tubes canules de 10g
+Registration Numbers: 311/10 M 063/13 | 378/10 M 063/20/25
+Drug Codes: 10 M 063
+
+------------------------------------------------------------
+
+## Description
+
+Docusate, or dioctyl sulfosuccinate, is a stool softener indicated for the treatment of constipation 1 . Docusate acts by increasing the amount of water the stool absorbs in the gut, making the stool softer and easier to pass 7 . Docusate can be orally or rectally administered. Docusate is on the World Health Organization's List of Essential Medicines 10 . However the effectiveness of docusate in treating constipation remains unclear, as several studies report docusate to be no more effective than placebo for increasing the frequency of stool or stool softening 6 , 2 , 5 . Recently there has been pressure to stop prescribing docusate as it has been identified as an ineffective medicine 3 , 5 , 9 . Additionally, it does not appear to lessen symptoms associated with constipation such as abdominal cramps. Still docusate is available in over-the-counter products as a common laxative.
+
+## Pharmacodynamics
+
+Docusate sodium is a laxative and an anionic detergent that supposedly promotes incorporation of water and fats into stool through a reduction in surface tension, resulting in softer fecal mass 7 , 4 . Docusate's onset of action is 6-72 hours orally and 2-15 minutes rectally 7 , 8 . The effects of docusate are thought to be exerted locally in the jejunum 1 .
+
+## Mechanism Of Action
+
+Recent studies suggest that docusate's mechanism of action is due largely to it's surfactant effect in the intestines, which allow fat and water into the feces to soften the stool 4 . Docusate’s mechanism of action was investigated in 1985 on healthy patients. 1 Docusate was added directly to the jejunum based on calculated concentrations of docusate in the jejunum. 1 At this concentration, there was an increase in secretion of water, sodium, chloride, and potassium as well as a decrease in absorption of glucose and bicarbonate 1 . Based on in vitro data, the authors suggested this effect was due to an increase in intracellular cyclic AMP either directly through docusate or E series prostaglandins. 1
+
+## Absorption
+
+Docusate is not absorbed systemically 7 , 9 . As the actions of docusate are local and it is not absorbed, the pharmacokinetic parameters are not available 9 .
+
+## Route Of Elimination
+
+If docusate is systemically absorbed, it undergoes biliary excretion 7 , 9 .
+
+## Toxicity
+
+Docusate is not known to be carcinogenic or cause reproductive toxicity. It was not mutagenic in the Ames assay MSDS . Acute oral LD50 in rat is 1900 mg/kg MSDS .

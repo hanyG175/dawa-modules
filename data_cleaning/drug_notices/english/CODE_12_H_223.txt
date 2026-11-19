@@ -1,0 +1,24 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_H_223
+DCI: Fibrinogene Humain
+DrugBank ID: DB09222
+DrugBank Name: Fibrinogen human
+Brand Names: HEAMOCOMPLETTAN P
+Pharmaceutical Forms: Poudre
+Dosages: 1g
+Packaging: boite de 01 flacon de 1g
+Registration Numbers: 485/12 H 223/23
+Drug Codes: 12 H 223
+
+------------------------------------------------------------
+
+## Description
+
+Fibrinogen concentrate (human) is a hematological agent. It works by replacing a specific protein in the blood, fibrinogen (factor I), that helps with blood clotting. It is a soluble plasma glycoprotein with a molecular weight of about 340 kDa and is a physiological substrate for three enzymes: plasmin, factor XIIIa, and thrombin. It is indicated for the treatment of acute bleeding episodes in patients with both acquired and congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia. 3
+
+## Mechanism Of Action
+
+Fibrinogen (factor I) is a soluble plasma glycoprotein with a molecular weight of about 340 kDa. The native molecule is a dimer and consists of three pairs of polypeptide chains (Aα, Bβ and γ). Fibrinogen is a physiological substrate of three enzymes: thrombin, factor XIIIa, and plasmin. During the coagulation process, thrombin cleaves the Aα and Bβ chains releasing fibrinopeptides A and B (FPA and FPB, respectively). FPA is separated rapidly and the remaining molecule is a soluble fibrin monomer (fibrin I). The slower removal of FPB results in formation of fibrin II that is capable of polymerization that occurs by aggregation of fibrin monomers. The resulting fibrin is stabilized in the presence of calcium ions and by activated factor XIII, which acts as a transglutaminase. Factor XIIIa-induced cross-linking of fibrin polymers renders the fibrin clot more elastic and more resistant to fibrinolysis. Cross-linked fibrin is the end result of the coagulation cascade, and provides tensile strength to a primary hemostatic platelet plug and structure to the vessel wall.

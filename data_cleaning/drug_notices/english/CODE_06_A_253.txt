@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_A_253
+DCI: Dobutamine
+DrugBank ID: DB00841
+DrugBank Name: Dobutamine
+Brand Names: DOBUTAMINE
+Pharmaceutical Forms: Lyoph. Sol. Inj.
+Dosages: 250MG/FL. DE PDRE.
+Packaging: B/20 FL. DE PDRE.
+Laboratories: LIORAD
+Countries: CUBA
+Prescription List: Liste I
+ATC Classification: C01CA07
+Registration Numbers: 644/06 A 253/08/24
+Drug Codes: 06 A 253
+
+------------------------------------------------------------
+
+## Description
+
+A beta-1 agonist catecholamine that has cardiac stimulant action without evoking vasoconstriction or tachycardia. It is proposed as a cardiotonic after myocardial infarction or open heart surgery.
+
+## Pharmacodynamics
+
+Dobutamine is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-adrenoceptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. Dobutamine acts primarily on beta-1 adrenergic receptors, with negligible effects on beta-2 or alpha receptors. It does not cause the release of endogenous norepinephrine, as does dopamine.
+
+## Mechanism Of Action
+
+Alpha-1 adrenergic receptors Agonist Beta-1 adrenergic receptor Agonist
+
+## Route Of Elimination
+
+In human urine, the major excretion products are the conjugates of dobutamine and 3-O-methyl dobutamine.
+
+## Half Life
+
+2 minutes

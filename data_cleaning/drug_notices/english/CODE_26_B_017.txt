@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_017
+DCI: Eosine Aqueuse
+DrugBank ID: DB13706
+DrugBank Name: Eosin
+Brand Names: EOSINE AQUEUSE - GIFRER & BARBEZAT
+Pharmaceutical Forms: Sol. Externe
+Dosages: 0.02
+Packaging: FL/100ML
+Laboratories: GIFRER BARBEZAT
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: N/D
+ATC Classification: 26B017
+Registration Numbers: 088/26 B 017/03
+Drug Codes: 26 B 017
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as xanthenes. These are polycyclic aromatic compounds containing a xanthene moiety, which consists of two benzene rings joined to each other by a pyran ring.

@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_A_084
+DCI: Ornidazole
+DrugBank ID: DB13026
+DrugBank Name: Ornidazole
+Brand Names: ORNISID
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/03
+Registration Numbers: 177/11 A 084/12
+Drug Codes: 11 A 084
+
+------------------------------------------------------------
+
+## Description
+
+Ornidazole has been used in trials studying the prevention of Elective Colorectal Surgery.

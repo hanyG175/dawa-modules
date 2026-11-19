@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_005
+DCI: Piroxicam
+DrugBank ID: DB00554
+DrugBank Name: Piroxicam
+Brand Names: PIROXICAM LPA
+Pharmaceutical Forms: Gel Derm.
+Dosages: 0.005
+Packaging: T/50G
+Laboratories: LPA (LABORATOIRE PHARMACEUTIQUE ALGERIEN)
+Countries: ALGERIE
+Reference Tariff (DA): 145 DA
+Prescription List: Liste I
+ATC Classification: 21A005
+Registration Numbers: 003/21 A 005/09/22 | 035/21 A 005/17 | 149/21 A 005/12/18 | 263/21 A 005/12/24 | 352/21 A 005/09 | 366/21 A 005/08
+Drug Codes: 21 A 005
+
+------------------------------------------------------------
+
+## Description
+
+A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily.
+
+## Pharmacodynamics
+
+Piroxicam is in a class of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). Piroxicam works by reducing hormones that cause inflammation and pain in the body. Piroxicam is used to reduce the pain, inflammation, and stiffness caused by rheumatoid arthritis and osteoarthritis.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor
+
+## Absorption
+
+Well absorbed following oral administration.
+
+## Metabolism
+
+Renal Hover over products below to view reaction partners Piroxicam 5'-Hydroxypiroxicam
+
+## Route Of Elimination
+
+Piroxicam and its biotransformation products are excreted in urine and feces, with about twice as much appearing in the urine as in the feces. Approximately 5% of a piroxicam dose is excreted unchanged. However, a substantial portion of piroxicam elimination occurs by hepatic metabolism. Piroxicam is excreted into human milk.
+
+## Half Life
+
+30 to 86 hours
+
+## Toxicity
+
+Symptoms of overdose include drowsiness, nausea, stomach pain, and/or vomiting.

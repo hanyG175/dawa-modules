@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_034
+DCI: Rifamycine (Sodique)
+Brand Names: RIFAMYCINE CHIBRET
+Pharmaceutical Forms: Pommademade
+Dosages: 1000000ui/100g (ou 1%)
+Packaging: t/5g
+Laboratories: LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | 63017 CLERMONT-FERRAND CEDEX 2 | FRANCE
+ATC Classification: S01AA16
+Registration Numbers: 022/17 D 034/99/16
+Drug Codes: 17 D 034
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement antibactérien local des conjonctivites, des kératites, des ulcères cornéens, des blépharites et de l’orgelet dus à des germes sensibles à la rifamycine. | Il convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des antibactériens.
+
+## Posology
+
+Voie locale | En application oculaire. | Posologie | 1 à 2 applications par jour, dont une application le soir de préférence, pendant 7 jours en moyenne. | Appliquer une quantité équivalente à un grain de blé de pommade dans le cul-de-sac conjonctival inférieur de l'œil malade ou des yeux malade(s) et éventuellement sur le bord de la paupière. | Mode d’administration | Pour ce faire, tirer la paupière vers le bas tout en regardant vers le haut et déposer la pommade entre la paupière et le globe oculaire. | Ne pas toucher l'œil ou les paupières avec l’extrémité du tube. | Reboucher le tube de pommade, après utilisation.
+
+## Contraindications
+
+Ce médicament est contre-indiqué dans la situation suivante : | — Hypersensibilité à la substance active (Rifamycine) ou à l'un des excipients mentionnés à la rubrique 6.1.
+
+## Precautions
+
+Ne pas avaler. | Cette pommade ne doit pas être utilisée lors du port de lentilles de contact souples, hydrophiles, qu’elle peut colorer de façon définitive. Par ailleurs, en cas d’infection de l’œil, le port de lentilles de contact est déconseillé pendant la durée du traitement. | Les patients doivent être informés que cette pommade tache (vêtements, lunettes et autres...) ; elle doit être manipulée avec précaution. | En cas d'hypersensibilité, arrêt du traitement. | En l'absence d'amélioration rapide ou en cas de traitement prolongé, une surveillance médicale régulière comportant des contrôles bactériologiques avec étude de la sensibilité du germe, permet de dépister une résistance au produit et d'adapter éventuellement le traitement.
+
+## Interactions
+
+Sans objet.
+
+## Pregnancy Breastfeeding
+
+En cas d'administration oculaire, le passage systémique est non négligeable. | Toutefois, par rapport à une forme collyre, le passage systémique à partir d’une forme pommade est vraisemblablement très faible. | Grossesse | Il n'y a pas de données fiables de tératogénèse chez l'animal. | En clinique, l'analyse d'un nombre élevé de grossesses exposées n'a apparemment révélé aucun effet malformatif ou fœtotoxique particulier de la rifamycine. Toutefois, seules des études épidémiologiques permettraient de vérifier l'absence de risque. | En conséquence, l'utilisation de cette pommade ne doit être envisagée au cours de la grossesse que si nécessaire. | Allaitement | En raison de l'absence de données du passage de ce médicament dans le lait maternel, l'utilisation de celui-ci est à éviter pendant l'allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : MEDICAMENTS OPHTALMOLOGIQUES – ANTI-INFECTIEUX, code ATC : S01AA16 . | (S : organes sensoriels) | Mécanisme d’action | Antibiotique antibactérien actif par voie locale sur la plupart des germes pathogènes Gram positif et à Gram négatif. | L’activité de la rifamycine s’exerce au niveau de l’ARN polymérase ADN dépendante par formation d’un complexe stable provoquant l’inhibition de la croissance des bactéries. | Efficacité et sécurité clinique | a) Le spectre antibactérien naturel de la rifamycine est le suivant : | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : | Staphylococcus spp. S £ 0,5 mg/l et R > 16 mg/l | Autres bactéries S £ 4 mg/l et R > 16 mg/l | La prévalence de la résistance acquise peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d’informations sur la prévalence de la résistance locale, surtout pour le traitement d’infections sévères. Ces données ne peuvent apporter qu’une orientation sur les probabilités de la sensibilité d’une souche bactérienne à cet antibiotique. | Lorsque la variabilité de la prévalence de la résistance en France est connue pour une espèce bactérienne, elle est indiquée dans le tableau ci-dessous : | Catégories Fréquence de résistance acquise en France (> 10%) (valeurs extrêmes) ESPÈCES SENSIBLES Aérobies à Gram positif Bacillus anthracis Listeria monocytogenes Rhodococcus equi Staphylococcus aureus méti-S Staphylococcus méti-R * 2 - 30 % Staphylococcus à coagulase négative 0 - 25 % Streptocoques A, B, C, G Streptococcus pneumoniae Streptocoques viridans ou non groupables Aérobies à Gram négatif Branhamella catarrhalis Brucella Haemophilus influenzae Haemophilus ducreyi Neisseria gonorrhoeae Neisseria meningitidis Pasteurella Anaérobies Bacteroides Clostridium difficile Clostridium perfringens Fusobacterium Peptostreptococcus Propionibacterium acnes Autres Chlamydia trachomatis Chlamydia psittaci Coxiella burnetii Legionella Mycobacterium kansasii Mycobacterium tuberculosis 1 - 7 % Autres mycobactéries du complexe tuberculosis ESPÈCES MODÉRÉMENT SENSIBLES ( in vitro de sensibilité intermédiaire) Aérobies à Gram positif Entérocoques ESPÈCES RÉSISTANTES Aérobies à Gram négatif Entérobactéries Mycobactéries atypiques (sauf Mycobacterium kansasii ) Pseudomonas | * La fréquence de résistance à la méticilline est environ de 30 à 50 % de l’ensemble des staphylocoques et se rencontre surtout en milieu hospitalier. | Type de résistance : | · — il n’a jamais été signalé à ce jour de résistance plasmidique transférable, ni d’enzyme inactivante ; | · — la résistance est de type chromosomique en un seul échelon ; | · — l’apparition de mutants résistants sous monothérapie rend obligatoire l’association à un autre antibiotique actif (une monothérapie ne pourrait être envisagée qu’en cas d’administration de très courte durée, n’excédant pas 2 jours, comme dans le cas de la prophylaxie de la méningite à méningocoque). | Remarque : ce spectre correspond à celui des formes systémiques de la rifamycine. Avec les présentations pharmaceutiques locales, les concentrations obtenues in situ sont très supérieures aux concentrations plasmatiques. Quelques incertitudes demeurent sur la cinétique des concentrations in situ, sur les conditions physico-chimiques locales qui peuvent modifier l’activité de l’antibiotique et sur la stabilité du produit in situ.
+
+## Adverse Effects
+
+— possibilité d’irritation transitoire. | — risque de réaction d’hypersensibilité. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : www.ansm.sante.fr .
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C .

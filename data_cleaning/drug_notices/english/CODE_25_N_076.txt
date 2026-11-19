@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_N_076
+DCI: Tadalafil
+DrugBank ID: DB00820
+DrugBank Name: Tadalafil
+Brand Names: ADONIS | CIAFAL | ERIXIUM | NOVALIS | TABLAFIL | TADAFORS | TADALIS | TADILIX | TYRA
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/28 | b/30 | b/30 et b/90
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: G04BE08
+Registration Numbers: 039/25 N 076/17/23 | 055/25 N 076/19/24 | 149/25 N 076/21 | 173/25 N 076/23 | 352/25 N 076/19/24 | 426/25 N 076/20 | 447/25 N 076/16/23 | 544/25 N 076/21 | 573/25 N 076/20
+Drug Codes: 25 N 076
+
+------------------------------------------------------------
+
+## Description
+
+Tadalafil is a selective phosphodiesterase-5 inhibitor that is used in the treatment of erectile dysfunction (ED), pulmonary arterial hypertension (PAH), and benign prostatic hypertrophy. 8 , 9 It was first approved in 2003 by the FDA for use in ED and later in 2009 for PAH. In contrast to other PDE5 inhibitors like sildenafil , tadalafil has greater selectivity for PDE5 and a longer half-life which has made it a more suitable option for chronic once-daily dosing in the treatment of PAH. 2
+
+## Pharmacodynamics
+
+Tadalafil exerts a therapeutic effect in ED by increasing sexual stimulation-dependant smooth muscle relaxation in the penis, allowing the corpus cavernosum to fill with blood to produce an erection. 2 , 3 Smooth muscle relaxation in the pulmonary vasculature helps to produce vasodilation in PAH which reduces blood pressure in the pulmonary arteries. 3 In BPH, tadalafil may contribute to decreased smooth muscle cell proliferation which may reduce the size of the prostate and relieve the anatomical obstruction which produces urinary symptoms of BPH. 4 The decreased affinity of tadalafil for PDE6 compared to other PDE5 inhibitors may explain the reduced incidence of visual side effects. 8 , 9 , 2
+
+## Mechanism Of Action
+
+cGMP-specific 3',5'-cyclic phosphodiesterase Inhibitor
+
+## Absorption
+
+Tadalafil has a tmax of 0.5-6h with a median of 2h in healthy adults. 1 , 7 The tmax in adults with PAH is reported as 2-8h with a median of 4h. 8 There does not appear to be a significant effect on absorption when tadalafil is taken with food. 1
+
+## Volume Of Distribution
+
+Tadalafil has a mean apparent volume of distribution of 63L in healthy adults. 1 , 7 The mean apparent volume of distribution is reported as 77L in adults with PAH. 8
+
+## Metabolism
+
+Tadalafil undergoes hepatic metabolism via CYP3A4 to a catechol metabolite. 1 , 5 , 7 , 8 This catechol metabolite undergoes subsequent methylation and glucuronidation with the methyl-glucuronide metabolite becoming the primary metabolite in circulation. None of the known metabolites are considered to be active. Hover over products below to view reaction partners Tadalafil Tadalafil catechol metabolite Tadalafil methylcatechol metabolite Tadalafil methylcatechol glucuronide metabolite
+
+## Route Of Elimination
+
+Tadalafil is primarily eliminated via hepatic metabolism. 1 , 7 , 8 These metabolites are mainly excreted in the feces (61%) and to a lesser extent in the urine (36%)
+
+## Half Life
+
+The mean half-life of elimination of tadalafil is 15-17.5h in healthy adults. 1 , 7 , 8 The mean half-life of elimination in adults with PAH is reported as 35h. 8
+
+## Clearance
+
+The mean apparent oral clearance of tadalafil is 2.5-3.4L/h in healthy adults. 1 , 7 , 8 The mean apparent oral clearance in adults with PAH is reported as 3.5L/h
+
+## Toxicity
+
+Symptoms of overdose are expected to be similar to typical adverse effects which may include headache, dyspepsia, back pain, myalgia, nasopharyngitis, and dizziness. 7 , 8 Standard supportive care is recommended. Hemodialysis is not expected to contribute significantly to tadalafil clearance.

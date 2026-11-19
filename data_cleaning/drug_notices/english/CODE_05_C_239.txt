@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_239
+DCI: LENVATINIB (mésilate) 4 mg gél (LENVIMA) | Lenvatinib
+DrugBank ID: DB09078
+DrugBank Name: Lenvatinib
+Brand Names: LENVIMA | LENVORION
+Pharmaceutical Forms: Gélule
+Dosages: 4 mg
+Packaging: b/30
+Laboratories: EISAI SAS
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EX - AUTRES INHIBITEURS DE PROTEINE KINASE | L01EX08 - LENVATINIB
+Registration Numbers: 446/05 C 239/23 | 596/05 C 239/25
+Drug Codes: 05 C 239
+
+------------------------------------------------------------
+
+## Description
+
+Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers. Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+
+## Pharmacodynamics
+
+Based on x-ray crystallography and kinetic interaction studies, lenvatinib binds to the adenosine 5'-triphosphate binding site of VEGFR2 and to a neighbouring region via a cyclopropane ring and thereby inhibits tyrosine kinase activity and associated signalling pathways.
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor receptor 1 Inhibitor Vascular endothelial growth factor receptor 2 Inhibitor Vascular endothelial growth factor receptor 3 Inhibitor + 7 more targets
+
+## Absorption
+
+Time to peak plasma concentration occurred from 1 to 4 hours post­dose. Administration with food did not affect the extent of absorption, but decreased the rate of absorption and delayed the median Tmax from 2 hours to 4 hours.
+
+## Metabolism
+
+Lenvatinib is metabolized by CYP3A and aldehyde oxidase.
+
+## Route Of Elimination
+
+Following administration of a radiolabeled dose, approximately 64% and 25% of the radiolabel were eliminated in the feces and urine, respectively.
+
+## Half Life
+
+The terminal elimination half­life of lenvatinib is approximately 28 hours.
+
+## Toxicity
+
+The most common adverse events that occurred in lenvatinib recipients were hypertension (67.8 vs. 9.2 % in the placebo group), diarrhea (59.4 vs. 8.4 %), fatigue or asthenia (59.0 vs. 27.5 %), decreased appetite (50.2 vs. 11.5 %), decreased bodyweight (46.4 vs. 9.2 %), nausea (41.0 vs. 13.7 %), stomatitis (35.6 vs. 3.8 %), palmar-plantar erythrodysethesia syndrome (31.8 vs. 8.0 %) and proteinuria (31.0 vs. 1.5 %). Adverse events that occurred in clinical trials and for which there is a warning/precaution in US manufacturer’s pre- scribing information were hypertension, cardiac dysfunction (decreased left or right ventricular function, cardiac failure or pulmonary edema), arterial thromboembolic events, hepatotoxicity, proteinuria, renal failure and impairment, gastrointestinal perforation and fistula formation, QT interval prolongation, hypocalcaemia, reversible posterior leucoencephalopathy syndrome, haemorrhagic events, and impairment of thyroid stimulating hormone (TSH) suppression. Based on the mechanism of action of lenvatinib and results from animal reproduction studies, which showed embryotoxicity, foetotoxicity and teratogenicity at lenvatinib doses below the recommended dose in humans, females of reproductive potential should be advised to use effective contraception during treatment and for at least 2 weeks following completion of therapy.

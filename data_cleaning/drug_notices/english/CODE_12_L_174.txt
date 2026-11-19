@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_L_174
+DCI: Darbepoetine Alfa
+DrugBank ID: DB00012
+DrugBank Name: Darbepoetin alfa
+Brand Names: ARANESP | DERISE 25
+Pharmaceutical Forms: Solution
+Dosages: 25mcg/0.42ml | 25mcg/ml (10mcg/0.4ml)
+Packaging: b/04 seringues preremplies de 0.4ml sans syst. de securite | b/1 serin pre rempli de 0.42 ml
+Registration Numbers: 481/12 L 174/15 | 524/12 L 174/21
+Drug Codes: 12 L 174
+
+------------------------------------------------------------
+
+## Description
+
+Human erythropoietin with 2 aa substitutions to enhance glycosylation (5 N-linked chains), 165 residues (MW=37 kD). Produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
+
+## Pharmacodynamics
+
+Darbepoetin alfa is used in the treatment of anemia. It is involved in the regulation of erythrocyte differentiation and the maintenance of a physiological level of circulating erythrocyte mass.
+
+## Mechanism Of Action
+
+Erythropoietin receptor Agonist

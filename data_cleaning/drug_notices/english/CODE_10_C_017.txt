@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_C_017
+DCI: Nifuroxazide
+DrugBank ID: DB13855
+DrugBank Name: Nifuroxazide
+Brand Names: NIFUROXAZIDE IVAL
+Pharmaceutical Forms: Gles.
+Dosages: 200MG
+Packaging: B/30
+Laboratories: PHARMA IVAL
+Countries: ALGERIE
+Reference Tariff (DA): 185.1 DA
+Prescription List: Liste II
+ATC Classification: 10C017
+Registration Numbers: 235/10 C 017/08/25 | 268/10 C 017/06/21 | 462/10 C 017/13
+Drug Codes: 10 C 017
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as benzoic acids and derivatives. These are organic compounds containing a carboxylic acid substituent attached to a benzene ring.

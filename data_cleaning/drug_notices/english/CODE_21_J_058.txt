@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_J_058
+DCI: ADALIMUMAB 40 mg/0,4 ml sol inj ser préremplie (IMRALDI) | Adalimumab
+DrugBank ID: DB00051
+DrugBank Name: Adalimumab
+Brand Names: ADALIMUMAB-SAIDAL | ADAMIRA | AMGEVITA | AMSPARITY | CINNORA | HULIO | HUMIRA | HYRIMOZ | IDACIO
+Pharmaceutical Forms: Solution
+Dosages: 40mg/0.8ml
+Packaging: b/2 seringue pre-remplies de 0.8ml
+Laboratories: BIOGEN FRANCE SAS
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AB - INHIBITEURS DU TNF-ALPHA | L04AB04 - ADALIMUMAB
+Registration Numbers: 003/21 J 058/24 | 045/21 J 058/23 | 080/21 J 058/21 | 481/21 J 058/21 | 498/21 J 058/09/23 | 575/21 J 058/25 | 596/21 J 058/25 | 613/21 J 058/21 | 613/21 J 058/23
+Drug Codes: 21 J 058
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+After treatment with adalimumab, a decrease in levels of acute phase reactant proteins of inflammation (C­ reactive protein [CRP] and erythrocyte sedimentation rate [ESR]) and serum cytokines (IL-6) was measured compared to baseline in patients diagnosed with rheumatoid arthritis. A decrease in CRP levels was also observed in patients diagnosed with Crohn’s disease. Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that lead to the tissue remodeling responsible for cartilage destruction were also found to be decreased after administration of adalimumab. 15 A reduction in signs and symptoms of disease, the induction of clinical response, inhibition of structural damage, and improvements in physical function in adult and pediatric patients with various inflammatory conditions have been demonstrated. 1 , 3 , 15
+
+## Mechanism Of Action
+
+Tumor necrosis factor Inhibitor Antibody
+
+## Absorption
+
+The maximum serum concentration (Cmax) and the time to reach the maximum concentration (Tmax) were 4.7 ± 1.6 μg/mL and 131 ± 56 hours respectively, following a single 40 mg subcutaneous administration of adalimumab to healthy adult subjects. The average absolute bioavailability of adalimumab estimated from three clinical studies after a single 40 mg subcutaneous dose of adalimumab was 64%. The pharmacokinetics of adalimumab showed a linear pattern over the dose range of 0.5 to 10.0 mg/kg following a single intravenous dose. 15
+
+## Volume Of Distribution
+
+The distribution volume (Vss) ranged from 4.7 to 6.0 L following intravenous administration of doses ranging from 0.25 to 10 mg/kg in RA patients. 15
+
+## Route Of Elimination
+
+Adalimumab is most likely removed by opsonization via the reticuloendothelial system. 7
+
+## Half Life
+
+The mean terminal half-life was approximately 2 weeks, ranging from 10 to 20 days across studies. 15
+
+## Clearance
+
+The single-dose pharmacokinetics of adalimumab in RA patients were determined in several studies with intravenous doses ranging from 0.25 to 10 mg/kg. The systemic clearance of adalimumab is approximately 12 mL/hr. In long-term studies with dosing more than two years, there was no evidence of changes in clearance over time in RA patients. 15
+
+## Toxicity
+
+Doses up to 10 mg/kg have been administered to patients in clinical trials without evidence of dose-limiting toxicities. In case of overdosage, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions or effects and appropriate symptomatic treatment instituted immediately. 16

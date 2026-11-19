@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_A_004
+DCI: GENTAMICINE (sulfate) 3 000 UI/1 ml + INDOMETACINE 1 mg/1 ml collyre sol récip unidose (INDOBIOTIC Unidose)
+Brand Names: GENTA 40 | GENTAXYN | GENTHERAXINE | S-GENTA
+Pharmaceutical Forms: Solution
+Dosages: 20mg/ml (40mg/2ml)
+Packaging: b/05 ampoule de 02ml | b/05 ampoule de 02ml et b/50 ampoule de 02ml | b/10 ampoule
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01B - ANTIINFLAMMATOIRES | S01BC - ANTIINFLAMMATOIRES NON STEROIDIENS | S01BC01 - INDOMETACINE
+Registration Numbers: 080/13 A 004/98 | 317/13 A 004/23 | 433/13 A 004/13/23 | 543/13 A 004/20
+Drug Codes: 13 A 004
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Inhibition du myosis peropératoire | Traitement phase 1 | Administrer la veille de l'intervention chirurgicale | 4 gouttes 1 fois ce jour | Traitement phase 2 | Administrer dans les 3 heures précédant l'intervention chirurgicale | 4 gouttes 1 fois ce jour | Inflammation post-opératoire de la cataracte - Inflammation post-opératoire en ophtalmologie | Posologie standard | Débuter le traitement 24 heures avant l'intervention chirurgicale | Traitement à poursuivre jusqu'à disparition des symptômes | 1 gte 4 à 6 fois par jour | Oedème maculaire post-opératoire de la cataracte, traitement préventif (de l') | Posologie standard | 1 gte 4 fois par jour | Pendant 12 semaines | Douleur post-opératoire en ophtalmologie | Posologie standard | 1 gte 4 fois par jour
+
+## Precautions
+
+Allaitement | Altération de l'épithélium cornéen | Association à un corticoïde | Dénervation cornéenne | Diabète | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Grossesse, 5 premiers mois (de la) | Hyposécrétion lacrymale | Infection oculaire | Intervention chirurgicale oculaire compliquée ou répétée | Nouveau-né exposé in utero au médicament | Polyarthrite rhumatoïde | Sujet à risque d'infection | Sujet à risque hémorragique | Sujet porteur de lentilles de contact | Traitement concomitant par des médicaments perturbant l'hémogramme | Traitement concomitant par un collyre | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Indométacine : Mécanisme d'action | L'indométacine est un anti-inflammatoire non stéroïdien, appartenant au groupe des indoliques, et possède les propriétés suivantes : activités antalgique, anti-inflammatoire, antipyrétique et inhibition des fonctions plaquettaires. | L'ensemble de ces propriétés est lié à une inhibition de la synthèse des prostaglandines.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Photosensibilisation (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | OPHTALMOLOGIE: | - Irritation oculaire (Peu fréquent) | - Douleur oculaire (Peu fréquent) | - Prurit oculaire (Rare) | - Kératite ponctuée (Rare) | - Rougeur oculaire (Rare) | - Ulcère cornéen | - Kératite | - Hyperhémie oculaire | - Oedème cornéen | - Hypersécrétion lacrymale | - Défauts visuels | - Perforation de la cornée | - Hyperhémie conjonctivale | - Oedème palpébral

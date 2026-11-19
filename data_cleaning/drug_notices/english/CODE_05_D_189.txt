@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_189
+DCI: Brentuximab Vedotin Takeda
+DrugBank ID: DB08870
+DrugBank Name: Brentuximab vedotin
+Brand Names: ADCETRIS
+Pharmaceutical Forms: Poudre
+Dosages: 5 mg/ml
+Packaging: b/01 flacon
+Registration Numbers: 411/05 D 189/17
+Drug Codes: 05 D 189
+
+------------------------------------------------------------
+
+## Description
+
+Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large-cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post-treatment. 5 The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy. 5 Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens. 5 Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission. 5 The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen compared to the previous standard of care. Importantly, bleomycin - a highly toxic agent - was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease. 6
+
+## Pharmacodynamics
+
+Brentuximab vedotin causes apoptosis of tumor cells by preventing cell cycle progression of the G2 to M phase through disruption of the cytosolic microtuble network, thus preventing tumor growth and proliferation. 13 Hodgkin lymphoma (HL) is characterized by malignant Reed-Sternberg cells which express CD30, a marker of large cell lymphoma. 4 Until March 2018, USA National Comprehensive Cancer Network guidelines for patients with advanced HL (stage III/IV disease) recommend treatment with adriamycin, bleomycin, vinblastine, and dacarbazine (ABVD), or escalated bleomycin, etoposide, adriamycin, cyclophosphamide, vincristine, procarbazine, and prednisone (BEACOPP) as first-line regimens. 7 ABVD appears to be as effective, with fewer side effects, as escalated BEACOPP. Escalated BEACOPP leads to a greater progression-free survival but no difference in overall survival. Recent progress in technology has enabled a new shift to cancer therapy targeting specific molecules. Brentuximab vedotin, a CD30-directed antibody conjugate, selectively targets malignant HL cells. 3 The effect of Brentuximab vedotin (1.8 mg/kg) on the QTc interval was studied in an open-label, single-group study in 46 patients diagnosed with CD30-expressing hematologic malignancies. Ingestion of brentuximab vedotin did not prolong the mean cardiac QTc interval >10 ms from baseline levels. Smaller increases in the mean QTc interval (<10 ms) cannot be ruled out because this study did not include a placebo arm and a positive control arm. 13
+
+## Mechanism Of Action
+
+Tumor necrosis factor receptor superfamily member 8 Binder Antibody Regulator
+
+## Absorption
+
+Steady-state of the ADC is achieved within 21 days with every 3-week dosing of Adcetris. Minimal to no accumulation of ADC is observed with multiple doses at the every 3-week schedule. The time to maximum concentration for MMAE ranges from approximately 1 to 3 days. Similar to the ADC, steady-state of MMAE is achieved within 21 days with every 3-week dosing of Adcetris. MMAE exposures decrease with continued administration of Adcetris with about 50% to 80% of the exposure of the first dose being observed at future doses. The AUC of MMAE was measured to be approximately 2.2-fold higher in patients with hepatic impairment in comparison with patients with normal hepatic function. 13
+
+## Volume Of Distribution
+
+MMAE is unlikely to displace or to be displaced by highly protein-bound drugs. In vitro studies show that MMAE is a substrate of P-gp and was not a potent inhibitor of P-gp. 13
+
+## Metabolism
+
+Data in both animals and humans suggest that only a small fraction of MMAE released from brentuximab vedotin is metabolized. In vitro data indicate that the MMAE metabolism that occurs is primarily via oxidation by CYP3A4/5. In vitro studies using human liver microsomes indicate that MMAE inhibits CYP3A4/5 but not other CYP isoforms. MMAE did not induce any major CYP450 enzymes in primary cultures of human hepatocytes. 13 Hover over products below to view reaction partners Brentuximab vedotin Monomethyl Auristatin E (MMAE)
+
+## Route Of Elimination
+
+This drug appears follow metabolite kinetics, with the elimination of appearing to be limited by its rate of release from the antibody-drug conjugate (ADC). An excretion study was done in patients receiving a dose of 1.8 mg/kg of Adcetris. About 24% of the total MMAE ingested as part of the ADC during an ADCETRIS infusion was recovered in both urine and feces over a 7-day time frame. Of the recovered MMAE, approximately 72% was found in the feces and the majority of the excreted MMAE was excreted as unchanged drug. 13
+
+## Half Life
+
+The terminal half-life is approximately 4-6 days. 13
+
+## Clearance
+
+The liver is the primary route of clearance for MMAE. The pharmacokinetics and safety of Brentuximab vedotin and MMAE were examined after the administration of 1.2 mg/kg of Adcetris to patients with mild, moderate, and severe hepatic impairment. In patients with moderate and severe hepatic impairment, the rate of ≥Grade 3 adverse reactions was 6/6 (100%) compared to 3/8 (38%) in patients with normal hepatic function. 13 It is recommended to avoid use in patients with severe renal impairment (CrCl <30mL/min). 9
+
+## Toxicity
+
+The most severe toxic reaction seen in patients is progressive multifocal leukoencephalopathy. 13 Progressive multifocal leukoencephalopathy (PML) follows infection by the JC virus (which is not related to Creutzfeldt-Jakob disease). Symptoms of this condition begin insidiously and usually worsen progressively. The symptoms vary depending on which region of the brain is infected. In about two out of three patients, mental function deteriorates rapidly, leading to dementia. Speaking and walking may become increasingly difficult. Vision may be impaired, and total blindness may occur. Rarely, headaches and seizures can occur, mainly in immunocompromised patients. The most serious sequela of this condition is death. 10 Common adverse effects of Adcetris may include: neutropenia, anemia, peripheral neuropathy, nausea, fatigue, constipation, diarrhea, vomiting, and fever. In one trial, neutropenia occurred in 91 percent of patients treated with Adcetris plus chemotherapy, which was associated with a 19 percent rate of febrile neutropenia (neutropenia and fever). 5 Preventive treatment with G-CSF, a growth factor for the bone marrow to produce white blood cells, is recommended with Adcetris plus chemotherapy for the first-line treatment of Stage III or IV cHL. 5 Adcetris has a boxed warning that emphasizes the risk of John Cunningham virus infection leading to progressive multifocal leukoencephalopathy, or PML, a rare but serious brain infection that may be lethal. Serious risks of Adcetris include peripheral neuropathy; severe allergic (anaphylaxis) or infusion-site reactions; damage to the blood, lungs and liver (hematologic, pulmonary and hepato-toxicities); severe/opportunistic infections; metabolic abnormalities (tumor lysis syndrome); dermatologic reactions and gastrointestinal complications. Adcetris may cause harm to the fetus and newborn baby; women should be warned of the potential risk to the fetus and to use effective contraception, and to avoid breastfeeding while taking Adcetris. 5 MMAE was found to be genotoxic in the rat bone marrow micronucleus study through an aneugenic mechanism. This effect is consistent with the pharmacological effect of MMAE as a microtubule-disrupting drug. Fertility studies with Brentuximab vedotin or MMAE have not been conducted. Despite this, results of repeat-dose toxicity studies in rats suggest the potential for Brentuximab vedotin to have a negative effect on male reproductive function and fertility. In a 4-week repeated-dose toxicity study in rats with weekly dosing at 0.5, 5 or 10 mg/kg brentuximab vedotin, seminiferous tubule degeneration, Sertoli cell vacuolation, reduced spermatogenesis, and aspermia were observed. 5 Effects in animals were seen mostly at 5 and 10 mg/kg doses of brentuximab vedotin. These dosages are approximately 3 and 6-fold the human recommended dose of 1.8 mg/kg, respectively, based on individual body weight. 13

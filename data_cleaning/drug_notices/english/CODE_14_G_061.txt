@@ -1,0 +1,51 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_061
+DCI: POTASSIUM (gluconate) 25 mg/ml sirop (POTASSIUM H2 PHARMA) | POTASSIUM CHLORURE 15 % sol diluer p perf (CHLORURE DE POTASSIUM PROAMP)
+DrugBank ID: DB13620
+DrugBank Name: Potassium gluconate
+Brand Names: GLUPOTAS | K-PLUS | KALIGON | KALIGON SANS SUCRE
+Pharmaceutical Forms: Siropop | Solution
+Dosages: 0.15 | 15%
+Packaging: b/01 flacon 120ml | b/01 flacon 200ml
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA01 - LOSARTAN
+Registration Numbers: 003/14 G 061/22 | 003/14 G 061/97/20 | 235/14 G 061/23 | 320/14 G 061/20
+Drug Codes: 14 G 061
+
+------------------------------------------------------------
+
+## Description
+
+Potassium gluconate is a salt of Potassium cation and is classified as a food additive by the FDA 7 . It is also used as a potassium supplement 10 . Potassium is an essential nutrient. It is the most abundant cation in the intracellular fluid, where it plays a key role in maintaining cell function 1 . In dietary supplements, potassium is often present as potassium chloride, but many other forms—including potassium citrate, phosphate, aspartate, bicarbonate, and gluconate —are also used 5 . Potassium gluconate is believed to be more palatable and non-acidifying than potassium chloride (KCl) 11 .
+
+## Pharmacodynamics
+
+Potassium is an essential nutrient. It is the most abundant cation in intracellular fluid, where it plays a key role in maintaining cell function, especially in excitable cells such as skeletal muscles, the heart, and nerves 3 .
+Increases in interstitial potassium play an important role in eliciting rapid vasodilation, allowing for blood flow to increase in exercising muscle 13 .
+
+## Mechanism Of Action
+
+Potassium is the most abundant cation (approximately 150 to 160 mEq per liter) within human cells. Intracellular sodium content is relatively low. In the extracellular fluid, sodium predominates and the potassium content is low (3.5 to 5 mEq per liter). A membrane-bound enzyme, sodium-potassium–activated adenosinetriphosphatase (Na +K +ATPase), actively transports or pumps sodium out and potassium into cells to maintain the concentration gradients. The intracellular to extracellular potassium gradients are necessary for nerve impulse signaling in such specialized tissues as the heart, brain, and skeletal muscle, and for the maintenance of physiologic renal function and maintenance of acid-base balance. High intracellular potassium concentrations are necessary for numerous cellular metabolic processes 8 . Intracellular K+ serves as a reservoir to limit the fall in extracellular potassium concentrations occurring under pathologic conditions with loss of potassium from the body 13 .
+
+## Absorption
+
+Potassium is rapidly and well absorbed. A 2016 dose-response trial found that humans absorb about 94% of potassium gluconate in supplements, and this absorption rate is similar to that of potassium from potatoes 2 .
+
+## Volume Of Distribution
+
+Distribution is largely intracellular, but it is the intravascular concentration that is primarily
+responsible for toxicity 6 .
+
+## Route Of Elimination
+
+90% of potassium is eliminated via the kidneys. A small amount is eliminated in feces and sweat 6 .
+
+## Clearance
+
+Potassium is freely filtered by the glomerulus in the kidney. The majority of filtered potassium is reabsorbed in the proximal tubule and loop of Henle. Less than 10% of the filtered load reaches the distal nephron. In the proximal tubule of the nephron, potassium absorption is mainly passive and proportional to Na+ and water. K+ reabsorption in the thick ascending limb of Henle occurs through both transcellular and paracellular pathways. The transcellular component is regulated by potassium transport on the apical membrane Na+-K+-2Cl− cotransporter. The secretion of potassium begins in the early distal convoluted tubule of the nephron and progressively increases along the distal nephron into the cortical collecting duct. Most urinary K+ can be accounted for by electrogenic K+ secretion mediated by principal cells in the initial collecting duct and the cortical collecting duct. An electroneutral K+ and Cl− cotransport mechanism is also present on the apical surface of the distal nephron. Under conditions of potassium deficiency, reabsorption of the cation occurs in the collecting duct. This process is regulated by the upregulation in the apically located H+-K+-ATPase on α-intercalated cells 13 .
+
+## Toxicity
+
+Acute oral toxicity (LD50): 9100 mg/kg in the mouse MSDS Toxicity from overdose is rare but may result from intentional ingestion of potassium. Iatrogenic overdoses may occur 6 . Local irritation after ingestion causes GI upset. Severe hyperkalemia after large IV or oral overdoses causes muscular dysfunction including weakness, paralysis, cardiac dysrhythmias, and rarely death 6 . Mild to moderate toxicity Nausea, vomiting, diarrhea, paresthesias, and muscle cramps are common. Rarely, gastrointestinal bleed may occur. Severe toxicity In severe toxicity, muscular weakness progressing to paralysis may occur. Cardiac arrhythmia often occur at concentrations greater than 8 mEq/L and death from cardiac arrest at concentrations of 9 to 12 mEq/L or higher. Characteristic ECG findings occur in the following order: peaked T waves, QRS complex blends into the T wave, PR interval prolongation, P wave is lost and ST segments depress, merging S and T waves, and finally, sine waves. The presence of the sine wave is a near terminal event, signaling that hemodynamic collapse and cardiac arrest are near. As serum hyperkalemia is corrected towards normal concentrations, the ECG changes resolve in reverse order 6 .

@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_101
+DCI: Olanzapine
+DrugBank ID: DB00334
+DrugBank Name: Olanzapine
+Brand Names: OLANZAPINE MM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 10MG
+Packaging: B/07 ET B/28
+Laboratories: MM LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 1638 DA
+PPA (DA): 5716.00 DA
+Prescription List: Liste I
+ATC Classification: 16D100
+Registration Numbers: 001/16 D 101/11/21 | 035/16 D 101/16 | 263/16 D 101/16/22 | 268/16 D 101/24 | 286/16 D 101/14 | 352/16 D 101/10/25 | 447/16 D 101/13/24
+Drug Codes: 16 D 101
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+The effect of olanzapine in the D2 receptor is reported to produce the positive effects of this drug such as a decrease in hallucinations, delusions, disorganized speech, disorganized thought, and disorganized behavior. On the other hand, its effect on the serotonin 5HT2A receptor prevents the onset of anhedonia, flat affect, alogia, avolition and poor attention. 6 Based on the specific mechanism of action, olanzapine presents a higher affinity for the dopamine D2 receptor when compared to the rest of the dopamine receptor isotypes. This characteristic significantly reduces the presence of side effects. 10 Clinical trials for the original use of olanzapine demonstrated significant effectiveness in the treatment of schizophrenia and bipolar disorder in adults and acute manic or mixed episodes associated with bipolar disorder in adolescents. 4 The effect of olanzapine on dopamine and serotonin receptors has been suggested to reduce chemotherapy-induced nausea and vomiting as those receptors are suggested to be involved in this process. For this effect, several clinical trials have been conducted and it has been shown that olanzapine can produce a significant increase in total control of nausea and vomiting. 1 In a high-level study of the effect of olanzapine for this condition, a complete response on the delay phase was observed in 84% of the individual and control of emesis of over 80% despite the phase. 3
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 2A Antagonist D(2) dopamine receptor Antagonist D(1A) dopamine receptor Antagonist + 15 more targets
+
+## Absorption
+
+Olanzapine presents a linear pharmacokinetic profile and, after daily administration, it reaches steady-state in about a week. 6 Under the administration of a normal dosage of olanzapine, the steady-state plasma concentration does not seem to exceed 150 ng/ml with an AUC of 333 ng/h/ml. 7 , 10 The absorption of olanzapine is not affected by the concomitant administration of food. The pharmacokinetic profile of olanzapine is characterized by reaching peak plasma concentration of 156.9 ng/ml approximately 6 hours after oral administration. 8
+
+## Volume Of Distribution
+
+The volume of distribution of olanzapine is reported to be of 1000 liters which indicate a large distribution throughout the body. 6
+
+## Metabolism
+
+Olanzapine is greatly metabolized in the liver, which represents around 40% of the administered dose, mainly by the activity of glucuronide enzymes and by the cytochrome P450 system. From the CYP system, the main metabolic enzymes are CYP1A2 and CYP2D6. 6 As part of the phase I metabolism, the major circulating metabolites of olanzapine, accounting for approximate 50-60% of this phase, are the 10-N-glucuronide and the 4'-N-desmethyl olanzapine which are clinically inactive and formed by the activity of CYP1A2. 8 On the other hand, CYP2D6 catalyzes the formation of 2-OH olanzapine and the flavin-containing monooxygenase (FMO3) is responsible for N-oxide olanzapine. 9 On the phase II metabolism of olanzapine, UGT1A4 is the key player by generating direct conjugation forms of olanzapine. 9 Hover over products below to view reaction partners Olanzapine 7-hydroxyolanzapine 4'-N-desmethylolanzapine 2-hydroxymethylolanzapine Olanzapine 10-N-glucuronide N-oxide olanzapine
+
+## Route Of Elimination
+
+Olanzapine is mainly eliminated through metabolism and hence, only 7% of the eliminated drug can be found as the unchanged form. It is mainly excreted in the urine which represents around 53% of the excreted dose followed by the feces that represent about 30%. 6
+
+## Half Life
+
+Olanzapine presents a half-life ranging between 21 to 54 hours with an average half-life of 30 hours. 6
+
+## Clearance
+
+The mean clearance rate of olanzapine is of 29.4 L/hour however, some studies have reported an apparent clearance of 25 L/h. 10
+
+## Toxicity
+
+The toxicity symptoms of olanzapine are known to include somnolence, mydriasis, blurred vision, respiratory depression, hypotension, extrapyramidal symptoms and anticholinergic effects. The overdosage effects in children are generally associated with more significant side effects. 7 The maximum registered dosage of olanzapine in clinical trials was of 300 mg and it was reported to present drowsiness and slurred speech. However, on post-marketing surveillance, a wide range of symptoms have been presented including agitation, dysarthria, tachycardia, extrapyramidal symptoms, and reduced consciousness. One case of overdosage-driven death was reported after ingestion of 450 mg of olanzapine. In the cases of acute overdosage, the establishment of adequate oxygenation and ventilation, gastric lavage and administration of activated charcoal with a laxative is recommended. Label In carcinogenesis studies, olanzapine was showed to present an increase in the incidence of liver hemangiomas and hemangiosarcomas as well as mammary gland adenomas, and adenocarcinomas. On fertility studies, there was solely found impairment in male mating performance and delays in ovulation. There is no evidence of mutagenic, genotoxic potential not adverse events on fertility. Label

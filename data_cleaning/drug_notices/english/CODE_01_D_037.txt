@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_D_037
+DCI: Extraits Allergeniques Melange De 5 Gramines
+DrugBank ID: DB00255
+DrugBank Name: Diethylstilbestrol
+Brand Names: ALUSTAL
+Pharmaceutical Forms: Suspension
+Dosages: 0.1ir/ml+1ir/ml+10ir/ml
+Packaging: b/03fl.
+Registration Numbers: 130/01 D 037/00/14
+Drug Codes: 01 D 037
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic nonsteroidal estrogen used in the treatment of menopausal and postmenopausal disorders. It was also used formerly as a growth promoter in animals. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), diethylstilbestrol has been listed as a known carcinogen. (Merck, 11th ed) The FDA withdrew its approval for the use of all oral and parenteral drug products containing 25 milligrams or more of diethylstilbestrol per unit dose. 6
+
+## Pharmacodynamics
+
+Diethylstilbestrol is a synthetic estrogen that was developed to supplement a woman's natural estrogen production. In 1971, the Food and Drug Administration (FDA) issued a Drug Bulletin advising physicians to stop prescribing DES to pregnant women because it was linked to a rare vaginal cancer in female offspring.
+
+## Mechanism Of Action
+
+Estrogen receptor beta Agonist Estrogen receptor Agonist Estrogen-related receptor gamma Agonist
+
+## Metabolism
+
+Hepatic.
+
+## Toxicity
+
+Symptoms of overdose include nausea and vomiting, and withdrawal bleeding may occur in females.

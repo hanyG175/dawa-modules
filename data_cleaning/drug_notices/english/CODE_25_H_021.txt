@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_H_021
+DCI: Mesterolone
+DrugBank ID: DB13587
+DrugBank Name: Mesterolone
+Brand Names: PROVIRON | ROVERON
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/20
+Registration Numbers: 070/25 H 021/97 | 121/25 H 021/06
+Drug Codes: 25 H 021
+
+------------------------------------------------------------
+
+## Description
+
+Mesterolone is a synthetic anabolic-androgenic steroid (AAS) and derivative of dihydrotestosterone (DHT). It is inactivated by 3α-hydroxysteroid dehydrogenase in skeleta muscules so it is considered a weak androgen. It is not a substrate for aromatase so it is not converted into estrogen. Mesterolone demonstrated to have minimal effect on sperm counts and levels of FSH or LH 1 , 2 . Experiments of mesterolone serving as a potential treatment of depression are still undergoing.

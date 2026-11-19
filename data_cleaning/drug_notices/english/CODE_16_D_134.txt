@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_134
+DCI: Loxapine
+DrugBank ID: DB00408
+DrugBank Name: Loxapine
+Brand Names: LOXAPAC
+Pharmaceutical Forms: Solution
+Dosages: 25mg/ml
+Packaging: b/1fl. de 30ml avec seringue pour administration orale
+Laboratories: arrow generiques | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: N05AH01
+Registration Numbers: 656/16 D 134/09/24
+Drug Codes: 16 D 134
+
+------------------------------------------------------------
+
+## Description
+
+An antipsychotic agent used in schizophrenia. [PubChem]
+
+## Pharmacodynamics
+
+Loxapine, a dibenzoxazepine compound, represents a subclass of tricyclic antipsychotic agents, chemically distinct from the thioxanthenes, butyrophenones, and phenothiazines. Pharmacologically, Loxapine is a tranquilizer for which the exact mode of action has not been established, however, it is believed that by antagonising dopamine and serotonin receptors, there is a marked cortical inhibition which can manifest as tranquilization and suppression of aggression.
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 2A Antagonist D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Systemic bioavailability of the parent drug was only about one third that after an equivalent intramuscular dose (25 mg base) in male volunteers
+
+## Metabolism
+
+Hepatic
+
+## Route Of Elimination
+
+Metabolites are excreted in the urine in the form of conjugates and in the feces unconjugated.
+
+## Half Life
+
+Oral-4 hours
+
+## Toxicity
+
+LD 50 =65 mg/kg (Orally in mice)

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_118
+DCI: Sunitinib
+DrugBank ID: DB01268
+DrugBank Name: Sunitinib
+Brand Names: ORION SUNITINIB | SUNIBE | SUNITEX | SUNITINIB BIOPHARM | SUTENT
+Pharmaceutical Forms: Gélule
+Dosages: 12.5mg
+Packaging: b/28 | b/30
+Registration Numbers: 001/05 C 118/24 | 045/05 C 118/07/13 | 263/05 C 118/25 | 426/05 C 118/22 | 596/05 C 118/24
+Drug Codes: 05 C 118
+
+------------------------------------------------------------
+
+## Description
+
+Sunitinib is a small-molecule multi-targeted receptor tyrosine kinase (RTK) inhibitor. On January 26, 2006, the agent was formally approved by the US FDA for the indications of treating renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST). For these purposes, sunitinib is generally available as an orally administered formulation. Sunitinib inhibits cellular signaling by targeting multiple RTKs. These include all platelet-derived growth factor receptors (PDGF-R) and vascular endothelial growth factor receptors (VEGF-R). Sunitinib also inhibits KIT (CD117), the RTK that drives the majority of GISTs. In addition, sunitinib inhibits other RTKs including RET, CSF-1R, and flt3.
+
+## Pharmacodynamics
+
+Sunitinib is an oral, small-molecule, multi-targeted receptor tyrosine kinase (RTK) inhibitor that was approved by the FDA on January 26, 2006.
+
+## Mechanism Of Action
+
+Platelet-derived growth factor receptor beta Inhibitor Vascular endothelial growth factor receptor 1 Inhibitor Mast/stem cell growth factor receptor Kit Inhibitor + 5 more targets
+
+## Absorption
+
+Maximum plasma concentrations (Cmax) of sunitinib are generally observed between 6 and 12 hours (Tmax) following oral administration. Food has no effect on the bioavailability of sunitinib. Sunitinib may be taken with or without food. The pharmacokinetics were similar in healthy volunteers and in the solid tumor patient populations tested, including patients with GIST and RCC.
+
+## Volume Of Distribution
+
+2230 L (apparent volume of distribution, Vd/F)
+
+## Metabolism
+
+Sunitinib is metabolized primarily by the cytochrome P450 enzyme, CYP3A4, to produce its primary active metabolite, which is further metabolized by CYP3A4.
+
+## Route Of Elimination
+
+Sunitinib is metabolized primarily by the cytochrome P450 enzyme, CYP3A4, to produce its primary active metabolite, which is further metabolized by CYP3A4. Elimination is primarily via feces. In a human mass balance study of [14C]sunitinib, 61% of the dose was eliminated in feces, with renal elimination accounting for 16% of the administered dose.
+
+## Half Life
+
+Following administration of a single oral dose in healthy volunteers, the terminal half-lives of sunitinib and its primary active metabolite are approximately 40 to 60 hours and 80 to 110 hours, respectively.
+
+## Clearance
+
+34 - 62 L/h [Total oral clearance]
+
+## Toxicity
+
+The maximally tolerated dose for rat, mouse, and dog when given orally is greater than 500 mg/kg. The maximally tolerated dose of a non-human primate is greater 1200 mg/kg.

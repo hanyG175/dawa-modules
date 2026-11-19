@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_330
+DCI: EPLERENONE 25 mg cp (EPLERENONE VIATRIS GENERIQUES)
+Brand Names: ELERAX | EPLERON
+Pharmaceutical Forms: Comprimé
+Dosages: 25 mg | 25mg
+Packaging: b/30 | boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C03 - DIURETIQUES | C03D - ANTAGONISTES DE L'ALDOSTERONE ET AUTRES AGENTS EPARGNEURS POTASSIQUES | C03DA - ANTAGONISTES DE L'ALDOSTERONE | C03DA04 - EPLERENONE
+Registration Numbers: 263/06 H 330/23 | 352/06 H 330/21
+Drug Codes: 06 H 330
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | éplérénone : 25 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Insuffisance cardiaque après infarctus du myocarde, traitement préventif associé (de l') | Traitement initial | Traitement à instaurer de préférence entre le 3e et le 14e jour après l'infarctus | 25 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter à la kaliémie | 25 à 50 mg 1 fois par jour | Posologie maximale: 50 mg par jour | Insuffisance cardiaque, traitement associé (de l') | Traitement initial | 25 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter à la kaliémie | 25 à 50 mg 1 fois par jour | Posologie maximale: 50 mg par jour | Hyperaldostéronisme primaire chez l'adulte, traitement de 2e intention (de l') | Traitement initial | Administrer matin et soir | 50 mg en 2 prises par jour | Pendant 1 mois | Traitement ultérieur | Posologie à adapter à la kaliémie | Posologie à augmenter par palier de 50 mg à intervalle d'au moins 1 mois | 50 à 300 mg en 2 prises par jour | Posologie maximale: 300 mg par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Diabète | Grossesse | Hyperaldostéronisme primaire | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Néphropathie diabétique | Sportif | Sujet âgé | Sujet à risque d'hyperkaliémie | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+éplérénone : Mécanisme d'action | L'éplérénone présente une sélectivité relative dans sa fixation aux récepteurs minéralocorticoïdes humains recombinants comparativement à sa fixation aux récepteurs glucocorticoïdes humains recombinants, aux récepteurs à la | progestérone | et aux androgènes. L'éplérénone empêche la fixation de l'aldostérone, hormone essentielle du système rénine-angiotensine-aldostérone (SRAA) qui est impliquée dans la régulation de la tension artérielle et la physiopathologie des maladies cardiovasculaires. | L'éplérénone a induit des élévations prolongées de la rénine plasmatique et de l'aldostérone sérique, correspondant à l'inhibition du rétrocontrôle négatif de l'aldostérone sur la sécrétion de rénine. L'augmentation de l'activité de la rénine plasmatique et du taux d'aldostérone circulant ne compensent pas les effets de l'éplérénone.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperkaliémie (Fréquent) | - Glycémie augmentée (Peu fréquent) | - Eosinophilie (Peu fréquent) | - Récepteur du facteur de croissance épidermique (diminution) (Peu fréquent) | - Hyponatrémie (Peu fréquent) | - Urémie (augmentation) (Fréquent) | - Hypertriglycéridémie (Peu fréquent) | - Créatininémie (augmentation) (Fréquent) | - Hypercholestérolémie (Fréquent) | DERMATOLOGIE: | - Prurit (Fréquent) | - Eruption cutanée (Fréquent) | - Hyperhidrose (Peu fréquent) | DIVERS: | - Asthénie (Fréquent) | ENDOCRINOLOGIE: | - Hypothyroïdie (Peu fréquent) | - Gynécomastie (Peu fréquent) | HÉPATOLOGIE: | - Cholécystite (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Peu fréquent) | INFECTIOLOGIE NON PRECISÉE: | - Infection (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Déshydratation (Peu fréquent) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | - Pharyngite (Peu fréquent) | PSYCHIATRIE: | - Insomnie (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Insuffisance cardiaque gauche (Fréquent) | - Hypotension orthostatique (Peu fréquent) | - Thrombose artérielle d'un membre (Peu fréquent) | - Infarctus du myocarde (Fréquent) | - Malaise (Peu fréquent) | - Insuffisance ventriculaire gauche (Fréquent) | - Syncope (Fréquent) | - Tachycardie (Peu fréquent) | - Fibrillation auriculaire (Fréquent) | - Hypotension artérielle (Fréquent) | SYSTÈME DIGESTIF: | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Flatulence (Peu fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Spasme musculaire (Fréquent) | - Douleur musculo-squelettique (Peu fréquent) | - Dorsalgie (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hypoesthésie (Peu fréquent) | - Accident vasculaire cérébral | SYSTÈME RESPIRATOIRE: | - Toux (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Fréquent) | - Pyélonéphrite (Peu fréquent)

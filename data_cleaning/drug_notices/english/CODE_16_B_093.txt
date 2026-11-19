@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_093
+DCI: ETIFOXINE CHLORHYDRATE 50 mg gél (ETIFOXINE EG)
+DrugBank ID: DB08986
+DrugBank Name: Etifoxine
+Brand Names: STRESAM
+Pharmaceutical Forms: Gélule
+Dosages: 50mg
+Packaging: b/24 et b/60
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05B - ANXIOLYTIQUES | N05BX - AUTRES ANXIOLYTIQUES | N05BX03 - ETIFOXINE
+Registration Numbers: 101/16 B 093/04
+Drug Codes: 16 B 093
+
+------------------------------------------------------------
+
+## Description
+
+Etifoxine is an anxiolytic and anticonvulsant drug developed by Hoechst in the 1960s. It is used in anxiety disorders and to promote peripheral nerve healing. It does not bind to the benzodiazepine receptor though the effects are similar to that of benzodiazepines. It is more effective than lorazepam as an anxiolytic, and has fewer side effects. Etifoxine has been associated with acute liver injury.

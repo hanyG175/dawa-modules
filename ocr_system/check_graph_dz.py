@@ -22,9 +22,9 @@ from neo4j import GraphDatabase
 from rapidfuzz import process, fuzz
 
 # ── Config — fill in your Aura credentials ───────────────────────────────────
-NEO4J_URI      = "neo4j+s://6c51198a.databases.neo4j.io"   # your Aura URI
+NEO4J_URI      = "neo4j+s://fe2aabf4.databases.neo4j.io"   # your Aura URI
 NEO4J_USER     = "neo4j"
-NEO4J_PASSWORD = "iG2wNnspn5U91akemAvUI_TZskhTEX5ZTNDwDionEk4"
+NEO4J_PASSWORD = "oux3qlDQLwCWuv8bAD-t96byMEzuI0Bn7M40X75BX94"
 
 JSON_PATH       = "data/nomenclature_brand_to_dci.json"
 FUZZY_THRESHOLD = 88

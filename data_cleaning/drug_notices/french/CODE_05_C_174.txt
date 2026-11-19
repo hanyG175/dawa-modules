@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_174
+DCI: ERLOTINIB (chlorhydrate) 100 mg cp (ERLOTINIB BIOGARAN)
+Brand Names: BIRLOTIB | EGROTIB | MIRATA
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/10 | b/30
+ATC Classification: L01EB02
+Registration Numbers: 001/05 C 174/21 | 488/05 C 174/14 | 536/05 C 174/23
+Drug Codes: 05 C 174
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | erlotinib (chlorhydrate) : 100 mg | Modalités d'administration | Voie orale | Administrer au moins 1 heure avant le repas ou 2 heures après le repas | Posologie à diminuer par palier de 50 mg en cas d'adaptation posologique | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | CBNPC localement avancé ou métastatique avec mutations activatrices de l'EGFR-TK - CBNPC localement avancé ou métastatique, traitement de 2ème intention (du) | Posologie standard | 150 mg 1 fois par jour | Dans le cas de : Sujet fumeur | 150 à 300 mg 1 fois par jour | Posologie maximale: 300 mg par jour | Cancer du pancréas métastatique | Posologie standard | Dans le cas de : Association à la gemcitabine | 100 mg 1 fois par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Antécédent d'hépatopathie | Antécédent de radiothérapie | Chimiothérapie, antécédent | Diverticulose, antécédent (de) | Femme susceptible d'être enceinte | Grossesse | Hépatopathie | Hyposécrétion lacrymale, antécédent (d') | Infection respiratoire | Insuffisance hépatique | Insuffisance rénale sévère | Kératopathie | Kératopathie, antécédent | Métastase pulmonaire | Obstruction des voies biliaires | Pneumopathie | Sujet à risque de déshydratation | Sujet de moins de 18 ans | Sujet japonais | Sujet porteur de lentilles de contact | Sujet sous chimiothérapie | Tabagisme | Traitement hépatotoxique en cours | Transaminases sériques > 5 fois la limite supérieure normale | Ulcère gastroduodénal, antécédent (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Erlotinib : Mécanisme d'action | L'erlotinib est un inhibiteur de la tyrosine kinase du récepteur du facteur de croissance épidermique humain de type 1 ( | Epidermal Growth Factor Receptor | : EGFR, également connu comme HER1). L'erlotinib est un puissant inhibiteur de la phosphorylation intracellulaire de l'EGFR. L'EGFR est exprimé à la surface de cellules normales et cancéreuses. Dans des modèles non cliniques, l'inhibition de la phosphotyrosine de l'EGFR résulte en un arrêt de la prolifération et/ou à une mort cellulaire. | Des mutations de l'EGFR peuvent conduire à une activation constitutive des voies de signalisation anti-apoptotique et de la prolifération. La puissante efficacité de l'erlotinib sur le blocage de la signalisation médiée par EGFR dans ces tumeurs arborant des mutations positives de l'EGFR est attribuée à la liaison étroite de l'erlotinib au site de liaison de l'ATP dans le domaine de la kinase mutée de l'EGFR. En raison du blocage en aval de la signalisation, la prolifération des cellules est arrêtée, et la mort cellulaire est induite par la voie intrinsèque de l'apoptose. La régression de la tumeur est observée dans des modèles de souris où l'expression de ces mutations activatrices de l'EGFR est renforcée.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Protéinurie (Peu fréquent) | - ASAT (augmentation) | - Neutropénie | - Hypokaliémie | - Hyperbilirubinémie | - ALAT (augmentation) | DERMATOLOGIE: | - Alopécie (Fréquent) | - Sécheresse cutanée (Fréquent) | - Fissure cutanée (Fréquent) | - Folliculite (Fréquent) | - Réaction cutanée (Peu fréquent) | - Acné (Fréquent) | - Prurit (Très fréquent) | - Eruption cutanée (Très fréquent) | - Périonyxis (Fréquent) | - Onychoclasie (Peu fréquent) | - Eruption acnéiforme (Fréquent) | - Onycholyse (Peu fréquent) | - Nécrolyse épidermique toxique (Très rare) | - Syndrome de Stevens-Johnson (Très rare) | - Erythrodysesthésie palmoplantaire (Rare) | - Hyperpigmentation cutanée | - Erythème cutané | - Cellulite | - Rosacée papulo-pustuleuse | DIVERS: | - Frisson (Très fréquent) | - Asthénie (Très fréquent) | - Fièvre (Très fréquent) | ENDOCRINOLOGIE: | - Hirsutisme (Peu fréquent) | HÉPATOLOGIE: | - Exploration fonctionnelle hépatique (anomalie) (Très fréquent) | - Insuffisance hépatique (Rare) | - Hépatite (Rare) | - Hépatite aiguë | INFECTIOLOGIE D'ORIGINE BACTERIENNE: | - Cellulite infectieuse | INFECTIOLOGIE NON PRECISÉE: | - Infection (Très fréquent) | - Septicémie | NUTRITION, MÉTABOLISME: | - Anorexie (Très fréquent) | - Poids (diminution) (Très fréquent) | - Déshydratation | OPHTALMOLOGIE: | - Cils (modification) (Peu fréquent) | - Kératoconjonctivite sèche (Très fréquent) | - Sourcils (modification) (Peu fréquent) | - Kératoconjonctivite (Très fréquent) | - Kératite (Fréquent) | - Conjonctivite (Fréquent) | - Perforation de la cornée (Très rare) | - Uvéite (Très rare) | - Ulcère cornéen (Très rare) | - Croissance des cils | - Epaississement des cils | - Trichiasis | ORL, STOMATOLOGIE: | - Epistaxis (Fréquent) | - Stomatite (Très fréquent) | PSYCHIATRIE: | - Dépression (Très fréquent) | SYSTÈME DIGESTIF: | - Perforation gastro-intestinale (Peu fréquent) | - Hémorragie gastro-intestinale (Fréquent) | - Flatulence (Très fréquent) | - Nausée (Très fréquent) | - Dyspepsie (Très fréquent) | - Diarrhée (Très fréquent) | - Douleur abdominale (Très fréquent) | - Vomissement (Très fréquent) | - Pneumatose kystique de l'intestin (Rare) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Neuropathie (Très fréquent) | SYSTÈME RESPIRATOIRE: | - Toux (Très fréquent) | - Dyspnée (Très fréquent) | - Pneumopathie interstitielle diffuse (Peu fréquent) | - Pneumopathie interstitielle (Peu fréquent) | - Pneumopathie | - Pneumonie | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Fréquent) | - Néphropathie (Peu fréquent)

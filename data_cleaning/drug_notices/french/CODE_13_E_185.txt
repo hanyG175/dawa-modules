@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_185
+DCI: ROXITHROMYCINE 150 mg cp (ROXITHROMYCINE ARROW)
+Brand Names: ROXAMED | ROXIBACT ALEMBIC MAMI | ROXITHROMYCINE HUP
+Pharmaceutical Forms: Comprimé
+Dosages: 150mg
+Packaging: b/10
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01F - MACROLIDES, LINCOSAMIDES ET STREPTOGRAMINES | J01FA - MACROLIDES | J01FA06 - ROXITHROMYCINE
+Registration Numbers: 055/13 E 185/01/13 | 380/13 E 185/12 | 510/13 E 185/17
+Drug Codes: 13 E 185
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | roxithromycine : 150 mg | Modalités d'administration | Voie orale | Administrer de préférence avant le repas | Administrer matin et soir | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Bronchite aiguë présumée bactérienne - Dermohypodermite infectieuse - Ecthyma - Erysipèle - Erythrasma - Impétiginisation de dermatose - Impétigo - Infection génitale non gonococcique - Pneumopathie aiguë - Pneumopathie d'allure non pneumococcique - Sinusite aiguë, traitement alternatif aux bêtalactamines(de la) - Surinfection de bronchite chronique | Posologie standard | 1 comprimé 2 fois par jour | Ne pas dépasser 10 jours de traitement. | Angine aiguë streptococcique, traitement alternatif à la pénicillinothérapie (de l') | Posologie standard | 1 comprimé 2 fois par jour | Pendant 10 jours | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Bradycardie | Enfant de moins de 15 ans | Grossesse | Hypokaliémie | Hypomagnésémie | Insuffisance hépatique | Myasthénie | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'arythmie cardiaque | Syndrome du QT long congénital | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Roxithromycine : Mécanisme d'action | La roxithromycine est un antibiotique de la famille des macrolides. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes sont : S 4 mg/l. | Espèces sensibles : | aérobies à Gram + : | Bacillus cereus | , | Corynebacterium diphteriae | , entérocoques, | Rhodococcus equi | , | staphylococcus | méti-S, | staphylococcus | méti-R, | streptococcus | B, | streptococcus | non groupable, | Streptococcus pneumoniae | , | Streptococcus pyogenes | ; | aérobies à Gram - : | Bordetella pertussis | , | Branhamella catarrhalis | , | campylobacter | , | legionella | , | moraxella | ; | anaérobies : | actinomyces | , | bacteroides | , eubacterium, mobiluncus, peptostreptococcus, | porphyromonas | , | prevotella | , | Propionibacterium acnes | ; | autres : | Borrelia burgdorferi | , | chlamydia | , | coxiella | , | leptospires | , | Mycoplasma pneumoniae | , | Treponema pallidum | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram - : | haemophilus | , | Neisseria gonorrhoeae | ; | anaérobies : | Clostridium perfringens | ; | autres : | Ureaplasma urealyticum | . | Espèces résistantes : | aérobies à Gram + : | Corynebacterium jeikeium | , | Nocardia asteroides | ; | aérobies à Gram - : | acinetobacter | , entérobactéries, | pseudomonas | ; | anaérobies : | fusobacterium | ; | autres : | Mycoplasma hominis | . | La roxithromycine possède une activité | in vitro | et | in vivo | sur | Toxoplasma gondii | . | La roxithromycine a | in vitro | une activité modérée sur | Mycobacterium avium | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Eosinophilie (Peu fréquent) | - ASAT (augmentation) | - Neutropénie | - Phosphatases alcalines (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Purpura (Exceptionnel) | - Pustulose exanthémateuse aiguë généralisée | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Dermatose bulleuse | - Syndrome de Lyell | - Urticaire | - Erythème polymorphe | HÉMATOLOGIE: | - Agranulocytose | - Thrombopénie | HÉPATOLOGIE: | - Hépatite cytolytique (Exceptionnel) | - Hépatite cholestatique (Exceptionnel) | - Ictère | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Exceptionnel) | - Réaction anaphylactoïde (Exceptionnel) | - Choc anaphylactique | - Hypersensibilité | INFECTIOLOGIE NON PRECISÉE: | - Surinfection | OPHTALMOLOGIE: | - Vision floue | - Trouble de la vision | ORL, STOMATOLOGIE: | - Surdité | - Dysgueusie | - Acouphène | - Vertige | - Hypoacousie | - Parosmie | - Anosmie | - Agueusie | - Sensation de vertige | PSYCHIATRIE: | - Hallucination | - Confusion mentale | SYSTÈME CARDIOVASCULAIRE: | - Allongement de l'espace QT | - Tachycardie ventriculaire | - Torsades de pointes | - Arythmie ventriculaire | - Fibrillation ventriculaire | - Arrêt cardiaque | SYSTÈME DIGESTIF: | - Vomissement | - Pancréatite | - Colite à Clostridioides difficile (anciennement Clostridium difficile) | - Diarrhée sanglante | - Colite pseudomembraneuse | - Nausée | - Douleur épigastrique | - Diarrhée | SYSTÈME NERVEUX: | - Paresthésie | - Céphalée | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Exceptionnel)

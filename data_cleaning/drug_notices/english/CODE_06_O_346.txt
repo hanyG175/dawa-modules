@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_O_346
+DCI: Evolocumab
+DrugBank ID: DB09303
+DrugBank Name: Evolocumab
+Brand Names: REPATHA
+Pharmaceutical Forms: Solution
+Dosages: 140mg/ml
+Packaging: b/02 stylo pre rempli de 1ml
+Registration Numbers: 481/06 O 346/24
+Drug Codes: 06 O 346
+
+------------------------------------------------------------
+
+## Description
+
+Evolocumab is a monoclonal antibody designed for the treatment of hyperlipidemia by Amgen. It is a subcutaneous injection approved by the FDA for individuals on maximum statin therapy who still require additional LDL-cholesterol lowering. It is approved for both homozygous and heterozygous familial cholesterolemia as an adjunct to other first-line therapies. Evolocumab is a human IgG2 monoclonal antibody that targets the proprotein convertase subtilisin/kexin type 9 (PCSK9). PCSK9 is a protein that targets LDL receptors for degradation, therefore reducing the liver's ability to remove LDL-cholesterol (LDL-C), or "bad" cholesterol, from the blood. Evolocumab is designed to bind to PCSK9 and inhibit PCSK9 from binding to LDL receptors on the liver surface, resulting in more LDL receptors on the surface of the liver to remove LDL-C from the blood. Evolocumab is the second PCSK9 inhibitor on the market, first being alirocumab.
+
+## Mechanism Of Action
+
+Proprotein convertase subtilisin/kexin type 9 Inhibitor
+
+## Absorption
+
+Total bioavailability from subcutaneous injection was 82% in cynomolgus monkeys.
+
+## Clearance
+
+Evolocumab showed non-linear, dose-dependent clearance in healthy volunteers; clearance decreased with increasing dose.

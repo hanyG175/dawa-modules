@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_118
+DCI: ZOLMITRIPTAN 2,5 mg cp orodispers (ZOLMITRIPTAN SUN)
+Brand Names: ZOMIPTAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2.5 mg
+Packaging: boite de 1 flacon de 06
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02C - ANTIMIGRAINEUX | N02CC - AGONISTES SELECTIFS DES RECEPTEURS 5HT1 | N02CC03 - ZOLMITRIPTAN
+Registration Numbers: 352/15 B 118/18/23
+Drug Codes: 15 B 118
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | zolmitriptan : 2.5 mg | Modalités d'administration | Voie orale | Administrer dès le début de la crise | Laisser fondre le comprimé sur la langue jusqu'à dissolution | Ne pas renouveler la dose en cas d'absence de réponse | Respecter un intervalle d'au moins 2 heures entre 2 prises | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 18 an(s) à 65 an(s) | Patient quel que soit le poids | Migraine, traitement de la crise (de) | Posologie standard | 2,5 mg 1 à 2 fois par 24 heures | Posologies maximales | Posologie maximale: 10 mg par 24 heures | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Diabète | Femme ménopausée | Grossesse | Homme de plus de 40 ans | Insuffisance hépatique sévère | Migraine atypique | Migraine avec aura | Migraine basilaire | Migraine hémiplégique | Migraine ophtalmoplégique | Pathologie cérébrovasculaire | Patient à risque d'insuffisance coronarienne | Sujet âgé | Sujet à risque de maladie cardiovasculaire | Sujet de moins de 18 ans | Tabagisme | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Zolmitriptan : Mécanisme d'action | Lors des études précliniques, le zolmitriptan s'est avéré être un agoniste sélectif des récepteurs recombinants humains vasculaires 5-HT | 1Dalpha | et 5-HT | 1Dß | . Il présente une forte affinité pour les récepteurs 5-HT | 1D | et une faible affinité pour les récepteurs 5-HT | 1A | . Il ne présente aucune affinité (mesurée par des dosages de radioligands), ni effets pharmacologiques significatifs sur les récepteurs sérotoninergiques 5-HT | 2 | , 5-HT | 3 | , 5-HT | 4 | , adrénergiques alpha-1, alpha-2, bêta-1, histaminiques H1, H2, muscariniques, dopaminergiques 1 ou 2. | Le système trigéminovasculaire est impliqué dans la physiopathologie de la migraine. | Chez l'animal, le zolmitriptan, grâce à son activité agoniste sur les récepteurs 5-HT | 1 | , induit une vasoconstriction et une inhibition de la libération du peptide lié au gène de la | calcitonine | (CGRP), du peptide vasoactif intestinal (VIP) et de la substance P. Ces deux effets (vasoconstriction et inhibition de la libération de neuropeptides) sont vraisemblablement à l'origine de l'amélioration des crises de migraine, représentée par une disparition de la douleur et des autres symptômes de la migraine dans l'heure suivant l'administration. | Le zolmitriptan est efficace dans le traitement de la phase céphalalgique de la crise de migraine cataméniale. | Outre ses actions périphériques, le zolmitriptan traverse la barrière hématoméningée et peut accéder ainsi, non seulement aux centres périphériques de la migraine, mais aussi à ceux du tronc cérébral. Il bloque la voie réflexe vasodilatatrice utilisant les fibres orthodromiques du trijumeau et l'innervation parasympathique de la circulation cérébrale, et inhibe ainsi la libération du VIP qui en est le principal neurotransmetteur.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire | DIVERS: | - Douleur thoracique (Fréquent) | - Sensation d'état anormal (Fréquent) | - Sensation de lourdeur (Fréquent) | - Douleur des membres (Fréquent) | - Asthénie (Fréquent) | - Sensation de chaleur (Fréquent) | - Pression thoracique (Fréquent) | HÉMATOLOGIE: | - Infarctus splénique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Réaction anaphylactique | - Angioedème | NUTRITION, MÉTABOLISME: | - Dysphagie (Fréquent) | ORL, STOMATOLOGIE: | - Douleur pharyngée (Fréquent) | - Sécheresse buccale (Fréquent) | - Pharyngite (Fréquent) | - Sensation de gorge serrée (Fréquent) | - Sensation de vertige (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Pression artérielle (augmentation) (Peu fréquent) | - Pression artérielle systolique augmentée (Peu fréquent) | - Palpitation (Fréquent) | - Tachycardie (Peu fréquent) | - Infarctus (Très rare) | - Lésion ischémique (Très rare) | - Vasospasme coronarien (Très rare) | - Infarctus du myocarde (Très rare) | - Angor (Très rare) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Ischémie gastro-intestinale (Très rare) | - Infarctus mésentérique | - Entérocolite nécrosante | - Diarrhée sanglante | - Ischémie de l'intestin grêle | SYSTÈME MUSCULO-SQUELETTIQUE: | - Faiblesse musculaire (Fréquent) | - Douleur musculaire (Fréquent) | - Douleur dans le cou (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hyperesthésie (Fréquent) | - Trouble neurosensoriel (Fréquent) | - Paresthésie (Fréquent) | - Somnolence (Fréquent) | SYSTÈME RESPIRATOIRE: | - Sensation d'oppression thoracique (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Polyurie (Peu fréquent) | - Pollakiurie (Peu fréquent) | - Miction impérieuse (Très rare)

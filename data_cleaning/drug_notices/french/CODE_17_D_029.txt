@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_029
+DCI: NORFLOXACINE 0,3 % collyre sol (CHIBROXINE)
+Brand Names: APIFLOX | CHIBROGEN | CHIBROXINE | NORFLOTEK | NOROFLOX | OPRELEX
+Pharmaceutical Forms: Collyree | Collyree En Solution
+Dosages: 0.3% (300 mg/100ml) | 0.3% (3mg/ml) | 0.3% (ou 3mg/ml)
+Packaging: flacon/10ml | flacon/5ml
+Laboratories: THÉA PHARMA
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01M - QUINOLONES ANTIBACTERIENNES | J01MA - FLUOROQUINOLONES | J01MA06 - NORFLOXACINE
+Registration Numbers: 022/17 D 029/99/16 | 055/17 D 029/24 | 065/17 D 029/22 | 165/17 D 029/98 | 380/17 D 029/21 | 543/17 D 029/25
+Drug Codes: 17 D 029
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement antibactérien local des infections oculaires sévères (conjonctivites sévères, kératites et ulcères cornéens) dues à des germes sensibles à la norfloxacine. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | norfloxacine : 400 mg | Modalités d'administration | Voie orale | Administrer au moins 1 heure avant le repas ou 2 heures après le repas | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Cystite aiguë non compliquée chez l'adulte, traitement de 2e intention (de la) | Posologie standard | 400 mg 2 fois par jour | Pendant 3 jours | Cystite aiguë compliquée - Infection urinaire - Pyélonéphrite aiguë chez l'adulte - Urétrite gonococcique chez l'adulte | Posologie standard | 800 mg 1 fois par jour | Infection bactérienne intestinale | Posologie standard | Dans le cas de : Cirrhose décompensée | 400 mg 1 fois par jour | Patient de sexe féminin | Cervicite gonococcique chez l'adulte | Posologie standard | 800 mg 1 fois par jour | Patient de sexe masculin | Prostatite bactérienne chez l'adulte | Posologie standard | 800 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Affection du tissu conjonctif | Anévrisme, antécédent familial (d') | Anévrisme aortique | Antécédent de convulsions | Cardiopathie | Diabète | Dissection aortique | Endocardite infectieuse | Epilepsie | Femme | Grossesse | Hypertension artérielle | Infection nosocomiale | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Maladie de Behçet | Myasthénie | Patient transplanté | Polyarthrite rhumatoïde | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'anévrisme aortique ou de dissection aortique | Sujet à risque d'insuffisance de valve cardiaque | Sujet à risque de crise convulsive | Syndrome de Turner | Syndrome du QT long congénital | Traitement par AINS en cours | Traitement par corticoïde en cours | Traitement prolongé | Trouble hydroélectrolytique | Valvulopathie cardiaque | Valvulopathie cardiaque, antécédent familial (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Norfloxacine : Mécanisme d'action | La norfloxacine est un agent antibactérien de la famille des quinolones. La norfloxacine inhibe la synthèse de l'acide désoxyribonucléique bactérien. Elle est bactéricide. | Espèces sensibles : | aérobies à Gram + : | Staphylococcus méti-S ; | aérobies à Gram - : | Acinetobacter baumannii, Citrobacter freundii, Citrobacter koseri, Enterobacter aerogenes, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Morganella morganii, Neisseria gonorrhoeae, Proteus mirabilis, Proteus vulgaris, Providencia rettgeri, Providencia stuartii, Pseudomonas aeruginosa, Serratia marcescens | . | Espèces résistantes : | aérobies à Gram + : enterococcus, staphylococcus méti-R ; | anaérobies : bactéries anaérobies à Gram + sauf quelques souches de | Clostridium perfringens | , toutes les bactéries anaérobies à Gram -.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Créatininémie (augmentation) (Rare) | - Urémie (augmentation) (Rare) | - Neutropénie | - Hyperbilirubinémie | - Phosphatases alcalines (augmentation) | - Eosinophilie | - Bilirubinémie (augmentation) | - Transaminases (augmentation) | - CPK (augmentation) | DERMATOLOGIE: | - Syndrome de Lyell (Exceptionnel) | - Photosensibilisation | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Dermatite exfoliative | - Purpura vasculaire | - Urticaire | - Erythème polymorphe | DIVERS: | - Fatigue | - Douleur des extrémités | HÉMATOLOGIE: | - Leucopénie (Rare) | - Anémie hémolytique | - Thrombopénie | HÉPATOLOGIE: | - Ictère | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Exceptionnel) | - Choc anaphylactique (Exceptionnel) | - Hypersensibilité | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose vaginale | NUTRITION, MÉTABOLISME: | - Anorexie | OPHTALMOLOGIE: | - Trouble de la vision | - Epiphora | ORL, STOMATOLOGIE: | - Trouble auditif | - Dysgueusie | - Acouphène | - Vertige | - Odorat (modification) | PSYCHIATRIE: | - Hallucination | - Dépression | - Trouble de l'humeur | - Euphorie | - Irritabilité | - Episode psychotique | - Confusion mentale | - Trouble du sommeil | - Anxiété | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Allongement de l'espace QT (Très rare) | - Rupture aortique | - Anévrisme aortique | - Régurgitation de valve cardiaque | - Insuffisance de valve cardiaque | - Dissection aortique | SYSTÈME DIGESTIF: | - Pancréatite (Rare) | - Vomissement | - Colite pseudomembraneuse | - Nausée | - Douleur abdominale | - Crampe abdominale | - Diarrhée | - Brûlure rétrosternale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Tendinite (Rare) | - Rupture de tendon (Exceptionnel) | - Douleur musculaire | - Douleur articulaire | SYSTÈME NERVEUX: | - Trouble neurosensoriel (Très rare) | - Paresthésie | - Myoclonie | - Trouble de la mémoire | - Coma hypoglycémique | - Céphalée | - Polyneuropathie | - Tremblement | - Neuropathie | - Myasthénie (aggravation) | - Convulsions | - Trouble de la marche | SYSTÈME RESPIRATOIRE: | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Néphropathie (Exceptionnel) | - Néphropathie interstitielle | - Syndrome néphrotique | - Néphropathie glomérulaire

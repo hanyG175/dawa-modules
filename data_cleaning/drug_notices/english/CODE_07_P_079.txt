@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_079
+DCI: Sulfadiazine Argentique
+DrugBank ID: DB00359
+DrugBank Name: Sulfadiazine
+Brand Names: FLAMADIAZINE | SULFADIAZINE NOVAGENERICS | SULFAZINE
+Pharmaceutical Forms: Creme
+Dosages: 0.01
+Packaging: t/50g | tube de 15g et pot de 200mg
+Registration Numbers: 079/07 P 079/04/25 | 149/07 P 079/15/24 | 622/07 P 079/25
+Drug Codes: 07 P 079
+
+------------------------------------------------------------
+
+## Description
+
+One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections.
+
+## Pharmacodynamics
+
+Sulfadiazine is a sulfonamide antibiotic. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p -aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections. Their antibacterial action is inhibited by pus.
+
+## Mechanism Of Action
+
+dihydropteroate synthase (Plasmodium falciparum) Inhibitor
+
+## Route Of Elimination
+
+Sulfadiazine is excreted largely in the urine.
+
+## Toxicity
+
+Oral LD 50 in mouse is 1500 mg/kg.

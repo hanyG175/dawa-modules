@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_K_060
+DCI: Pancreatine
+DrugBank ID: DB00085
+DrugBank Name: Pancrelipase
+Brand Names: CREON 10 000 UI
+Pharmaceutical Forms: Gélule
+Dosages: 150mg
+Packaging: pilulier de 60
+Registration Numbers: 019/10 K 060/98/24
+Drug Codes: 10 K 060
+
+------------------------------------------------------------
+
+## Description
+
+Pancrelipase, in general, is composed of a mixture of pancreatic enzymes which include amylases, lipases, and proteases. These enzymes are extracted from porcine pancreatic glands. 5 The pancrelipase mixture was developed by Ortho-McNeil-Janssen Pharmaceuticals, Inc and FDA approved on April 12, 2010. 6 For further information on the components of this mixture please visit Pancrelipase amylase , Pancrelipase protease and Pancrelipase lipase .
+
+## Pharmacodynamics
+
+The major maldigestion/malabsorption problems arise from incomplete fat digestion. In clinical trials, the administration of pancrelipase as a mixture of amylase, lipase, and protease demonstrated a significant improvement in the coefficient of fat absorption and nitrogen absorption. These effects are accompanied by increased in body weight and body mass index. 2
+
+## Mechanism Of Action
+
+Dietary fat Cleavage Dietary protein Cleavage Dietary starch Cleavage
+
+## Absorption
+
+Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount. 7
+
+## Volume Of Distribution
+
+Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the volume of distribution is not relevant. 7
+
+## Metabolism
+
+Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the metabolism is not relevant. 7
+
+## Route Of Elimination
+
+Pancrelipase is entirely eliminated in the feces. 7
+
+## Half Life
+
+Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the elimination half-life is not relevant. 7
+
+## Clearance
+
+Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the clearance rate is not relevant. 7
+
+## Toxicity
+
+The studies of the toxicology of pancrelipase are not needed as this drug has been used clinically for a long time. 8 Clinical overdose studies proved no effect on lungs, pancreas, liver and kidneys but it can produce symptoms such as diarrhea or stomach upset. Carcinogenicity studies have not shown any increased incidence with the use of pancrelipase. As pancrelipase is not absorbed, the effect on fetal development or reproduction is not expected. 9

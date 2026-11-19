@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_160
+DCI: Mometasone (Sous Forme De Furoate)** | Mometasone Furoate Monohydratee
+DrugBank ID: DB14512
+DrugBank Name: Mometasone furoate
+Brand Names: CORTISAF | DERMOSAF | MESONE | TOPOCORT
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.001
+Packaging: t/30g
+Registration Numbers: 149/07 H 160/21 | 224/07 H 160/20/25 | 386/07 H 160/09/16 | 406/07 H 160/25
+Drug Codes: 07 H 160
+
+------------------------------------------------------------
+
+## Description
+
+Mometasone furoate is a corticosteroid drug that can be used for the treatment of asthma, rhinitis, and certain skin conditions Label 14 , 15 . It has a glucocorticoid receptor binding affinity 22 times stronger than dexamethasone and higher than many other corticosteroids as well 2 . Mometasone furoate is formulated as a dry powder inhaler, nasal spray, and ointment for its different indications Label 14 , 15 .
+
+## Pharmacodynamics
+
+Mometasone is a synthetic corticosteroid with an affinity for glucocorticoid receptors 22 times higher than that of dexamethasone 2 . Mometasone furoate also has a lower affinity to mineralocorticoid receptors than natural corticosteroids, making it more selective in its action 2 . Mometasone furoate diffuses across cell membranes to activate pathways responsible for reducing inflammation Label 1 , 2 , 3 , 14 , 15 .
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+The mean time to peak concentration is 1.0 to 2.5 hours Label . Bioavailability has been reported as <1% Label but studies of repeat doses of inhaled corticosteroids suggest a bioavailability of 11% 3 . The 0.1% ointment may have a bioavailability of 0.7% 15 .
+
+## Volume Of Distribution
+
+Steady state volume of distribution of 152L Label .
+
+## Metabolism
+
+Metabolism of mometasone furoate is largely performed hepatically by cytochrome P450 3A4 producing a number of metabolites Label 14 , 1 , 3 . Some of these metabolites include free mometasone and 6-beta-hydroxy-mometasone furoate 1 , 3 , 4 . Hover over products below to view reaction partners Mometasone furoate 6-beta-hydroxy-mometasone furoate Mometasone 21-chloro-17-alpha-hydroxy-16-alpha-methyl-9-beta,11beta-oxidopregna-1,4-diene-3,20-dione 17-(2-furoate) 21-beta-chloro-21-alpha-hydroxy-16-alpha-methyl-9-beta,11-beta-oxidopregna-1,4,17,20-tetraen-3-one 21-(2-furoate 21-chloro-17-alpha-hydroxy-16-alpha-methyl-9-beta,11-beta-oxidopregna-1,4-diene-3,20-dione 9-alpha,21-beta-dichloro-11-beta,21-alpha-dihydroxy-16-alpha-methylpregna-1,4,17,20-tetraen-3-one 21-(2-furoate) 21-beta-chloro-21-alpha-hydroxy-16-alpha-methyl-9-beta,11-beta-oxidopregna-1,4,17,20-tetraen-3-one 21-(2-furoate
+
+## Route Of Elimination
+
+For an inhaled dose, approximately 74% is excreted in the feces and 8% is excreted in the urine Label 14 .
+
+## Half Life
+
+The terminal half life of an inhaled dose is approximately 5 hours Label though it has been reported as 5.8 hours by other sources 14 , 2 .
+
+## Clearance
+
+The clearance rate of mometasone furoate is not readily available 1 , though it may be close to 90L/h 2 .
+
+## Toxicity
+
+Overdose with a mometasone furoate inhaler may occur with chronic overuse Label 14 . Symptoms of chronic overuse may present as hypercorticism and adrenal suppression, and patients may not require any more treatment than monitoring Label 14 . In animal studies of pregnancy, some fetal toxic effects were seen at or above the maximum recommended human dose, though rodents are more sensitive to these effects than humans Label 14 , 15 . The benefits and risks of use should be considered in pregnant patients 14 , 15 It is unknown if mometasone furoate is excreted in breast milk but other corticosteroids are and therefore caution should be exercised when administering to nursing mothers Label 14 , 15 . Safety and effectiveness in pediatric populations has been established through clinical trials, though there may be a reduction in expected growth of about 1cm per year depending on the dose and duration of treatment Label . Pediatric patients should be titrated to the lowest effective dose for mometasone furoate inhalers Label . A trial of geriatric patients showed no difference in safety or efficacy compared to younger patients, however patients of an even greater age may still be more sensitive to mometasone furoate Label 14 , 15 . The use of a mometasone furoate inhaler in moderate or severe hepatic impairment rarely leads to detectable plasma concentrations though caution may be prudent with increasing degrees of severity Label 14 . The effects of mometasone furoate in renal impairment, and across gender and race have not been studied Label 14 .

@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_D_024
+DCI: Meglumine Antimoniate
+Brand Names: GLUCANTIME
+Pharmaceutical Forms: Solution
+Dosages: 1.5g/5ml
+Packaging: b/05 ampoules de 5 ml en verre incolore de type i
+Laboratories: SANOFI WINTHROP INDUSTRIE | 82 AVENUE RASPAIL | 94250 GENTILLY
+ATC Classification: Classe pharmacothérapeutique : Antileishmaniens, code ATC : P01CB01. | L'antimoniate de méglumine a une activité leishmanicide.
+Registration Numbers: 376/19 D 024/96/24
+Drug Codes: 19 D 024
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement de la leishmaniose viscérale ( Kala azar ) et de la leishmaniose cutanée (sauf Leishmania aethiopica résistante).
+
+## Posology
+
+Leishmaniose viscérale : | Injection intramusculaire de 20 mg/kg/jour d’antimoine (soit 75 mg/kg/jour d'antimoniate de méglumine), sans dépasser 850 mg d’antimoine, pendant au moins 20 jours consécutifs. Le traitement doit être poursuivi jusqu'à disparition des parasites dans des ponctions de rate effectuées à intervalle de 14 jours. | En cas de récidive, la cure doit être immédiatement recommencée avec les mêmes doses quotidiennes. | Leishmaniose cutanée : | · A l'exception des formes à Leishmania braziliensis et Leishmania amazonensis : | Les injections au niveau des lésions ne doivent être envisagées qu'au stade précoce. L'infiltration doit être profonde jusqu'à l'obtention d'un blanchiment complet à la base de la lésion. | Un traitement par voie générale est nécessaire quand les lésions sont trop nombreuses, enflammées, ulcérées ou situées dans un endroit où des cicatrices risqueraient d'être inesthétiques ou incapacitantes, en particulier s'il y a obstruction des voies lymphatiques ou atteinte cartilagineuse. | Traitement local : Injection de 1 à 3 ml à la base de la lésion, renouvelée une fois (ou 2 fois en l'absence de résultat apparent), à intervalles de 1 ou 2 jours. | Traitement général : Injection intramusculaire de 10 à 20 mg/kg/jour d’antimoine (soit de 37 à 75 mg/kg/jour d'antimoniate de méglumine) jusqu'à guérison clinique ou disparition du parasite dans le suc dermique recueilli par scarification, puis quelques jours au-delà. | · Pour Leishmania braziliensis (leishmaniose cutanée et cutanéomuqueuse) et Leishmania amazonensis (leishmaniose cutanéomuqueuse) : | Injection intramusculaire de 20 mg/kg/jour d’antimoine (soit 75 mg/kg/jour d'antimoniate de méglumine) jusqu'à guérison et pendant : | o au moins 4 semaines pour Leishmania braziliensis, | o plusieurs mois pour Leishmania amazonensis.
+
+## Contraindications
+
+· hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1, | · insuffisances rénale, cardiaque ou hépatique.
+
+## Precautions
+
+Mises en garde | En raison du risque d'intolérance à l'antimoine, il est conseillé de surveiller, les fonctions hépatique et rénale tout au long du traitement (voir les sections 4.8 et 4.9). | Les patients doivent être informés de contacter leur médecin si des symptômes évocateurs de lésions hépatiques surviennent. Chez ces patients, le traitement par GLUCANTIME doit être interrompu et la fonction hépatique évaluée. GLUCANTIME ne doit pas être réintroduit chez les patients ayant un épisode d'atteinte hépatique en cours de traitement et pour lequel aucune autre cause des lésions hépatiques n’a été déterminée. | L'antimoniate de méglumine peut provoquer un allongement de l’intervalle QT et une arythmie sévère. Il est conseillé de surveiller le tracé de l’ECG et la prudence devrait être exercée lors de l'utilisation de l'antimoniate de méglumine chez les patients ayant des facteurs de risque connus pour entrainer un allongement de l’intervalle QT tel que, par exemple: | · déséquilibre électrolytique non corrigé (par exemple, hypokaliémie, hypomagnésémie) | · syndrome congénital du QT long | · maladie cardiaque (par exemple infarctus du myocarde, bradycardie) | · utilisation concomitante de médicaments connus pour induire un allongement de l'intervalle QT (par exemple, certains antiarythmiques de classe IA et III, certains antidépresseurs tricycliques, certains macrolides, certains antipsychotiques, autres antiparasitaires) (voir les sections 4.5, 4.8, et 4.9). | Réactions d’hypersensibilité (incluant choc anaphylactique et réactions d’hypersensibilité de type IV) ; parfois graves, ont été signalés avec l’utilisation de l’antimoniate de méglumine. Si des signes et des symptômes de réactions allergiques se produisent, le traitement par GLUCANTIME doit être interrompu et un traitement symptomatique approprié doit être instauré (voir rubrique 4.3). | Excipients à effet notoire | Ce médicament contient du « sulfite » et peut, dans de rares cas, provoquer des réactions d’hypersensibilités sévères et des bronchospasmes. | Ce médicament contient moins de 1 mmol (23 mg) de sodium par ampoule de 5 ml, c’est-à-dire qu’il est essentiellement « sans sodium ». | Précautions particulières d'emploi | Une alimentation riche en protéines doit être administrée pendant toute la durée du traitement, celui-ci étant précédé si possible par la correction d'une éventuelle carence en fer ou de toute autre carence spécifique.
+
+## Interactions
+
++ Médicaments connus pour induire un allongement de l'intervalle QT | L'antimoniate de méglumine doit être utilisé avec précaution chez les patients recevant des médicaments connus pour induire un allongement de l'intervalle QT (par exemple certains antiarythmiques de classe IA et III, certains antidépresseurs tricycliques, certains macrolides, certains antipsychotiques, d’autres antiparasitaires) (voir la section 4.4.).
+
+## Pregnancy Breastfeeding
+
+Grossesse | Les données précliniques disponibles dans la littérature suggèrent que l'antimoniate de méglumine est associé à un effet létal sur l’embryon et/ou un retard de développement chez l’animal juvénile, à des doses environ 100 fois supérieures à la dose thérapeutique chez l'homme de 20 mg/kg, (voir la section 5.3.). | Il n'existe pas de données cliniques disponibles à ce jour évoquant un potentiel effet tératogène ou foetotoxique de l'antimoniate de méglumine chez l’homme. | Cependant, l’administration de GLUCANTIME ne devrait pas être utilisée pendant la grossesse, sauf dans les pathologies mettant en jeu le pronostic vital, où le bénéfice potentiel pour la mère l’emporte sur le préjudice potentiel pour le fœtus. | Allaitement | Le passage ou non de l’antimoniate de méglumine dans le lait maternel n’est pas connu à ce jour. En conséquence, l’allaitement est déconseillé en cas de traitement par GLUCANTIME.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : Antileishmaniens, code ATC : P01CB01. | L'antimoniate de méglumine a une activité leishmanicide.
+
+## Adverse Effects
+
+Les effets indésirables suivants ont été observés et rapportés durant le traitement avec les fréquences suivantes : très fréquent (≥ 1/10), fréquent (≥ 1/100 à < 1/10), peu fréquent (≥ 1/1 000 à < 1/100), rare (≥ 1/10 000 à < 1/1 000), très rare (< 1/10 000), inconnu (ne peut pas être estimé sur la base des données disponibles). | Classes de systèmes d'organes Effets indésirables Fréquence Troubles du métabolisme et de la nutrition Anorexie Fréquent Affections du système nerveux Faiblesse musculaire** Peu fréquent Céphalées Très fréquent Affections cardiaques Arythmie (voir rubrique 4.4) Peu fréquent Affections respiratoires, thoraciques et médiastinales Toux** Fréquence indéterminée Dyspnée Peu fréquent Affections gastro-intestinales Nausées** Fréquent Vomissements** Fréquent Douleurs abdominales Fréquent Pancréatites Fréquence indéterminée Affections de la peau et du tissu sous-cutané Hyperhidrose** Fréquence indéterminée Rash Peu fréquent Affections musculo-squelettiques et systémiques Arthralgies Très fréquent Myalgies Très fréquent Affections du système immunitaire Réactions d’hypersensibilité (incluant choc anaphylactique et réactions d’hypersensibilité de type IV) (voir rubrique 4.4) Fréquence indéterminée Affection du rein et des voies urinaires Insuffisance rénale aiguë (voir rubrique 4.4) Fréquence indéterminée Troubles généraux et anomalies au site d'administration Fièvre** Fréquent Frissons** Rare Malaise Peu fréquent œ dème de la face Fréquence indéterminée Investigations Modification des tests de la fonction rénale Fréquence indéterminée Altérations de l'électrocardiogramme, dose dépendant et généralement réversible Peu fréquent Inversion des ondes T* Peu fréquent Allongement de l’intervalle QT* Fréquent Affections hépatobiliaires Résultats anormaux des tests de la fonction hépatique Peu fréquent Lésion hépatocellulaire (particulièrement observée en association avec une insuffisance rénale) Augmentation des enzymes hépatiques Fréquence indéterminée | * le plus souvent, une inversion des ondes T et un allongement de l'intervalle QT précèdent l'apparition d'une arythmie grave. | ** ces effets peuvent survenir en début de traitement. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : www.signalement-sante.gouv.fr .
+
+## Conservation
+
+Avant ouverture : pas de précautions particulières de conservation.

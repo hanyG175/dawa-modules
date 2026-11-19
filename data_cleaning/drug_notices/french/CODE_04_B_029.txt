@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_029
+DCI: ACIDE FUSIDIQUE SEL DE NA 250 mg cp (FUCIDINE)
+Brand Names: FLUCIDAL | INFLAMINE | NIFLUMENE
+Pharmaceutical Forms: Gélule
+Dosages: 250mg
+Packaging: b/30
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D06 - ANTIBIOTIQUES ET CHIMIOTHERAPIE A USAGE DERMATOLOGIQUE | D06A - ANTIBIOTIQUES A USAGE TOPIQUE | D06AX - AUTRES ANTIBIOTIQUES A USAGE TOPIQUE | D06AX01 - ACIDE FUSIDIQUE
+Registration Numbers: 003/04 B 029/11/23 | 231/04 B 029/08/16 | 457/04 B 029/12
+Drug Codes: 04 B 029
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | application | Modalités d'administration | Voie cutanée | Information du patient : nettoyer la peau avant chaque application | Ne pas appliquer en couche épaisse | Ne pas appliquer sur les seins en cas d'allaitement | Ne pas mettre en contact avec l'oeil | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Eradication des gîtes staphylococciques - Impétiginisation de dermatose - Impétigo - Infection cutanée staphylococcique primitive - Infection cutanée streptococcique primitive | Posologie standard | 1 application 1 à 2 fois par jour | Pendant 1 semaine
+
+## Precautions
+
+Allaitement | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Acide fusidique : Mécanisme d'action | L'acide fusidique est un antibiotique de structure stéroïdienne, de la famille des fusidanines. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S 16 mg/l. | Espèces sensibles : | aérobies à Gram + : | Staphylococcus aureus | , | Staphylococcus non aureus | ; | anaérobies : | Clostridium difficile | , | Clostridium perfringens | , | peptostreptococcus | , | Propionibacterium acnes | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire), | aérobies à Gram + : | streptococcus | . | Espèces résistantes : | aérobies à Gram - : | acinetobacter | , entérobactéries, | pseudomonas | .
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Douleur au site d'application (Peu fréquent) | - Erythème cutané (Peu fréquent) | - Irritation au site d'application (Peu fréquent) | - Dermatite (Peu fréquent) | - Prurit (Peu fréquent) | - Phlyctène (Rare) | - Urticaire (Rare) | - Eczéma | - Eruption papuleuse | - Eruption maculopapuleuse | - Dermatite de contact | - Sensation de brûlure au site d'application | - Eruption pustuleuse | - Réaction cutanée | - Eruption cutanée généralisée | - Rash érythémateux | - Eruption vésiculeuse | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Hypersensibilité (Rare) | INFECTIOLOGIE D'ORIGINE BACTERIENNE: | - Sélection de souche résistante | OPHTALMOLOGIE: | - Conjonctivite (Rare)

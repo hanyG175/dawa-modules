@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_098
+DCI: Ergocalciferol/Gluconate De Calcium/Lactate De Calcium
+DrugBank ID: DB00153
+DrugBank Name: Ergocalciferol
+Brand Names: FRUBIOSE VIT D 1000 U.I
+Pharmaceutical Forms: Suspension
+Dosages: 1000ui/129mg/36.8 mg/5 ml
+Packaging: b/20amp.
+Registration Numbers: 152/14 H 098/99
+Drug Codes: 14 H 098
+
+------------------------------------------------------------
+
+## Description
+
+Ergocalciferol is an inactivated vitamin D analog. 1 It is synthesized by some plants in the presence of UVB light. 6 The production of ergocalciferol was prompted by the identification of dietary deficiency, more specifically vitamin D, as the main causative factor for the development of rickets. Ergocalciferol was isolated for the first time from yeast in 1931 and its structure was elucidated in 1932. 7 Ergocalciferol is considered the first vitamin D analog and is differentiated from cholecalciferol by the presence of a double bond between C22 and C23 and the presence of a methyl group at C24. These modifications reduce the affinity of ergocalciferol for the vitamin D binding protein resulting in faster clearance, limits its activation, and alters its catabolism. 3 The first approved product containing ergocalciferol under the FDA records was developed by US Pharm Holdings and was FDA approved in 1941. 10
+
+## Pharmacodynamics
+
+After the activation of the vitamin D receptor, some of the biological changes produced by ergocalciferol include mobilization and accretion of calcium and phosphorus in the bone, absorption of calcium and phosphorus in the intestine, and reabsorption of calcium and phosphorus in the kidney. 7 Some other effects known to be produced due to the presence of vitamin D are osteoblast formation, fetus development, induction of pancreatic function, induction of neural function, improvement of immune function, cellular growth and cellular differentiation. 7 When compared to its vitamin D counterpart cholecalciferol , ergocalciferol has been shown to present a reduced induction of calcidiol and hence, it is less potent. 2 Ergocalciferol supplementation in patients with end-stage renal disease has been shown to generate a significant benefit in lab parameters of bone and mineral metabolism as well as improvement in glycemic control, serum albumin levels and reduced levels of inflammatory markers. 1
+
+## Mechanism Of Action
+
+Vitamin D3 receptor Agonist
+
+## Absorption
+
+Ergocalciferol is absorbed in the intestine and carried to the liver in chylomicrons. Its intestinal absorption does not present limitations unless the presence of conditions related to fat malabsorption. 6 However, for absorption to take place, the presence of bile is required. 13
+
+## Volume Of Distribution
+
+The amount of circulating ergocalciferol is very limited as this compound is rapidly stored in fat tissue such as adipose tissue, liver and muscle. This is very obvious in reports that indicate that circulating ergocalciferol is significantly reduced in obese patients. 6
+
+## Metabolism
+
+Ergocalciferol is inactive and hence, the first step in the body is ruled by the conversion of this parent compound to 25-hydroxyvitamin D by the action of CYP2R1 followed by the generation of the major circulating metabolite, 1,25-dihydroxyvitamin D or calcitrol. 6 The generation of this major metabolite is ruled by the activity of CYP27B1 which is a key 1-hydroxylase and CYP24A1 which is responsible for the 25-hydroxylation. 3 As part of the minor metabolism, ergocalciferol is transformed into 25-hydroxyvitamin D in the liver by the activity of D-25-hydroxylase and CYP2R1. As well, the formation of 24(R),25dihydroxyvitamin D is performed mainly in the kidneys by the action of 25-(OH)D-1-hydroxylase and 25-(OH)D-24-hydroxylase. 7 Additionally, there are reports indicating significant activity of 3-epimerase in the metabolism of ergocalciferol which modifies the hydroxy group in C3 from the alpha position to a beta. The epimers formed seemed to have a reduced affinity for the vitamin D plasma proteins and to the vitamin D receptor. 3 An alternative activation metabolic pathway has been reported and this process is characterized by the activity of CYP11A1 and its hydroxylation in the C-20. This 20-hydroxylated vitamin D seems to have similar biological activity than calcitriol. 3 Hover over products below to view reaction partners Ergocalciferol 25-hydroxyvitamin D Calcitrol 24(R),25dihydroxyvitamin D beta-ergocalciferol 20-hydroxyvitamin
+
+## Route Of Elimination
+
+The active form of ergocalciferol, calcitrol, cannot be maintained for long periods in storage tissue mainly in periods of dietary or UVB deprivation. 6 Therefore, ergocalciferol and its metabolites are excreted via the bile with a minor contribution of renal elimination. This major fecal elimination is explained due to the cubilin-megalin receptor system-mediated renal reuptake of vitamin D metabolites bound to vitamin D binding protein. 14
+
+## Half Life
+
+Ergocalciferol can be found circulation for 1-2 days. This quick turnover is presented due to hepatic conversion and uptake by fat and muscle cells where it is transformed to the active form. 6
+
+## Clearance
+
+There are no formal reports regarding the clearance rate of ergocalciferol. Due to the structural similarity, it is recommended to consult this parameter with cholecalciferol . On the other hand, the proposed renal clearance of calcitriol is of 31 ml/min. 8
+
+## Toxicity
+
+The reported LD50 for orally administered ergocalciferol in the rat is of 10 mg/kg. MSDS Overdosage with this agent is reported to produce hypervitaminosis characterized by hypercalcemia, renal impairment, calcification of soft tissues, a decline in the rate of linear growth and increase in bone mineralization. 15 Once an overdose state is registered, immediate withdrawal of vitamin D is required along with a calcium diet, generous intake of fluids and symptomatic treatment. The administration of loop diuretics is an option to increase renal calcium excretion. On the other hand, dialysis and administration of citrates, sulfates, phosphates, corticosteroids, EDTA and mithramycin are recommended. 15 There haven't been long term studies analyzing the carcinogenic and mutagenic potential of ergocalciferol or its effects in fertility.

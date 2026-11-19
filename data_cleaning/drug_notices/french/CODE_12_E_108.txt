@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_108
+DCI: ALUMINIUM HYDROXYDE 460 mg + MAGNESIUM HYDROXYDE 400 mg susp buv sach (MAALOX HYDROXYDE D'ALUMINIUM/HYDROXYDE DE MAGNESIUM)
+Brand Names: FERRO SANOL GYN
+Pharmaceutical Forms: Gélule
+Dosages: 454.13mg/80mg/1mg
+Packaging: b/50
+Laboratories: OPELLA HEALTHCARE France SAS
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A02 - MEDICAMENTS DES TROUBLES DE L'ACIDITE | A02A - ANTIACIDES | A02AB - ANTIACIDES A BASE D'ALUMINIUM | A02AB01 - ALUMINIUM HYDROXYDE
+Registration Numbers: 268/12 E 108/03/24
+Drug Codes: 12 E 108
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Ce médicament est indiqué chez l'adulte et l'adolescent de plus de 15 ans dans les brûlures d'estomac et remontées acides.
+
+## Posology
+
+Posologie | Unité de prise | sachet | aluminium hydroxyde : 8.08 g | Modalités d'administration | Voie orale | Administrer au moment des douleurs | Administrer la solution pure | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Affection oeso-gastro-duodénale, traitement symptomatique des manifestations douloureuses (de l') | Posologie standard | 1 sachet 1 à 6 fois par jour | Posologies maximales | Nombre d'unité de prise maximale: 6 sachets par jour
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 ans | Grossesse | Insuffisance rénale | Patient dialysé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire | NUTRITION, MÉTABOLISME: | - Déplétion phosphorée | SYSTÈME DIGESTIF: | - Transit intestinal (modification) | - Diarrhée | - Constipation

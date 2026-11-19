@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_013
+DCI: indométacine
+DrugBank ID: DB00328
+DrugBank Name: Indomethacin
+Brand Names: INDOMET
+Pharmaceutical Forms: Gélule
+Dosages: 25mg
+Packaging: b/30
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01B - ANTIINFLAMMATOIRES | S01BC - ANTIINFLAMMATOIRES NON STEROIDIENS | S01BC01 - INDOMETACINE
+Registration Numbers: 003/04 B 013/96/20
+Drug Codes: 04 B 013
+
+------------------------------------------------------------
+
+## Description
+
+Indometacin, or indomethacin, is a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic, and antipyretic properties. NSAIDs consist of agents that are structurally unrelated; the NSAID chemical classification of indometacin is an indole-acetic acid derivative with the chemical name 1- (p-chlorobenzoyl)25-methoxy-2-methylindole-3-acetic acid. 1 The pharmacological effect of indometacin is not fully understood, however, it is thought to be mediated through potent and nonselective inhibition of the enzyme cyclooxygenase (COX), which is the main enzyme responsible for catalyzes the rate-limiting step in prostaglandin and thromboxane biosynthesis via the arachidonic acid (AA) pathway. Indometacin was first discovered in 1963 and it was first approved for use in the U.S. by the Food and Drug Administration in 1965, 10 along with other acetic acid derivatives such as diclofenac and sulindac that were also developed during the 1960s. 1 Since then, indometacin has been extensively studied in clinical trials as one of the most potent NSAIDs in blocking prostaglandin synthesis and was among the first NSAIDs to be used in the symptomatic treatment of migraine and for headaches that eventually became known as “indomethacin-responsive” headache disorders. 1 Most commonly used in rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, acute shoulder pains, and acute gouty arthritis, indometacin is currently available as oral capsules as well as other methods of administration, including rectal and intravenous formulations. Intravenous indometacin is administered to close a hemodynamically significant patent ductus arteriosus, as indicated by clinical evidence, in premature infants. 14 Ophthalmic indometacin has been studied and used in the symptomatic treatment of postoperative ocular inflammation and pain and/or complications after cataract surgery. Although deemed effective in reducing ocular inflammation in clinical studies, topical NSAIDs were also associated with a potential reduction in corneal sensitivity accompanied by an increased risk of superficial punctate keratitis and subjective symptoms of discomfort, including pain, burning or pricking, or a tingling sensation after instillation into the cul‐de‐sac. 6
+
+## Pharmacodynamics
+
+Indometacin is an NSAID with analgesic and antipyretic properties that exerts its pharmacological effects by inhibiting the synthesis of factors involved in pain, fever, and inflammation. Its therapeutic action does not involve pituitary-adrenal stimulation. 13 Indometacin primarily works by suppressing inflammation in rheumatoid arthritis by providing relief of pain as well as reducing fever, swelling, and tenderness. This effectiveness has been demonstrated by a reduction in the extent of joint swelling, the average number of joints displaying symptoms of inflammation, and the severity of morning stiffness. Increased mobility was demonstrated by a decrease in total walking time and by improved functional capability seen as an increase in grip strength. 13 In clinical trials, indometacin was shown to be effective in relieving the pain, reducing the fever, swelling, redness, and tenderness of acute gouty arthritis. Due to its pharmacological actions, the use of indometacin is associated with the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, as well as gastrointestinal effects such as bleeding, ulceration, and perforation of the stomach or intestines. 13 In a study of healthy individuals, acute oral and intravenous indometacin therapy resulted in a transiently diminished basal and CO2 stimulated cerebral blood flow; this effect disappeared in one study after one week of oral treatment. 13 The clinical significance of this effect has not been established. Compared to other NSAIDs, it is suggested that indometacin is a more potent vasoconstrictor that is more consistent in decreasing cerebral blood flow and inhibiting CO2 reactivity. 1 There have been studies that show indometacin directly inhibiting neuronal activity to some extent in the trigeminocervical complex after either superior salivatory nucleus or dural stimulation. 1
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Phospholipase A2, membrane associated Inhibitor Human Cyclooxygenases Inhibitor + 2 more targets
+
+## Absorption
+
+Indometacin displays a linear pharmacokinetics profile where the plasma concentrations and area under the curve (AUC) are dose-proportional, whereas half-life (T1/2) and plasma and renal clearance are dose-dependent. 1 Indometacin is readily and rapidly absorbed from the gastrointestinal tract. The bioavailability is virtually 100% following oral administration 1 and about 90% of the dose is absorbed within 4 hours. 13 The bioavailability is about 80-90% following rectal administration. 5 The peak plasma concentrations following a single oral dose were achieved between 0.9 ± 0.4 and 1.5 ± 0.8 hours in a fasting state. 5 Despite large intersubject variation as well using the same preparation, peak plasma concentrations are dose-proportional and averaged 1.54 ± 0.76 μg/mL, 2.65 ± 1.03 μg/mL, and 4.92 ± 1.88 μg/mL following 25 mg, 50 mg, and 75 mg single doses in fasting subjects, respectively. 5 With a typical therapeutic regimen of 25 or 50 mg t.i.d., the steady-state plasma concentrations of indomethacin are an average 1.4 times those following the first dose. 13
+
+## Volume Of Distribution
+
+The volume of distribution ranged from 0.34 to 1.57 L/kg following oral, intravenous, or rectal administration of single and multiple doses of indometacin in healthy individuals. 7 Indometacin is distributed into the synovial fluid 2 and is extensively bound to tissues 6 . It has been detected in human breast milk 2 and placenta. 13 Although indometacin has been shown to cross the blood-brain barrier (BBB) 13 , its extensive plasma protein binding allows only the small fraction of free or unbound indometacin to diffuse across the BBB. 6
+
+## Metabolism
+
+Indometacin undergoes hepatic metabolism involving glucuronidation, O-desmethylation, and N-deacylation. 6 O-desmethyl-indomethacin, N-deschlorobenzoyl-indomethacin, and O-desmethyl-N-deschlorobenzoyl-indomethacin metabolites and their glucuronides are primarily inactive and have no pharmacological activity. 6 , 13 Unconjugated metabolites are also detected in the plasma. 13 Its high bioavailability indicates that indometacin is unlikely to be subject to the first-pass metabolism. 6 Hover over products below to view reaction partners Indomethacin 5-Hydroxyindomethacin Indomethacin acyl glucuronide Deacyl indomethacin O-Desmethyl-N-deschlorobenzoyl indomethacin
+
+## Route Of Elimination
+
+Indometacin is eliminated via renal excretion, metabolism, and biliary excretion. It is also subject to enter the enterohepatic circulation through excretion of its glucuronide metabolites into bile followed by resorption of indometacin after hydrolysis 6 . The extent of involvement in the enterohepatic circulation ranges from 27 to 115%. 6 About 60 percent of an oral dosage is recovered in urine as drug and metabolites (26 percent as indomethacin and its glucuronide), and 33 percent in the feces (1.5 percent as indomethacin). 13
+
+## Half Life
+
+Indometacin disposition from the plasma is reported to be biphasic, with a half-life of 1 hour during the initial phase and 2.6–11.2 hours during the second phase. 6 Interindividual and intraindividual variations are possible due to the extensive and sporadic nature of the enterohepatic recycling and biliary discharge of the drug. 2 , 6 The mean half-life of oral indomethacin is estimated to be about 4.5 hours. 13 The disposition of intravenous indometacin in preterm neonates was shown to vary across premature infants. In neonates older than 7 days, the mean plasma half-life of intravenous indometacin was approximately 20 hours, ranging from 15 hours in infants weighing more than 1000 g and 21 hours in infants weighing less than 1000 g. 14
+
+## Clearance
+
+In a clinical pharmacokinetic study, the plasma clearance of indometacin was reported to range from 1 to 2.5 mL/kg/min following oral administration. 2
+
+## Toxicity
+
+Acute oral LD50 is 2.42 mg/kg in rats and 13 mg/kg in mice. MSDS The oral LD50 of indomethacin in mice and rats (based on 14-day mortality response) was 50 and 12 mg/kg, respectively. 13 Symptoms of overdose may be characterized by nausea, vomiting, intense headache, dizziness, mental confusion, disorientation, or lethargy. In addition, there have been reports of paresthesias, numbness, and convulsions. In case of an overdose, the patient should receive symptomatic and supportive treatment with stomach emptying through induced vomiting or gastric lavage. 13 The patient should then be closely monitored for any signs of gastrointestinal ulceration and hemorrhage. Antacids may be useful. 13

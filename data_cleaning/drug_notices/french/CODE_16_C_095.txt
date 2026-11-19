@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_C_095
+DCI: ZOLPIDEM TARTRATE dix milligrammes cp (ZOLPIDEM ARROW)
+Brand Names: EVOZOLPIDEM | STILNOX | ZOLIDRATE
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/14 | b/20
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05C - HYPNOTIQUES ET SEDATIFS | N05CF - MEDICAMENTS RELIES AUX BENZODIAZEPINES | N05CF02 - ZOLPIDEM
+Registration Numbers: 065/16 C 095/14/24 | 255/16 C 095/06/16 | 549/16 C 095/21
+Drug Codes: 16 C 095
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | zolpidem tartrate : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer immédiatement avant le coucher | Traitement prolongé à éviter | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Insomnie occasionnelle | Posologie standard | 5 à 10 mg 1 fois par jour | Pendant 2 à 5 jours | Insomnie transitoire | Posologie standard | Traitement à arrêter progressivement | 5 à 10 mg 1 fois par jour | Pendant 2 à 3 semaines | Ne pas dépasser 4 semaines de traitement. | Posologies maximales | Posologie maximale: 10 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Alcoolisme | Antécédent d'alcoolisme | Antécédent de maladie psychiatrique | Antécédent de toxicomanie | Dépression | Etat de dépendance, antécédent | Femme susceptible d'être enceinte | Grossesse | Insuffisance hépatique légère à modérée | Insuffisance respiratoire | Nouveau-né exposé in utero au médicament | Patient traité à posologie élevée | Sujet âgé | Sujet débilité | Sujet de moins de 18 ans | Syndrome du QT long congénital | Tendance aux abus médicamenteux | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Zolpidem : Mécanisme d'action | Le zolpidem est une imidazopyridine hypnotique apparentée aux benzodiazépines et a une activité pharmacodynamique qualitativement semblable à celle des autres composés de cette classe : myorelaxante, anxiolytique, sédative, hypnotique, anticonvulsivante et amnésiante. | Les études expérimentales ont montré un effet sédatif à des doses inférieures aux doses nécessaires pour obtenir des effets anticonvulsivants, myorelaxants ou anxiolytiques. Ces effets sont liés à une action agoniste spécifique sur un récepteur central faisant partie du complexe « récepteurs macromoléculaires GABA-OMEGA », également appelés BZ1 et BZ2 et modulant l'ouverture du canal chlore. | Le zolpidem se fixe de façon préférentielle sur le sous-type oméga 1 (ou BZ1).
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Réaction cutanée (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire (Rare) | DIVERS: | - Asthénie (Fréquent) | - Fatigue (Fréquent) | - Recrudescence des symptômes | - Chute | HÉPATOLOGIE: | - Atteinte du foie cholestatique (Rare) | - Hépatite cholestatique (Rare) | - Hépatite mixte (Rare) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke | NUTRITION, MÉTABOLISME: | - Trouble de l'appétit (Peu fréquent) | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | - Diplopie (Peu fréquent) | - Acuité visuelle (diminution) (Rare) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | PSYCHIATRIE: | - Irritabilité (Peu fréquent) | - Trouble de l'attention (Peu fréquent) | - Nervosité (Peu fréquent) | - Insomnie (Fréquent) | - Anomalie du comportement (Peu fréquent) | - Trouble cognitif (Fréquent) | - Psychose (Peu fréquent) | - Euphorie (Peu fréquent) | - Dépression (Fréquent) | - Cauchemar (Fréquent) | - Détachement émotionnel (Fréquent) | - Comportement complexe du sommeil (Peu fréquent) | - Confusion mentale (Peu fréquent) | - Agressivité (Peu fréquent) | - Hallucination (Fréquent) | - Agitation (Fréquent) | - Délire (Très rare) | - Trouble de la libido (Rare) | - Dépendance psychique (Très rare) | - Dépendance physique (Très rare) | - Phénomène de rebond | - Trouble du comportement | - Libido (diminution) | - Abus de substance | - Colère | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Trouble digestif (Peu fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Lésion hépatocellulaire (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Hypotonie musculaire (Peu fréquent) | - Douleur articulaire (Peu fréquent) | - Faiblesse musculaire (Fréquent) | - Douleur musculaire (Peu fréquent) | - Spasme musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Trouble de la vigilance (Fréquent) | - Trouble de la parole (Peu fréquent) | - Somnambulisme (Peu fréquent) | - Tremblement (Peu fréquent) | - Paresthésie (Peu fréquent) | - Altération de la conscience (Rare) | - Trouble de l'équilibre (Rare) | - Somnolence | - Ataxie | - Amnésie antérograde | SYSTÈME RESPIRATOIRE: | - Infection des voies respiratoires supérieures (Fréquent) | - Infection des voies respiratoires inférieures (Fréquent) | - Dépression respiratoire (Très rare) | TOXICOLOGIE: | - Syndrome de sevrage

@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_033
+DCI: Methylprednisolone
+DrugBank ID: DB00959
+DrugBank Name: Methylprednisolone
+Brand Names: METHYLPREDNISOLONE MYLAN
+Pharmaceutical Forms: Poudre Sol. Inj.
+Dosages: 20MG/FL. DE PDRE.
+Packaging: B/20FL. DE PDRE.
+Laboratories: MYLAN
+Countries: FRANCE
+Prescription List: Liste I
+ATC Classification: H02AB04
+Registration Numbers: 077/09 H 033/18 | 176/09 H 033/98/17 | 235/09 H 033/17 | 348/09 H 033/16 | 380/09 H 033/17
+Drug Codes: 09 H 033
+
+------------------------------------------------------------
+
+## Description
+
+Methylprednisolone is a prednisolone derivative glucocorticoid with higher potency than prednisone . 9 It was first described in the literature in the late 1950s. 9 , 10 Methylprednisolone was granted FDA approval on 24 October 1957. 12 In the outbreak of COVID-19, low dose methylprednisolone-based therapy was successful in treating COVID-19-associated pneumonia in one patient with long-term immunosuppression. 11 The efficacy of methylprednisolone in novel coronavirus pneumonia is being investigated further in clinical trials. 15
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals. 5 Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces. 5 Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 5
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Oral methylprednisolone has 89.9% the bioavailability of oral methylprednisolone acetate, while rectal methylprednisolone has 14.2% the bioavailability. 6 Intravitreal methylprednisolone has a T max of 2.5h. 7 Approximately 1/10 of an oral or IV dose of methylprednisolone will reach the vitreous humor. 7 Further data regarding the absorption of methylprednisolone are not readily available. 12 , 13
+
+## Volume Of Distribution
+
+The average volume of distribution of methylprednisolone is 1.38L/kg. 1
+
+## Metabolism
+
+The metabolism of methylprednisolone is thought to be mostly mediated by 11beta-hydroxysteroid dehydrogenases and 20-ketosteroid reductases. 1 Hover over products below to view reaction partners Methylprednisolone Methylprednisolone M13 Metabolite Methylprednisolone M15 Metabolite Methylprednisolone M14 Metabolite Methylprednisolone M7 Metabolite Methylprednisolone M10 Metabolite + Methylprednisolone M9 Metabolite Methylprednisolone M4 Metabolite Methylprednisolone M5 Metabolite + Methylprednisolone M6 Metabolite Methylprednisolone M2 Metabolite + Methylprednisolone M3 Metabolite Methylprednisolone M1 Metabolite Methylprednisolone M11 Metabolite + Methylprednisolone M12 Metabolite Methylprednisolone M8 Metabolite
+
+## Route Of Elimination
+
+Methylprednisolone and its metabolites have been collected in urine in humans. 3 A study in dogs showed 25-31% elimination in urine and 44-52% elimination in feces. 4
+
+## Half Life
+
+Methylprednisolone has a half life of 2.3h. 1 , 6
+
+## Clearance
+
+The average plasma clearance of methylprednisolone is 336mL/h/kg. 1
+
+## Toxicity
+
+The oral LD 50 in rats is >4g/kg. 14 The intraperitoneal LD 50 in mice is 2292mg/kg and in rats is 100mg/kg. 14 Data regarding acute overdoses of glucocorticoids are rare. 12 , 13 Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency. 8 Treat acute overdoses with symptomatic and supportive therapy, while chronic overdoses will require temporarily reduced dosages. 8 , 13

@@ -1,0 +1,29 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_168
+DCI: LERCANIDIPINE CHLORHYDRATE 10 mg cp (LERCAN)
+DrugBank ID: DB00528
+DrugBank Name: Lercanidipine
+Brand Names: CARDIPINE | CORDIPINE | DEPADIUM | DINAZIP | LECARNIDIPINE LDM | LERCA | LERCANIDIPINE BEKER | ZANIDIP
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/30 | b/30 et b/90
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C08 - INHIBITEURS CALCIQUES | C08C - INHIBITEURS CALCIQUES SELECTIFS A EFFETS VASCULAIRES PREDOMINANTS | C08CA - DERIVES DE LA DIHYDROPYRIDINE | C08CA13 - LERCANIDIPINE
+Registration Numbers: 149/06 E 168/17 | 263/06 E 168/19/24 | 269/06 E 168/01/23 | 309/06 E 168/22 | 352/06 E 168/14/24 | 380/06 E 168/21 | 418/06 E 168/20/25 | 447/06 E 168/15/21
+Drug Codes: 06 E 168
+
+------------------------------------------------------------
+
+## Description
+
+Lercanidipine is a calcium channel blocker of the dihydropyridine class. It is sold under various commercial names including Zanidip.
+
+## Pharmacodynamics
+
+Lercanidipine, a dihydropyridine calcium-channel blocker, is used alone or with an angiotensin-converting enzyme inhibitor, to treat hypertension, chronic stable angina pectoris, and Prinzmetal's variant angina. Lercanidipine is similar to other peripheral vasodilators. Lercanidipine inhibits the influx of extra cellular calcium across the myocardial and vascular smooth muscle cell membranes possibly by deforming the channel, inhibiting ion-control gating mechanisms, and/or interfering with the release of calcium from the sarcoplasmic reticulum. The decrease in intracellular calcium inhibits the contractile processes of the myocardial smooth muscle cells, causing dilation of the coronary and systemic arteries, increased oxygen delivery to the myocardial tissue, decreased total peripheral resistance, decreased systemic blood pressure, and decreased afterload.
+
+## Mechanism Of Action
+
+Voltage-dependent calcium channel gamma-1 subunit Inhibitor

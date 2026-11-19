@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_057
+DCI: LEVOMEPROMAZINE (chlorhydrate) 25 mg/ml sol inj (NOZINAN)
+DrugBank ID: DB01403
+DrugBank Name: Methotrimeprazine
+Brand Names: BIOZINAN BR | LEVONON BGL | NOZINAN
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/20
+Laboratories: NEURAXPHARM France SAS
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05A - ANTIPSYCHOTIQUES | N05AA - PHENOTHIAZINES A CHAINE ALIPHATIQUE | N05AA02 - LEVOMEPROMAZINE
+Registration Numbers: 235/16 D 057/23 | 263/16 D 057/98/24 | 378/16 D 057/20
+Drug Codes: 16 D 057
+
+------------------------------------------------------------
+
+## Description
+
+A phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Pharmacodynamics
+
+Methotrimeprazine is a phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Methotrimeprazine has an incomplete oral bioavailability, because it undergoes considerable first-pass-metabolism in the liver. Oral bioavailability is approximately 50 to 60%.
+
+## Metabolism
+
+Hepatic. Methotrimeprazine is metabolized in the liver and degraded to a sulfoxid-, a glucuronid- and a demethyl-moiety.
+
+## Half Life
+
+Approximately 20 hours.
+
+## Toxicity
+
+Symptoms of overdose include convulsions, spastic movements, and coma.

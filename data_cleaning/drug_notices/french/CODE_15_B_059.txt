@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_059
+DCI: SUMATRIPTAN (succinate) 50 mg cp (SUMATRIPTAN ARROW)
+Brand Names: CALMIG | MIGREX
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg
+Packaging: b/06 | b/2 et b/6
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02C - ANTIMIGRAINEUX | N02CC - AGONISTES SELECTIFS DES RECEPTEURS 5HT1 | N02CC01 - SUMATRIPTAN
+Registration Numbers: 242/15 B 059/04 | 447/15 B 059/16/22
+Drug Codes: 15 B 059
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | sumatriptan (succinate) : 50 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Ne pas renouveler la dose en cas d'absence de réponse | Possibilité de dissoudre le comprimé dans l'eau | Respecter un intervalle d'au moins 2 heures entre 2 prises | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 18 an(s) à 65 an(s) | Patient quel que soit le poids | Migraine, traitement de la crise (de) | Posologie standard | 50 mg 1 à 2 fois par 24 heures | Dans le cas de : Patient faiblement répondeur | 100 mg 1 à 2 fois par 24 heures | Posologies maximales | Posologie maximale: 300 mg par 24 heures | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Diabète | Femme ménopausée | Homme de plus de 40 ans | Hypersensibilité aux sulfamides | Insuffisance hépatique légère à modérée | Insuffisance rénale | Migraine atypique | Migraine basilaire | Migraine hémiplégique | Migraine ophtalmoplégique | Pathologie cérébrovasculaire | Patient à risque d'insuffisance coronarienne | Sujet âgé | Sujet à risque de crise convulsive | Sujet à risque de maladie cardiovasculaire | Sujet de moins de 18 ans | Tabagisme | Traitement prolongé | Traitement répété
+
+## Mechanism Of Action
+
+Sumatriptan : Mécanisme d'action | Le sumatriptan est un agoniste sélectif des récepteurs vasculaires à la 5-hydroxytryptamine-1 (5HT | 1d | ) sans effet sur les autres sous-types de récepteurs 5HT (5HT | 2 | à 5HT | 7 | ). | Les récepteurs vasculaires 5HT | 1d | sont localisés principalement au niveau des vaisseaux sanguins crâniens et induisent une vasoconstriction. Chez l'animal, le sumatriptan est responsable d'une vasoconstriction sélective de la circulation artérielle carotidienne. La circulation artérielle carotidienne vascularise les tissus extracrâniens et intracrâniens tels que les méninges. | On pense que la dilatation et/ou la formation d'oedèmes au niveau de ces vaisseaux pourraient correspondre au mécanisme de la migraine chez l'homme. De plus, les résultats des études chez l'animal indiquent que le sumatriptan inhibe l'activité du nerf trijumeau. Ces deux actions (vasoconstriction crânienne et inhibition de l'activité du nerf trijumeau) pourraient contribuer à l'action antimigraineuse du sumatriptan chez l'homme.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Très rare) | DERMATOLOGIE: | - Hyperhidrose | - Urticaire | - Dermatite allergique | DIVERS: | - Douleur (Fréquent) | - Sensation de froid (Fréquent) | - Faiblesse (Fréquent) | - Sensation de lourdeur (Fréquent) | - Sensation de chaleur (Fréquent) | - Fatigue (Fréquent) | - Sensation de lourdeur dans la poitrine | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | INSTRUMENTATION: | - Douleur traumatique provoquée | - Douleur inflammatoire provoquée | NUTRITION, MÉTABOLISME: | - Dysphagie | OPHTALMOLOGIE: | - Scotome | - Papillotement | - Acuité visuelle (diminution) | - Cécité | - Diplopie | - Nystagmus | - Trouble de la vision | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sensation de lourdeur dans la gorge | - Sensation de gorge serrée | PSYCHIATRIE: | - Anxiété | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Fréquent) | - Pression artérielle (augmentation) (Fréquent) | - Palpitation | - Infarctus du myocarde | - Tachycardie | - Arythmie | - Anomalie de l'électrocardiogramme | - Angor | - Hypotension artérielle | - Syndrome de Raynaud | - Bradycardie | - Vasospasme coronarien | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Colite ischémique | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Fréquent) | - Douleur articulaire | SYSTÈME NERVEUX: | - Trouble neurosensoriel (Fréquent) | - Somnolence (Fréquent) | - Raideur de la nuque | - Paresthésie | - Hypoesthésie | - Tremblement | - Convulsions | - Dystonie | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Sensation d'oppression thoracique (Fréquent)

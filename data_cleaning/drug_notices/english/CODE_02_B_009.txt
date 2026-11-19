@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_009
+DCI: KETAMINE (chlorhydrate) cinquante milligrammes par millilitre sol inj (KETAMINE PANPHARMA)
+DrugBank ID: DB01221
+DrugBank Name: Ketamine
+Brand Names: KETARAZ
+Pharmaceutical Forms: Solution
+Dosages: 50mg/ml
+Packaging: b/10 amps et 50 amps
+Registration Numbers: 433/02 B 009/20/25
+Drug Codes: 02 B 009
+
+------------------------------------------------------------
+
+## Description
+
+Ketamine is an NMDA receptor antagonist with a potent anesthetic effect. 6 It was developed in 1963 as a replacement for phencyclidine (PCP) by Calvin Stevens at Parke Davis Laboratories. It started being used for veterinary purposes in Belgium and in 1964 was proven that compared to PCP, it produced minor hallucinogenic effects and shorter psychotomimetic effects. It was FDA approved in 1970, and from there, it has been used as an anesthetic for children or patients undergoing minor surgeries but mainly for veterinary purposes. 14
+
+## Pharmacodynamics
+
+Ketamine is a rapid-acting general anesthetic producing an anesthetic state characterized by profound analgesia, normal pharyngeal-laryngeal reflexes, normal or slightly enhanced skeletal muscle tone, cardiovascular and respiratory stimulation, and occasionally a transient and minimal respiratory depression. The anesthetic state produced by Ketamine has been termed as "dissociative anesthesia" in that it appears to selectively interrupt association pathways of the brain before producing somesthetic sensory blockade. It may selectively depress the thalamoneocortical system before significantly obtunding the more ancient cerebral centers and pathways (reticular-activating and limbic systems). 2 Ketamine enhances descending inhibiting serotoninergic pathways and can exert antidepressive effects. These effects are seen in concentrations ten times lower than the needed concentration for anesthetic proposes. The effect of ketamine can be described as analgesic by the prevention of central sensitization in dorsal horn neurons as well as by the inhibition on the synthesis of nitric oxide. Ketamine can present cardiovascular changes and bronchodilatation. 9
+
+## Mechanism Of Action
+
+Glutamate receptor ionotropic, NMDA 3A Antagonist 5-hydroxytryptamine receptor 3A Potentiator Neuronal acetylcholine receptor subunit alpha-7 Antagonist + 2 more targets
+
+## Absorption
+
+Ketamine absorption is very rapid and the bioavailability is around 93%. After the first pass metabolism, only 17% of the administered dose is absorbed. 10 It distributes very rapidly and presents a distribution half-life of 1.95 min. 12 The Cmax levels at peak reach 0.75 mcg/ml in plasma and 0.2 mcg/ml in cerebrospinal fluid. 15
+
+## Volume Of Distribution
+
+The apparent volume of distribution of the central compartment and at steady-state are 371.3 ml/kg and 4060.3 ml/kg, respectively. 13
+
+## Metabolism
+
+Ketamine presents a mainly hepatic metabolism and its major metabolite is norketamine. The biotransformation of ketamine corresponds to N-dealkylation, hydroxylation of the cyclohexone ring, conjugation to glucuronic acid and dehydration of the hydroxylated metabolites for the formation of cyclohexene derivatives. 10 Hover over products below to view reaction partners Ketamine Norketamine 6-Hydroxynorketamine 5-Hydroxynorketamine 4-Hydroxynorketamine 6-Hydroxyketamine 6-Hydroxynorketamine 5-Hydroxyketamine 5-Hydroxynorketamine 4-Hydroxyketamine 4-Hydroxynorketamine
+
+## Route Of Elimination
+
+Pharmacokinetic studies have resulted in the recovery of 85-95% of the administered dose in urine mainly in the form of metabolites. Some other routes of elimination of ketamine are bile and feces. When administered intravenously the resultant recovery is distributed by 91% of the administered dose in urine and 3% in feces. 15
+
+## Half Life
+
+The reported half-life in preclinical studies for ketamine is 186 min. 10
+
+## Clearance
+
+The clearance rate of ketamine is high and of around 95 L/h/70kg. 11
+
+## Toxicity
+
+Preclinical studies related to the blocking of NMDA receptors have shown an increase in apoptosis in the developing brain which results in cognitive deficits when used for longer than 3 hours. Toxicity studies regarding carcinogenesis have not been performed. Regarding mutagenesis and fertility, ketamine showed to be clastogenic and to not have effects on fertility. Label

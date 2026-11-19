@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_203
+DCI: Simvastatine
+Brand Names: SIMVASTATINE LDM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 40MG
+Packaging: B/30
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: ALGERIE
+Reference Tariff (DA): 1980 DA
+PPA (DA): 2085.00 DA
+Prescription List: Liste I
+ATC Classification: 06M203
+Registration Numbers: 309/06 M 203/07/23 | 447/06 M 203/09/24 | 605/06 M 203/13/23
+Drug Codes: 06 M 203
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+HYPOLIPIDEMIANTS

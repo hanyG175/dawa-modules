@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_049
+DCI: TERBUTALINE SULFATE 5 mg/2 ml sol p inhal p nébulis (TERBUTALINE SANDOZ Unidose) | Terbutaline | Terbutaline Sulfate
+DrugBank ID: DB00871
+DrugBank Name: Terbutaline
+Brand Names: BRICAMEX | ISOBUTALINE | TALIN
+Pharmaceutical Forms: Siropop | Sol.Buv. Sans Sucre | Solution
+Dosages: 0.3mg/ml | 30 mg/100ml
+Packaging: flacon./150ml | flacon/100ml | flacon/150 ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R03 - MEDICAMENTS POUR LES SYNDROMES OBSTRUCTIFS DES VOIES AERIENNES | R03A - ADRENERGIQUES POUR INHALATION | R03AC - AGONISTES SELECTIFS BETA 2 ADRENERGIQUES | R03AC03 - TERBUTALINE
+Registration Numbers: 043/20 A 049/98 | 073/20 A 049/10/18 | 400/20 A 043/20
+Drug Codes: 20 A 049
+
+------------------------------------------------------------
+
+## Description
+
+Terbutaline was first synthesized in 1966 12 and described in the literature in the late 1960s and early 1970s. 11 It is a selective beta-2 adrenergic agonist used as a bronchodilator in asthmatic patients. 12 , 16 , 17 Terbutaline was granted FDA approval on 25 March 1974. 15
+
+## Pharmacodynamics
+
+Terbutaline is a beta-2 adrenergic receptor agonist indicated to treat reversibly bronchospasm in asthmatic patients with bronchitis and emphysema. 16 , 17 It has a short duration as the inhaled form is taken up to three times daily, and the therapeutic window is wide. 16 , 17
+
+## Mechanism Of Action
+
+Beta-2 adrenergic receptor Agonist
+
+## Absorption
+
+A 0.5 mg subcutaneous dose of terbutaline reaches a mean C max of 9.6 ± ng/mL, with a median T max of 0.5 hours, and a mean AUC of 29.4 ± 14.2 h*ng/mL. 16 A 5 mg oral terbutaline tablet reaches a mean C max of 8.3 ± 3.9 ng/mL with a median T max of 2 hours, and a mean AUC of 54.6 ± 26.8 h*ng/mL. 17 A 5 mg oral terbutaline solution reaches a mean C max of 8.6 ± 3.6 ng/mL, with a median T max of 1.5 hours, and a mean AUC of 53.1 ± 23.5 h*ng/mL. 17 Oral terbutaline has an oral bioavailability of 14-15%. 8
+
+## Volume Of Distribution
+
+Terbutaline has a mean volume of distribution of 1.6 L/kg. 8
+
+## Metabolism
+
+Terbutaline is sulphated or glucuronidated prior to elimination. 4 , 5 , 6 , 9 Hover over products below to view reaction partners Terbutaline Terbutaline Sulfate Terbutaline Glucuronide
+
+## Route Of Elimination
+
+An oral dose of terbutaline is 40% eliminated in the urine after 72 hours. 6 The major metabolite in the urine was the sulphate conjugated form of terbutaline. 6 Parenteral doses of terbutaline are 90% eliminated in the urine, with approximately 2/3 as the unchanged parent drug. 7 Less than 1% of a dose of terbutaline is eliminated in the feces. 7
+
+## Half Life
+
+An oral dose of terbutaline has an elimination half life of 3.4 hours, 17 while a subcutaneous dose has an elimination half life of 2.9 hours. 16
+
+## Clearance
+
+The average clearance of terbutaline is 3.0 mL/min/kg. 8
+
+## Toxicity
+
+Patients experiencing an overdose may present with abdominal pain, agitation, palpitations, seizures, angina, hypertension, hypotension, tachycardia, arrhythmias, nervousness, headache, tremor, dry mouth, nausea, dizziness, fatigue, malaise, insomnia. 10 , 16 , 17 Discontinue treatment with terbutaline and initiate symptomatic and supportive therapy. 16 , 17

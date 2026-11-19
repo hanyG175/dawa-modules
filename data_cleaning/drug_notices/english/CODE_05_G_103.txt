@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_103
+DCI: EPIRUBICINE CHLORHYDRATE 2 mg/ml sol intravésic/inj (EPIRUBICINE HIKMA)
+DrugBank ID: DB00445
+DrugBank Name: Epirubicin
+Brand Names: EPINTAS | EPIRUBICINE MYLAN | EPIRUDEX | PIRUCIN
+Pharmaceutical Forms: Sol. P. Perf. Iv | Solution
+Dosages: 2mg/ml (10mg/5ml et 50mg/25ml) | 2mg/ml (10mg/5ml-50mg/25ml et 200mg/100ml) | 2mg/ml (10mg/5ml-50mg/25ml) | 2mg/ml (10mg/5ml-50mg/25ml-100mg/50ml et 200mg/100ml)
+Packaging: b/01fl. de 5ml - b/01fl. de 25ml | b/01fl. de 5ml - b/01fl. de 25ml - b/01 flacon de 50 ml et b/01fl. de 100ml | b/01fl. de 5ml - b/01fl. de 25ml et b/01fl. de 100ml | b/01fl. de 5ml et b/01fl. de 25ml
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01D - ANTIBIOTIQUES CYTOTOXIQUES ET APPARENTES | L01DB - ANTHRACYCLINES ET APPARENTES | L01DB03 - EPIRUBICINE
+Registration Numbers: 001/05 G 103/13 | 323/05 G 103/16 | 450/05 G 103/17 | 478/05 G 103/13
+Drug Codes: 05 G 103
+
+------------------------------------------------------------
+
+## Description
+
+An anthracycline which is the 4'-epi-isomer of doxorubicin. The compound exerts its antitumor effects by interference with the synthesis and function of DNA.
+
+## Pharmacodynamics
+
+Epirubicin is an antineoplastic in the anthracycline class. General properties of drugs in this class include: interaction with DNA in a variety of different ways including intercalation (squeezing between the base pairs), DNA strand breakage and inhibition with the enzyme topoisomerase II. Most of these compounds have been isolated from natural sources and antibiotics. However, they lack the specificity of the antimicrobial antibiotics and thus produce significant toxicity. The anthracyclines are among the most important antitumor drugs available. Doxorubicin is widely used for the treatment of several solid tumors while daunorubicin and idarubicin are used exclusively for the treatment of leukemia. Epirubicin may also inhibit polymerase activity, affect regulation of gene expression, and produce free radical damage to DNA. Epirubicin possesses an antitumor effect against a wide spectrum of tumors, either grafted or spontaneous. The anthracyclines are cell cycle-nonspecific.
+
+## Mechanism Of Action
+
+Epirubicin has antimitotic and cytotoxic activity. It inhibits nucleic acid (DNA and RNA) and protein synthesis through a number of proposed mechanisms of action: Epirubicin forms complexes with DNA by intercalation between base pairs, and it inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes. It also interferes with DNA replication and transcription by inhibiting DNA helicase activity. Target Actions Organism U DNA topoisomerase 2-beta modulator Humans U DNA intercalation Humans U DNA topoisomerase 2-alpha inhibitor Humans
+
+## Volume Of Distribution
+
+21 ± 2 L/kg [60 mg/m2 Dose] 27 ± 11 L/kg [75 mg/m2 Dose] 23 ± 7 L/kg [120 mg/m2 Dose] 21 ± 7 L/kg [150 mg/m2 Dose]
+
+## Metabolism
+
+Extensively and rapidly metabolized in the liver. Epirubicin is also metabolized by other organs and cells, including red blood cells. The four main metabolic routes are: (1) reduction of the C-13 keto-group with the formation of the 13(S)-dihydro derivative, epirubicinol; (2) conjugation of both the unchanged drug and epirubicinol with glucuronic acid; (3) loss of the amino sugar moiety through a hydrolytic process with the formation of the doxorubicin and doxorubicinol aglycones; and (4) loss of the amino sugar moiety through a redox process with the formation of the 7-deoxy-doxorubicin aglycone and 7-deoxy-doxorubicinol aglycone. Epirubicinol exhibits in vitro cytoxic activity (~10% that of epirubicin), but it is unlikely to reach sufficient concentrations in vivo to produce cytotoxic effects.
+
+## Route Of Elimination
+
+Epirubicin and its major metabolites are eliminated through biliary excretion and, to a lesser extent, by urinary excretion.
+
+## Half Life
+
+Half-lives for the alpha, beta, and gamma phases of about 3 minutes, 2.5 hours and 33 hours, respectively
+
+## Clearance
+
+65 +/- 8 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 60 mg/m2] 83 +/- 14 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 75 mg/m2] 65 +/- 13 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 120 mg/m2] 69 +/- 13 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 150 mg/m2]
+
+## Toxicity
+
+bone marrow aplasia, grade 4 mucositis, and gastrointestinal bleeding

@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_323
+DCI: Clarithromycine
+DrugBank ID: DB01211
+DrugBank Name: Clarithromycin
+Brand Names: CLARIDAR 125 | CLARITHRO | HUCLAR | ZECLAR 25
+Pharmaceutical Forms: Granule Pour Suspension Buv | Granule Pour Suspension Buvable | Granule Pour Suspension Buvable En Flaconon | Poudre
+Dosages: 125mg/5ml | 25mg/ml
+Packaging: b/1fl. de 100 ml de susp. buv. apres reconst.+ seringue | b/1fl. de 60ml de susp. buv. apres reconst.+une cuillere mesure graduee a 2.5ml et a 5ml | boite d'un flacon de 60ml avec seringue | flacon./100ml
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: J01FA09
+Registration Numbers: 055/13 E 323/12 | 147/13 E 323/08/16 | 235/13 E 323/23 | 380/13 E 323/19
+Drug Codes: 13 E 323
+
+------------------------------------------------------------
+
+## Description
+
+Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+
+## Pharmacodynamics
+
+Clarithromycin is a macrolide antibiotic whose spectrum of activity includes many gram-positive ( Staphylococcus aureus, S. pneumoniae, and S. pyogenes ) and gram-negative aerobic bacteria ( Haemophilus influenzae, H. parainfluenzae, and Moraxella catarrhalis ), many anaerobic bacteria, some mycobacteria, and some other organisms including Mycoplasma, Ureaplasma, Chlamydia, Toxoplasma , and Borrelia . Other aerobic bacteria that clarithromycin has activity against include C. pneumoniae and M. pneumoniae . Clarithromycin has an in-vitro activity that is similar or greater than that of erythromycin against erythromycin-susceptible organisms. Clarithromycin is usually bacteriostatic, but may be bactericidal depending on the organism and the drug concentration.
+
+## Mechanism Of Action
+
+Large ribosomal subunit protein uL10 (Shigella flexneri) Inhibitor
+
+## Absorption
+
+Clarithromycin is well-absorbed, acid stable and may be taken with food.
+
+## Metabolism
+
+Hepatic - predominantly metabolized by CYP3A4 resulting in numerous drug interactions. Hover over products below to view reaction partners Clarithromycin 14-hydroxyclarithromycin N-desmethylclarithromycin
+
+## Route Of Elimination
+
+After a 250 mg tablet every 12 hours, approximately 20% of the dose is excreted in the urine as clarithromycin, while after a 500 mg tablet every 12 hours, the urinary excretion of clarithromycin is somewhat greater, approximately 30%.
+
+## Half Life
+
+3-4 hours
+
+## Toxicity
+
+Symptoms of toxicity include diarrhea, nausea, abnormal taste, dyspepsia, and abdominal discomfort. Transient hearing loss with high doses has been observed. Pseudomembraneous colitis has been reported with clarithromycin use. Allergic reactions ranging from urticaria and mild skin eruptions to rare cases of anaphylaxis and Stevens-Johnson syndrome have also occurred. Rare cases of severe hepatic dysfunctions also have been reported. Hepatic failure is usually reversible, but fatalities have been reported. Clarithromycin may also cause tooth decolouration which may be removed by dental cleaning. Fetal abnormalities, such as cardiovascular defects, cleft palate and fetal growth retardation, have been observed in animals. Clarithromycin may cause QT prolongation.

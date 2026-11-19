@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_067
+DCI: Sulpiride
+DrugBank ID: DB00391
+DrugBank Name: Sulpiride
+Brand Names: G-SULPIRIDE | SULMATIL | SULPIRYL | SUNADIL
+Pharmaceutical Forms: Sol. Buv. | Solution
+Dosages: 0.005 | 0.5g/100 ml ou 0.5% | 0.5g/100ml | 25MG/5ML (OU 0,5G/100ML)
+Packaging: FL./200ML | flacon/180 ml | flacon/200ml
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 118 DA
+Prescription List: Liste I
+ATC Classification: 16D067
+Registration Numbers: 003/16 D 067/97/25 | 077/16 D 067/03/23 | 235/16 D 067/09/24 | 242/16 D 067/06 | 285/16 D 067/06/16 | 317/16 D 067/16/22 | 319/16 D 067/06/24 | 392/16 D 067/97/16 | 400/16 D 067/17 | 503/16 D 067/16
+Drug Codes: 16 D 067
+
+------------------------------------------------------------
+
+## Description
+
+Sulpiride first appeared in published literature in 1967. 1 Clinical studies show a greater effect on treating the negative symptoms of schizophrenia rather than positive symptoms at low doses, though the effects are more equal at higher doses. 7 Sulpiride is not approved by the FDA, Health Canada, or the EMA; though it is approved in individual European countries. 11
+
+## Pharmacodynamics
+
+Sulpiride is a substituted benzamide derivative and a selective dopamine D2 antagonist indicated to treat acute and chronic schizophrenia. 6 , 7 , 8 , 10 It has a short duration of action as it is given twice daily, and a wide therapeutic window as patients have survived single doses as high as 16g. 10 Patients should be counselled regarding increased motor agitation, extrapyramidal reactions, and neuroleptic malignant syndrome. 10
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Sulpiride has an oral bioavailability of 27 ± 9%. 4 A 100-108 mg dose of sulpiride reaches a C max of 232-403 ng/mL, with a T max of 8.3 h. 2 In another study, the AUC of a 100mg oral dose of sulpiride is 1156 ± 522 h*ng/mL and for an intravenous dose is 3981 ± 813 h*ng/mL. 4
+
+## Volume Of Distribution
+
+The average volume of distribution of sulpiride is 2.72 ± 0.66 L/kg. 4
+
+## Metabolism
+
+95% of a dose of sulpiride is not metabolized. 2
+
+## Route Of Elimination
+
+An intravenous dose of sulpiride is 70 ± 9% eliminated in the urine within 36 hours, while an oral dose is 27 ± 9% eliminated in urine. 4 In both cases, the dose is recovered as the unchanged parent compound. 4
+
+## Half Life
+
+Reports of the half life of sulpiride have only been performed with small numbers of subjects. 2 , 4 Therefore, the average half life may be 7.15 hours 4 to 8.3 hours. 2
+
+## Clearance
+
+The total systemic clearance of sulpiride if 415 ± 84 mL/min, while the mean renal clearance was 310 ± 91 mL/min. 4
+
+## Toxicity
+
+Patients experiencing an overdose of sulpiride may present with hypotension, sinus tachycardia, arrhythmia, dystonia, CNS depression, hallucinations, vomiting, agitation, dysarthria, salivation, as well as increased muscle tone, hyperreflexia, and extensor plantar reflex. 5 Patients should be treated with symptomatic and supportive treatment. 5

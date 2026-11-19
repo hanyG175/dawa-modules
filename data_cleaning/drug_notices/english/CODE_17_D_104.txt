@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_104
+DCI: Acide Fusidique | CARBOMERE [980] 0,13 % collyre sol récip unidose (LACRIFLUID Unidose)
+DrugBank ID: DB02703
+DrugBank Name: Fusidic acid
+Brand Names: FUCITHALMIC | FUTARON | ZYDEX
+Pharmaceutical Forms: Collyree Visqueux | Gélule
+Dosages: 0.01
+Packaging: flacon/5ml | t/3g | t/5g
+Laboratories: Laboratoires EUROPHTA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01X - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA20 - LARMES ARTIFICIELLES ET DIVERSES AUTRES PREPARATIONS
+Registration Numbers: 406/17 D 104/24 | 501/17 D 104/97/23 | 521/17 D 104/24
+Drug Codes: 17 D 104
+
+------------------------------------------------------------
+
+## Description
+
+An antibiotic isolated from the fermentation broth of Fusidium coccineum. (From Merck Index, 11th ed) It acts by inhibiting translocation during protein synthesis. It is often used topically in creams and eyedrops but is available in systemic formulations including tablets and injections.
+
+## Pharmacodynamics
+
+Fusidic acid is a bacteriostatic antibiotic and helps prevent bacterial growth while the immune system clears the infection.
+
+## Mechanism Of Action
+
+Elongation factor G (Thermus thermophilus) Inhibitor
+
+## Absorption
+
+Sodium fusidic acid tablets have a 91% oral bioavailability. Absorption of the film-coated tablets is complete when compared to a solution, however oral absorption is variable. Oral fusidic acid hemihydrate (suspension) achieved a 22.5% bioavailability in pediatric patients following a 20 milligram/kilogram dose.
+
+## Metabolism
+
+Metabolites include dicarboxylic ester/acid, 3-keto fusidic acid, hydroxy fusidic acid, glucuronide fusidic acid and a glycol metabolite. Hover over products below to view reaction partners Fusidic acid Malonic acid 3-keto fusidic acid Dicarboxylic ester Glucuronide fusidic acid Hydroxy fusidic acid
+
+## Half Life
+
+Approximately 5 to 6 hours in adults.

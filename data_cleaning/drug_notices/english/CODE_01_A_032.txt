@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_032
+DCI: Mequitazine
+DrugBank ID: DB01071
+DrugBank Name: Mequitazine
+Brand Names: MEQUITAZ | PRIMAL | PRIMAZINE | PRYMALEX
+Pharmaceutical Forms: Siropop
+Dosages: 2.5mg/5ml (0.05%)
+Packaging: b/01 flacon de 60ml
+Registration Numbers: 088/01 A 032/22 | 235/01 A 032/19/24 | 318/01 A 032/18/24 | 462/01 A 032/23
+Drug Codes: 01 A 032
+
+------------------------------------------------------------
+
+## Description
+
+Mequitazine is a histamine H1 antagonist (antihistamine). It competes with histamine for the normal H1-receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.
+
+## Pharmacodynamics
+
+In allergic reactions an allergen interacts with and cross-links surface IgE antibodies on mast cells and basophils. Once the mast cell-antibody-antigen complex is formed, a complex series of events occurs that eventually leads to cell-degranulation and the release of histamine (and other chemical mediators) from the mast cell or basophil. Once released, histamine can react with local or widespread tissues through histamine receptors. Histamine, acting on H 1 -receptors, produces pruritis, vasodilatation, hypotension, flushing, headache, tachycardia, and bronchoconstriction. Histamine also increases vascular permeability and potentiates pain. Mequitazine is a histamine H1 antagonist. It competes with histamine for the normal H 1 -receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist

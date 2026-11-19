@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_041
+DCI: CETIRIZINE DICHLORHYDRATE 10 mg/ml sol buv en gte (CETIRIZINE BIOGARAN)
+Brand Names: ARTIZ | CETIRIPEX | CETIRIZINE GL | CETIRIZINE PHYSIOPHARM | CYRTEC | HISTARIZINE | RHITENE | TRIZ | ZETIREC | ZETREC | ZITRAL | ZITRINE
+Pharmaceutical Forms: Solution
+Dosages: 10mg/ml
+Packaging: b/flacon 15 ml | b/flacon 30ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AE - DERIVES DE LA PIPERAZINE | R06AE07 - CETIRIZINE
+Registration Numbers: 035/01 A 041/23 | 065/01 A 041/17/22 | 073/01 A 041/19 | 088/01 A 041/24 | 235/01 A 041/14/24 | 242/01 A 041/19 | 285/01 A 041/13/19 | 304/01 A 041/21 | 318/01 A 041/23 | 352/01 A 041/16/22 | 462/01 A 041/19 | 528/01 A 041/21
+Drug Codes: 01 A 041
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | cétirizine dichlorhydrate : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Utiliser une forme sécable si nécessaire | Posologie | Patient de 6 an(s) à 12 an(s) | Patient quel que soit le poids | Conjonctivite allergique - Manifestations allergiques, traitement symptomatique (des) - Rhinite allergique - Urticaire chronique idiopathique | Posologie standard | 5 mg 2 fois par jour | Patient à partir de 12 an(s) | Patient quel que soit le poids | Conjonctivite allergique - Manifestations allergiques, traitement symptomatique (des) - Rhinite allergique - Urticaire chronique idiopathique | Posologie standard | 10 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Enfant de moins de 6 ans | Epilepsie | Insuffisance rénale : 15 ml/min < clairance de la créatinine < 60 ml/min | Sujet à risque de crise convulsive | Sujet à risque de rétention urinaire
+
+## Mechanism Of Action
+
+Cétirizine : Mécanisme d'action | La cétirizine, métabolite de l' | hydroxyzine | , est un antagoniste puissant et sélectif des récepteurs H1 périphériques. Des études | in vitro | de liaison aux récepteurs n'ont pas révélé d'affinité mesurable pour d'autres récepteurs que les récepteurs H1. | En association aux effets anti-H1, la cétirizine, administrée à la dose de 10 mg une ou deux fois par jour, inhibe la phase retardée de recrutement des éosinophiles au niveau de la peau et du tissu conjonctif des sujets atopiques, après tests de provocation allergénique. | En association avec la | pseudoéphédrine | l'activité pharmacodynamique est en relation directe avec un effet additif de l'activité de chacun de ces composants. La | pseudoéphédrine | consiste en une amine sympathomimétique active par voie orale qui possède un effet décongestionnant sur la muqueuse nasale.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Rare) | - Enzymes hépatiques (augmentation) | - Phosphatases alcalines (augmentation) | - Gamma GT (augmentation) | - Bilirubinémie (augmentation) | - Transaminases (augmentation) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire (Rare) | - Erythème pigmenté fixe (Très rare) | - Pustulose exanthémateuse aiguë généralisée | DIVERS: | - Asthénie (Peu fréquent) | - Oedème (Rare) | - Fatigue | HÉMATOLOGIE: | - Thrombopénie (Très rare) | HÉPATOLOGIE: | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Angioedème (Très rare) | - Choc anaphylactique (Très rare) | NUTRITION, MÉTABOLISME: | - Poids (augmentation) (Rare) | - Appétit augmenté | OPHTALMOLOGIE: | - Vision floue (Très rare) | - Trouble de l'accommodation (Très rare) | - Douleur oculaire | ORL, STOMATOLOGIE: | - Dysgueusie (Très rare) | - Sécheresse buccale | - Vertige | - Rhinite | - Pharyngite | - Sensation de vertige | PSYCHIATRIE: | - Agitation (Peu fréquent) | - Confusion mentale (Rare) | - Agressivité (Rare) | - Insomnie (Rare) | - Hallucination (Rare) | - Dépression (Rare) | - Cauchemar | - Idée suicidaire | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Peu fréquent) | - Syncope (Très rare) | - Tachycardie (Rare) | SYSTÈME DIGESTIF: | - Diarrhée (Peu fréquent) | - Nausée | - Douleur abdominale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire | - Douleur articulaire | SYSTÈME NERVEUX: | - Paresthésie (Peu fréquent) | - Dyskinésie (Très rare) | - Dystonie (Très rare) | - Convulsions (Rare) | - Tics (Très rare) | - Crise oculogyre (Très rare) | - Tremblement (Très rare) | - Trouble de la mémoire | - Céphalée | - Somnolence | - Amnésie | - Stimulation du système nerveux central | TOXICOLOGIE: | - Syndrome de sevrage | UROLOGIE, NÉPHROLOGIE: | - Dysurie (Très rare) | - Enurésie (Très rare) | - Rétention urinaire | - Trouble de l'érection

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_B_004
+DCI: Fluocinolone Acetonide/ Neomycine Sulfate/Polymyxine B Sulfate
+DrugBank ID: DB00591
+DrugBank Name: Fluocinolone acetonide
+Brand Names: OTOCROVIS
+Pharmaceutical Forms: Sol Auric . Gttes
+Dosages: 0.025%/0.35%/1000000ui/10ml
+Packaging: flacon/10 ml
+Registration Numbers: 012/18 B 004/98/14 | 455/18 B 004/24
+Drug Codes: 18 B 004
+
+------------------------------------------------------------
+
+## Description
+
+Fluocinolone acetonide, with the formula 6-alpha, 9-alpha-difluoro-16-alpha, 17 alpha-acetonide, is a corticosteroid that presents a high lipophilicity. 8 It has been used extensively in dermatological preparations and it has also been investigated thoroughly for its use in implantable corticosteroid devices. 9 This type of device containing fluocinolone acetonide was developed by Taro Pharmaceuticals and approved by FDA in May 2016. 11
+
+## Pharmacodynamics
+
+Fluocinolone acetonide is a synthetic anti-inflammatory corticosteroid and thus, the effect of its interaction with the body produces vasoconstriction and suppression of membrane permeability, mitotic activity, immune response and release of inflammatory mediators. 18 For its ophthalmic indications, fluocinolone acetonide is administered as intravitreal micro-insert. This preparation was observed in clinical trials to reduce the recurrence of uveitis flares by 2 fold when compared with the non treated patients even after six months after initial administration. As well the intraocular pressure seemed to increase slightly with the presence of the fluocinolone implant but it is important to monitor intraocular pressure. 15
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist Annexin A1 Inducer Annexin A2 Inducer + 3 more targets
+
+## Absorption
+
+When administered as an eye implant, fluocinolone acetonide presents a sustained delivery for even 12 months in which there can be observed a sustained release. 16 The concentration of fluocinolone acetonide are generally higher in the vitreous and retina with a little dispersion to the aqueous humor. 10 There are reports indicating that topical administration of fluocinolone acetonide produces a percutaneous absorption which is determined by the vehicle, integrity of the epidermal barrier and the use of occlusive dressing. 18 Independently of the route of administration, the systemic absorption of fluocinolone acetonide is below 0.1 ng/ml which indicates that the systemic distribution is very minimal and the effect of fluocinolone is mainly local. 5
+
+## Volume Of Distribution
+
+This pharmacokinetic parameter is not relevant as the systemic absorption of fluocinolone acetonide is very minimal.
+
+## Metabolism
+
+Following absorption, fluocinolone acetonide metabolism is primarily hepatic. 18 It is important to mention that the systemically absorbed dose is very minimal. 10
+
+## Route Of Elimination
+
+Fluocinolone acetonide is mainly excreted by the kidneys. 18 It is important to mention that the systemically absorbed dose is very minimal. 10
+
+## Half Life
+
+The reported half-life of fluocinolone acetonide ranges between 1.3-1.7 hours. 7
+
+## Clearance
+
+This pharmacokinetic parameter is not relevant as the systemic absorption of fluocinolone acetonide is very minimal and the concentration in urine is lower than the minimum quantitation limit. 10
+
+## Toxicity
+
+Studies to determine the carcinogenic and its effect in fertility have not been performed. It is important to consider that several corticosteroids have been shown to present genotoxic potential but fluocinolone acetonide was shown to not be genotoxic in the Ames test and mouse lymphoma TK assay. 19

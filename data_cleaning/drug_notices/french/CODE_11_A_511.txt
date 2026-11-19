@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_A_511
+DCI: ECONAZOLE NITRATE 150 mg ovule LP (ECONAZOLE BIOGARAN LP)
+Brand Names: FENOMIX
+Pharmaceutical Forms: Ovule
+Dosages: 600mg
+Packaging: b/01
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D01 - ANTIFONGIQUES A USAGE DERMATOLOGIQUE | D01A - ANTIFONGIQUES A USAGE TOPIQUE | D01AC - DERIVES IMIDAZOLES ET TRIAZOLES | D01AC03 - ECONAZOLE
+Registration Numbers: 231/11 A 511/23
+Drug Codes: 11 A 511
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | application | Modalités d'administration | Voie cutanée | Appliquer par massage doux | Information du patient : se laver les mains avant et après application | Ne pas appliquer sur les seins en cas d'allaitement | Traitement à poursuivre jusqu'à disparition des lésions | Posologie | Patient à partir de 1 mois | Patient quel que soit le poids | Dermatophytose de la peau glabre - Erythrasma - Intertrigo candidosique - Intertrigo dermatophytique des grands plis - Onyxis candidosique, traitement d'appoint (de l') - Périonyxis candidosique, traitement d'appoint (du) - Teigne, traitement d'appoint (de la) | Posologie standard | 1 application 2 à 3 fois par jour | Pendant 2 à 4 semaines | Posologies maximales | Posologie maximale: 3 applications par jour
+
+## Precautions
+
+Allaitement | Candidose | Escarre | Grossesse | Intertrigo sous-mammaire | Sujet âgé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+éconazole : Mécanisme d'action | Le nitrate d'éconazole est un dérivé imidazolé doué d'une activité antifongique et antibactérienne. | L'activité antifongique a été démontrée | in vitro | et s'exerce sur les agents responsables de mycoses cutanéo-muqueuses : | dermatophytes (Trichophyton, Epidermophyton, Microsporum), | Candida et autres levures, | Malassezzia furfur | (agent du Pityriasis Capitis du | Pityriasis Versicolor | ), | moisissures et autres champignons. | L'activité antibactérienne a été démontrée | in vitro | vis-à-vis des bactéries Gram+. | Son mécanisme d'action, différent de celui des antibiotiques, se situe à plusieurs niveaux: membranaire (augmentation de la perméabilité), cytoplasmique (inhibition des processus oxydatifs au niveau des mitochondries), nucléaire (inhibition de la synthèse de l'A.R.N.). | Activité sur | Corynebacterium minutissimum | (érythrasma). | Actinomycètes.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit (Fréquent) | - Douleur au site d'application (Fréquent) | - Sensation de brûlure cutanée (Fréquent) | - Erythème cutané (Peu fréquent) | - Dermatite de contact (Très rare) | - Eczéma de contact (Très rare) | - Vésicule | - Exfoliation cutanée | - Urticaire | - Eruption cutanée | DIVERS: | - Oedème (Peu fréquent) | - Gêne au site d'application (Peu fréquent) | - Douleur (Fréquent) | - Gonflement au site d'application (Peu fréquent) | - Effets systémiques | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Hypersensibilité

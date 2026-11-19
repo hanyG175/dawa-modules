@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_245
+DCI: MONTELUKAST (sel de Na) 4 mg cp à croquer (MONTELUKAST ACCORD)
+Brand Names: MEXAM | SINGULAIR
+Pharmaceutical Forms: Granule | Granule Pour Solution Buvable En Sachetets-Dose
+Dosages: 4mg/sachet | 4mg/sachet-dose
+Packaging: b/28 sachets | b/30 sachets-doses
+ATC Classification: R03DC03
+Registration Numbers: 024/20 A 245/15 | 263/20 A 245/21
+Drug Codes: 20 A 245
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | montélukast (sel de Na) : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer indépendamment de la prise des repas | Administrer le soir | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Asthme d'effort, traitement préventif (de l') - Asthme persistant léger à modéré, traitement de fond associé (de l') | Posologie standard | 10 mg 1 fois par jour
+
+## Precautions
+
+Enfant de moins de 15 ans | Hypersensibilité à l'aspirine | Hypersensibilité aux AINS | Insuffisance hépatique sévère
+
+## Mechanism Of Action
+
+Montélukast : Mécanisme d'action | Les leucotriènes sulfidopeptidiques ou cystéinyl-leucotriènes (LTC | 4 | , LTD | 4 | , LTE | 4 | ) sont des éicosanoïdes exerçant un puissant effet inflammatoire ; ils sont produits par différentes cellules de l'organisme notamment les mastocytes et les éosinophiles. Ces importants médiateurs proasthmatiques se lient aux récepteurs des cystéinyl-leucotriènes (CysLT). Les récepteurs cystéinés de type l (CysLT | 1 | ) sont présents dans les voies aériennes respiratoires de l'homme (au niveau des cellules du muscle lisse et des macrophages des voies aériennes) et dans d'autres cellules pro-inflammatoires (comme les éosinophiles et certaines cellules ciliées). Les leucotriènes cystéinés (CysLT) interviennent dans la physiopathologie de l'asthme et de la rhinite allergique. Dans l'asthme, les effets médiés par les leucotriènes comprennent la bronchoconstriction, la sécrétion de mucus, la perméabilité vasculaire et le recrutement des éosinophiles. Dans la rhinite allergique, les leucotriènes cystéinés (CysLT) sont libérés à partir de la muqueuse nasale après une exposition allergénique aussi bien à la phase précoce qu'en phase tardive et sont associés aux symptômes de la rhinite allergique. Lors des tests de provocation intranasale par les leucotriènes cystéinés, une augmentation de la résistance des voies aériennes nasales et des symptômes d'obstruction nasale a été observée. | Le montélukast est actif par voie orale et se lie sélectivement au récepteur CysLT | 1 | avec une grande affinité.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Transaminases (augmentation) (Fréquent) | - ASAT (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Prurit (Peu fréquent) | - Eruption cutanée (Fréquent) | - Erythème noueux (Très rare) | - Erythème polymorphe (Très rare) | DIVERS: | - Asthénie (Peu fréquent) | - Fièvre (Fréquent) | - Fatigue (Peu fréquent) | - Oedème (Peu fréquent) | HÉMATOLOGIE: | - Ecchymose (Peu fréquent) | - Thrombopénie (Très rare) | - Hémorragie (Rare) | HÉPATOLOGIE: | - Hépatite (Très rare) | - Hépatite cytolytique | - Hépatite mixte | - Hépatite cholestatique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Angioedème (Rare) | - Réaction anaphylactique | ORL, STOMATOLOGIE: | - Epistaxis (Peu fréquent) | - Sécheresse buccale (Peu fréquent) | - Sensation de vertige (Peu fréquent) | PSYCHIATRIE: | - Agitation (Peu fréquent) | - Dépression (Peu fréquent) | - Anxiété (Peu fréquent) | - Insomnie (Peu fréquent) | - Cauchemar (Peu fréquent) | - Rêves anormaux (Peu fréquent) | - Trouble de l'attention (Rare) | - Hallucination (Très rare) | - Dysphémie (Très rare) | - Désorientation temporospatiale (Très rare) | - Idée suicidaire (Très rare) | - Trouble obsessionnel compulsif (Très rare) | - Agressivité | - Irritabilité | - Tentative de suicide | - Hostilité | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Peu fréquent) | - Syndrome de Churg et Strauss (Très rare) | - Palpitation (Rare) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Soif (Fréquent) | - Dyspepsie (Peu fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Infiltrat hépatique à éosinophiles (Très rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Peu fréquent) | - Douleur articulaire (Peu fréquent) | - Douleur musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hyperactivité psychomotrice (Peu fréquent) | - Somnambulisme (Peu fréquent) | - Somnolence (Peu fréquent) | - Convulsions (Peu fréquent) | - Hyperkinésie (Fréquent) | - Hypoesthésie (Peu fréquent) | - Paresthésie (Peu fréquent) | - Trouble de la mémoire (Rare) | - Tics (Rare) | - Tremblement | SYSTÈME RESPIRATOIRE: | - Infection des voies respiratoires supérieures (Très fréquent) | - Eosinophilie pulmonaire (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Enurésie (Peu fréquent)

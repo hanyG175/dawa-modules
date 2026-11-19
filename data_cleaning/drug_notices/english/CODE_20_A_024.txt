@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_024
+DCI: THEOPHYLLINE 200 mg gél LP (DILATRANE)
+DrugBank ID: DB00277
+DrugBank Name: Theophylline
+Brand Names: DIFFUMAX
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/30
+Laboratories: SERP
+ATC Classification: R03DA04
+Registration Numbers: 203/20 A 024/00
+Drug Codes: 20 A 024
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Theophylline, an xanthine derivative chemically similar to caffeine and theobromine, is used to treat asthma and bronchospasm. Theophylline has two distinct actions in the airways of patients with reversible (asthmatic) obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects).
+
+## Mechanism Of Action
+
+Adenosine receptor A1 Antagonist Adenosine receptor A2a Antagonist Adenosine receptor A2b Antagonist + 7 more targets
+
+## Absorption
+
+Theophylline is rapidly and completely absorbed after oral administration in solution or immediate-release solid oral dosage form.
+
+## Volume Of Distribution
+
+0.3 to 0.7 L/kg
+
+## Metabolism
+
+Hepatic. Biotransformation takes place through demethylation to 1-methylxanthine and 3-methylxanthine and hydroxylation to 1,3-dimethyluric acid. 1-methylxanthine is further hydroxylated, by xanthine oxidase, to 1-methyluric acid. About 6% of a theophylline dose is N-methylated to caffeine. Caffeine and 3-methylxanthine are the only theophylline metabolites with pharmacologic activity. Hover over products below to view reaction partners Theophylline 1-Methylxanthine 3-methylxanthine 1,3-dimethyluric acid Caffeine
+
+## Route Of Elimination
+
+Theophylline does not undergo any appreciable pre-systemic elimination, distributes freely into fat-free tissues and is extensively metabolized in the liver. Renal excretion of unchanged theophylline in neonates amounts to about 50% of the dose, compared to about 10% in children older than three months and in adults.
+
+## Half Life
+
+8 hours
+
+## Clearance
+
+0.29 mL/kg/min [Premature neonates, postnatal age 3-15 days] 0.64 mL/kg/min [Premature neonates, postnatal age 25-57 days] 1.7 mL/kg/min [Children 1-4 years] 1.6 mL/kg/min [Children 4-12 years] 0.9 mL/kg/min [Children 13-15 years] 1.4 mL/kg/min [Children 16-17 years] 0.65 mL/kg/min [Adults (16-60 years), otherwise healthy non-smoking asthmatics] 0.41 mL/kg/min [Elderly (>60 years), non-smokers with normal cardiac, liver, and renal function] 0.33 mL/kg/min [Acute pulmonary edema] 0.54 mL/kg/min [COPD >60 years, stable, non-smoker >1 year] 0.48 mL/kg/min [COPD with cor pulmonale] 1.25 mL/kg/min [Cystic fibrosis (14-28 years)] 0.31 mL/kg/min [Liver disease cirrhosis] 0.35 mL/kg/min [acute hepatitis] 0.65 mL/kg/min [cholestasis] 0.47 mL/kg/min [Sepsis with multi-organ failure] 0.38 mL/kg/min [hypothyroid] 0.8 mL/kg/min [hyperthyroid]
+
+## Toxicity
+
+Symptoms of overdose include seizures, arrhythmias, and GI effects.

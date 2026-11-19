@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_A_005
+DCI: PROMESTRIENE 10 mg caps molle vagin (COLPOTROPHINE)
+DrugBank ID: DB12487
+DrugBank Name: Promestriene
+Brand Names: COLPOVITAL
+Pharmaceutical Forms: Gélule
+Dosages: 10mg
+Packaging: b/10
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03C - ESTROGENES | G03CA - ESTROGENES NATURELS ET HEMISYNTHETIQUES NON ASSOCIES | G03CA09 - PROMESTRIENE
+Registration Numbers: 321/11 A 005/24
+Drug Codes: 11 A 005
+
+------------------------------------------------------------
+
+## Description
+
+Promestriene (3-propyl ethyl, 17B-methyl estradiol) has been used in trials studying the prevention of Hypospadias. It is a synthetic estrogen analog, which is used in topical estrogen therapy. Promestriene’s potential for treating vaginal atrophy symptoms associated with aromatase inhibitor treatment would be precluded if its minimal absorption leads to estrogen-like effects on cell proliferation and estrogen-responsive gene expression. The concern with absorbed vaginal estrogens or estrogen analogs is that they activate occult sites of residual breast cancer or negate the tumor suppressive effects of aromatase inhibitor adjuvant therapy. Promestriene has been studied in phase IV of the clinical trial on improvement of hormonal cytology, local and systemic climacteric complaints, as well as its endometrial security in patients with vaginitis atrophic pelvic; organ prolapse and endometrial hyperplasia. It has been also studied in phase III of the clinical trial in the post-operative patients with hypospadias. In addition, promestriene was in phase IV of the clinical trial to study its treatment of patients with vaginosis, bacterial, but that studied was terminated.
+
+## Mechanism Of Action
+
+Target Actions Organism U Estrogen receptor modulator Humans

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_A_062
+DCI: PILOCARPINE CHLORHYDRATE 2 % collyre sol (ISOPTO-PILOCARPINE)
+Brand Names: REMIFENTANIL MYLAN
+Pharmaceutical Forms: Poudre
+Dosages: 2mg/flacon
+Packaging: boite de 10 flacons de 5 ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EB - PARASYMPATHOMIMETIQUES | S01EB01 - PILOCARPINE
+Registration Numbers: 450/02 A 062/15
+Drug Codes: 02 A 062
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Glaucome chronique simple. | Crise aiguë du glaucome (par fermeture d'angle). | Diagnostic des causes de mydriase.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : reboucher le flacon après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Glaucome chronique - Glaucome par fermeture de l'angle, crise aiguë (du) | Posologie standard | 1 gte 2 à 4 fois par jour | Dose maximale par prise: 1 gte | Diagnostic étiologique de la mydriase | Posologie standard | 1 gte 1 fois ce jour
+
+## Precautions
+
+Allaitement | Altération du trabéculum | Anesthésie | Antécédent récent d'infarctus du myocarde | Asthme | Décollement de la rétine, antécédent (du) | Enfant de moins de 15 ans | Grossesse | Hypertension artérielle | Hyperthyroïdie | Hypotension artérielle | Inflammation de la chambre antérieure de l'oeil | Instillations répétées | Insuffisance cardiaque aiguë | Iris foncé | Lésion de la conjonctive | Lésion de la cornée | Maladie de Parkinson | Myopie | Obstruction des voies urinaires | Spasme digestif | Sujet porteur de lentilles de contact | Traitement concomitant par produits ophtalmiques | Traitement prolongé | Ulcère gastroduodénal évolutif
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Pilocarpine : Mécanisme d'action | La pilocarpine abaisse la pression intra-oculaire par augmentation de la facilité d'écoulement de l'humeur aqueuse et par diminution du débit sécrétoire ciliaire. | Elle agit sur l'accomodation et sur la profondeur de la chambre antérieure de l'œil (réduction par relâchement de la zonule et déplacement en avant du cristallin).
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Hypersudation | OPHTALMOLOGIE: | - Corps flottant du vitré (Fréquent) | - Vision floue (Très fréquent) | - Douleur oculaire (Fréquent) | - Irritation oculaire (Fréquent) | - Décollement du vitré (Peu fréquent) | - Hémorragie du corps vitré (Peu fréquent) | - Oedème palpébral (Peu fréquent) | - Sensation de corps étranger dans l'oeil (Peu fréquent) | - Eblouissement (Peu fréquent) | - Déchirure rétinienne (Peu fréquent) | - Photopsie (Fréquent) | - Hyperhémie oculaire (Fréquent) | - Spasme ciliaire | - Vasodilatation conjonctivale | - Oedème cornéen | - Hyperhémie conjonctivale | - Décollement de la rétine | - Acuité visuelle (diminution) | - Cataracte | - Myosis | - Champ visuel (modification) | - Hypersécrétion lacrymale | - Blépharospasme | - Kyste irien | - Hypertension intra-oculaire | - Spasme de l'accommodation | - Héméralopie | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sialorrhée | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement | SYSTÈME NERVEUX: | - Céphalée | SYSTÈME RESPIRATOIRE: | - Bronchospasme | TOXICOLOGIE: | - Effet atropinique

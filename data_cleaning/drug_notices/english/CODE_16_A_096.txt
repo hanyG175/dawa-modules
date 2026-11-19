@@ -1,0 +1,68 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_096
+DCI: Clozapine
+DrugBank ID: DB00363
+DrugBank Name: Clozapine
+Brand Names: LEPONEX
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/50
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+Registration Numbers: 651/16 A 096/00/25
+Drug Codes: 16 A 096
+
+------------------------------------------------------------
+
+## Description
+
+Clozapine is a tricyclic dibenzodiazepine, classified as an atypical antipsychotic agent. 23 Clozapine displays affinity to various neuroreceptors with a particularly low affinity to the dopamine receptors, thus breaking the mold of first-generation antipsychotics and deeming it "atypical". 26 . This low affinity to dopamine receptors results in fewer extrapyramidal side effects, especially tardive dyskinesia. 21 However, its promiscuity toward the muscarinic and adrenergic receptors can result in other side effects, notably gastrointestinal hypomotility and orthostatic hypotension. 27 , 8 . Despite its effectiveness in treating both positive and negative symptoms of schizophrenia, clozapine was briefly removed from the market in various jurisdictions in 1970 due to severe agranulocytosis. 24 , 25 However, continued evidence of its effectiveness led to clozapine's eventual reintroduction, although with a reluctance to prescribe it. 25 Clozapine was approved by the FDA in 1989 for treatment-resistant schizophrenia under the brand CLOZARIL. 27 Due to its severe adverse effects profile, clozapine is only available through a restricted program under a Risk Evaluation Mitigation Strategy (REMS) called the Clozapine REMS Program. 27
+
+## Pharmacodynamics
+
+Clozapine is a psychotropic agent belonging to the chemical class of benzisoxazole derivatives that is universally regarded as the treatment of choice for treatment-resistant schizophrenia. 22 Although it is thought to mediate its pharmacological effect through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors, research have shown that clozapine can act on various types of receptors. 21 Patients should be counseled regarding the risk of hypersensitivity reactions such as agranulocytosis and myocarditis with clozapine use. 27 Clozapine-induced agranulocytosis, which is a reduction in the absolute neutrophil count or white blood cell count, places the patient at an increased risk for infection. 8 , 27 Agranulocytosis is most likely to occur in the first 3-6 months of therapy, but it can still occur after years of treatment. The mechanism is thought to be a dose-independent and immune-mediated reaction against neutrophils. 6 Patients are strictly monitored by lab testing (complete blood count with differential) to ensure agranulocytosis is detected and treated if it occurs. 27 Testing is initially completed at one-week intervals but is expanded to two-week intervals at six months, and then four-week intervals at twelve months if lab results have been within an appropriate range. Monitoring parameters may change if there is any break in therapy. In Canada, the patient's lab values are reported to the manufacturer for hematological monitoring, and in the USA, the patient's lab values are reported to the REMS (Risk Evaluation and Mitigation Strategy) program. 7 These programs function to notify the care provider of any significant drop in WBC/neutrophil count, or if there is a drop below a threshold level. Patients who enter the "Red" zone (WBC<2x109/L or ANC<1.5x109/L) should normally not be re-challenged. 27 Clozapine-induced myocarditis is a hypersensitivity reaction that usually occurs in the third week of clozapine therapy and about 2% of clozapine patients. 5 Monitor the patient's troponin, CRP, and ECG at baseline, and 28 days into treatment. Follow guidelines for appropriate next steps according to the patient's lab results. If myocarditis occurs, the patient should not be re-challenged with clozapine. 27
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist 5-hydroxytryptamine receptor 2A Antagonist
+
+## Absorption
+
+In humans, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution. Following oral administration of clozapine 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing. The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing. 27
+
+## Volume Of Distribution
+
+The median volume of distribution of clozapine was calculated to be 508 L (272–1290 L). 9 , 10 , 11 , 13 , 12
+
+## Metabolism
+
+Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces. Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.The unmethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces. Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive. 27 Hover over products below to view reaction partners Clozapine N-desmethylclozapine Desmethylclozapine glucuronide Clozapine N-oxide Clozapine 5-N-glucuronide
+
+## Route Of Elimination
+
+Approximately 50% of the administered dose is excreted in the urine and 30% in the feces. 27
+
+## Half Life
+
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving a steady state with 100 mg twice daily dosing. 27 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics. 27
+
+## Clearance
+
+The median clearance of clozapine is calculated to be 30.3 L/h (14.4–45.2 L/h). 10 , 12 , 14 , 15 , 16 , 17
+
+## Toxicity
+
+There are no adequate or well-controlled studies of clozapine in pregnant women. Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis. The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine. Because animal reproduction studies are not always predictive of human response, CLOZARIL should be used during pregnancy only if clearly needed. 27 Consider the risk of exacerbation of psychosis when discontinuing or changing treatment with antipsychotic medications
+during pregnancy and postpartum. Consider early screening for gestational diabetes for patients treated with antipsychotic
+medications [see Warnings and Precautions (5.11)]. Neonates exposed to antipsychotic drugs during the third trimester of
+pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. Monitor neonates for symptoms
+of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding difficulties. The severity of
+complications can vary from self-limited symptoms to some neonates requiring intensive care unit support and prolonged
+hospitalization. 27 The most commonly reported signs and symptoms associated with clozapine overdose are: sedation, delirium, coma,
+tachycardia, hypotension, respiratory depression or failure; and hypersalivation. There are reports of aspiration
+pneumonia, cardiac arrhythmias, and seizure. Fatal overdoses have been reported with clozapine, generally at doses above
+2500 mg. There have also been reports of patients recovering from overdoses well in excess of 4 g. There is no available specific antidote to an overdose of CLOZARIL. Establish and maintain an airway; ensure adequate oxygenation and ventilation. Monitor cardiac status and vital signs. Use general symptomatic and supportive measures. Consider the possibility of multiple-drug involvement. 27 No carcinogenic potential was demonstrated in long-term studies in mice and rats at doses up to 0.3 times and 0.4 times,
+respectively, the maximum recommended human dose (MRHD) of 900 mg/day on an mg/m2 body surface area basis. Clozapine was not genotoxic when tested in the following gene mutation and chromosomal aberration tests: the bacterial Ames test, the in vitro mammalian V79 in Chinese hamster cells, the in vitro unscheduled DNA synthesis in rat hepatocytes or the in vivo micronucleus assay in mice. Clozapine had no effect on any parameters of fertility, pregnancy, fetal weight, or postnatal development when
+administered orally to male rats 70 days before mating and to female rats for 14 days before mating at doses up to 0.4 times the MRHD of 900 mg/day on an mg/m2 body surface area basis. 27

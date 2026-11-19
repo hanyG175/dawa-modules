@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_004
+DCI: GLICLAZIDE 80 mg cp (GLICLAZIDE SANDOZ)
+Brand Names: DIAPHAG
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg
+Packaging: b/60
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BB - SULFONYLUREES | A10BB09 - GLICLAZIDE
+Registration Numbers: 003/14 A 004/97/17
+Drug Codes: 14 A 004
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | gliclazide : 60 mg | Modalités d'administration | Voie orale | Administrer au petit-déjeuner | Administrer entier | En cas d'oubli : ne pas prendre une dose supplémentaire | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Diabète non insulinodépendant | Traitement initial | 30 mg en 1 prise par jour | Traitement ultérieur | En cas de non réponse au traitement, réduire l'intervalle entre 2 paliers à 2 semaines | Posologie à augmenter par palier de 30 mg à intervalle d'au moins 1 mois | 30 à 120 mg en 1 prise par jour | Posologie maximale: 120 mg par jour
+
+## Precautions
+
+Association à des agents hypoglycémiants | Consommation d'alcool | Dysthyroïdie | Femme susceptible d'être enceinte | Fièvre | Grossesse | Hypopituitarisme | Infection | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Insuffisance surrénale | Intervention chirurgicale | Malnutrition | Pathologie endocrinienne | Pathologie vasculaire sévère | Patient préalablement traité par des antidiabétiques oraux | Porphyrie | Sujet âgé | Sujet de moins de 18 ans | Sujet dénutri | Sujet exerçant une activité physique | Sujet sous régime hypocalorique | Traitement prolongé | Traitement prolongé et/ou à forte dose par corticothérapie, antécédent récent (de) | Traumatisme
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Gliclazide : Mécanisme d'action | Le gliclazide est un sulfamide hypoglycémiant, antidiabétique oral, possédant un hétérocycle azoté à liaison endocyclique, ce qui le différencie des autres sulfamides. | Le gliclazide diminue la glycémie en stimulant la sécrétion d'insuline par les cellules bêta des îlots de Langerhans. L'augmentation de la sécrétion d'insuline et de peptide C qui suit la prise d'un repas persiste après 2 ans de traitement. | En plus de ces propriétés métaboliques, le gliclazide présente des propriétés hémovasculaires. | Effets sur la libération d'insuline : | chez le diabétique de type 2, en présence de | glucose | , le gliclazide restaure le pic précoce d'insulinosécrétion et augmente la seconde phase d'insulinosécrétion. Une augmentation significative de la réponse insulinique est observée en réponse à un repas ou à une absorption de | glucose | . | Propriétés hémovasculaires : le gliclazide diminue le processus de microthrombose par deux mécanismes qui pourraient être impliqués dans les complications du diabète : | une inhibition partielle de l'agrégation et de l'adhésivité plaquettaires, ainsi qu'une diminution des marqueurs d'activation plaquettaire (ß-thromboglobuline, thromboxane B2) ; | une action sur l'activité fibrinolytique de l'endothélium vasculaire avec une augmentation de l'activité t-PA.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Fréquent) | - Phosphatases alcalines (augmentation) | - Granulopénie | - ASAT (augmentation) | - Enzymes hépatiques (augmentation) | - ALAT (augmentation) | - Hyponatrémie | DERMATOLOGIE: | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Eruption maculopapuleuse | - Erythème cutané | - Dermatose bulleuse | - Urticaire | HÉMATOLOGIE: | - Atteinte hématologique (Rare) | - Anémie hémolytique | - Pancytopénie | - Erythropénie | - Thrombopénie | - Anémie | - Leucopénie | - Agranulocytose | HÉPATOLOGIE: | - Hépatite (Cas isolés) | - Ictère cholestatique | - Cholestase | - Ictère | - Insuffisance hépatique | IMMUNO-ALLERGOLOGIE: | - Syndrome DRESS (Exceptionnel) | - Angioedème | OPHTALMOLOGIE: | - Trouble de la vision | SYSTÈME CARDIOVASCULAIRE: | - Vascularite d'hypersensibilité | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Constipation | - Douleur abdominale | - Trouble digestif | - Diarrhée | - Dyspepsie

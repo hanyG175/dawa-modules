@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_D_168
+DCI: CABERGOLINE 0,5 mg cp (CABERGOLINE ARROW)
+DrugBank ID: DB00248
+DrugBank Name: Cabergoline
+Brand Names: CABERGOLINE BR | CABERNEX | DONEX | DOSTINOVA | PROLANEX | PROLATINEX BGL
+Pharmaceutical Forms: Comprimé
+Dosages: 0.5 mg | 0.5mg
+Packaging: b/08 | boite de 8 | flc de 8 comp | pilulier/08
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G02 - AUTRES MEDICAMENTS GYNECOLOGIQUES | G02C - AUTRES MEDICAMENTS GYNECOLOGIQUES | G02CB - INHIBITEURS DE LA PROLACTINE | G02CB03 - CABERGOLINE | N - SYSTEME NERVEUX | N04 - ANTIPARKINSONIENS | N04B - DOPAMINERGIQUES | N04BC - AGONISTES DOPAMINERGIQUES | N04BC06 - CABERGOLINE
+Registration Numbers: 149/09 D 168/18 | 235/09 D 168/20 | 293/09 D 168/17 | 309/09 D 168/21 | 378/09 D 168/21 | 380/09 D 168/22
+Drug Codes: 09 D 168
+
+------------------------------------------------------------
+
+## Description
+
+Cabergoline, an ergot derivative, is a long-acting dopamine agonist and prolactin inhibitor. It is used to treat hyperprolactinemic disorders and Parkinsonian Syndrome. Cabergoline possesses potent agonist activity on dopamine D2 receptors.
+
+## Pharmacodynamics
+
+Cabergoline stimulates centrally-located dopaminergic receptors resulting in a number of pharmacologic effects. Five dopamine receptor types from two dopaminergic subfamilies have been identified. The dopaminergic D1 receptor subfamily consists of D 1 and D 5 subreceptors, which are associated with dyskinesias. The dopaminergic D2 receptor subfamily consists of D 2 , D 3 and D 4 subreceptors, which are associated with improvement of symptoms of movement disorders. Thus, agonist activity specific for D2 subfamily receptors, primarily D 2 and D 3 receptor subtypes, are the primary targets of dopaminergic antiparkinsonian agents. It is thought that postsynaptic D2 stimulation is primarily responsible for the antiparkinsonian effect of dopamine agonists, while presynaptic D2 stimulation confers neuroprotective effects. This semisynthetic ergot derivative exhibits potent agonist activity on dopamine D 2 - and D 3 -receptors. It also exhibits: agonist activity (in order of decreasing binding affinities) on 5-hydroxytryptamine (5-HT) 2B , 5-HT 2A , 5-HT 1D , dopamine D 4 , 5-HT 1A , dopamine D 1 , 5-HT 1B and 5-HT 2C receptors and antagonist activity on α 2B , α 2A , and α 2C receptors. Parkinsonian Syndrome manifests when approximately 80% of dopaminergic activity in the nigrostriatal pathway of the brain is lost. As this striatum is involved in modulating the intensity of coordinated muscle activity (e.g. movement, balance, walking), loss of activity may result in dystonia (acute muscle contraction), Parkinsonism (including symptoms of bradykinesia, tremor, rigidity, and flattened affect), akathesia (inner restlessness), tardive dyskinesia (involuntary muscle movements usually associated with long-term loss of dopaminergic activity), and neuroleptic malignant syndrome, which manifests when complete blockage of nigrostriatal dopamine occurs. High dopaminergic activity in the mesolimbic pathway of the brain causes hallucinations and delusions; these side effects of dopamine agonists are manifestations seen in patients with schizophrenia who have overractivity in this area of the brain. The hallucinogenic side effects of dopamine agonists may also be due to 5-HT 2A agonism. The tuberoinfundibular pathway of the brain originates in the hypothalamus and terminates in the pituitary gland. In this pathway, dopamine inhibits lactotrophs in anterior pituitary from secreting prolactin. Increased dopaminergic activity in the tuberoinfundibular pathway inhibits prolactin secretion.
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Agonist
+
+## Absorption
+
+First-pass effect is seen, however the absolute bioavailability is unknown.
+
+## Metabolism
+
+Hepatic. Cabergoline is extensively metabolized, predominately via hydrolysis of the acylurea bond of the urea moiety. Cytochrome P-450 mediated metabolism appears to be minimal. The main metabolite identified in urine is 6-allyl-8b-carboxy-ergoline (4-6% of dose). Three other metabolites were identified urine (less than 3% of dose). Hover over products below to view reaction partners Cabergoline 6-allyl-8b-carboxy-ergoline
+
+## Route Of Elimination
+
+After oral dosing of radioactive cabergoline to five healthy volunteers, approximately 22% and 60% of the dose was excreted within 20 days in the urine and feces, respectively. Less than 4% of the dose was excreted unchanged in the urine.
+
+## Half Life
+
+The elimination half-life is estimated from urinary data of 12 healthy subjects to range between 63 to 69 hours.
+
+## Clearance
+
+renal cl=0,008 L/min nonrenal cl=3.2 L/min
+
+## Toxicity
+
+Overdosage might be expected to produce nasal congestion, syncope, or hallucinations.

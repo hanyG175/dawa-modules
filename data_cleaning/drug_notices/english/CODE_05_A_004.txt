@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_004
+DCI: Bleomycine
+DrugBank ID: DB00290
+DrugBank Name: Bleomycin
+Brand Names: BLEOMYCINE
+Pharmaceutical Forms: Poudre Sol. Inj.
+Dosages: 15MG
+Packaging: B/01
+Laboratories: RHONE POULENC RORER
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: L01DC01
+Registration Numbers: 016/05 A 004/98/16 | 516/05 A 004/16
+Drug Codes: 05 A 004
+
+------------------------------------------------------------
+
+## Description
+
+A complex of related glycopeptide antibiotics from Streptomyces verticillus consisting of bleomycin A2 and B2 (B2 CAS # 9060-10-0). It inhibits DNA metabolism and is used as an antineoplastic, especially for solid tumors. Bleomycin A2 is used as the representative structure for Bleomycin.
+
+## Pharmacodynamics
+
+Bleomycin is an antibiotic which has been shown to have antitumor activity. Bleomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed. Bleomycin has been shown in vitro to inhibit B cell, T cell, and macrophage proliferation and impair antigen presentation, as well as the secretion of interferon gamma, TNFa, and IL-2. The antibiotic antitumor drugs are cell cycle-nonspecific except for Bleomycin (which has major effects in G2 and M phases).
+
+## Mechanism Of Action
+
+DNA Cleavage
+
+## Absorption
+
+Systemic absorption is approximately 45%.
+
+## Metabolism
+
+Hepatic
+
+## Route Of Elimination
+
+It was reported that patients with moderately severe renal failure excreted less than 20% of the dose in the urine.
+
+## Half Life
+
+115 minutes
+
+## Toxicity
+
+Excessive exposure may cause fever, chills, nausea, vomiting, mental, confusion, and wheezing. Bleomycin may cause irritation to eyes, skin and respiratory tract. It may also cause a darkening or thickening of the skin. It may cause an allergic reaction.

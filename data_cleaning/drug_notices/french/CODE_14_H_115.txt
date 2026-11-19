@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_115
+DCI: CEFEPIME (chlorhydrate) 1 g pdre p sol inj/p perf (CEFEPIME ACCORD) | anatoxine diphtérique
+Brand Names: CITAMINE | LADOSCORBINE | VITAMINE C MOBEN
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg | 500mg
+Packaging: b/12 | b/20
+Laboratories: Laboratoire GlaxoSmithKline
+Registration Numbers: 079/14 H 115/99/19 | 268/14 H 115/16 | 571/14 H 115/24
+Drug Codes: 14 H 115
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Ce vaccin est indiqué dans la prévention conjointe des infections invasives à | Haemophilus influenzae | type b (méningites, septicémies, cellulites, arthrites, épiglottites...), de la diphtérie, du tétanos, de la coqueluche et de la poliomyélite, en primovaccination chez les nourrissons à partir de 2 mois et en rappel à l'âge de 11 mois. | Ce vaccin ne protège pas contre les infections dues aux autres types d' | Haemophilus influenzae | , ni contre les méningites dues à d'autres micro-organismes. | Ce vaccin n'a été étudié que chez les enfants de moins de 3 ans.

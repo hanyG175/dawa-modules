@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_014
+DCI: DAUNORUBICINE (chlorhydrate) 20 mg pdre p sol p perf (CERUBIDINE) | Daunorubicine Chlorhydrate Exprime En Daunorubicine
+DrugBank ID: DB00694
+DrugBank Name: Daunorubicin
+Brand Names: CERUBIDINE | DAUNOCIN | DAUNOTEC
+Pharmaceutical Forms: Poudresol.Pour Perfusion Iv
+Dosages: 20 mg/fl | 20mg | 20mg/fl. de lyophilisat
+Packaging: b/01 flacon de poudre | b/01 flacon. de lyophilisat + 01 flacon. de 10ml de solvant (nacl 0.9%) | b/10fl.
+Laboratories: SANOFI WINTHROP INDUSTRIE | 82 AVENUE RASPAIL | 94250 GENTILLY | Sanofi Winthrop Industrie
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01D - ANTIBIOTIQUES CYTOTOXIQUES ET APPARENTES | L01DB - ANTHRACYCLINES ET APPARENTES | L01DB02 - DAUNORUBICINE | L01DB02
+Registration Numbers: 182/05 G 014/14 | 376/05 G 014/96/17 | 516/05 G 014/17/24
+Drug Codes: 05 G 014
+
+------------------------------------------------------------
+
+## Description
+
+A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms.
+
+## Pharmacodynamics
+
+Daunorubicin is an anthracycline antibiotic and antineoplastic agent. 5 It acts by inhibiting cellular reproduction through interference with DNA replication although it may contribute to the induction of cell death by increasing oxidative stress through the generation of reactive oxygen species and free radicals. As an antineoplastic agent, daunorubicin carries significant toxicities including cytopenias, hepatotoxicity, and extravasation reactions. Like other anthracyclines, daunorubicin also exhibits cardiotoxicity in proportion with the cumulative dose received over time.
+
+## Mechanism Of Action
+
+DNA Intercalation DNA topoisomerase 2-alpha Inhibitor DNA topoisomerase 2-beta Inhibitor
+
+## Absorption
+
+Daunorubicin was found to have a tmax of 2 h and a cmax of 24.8 μg/mL after a 90 min infusion of the liposomal formulation at a dose of 44 mg/m 2 . 3
+
+## Volume Of Distribution
+
+Daunorubicin has a steady-state volume of distribution of 1.91 L/m 2 reported with the liposomal formulation. 1 The average volume of distribution reported for the liposomal formulation is 6.6 L. 5
+
+## Metabolism
+
+Hover over products below to view reaction partners Daunorubicin Daunorubicinol Deoxydaunorubicinol aglycone-13-O-β-glucuronide Demethyl deoxydaunorubicinol aglycone Demethyl deoxydaunorubicinol aglycone-4-O-β-glucuronide Demethyl deoxydaunorubicinol aglycone-4-O-sulfate Daunorubicinol aglycone Deoxydaunorubicin aglycone Deoxydaunorubicinol aglycone Demethyl deoxydaunorubicinol aglycone Demethyl deoxydaunorubicinol aglycone-4-O-β-glucuronide Demethyl deoxydaunorubicinol aglycone-4-O-sulfate Deoxydaunorubicinol aglycone-13-O-β-glucuronide
+
+## Route Of Elimination
+
+Daunorubicin is eliminated hepatically. 40% of daunorubicin is excreted in the bile while 25% is excreted in an active form (daunorubicin or daunorubicinol) in the urine. 7 In the liposomal formulation, only 9% of active molecules are excreted in the urine. 5
+
+## Half Life
+
+Daunorubicin has been determined to have a terminal half-life of 18.5 h (+/- 4.9). 1 Daunorubicinol, the primary active metabolite has been determined to have a terminal half-life of 26.7 h (+/- 12.8). The mean half-life of elimination of liposomal daunorubicin has been reported to be 22.1 h in pharmacokinetic studies and 31.5 h in official FDA labeling. 3 , 5
+
+## Clearance
+
+Daunorubicin has a clearance of 68.4 mL/h/m 2 determined using the liposomal formulation. 3

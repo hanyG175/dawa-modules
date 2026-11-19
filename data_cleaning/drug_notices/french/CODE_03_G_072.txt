@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_G_072
+DCI: sodium thiosulfate
+Brand Names: ACTISKENAN
+Pharmaceutical Forms: Microgranules A Liberation Immediate En Gelule
+Dosages: 10 mg/gelule
+Packaging: boite de 14
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A12 - SUPPLEMENTS MINERAUX | A12C - AUTRES SUPPLEMENTS MINERAUX | A12CX - AUTRES ELEMENTS MINERAUX
+Registration Numbers: 517/03 G 072/20
+Drug Codes: 03 G 072
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | soufre (sodium thiosulfate) : 9.75 mg | Modalités d'administration | Voie orale | A diluer avant administration | Administrer à distance du repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Affection cutanée, modificateur de terrain (en cas d') - Affection rhumatismale, modificateur de terrain (en cas d') - Oto-rhino-laryngologie, modificateur de terrain (en) | Posologie standard | 2 ml 1 à 2 fois par jour
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 ans | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution

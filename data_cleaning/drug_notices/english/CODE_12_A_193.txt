@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_A_193
+DCI: Apixaban
+DrugBank ID: DB06605
+DrugBank Name: Apixaban
+Brand Names: APIXABEK | APIXAR | BIOPEXA | INIBIX 2.5 | XIBAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2.5mg
+Packaging: b/20 et b/60 | b/30 et b/60 | b/60 | b/60 et b/30
+Registration Numbers: 001/12 A 193/23 | 263/12 A 193/20 | 268/12 A 193/25 | 352/12 A 193/21 | 447/12 A 193/23
+Drug Codes: 12 A 193
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Apixaban selectively inhibits factor Xa in its free and bound forms, independant of antithrombin III Label . Apixaban also inhibits prothrominase Label . These effects prevent the formation of a thrombus Label .
+
+## Mechanism Of Action
+
+Coagulation factor X Inhibitor
+
+## Absorption
+
+Apixaban is approximately 50% bioavailable Label though other studies report 43-46% oral bioavailability 1 .
+
+## Volume Of Distribution
+
+Approximately 21L Label .
+
+## Metabolism
+
+50% of the orally administered dose is excreted as the unchanged parent compound, however 25% of the dose is excreted as O-demethyl apixaban sulfate Label , 1 . All apixaban metabolites account for approximately 32% of the excreted dose though the structure of all metabolites are not well defined 1 . Apixaban is mainly metabolized by cytochrome p450(CYP)3A4 and to a lesser extent by CYP1A2, CYP2C8, CYP2C9, CYP2C19, and CYP2J2 Label . Hover over products below to view reaction partners Apixaban Apixaban M2 metabolite
+
+## Route Of Elimination
+
+56% of an orally administered dose is recovered in the feces and 24.5-28.8% of the dose is recovered in the urine Label , 1 , 2 . 83-88% of the dose recovered in the urine was the unchanged parent compound 1 .
+
+## Half Life
+
+12.7±8.55h Label , 1 , 2 .
+
+## Clearance
+
+3.3L/h Label though other studies report 4876mL/h 1 .
+
+## Toxicity
+
+Animal studies have shown an increased risk of maternal bleeding during pregnancy but no increase in fetal malformations or fetal or maternal deaths Label . It is unknown if this animal data also translates to humans so apixaban should only be used in pregnancy if the benefits outweigh the risks Label . It is not know whether apixaban is safe and effective in labor and during birth, though animal studies have shown an increased rate of maternal bleeding Label . Animal studies in rats show apixaban excreted in milk, though it is not know if this also applies to humans Label . Nursing mothers should either stop breastfeeding or stop taking apixaban depending on the risk and benefit of each option Label . Studies to determine safety and effectiveness in pediatric patients have yet to be performed Label . Studies that involved geriatric patients (at least 75 years old) saw no difference in safety or effectiveness compared to younger patients, though geriatric patients at an especially advanced age may be more susceptible to adverse effects Label . Dosage adjustments for patients with end stage renal disease(ESRD) are based on estimates of pharmacokinetic principles and not clinical study Label . Patients with ESRD may experience pharmacodynamics similar to those seen in well controlled studies but it may not lead to the same clinical effects Label . Dosage adjustments are not necessary in mild hepatic impairment Label . In moderate hepatic impairment patients may already experience abnormalities in coagulation and so no dose recommendations are possible Label . Apixaban is not recommended for patients with severe hepatic impairment Label .

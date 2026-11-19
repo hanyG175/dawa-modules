@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_D_024
+DCI: Meglumine Antimoniate
+DrugBank ID: DB13732
+DrugBank Name: Meglumine antimoniate
+Brand Names: GLUCANTIME
+Pharmaceutical Forms: Solution
+Dosages: 1.5g/5ml
+Packaging: b/05 ampoules de 5 ml en verre incolore de type i
+Laboratories: SANOFI WINTHROP INDUSTRIE | 82 AVENUE RASPAIL | 94250 GENTILLY
+ATC Classification: Classe pharmacothérapeutique : Antileishmaniens, code ATC : P01CB01. | L'antimoniate de méglumine a une activité leishmanicide.
+Registration Numbers: 376/19 D 024/96/24
+Drug Codes: 19 D 024
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as hexoses. These are monosaccharides in which the sugar unit is a is a six-carbon containing moeity.

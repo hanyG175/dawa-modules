@@ -1,0 +1,63 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_F_094
+DCI: Tolvaptan
+DrugBank ID: DB06212
+DrugBank Name: Tolvaptan
+Brand Names: TOLVAR
+Pharmaceutical Forms: Comprimé
+Dosages: 15mg
+Packaging: b/28 et b/7
+Registration Numbers: 263/25 F 094/25
+Drug Codes: 25 F 094
+
+------------------------------------------------------------
+
+## Description
+
+Tolvaptan is used to treat low blood sodium levels (hyponatremia) associated with various conditions like congestive heart failure, cirrhosis, and syndrome of inappropriate antidiuretic hormones (SIADH). FDA approved on May 19, 2009.
+
+## Pharmacodynamics
+
+Urine volume and fluid intake increase in a dose dependent manner which results in overall negative fluid balance in patients taking tolvaptan. Increases in serum sodium and osmolality can be observed 4-8 hours post-administration and is maintained for 24 hours. The magnitude of serum sodium and osmolality change increases with escalating doses. Furthermore, a decrease in urine osmolality and increase in free water clearance can be observed 4 hours after post-administration of tolvaptan. The affinity for V2 receptors is 29x greater than that of V1a receptors and does not have any appreciable affinity for V2 receptors.
+
+## Mechanism Of Action
+
+Vasopressin V2 receptor Antagonist
+
+## Absorption
+
+Tmax, Healthy subjects: 2 - 4 hours;
+Cmax, Healthy subjects, 30 mg: 374 ng/mL;
+Cmax, Healthy subjects, 90 mg: 418 ng/mL;
+Cmax, heart failure patients, 30 mg: 460 ng/mL;
+Cmax, heart failure patients, 90 mg: 723 ng/mL;
+AUC(0-24 hours), 60 mg: 3.71 μg·h/mL;
+AUC(∞), 60 mg: 4.55 μg·h/mL;
+The pharmacokinetic properties of tolvaptan are stereospecific, with a steady-state ratio of the S-(-) to the R-(+) enantiomer of about 3. The absolute bioavailability of tolvaptan is unknown. At least 40% of the dose is absorbed as tolvaptan or metabolites. Food does not impact the bioavailability of tolvaptan.
+
+## Volume Of Distribution
+
+Healthy subjects: 3L/kg; slightly higher in heart failure patients.
+
+## Metabolism
+
+Metabolism exclusively by CYP3A4 enzyme in the liver. Metabolites are inactive.
+
+## Route Of Elimination
+
+Fecal- very little renal elimination (<1% is excreted unchanged in the urine)
+
+## Half Life
+
+Terminal half life, oral dose = 12 hours.
+
+## Clearance
+
+4 mL/min/kg (post-oral dosing).
+
+## Toxicity
+
+The oral LD50 of tolvaptan in rats and dogs is >2000 mg/kg. Most common adverse reactions (≥5% placebo) are thirst, dry mouth, asthenia, constipation, pollakiuria or polyuria, and hyperglycemia.

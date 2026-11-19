@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_E_045
+DCI: Fluticasone | Fluticasone Furoate
+DrugBank ID: DB08906
+DrugBank Name: Fluticasone furoate
+Brand Names: AVAMYS | FLUCASONE MINI
+Pharmaceutical Forms: Susp.Nas. | Suspension
+Dosages: 27.50mcg/dose | 27.5mcg/pulv
+Packaging: 1 flac/120 pulv | flacon./120doses
+Laboratories: BIOGARAN | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES | SUBSTIPHARM | 24 RUE ERLANGER | 75016 PARIS
+ATC Classification: R01AD12 | R01AD58
+Registration Numbers: 235/22 E 045/21 | 262/22 E 045/15
+Drug Codes: 22 E 045
+
+------------------------------------------------------------
+
+## Description
+
+Fluticasone furoate is a synthetic glucocorticoid available as an inhaler and nasal spray for various inflammatory indications Label 19 . Fluticasone furoate was first approved in 2007 7 .
+
+## Pharmacodynamics
+
+Fluticasone furoate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Though effective for the treatment of asthma, corticosteroids may not affect symptoms immediately. Individual patients will experience a variable time to onset and degree of symptom relief. Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting treatment. When corticosteroids are discontinued, asthma stability may persist for several days or longer. 9 Trials in subjects with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses of orally inhaled fluticasone furoate. This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (approximately 1.3%), and the minimal pharmacological activity of the metabolites detected in man. 9 Inhaled fluticasone furoate at repeat doses of up to 400 mcg in healthy subjects was not associated with statistically significant decreases in serum or urinary cortisol in healthy subjects. Reductions in serum and urine cortisol levels were observed at fluticasone furoate exposures several-fold higher than exposures observed at the therapeutic dose. For subjects with asthma, a randomized, double-blind, parallel-group trial in 104 pediatric subjects showed no difference between once-daily treatment with 50 mcg fluticasone compared with placebo on serum cortisol weighted mean (0 to 24 hours) and serum cortisol AUC (0-24) following 6 weeks of treatment. 9 A randomized, double-blind, parallel-group trial in 185 subjects with asthma aged 12 to 65 years showed no difference between once-daily treatment with fluticasone furoate/vilanterol 100 mcg/25 mcg or fluticasone furoate/vilanterol 200 mcg/25 mcg compared with placebo on serum cortisol weighted mean (0 to 24 hours), serum cortisol AUC (0-24) , and 24-hour urinary cortisol after 6 weeks of treatment, whereas prednisolone 10 mg given once daily for 7 days resulted in significant cortisol suppression. 9 A QT/QTc trial did not demonstrate an effect of fluticasone furoate administration on the QTc interval. The effect of a single dose of 4,000 mcg of orally inhaled fluticasone furoate on the QTc interval was evaluated over 24 hours in 40 healthy male and female subjects in a placebo and positive-controlled (a single dose of 400 mg oral moxifloxacin) cross-over trial. The QTcF maximal mean change from baseline following fluticasone furoate was similar to that observed with placebo with a treatment difference of 0.788 msec (90% CI: -1.802, 3.378). In contrast, moxifloxacin given as a 400-mg tablet resulted in prolongation of the QTcF maximal mean change from baseline compared with placebo with a treatment difference of 9.929 msec (90% CI: 7.339, 12.520). 9
+
+## Mechanism Of Action
+
+Fluticasone furoate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is approximately 29.9 times that of dexamethasone and 1.7 times that of fluticasone propionate. The clinical relevance of these findings is unknown. 9 The precise mechanism through which fluticasone furoate affects asthma symptoms is not known. Inflammation is an important component in the pathogenesis of asthma. Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation. Specific effects of fluticasone furoate demonstrated in in vitro and in vivo models included activation of the glucocorticoid response element, inhibition of pro-inflammatory transcription factors such as NFkB, and inhibition of antigen-induced lung eosinophilia in sensitized rats. 4 , 9 These anti-inflammatory actions of corticosteroids may contribute to their efficacy. 9 Target Actions Organism U Glucocorticoid receptor agonist Humans U Progesterone receptor agonist Humans U Mineralocorticoid receptor antagonist Humans
+
+## Absorption
+
+Fluticasone furoate plasma levels may not predict therapeutic effect. Peak plasma concentrations are reached within 0.5 to 1 hour. Absolute bioavailability of fluticasone furoate when administrated by inhalation was 13.9%, primarily due to absorption of the inhaled portion of the dose delivered to the lung. Oral bioavailability from the swallowed portion of the dose is low (approximately 1.3%) due to extensive first-pass metabolism. Systemic exposure (AUC) in subjects with asthma was 26% lower than observed in healthy subjects. 9 Following repeat dosing of inhaled fluticasone furoate, steady state was achieved within 6 days with up to 2.6-fold accumulation. 12 Intranasal exposure of fluticasone furoate also results in patients swallowing a larger portion of the dose. 1
+
+## Volume Of Distribution
+
+Following intravenous administration to healthy subjects, the mean volume of distribution at steady state was 661 L. 9 , 12 , 13 A study of 24 healthy Caucasian males showed a volume of distribution at steady state of 704L following intravenous administration. 5
+
+## Metabolism
+
+Fluticasone furoate is cleared from systemic circulation principally by hepatic metabolism via CYP3A4 to metabolites with significantly reduced corticosteroid activity. There was no in vivo evidence for cleavage of the furoate moiety resulting in the formation of fluticasone. 9 , 12 , 13 , 2 Fluticasone furoate is also hydrolyzed at the FIVE-S-fluoromethyl carbothioate group, forming an inactive metabolite. 1 Hover over products below to view reaction partners Fluticasone furoate M10 (GW694301X) M26 fluticasone furoate M21 fluticasone furoate
+
+## Route Of Elimination
+
+Following intravenous dosing with radiolabeled fluticasone furoate, mass balance showed 90% of radiolabel in the feces and 2% in the urine. Following oral dosing, radiolabel recovered in feces was 101% of the total dose, and that in urine was approximately 1% of the total dose. 12
+
+## Half Life
+
+Following repeat-dose inhaled administration, the plasma elimination phase half-life averaged 24 hours. 9 , 12 , 13 A study of 24 healthy Caucasian males showed a half-life of 13.6 hours following intravenous administration and 17.3-23.9 hours following inhalation. 5
+
+## Clearance
+
+Following intravenous administration to healthy subjects, fluticasone furoate was cleared from systemic circulation principally by hepatic metabolism via CYP3A4 with a total plasma clearance of 65.4 L/hr. 17 A study of 24 healthy Caucasian males also showed a clearance of 71.8L/h following intravenous administration. 5
+
+## Toxicity
+
+Fluticasone furoate administered nasally may be associated with adrenal suppression or an increase in QTc interval though the association has not been well demonstrated in studies. 9 , 12 , 13 , 6 Fluticasone furoate requires no dosage adjustment in renal impairment but must be used with caution in hepatic impairment due to the elimination mechanisms. 9 , 12 , 13 Fluticasone furoate is not associated with carcinogenicity, mutagenicity, or impairment of fertility. 9 , 12 , 13 There are no well-controlled studies in pregnancy or lactation though animal studies have shown teratogenicity and hypoadrenalism in the offspring of treated mothers and other corticosteroids are known to be excreted in breast milk Label . Generally, there are no reported adverse effects with fluticasone in pregnancy. 3 Pediatric patients should be given the lowest possible dose and monitored for a reduction in growth velocity. 9 , 12 , 13 , 6 There is insufficient evidence to determine whether geriatric patients respond differently to other patients. 9 , 12 , 13 Systemic exposure may be 27-49% higher in Japanese, Korean, and Chinese patients compared to Caucasian patients. 9 , 12 , 13 Caution should be exercised in these patients and the benefit and risk should be assessed before deciding on a treatment. 9 , 12 , 13

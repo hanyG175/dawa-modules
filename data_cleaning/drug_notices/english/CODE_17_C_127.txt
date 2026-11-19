@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_127
+DCI: Latanoprost
+DrugBank ID: DB00654
+DrugBank Name: Latanoprost
+Brand Names: BIOLATAN | GLAUSOPT | LATANEKS | LATANOPROST | LATASOPT | LATAZ | MONOPROST | XALAPROST | XALAPROST FREE | XALATAN
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.005% (ou 50mcg/ml)
+Packaging: b/01 flacon 2.5ml
+Laboratories: BIOGARAN | 15 boulevard charles de gaulle | 92700 colombes
+ATC Classification: S01EE01
+Registration Numbers: 022/17 C 127/24 | 065/17 C 127/19/24 | 065/17 C 127/24 | 076/17 C 127/01 | 317/17 C 127/23 | 423/17 C 127/08/16 | 521/17 C 127/16 | 522/17 C 127/17 | 543/17 C 127/20 | 624/17 C 127/24
+Drug Codes: 17 C 127
+
+------------------------------------------------------------
+
+## Description
+
+Latanoprost is a prodrug analog of prostaglandin F2 alpha that is used to treat elevated intraocular pressure (IOP). It was initially approved by the FDA in 1998. Latanoprost is the first topical prostaglandin F2 alpha analog used for glaucoma treatment. 3 It has been found to be well-tolerated and its use does not normally result in systemic adverse effects like other drugs used to treat elevated intraocular pressure, such as Timolol . Another benefit latanoprost is that it can be administered once a day. 2
+
+## Pharmacodynamics
+
+Latanoprost effectively decreases intraocular pressure by increasing uveoscleral outflow. 2 A decrease in intraocular pressure has been measured within 3–4 hours post-administration, reaches a maximum decrease at 8–12 hours, and can be maintained for a period of 24 hours. 3 A note on eye and periorbital changes Between 3 to 10% of patients taking latanoprost have experienced iris pigmentation after about 3-4 months of latanoprost use. 1 , 2 Patients should be notified of this risk before initiating treatment. It may occur in both patients with light-colored irides (green-brown or blue/grey-brown) or dark-colored (brown) irides, but is less pronounced in the latter group. 1 This drug may also cause other ocular effects including infrequent conjunctival hyperemia, pigmentation of periocular tissues, eyelash changes, hypertrichosis, and ocular irritation. 3 , 6
+
+## Mechanism Of Action
+
+Prostaglandin F2-alpha receptor Agonist
+
+## Absorption
+
+This drug is rapidly absorbed in the cornea as an isopropyl ester prodrug and is then activated by the process of hydrolysis. A small amount of this drug is systemically absorbed. 2 The Cmax of latanoprost in the systemic circulation is reached after 5 minutes and is measured to be 53 pg/mL. The Cmax in the aqueous humor is attained within 2 hours after administration. 3 , 6 and has been estimated to be 15-30 ng/mL. 3
+
+## Volume Of Distribution
+
+The volume of distribution of latanoprost is 0.16 ± 0.02 L/kg. The activated acid form of latanoprost can be measured in aqueous humor in the initial 4 hours post-administration, and it is measured in the plasma only for 1 hour following ophthalmic administration. 6 This drug is more lipophilic than its parent prostaglandin and easily penetrates the cornea. 2 It has been shown to cross the placenta in rats. 10
+
+## Metabolism
+
+After corneal uptake, this prodrug is hydrolyzed and activated by esterases to become a pharmacologically active drug. The small portion of this drug that is able to reach the circulation is found to be metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites through fatty acid beta-oxidation. 2 , 3 , 6 Hover over products below to view reaction partners Latanoprost Latanoprost acid 1, 2 Dinor Latanoprost Acid + 1,2,3,4 Tetranor Latanoprost Acid
+
+## Route Of Elimination
+
+After hepatic beta-oxidation, the metabolites of latanoprost are primarily found to be excreted by the kidneys. About 88% of the latanoprost dose is recovered in the urine after topical administration. 2 , 6 About 15% of a dose is reported to be excreted in the feces. 10
+
+## Half Life
+
+The elimination half-life of latanoprost from the plasma is about 17 minutes. 3 , 6 The elimination half-life of latanoprost from the eye is estimated at 2–3 hours. 3
+
+## Clearance
+
+The systemic clearance of latanoprost is 7 mL/min/kg. 6
+
+## Toxicity
+
+The oral LD50 in the rat is > 50 mg/kg. 7 An overdose of latanoprost is not expected to result in dangerous patient outcomes, however, conjunctival or episcleral hyperemia may occur. 6 An intravenous infusion of 3 μg/kg of latanoprost in healthy volunteers led to mean plasma concentrations 200 times higher than a normally administered therapeutic dose and no adverse effects were noted. 6 One study suggested that an overdose of latanoprost leads to cystoid macular edema after a large, unintended overdose. This resolved within 4 weeks after 4 weeks following treatment with nepafenac 0.3% eye drops in addition to oral acetazolamide. 4 Contact the local poison control center for updated guidance on managing a latanoprost overdose.

@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_207
+DCI: Efmoroctocog
+DrugBank ID: DB11607
+DrugBank Name: Efmoroctocog alfa
+Brand Names: ELOCTA
+Pharmaceutical Forms: Poudre
+Dosages: 250ui
+Packaging: b/1 seringue
+Registration Numbers: 533/12 J 207/21
+Drug Codes: 12 J 207
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+In two multinational, open-label, noncomparative phase III trials involving previously treated pediatric and adult patients with severe haemophilia A, the clinical efficacy and safety of efmoroctocog alfa have been studied. The bleeding episodes were adequately controlled and bleeding rates were substantially reduced when efmoroctocog alfa has been used for individualized prophylaxis or treatment of bleeding Label . In adult patients receiving a single preoperative dose to maintain haemostasis during surgical procedures, the total dose on the day of surgery needed to maintain haemostasis ranged from 50.8 to 126.6 IU/kg Label .
+
+## Mechanism Of Action
+
+von Willebrand factor Binding
+
+## Absorption
+
+Following a single intravenous dose of 50 IU/kg in previously-treated adult patients with severe haemophilia A, mean peak plasma concentrations (Cmax) ranged from 108 to 131 IU/dL. Mean area under the FVIII activity time curve (AUC/Dose) ranged from 47.5 to 51.2 IUxh/dL per IU/kg. Mean AUC/Dose in adolescent patients 12 to 18 years of age ranged from 38.2 to 40.8 IUxh/dL per IU/kg. Mean AUC/Dose in pediatric patients < 12 years of age ranged from 25.9 to 38.4 IUxh/dL per IU/kg Label .
+
+## Volume Of Distribution
+
+Following a single intravenous dose of 50 IU/kg in previously-treated adult patients with severe haemophilia A, mean volume of distribution at steady state (Vss) ranged from 49.1 to 52.6 mL/kg. Mean Vss in adolescent patients 12 to 18 years of age ranged from 57.6 to 59.4mL/kg. Mean Vss in pediatric patients < 12 years of age ranged from 49.5 to 63.1 mL/kg Label .
+
+## Metabolism
+
+There are no detectable metabolites for efmoroctocog alfa. It is presumed to be metabolized via a same degradation pathway as endogenous factor VIII.
+
+## Half Life
+
+Following a single intravenous dose of 50 IU/kg in previously-treated adult patients with severe haemophilia A, mean half life (t1/2) ranged from 19 to 20.9 h. Mean t1/2 in adolescent patients 12 to 18 years of age ranged from 16 to 17.5 h. Mean t1/2 in pediatric patients < 12 years of age ranged from 12.3 to 15.9 h Label .
+
+## Clearance
+
+Following a single intravenous dose of 50 IU/kg in previously-treated adult patients with severe haemophilia A, mean clearance (CL) rate ranged from 1.95 to 2.11 mL/h/kg. Mean CL in adolescent patients 12 to 18 years of age ranged from 2.45 to 2.62 mL/h/kg. Mean t1/2 in pediatric patients < 12 years of age ranged from 2.61 to 3.86 mL/h/kg Label .
+
+## Toxicity
+
+Based on the findings from acute and repeated dose toxicity studies, efmoroctocog alfa displays no special hazard for humans. Studies to assess the genotoxicity, carcinogenicity, toxicity to reproduction or embryo-foetal development of efmoroctocog alfa have not been conducted. In a placental transfer study, efmoroctocog alfa has been shown to cross the placenta in small amounts in mice Label .

@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_337
+DCI: Voriconazole
+DrugBank ID: DB00582
+DrugBank Name: Voriconazole
+Brand Names: VORICONAZOLE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 200MG
+Packaging: B/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 0 DA
+Prescription List: Liste I
+Registration Numbers: 003/13 R 337/25 | 045/13 R 337/09/17 | 581/13 R 337/21
+Drug Codes: 13 R 337
+
+------------------------------------------------------------
+
+## Description
+
+Voriconazole (Vfend, Pfizer) is a triazole antifungal medication used to treat serious fungal infections. 14 It is used to treat invasive fungal infections that are generally seen in patients who are immunocompromised. These include invasive candidiasis, invasive aspergillosis, and emerging fungal infections. The increased affinity of voriconazole for 14-alpha sterol demethylase makes it useful against some fluconazole -resistant organisms. 11 Voriconazole was approved by the FDA under the trade name Vfend on May 24, 2002. 15
+
+## Pharmacodynamics
+
+Voriconazole is a fungistatic triazole antifungal used to treat infections by inhibiting fungal growth. 13 It is known to cause hepatotoxic and photosensitivity reactions in some patients.
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Antagonist Inhibitor
+
+## Absorption
+
+The oral bioavailability is estimated to be 96% in healthy adults 13 . Population pharmacokinetic studies report a reduced bioavailability pediatric patients with a mean of 61.8% (range 44.6–64.5%) thought to be due to differences in first-pass metabolism or due to differences in diet 6 . Of note, transplant patients also have reduced bioavailability but this is known to increase with time after transplantation and may be due in part to gastrointestinal upset from surgery and some transplant medications. Tmax is 1-2 hours with oral administration. When administered with a high-fat meal Cmax decreases by 34% and AUC by 24%. pH does not have an effect on absorption of voriconazole. Differences in Cmax and AUC have been observed between healthy adult males and females with Cmax increasing by 83% and AUC by 113% although this has not been observed to significantly impact medication safety profiles.
+
+## Volume Of Distribution
+
+The estimated volume of distribution of voriconazole is 4.6 L/kg 13 . Population pharmacokinetic studies estimate the median volume of distribution to be 77.6 L with the central compartment estimated at 1.07 L/kg 6 Voriconazole is known to achieve therapeutic concentrations in many tissues including the brain, lungs, liver, spleen, kidneys, and heart.
+
+## Metabolism
+
+Voriconazole undergoes extensive hepatic metabolism through cytochrome enzymes CYP2C9, CYP2C19, and CYP3A4. CYP2C19 mediates N-oxidation with an apparent Km of 14 μM and an apparent Vmax of 0.22 nmol/min/nmol CYP2C19. 8 Voriconazole N-oxide is the major circulating metabolite, accounting for 72% of radiolabeled metabolites found. 13 CYP3A4 contributes to N-oxidation with a Km of 16 μM and Vmax of 0.05 nmol/min/nmol CYP3A4 as well as 4-hydroxylation with a Km of 11 μM and a Vmax of 0.10 nmol/min/nmol CYP3A4. 8 CYP3A5 and CYP3A7 provide minor contributions to N-oxidation and 4-hydroxylation. The N-oxide and 4-hydroxylated metabolites undergo glucuronidation and are excreted through the urine with other minor glucuronidated metabolites. 9 Hover over products below to view reaction partners Voriconazole Voriconazole N-Oxide UK-51,060 UK-215,364 Voriconazole O-glucuronide derivative (1) 4-Hydroxyvoriconazole 4-Hydroxyvoriconazole 4-O-glucuronide
+
+## Route Of Elimination
+
+Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine. 13
+
+## Half Life
+
+Voriconazole follows non-linear kinetics and has a terminal half-life of elimination which is dose-dependent. 13
+
+## Clearance
+
+The clearance of voriconazole is estimated to be a mean of 5.25-7 L/h in healthy adults for the linear portion of the drug's kinetics. 6 , 7
+
+## Toxicity
+
+Symptoms of overdose include photophobia and possible QTc prolongation. 13 , 14 In case of overdose, supportive care and ECG monitoring are recommended. Activated charcoal may aid in the removal of unabsorbed drug. Voriconazole is cleared by hemodialysis at a rate of 121 mL/min which may be helpful in removing absorbed drug. Carcinogenicity studies found hepatocellular adenomas in female rats at doses of 50 mg/kg and hepatocellular carcinomas found in male rats at doses of 6 and 50 mg/kg. These doses are equivalent to 0.2 and 1.6 times the recommended maintenance dose (RMD). Studies in mice detected hepatocellular carcinomas in males at doses of 100 mg/kg or 1.4 times the RMD. Hepatocellular adenomas were detected in both male and female mice.

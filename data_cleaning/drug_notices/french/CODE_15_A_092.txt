@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_092
+DCI: Valproate De Sodium
+Brand Names: VALPROATE DE SODIUM BGL
+Pharmaceutical Forms: Sol. Buv.
+Dosages: 200MG/ML
+Packaging: B/1FL. DE 40ML + 1SERING. GRADUEE
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 419.00 DA
+Prescription List: Liste II
+ATC Classification: 15A003
+Registration Numbers: 352/15 A 092/09/24
+Drug Codes: 15 A 092
+
+------------------------------------------------------------
+
+## Indications
+
+NEUROLOGIE
+
+## Mechanism Of Action
+
+ANTI-EPILEPTIQUES & ANTI-CONVULSIVANTS

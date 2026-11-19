@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_081
+DCI: Topiramate
+DrugBank ID: DB00273
+DrugBank Name: Topiramate
+Brand Names: TOPICLOMAX
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/60
+Laboratories: ACCORD HEALTHCARE France SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: N03AX11
+Registration Numbers: 352/15 A 081/22
+Drug Codes: 15 A 081
+
+------------------------------------------------------------
+
+## Description
+
+Topiramate is a anti-epileptic drug used to manage seizures and prevent migraines. 4 It was initially approved by the FDA in 1996. In 2004, topiramate was approved for the prevention of migraine in adults. 6 , 19 , 23 Since 2012, the extended-release formulation has been approved in combination with phentermine for chronic weight management therapy in adults. 21 Characteristics that distinguish topiramate from other antiepileptic drugs are a monosaccharide chemical structure containing a sulfamate, and 40% of its mass accounted for by oxygen. 4 Interestingly, topiramate was discovered by chance when attempts were made to formulate a novel antidiabetic drug. 8
+
+## Pharmacodynamics
+
+Topiramate prevents the occurrence of seizures and prevents migraine symptoms by reducing neural pathway excitability. 8 , 19 It is important to note that this drug may cause metabolic acidosis, mood changes, suicidal thoughts and attempts, as well as kidney stones. When topiramate is combined with valproic acid , it is known to cause hypothermia. 19
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit alpha-1 Agonist Voltage-gated sodium channel alpha subunit Inhibitor Kainate receptors Antagonist + 3 more targets
+
+## Absorption
+
+After a 400mg dose in one clinical trial, topiramate reached maximal concentrations within 1.8-4.3 hours and ranged from 1.73-28.7 ug/mL. Food did not significantly affect the extent of absorption, despite delaying time to peak concentration. In patients with normal creatinine clearance, steady state concentrations are reached within 4 days. 3 The bioavailability of topiramate in tablet form is about 80% compared to a topiramate solution. 19
+
+## Volume Of Distribution
+
+The mean apparent volume of distribution of topiramate ranges from 0.6-0.8 L/kg when doses of 100mg to 1200mg are given. 3 Topiramate readily crosses the blood-brain barrier. 4
+
+## Metabolism
+
+The metabolites of topiramate are not known to be active. 2 The metabolism of topiramate is characterized by reactions of glucuronidation, hydroxylation and hydrolysis that lead to the production of six minor metabolites. 19 Some of topiramate's metabolites include 2,3-desisopropylidene topiramate, 4,5-desisopropylidene topiramate, 9-hydroxy topiramate, and 10-hydroxy topiramate. 14 Hover over products below to view reaction partners Topiramate 2,3-Desisopropylidene Topiramate 10-hydroxy topiramate 9-hydroxy topiramate 4,5-Desisopropylidene topiramate
+
+## Route Of Elimination
+
+Topiramate is mainly eliminated through the kidneys. 15 About 70-80% of the eliminated dose is found unchanged in the urine. 3 , 19
+
+## Half Life
+
+The elimination half-life is reported to be in the range of 19-23 hours. 3 If topiramate is given with enzyme-inducers, the half-life can be reduced to 12-15 hours because of increased metabolism. 3
+
+## Clearance
+
+The mean oral plasma clearance of topiramate ranges from 22-36 mL/min while the renal clearance is 17-18 mL/min, according to one pharmacokinetic study. 3 The FDA label for topiramate indicates a similar oral plasma clearance of approximately 20 to 30 mL/min in adults. 19
+
+## Toxicity
+
+The LD50 of intraperitoneal topiramate in the rat is above 1500 mg/kg. 20 Overdose information In a study of 4 healthy adult women taking topiramate, the severity of clinical effects following an overdose ranged from asymptomatic to severe, with no deaths reported. 5 According to the FDA prescribing information for topiramate, an overdose may cause hypotension, severe metabolic acidosis, coma, abdominal pain, visual disturbances, convulsions, drowsiness, speech abnormalities, impaired mentation and coordination, stupor, agitation, dizziness, as well as depression. 19 In the case of a recent ingestion of topiramate, the stomach contents should be emptied through the induction of emesis or gastric lavage. Offer supportive treatment, including activated charcoal and hemodialysis. 19

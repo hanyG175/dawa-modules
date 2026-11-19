@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_S_189
+DCI: Calcipotriol/Betamethasone
+DrugBank ID: DB02300
+DrugBank Name: Calcipotriol
+Brand Names: DAIVOBET
+Pharmaceutical Forms: Gélule
+Dosages: 50mcg/0.5mg/g
+Packaging: flacon de 60g
+Laboratories: SANDOZ | 49 AVENUE GEORGES POMPIDOU | 92300 LEVALLOIS-PERRET
+ATC Classification: D05AX52
+Registration Numbers: 426/07 S 189/22
+Drug Codes: 07 S 189
+
+------------------------------------------------------------
+
+## Description
+
+Calcipotriol (INN) or calcipotriene (USAN) is a sythetic derivative of calcitriol or Vitamin D.
+
+## Pharmacodynamics
+
+Calcipotriene is a synthetic analog of vitamin D. In humans, the natural supply of vitamin D depends mainly on exposure to the ultraviolet rays of the sun for conversion of 7-dehydrocholesterol to vitamin D3 (cholecalciferol) in the skin.
+
+## Mechanism Of Action
+
+Vitamin D3 receptor Antagonist
+
+## Absorption
+
+Clinical studies with radiolabeled ointment indicate that approximately 6% (+3%, SD) of the applied dose of calcipotriene is absorbed systemically when the ointment is applied topically to psoriasis plaques or 5% (+2.6%, SO) when applied to normal skin.
+
+## Metabolism
+
+Hepatic. Calcipotriene metabolism following systemic uptake is rapid, and occurs via a similar pathway to the natural hormone. The primary metabolites are much less potent than the parent compound.
+
+## Route Of Elimination
+
+The active form of the vitamin, 1,25-dihydroxy vitamin D3 (calcitriol), is known to be recycled via the liver and excreted in the bile. There is evidence that maternal 1,25-dihydroxy vitamin D3 (calcitriol) may enter the fetal circulation, but it is not known whether it is excreted in human milk.
+
+## Toxicity
+
+Topically applied calcipotriene can be absorbed in sufficient amounts to produce systemic effects. Elevated serum calcium has been observed with excessive use of calcipotriene.

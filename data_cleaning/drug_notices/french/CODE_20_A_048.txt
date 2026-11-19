@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_048
+DCI: TERBUTALINE SULFATE 5 mg/2 ml sol p inhal p nébulis (TERBUTALINE SANDOZ Unidose)
+Brand Names: BRICANYL LP
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: pilulier/60
+ATC Classification: R - SYSTEME RESPIRATOIRE | R03 - MEDICAMENTS POUR LES SYNDROMES OBSTRUCTIFS DES VOIES AERIENNES | R03A - ADRENERGIQUES POUR INHALATION | R03AC - AGONISTES SELECTIFS BETA 2 ADRENERGIQUES | R03AC03 - TERBUTALINE
+Registration Numbers: 256/20 A 048/97/14
+Drug Codes: 20 A 048
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | terbutaline sulfate : 2.5 mg | Modalités d'administration | Voie inhalée | Traitement à n'administrer qu'en association | Posologie | Patient de 1 mois à 15 an(s) | Patient quel que soit le poids | Asthme aigu sévère | Posologie standard | Respecter un intervalle d'au moins 20 min entre chaque administration | 0,1 à 0,2 mg/kg 1 à 4 fois par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Asthme aigu sévère - BPCO, traitement symptomatique associé des poussées (de la) | Posologie standard | Respecter un intervalle d'au moins 20 min entre chaque administration | 5 à 10 mg 1 à 4 fois par jour | Asthme persistant sévère, traitement de fond (de l') - BPCO sévère avec bronchospasme réversible | Posologie standard | 5 à 10 mg 2 à 4 fois par jour
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Arythmie | Cardiomyopathie obstructive | Cardiopathie sévère | Diabète | Grossesse, fin (de la) | Hypersécrétion bronchique | Hypertension artérielle | Hyperthyroïdie | Hypoxie | Infection bronchique | Insuffisance cardiaque sévère | Insuffisance coronarienne | Ischémie myocardique | Maladie cardiovasculaire | Patient sous bêtabloquant | Patient traité à posologie élevée | Sportif | Sujet à risque d'allongement de l'espace QT | Traitement par un médicament hypokaliémiant
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Terbutaline : Mécanisme d'action | La terbutaline est un agoniste des récepteurs bêta-adrénergiques présentant une action beaucoup plus sélective sur les récepteurs bêta-2 (en particulier bronchiques, utérins et vasculaires) que sur les récepteurs bêta-1 cardiaques. En raison de cette sélectivité, les effets cardiaques sont modérés aux doses thérapeutiques usuelles mais ne sont pas négligeables et peuvent apparaître à fortes doses.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Glycémie augmentée (Fréquent) | - Hypokaliémie (Fréquent) | DERMATOLOGIE: | - Rash érythémateux | - Urticaire | - Exanthème | NUTRITION, MÉTABOLISME: | - Acidose lactique (Rare) | PSYCHIATRIE: | - Agitation | - Trouble du sommeil | - Trouble du comportement | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Tachycardie (Fréquent) | - Palpitation (Fréquent) | - Ischémie myocardique | - Fibrillation auriculaire | - Extrasystole ventriculaire | - Extrasystole auriculaire | - Arythmie | - Tachycardie supraventriculaire | SYSTÈME DIGESTIF: | - Nausée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Tremblement des extrémités (Très fréquent) | - Hyperactivité | SYSTÈME RESPIRATOIRE: | - Bronchospasme paradoxal (Rare) | - Toux | - Bronchospasme

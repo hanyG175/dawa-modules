@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_042
+DCI: Lorazepam
+Brand Names: LORAZEPAM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 1MG
+Packaging: B/30
+Laboratories: AGD PHARMA
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16B042
+Registration Numbers: 065/16 B 042/07 | 231/16 B 042/98/24 | 242/16 B 042/17 | 320/16 B 042/06 | 468/16 B 042/15
+Drug Codes: 16 B 042
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+ANXIOLYTIQUES

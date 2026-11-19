@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_B_030
+DCI: ALBENDAZOLE 400 mg cp (ESKAZOLE )
+DrugBank ID: DB00518
+DrugBank Name: Albendazole
+Brand Names: OXYZOL | VERTEL HUP | VERTEN
+Pharmaceutical Forms: Comprimé
+Dosages: 400mg
+Packaging: b/01 | b/1 et b/56 | boite de 1 et boite de 56
+Laboratories: Laboratoire GlaxoSmithKline
+ATC Classification: P - ANTIPARASITAIRES, INSECTICIDES | P02 - ANTHELMINTHIQUES | P02C - ANTINEMATODES | P02CA - DERIVES DU BENZIMIDAZOLE | P02CA03 - ALBENDAZOLE
+Registration Numbers: 235/19 B 030/16/22 | 321/19 B 030/06 | 380/19 B 030/23
+Drug Codes: 19 B 030
+
+------------------------------------------------------------
+
+## Description
+
+A benzimidazole broad-spectrum anthelmintic structurally related to mebendazole that is effective against many diseases. (From Martindale, The Extra Pharmacopoeia, 30th ed, p38)
+
+## Pharmacodynamics
+
+Albendazole is a broad-spectrum anthelmintic. The principal mode of action for albendazole is by its inhibitory effect on tubulin polymerization which results in the loss of cytoplasmic microtubules.
+
+## Mechanism Of Action
+
+Tubulin beta chain (Pig roundworm) Inhibitor
+
+## Absorption
+
+Poorly absorbed from the gastrointestinal tract due to its low aqueous solubility. Oral bioavailability appears to be enhanced when coadministered with a fatty meal (estimated fat content 40 g)
+
+## Metabolism
+
+Hepatic. Rapidly converted in the liver to the primary metabolite, albendazole sulfoxide, which is further metabolized to albendazole sulfone and other primary oxidative metabolites that have been identified in human urine. Hover over products below to view reaction partners Albendazole albendazole sulfone albendazole sulfoxide
+
+## Route Of Elimination
+
+Albendazole is rapidly converted in the liver to the primary metabolite, albendazole sulfoxide, which is further metabolized to albendazole sulfone and other primary oxidative metabolites that have been identified in human urine. Urinary excretion of albendazole sulfoxide is a minor elimination pathway with less than 1% of the dose recovered in the urine. Biliary elimination presumably accounts for a portion of the elimination as evidenced by biliary concentrations of albendazole sulfoxide similar to those achieved in plasma.
+
+## Half Life
+
+Terminal elimination half-life ranges from 8 to 12 hours (single dose, 400mg).
+
+## Toxicity
+
+Symptoms of overdose include elevated liver enzymes, headaches, hair loss, low levels of white blood cells (neutropenia), fever, and itching.

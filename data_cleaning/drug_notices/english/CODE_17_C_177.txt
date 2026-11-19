@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_177
+DCI: Bimatoprost
+DrugBank ID: DB00905
+DrugBank Name: Bimatoprost
+Brand Names: LUMERA
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.1mg/ml
+Packaging: flacon/3ml
+Laboratories: biogaran | 15 boulevard charles de gaulle | 92700 colombes
+ATC Classification: S01EE03
+Registration Numbers: 543/17 C 177/20
+Drug Codes: 17 C 177
+
+------------------------------------------------------------
+
+## Indications
+
+Bimatoprost is used for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+
+## Pharmacodynamics
+
+High intraocular pressure is a major risk factor for glaucoma-related visual field loss. A linear relationship exists between intraocular pressure and the risk of damaging the optic nerve, which can lead to considerable visual impairment. 13 Therefore, conditions such as ocular hypertension and glaucoma can cause dangerous elevations of intraocular pressure. Bimatoprost rapidly decreases intraocular pressure and reduces the risk for visual field loss from ocular hypertension due to various causes. 13 Other effects of this drug may include gradual changes in eyelid pigmentation, changes in iris pigmentation, changes in eyelash pigmentation, growth and thickness. 13 Patients should be informed of these possible effects, especially if this drug is only administered to one eye, which may noticeably change in appearance with bimatoprost treatment. 13
+
+## Mechanism Of Action
+
+Prostaglandin F2-alpha receptor Agonist Prostaglandin E2 receptor EP1 subtype Agonist Prostaglandin E2 receptor EP3 subtype Agonist
+
+## Absorption
+
+This drug is absorbed systemically when administered to the eye. A study was performed on 15 healthy volunteers and bimatoprost ophthalmic solution 0.03% was administered once daily for 14 days. The mean Cmax was approximately 0.08 ng/mL and AUC0-24hr was approximately 0.09 on days 7 and 14 of the study. 13 By 10 minutes, peak blood concentration was achieved. Bimatoprost was not detectable at 1.5 hours after administration in most subjects. The maximum blood concentration in a study of 6 healthy volunteers was determined to be 12.2 ng/mL. Steady state was reached in the first week of dosing. 13 One drug label mentions that onset of decreased intraocular pressure occurs approximately 4 hours after the first administration and the peak effect occurs in the range of 8-12 hours. Bimatoprost effects may last up to 24 hours. 15
+
+## Volume Of Distribution
+
+The volume of distribution at steady state is 0.67 L/kg. 13 , 15 . It penetrates the human cornea and sclera. 15
+
+## Metabolism
+
+Bimatoprost is hydrolyzed to its active form, bimatoprost acid, in the eye. 18 Bimatoprost undergoes oxidation, N-deethylation, and glucuronidation after it is systemically absorbed, and this leads to the production of various metabolites. 13 In vitro studies show that CYP3A4 is an enzyme that participates in the metabolism of bimatoprost. Despite this, many enzymes and pathways metabolize bimatoprost, therefore, no significant drug-drug interactions are likely to occur. 14 Glucuronidated metabolites comprise most of the excreted drug product in the blood, urine, and feces in rats. 14 Hover over products below to view reaction partners Bimatoprost 17-Phenyl-Trinor-PGF2alpha
+
+## Route Of Elimination
+
+One pharmacokinetic study of bimatoprost in 6 healthy volunteers determined that 67% of the administered dose was found to be excreted in the urine while 25% of the dose was recovered in the feces. 13
+
+## Half Life
+
+The elimination half-life of bimatoprost is approximately 45 minutes. 13 , 14
+
+## Clearance
+
+The clearance was measured to be 1.5 L/hr/kg in healthy subjects receiving IV administration of bimatoprost dosed at 3.12 ug/kg. 13 , 14
+
+## Toxicity
+
+No information is available at this time regarding bimatoprost overdose in humans. Provide supportive symptomatic treatment if an overdose occurs. 13

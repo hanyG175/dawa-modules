@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_514
+DCI: Ceftazidime / Avibactam
+DrugBank ID: DB00438
+DrugBank Name: Ceftazidime
+Brand Names: ZAVICEFTA
+Pharmaceutical Forms: Poudre
+Dosages: 2g/0.5g
+Packaging: boite de 10 flacons de 20
+Registration Numbers: 620/13 B 514/23
+Drug Codes: 13 B 514
+
+------------------------------------------------------------
+
+## Description
+
+Bacteria possess a cell wall comprising a glycopeptide polymer commonly known as peptidoglycan, which is synthesized and remodelled through the action of a family of enzymes known as "penicillin-binding proteins" (PBPs). 1 β-lactam antibiotics, including cephalosporins, are PBP inhibitors that, through inhibition of essential PBPs, result in impaired cell wall homeostasis, loss of cell integrity, and ultimately bacterial cell death. 1 , 2 , 3 Ceftazidime is a third-generation cephalosporin with broad-spectrum antibacterial activity, including against some treatment-resistant bacteria such as Pseudomonas aeruginosa . 12 Ceftazidime was approved by the FDA on July 19, 1985, and is currently available either alone or in combination with the non-β-lactam β-lactamase inhibitor avibactam to treat a variety of bacterial infections. 12 , 13
+
+## Pharmacodynamics
+
+Ceftazidime is a semisynthetic, broad-spectrum, third-generation cephalosporin antibiotic that is bactericidal through inhibition of enzymes responsible for cell-wall synthesis, primarily penicillin-binding protein 3 (PBP3). 12 Among cephalosporins, ceftazidime is notable for its resistance to numerous β-lactamases and its broad spectrum of activity against Gram-negative bacteria, including Pseudomonas aeruginosa . 4 However, it is less active than first- and second-generation cephalosporins against Staphylococcus aureus and other Gram-positive bacteria and also has low activity against anaerobes. 4 , 9 Ceftazidime has confirmed activity against clinically relevant Gram-negative bacteria including Citrobacter spp., Enterobacter spp., Klebsiella spp., Proteus spp., Serratia spp., _Escherichia coli , Haemophilus influenzae , Neisseria meningitidis , Pseudomonas aeruginosa , and some Gram-positive bacteria including Staphylococcus spp. and Streptococcus spp. There are also in vitro data for ceftazidime efficacy against a wide variety of other bacteria, such as Acinetobacter baumannii and Neisseria gonorrhoeae , but no clear clinical studies to support the use of ceftazidime for infections caused by these bacteria. 12 Although β-lactam antibiotics like ceftazidime are generally well tolerated, there remains a risk of serious acute hypersensitivity reactions, which is higher in patients with a known allergy to ceftazidime or any other β-lactam antibiotic. As with all antibiotics, ceftazidime may result in the overgrowth of non-susceptible organisms and potentially serious effects including Clostridium difficile -associated diarrhea (CDAD); CDAD should be considered in patients who develop diarrhea and, in confirmed cases, supportive care initiated immediately. Ceftazidime is primarily renally excreted such that high and prolonged serum concentrations can occur in patients with renal insufficiency, leading to seizures, nonconvulsive status epilepticus (NCSE), encephalopathy, coma, asterixis, neuromuscular excitability, and myoclonia. Treatment may lead to the development or induction of resistance with a risk of treatment failure. Periodic susceptibility testing should be considered, and monotherapy failure may necessitate the addition of another antibiotic such as an aminoglycoside. Cephalosporin use may decrease prothrombin activity, which may be improved by exogenous vitamin K. Inadvertent intra-arterial administration of ceftazidime may result in distal necrosis. 12
+
+## Mechanism Of Action
+
+Peptidoglycan D,D-transpeptidase FtsI (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1A (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1B (Escherichia coli (strain K12)) Inhibitor + 1 more target
+
+## Absorption
+
+Ceftazidime administered intravenously in healthy males produced mean C max values of between 42 and 170 μg/mL for doses between 500 mg and 2 g, and are reached immediately following the end of the infusion period. 12 The C max for 1 g of ceftazidime administered intramuscularly is attained approximately one hour following injection and is between 37 and 43 mg/L. 4 Following intramuscular administration of 500 mg and 1 g of ceftazidime, the serum concentration remained above 4 μg/mL for six and eight hours, respectively. 12 Ceftazidime C max and AUC show linear proportionality to the dose over the therapeutic range. 4 , 12 In individuals with normal renal function, ceftazidime given intravenously every eight hours for 10 days as either 1 or 2 g doses showed no accumulation. 12
+
+## Volume Of Distribution
+
+Ceftazidime has a volume of distribution of 15-20 L. 4
+
+## Metabolism
+
+Ceftazidime is not appreciably metabolized. 4
+
+## Route Of Elimination
+
+Approximately 80% to 90% of an intramuscular or intravenous dose of ceftazidime is excreted unchanged by the kidneys over a 24-hour period. When administered intravenously, 50% of the dose appears in the urine within two hours, with another 32% of the dose appearing by eight hours post-administration. 12
+
+## Half Life
+
+Ceftazidime has an elimination half-life of 1.5-2.8 hours in healthy subjects. 4 , 12 As ceftazidime is primarily renally excreted, its half-life is significantly prolonged in patients with renal impairment. 12 In patients with creatinine clearance < 12 mL/min, the half-life is prolonged to between 14 and 30 hours. 4
+
+## Clearance
+
+The mean renal clearance of ceftazidime in healthy subjects ranges from 72 to 141 mL/min while the calculated plasma clearance is approximately 115 mL/min. 4 , 12
+
+## Toxicity
+
+Ceftazidime overdosage has occurred in patients with renal failure. Reactions included seizure activity, encephalopathy, asterixis, neuromuscular excitability, and coma. Patients who receive an acute overdosage should be carefully observed and given supportive treatment. In the presence of renal insufficiency, hemodialysis or peritoneal dialysis may aid in the removal of ceftazidime from the body. 12

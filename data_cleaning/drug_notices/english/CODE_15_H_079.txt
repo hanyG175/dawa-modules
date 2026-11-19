@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_H_079
+DCI: Toxine Botulinique Type A
+DrugBank ID: DB00083
+DrugBank Name: Botulinum toxin type A
+Brand Names: DYSPORT
+Pharmaceutical Forms: Poudre
+Dosages: 500 unites speywood
+Packaging: b/01
+Laboratories: IPSEN PHARMA | 70 RUE BALARD | 75015 PARIS
+ATC Classification: M03AX01
+Registration Numbers: 020/15 H 079/07/24
+Drug Codes: 15 H 079
+
+------------------------------------------------------------
+
+## Description
+
+In 2002, botulinum toxin A, also known as onabotulinumtoxinA or Botox, was the first type A botulism toxin to be introduced into the market for cosmetic use. 8 With a wide variety of applications and favourable safety profile, Botulinum toxin A injection is a minimally invasive and promising treatment for cosmetic imperfections, muscle spasms, and other conditions. 7 , 20 A popular use for Botox is the treatment of facial wrinkles and lines, however, there are many uses for the botulinum toxin A in the treatment of dystonia, incontinence, migraine, blepharospasm, and hyperhidrosis. 15 , 19
+
+## Pharmacodynamics
+
+Botulinum toxin A inhibits the release of acetylcholine, relieving muscle contraction and spasm associated with many conditions, such as incontinence and dystonia. Cosmetically, botulinum toxin A paralyses muscles in the face to temporarily treat wrinkles. 9 , 19 The maximum effects of muscle paralysis occur four to seven days after a dose. 6 When injected at therapeutic doses, botulinum toxin A causes partial chemical denervation of muscle tissue, causing local reduction of muscle activity. Muscle atrophy may result, axonal sprouting may begin, and extrajunctional acetylcholine receptors can be formed. Reinnervation of the muscle may occur, reversing muscle denervation caused by botulinum toxin A. 15
+
+## Mechanism Of Action
+
+Synaptosomal-associated protein 25 Inhibitor
+
+## Absorption
+
+The chemical complexity of botulinum toxin type A combined with its extreme potency limits the opportunity to study its pharmacokinetic profile in humans. 15 For this reason, human pharmacokinetic studies have not been performed. Animal studies using radio labeled botulinum toxin suggest it is absorbed systemically after subcutaneous and intranasal administration. Clinical relevance is unknown. 11
+
+## Volume Of Distribution
+
+There are extremely limited data about the pharmacokinetics of botulinum toxin in humans. 15 An animal study demonstrated that botulinum toxin accumulates in the liver and spleen in rats and mice when injected subcutaneously or administered intranasally. 11
+
+## Metabolism
+
+Metabolism information for botulinum A toxin is not readily available in the literature. 11 , 15
+
+## Route Of Elimination
+
+Elimination information for botulinum A toxin is not readily available in the literature. 11 , 15
+
+## Half Life
+
+There is no readily available data about the pharmacokinetics of botulinum toxin in humans. 15 The elimination half-life for non-metabolized botulinum toxin in blood and serum ranged from 230 to 260 min in a pharmacokinetic study of rats and mice. 11
+
+## Clearance
+
+Clearance information for botulinum A toxin is not readily available in the literature. 11 , 15
+
+## Toxicity
+
+The intraperitoneal LD50 of botulinum toxin A in mice is 160 ng/kg. 22 An overdose of botulinum toxin A is expected to produce neuromuscular weakness, manifested by a variety of symptoms that may not appear immediately after injection. Dysphagia, dysphonia, weakness, dyspnea or respiratory distress may indicate distant spread of botulinum toxin A effects. 14 If an overdose is suspected or confirmed, patients should be monitored for several weeks closely for local and distant neurologic effects. Hospitalization or further medical evaluation and appropriate intervention should be provided immediately. 15

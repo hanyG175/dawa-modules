@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_150
+DCI: OLOPATADINE (chlorhydrate) 1 mg/ml collyre sol (OPATANOL) | Olopatadine (Sous Forme De Chlorhydrate)
+Brand Names: OPATANOL | OPATEK | OPTICIS | PALLADA
+Pharmaceutical Forms: Collyree En Solution | Collyree En Solution Sterile
+Dosages: 1mg/ml (ou 5mg/5ml)
+Packaging: flacon/5ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01G - DECONGESTIONNANTS ET ANTIALLERGIQUES | S01GX - AUTRES ANTIALLERGIQUES | S01GX09 - OLOPATADINE
+Registration Numbers: 028/17 B 150/09/16 | 065/17 B 150/23 | 521/17 B 150/20 | 543/17 B 150/20
+Drug Codes: 17 B 150
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement des signes et symptômes oculaires des conjonctivites allergiques saisonnières.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : reboucher le flacon après utilisation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Respecter un intervalle de 8 heures entre chaque administration | Posologie | Patient à partir de 3 an(s) | Patient quel que soit le poids | Conjonctivite allergique | Posologie standard | 1 gte 2 fois par jour | Durées absolues de traitement | Ne pas dépasser 4 mois de traitement.
+
+## Precautions
+
+Allaitement | Enfant de moins de 3 ans | Femme susceptible d'être enceinte | Grossesse | Traitement concomitant par produits ophtalmiques
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Olopatadine : Mécanisme d'action | L'olopatadine est un agent antiallergique/antihistaminique, puissant et sélectif, qui agit par des mécanismes d'action multiples et variés. Il antagonise l' | histamine | (le premier médiateur de la réponse allergique chez l'homme) et empêche les cellules épithéliales de la conjonctive humaine de sécréter des cytokines inflammatoires induites par l' | histamine | . Les données provenant des études | in vitro | suggèrent qu'il peut agir sur les mastocytes de la conjonctive humaine pour inhiber la libération des médiateurs pro-inflammatoires.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Sensation de brûlure cutanée (Peu fréquent) | - Sécheresse cutanée (Peu fréquent) | - Dermatite de contact (Peu fréquent) | - Dermatite | - Erythème cutané | DIVERS: | - Fatigue (Fréquent) | - Asthénie | - Oedème de la face | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | OPHTALMOLOGIE: | - Hypersécrétion lacrymale (Peu fréquent) | - Douleur oculaire (Fréquent) | - Irritation oculaire (Fréquent) | - Kératite (Peu fréquent) | - Vision floue (Peu fréquent) | - Follicule conjonctival (Peu fréquent) | - Atteinte de l'épithélium cornéen (Peu fréquent) | - Atteinte conjonctivale (Peu fréquent) | - Coloration cornéenne (Peu fréquent) | - Hyperhémie oculaire (Peu fréquent) | - Gêne oculaire (Peu fréquent) | - Hyposécrétion lacrymale (Fréquent) | - Kératite ponctuée (Peu fréquent) | - Blépharospasme (Peu fréquent) | - Affection de la paupière (Peu fréquent) | - Oedème palpébral (Peu fréquent) | - Sensation de corps étranger dans l'oeil (Peu fréquent) | - Prurit oculaire (Peu fréquent) | - Ecoulement oculaire (Peu fréquent) | - Sensation anormale dans l'oeil (Fréquent) | - Acuité visuelle (diminution) (Peu fréquent) | - Erosion cornéenne (Peu fréquent) | - Erythème de la paupière (Peu fréquent) | - Photophobie (Peu fréquent) | - Mydriase | - Oedème oculaire | - Oedème cornéen | - Bord de la paupière croûteux | - Conjonctivite | - Calcification cornéenne | - Trouble de la vision | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Dysgueusie (Fréquent) | - Hyposécrétion nasale (Fréquent) | - Rhinite (Peu fréquent) | - Sinusite | SYSTÈME CARDIOVASCULAIRE: | - Malaise | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hypoesthésie (Peu fréquent) | - Somnolence | SYSTÈME RESPIRATOIRE: | - Dyspnée

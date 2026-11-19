@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_213
+DCI: IBRUTINIB 140 mg cp (IMBRUVICA) | Ibrutinib
+DrugBank ID: DB09053
+DrugBank Name: Ibrutinib
+Brand Names: DULLARMA | IBRORION | IMBRUVICA
+Pharmaceutical Forms: Gélule
+Dosages: 140mg
+Packaging: b/90
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EL - INHIBITEURS DE LA TYROSINE KINASE DE BRUTON (BTK) | L01EL01 - IBRUTINIB
+Registration Numbers: 001/05 C 213/24 | 095/05 C 213/18 | 596/05 C 213/24
+Drug Codes: 05 C 213
+
+------------------------------------------------------------
+
+## Description
+
+Ibrutinib is a small molecule that acts as an irreversible potent inhibitor of Burton's tyrosine kinase. It is designated as a targeted covalent drug and presented as a promising activity in B-cell malignancies in clinical trials. 4 Ibrutinib was developed by Pharmacyclics Inc and was first approved by the FDA in November 2013 for the treatment of mantle cell lymphoma (MCL) under accelerated approval; 16 however, in April 2023, the drug manufacturer withdrew the accelerated approvals for ibrutinib in the US. 21 Ibrutinib was approved by the EMA in October 2014 19 and by Health Canada in November 2014. 20 It is currently approved for the treatment of various conditions, such as chronic lymphocytic leukemia (CLL), Waldenström's Macroglobulinemia, and chronic graft versus host disease (cGVHD) in August 2017. 16 Notably, ibrutinib became the first FDA-approved cGVHD treatment for children in August 2017. 18
+
+## Pharmacodynamics
+
+In vitro studies have shown an induction of CLL cell apoptosis even in presence of prosurvival factors. It has also been reported an inhibition of CLL cell survival and proliferation as well as an impaired in cell migration and a reduction in the secretion of chemokines such as CCL3 and CCL4. The latter effect has been shown to produce regression in xenograft mouse models. 6 Clinical studies for relapsed/refractory CLL in phase I and II showed an approximate 71% of overall response rate. 7 , 8 . In the case of relapsed/refractory mantle cell lymphoma, approximately 70% of the tested patients presented a partial or complete response. 7 , 9 . In clinical trials for relapsed/refractory diffuse large B-cell lymphoma, a partial response was found in between 15-20% of the patients studied; while for patients with relapsed/refractory Waldenstrom's macroglobulinemia, a partial response was observed in over 75% of the patients tested. Finally, for patients with relapsed/refractory follicular lymphoma, a partial to complete response was obtained in approximately 54% of the patients. 7
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase BTK Inhibitor
+
+## Absorption
+
+Ibrutinib is rapidly absorbed after oral administration and it presents a Cmax, tmax and AUC of approximately 35 ng/ml, 1-2 hour and 953 mg.h/ml respectively. 11
+
+## Volume Of Distribution
+
+The volume of distribution at steady-state of ibrutinib is in approximately 10,000 L. 11
+
+## Metabolism
+
+Three metabolic pathways have been identified according to the possible metabolites. These pathways are the hydroxylation of the phenyl group (M35), the opening of the piperidine with a reduction of the primary alcohol (M34) and the oxidation to a carboxylic acid and epoxidation of the ethylene followed by a hydrolysis to the formation of dihydrodiol (PCI-45227). The latter metabolite presents also 15 times lower inhibitory activity against BTK. The metabolism of ibrutinib is mainly performed by CYP3A5 and CYP3A4. and in a minor extent it is seen to be performed by CYP2D6. 3 Hover over products below to view reaction partners Ibrutinib PCI-7503 (M23) PCI-48303 (M26) PCI-45227 (M37) PCI-45773 (M35) M17 PCI-45741 (M25) M20 PCI-45752 (M34) M17 M24
+
+## Route Of Elimination
+
+The cumulative excretion of ibrutinib in urine is of about 7.8% of the administered dose and most of this excretion is found during the first 24 hours after administration. In feces, the cumulative excretion accounts for 80% of the administered dose and the excretion occurs within 48 hours of the initial administration. The total excretion of ibrutinib during the first 168 hours after initial administration accounts for 88.5% of the administered dose. 3
+
+## Half Life
+
+The elimination half-life of ibrutinib is of approximately 4-6 hours. 11
+
+## Clearance
+
+In patients with normal renal function, the clearance rate is in the range of 112-159 ml/min. 3
+
+## Toxicity
+
+Ibrutinib was not showed to present a mutagenic potential in bacterial assays, nor clastogenic in chromosome aberration assays in mammalian cells or in bone marrow micronucleus assays in mice. Carcinogenicity or effects on fertility have not been determined. 16

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_B_074
+DCI: FEBUXOSTAT 80 mg cp (FEBUXOSTAT ZYDUS)
+DrugBank ID: DB04854
+DrugBank Name: Febuxostat
+Brand Names: ADENUMAX | FEBOREX | TAZOTAX
+Pharmaceutical Forms: Comprimé
+Dosages: 80 mg | 80mg
+Packaging: b/30
+ATC Classification: M - MUSCLE ET SQUELETTE | M04 - ANTIGOUTTEUX | M04A - MEDICAMENTS ANTIGOUTTEUX | M04AA - INHIBITEURS DE LA SYNTHESE DE L'ACIDE URIQUE | M04AA03 - FEBUXOSTAT
+Registration Numbers: 001/21 B 074/21 | 149/21 B 074/21 | 352/21 B 074/21
+Drug Codes: 21 B 074
+
+------------------------------------------------------------
+
+## Description
+
+Febuxostat is a non-purine xanthine oxidase (XO) inhibitor. 4 In early 2008, febuxostat was granted marketing authorization by the European Commission for the treatment of chronic hyperuricemia and gout. 5 In the following year, the FDA for approved febuxostat for use in the chronic management of hyperuricemia in adult patients with gout who have an inadequate response or intolerance to allopurinol . 10 Gout is a form of arthritis that is caused by the accumulation of uric acid crystal in or around a joint, leading to inflammation and further deposition of uric acid crystal deposition in bones, joints, tissues, and other organs in the long term. Gout is closely associated with hyperuricemia. Febuxostat works by inhibiting the activity of an enzyme that is responsible for the synthesis of uric acid, thereby reducing serum uric acid levels. 5 In February 2019, a black box warning for febuxostat was added, based on the findings of a post-market clinical study (the CARES trial) where there was an increased risk of cardiovascular (CV) fatal outcomes in patients with gout and known cardiovascular disease treated with febuxostat, when compared to those treated with allopurinol. The manufacturer and the FDA advise health professionals to limit the use of febuxostat to second-line therapy in patients who have inadequate response or intolerance to allopurinol, and to avoid the use of febuxostat in patients with cardiovascular diseases. 1 , 9
+
+## Pharmacodynamics
+
+Febuxostat is a novel, selective xanthine oxidase/dehydrogenase inhibitor that works by decreasing serum uric acid in a dose-dependent manner. In healthy subjects, febuxostat decreased the mean serum uric acid and serum xanthine concentrations, as well as the total urinary uric acid excretion. Febuxostat at daily doses of 40-80 mg reduced the 24-hour mean serum uric acid concentrations by 40 to 55%. 10 Closely related to the drug-induced reduction of serum uric acid levels and mobilization of urate crystals in tissue deposits, febuxostat is associated with gout flares. 7 Unlike allopurinol and oxypurinol , febuxostat has no inhibitory actions against other enzymes involved in purine and pyrimidine synthesis and metabolism, because it does not structurally resemble purines or pyrimidines. 5
+
+## Mechanism Of Action
+
+Xanthine dehydrogenase/oxidase Inhibitor
+
+## Absorption
+
+After oral administration, about 85% of febuxostat is absorbed rapidly. 5 T max ranges from 1 to 1.5 hours. Following once-daily oral administration, C max was approximately 1.6 ± 0.6 mcg/mL at a dose of 40 mg febuxostat and 2.6 ± 1.7 mcg/mL at a dose of 80 mg febuxostat. 10 A high-fat meal decreased C max by 49% and AUC by 18%, but there were no clinically significant changes in the ability of febuxostat to decrease serum uric acid concentrations. 10
+
+## Volume Of Distribution
+
+The apparent steady-state volume of distribution (V ss /F) of febuxostat ranges from 29 to 75 L, indicating a low to medium volume of distribution. 8
+
+## Metabolism
+
+Febuxostat is metabolized in the liver by UDP-glucuronosyltransferase (UGT) and Cytochrome P450 (CYP) enzymes, with the relative contribution of each enzyme isoform in the metabolism of febuxostat not fully elucidated. UGT1A1, UGT1A3, UGT1A9, and UGT2B7 mediate conjugation of febuxostat, 10 which approximately accounts for 22–44% of the metabolism of the total dose administered, to produce the acyl-glucuronide metabolite. 5 CYP1A2, CYP2C8, CYP2C9, and non-P450 enzymes are responsible for the oxidation reaction, which accounts for 2-8% of the metabolism of the dose. 5 Oxidation reaction produces 67M-1, 67M-2, and 67M-4, which are pharmacologically active metabolites. 67M-1, 67M-2, and 67M-4 can further undergo glucuronidation and sulfation. 8 Hydroxy metabolites are present in human plasma at much lower concentrations than the parent drug. 10 Hover over products below to view reaction partners Febuxostat Febuxostat acyl-glucuronide 67M-1 + 67M-2 67M-4
+
+## Route Of Elimination
+
+Febuxostat is eliminated via both hepatic and renal pathways. Following oral administration of 80 mg radiolabeled febuxostat, approximately 49% of the dose was recovered in the urine. In urine, about 3% of the recovered dose accounted for unchanged febuxostat, 30% accounted for the acyl glucuronide metabolite, 13% accounted for oxidative metabolites and their conjugates, and 3% accounted for unidentified metabolites. 10 Approximately 45% of the total dose was recovered in the feces, where 12% of the dose accounted for the unchanged parent drug. About 1% accounted for the acyl glucuronide metabolite, 25% accounted for oxidative metabolites and their conjugates, and 7% accounted for unidentified metabolites. 10
+
+## Half Life
+
+The apparent mean terminal elimination half-life of approximately 5 to 8 hours. 10
+
+## Clearance
+
+Following oral administration of single doses of 10 to 240 mg, the mean apparent total clearance ranged from 10 to 12 L/h. 5
+
+## Toxicity
+
+Oral lowest published toxic dose (TDLO) in humans is 1.82 mg/kg/14D (intermittent). 9 Oral LD 50 is 300 mg/kg in mice, 3200 mg/kg in rabbits, and 980 mg/kg in rats. 12 No dose-limiting toxicities were observed with febuxostat administered at doses up to 300 mg daily for seven days in healthy subjects. There are no reports of overdose of febuxostat in clinical studies and there is no known antidote. Overdose should be managed by symptomatic and supportive care. 10

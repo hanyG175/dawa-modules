@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_R_253
+DCI: Trifluridine/Tripiracil
+DrugBank ID: DB00432
+DrugBank Name: Trifluridine
+Brand Names: LONSURF
+Pharmaceutical Forms: Comprimé
+Dosages: 15mg/6.14mg
+Packaging: b/20 et b/60
+Registration Numbers: 040/05 R 253/25
+Drug Codes: 05 R 253
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Trifluridine exhibits an antiviral effect against herpes simplex virus, types 1 and 2 and vacciniavirus both in vitro and in vivo 1 . Some strains of adenovirus that contribute to the pathology of keratoconjunctivitis were shown to be susceptible to trifluridine in vitro 1 . While there is evidence from a study that cross-resistance may develop between trifluridine and idoxuridine or vidarabine , trifluridine was shown to effective in treating dendritic ulcers in patients with herpetic keratitis who are unresponsive to idoxuridine or vidarabine based on the results from masked comparative trials 1 . In nonclinical studies, trifluridine/tipiracil hydrochloride demonstrated antitumour activity against both 5-fluorouracil (5-FU) sensitive and resistant colorectal cancer cell lines 10 . The cytotoxic activity of trifluridine and tipiracil against several human tumour xenografts show high correlation with the amount of trifluridine incorporated into DNA, indicating that the primary mechanism of action of trifluridine involves the direct incorporation into the cancer cell DNA 10 . Trifluridine and tipiracil demonstrated anti-tumor activity against KRAS wild-type and mutant human colorectal cancer xenografts in mice Label . In clinical studies comprised of patients with previously treated metastatic colorectal cancer, treatment of trifluridine in combination with tipiracil in addition to best supportive care over a 5- or 7-month period resulted in increased progression-free survival (PFS), overall response rate (ORR) and disease control rate (DCR) compared to placebo 10 . In an open-label study, administration of trifluridine at the recommended dosage in patients with advanced solid tumors had no clinically relevant effect on QT/QTc prolongation compared with placebo Label . Two out of 48 patients displayed had QTc greater than 500 msec and 1 of 42 patients (2.4%) had a QTc increase from baseline greater than 60 msec Label .
+
+## Mechanism Of Action
+
+DNA Other/unknown Thymidylate synthase Inhibitor
+
+## Absorption
+
+After oral administration of LONSURF with [14C]-trifluridine, at least 57% of the administered trifluridine was absorbed. Following a single dose of LONSURF (35 mg/m 2 ) in patients with advanced solid tumors, the mean times to peak plasma concentrations (T max ) of trifluridine was around 2 hours. 9 Trifluridine area under the concentration-time curve from time 0 to the last measurable concentration (AUC 0-last ) was approximately 3-fold higher and maximum concentration (C max ) was approximately 2-fold higher after multiple dose administration (twice daily for 5 days a week with 2 days rest for 2 weeks followed by a 14-day rest, repeated every 4 weeks) than after single-dose administration. 9 Following a single oral administration of LONSURF at 35 mg/m 2 in patients with cancer, the mean time to peak plasma concentration (T max ) of trifluridine was around 2 hours. 8 For the ophthalmic formulation, systemic absorption appears to be negligible. 7 A standardized high-fat, high-calorie meal decreased trifluridine C max by approximately 40% but did not change trifluridine AUC compared to those in a fasting state in patients with cancer following administration of a single dose of LONSURF 35 mg/m 2 . 7 In a dose finding study (15 to 35 mg/m 2 twice daily), the AUC from time 0 to 10 hours (AUC0-10) of trifluridine tended to increase more than expected based on the increase in dose. 9
+
+## Volume Of Distribution
+
+Following a single dose of LONSURF (35 mg/m 2 ) in patients with advanced solid tumours, the apparent volume of distribution (Vd/F) for trifluridine was 21 L. 9
+
+## Metabolism
+
+Trifluridine is not metabolized by cytochrome P450 (CYP) enzymes. Trifluridine is mainly eliminated by metabolism via thymidine phosphorylase to form an inactive metabolite, 5-(trifluoromethyl) uracil (FTY). No other major metabolites were detected in plasma or urine. 8 Other minor metabolites, such as 5-carboxy-2'-deoxyuridine found on the endothelial side of the cornea or 5-carboxyuraci, were also detected, but only at low or trace level in plasma and urine. 4 , 9 Hover over products below to view reaction partners Trifluridine 5-carboxy-2'-deoxyuridine 5-(trifluoromethyl) uracil
+
+## Route Of Elimination
+
+After single oral administration of LONSURF (60 mg) with [14C]-trifluridine, the total cumulative excretion of radioactivity was 60% of the administered dose. The majority of
+recovered radioactivity was eliminated into urine (55% of the dose) as FTY and trifluridine glucuronide isomers within 24 hours and the excretion into feces and expired air was <3% for
+both. The unchanged trifluridine was <3% of administered dose recovered in the urine and feces. 8
+
+## Half Life
+
+After administration of LONSURF 35 mg/m 2 , the mean elimination and steady-state half-life (t 1/2 ) of trifluridine was 1.4 hours and 2.1 hours respectively. 8 For the ophthalmic formulation, the half-life is significantly shorter, approximately only 12 minutes. 7
+
+## Clearance
+
+Following a single dose of LONSURF (35 mg/m 2 ) in patients with advanced solid tumours, the oral clearance (CL/F) for trifluridine was 10.5 L/hr. 9
+
+## Toxicity
+
+Intravenous LD50 in rat was 2946 mg/kg MSDS . Oral LD50 in rat and mouse were > 4379mg/kg MSDS . Overdosage via ocular instillation is unlikely. The highest dose of orally-administered Lonsurf, trifluridine in combination with tipiracil, administered in clinical studies was 180 mg/m^2 per day. The primary anticipated complication of an overdose is bone marrow suppression. There is no known antidote for trifluridine overdose: in case of an overdose, management should include customary therapeutic and supportive medical intervention aimed at correcting the presenting clinical manifestations and preventing their possible complications 10 . Based on the findings from animal studies, trifluridine may cause fetal toxicity when administered to pregnant patients 10 .

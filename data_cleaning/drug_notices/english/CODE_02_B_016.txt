@@ -1,0 +1,41 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_016
+DCI: Oxygene Medicinal Liquide
+DrugBank ID: DB09140
+DrugBank Name: Oxygen
+Brand Names: OXYGENE MEDICINAL | OXYGENE MEDICINAL LIQUIDE | OXYGENE MEDICINAL LIQUIDE LINDE GAS ALGERIE | RAYANOX
+Pharmaceutical Forms: Gaz Pour Inhalation
+Dosages: purete ≥ 99.5% | purete ≥ 99.50% | purete ≥ 99.95%
+Packaging: citernes de 10.000 l | citernes de 20000l | citernes de 7000l. 12000l. 26000l | recipient cryogenique mobile de 20000l
+Registration Numbers: 054/02 B 016/99/24 | 577/02 B 016/21 | 585/02 B 016/21 | 590/02 B 016/21
+Drug Codes: 02 B 016
+
+------------------------------------------------------------
+
+## Description
+
+Oxygen is an element displayed by the symbol O, and atomic number 8. It is an essential element for human survival. Decreased oxygen levels may be treated with medical oxygen therapy. Treatment with oxygen serves to increase blood oxygen levels and also exerts a secondary effect of decreasing blood flow resistance in the diseased lung, leading to decreased cardiovascular workload in an attempt to oxygenate the lungs. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+
+## Pharmacodynamics
+
+Oxygen therapy improves effective cellular oxygenation, even at a low rate of tissue perfusion. Oxygen molecules adjust hypoxic ventilatory drive by acting on chemoreceptors on carotid bodies that sequentially relay sensory information to the higher processing centers in brainstem. It also attenuates hypoxia-induced mitochondrial depolarization that generates reactive oxygen species and/or apoptosis.
+Studies investigating on hyperbaric oxygen therapy has shown that oxygen supplementation can induce neural stem cell proliferation in neonatal rats thus promoting neurological regeneration after injuries 3 . CD34+, CD45-dim leukocytes are also potential targets for hyperbaric oxygen therapy benefit as their mobilization was increased in vitro which could facilitate the acceleration of recovery at peripheral sites 1 .
+
+## Mechanism Of Action
+
+Oxygen therapy increases the arterial pressure of oxygen and is effective in improving gas exchange and oxygen delivery to tissues, provided that there are functional alveolar units. Oxygen plays a critical role as an electron acceptor during oxidative phosphorylation in the electron transport chain through activation of cytochrome c oxidase (terminal enzyme of the electron transport chain). This process achieves successful aerobic respiration in organisms to generate ATP molecules as an energy source in many tissues. Oxygen supplementation acts to restore normal cellular activity at the mitochondrial level and reduce metabolic acidosis. There is also evidence that oxygen may interact with O2-sensitive voltage-gated potassium channels in glomus cells and cause hyperpolarization of mitochondrial membrane 4 . Target Actions Organism U Cytochrome c oxidase subunit 1 agonist activator Humans U NADPH oxidase 1 agonist activator Humans
+
+## Route Of Elimination
+
+Exhalation
+
+## Half Life
+
+Approximately 122.24 seconds
+
+## Toxicity
+
+May cause burns or frostbites in case of eye or skin contact with rapidly expanding gas. Oxygen therapy can induce hypercapnic respiratory failure in patients with respiratory diseases and musculoskeletal diseases in upper airways. Sudden cessation of oxygen supplementation in these patients can further lead to rebound hypoxaemia. In patients with mild or moderate strokes, hyperoxaemia may cause absorption atelectasis or myocardial infarction. Oxygen content should be monitored following the administration to verify therapeutic benefit.

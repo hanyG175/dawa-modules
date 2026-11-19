@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_246
+DCI: Omalizumab
+DrugBank ID: DB00043
+DrugBank Name: Omalizumab
+Brand Names: XOLAIR
+Pharmaceutical Forms: Poudre
+Dosages: 150mg/fl
+Packaging: b/01 flacon de poudre de 5ml et solv 2ml
+Registration Numbers: 068/20 A 246/16
+Drug Codes: 20 A 246
+
+------------------------------------------------------------
+
+## Description
+
+Omalizumab is a recombinant DNA-derived humanized monoclonal antibody directed against human immunoglobulin E (IgE). 7 IgE promotes the release of inflammatory mediators from mast cells and basophils during allergic and inflammatory reactions. By binding to IgE and neutralizing it, omalizumab reduces free IgE levels and prevents IgE from binding to its receptors on immune cells. 1 Omalizumab was first approved in the US in 2003 3 and in Europe in 2005. 7 It is used to treat a range of immune and inflammatory conditions, including allergies, urticaria, and asthma. 3
+
+## Indications
+
+Omalizumab is indicated for:
+
+## Pharmacodynamics
+
+Omalizumab decreases free IgE levels in serum in a dose-dependent manner. Serum total IgE levels, accounting for bound and unbound IgE, increased after the first dose of omalizumab due to the formation of drug:IgE complexes, which have a slower elimination rate compared with free IgE. At 16 weeks after the first dose, average total IgE levels in serum were five-fold higher compared to pre-treatment levels in standard assays. Drug effects on IgE levels are reversible upon drug discontinuation, with no observed rebound in IgE levels after drug washout. Total IgE levels did not return to pre-treatment levels for up to one year after discontinuation of omalizumab. 6
+
+## Mechanism Of Action
+
+Immunoglobulin heavy constant epsilon Antibody Neutralizer
+
+## Absorption
+
+After subcutaneous administration, omalizumab has an average absolute bioavailability of 62%. In adult and adolescent patients with asthma, omalizumab was absorbed slowly and the peak serum concentrations occurred after seven to eight days. 6 The pharmacokinetics of omalizumab were linear at doses which were higher than 0.5 mg/kg. In patients with asthma, after several doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after one dose. After repeated dosing from 75mg-300 mg every 4 weeks, trough serum concentrations of omalizumab increased proportionally with the dose. 6
+
+## Volume Of Distribution
+
+In patients with asthma, the apparent volume of distribution was 78 ± 32 mL/kg following subcutaneous administration. 6
+
+## Metabolism
+
+Omalizumab is degraded in the reticuloendothelial system and endothelial cells. 3
+
+## Route Of Elimination
+
+Liver elimination of IgG includes degradation in the liver reticuloendothelial system (RES) and endothelial cells. Intact IgG was also shown to be excreted in bile. In studies with mice and monkeys, omalizumab:IgE complexes were eliminated by interactions with Fc-gamma receptors within the RES at rates that were generally faster than IgG clearance. 6
+
+## Half Life
+
+In asthma patients, the serum elimination half-life averaged 26 days. In CSU patients, at steady state, based on population pharmacokinetics, omalizumab serum elimination half-life averaged 24 days. 6
+
+## Clearance
+
+In pharmacokinetic studies, the clearance of omalizumab involved IgG clearance as well as clearance by specific binding and complex formation with its target ligand, IgE. The apparent clearance averaged 2.4 ± 1.1 mL/kg/day in patients with asthma. The apparent clearance averaged 240 mL/day (corresponding to 3.0 mL/kg/day for an 80 kg patient). 7
+
+## Toxicity
+
+The intravenous LD 50 in monkeys is 200 mg/kg. 8 Maximum tolerated dose of omalizumab has not been determined. Single intravenous doses up to 4000 mg have been administered to patients without evidence of dose-limiting toxicities. The highest cumulative dose administered to patients was 44,000 mg over a 20-week period and this dose did not result in any untoward acute effects. If an overdose is suspected, the patient should be monitored for any abnormal signs or symptoms. Medical treatment should be sought and instituted appropriately. 7

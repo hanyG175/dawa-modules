@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_100
+DCI: Paclitaxel
+DrugBank ID: DB01229
+DrugBank Name: Paclitaxel
+Brand Names: PACLITAXEL EBEWE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 6MG/ML (OU 30MG/5ML, 100MG/16,7ML,150MG/25ML, ET 300MG/50ML)
+Packaging: FL/5ML - FL/16,7ML - FL/25ML - FL /50ML.
+Laboratories: EBEWE PHARMA
+Countries: AUTRICHE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: L01CD01
+Registration Numbers: 003/05 G 100/21 | 079/05 G 100/20 | 182/05 G 100/04/13
+Drug Codes: 05 G 100
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Paclitaxel is a taxoid antineoplastic agent indicated as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast cancer. Paclitaxel is a novel antimicrotubule agent that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions. In addition, paclitaxel induces abnormal arrays or "bundles" of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.
+
+## Mechanism Of Action
+
+Tubulin beta-1 chain Inhibitor Apoptosis regulator Bcl-2 Inhibitor
+
+## Absorption
+
+When a 24 hour infusion of 135 mg/m^2 is given to ovarian cancer patients, the maximum plasma concentration (Cmax) is 195 ng/mL, while the AUC is 6300 ng•h/mL.
+
+## Volume Of Distribution
+
+227 to 688 L/m^2 [apparent volume of distribution at steady-state, 24 hour infusion]
+
+## Metabolism
+
+Hepatic. In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6a-hydrox-ypaclitaxel by the cytochrome P450 isozyme CYP2C8; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6a, 3’-p-dihydroxypaclitaxel, by CYP3A4. Hover over products below to view reaction partners Paclitaxel 6α, 3'-p-dihydroxypaclitaxel 6α-hydroxypaclitaxel 3′-p-hydroxypaclitaxel
+
+## Route Of Elimination
+
+In 5 patients administered a 225 or 250 mg/m2 dose of radiolabeled paclitaxel as a 3-hour infusion, a mean of 71% of the radioactivity was excreted in the feces in 120 hours, and 14% was recovered in the urine.
+
+## Half Life
+
+When a 24 hour infusion of 135 mg/m^2 is given to ovarian cancer patients, the elimination half=life is 52.7 hours.
+
+## Clearance
+
+21.7 L/h/m2 [Dose 135 mg/m2, infusion duration 24 h] 23.8 L/h/m2 [Dose 175 mg/m2, infusion duration 24 h] 7 L/h/m2 [Dose 135 mg/m2, infusion duration 3 h] 12.2 L/h/m2 [Dose 175 mg/m2, infusion duration 3 h]
+
+## Toxicity
+
+Rat (ipr) LD 50 =32530 µg/kg. Symptoms of overdose include bone marrow suppression, peripheral neurotoxicity, and mucositis. Overdoses in pediatric patients may be associated with acute ethanol toxicity.

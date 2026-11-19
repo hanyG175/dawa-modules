@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_015
+DCI: DOXORUBICINE CHLORHYDRATE 2 mg/ml sol intravésic/inj (DOXORUBICINE TEVA)
+DrugBank ID: DB00997
+DrugBank Name: Doxorubicin
+Brand Names: ONCODOX-10
+Pharmaceutical Forms: Lyoph. P. Sol. Inj. Iv
+Dosages: 10mg/fl. de lyoph.
+Packaging: b/1fl. de lyoph.
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01D - ANTIBIOTIQUES CYTOTOXIQUES ET APPARENTES | L01DB - ANTHRACYCLINES ET APPARENTES | L01DB01 - DOXORUBICINE
+Registration Numbers: 182/05 G 015/13
+Drug Codes: 05 G 015
+
+------------------------------------------------------------
+
+## Description
+
+Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius along side with daunorubicin, another cytotoxic agent, in 1970. 3 , 39 , 31 Although they both have aglyconic and sugar moieties, doxorubicin's side chain terminates with a primary alcohol group compared to the methyl group of daunorubicin. 39 Although its detailed molecular mechanisms have yet to be understood, doxorubicin is generally thought to exert its effect through DNA intercalation, which eventually leads to DNA damage and the generation of reactive oxygen species. 31 Thanks to its efficacy and broad effect, doxorubicin was approved by the FDA in 1974 to treat a variety of cancer, including but not limited to breast, lung, gastric, ovarian, thyroid, non-Hodgkin’s and Hodgkin’s lymphoma, multiple myeloma, sarcoma, and pediatric cancers. 1 , 31 , 42 However, one of the major side effects of doxorubicin is cardiotoxicity, which excludes patients with poor heart function and requires treatment termination once the maximally tolerated cumulative dose is reached. 40
+
+## Pharmacodynamics
+
+Doxorubicin is a cytotoxic, cell-cycle non-specific anthracycline antibiotic. 2 , 37 It is generally thought to exert its antitumor effect by destabilizing DNA structures through intercalation, thus introducing DNA strand breakages and damages. 34 , 35 , 37 Not only does it alter the transcriptomes of the cells, failure in repairing DNA structures can also initiate the apoptotic pathways. 37 , 38 Additionally, doxorubicin intercalation can also interfere with vital enzyme activity, such as topoisomerase II, DNA polymerase, and RNA polymerase, leading to cell cycle arrests. 37 Finally, doxorubicin can also generate cytotoxic reactive oxygen species to exert cellular damages. 29
+
+## Mechanism Of Action
+
+DNA topoisomerase 2-alpha Inhibitor DNA Intercalation DNA topoisomerase 2-beta Inhibitor
+
+## Absorption
+
+Following a 10 mg/m 2 administration of liposomal doxorubicin in patients with AIDS-related Kaposi's Sarcoma, the C max and AUC values were calculated to be 4.12 ± 0.215 μg/mL and 277 ± 32.9 μg/mL•h respectively. 41
+
+## Volume Of Distribution
+
+The steady-state distribution volume of doxorubicin ranges from 809 L/m 2 to 1214 L/m 2 . 42
+
+## Metabolism
+
+Doxorubicin is capable of undergoing 3 metabolic routes: one-electron reduction, two-electron reduction, and deglycosidation. However, approximately half of the dose is eliminated from the body unchanged. 6 The two-electron reduction is the major metabolic pathway of doxorubicin. 6 In this pathway, doxorubicin is reduced to doxorubicinol, a secondary alcohol, by various enzymes, including Alcohol dehydrogenase [NADP(+)], Carbonyl reductase NADPH 1, Carbonyl reductase NADPH 3, and Aldo-keto reductase family 1 member C3. 19 , 20 , 6 , 21 , 22 The one-electron reduction is facilitated by several oxidoreductase, both cytosolic and mitochondrial, to form a doxirubicin-semiquinone radical. 7 These enzymes include mitochondrial and cystolic NADPH dehydrogenates, xanthine oxidase, and nitric oxide synthases. 23 , 24 , 25 , 26 , 27 , 28 This semiquinone metabolite can be re-oxidized to doxorubicin, although with the concurrent formation of reactive oxygen species (ROS) and hydrogen peroxide. 29 It is the ROS generating through this pathway that contributes most to the doxorubicin-related adverse effects, particularly cardiotoxicity, rather than through doxorubicin semiquinone formation. 30 Deglycosidation is a minor metabolic pathway, since it only accounts for 1 to 2% of doxorubicin metabolism. 6 , 15 Under the catalysis of cytoplasmic NADPH quinone dehydrogenase, xanthine oxidase, NADPH-cytochrome P450 reductase, doxorubicin can either be reduced to doxorubicin deoxyaglycone or hydrolyzed to doxorubicin hydroxyaglycone. 16 , 17 , 18 Hover over products below to view reaction partners Doxorubicin Doxorubicinol Doxorubicine hydroxyaglycone Doxorubicinol deoxaglycone 4-O-demethyl deoxaglycone doxorubicinol Demethyldeoxaglycone doxorubicinol 4-O-b-glucuronide Demethyldeoxaglycone doxorubicinol 4-O-sulfate Doxorubicin-semiquinone Doxorubicin deoxaglycone Doxorubicinol deoxaglycone 4-O-demethyl deoxaglycone doxorubicinol Demethyldeoxaglycone doxorubicinol 4-O-b-glucuronide Demethyldeoxaglycone doxorubicinol 4-O-sulfate Doxorubicine hydroxyaglycone Doxirubicinol hydroxyaglycone
+
+## Route Of Elimination
+
+Approximately 40% of the dose appears in the bile in 5 days, while only 5% to 12% of the drug and its metabolites appear in the urine during the same time period. In urine, <3% of the dose was recovered as doxorubicinol over 7 days. 42
+
+## Half Life
+
+The terminal half-life of doxorubicin ranges from 20 hours to 48 hours. 42 The distribution half-life of doxorubicin is approximately 5 minutes. 42 For the liposomal formulation, the first-phase and second-phase half-lives were calculated to be 4.7 ± 1.1 and 52.3 ± 5.6 hours respectively for a 10 mg/m 2 of doxorubicin in patients with AIDS-Related Kaposi’s Sarcoma. 41
+
+## Clearance
+
+The plasma clearance of doxorubicin ranges from 324 mL/min/m2 to 809 mL/min/m 2 by metabolism and biliary excretion. 42 Sexual differences in doxorubicin were also observed, with men having a higher clearance compared to women (1088 mL/min/m 2 versus 433 mL/min/m 2 ). 42 Following the administration of doses ranging from 10 mg/m2 to 75 mg/m 2 of doxorubicin hydrochloride, the plasma clearance was estimated to be 1540 mL/min/m 2 in children greater than 2 years of age and 813 mL/min/m 2 in infants younger than 2 years of age. 42
+
+## Toxicity
+
+Doxorubicin hydrochloride treatment can increase the risk of secondary malignancies based on postmarketing reports. Doxorubicin hydrochloride was mutagenic in the in vitro Ames assay, and clastogenic in multiple in vitro assays (CHO cell, V79 hamster cell, human lymphoblast, and SCE assays) and the in vivo mouse micronucleus assay. 42 Doxorubicin hydrochloride decreased fertility in female rats at doses of 0.05 and 0.2 mg/kg/day (approximately 0.005 and 0.02 times the recommended human dose, based on body surface area). 42 In females of reproductive potential, Doxorubicin hydrochloride may cause infertility and result in amenorrhea. Premature menopause can occur. Recovery of menses and ovulation is related to age at treatment. 42 A single intravenous dose of 0.1 mg/kg doxorubicin hydrochloride (approximately 0.01 times the recommended human dose based on body surface area) was toxic to male reproductive organs in animal studies, producing testicular atrophy, diffuse degeneration of the seminiferous tubules, and oligospermia/hypospermia in rats. Doxorubicin hydrochloride induces DNA damage in rabbit spermatozoa and dominant lethal mutations in mice. 42 Based on findings in animals and its mechanism of action, Doxorubicin Hydrochloride Injection/for Injection can cause fetal harm when administered to a pregnant woman; avoid the use of Doxorubicin Hydrochloride Injection/for Injection during the 1st trimester. Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters. Doxorubicin hydrochloride was teratogenic and embryotoxic in rats and embryotoxic in rabbits when administered during organogenesis at doses approximately 0.07 times (based on body surface area) the recommended human dose of 60 mg/m2. Advise pregnant women of the potential risk to a fetus. 42 Based on postmarketing reports, pediatric patients treated with doxorubicin hydrochloride are at risk for developing late cardiovascular dysfunction. Risk factors include young age at treatment (especially < 5 years), high cumulative doses and receipt of combined modality therapy. Long-term periodic cardiovascular monitoring is recommended for all pediatric patients who have received doxorubicin hydrochloride. Doxorubicin hydrochloride, as a component of intensive chemotherapy regimens administered to pediatric patients, may contribute to prepubertal growth failure and may also contribute to gonadal impairment, which is usually
+temporary. 42

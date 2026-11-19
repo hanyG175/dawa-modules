@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_R_166
+DCI: Fluorometholone/Cromoglycate De Sodium
+DrugBank ID: DB00324
+DrugBank Name: Fluorometholone
+Brand Names: OPTIF PLUS
+Pharmaceutical Forms: Suspension
+Dosages: 1mg/20mg**/ml
+Packaging: flacon/5ml
+Registration Numbers: 608/17 R 166/12/24
+Drug Codes: 17 R 166
+
+------------------------------------------------------------
+
+## Description
+
+A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+
+## Pharmacodynamics
+
+Corticosteroids such as fluorometholone inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation.
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Toxicity
+
+Side effects may include acute anterior uveitis and perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, mydriasis, conjunctival hyperemia, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. LD 50 = 234 mg/kg (rats)

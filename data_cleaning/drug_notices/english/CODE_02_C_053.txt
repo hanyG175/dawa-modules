@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_C_053
+DCI: AMITRIPTYLINE (chlorhydrate) 40 mg/ml sol buv en gte (AMITRIPTYLINE BIOGARAN) | sodium chlorure
+DrugBank ID: DB09009
+DrugBank Name: Articaine
+Brand Names: ARTINIBSA 4% AVEC EPINEPHRINE 1: 100.000 | ORABLOC 1/100000 | SEPTANEST ADRENALINE 1/100 000
+Pharmaceutical Forms: Solution
+Dosages: 40mg/0.001mg par 1ml | 40mg/ml . 0.01mg/ml | 4g/1mg/100ml
+Packaging: b/50 cartouche de 1.7ml | b/50 cartouche de 1.8ml | boite de 100 cartouches
+Laboratories: SERB
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B05 - SUBSTITUTS DU SANG ET SOLUTIONS DE PERFUSION | B05X - ADDITIFS POUR SOLUTIONS INTRAVEINEUSES | B05XA - SOLUTIONS D'ELECTROLYTES | B05XA03 - SODIUM CHLORURE | N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06A - ANTIDEPRESSEURS | N06AA - INHIBITEURS NON SELECTIFS DE LA RECAPTURE DE LA MONOAMINE | N06AA09 - AMITRIPTYLINE
+Registration Numbers: 044/02 C 053/03/23 | 299/02 C 053/18 | 604/02 C 053/23
+Drug Codes: 02 C 053
+
+------------------------------------------------------------
+
+## Description
+
+Articaine is a dental local anesthetic. Articaine is widely used around the world and is the most popular local anesthetic in many European countries.
+
+## Mechanism Of Action
+
+Voltage-gated sodium channel alpha subunit Inhibitor

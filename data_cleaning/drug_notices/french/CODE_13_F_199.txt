@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_F_199
+DCI: Metronidazole
+Brand Names: METRONIDAZOLE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 500MG
+Packaging: B/20
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 160 DA
+PPA (DA): 160.00 DA
+Prescription List: Liste I
+ATC Classification: 13F199
+Registration Numbers: 003/13 F 199/05/16 | 035/13 F 199/11/25 | 039/13 F 199/21 | 235/13 F 199/24 | 263/13 F 199/12/25 | 268/13 F 199/16/23 | 318/13 F 199/23 | 352/13 F 199/00/24 | 380/13 F 199/14 | 447/13 F 199/15/25 | 470/13 F 199/13/24 | 528/13 F 199/18
+Drug Codes: 13 F 199
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+NITRO-5-IMIDAZOLES

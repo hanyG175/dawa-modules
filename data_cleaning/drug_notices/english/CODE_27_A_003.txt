@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_A_003
+DCI: MYCOPHENOLATE MOFETIL 250 mg gél (MYCOPHENOLATE MOFETIL TEVA)
+DrugBank ID: DB00688
+DrugBank Name: Mycophenolate mofetil
+Brand Names: MMF
+Pharmaceutical Forms: Comprimé
+Dosages: 250 mg
+Packaging: b/24
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AA - IMMUNOSUPPRESSEURS SELECTIFS | L04AA06 - ACIDE MYCOPHENOLIQUE
+Registration Numbers: 317/27 A 003/13/23
+Drug Codes: 27 A 003
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Mycophenolate mofetil is a prodrug of mycophenolic acid (MPA). The active form of mycophenolate, MPA, prevents the proliferation of immune cells and the formation of antibodies that cause transplant rejection. 3 The above effects lead to higher rates of successful transplantation, avoiding the devastating effects of graft rejection.
+
+## Mechanism Of Action
+
+Inosine-5'-monophosphate dehydrogenase 1 Inhibitor Inducer Inosine-5'-monophosphate dehydrogenase 2 Inhibitor
+
+## Absorption
+
+Mycophenolate mofetil is rapidly absorbed in the small intestine. 13 , 10 The maximum concentration of its active metabolite, MPA, is attained 60 to 90 minutes following an oral dose. 6 The average bioavailability of orally administered mycophenolate mofetil in a pharmacokinetic study of 12 healthy patients was 94%. In healthy volunteers, the Cmax of mycophenolate mofetil was 24.5 (±9.5)μg/mL. 13 In renal transplant patients 5 days post-transplant, Cmax was 12.0 (±3.82) μg/mL, increasing to 24.1 (±12.1)μg/mL 3 months after transplantation. AUC values were 63.9 (±16.2) μg•h/mL in healthy volunteers after one dose, and 40.8 (±11.4) μg•h/mL, and 65.3 (±35.4)μg•h/mL 5 days and 3 months after a renal transplant, respectively. 13 The absorption of mycophenolate mofetil is not affected by food. 6
+
+## Volume Of Distribution
+
+The volume of distribution of mycophenolate mofetil is 3.6 (±1.5) to 4.0 (±1.2) L/kg. 13
+
+## Metabolism
+
+After both oral and intravenous administration mycophenolate mofetil is entirely metabolized by liver carboxylesterases 1 and 2 to mycophenolic acid (MPA), the active parent drug. It is then metabolized by the enzyme glucuronyl transferase, producing the inactive phenolic glucuronide of MPA (MPAG). 13 The glucuronide metabolite is important, as it is then converted to MPA through enterohepatic recirculation. Mycophenolate mofetil that escapes metabolism in the intestine enters the liver via the portal vein and is transformed to pharmacologically active MPA in the liver cells. 10 N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide portion of N-(2-hydroxyethyl)-morpholine are additional metabolites of MMF occurring in the intestine as a result of liver carboxylesterase 2 activity. 10 , 13 UGT1A9 and UGT2B7 in the liver are the major enzymes contributing to the metabolism of MPA in addition to other UGT enzymes, which also play a role in MPA metabolism. The four major metabolites of MPA are 7-O-MPA-β-glucuronide (MPAG, inactive), MPA acyl-glucuronide (AcMPAG), produced by uridine 5ʹ-diphosphate glucuronosyltransferases (UGT) activities, 7-O-MPA glucoside produced via UGT, and small amounts 6-O-des-methyl-MPA (DM-MPA) via CYP3A4/5 and CYP2C8 enzymes. 6 Hover over products below to view reaction partners Mycophenolate mofetil Mycophenolic acid 7-O-MPA glucoside 6-O-desmethyl-MPA (DM-MPA) Mycophenolic acid glucuronide + Mycophenolic acyl-glucuronide (AcMPAG) N-(2-carboxymethyl)-morpholine N-(2-hydroxyethyl)-morpholine N-(2-hydroxyethyl)-morpholine N-oxide
+
+## Route Of Elimination
+
+A small amount of drug is excreted as MPA in the urine (less than 1%). When mycophenolate mofetil was given orally in a pharmacokinetic study, it was found to be 93% excreted in urine and 6% excreted in feces. Approximately 87% of the entire administered dose is found to be excreted in the urine as MPAG, an inactive metabolite. 6 , 13
+
+## Half Life
+
+The average apparent half-life of mycophenolate mofetil is 17.9 (±6.5) hours after oral administration and 16.6 (±5.8) hours after intravenous administration. 13
+
+## Clearance
+
+Plasma clearance of mycophenolate mofetil is 193 mL/min after an oral dose and 177 (±31) mL/min after an intravenous dose. 13
+
+## Toxicity
+
+LD50 The LD50 of oral mycophenolate mofetil in rats is 250 mg/kg and >4000 mg/kg in mice. 14 Overdose information Possible signs and symptoms of acute overdose may consist of hematological abnormalities including leukopenia and neutropenia, and gastrointestinal symptoms. 6 , 7 , 8

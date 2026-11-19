@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_B_005
+DCI: Paracetamol
+Brand Names: PARACETAMOL BIOCARE
+Pharmaceutical Forms: Poudre Sol. Buv.
+Dosages: 500MG
+Packaging: B/12
+Laboratories: BIOCARE LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 30 DA
+PPA (DA): 152.00 DA
+Prescription List: N/D
+Registration Numbers: 003/03 B 005/96/23 | 039/03 B 005/98/23 | 079/03 B 005/97/13 | 201/03 B 005/96/17 | 235/03 B 005/00/24 | 268/03 B 005/06/21 | 318/03 B 005/16/23 | 462/03 B 005/15 | 607/03 B 005/25
+Drug Codes: 03 B 005
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement antipyrétique au cours des affections bronchiques aiguës bénignes.
+
+## Posology
+
+Mode d’administration | Voie rectale | Posologie | Cette présentation est RESERVEE A L'ADULTE ET A L'ENFANT à partir de 25 kg (soit environ à partir de 8 ans). | Chez l'enfant, il est impératif de respecter les posologies définies en fonction du poids de l'enfant et donc de choisir une présentation adaptée. Les âges approximatifs en fonction du poids sont donnés à titre d'information. | La dose quotidienne de paracétamol recommandée dépend du poids de l'enfant : elle est d'environ 60 mg/kg/jour, à répartir en 4 prises, soit environ 15 mg/kg toutes les 6 heures. | En raison du risque de toxicité locale, l'administration d'un suppositoire n'est pas conseillée au delà de 4 fois par jour, et le traitement par voie rectale doit être la plus courte possible. | En cas de diarrhée, l'administration de suppositoire n'est pas recommandée. | La posologie est d'un suppositoire à 500 mg, à renouveler si besoin au bout de 6 heures, sans dépasser 4 suppositoires par jour. | Doses maximales recommandées : La dose totale par jour de paracétamol ne devrait pas dépasser 80 mg/kg chez l'enfant de moins de 37 kg et 3 g chez l'adulte et le grand enfant au-delà de 38 kg. (voir rubrique 4.9). | Fréquence d'administration : | · Les prises systématiques permettent d'éviter les oscillations de douleur ou de fièvre : | · Chez l'enfant, elles doivent être régulièrement espacées, y compris la nuit. | Insuffisance rénale : | En cas d'insuffisance rénale sévère (clairance de la créatinine inférieure à 10 ml/min), l'intervalle entre deux prises sera au minimum de 8 heures .
+
+## Contraindications
+
+· Hypersensibilité au paracétamol ou aux autres constituants, | · Insuffisance hépatocellulaire, | · Antécédent récent de rectites, d’anites ou de rectorragies.
+
+## Precautions
+
+Mises en garde spéciales | En cas d'antécédents d'épilepsie tenir compte de la présence de terpènes. | Pour éviter un risque de surdosage, vérifier l'absence de paracétamol clans la composition d'autres médicaments. | La dose totale de paracétamol par jour ne devrait pas dépasser 80 mg/kg chez l'enfant de moins de 37 kg et 3 g chez l'adulte et le grand enfant au-delà de 38 kg. (voir rubrique 4.9). | Avec les suppositoires, il y a un risque de toxicité locale, d'autant plus fréquent et intense que la durée de traitement est prolongée, le rythme d'administration est élevé et la posologie est forte. | Précautions d'emploi | · Chez un enfant traité par 60 mg/kg/jour de paracétamol, l'association d'un autre antipyrétique n'est justifiée qu'en cas d'inefficacité. | · En cas de diarrhée, la forme suppositoire n'est pas adaptée.
+
+## Interactions
+
+· Interactions avec les examens paracliniques : La prise de paracétamol peut fausser le dosage de l'acide urique sanguin par la méthode à l'acide phosphotungstique et le dosage de la glycémie par la méthode à. la glucose oxydase-peroxydase.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Paracétamol : | De nombreuses données chez la femme enceinte n'indiquent aucune toxicité malformative ou foeto/néonatale. Les études épidémiologiques sur le développement neurologique chez les enfants exposés au paracétamol in utero montrent des résultats non concluants. | Substances à base de plante : | Il n’existe pas de donnée ou des données limitées sur l’utilisation de l'huile essentielle de niaouli, des extraits mous de grindélia et de gelsémium chez la femme enceinte. Des études chez l'animal ont montré une reprotoxicité (voir rubrique 5.3). | En conséquence, COQUELUSEDAL PARACETAMOL 500 mg, suppositoire, est déconseillé pendant la grossesse | Allaitement | Il n’existe pas de données suffisantes sur l’excrétion de l'huile essentielle de niaouli, des extraits mous de grindélia et de gelsémium dans le lait maternel. | Un risque pour l'enfant allaité ne peut être exclu. | COQUELUSEDAL PARACETAMOL 500 mg, suppositoire, ne doit pas être utilisé pendant l’allaitement. | Fertilité | En raison du mécanisme d’action potentiel sur les cyclo-oxygénases et la synthèse de prostaglandines, le paracétamol pourrait altérer la fertilité chez la femme, par un effet sur l’ovulation réversible à l’arrêt du traitement. | Des effets sur la fertilité des mâles ont été observés dans une étude chez l'animal. La pertinence de ces effets chez l'homme n'est pas connue.
+
+## Mechanism Of Action
+
+ANTALGIQUE péripherique | ANTIPYRETIQUE | (N. Système nerveux central ) | ( R. Système respiratoire ) | Association de paracétamol, d'extraits de grindélia et de gelsémium: phytothérapie à visée antitussive et d'huile essentielle de niaouli : traditionnellement considéré comme un antiseptique des voies respiratoires. | Les dérivés terpéniques peuvent abaisser le seuil épileptogène.
+
+## Adverse Effects
+
+· Quelques rares cas d'accidents allergiques (simples rashs cutanés avec érythème ou urticaire) ont été observés et nécessitent l'arrêt du traitement. | · De très exceptionnels cas de thrombopénies ont été signalés. | · Irritation rectale et anale. | · En cas de non-respect des doses préconisées : possibilité d'agitation et de convulsion chez les sujets âgés. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : www.signalement-sante.gouv.fr .
+
+## Conservation
+
+A conserver à une température inférieure à 25°C.

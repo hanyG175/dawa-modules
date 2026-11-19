@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_170
+DCI: Chlorure De Sodium
+Brand Names: CHLORURE DE SODIUM BIEFFE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 0.009
+Packaging: POCHE DE 500ML
+Laboratories: BIEFFE MEDITAL
+Countries: ITALIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: N/D
+ATC Classification: 14G078
+Registration Numbers: 075/14 G 170/00
+Drug Codes: 14 G 170
+
+------------------------------------------------------------
+
+## Indications
+
+METABOLISME NUTRITION DIABETE
+
+## Mechanism Of Action
+
+ELEMENTS MINERAUX & EQUILIBRE HYDRO-ELECTROLYTIQUE

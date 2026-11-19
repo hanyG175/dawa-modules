@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_063
+DCI: BENZATHINE BENZYLPENICILLINE 1,2 M UI pdre/solv p susp inj (EXTENCILLINE) | BENZYLPENICILLINE SODIQUE 1 M UI pdre p sol inj (PENICILLINE G PANPHARMA)
+DrugBank ID: DB01053
+DrugBank Name: Benzylpenicillin
+Brand Names: GECTAPEN | PENI G BIOCARE
+Pharmaceutical Forms: Poudre | Poudre P. Susp. Inj. Im
+Dosages: 1 m.UI/fl. de pdre. | 1mui/flc
+Packaging: b/01 flacon. de pdre. + 01 ampoule. de 5ml de solv.(eppi) et b/50fl. de pdre. | b/flc de pdre et 1amp 5ml
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CE - PENICILLINES SENSIBLES AUX BETALACTAMASES | J01CE08 - BENZATHINE BENZYLPENICILLINE
+Registration Numbers: 003/13 G 063/98/21 | 293/13 G 063/11
+Drug Codes: 13 G 063
+
+------------------------------------------------------------
+
+## Description
+
+Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms. Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae , groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus ( S. agalactiae ), S. viridans , and Enterococcus faecalis . The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis , Corynebacterium diphtheriae , and Erysipelothrix rhusiopathiae . Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella . They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+
+## Pharmacodynamics
+
+Penicillin G is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name "penicillin" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Penicillin G has in vitro activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of penicillin G results from the inhibition of cell wall synthesis and is mediated through penicillin G binding to penicillin binding proteins (PBPs). Penicillin G is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
+
+## Mechanism Of Action
+
+By binding to specific penicillin-binding proteins (PBPs) located inside the bacterial cell wall, penicillin G inhibits the third and last stage of bacterial cell wall synthesis. Cell lysis is then mediated by bacterial cell wall autolytic enzymes such as autolysins; it is possible that penicillin G interferes with an autolysin inhibitor. Target Actions Organism U Penicillin-binding protein 1C binder Escherichia coli (strain K12) U Penicillin-binding protein 1B binder Escherichia coli (strain K12) U Penicillin-binding protein 1A binder Escherichia coli (strain K12) U Peptidoglycan D,D-transpeptidase FtsI binder Escherichia coli (strain K12) U Penicillin-binding protein 3 inhibitor Staphylococcus aureus (strain USA300) U Organic anion transporter 3 substrate inhibitor Humans U Solute carrier family 15 member 1 substrate inhibitor Humans U Solute carrier family 15 member 2 substrate inhibitor Humans
+
+## Absorption
+
+Rapidly absorbed following both intramuscular and subcutaneous injection. Initial blood levels following parenteral administration are high but transient. Oral absorption in fasting, healthy humans is only about 15-30% as it is very susceptible to acid-catalyzed hydrolysis.
+
+## Volume Of Distribution
+
+0.53–0.67 L/kg in adults with normal renal function
+
+## Metabolism
+
+About 16-30% of an intramuscular dose is metabolized to penicilloic acid, an inactive metabolite. Small amounts of 6-aminopenicillanic acid have been recovered in the urine of patients on penicillin G. A small percentage of the drug appears to be hydroxylated into one or more active metabolites, which are also excreted via urine. Hover over products below to view reaction partners Benzylpenicillin 6-aminopenicillanic acid Penicilloic acid
+
+## Route Of Elimination
+
+Penicillin G is eliminated by the kidneys. Nonrenal clearance includes hepatic metabolism and, to a lesser extent, biliary excretion.
+
+## Half Life
+
+In adults with normal renal function is reportedly 0.4–0.9 hours
+
+## Clearance
+
+560ml/min in healthy humans
+
+## Toxicity
+
+Oral LD 50 in rat is 8900 mg/kg MSDS . Neurological adverse reactions, including convulsions, may occur with the attainment of high CSF levels of beta-lactams. Neutropenia can occur if high doses are administered consistently for over 2 weeks.

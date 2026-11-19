@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_D_046
+DCI: HYDROXOCOBALAMINE ACETATE 0,5 mg/ml sol inj (DODECAVIT)
+Brand Names: EURITM 100 | FLECACARD | FLECALUR | FLECAR
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/30
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AB - ANTIDOTES | V03AB33 - HYDROXOCOBALAMINE
+Registration Numbers: 001/06 D 046/21 | 149/06 D 046/19 | 268/06 D 046/22 | 470/06 D 046/21
+Drug Codes: 06 D 046
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | flacon | hydroxocobalamine : 5 g | Modalités d'administration | Voie intraveineuse | A reconstituer et à diluer avant administration | Ne pas agiter le flacon | Posologie | Patient jusqu'à 18 an(s) | Patient quel que soit le poids | Intoxication cyanhydrique | Dose initiale | Administrer par perfusion intraveineuse de 15 minutes | 0,07 g/kg 1 fois ce jour | Dose ultérieure éventuelle | Dans le cas de : Intoxication importante, Patient faiblement répondeur | Administrer par perfusion intraveineuse de 15 minutes à 2 heures | 0,07 g/kg 1 fois ce jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Intoxication cyanhydrique | Dose initiale | Administrer par perfusion intraveineuse de 15 minutes | 5 g 1 fois ce jour | Dose ultérieure éventuelle | Dans le cas de : Intoxication importante, Patient faiblement répondeur | Administrer par perfusion intraveineuse de 15 minutes à 2 heures | 5 g 1 fois ce jour | Posologies maximales | Dose maximale par prise: 5 g
+
+## Precautions
+
+Allaitement | Grossesse | Patient en hémodialyse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Hydroxocobalamine : Mécanisme d'action | L'hydroxocobalamine est la forme naturelle de la vitamine B | 12 | . | En nutrition, la vitamine B | 12 | est absorbée au niveau de l'iléon terminal par deux mécanismes, un mécanisme passif lorsque les quantités sont importantes, et un mécanisme actif qui permet l'absorption des doses physiologiques et pour lequel la présence du facteur intrinsèque est indispensable. Le pic sérique est atteint une heure après l'injection intramusculaire. L'excrétion se fait principalement par voie urinaire. | En toxicologie, l'action de l'hydroxocobalamine pour le traitement de l'intoxication au cyanure repose sur sa capacité à se lier fortement aux ions cyanures. Chaque molécule d'hydroxocobalamine peut se lier à un ion cyanure par substitution du ligand hydroxo lié à l'ion | cobalt | trivalent pour former de la | cyanocobalamine | . La | cyanocobalamine | est un composé stable et non toxique, excrété dans l'urine.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Coloration muqueuse (Très fréquent) | - Coloration de la peau (Très fréquent) | - Eruption pustuleuse | - Eruption cutanée | - Prurit | - Urticaire | DIVERS: | - Gêne thoracique | - Oedème périphérique | HÉMATOLOGIE: | - Lymphopénie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Oedème de Quincke | INSTRUMENTATION: | - Réaction au point d'injection | NUTRITION, MÉTABOLISME: | - Dysphagie | OPHTALMOLOGIE: | - Oedème oculaire | - Irritation oculaire | - Rougeur oculaire | ORL, STOMATOLOGIE: | - Sécheresse pharyngée | - Sensation de constriction pharyngée | - Vertige | PSYCHIATRIE: | - Agitation | SYSTÈME CARDIOVASCULAIRE: | - Pression artérielle (augmentation) | - Extrasystole ventriculaire | - Bouffée de chaleur | - Pression artérielle (diminution) | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Diarrhée | - Dyspepsie | - Gêne abdominale | SYSTÈME NERVEUX: | - Trouble de la mémoire | - Céphalée | SYSTÈME RESPIRATOIRE: | - Epanchement pleural | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Lithiase oxalique | - Nécrose tubulaire aiguë | - Insuffisance rénale aiguë | - Couleur de l'urine (modification)

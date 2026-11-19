@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_106
+DCI: RIVASTIGMINE (hydrogénotartrate) 1,5 mg gél (RIVASTIGMINE ARROW)
+DrugBank ID: DB00989
+DrugBank Name: Rivastigmine
+Brand Names: RESTILON | RIVASTI
+Pharmaceutical Forms: Gélule
+Dosages: 1.5mg
+Packaging: b/1 flacon de 60 | b/30
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06D - MEDICAMENTS CONTRE LA DEMENCE | N06DA - ANTICHOLINESTERASIQUES | N06DA03 - RIVASTIGMINE
+Registration Numbers: 263/15 F 106/16 | 352/15 F 106/16/22
+Drug Codes: 15 F 106
+
+------------------------------------------------------------
+
+## Description
+
+Rivastigmine is a parasympathomimetic or cholinergic agent for the treatment of mild to moderate dementia of the Alzheimer's type. Rivastigmine is a cholinesterase inhibitor that inhibits both butyrylcholinesterase and acetylcholinesterase.
+
+## Pharmacodynamics
+
+Rivastigmine is a parasympathomimetic and a reversible cholinesterase inhibitor. An early pathophysiological feature of Alzheimer's disease that is associated with memory loss and cognitive deficits is a deficiency of acetylcholine as a result of selective loss of cholinergic neurons in the cerebral cortex, nucleus basalis, and hippocampus. Tacrine is postulated to exert its therapeutic effect by enhancing cholinergic function. While the precise mechanism of rivastigmine's action is unknown, it is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase. If this proposed mechanism is correct, rivastigmine's effect may lessen as the disease progresses and fewer cholinergic neurons remain functionally intact.
+
+## Mechanism Of Action
+
+Acetylcholinesterase Inhibitor Cholinesterase Inhibitor
+
+## Volume Of Distribution
+
+1.8 to 2.7 L/kg
+
+## Metabolism
+
+Rivastigmine is rapidly metabolized by cholinesterase-mediated hydrolysis.
+
+## Route Of Elimination
+
+Rivastigmine is extensively metabolized primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite NAP226-90. Renal excretion of the metabolites is the major route of elimination. Less than 1% of the administered dose is excreted in the feces.
+
+## Half Life
+
+1.5 hours
+
+## Clearance
+
+renal cl=2.1-2.8 L/hr

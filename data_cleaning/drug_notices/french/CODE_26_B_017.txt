@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_017
+DCI: Eosine Aqueuse
+Brand Names: EOSINE AQUEUSE - GIFRER & BARBEZAT
+Pharmaceutical Forms: Sol. Externe
+Dosages: 0.02
+Packaging: FL/100ML
+Laboratories: GIFRER BARBEZAT
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: N/D
+ATC Classification: 26B017
+Registration Numbers: 088/26 B 017/03
+Drug Codes: 26 B 017
+
+------------------------------------------------------------
+
+## Indications
+
+DIVERS
+
+## Mechanism Of Action
+
+ASEPSIE & DESINFECTION

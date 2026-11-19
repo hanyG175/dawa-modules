@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_295
+DCI: PRAVASTATINE SODIQUE 10 mg cp (PRAVASTATINE ACCORD)
+Brand Names: PRASIVAST
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA03 - PRAVASTATINE
+Registration Numbers: 352/06 M 295/12/22
+Drug Codes: 06 M 295
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | pravastatine sodique : 20 mg | Modalités d'administration | Voie orale | Administrer de préférence le soir | Administrer indépendamment de la prise des repas | Posologie à adapter en fonction de la réponse clinique | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 8 an(s) à 14 an(s) | Patient quel que soit le poids | Hypercholestérolémie familiale hétérozygote | Posologie standard | 10 à 20 mg 1 fois par jour | Posologie maximale: 20 mg par jour | Patient de 14 an(s) à 18 an(s) | Patient quel que soit le poids | Hypercholestérolémie familiale hétérozygote | Posologie standard | 10 à 40 mg 1 fois par jour | Posologie maximale: 40 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypercholestérolémie de type II - Hypercholestérolémie familiale hétérozygote | Posologie standard | Posologie à augmenter par palier à intervalles d'au moins 4 semaines | 10 à 40 mg 1 fois par jour | Posologie maximale: 40 mg par jour | Infarctus du myocarde en cas d'hypercholestérolémie modérée ou sévère, traitement préventif (de l') - Infarctus du myocarde en cas de cholestérolémie normale ou élevée, prévention secondaire (de l') | Posologie standard | 40 mg 1 fois par jour | Hyperlipidémie post-transplantation chez le patient sous immunosuppresseur | Traitement initial | 20 mg 1 fois par jour | Traitement ultérieur | 20 à 40 mg 1 fois par jour | Posologie maximale: 40 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Antécédent d'hépatopathie | Antécédent de myopathie | Antécédent de myopathie acquise due à une statine ou un fibrate | Antécédent familial de myopathie | Consommation d'alcool importante | CPK > 5 fois la limite supérieure normale | Enfant de moins de 8 ans | Hypothyroïdie | Insuffisance hépatique | Insuffisance rénale | Myasthénie | Patient à risque de diabète | Sujet de plus de 70 ans | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Pravastatine : Mécanisme d'action | La pravastatine est un inhibiteur compétitif de l'hydroxy-3 méthyl-3 glutaryl coenzyme A (HMG Co-A) réductase, enzyme agissant dans les premières étapes de la biosynthèse du | cholestérol | , et produit son effet hypolipidémiant de deux façons. | En premier lieu, de par son inhibition compétitive réversible et spécifique de la HMG Co-A réductase, elle induit une diminution modérée de la synthèse de | cholestérol | intracellulaire. Cela induit une augmentation du nombre des récepteurs de LDL à la surface des cellules ainsi qu'un catabolisme via ces récepteurs et une clairance du LDL- | cholestérol | circulant renforcés. | En second lieu, la pravastatine inhibe la production des LDL en inhibant la synthèse hépatique du VLDL- | cholestérol | , précurseur du LDL- | cholestérol | . Chez les sujets sains tout comme chez les patients hypercholestérolémiques, la pravastatine sodique abaisse les valeurs des paramètres lipidiques suivantes : | cholestérol | total, LDL- | cholestérol | , apolipoprotéine B, VLDL- | cholestérol | et | triglycérides | ; le HDL- | cholestérol | et l'apolipoprotéine A sont quant à eux augmentés.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ASAT (augmentation) | - Myoglobinurie | - Transaminases (augmentation) | - CPK (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Pathologie du cuir chevelu (Peu fréquent) | - Trouble des cheveux (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Photosensibilisation (Rare) | - Alopécie | - Eruption lichénoïde | DIVERS: | - Fatigue (Peu fréquent) | - Trouble sexuel (Peu fréquent) | HÉPATOLOGIE: | - Hépatite (Très rare) | - Ictère (Très rare) | - Nécrose hépatique (Très rare) | - Insuffisance hépatique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Dermatomyosite (Très rare) | - Réaction anaphylactique | - Angioedème | NUTRITION, MÉTABOLISME: | - Diabète | OPHTALMOLOGIE: | - Trouble de la vision (Peu fréquent) | - Vision floue | - Diplopie | ORL, STOMATOLOGIE: | - Sensation de vertige (Peu fréquent) | PSYCHIATRIE: | - Insomnie (Peu fréquent) | - Trouble du sommeil (Peu fréquent) | - Dépression | - Cauchemar | SYSTÈME DIGESTIF: | - Dyspepsie (Peu fréquent) | - Pyrosis (Peu fréquent) | - Constipation (Peu fréquent) | - Nausée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Flatulence (Peu fréquent) | - Diarrhée (Peu fréquent) | - Pancréatite (Très rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Tendinopathie (Peu fréquent) | - Polymyosite (Très rare) | - Myopathie (Très rare) | - Rhabdomyolyse (Très rare) | - Myosite (Très rare) | - Trouble musculaire (Très rare) | - Syndrome de type lupus | - Déchirure musculaire | - Douleur musculaire | - Rupture de tendon | - Douleur articulaire | - Tendinite | - Myopathie nécrosante à médiation immunitaire | - Douleur musculo-squelettique | - Crampe | - Faiblesse musculaire | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | - Paresthésie (Très rare) | - Polyneuropathie (Très rare) | - Trouble de la mémoire | - Myasthénie | - Myasthénie oculaire | - Perte de mémoire | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle (Exceptionnel) | UROLOGIE, NÉPHROLOGIE: | - Dysurie (Peu fréquent) | - Nycturie | - Fréquence de miction anormale | - Insuffisance rénale aiguë

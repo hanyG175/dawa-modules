@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_A_069
+DCI: Gadobutrol
+DrugBank ID: DB06703
+DrugBank Name: Gadobutrol
+Brand Names: GADOVIST
+Pharmaceutical Forms: Solution
+Dosages: 604.72mg/ml (soit 157.25mg/ml en gadolinium)
+Packaging: flacon./7.5ml - flacon./15ml
+Laboratories: BAYER HEALTHCARE SAS | 1 RUE CLAUDE BERNARD | 59000 LILLE
+Registration Numbers: 424/08 A 069/10/16
+Drug Codes: 08 A 069
+
+------------------------------------------------------------
+
+## Description
+
+Gadobutrol is a second-generation extracellular non-ionic macrocyclic GBCA (gadolinium-based contrast agent) used in magnetic resonance imaging (MRI) in adults and children older than 2 years of age. Due to its physicochemical properties, gadobutrol is
+formulated at twice the gadolinium ion concentration compared to other GBCA and thus requires a lesser injection volume. 1 Like other GBCA, gadobutrol usage carries the risk of nephrogenic systemic fibrosis (NSF) due to the dissociation of gadolinium from the chelates, although gadobutrol tends to have a lower risk of NSF thanks to the macrocyclic structures that limit dechelation of gadolinium. 1
+
+## Pharmacodynamics
+
+Gadobutrol leads to distinct shortenings of relaxation times even in low concentrations. At pH 7, 37°C and 1.5 T, the
+relaxivity (r1) - determined from the influence on the relaxation times (T1) of protons in plasma - is 5.2 L/(mmol·sec) and
+the relaxivity (r2) - determined from the influence on the relaxation times (T2) - is 6.1 L/(mmol·sec). These relaxivities
+display only slight dependence on the strength of the magnetic field. 6
+
+## Mechanism Of Action
+
+In MRI, visualization of normal and pathological tissue depends in part on variations in the radiofrequency signal intensity that occur with differences in proton density, the spin-lattice or longitudinal relaxation times (T1), and the spin-spin or transverse relaxation time (T2). 6 When placed in a magnetic field, gadobutrol shortens the T1 and T2 relaxation times. The extent of decrease of T1 and T2 relaxation times, and therefore the amount of signal enhancement obtained from gadobutrol, is based upon several factors including the concentration of gadobutrol in the tissue, the field strength of the MRI system, and the relative ratio of the longitudinal and transverse relaxation times. At the recommended dose, the T1 shortening effect is observed with the greatest sensitivity in T1-weighted magnetic resonance sequences. In T2*-weighted sequences, the induction of local magnetic field inhomogeneities by the large magnetic moment of gadolinium and at high concentrations (during bolus injection) leads to a signal decrease. 6
+
+## Absorption
+
+After intravenous administration, gadobutrol is rapidly distributed in the extracellular space. After a gadobutrol dose of 0.1 mmol/kg body weight, an average level of 0.59 mmol gadobutrol/L was measured in plasma 2 minutes after the injection and 0.3 mmol gadobutrol/L 60 minutes after the injection. Gadobutrol does not display any particular protein binding. Following GBCA administration, gadolinium is present for months or years in the brain, bone, skin, and other organs. 6 The mean AUC of gadobutrol in patients with normal renal function was 1.1 ± 0.1 mmol∙h/L, compared to 4.0 ± 1.8 mmol∙h/L in patients with mild to moderate renal impairment and 11.5 ± 4.3 mmol∙h/L in patients with severe renal impairment. 6
+
+## Volume Of Distribution
+
+In children aged 2 to 17, the body weight-normalized median total volumes of distribution (L/kg) were estimated to be 0.20 (0.12, 0.28) for all ages, 0.24 (0.20, 0.28) in the 2 to 6-year age group, 0.19 (0.14, 0.23) in the 7 to 11 year age group and 0.18 (0.092, 0.23) in the 12 to 17 year age group. 4
+
+## Metabolism
+
+Gadobutrol is not metabolized. 6
+
+## Route Of Elimination
+
+Gadobutrol is excreted in an unchanged form via the kidneys. Within two hours after intravenous administration more than 50% and within 12 hours more than 90% of the given dose is eliminated via the urine. Extra-renal elimination is negligible. 6
+
+## Half Life
+
+For adult patients, the half-life was estimated to be 1.80 (1.20, 6.55) hours. For pediatric aged 0 to <2 years, 2 to 6 years, 7 to 11 years, and 12 to < 18 years, the half-life was calculated to be 2.91 (1.60, 12.4), 1.91 (1.04, 2.70), 1.66 (0.91, 2.71), and 1.68 (1.31, 2.48) hours respectively. 6
+
+## Clearance
+
+In healthy subjects, renal clearance is 1.1 - 1.7mL/(min·kg). Clearance was observed to be slightly lower in elderly subjects, when using a 0.1 mmol/kg dose. 6
+
+## Toxicity
+
+GBCAs cross the placenta and result in fetal exposure and gadolinium retention. The human data on the association between GBCAs and adverse fetal outcomes are limited and inconclusive. In animal reproduction studies, although teratogenicity was not observed, embryo-lethality was observed in monkeys, rabbits, and rats receiving intravenous gadobutrol during organogenesis at doses 8 times and above the recommended human dose. Retardation of embryonal development was observed in rabbits and rats receiving intravenous gadobutrol during organogenesis at doses 8 and 12 times, respectively, the recommended human dose. Because of the potential risks of gadolinium to the fetus, use Gadavist only if imaging is essential during pregnancy and cannot be delayed. 6 The maximum dose of gadobutrol tested in healthy volunteers, 1.5 mL/kg body weight (1.5 mmol/kg; 15 times the recommended dose), was tolerated in a manner similar to lower doses. Gadobutrol can be removed by hemodialysis [ No carcinogenicity studies of gadobutrol have been conducted. 6 Gadobutrol was not mutagenic in in vitro reverse mutation tests in bacteria, in the HGPRT (hypoxanthine-guanine phosphoribosyl transferase) test using cultured Chinese hamster V79 cells, or in chromosome aberration tests in human peripheral blood lymphocytes, and was negative in an in vivo micronucleus test in mice after intravenous injection of 0.5 mmol/kg. 6 Gadobutrol had no effect on fertility and general reproductive performance of male and female rats when given in doses 12.2 times the human equivalent dose (based on body surface area). 6 Local intolerance reactions, including moderate irritation associated with infiltration of inflammatory cells was observed after paravenous administration to rabbits, suggesting the possibility of occurrence of local irritation if the contrast medium leaks around veins in a clinical setting. 6

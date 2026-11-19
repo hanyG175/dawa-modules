@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_163
+DCI: GEFITINIB 250 mg cp (GEFITINIB KRKA)
+DrugBank ID: DB00317
+DrugBank Name: Gefitinib
+Brand Names: GEFITINIB ACCORD | GEPHAL | IRESSA
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/30
+ATC Classification: L01EB01
+Registration Numbers: 039/05 C 163/24 | 256/05 C 163/13 | 534/05 C 163/23
+Drug Codes: 05 C 163
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Gefitinib inhibits the intracellular phosphorylation of numerous tyrosine kinases associated with transmembrane cell surface receptors, including the tyrosine kinases associated with the epidermal growth factor receptor (EGFR-TK). EGFR is expressed on the cell surface of many normal cells and cancer cells.
+
+## Mechanism Of Action
+
+Epidermal growth factor receptor Antagonist
+
+## Absorption
+
+Absorbed slowly after oral administration with a mean bioavailability of 60%. Peak plasma levels occurs 3-7 hours post-administration. Food does not affect the bioavailability of gefitinib.
+
+## Volume Of Distribution
+
+1400 L [IV administration]
+
+## Metabolism
+
+Primarily hepatic via CYP3A4. Three sites of biotransformation have been identified: metabolism of the N-propoxymorpholino-group, demethylation of the methoxy-substituent on the quinazoline, and oxidative defluorination of the halogenated phenyl group.
+
+## Route Of Elimination
+
+Elimination is by metabolism (primarily CYP3A4) and excretion in feces. Excretion is predominantly via the feces (86%), with renal elimination of drug and metabolites accounting for less than 4% of the administered dose.
+
+## Half Life
+
+48 hours [IV administration]
+
+## Clearance
+
+595 mL/min [IV administration]
+
+## Toxicity
+
+The acute toxicity of gefitinib up to 500 mg in clinical studies has been low. In non-clinical studies, a single dose of 12,000 mg/m 2 (about 80 times the recommended clinical dose on a mg/m 2 basis) was lethal to rats. Half this dose caused no mortality in mice. Symptoms of overdose include diarrhea and skin rash.

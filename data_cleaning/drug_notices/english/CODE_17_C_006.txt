@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_006
+DCI: Betaxolol Chlorhydrate Exprime En Betaxolol
+DrugBank ID: DB00195
+DrugBank Name: Betaxolol
+Brand Names: BERTOCIL
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 5mg/ml
+Packaging: b/01fl 5ml
+Registration Numbers: 185/17 C 006/18/24
+Drug Codes: 17 C 006
+
+------------------------------------------------------------
+
+## Description
+
+A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+
+## Pharmacodynamics
+
+Betaxolol is a competitive, beta(1)-selective (cardioselective) adrenergic antagonist. Betaxolol is used to treat hypertension, arrhythmias, coronary heart disease, glaucoma, and is also used to reduce non-fatal cardiac events in patients with heart failure. Activation of beta(1)-receptors (located mainly in the heart) by epinephrine increases the heart rate and the blood pressure, and the heart consumes more oxygen. Drugs such as betaxolol that block these receptors therefore have the reverse effect: they lower the heart rate and blood pressure and hence are used in conditions when the heart itself is deprived of oxygen. They are routinely prescribed in patients with ischemic heart disease. In addition, beta(1)-selective blockers prevent the release of renin, which is a hormone produced by the kidneys which leads to constriction of blood vessels. Betaxolol is lipophilic and exhibits no intrinsic sympathomimetic activity (ISA) or membrane stabilizing activity.
+
+## Mechanism Of Action
+
+Beta-1 adrenergic receptor Antagonist
+
+## Absorption
+
+Absorption of an oral dose is complete. There is a small and consistent first-pass effect resulting in an absolute bioavailability of 89% ± 5% that is unaffected by the concomitant ingestion of food or alcohol.
+
+## Metabolism
+
+Primarily hepatic. Approximately 15% of the dose administered is excreted as unchanged drug, the remainder being metabolites whose contribution to the clinical effect is negligible.
+
+## Half Life
+
+14-22 hours
+
+## Toxicity
+
+Oral LD 50 s are 350 to 400 mg betaxolol/kg in mice and 860 to 980 mg/kg in rats. Predicted symptoms of overdose include bradycardia, congestive heart failure, hypotension, bronchospasm, and hypoglycemia.

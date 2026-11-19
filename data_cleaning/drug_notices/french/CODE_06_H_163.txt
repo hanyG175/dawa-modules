@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_163
+DCI: Indapamide
+Brand Names: INDAPAMIDE BEKER LP
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 1,5MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 600.00 DA
+PPA (DA): 600.00 DA
+Prescription List: Liste II
+ATC Classification: 06H163
+Registration Numbers: 040/06 H 163/03/24 | 317/06 H 163/11/22 | 352/06 H 163/09/24 | 447/06 H 163/14/24
+Drug Codes: 06 H 163
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+DIURETIQUES

@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_H_221
+DCI: LOPERAMIDE CHLORHYDRATE 2 mg lyoph oral (LOPERAMIDE LYOC)
+DrugBank ID: DB00836
+DrugBank Name: Loperamide
+Brand Names: ADIQRIX DUO 2/125 mg
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg/125mg
+Packaging: b/10
+Laboratories: TEVA SANTÉ
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07D - RALENTISSEURS DE LA MOTRICITE INTESTINALE | A07DA - RALENTISSEURS DE LA MOTRICITE INTESTINALE | A07DA03 - LOPERAMIDE
+Registration Numbers: 231/10 H 221/25
+Drug Codes: 10 H 221
+
+------------------------------------------------------------
+
+## Description
+
+Loperamide is an anti-diarrheal agent that is available as an over-the-counter product for treating diarrhea. 7 The drug was first synthesized in 1969 and used medically in 1976. 1 It is a highly lipophilic synthetic phenylpiperidine opioid that works by binding to mu-opioid receptors on intestinal muscles to decrease intestinal motility and electrolyte loss. 1 Loperamide has a chemical structure that is similar to diphenoxylate and haloperidol; 2 however, loperamide works on mu (μ)-opioid receptors to mediate its pharmacological actions. 1
+
+## Pharmacodynamics
+
+Loperamide is an anti-diarrheal agent that provides symptomatic relief of diarrhea. 8 It decreases peristalsis and fluid secretion in the gastrointestinal tract, delays colonic transit time, and increases the absorption of fluids and electrolytes from the gastrointestinal tract. 2 , 1 , 5 Loperamide also increases rectal tone, 1 reduces daily fecal volume, and increases the viscosity and bulk density of feces. 8 It also increases the tone of the anal sphincter, thereby reducing incontinence and urgency. 3 , 8 The onset of action is about one hour and the duration of action can be up to three days. 3 While loperamide is a potent mu-opioid receptor agonist, 3 it does not mediate significant analgesic activity at therapeutic and supratherapeutic doses. 2 , 3 However, at high doses of loperamide, inhibition of P-glycoprotein-mediated drug efflux may allow loperamide to cross the blood-brain barrier, where loperamide can exert central opioid effects and toxicity. 1 At very high plasma concentrations, loperamide can interfere with cardiac conduction. 4 Because loperamide inhibits the Na + -gated cardiac channels 1 and ether-a-go-go–related gene potassium channels, 4 the drug can prolong the QRS complex and the QTc interval, which can lead to ventricular dysrhythmias, monomorphic and polymorphic ventricular tachycardia, torsade de pointes, ventricular fibrillation, Brugada syndrome, cardiac arrest, and death. 1
+
+## Mechanism Of Action
+
+Mu-type opioid receptor Agonist
+
+## Absorption
+
+Loperamide is well absorbed from the gastrointestinal tract; however, it undergoes extensive first-pass metabolism to form metabolites that are excreted in the bile. Therefore, little loperamide actually reaches the systemic circulation. 3 The drug bioavailability is less than 1%. 1 Following oral administration of a 2 mg capsule of loperamide, plasma concentrations of unchanged drug were below 2 ng/mL. Plasma loperamide concentrations are highest approximately five hours after administration of an oral capsule of loperamide and 2.5 hours after the liquid formulation of the drug. 8
+
+## Volume Of Distribution
+
+Loperamide has a large volume of distribution. 1 Although highly lipophilic, loperamide does not cross the blood-brain barrier 2 and generally acts peripherally. 3
+
+## Metabolism
+
+Loperamide is extensively metabolized. The primary metabolic pathway is oxidative N-demethylation mediated by CYP2C8 and CYP3A4, to form N-demethyl loperamide. CYP2B6 and CYP2D6 play a minor role in loperamide N-demethylation. 8 Metabolites of loperamide are pharmacologically inactive. 4 Hover over products below to view reaction partners Loperamide N-Desmethyloperamide Loperamide-N-oxide Loperamide carbinolamide metabolite
+
+## Route Of Elimination
+
+Loperamide and its metabolites in the systemic circulation undergo biliary excretion. 4 Excretion of the unchanged loperamide and its metabolites mainly occurs through the feces. 8 Only 1% of an absorbed dose excreted unchanged in the urine. 4
+
+## Half Life
+
+The apparent elimination half-life of loperamide is 10.8 hours with a range of 9.1 to 14.4 hours. 8
+
+## Toxicity
+
+Oral LD50 is 185 mg/kg in rats. 6 Due to its actions on opioid receptors, loperamide has been misused and abused to self-manage opioid withdrawal symptoms and to induce euphoria. 1 , 4 However, loperamide is associated with a risk of experiencing a range of adverse effects, often life-threatening, if taken for non-therapeutic reasons or at doses higher than the recommended dose. 8 Loperamide overdose can lead to a range of cardiac and non-cardiac effects. Chronic ingestion of doses ranging from 70 mg to 1600 mg daily - which is four to 100 times the recommended dose - resulted in life-threatening cardiac adverse reactions, including QT/QTc and QRS interval prolongation, Torsades de Pointes, Brugada syndrome and other ventricular arrhythmias, syncope, cardiac arrest, and death. These cases included instances of loperamide misuse and abuse. In case of cardiac effects, it is recommended that loperamide is discontinued and therapies to manage and prevent cardiac arrhythmias are initiated. 8 Cases of loperamide overdose may cause opioid toxic effects including CNS depression (e.g. altered mental status, stupor, coordination disorders, somnolence, miosis, muscular hypertonia, respiratory depression), hypotension, urinary retention, and paralytic ileus. 8 Naloxone may reverse the opioid-related toxicity, including CNS and respiratory depression, and hypotension, associated with loperamide overdosage. 8

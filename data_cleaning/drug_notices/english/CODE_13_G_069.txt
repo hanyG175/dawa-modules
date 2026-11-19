@@ -1,0 +1,37 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_069
+DCI: OXACILLINE (sel de Na) 1 g pdre/solv p sol inj (ISTOPEN)
+DrugBank ID: DB00713
+DrugBank Name: Oxacillin
+Brand Names: OXACARE
+Pharmaceutical Forms: Poudre Et Solv. P. Sol. Inj/Iv
+Dosages: 1g/fl. de pdre.
+Packaging: b/01fl. de pdre. + 01amp. de 5ml de solv. (eppi) et b/50fl. de pdre.
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CF - PENICILLINES RESISTANTES AUX BETALACTAMASES | J01CF04 - OXACILLINE
+Registration Numbers: 293/13 G 069/10/16
+Drug Codes: 13 G 069
+
+------------------------------------------------------------
+
+## Description
+
+An antibiotic similar to flucloxacillin used in resistant staphylococci infections.
+
+## Pharmacodynamics
+
+Oxacillin is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name "penicillin" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Oxacillin has in vitro activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of Oxacillin results from the inhibition of cell wall synthesis and is mediated through Oxacillin binding to penicillin binding proteins (PBPs). Oxacillin is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
+
+## Mechanism Of Action
+
+serine-type D-Ala-D-Ala carboxypeptidase (Streptococcus pneumoniae) Inhibitor Penicillin-binding protein 2a (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor Penicillin-binding protein 1A (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor + 6 more targets
+
+## Route Of Elimination
+
+Oxacillin Sodium is rapidly excreted as unchanged drug in the urine by glomerular filtration and active tubular secretion.
+
+## Half Life
+
+20 to 30 minutes

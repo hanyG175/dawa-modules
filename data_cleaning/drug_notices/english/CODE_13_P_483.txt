@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_483
+DCI: Tenofovir Disoproxil | Tenofovir Disoproxil Fumarate
+DrugBank ID: DB00300
+DrugBank Name: Tenofovir disoproxil
+Brand Names: KEMERUVIR | TENOF
+Pharmaceutical Forms: Comprimé
+Dosages: 300 mg
+Packaging: boite d'un flacon de 30 comprime | flacon hdpe de 30
+Registration Numbers: 177/13 P 483/23 | 524/13 P 483/17
+Drug Codes: 13 P 483
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+This drug prevents viral DNA chain elongation through inhibition of enzymes necessary for host cell infection viral replication in HIV-1 and Hepatitis B infections 9 , 10 . In vitro effects The antiviral activity of tenofovir against in laboratory and clinical isolates of HIV-1 was studied in lymphoblastoid cell lines, primary monocyte/macrophage cells, in addition to peripheral blood lymphocytes. The EC50 (50% effective concentration) values of tenofovir against HIV-1 virus ranged between 0.04 μM to 8.5 μM. Combination of tenofovir disoproxil with other drugs In drug combination studies of tenofovir with nucleoside reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), additive and synergistic effects were seen. Tenofovir demonstrated antiviral activities in cell cultures against HIV-1 Label .
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+After oral administration of tenofovir disoproxil to patients with HIV infection, tenofovir disoproxil is quickly absorbed and metabolized to tenofovir 24 . Administration of tenofovir disoproxil 300 mg tablets after a high-fat meal increases the oral bioavailability of this drug, as demonstrated by an increase in tenofovir AUC0-∞ of about 40% as well as an increase in Cmax of about 14%. On the contrary, the administration of tenofovir disoproxil with a light meal did not exert a relevant effect on the pharmacokinetics of tenofovir when compared to administration under fasting conditions. The presence of ingested food slows the time to tenofovir Cmax by approximately 1 hour. Cmax and AUC of tenofovir are 0.33 ± 0.12 μg/mL and 3.32 ± 1.37 μg•hr/mL after several doses of tenofovir disoproxil 300 mg once daily in the fed state when meal content is not controlled Label .
+
+## Volume Of Distribution
+
+The volume of distribution at steady-state is 1.3 ± 0.6 L/kg and 1.2 ± 0.4 L/kg, following intravenous administration of tenofovir 1.0 mg/kg and 3.0 mg/kg Label . After oral administration of tenofovir disoproxil, tenofovir is distributed to the majority tissues with the highest concentrations measured in the kidney, liver and the intestinal contents (based on data from preclinical studies) 24 .
+
+## Metabolism
+
+Tenofovir disoproxil fumarate is the fumarate salt of the prodrug tenofovir disoproxil . Tenofovir disoproxil is absorbed and converted to its active form, tenofovir , a nucleoside monophosphate (nucleotide) analog. Tenofovir is then converted to the active metabolite, tenofovir diphosphate , a chain terminator, by constitutively expressed enzymes in the cell Label . Two phosphorylation steps are required to convert tenofovir disoproxil to the active drug form 11 . The cytochrome P450 enzyme system is not involved with the metabolism of tenofovir disoproxil or tenofovir Label . Hover over products below to view reaction partners Tenofovir disoproxil Tenofovir Monophosphate Tenofovir Diphosphate
+
+## Route Of Elimination
+
+Following IV administration of tenofovir, approximately 70–80% of the dose is recovered in the urine as unchanged tenofovir within 72 hours of dosing. Tenofovir is eliminated by a combination of glomerular filtration and active tubular secretion Label . There may be competition for elimination with other compounds that are also eliminated by the kidneys.
+
+## Half Life
+
+When a single oral dose is given, the terminal elimination half-life is approximately 17 hours Label .
+
+## Clearance
+
+The clearance of tenofovir is highly dependent on renal function and may vary greatly. Total clearance has been estimated to be approximately 230 ml/h/kg (approximately 300 ml/min) 24 . On average, renal clearance has been estimated to be approximately 160 ml/h/kg (approximately 210 ml/min), which is in excess of the glomerular filtration rate. This shows that active tubular secretion is an essential part of the elimination of tenofovir 24 . The FDA label provides specific guidelines for dosing according to renal function. It is important to consult product labeling before administering tenofovir to individuals with renal dysfunction, as the clearance of this drug may vary greatly among these patients Label .
+
+## Toxicity
+
+A note on breastfeeding The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to prevent postnatal transmission of HIV-1. Mothers should be advised not to breast-feed if they are receiving tenofovir disoproxil Label . Carcinogenesis Long-term oral carcinogenicity studies of tenofovir disoproxil fumarate in mice and rats were performed at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection. At the higher dose in female mice, liver adenomas were increased at exposures 16 times that in humans. In rats, the study was negative for carcinogenic findings at exposures up to 5 times that observed in humans at the therapeutic dose Label . Pregnancy This drug is considered a pregnancy Category B drug. Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the recommended human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not consistently reflective of human effects, tenofovir disoproxil should be used during pregnancy only if clearly required. To monitor fetal outcomes of pregnant women taking tenofovir disoproxil, an Antiretroviral Pregnancy Registry has been formed. Healthcare providers are encouraged and advised to register patients by calling the number listed on the FDA label for tenofovir disoproxil Label . Mutagenesis Tenofovir disoproxil fumarate was mutagenic in the in vitro mouse lymphoma assay and negative for mutagenesis in an in vitro bacterial mutagenicity test (Ames test). In an in vivo mouse micronucleus assay, tenofovir disoproxil fumarate was negative when administered to male mice. Impairment of Fertility There were no observed effects on fertility, mating performance or early embryonic development when tenofovir disoproxil fumarate was given to male rats at a dose comparable to 10 times the human dose based on body surface area comparisons for 28 days before mating and to female rats for 15 days before mating through day seven of gestation. There was, however, changes in the estrous cycle in female rats Label .

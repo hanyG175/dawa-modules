@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_H_074
+DCI: ETONOGESTREL 68 mg implant (NEXPLANON)
+DrugBank ID: DB00294
+DrugBank Name: Etonogestrel
+Brand Names: IMPLANON NXT
+Pharmaceutical Forms: Implant
+Dosages: 68mg/implant
+Packaging: b/1applicateur contenant un implant
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03A - CONTRACEPTIFS HORMONAUX A USAGE SYSTEMIQUE | G03AC - PROGESTATIFS | G03AC08 - ETONOGESTREL
+Registration Numbers: 005/11 H 074/13
+Drug Codes: 11 H 074
+
+------------------------------------------------------------
+
+## Description
+
+Etonogestrel molecule is a 3-ketodesogestrel or 19-nortestosterone which is a synthetic biologically active metabolite of progestin desogestrel. 2 The first product including etonogestrel was developed by the Merck subsidiary Organon and FDA approved in 2001. 7
+
+## Pharmacodynamics
+
+Etonogestrel attains its therapeutic effect inhibiting fertility by impairing the release of the luteinizing hormone which is one of the most important reproductive hormones for ovulation. As well, etonogestrel is known to increase the viscosity of the cervical mucus hindering the passage of the spermatozoa and altering the lining in the uterus to prevent the implantation of the fertilized eggs in the endometrium. 8 In clinical trials, etonogestrel was implanted and reported to avoid 100% of pregnancies over a three year period. When the implant was removed, normal periods were reinstalled within 90 days in 91% of the individuals. Fertility was established quickly with 20 reported pregnancies within 3 months of implant removal. 8 The implants of etonogestrel release 40 mcg of etonogestrel daily and they usually provide a continuous contraception effect for 3 years. When the implant is administered, the failure rate is reported to be 0.1%. Some non-contraceptive effects are improved dysmenorrhea. 5 All data of etonogestrel comes from patients between 80-130% of the body mass.
+
+## Mechanism Of Action
+
+Progesterone receptor Agonist
+
+## Absorption
+
+Vaginal administration of etonogestrel is known to be significantly absorbed through the vaginal epithelium but it does not increase the levels of etonogestrel in the urine. On the other hand, oral administration is absorbed in the GI tract and it goes through the first-pass metabolism. 2 When etonogestrel is administered subdermally it is absorbed rapidly into the bloodstream and it presents a bioavailability of 82%. 6 It is reported that the implant releases around 60 mcg per day in the first 3 months and then decreases steady reaching a concentration of 30 mcg at the end of year 2. 3
+
+## Volume Of Distribution
+
+The apparent volume of distribution of etonogestrel is of around 201 L. 3
+
+## Metabolism
+
+Etonogestrel is highly metabolized in the liver by the action of the cytochrome isoenzyme 3A4 mainly by the presence of hydroxylation, sulfate conjugation and glucuronide conjugation reactions. 8 Hover over products below to view reaction partners Etonogestrel Etonogestrel sulfate Etonogestrel glucuronide
+
+## Route Of Elimination
+
+The elimination of etonogestrel and its metabolites is mainly done renally. 8
+
+## Half Life
+
+The elimination half-life of etonogestrel is reported to be of 25 hours which indicates a reversible contraceptive effect. 8
+
+## Clearance
+
+The clearance rate of etonogestrel is reported to be of 7.5 L/h. 3
+
+## Toxicity
+
+The reported LD50 of oral etonogestrel in the rat is reported to be higher than 2000 mg/kg. MSDS Overdosage can only happen when more than one implant is inserted. In cases of overdose, removal of the implant is recommended. Label There aren't reports relating etonogestrel with carcinogenesis, mutagenesis or impaired fertility. Label

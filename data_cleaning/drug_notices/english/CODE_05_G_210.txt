@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_210
+DCI: Carfilzomib
+DrugBank ID: DB08889
+DrugBank Name: Carfilzomib
+Brand Names: CARFILNAT | KYPORION | KYPROLIS
+Pharmaceutical Forms: Poudre
+Dosages: 60mg
+Packaging: b/01 flc de 50 ml
+Registration Numbers: 546/05 G 210/18 | 596/05 g 210/25 | 641/05 G 210/24
+Drug Codes: 05 G 210 | 05 g 210
+
+------------------------------------------------------------
+
+## Description
+
+Carfilzomib is an injectable antineoplastic agent (IV only). Chemically, it is a modified tetrapeptidyl epoxide and an analog of epoxomicin. It is also a selective proteasome inhibitor. FDA approved carfilzomib in July 2012 for the treatment of adults with relapsed or refractory multiple myeloma as monotherapy or combination therapy. 3
+
+## Pharmacodynamics
+
+Intravenous carfilzomib administration resulted in suppression of proteasome chymotrypsin-like activity when measured in blood 1 hour after the first dose. On Day 1 of Cycle 1, proteasome inhibition in peripheral blood mononuclear cells (PBMCs) ranged from 79% to 89% at 15 mg/m2, and from 82% to 83% at 20 mg/m2. In addition, carfilzomib administration resulted in inhibition of the LMP2 and MECL1 subunits of the immunoproteasome ranging from 26% to 32% and 41% to 49%, respectively, at 20 mg/m2. Proteasome inhibition was maintained for ≥ 48 hours following the first dose of carfilzomib for each week of dosing. Resistance against carfilzomib has been observed and although the mechanism has not been confirmed, it is thought that up-regulation of P-glycoprotein may be a contributing factor. Furthermore, studies suggest that carfilzomib is more potent than bortezomib.
+
+## Mechanism Of Action
+
+Proteasome subunit beta type-5 Inhibitor Proteasome subunit beta type-8 Inhibitor Proteasome subunit beta type-1 Inhibitor + 3 more targets
+
+## Absorption
+
+Cmax, single IV dose of 27 mg/m^2 = 4232 ng/mL;
+AUC, single IV dose of 27 mg/m^2 = 379 ng•hr/mL;
+Carfilzomib does not accumulation in the systemic. At doses between 20 and 36 mg/m2, there was a dose-dependent increase in exposure.
+
+## Volume Of Distribution
+
+Vd, steady state, 20 mg/m^2 = 28 L
+
+## Metabolism
+
+Carfilzomib was rapidly and extensively metabolized by the liver. The predominant metabolites were the peptide fragments and the diol of carfilzomib which suggests that the main metabolic pathways are peptidase cleavage and epoxide hydrolysis. The cytochrome P450 enzyme system is minimally involved in the metabolism of carfilzomib. All metabolites are inactive.
+
+## Half Life
+
+Following intravenous administration of doses ≥ 15 mg/m^2, carfilzomib was rapidly cleared from the systemic circulation with a half-life of ≤ 1 hour on Day 1 of Cycle 1.
+
+## Clearance
+
+Systemic clearance = 151 - 263 L/hour. As this value exceeds hepatic blood flow, it suggests that carfilozmib is cleared extrahepatically.
+
+## Toxicity
+
+Most commonly reported adverse reactions (incidence ≥ 30%) are fatigue, anemia, nausea, thrombocytopenia, dyspnea, diarrhea, and pyrexia. The two dose limiting toxicities are thrombocytopenia and febrile neutropenia.
+Maximum tolerate dose = 15 mg/m^2

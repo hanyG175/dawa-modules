@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_231
+DCI: ACETYLCYSTEINE 200 mg cp efferv (ACETYLCYSTEINE ARROW)
+Brand Names: FLUIMEX
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/20
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05C - EXPECTORANTS, SAUF ASSOCIATIONS AUX ANTITUSSIFS | R05CB - MUCOLYTIQUES | R05CB01 - ACETYLCYSTEINE
+Registration Numbers: 348/20 D 231/08
+Drug Codes: 20 D 231
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | sachet | acétylcystéine : 200 mg | Modalités d'administration | Voie orale | A dissoudre avant administration | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient de 2 an(s) à 7 an(s) | Patient quel que soit le poids | Sécrétion bronchique, troubles (de la) | Posologie standard | 1 sachet 2 fois par jour | Pendant 8 à 10 jours | Patient à partir de 7 an(s) | Patient quel que soit le poids | Sécrétion bronchique, troubles (de la) | Posologie standard | 1 sachet 3 fois par jour | Pendant 8 à 10 jours
+
+## Precautions
+
+Asthme | Grossesse | Patient ayant des difficultés d'expectoration | Ulcère gastroduodénal, antécédent (d') | Ulcère gastroduodénal évolutif
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Acétylcystéine : Mécanisme d'action | En pneumologie, l'acétylcystéine est un mucomodificateur de type mucolytique. Elle exerce son action sur la phase gel du mucus, vraisemblablement en rompant les ponts disulfures des glycoprotéines, et favorise ainsi l'expectoration. | En ophtalmologie, l'acétylcystéine est un inhibiteur de la collagénase, enzyme protéolytique sécrétée en quantité importante lors de toute lésion de l'épithélium et provoquant la dégradation des fibres polypeptidiques de collagène cornéen. | En toxicologie, l'acétylcystéine est un précurseur du glutathion, susceptible de pénétrer dans les cellules. C'est essentiellement par ce biais qu'elle protège les hépatocytes. Le glutathion neutralise, en effet, les entités électrophiles produites par le métabolisme du | paracétamol | .
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Réaction cutanée sévère (Très rare) | - Hypersudation | - Syndrome de Lyell | - Syndrome de Stevens-Johnson | - Rash érythémateux | - Dermatite allergique | DIVERS: | - Fièvre (Peu fréquent) | - Sueur froide | - Oedème de la face | HÉMATOLOGIE: | - Hémorragie (Très rare) | - Agrégation plaquettaire (diminution) | IMMUNO-ALLERGOLOGIE: | - Angioedème (Peu fréquent) | - Hypersensibilité (Peu fréquent) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde (Très rare) | - Choc anaphylactique (Très rare) | ORL, STOMATOLOGIE: | - Stomatite (Peu fréquent) | - Acouphène (Peu fréquent) | - Rhinorrhée | - Vertige | SYSTÈME CARDIOVASCULAIRE: | - Pression artérielle (diminution) (Peu fréquent) | - Hypotension artérielle (Peu fréquent) | - Tachycardie (Peu fréquent) | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Trouble digestif (Fréquent) | - Nausée (Peu fréquent) | - Diarrhée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Dyspepsie (Rare) | - Douleur épigastrique | - Gastrite | - Intolérance digestive | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | - Somnolence | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Rare) | - Dyspnée (Rare) | - Sensation d'oppression thoracique | - Hémorragie bronchique | - Hypersécrétion bronchique (aggravation) | - Hypersécrétion bronchique

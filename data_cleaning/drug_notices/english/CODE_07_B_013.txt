@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_B_013
+DCI: Peroxyde De Benzoyle
+DrugBank ID: DB09096
+DrugBank Name: Benzoyl peroxide
+Brand Names: CUTACNYL
+Pharmaceutical Forms: Gélule
+Dosages: 0.05
+Packaging: t/40g
+Registration Numbers: 123/07 B 013/98/14
+Drug Codes: 07 B 013
+
+------------------------------------------------------------
+
+## Description
+
+Benzoyl peroxide is a commonly used drug in topical treatments for acne. 7 , 9 , 10 , 11 , 12 It has been formulated as products with either a single active ingredient, 7 , 11 or with erythromycin , 9 clindamycin , 10 or adapalene . 12 After administration, the peroxide bond is cleaved, allowing benzoyloxy radicals to nonspecifically interact with proteins. 1 , 2 This treatment decreases keratin and sebum around follicles, as well as increasing turnover of epithelial cells. 3 , 4 , 5 Benzoyl peroxide, in combination with erythromycin, was granted FDA approval on 26 October 1984. 9
+
+## Pharmacodynamics
+
+Benzoyl peroxide is a topical treatment for acne that generates free radicals to break down comedones and increase the rate of epithelial cell turnover. 1 , 3 , 4 , 5 , 9 , 10 , 11 , 12 It has a short duration of action as its active free radical metabolites quickly react to form inactive metabolites. 1 The therapeutic index is wide, as overdoses are rare, however patients may still experience skin peeling. 9 , 10 , 11 , 12 Patients should be counselled regarding increased risks of skin irritation, dryness, and sunburn. 9 , 10 , 11 , 12
+
+## Mechanism Of Action
+
+Acne vulgaris is caused by inflammation in the pilosebaceous gland. 4 Acne is generally caused by increased excretion of sebum from pilosebaceous glands, endocrine factors such as androgenic hormones, keratin developing around follicles, bacterial growth, and inflammation. 4 These factors contribute to the formation of comedones (whiteheads and blackheads). 4 The peroxide bond of benzoyl peroxide is cleaved to form 2 benzoyloxy radicals. 1 These radicals interact nonspecifically with bacterial proteins, interfering with their function, and survival of the bacteria. 2 Over time, free radical interactions with bacterial proteins lead to decreased keratin and sebum around follicles. 3 , 4 Benzoyl peroxide can also increase the turnover rate of epithelial cells, leading to skin peeling, and breaking down comedones. 5 Target Actions Organism U Catalase inhibitor Humans U Glutathione peroxidase inhibitor U Antizyme inhibitor 2 activator Humans U Protein kinase C inhibitor Humans U Superoxide Dismutases inhibitor Humans
+
+## Absorption
+
+In a sample of excised skin, 1.9% of a radiolabelled topical dose fully penetrates the skin, and 2.6% remains in the skin. 2 , 6 The radiolabelled dose that fully penetrates the skin is recovered as benzoic acid, while the dose in the skin is approximately half benzoic acid and half benzoyl peroxide. 6 95.5% of a radiolabelled dose is not absorbed or metabolized after 8 hours. 6
+
+## Metabolism
+
+The peroxide bond of benzoyl peroxide is cleaved to form 2 benzoyloxy radicals. 1 The benzyoyloxy radicals may interact with other molecules, forming benzoic acid; alternatively, benzoyloxy radicals can break down further to release carbon dioxide and a phenyl radical. 1 Hover over products below to view reaction partners Benzoyl peroxide Benzoyloxyl radical Carbon dioxide + Phenyl Radical Benzoic acid
+
+## Route Of Elimination
+
+Benzoyl peroxide's metabolite benzoic acid, is eliminated in the urine. 2 Data regarding fecal elimination is not readily available.
+
+## Toxicity
+
+Data regarding overdoses of benzoyl peroxide are not readily available. 7 , 9 , 10 , 11 , 12 During an overdose patients may experience and increased risk or severity of adverse effects such as skin itching, burning, peeling, inflammation, and erythema. 9 , 10 , 11 , 12 The oral LD 50 in rats is 490 mg/kg. 8

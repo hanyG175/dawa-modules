@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_077
+DCI: POVIDONE IODEE 10 % sol p garg/bain bouch (BETADINE Unidose)
+Brand Names: BETADERM | BETADERMINE | DERMADINE | POLYLAD | POVIP | SEPTIDINE
+Pharmaceutical Forms: Solution
+Dosages: 10% (10g/100ml)
+Packaging: flacon/120ml et flacon/500ml | flacon/125ml | flacon/50ml
+Laboratories: COOPER
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D09 - PANSEMENTS MEDICAMENTEUX | D09A - PANSEMENTS MEDICAMENTEUX | D09AA - PANSEMENTS AVEC ANTI-INFECTIEUX | D09AA09 - POVIDONE IODEE
+Registration Numbers: 003/07 P 077/00/25 | 079/07 P 077/99/25 | 088/07 P 077/98/24 | 185/07 P 077/03/24 | 314/07 P 077/05/25 | 464/07 P 077/10/26
+Drug Codes: 07 P 077
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Thu Mar 07 00:00:00 CET 2024 | is_edited: False | title: INDICATIONS | text: Traitement local d'appoint des infections de la cavité buccale et soins post-opératoires en stomatologie.
+
+## Posology
+
+Posologie | Unité de prise | compresse | Modalités d'administration | Voie cutanée | Information du patient : se laver les mains avant et après application | Traitement à renouveler aussi souvent que nécessaire | Posologie | Patient à partir de 1 an | Patient quel que soit le poids | Antisepsie des affections cutanéo-muqueuses - Antisepsie des plaies ou brûlures superficielles peu étendues | Posologie standard | 1 compresse 1 à 2 fois par 48 heures
+
+## Precautions
+
+Allaitement | Application sous pansement occlusif | Application sur les muqueuses | Brûlure | Grand brûlé | Grossesse | Insuffisance rénale | Lésion cutanée | Nourrisson entre 12 et 30 mois | Patient traité par application étendue | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Povidone iodée : Mécanisme d'action | La | povidone | iodée est un antiseptique à large spectre, bactéricide et fongicide sur | Candida albicans | . C’est un iodophore, complexe organique à 10 % environ d'iode disponible actif. | Son spectre d'activité est celui de l'iode, libéré lentement et progressivement : bactéricide en moins de 5 minutes | in vitro | , sur l'ensemble des bactéries ; fongicide sur les levures. | Les matières organiques (protéines, sérum, sang...) diminuent l'activité de l'iode libre, forme active de cette substance. Les iodophores sont instables à pH alcalin. La peau enduite de | povidone | iodée prend une coloration brune qui s'élimine facilement à l'eau.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Osmolarité sanguine anormale | - Surcharge iodée | DERMATOLOGIE: | - Bulle | - Prurit | - Erythème cutané | - Dermite allergique de contact | - Coloration de la peau | - Urticaire | - Dermatite de contact | DIVERS: | - Effets systémiques | ENDOCRINOLOGIE: | - Hyperthyroïdie (Très rare) | - Dysthyroïdie | - Hypothyroïdie | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde | - Choc anaphylactique | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Acidose métabolique | - Trouble hydroélectrolytique | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale aiguë

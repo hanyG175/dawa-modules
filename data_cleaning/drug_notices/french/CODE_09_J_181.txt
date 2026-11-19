@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_J_181
+DCI: somatropine recombinante
+Brand Names: GENOTROPIN GOQUICK
+Pharmaceutical Forms: Poudre
+Dosages: 12mg
+Packaging: boite de 01 stylo pre rem de 1ml
+Laboratories: LILLY FRANCE
+Registration Numbers: 045/09 J 181/23
+Drug Codes: 09 J 181
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Chez l'enfant : | Traitement à long terme des enfants atteints d'un retard de croissance lié à un déficit en hormone de croissance normale endogène. | Traitement de la petite taille chez les enfants atteints du syndrome de Turner, confirmé par analyse chromosomique. | Traitement du retard de croissance chez l'enfant prépubère atteint d'une insuffisance rénale chronique. | Traitement des patients ayant un retard de croissance associé à un déficit du gène SHOX (Short Stature HOmeoboX-Containing gene) confirmé par un test ADN. | Umatrope est aussi indiqué dans le retard de croissance (taille actuelle < - 2,5 SDS et taille des parents ajustée < - 1 SDS) chez les enfants nés petits pour l'âge gestationnel, avec un poids et/ou une taille de naissance < - 2 DS, n'ayant pas rattrapé leur retard de croissance (vitesse de croissance < 0 SDS au cours de la dernière année) à l'âge de 4 ans ou plus. | Chez l'adulte : | Umatrope est indiqué dans le traitement substitutif chez le sujet adulte présentant un déficit en hormone de croissance sévère. | Ces patients sont définis comme présentant un déficit somatotrope sévère acquis à l'âge adulte, secondaire à une pathologie hypothalamo-hypophysaire connue et associé au minimum à un autre déficit hormonal hypophysaire (excepté le déficit en prolactine). Un seul test dynamique sera pratiqué pour affirmer ou exclure un déficit en hormone de croissance. | Chez les patients présentant un déficit somatotrope acquis dans l'enfance (sans maladie hypothalamo-hypophysaire ni antécédent d'irradiation crânienne), deux tests dynamiques sont recommandés, sauf en cas de taux bas d'IGF-1 (< -2 SDS), ce qui peut être considéré comme un test. Les valeurs limites des tests dynamiques doivent être strictement définies.

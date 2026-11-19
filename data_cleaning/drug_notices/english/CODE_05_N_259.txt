@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_N_259
+DCI: ABIRATERONE ACETATE 500 mg + NIRAPARIB (tosilate) 100 mg cp (NIRAPARIB/ACETATE D'ABIRATERONE JANSSEN-CILAG)
+DrugBank ID: DB11793
+DrugBank Name: Niraparib
+Brand Names: ZEJULA
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/56
+Registration Numbers: 659/05 N 259/25
+Drug Codes: 05 N 259
+
+------------------------------------------------------------
+
+## Description
+
+Niraparib is an orally active poly (ADP-ribose) polymerase (PARP) inhibitor. By blocking the enzymes responsible for DNA repair, niraparib induces cytotoxicity in cancer cells. 6 Niraparib is selective towards PARP-1 and PARP-2. 2 First approved by the FDA on March 27, 2017, 3 niraparib is used to treat epithelial ovarian, fallopian tube, or primary peritoneal cancer. 6 Niraparib was approved by the European Commission on November 16, 2017 7 and by Health Canada on June 27, 2019. 8 On December 12, 2025, the FDA expanded niraparib and abiraterone acetate (AKEEGA) with prednisone for the treatment of patients with BRCA2-mutated metastatic castration-sensitive prostate cancer (mCSPC). 12 , 11
+
+## Pharmacodynamics
+
+Niraparib mediated cytotoxic effects in tumour cell lines with or without deficiencies in BRCA1/2 . Decreased tumour growth was observed in both mouse xenograft models of human cancer cell lines with deficiencies in BRCA1/2 and human patient-derived xenograft tumour models with homologous recombination deficiency (HRD) that had either mutated or wild-type BRCA1/2 . 6 In vitro studies suggest that niraparib inhibits dopamine, norepinephrine, and serotonin transporters, which may explain its off-target cardiovascular effects such as increased pulse rate and blood pressure. 2
+
+## Mechanism Of Action
+
+Poly [ADP-ribose] polymerase 1 Inhibitor Poly [ADP-ribose] polymerase 2 Inhibitor
+
+## Absorption
+
+Following a single-dose administration of 300 mg niraparib, the mean (±SD) peak plasma concentration (C max ) was 804 (±403) ng/mL. The exposure (C max and AUC) of niraparib increased in a dose-proportional manner with daily doses ranging from 30 mg (0.1 times the approved recommended dose) to 400 mg (1.3 times the approved recommended dose). The accumulation ratio of niraparib exposure following 21 days of repeated daily doses was approximately 2-fold for doses ranging from 30 to 400 mg. The Tmax is about three hours. 6 The absolute bioavailability of niraparib is approximately 73%. Food does not appear to affect drug exposure. 6
+
+## Volume Of Distribution
+
+The average (±SD) apparent volume of distribution (Vd/F) was 1,220 (±1,114) L. In a population pharmacokinetic analysis, the Vd/F of niraparib was 1,074 L in patients with cancer. 6
+
+## Metabolism
+
+Niraparib is primarily metabolized by carboxylesterases (CEs) to form M1, which is a major inactive metabolite. The M1 metabolite can subsequently undergo glucuronidation mediated by UDP-glucuronosyltransferases (UGTs) to form the M10 metabolite. 6 In a mass balance study, M1 and M10 were the major circulating metabolites. 7 The M1 metabolite can also undergo methylation, monooxygenation, and hydrogenation to form other minor metabolites. 5 Hover over products below to view reaction partners Niraparib Niraparib M1 metabolite Niraparib M10 metabolite
+
+## Route Of Elimination
+
+Niraparib is eliminated via multiple pathways, including liver metabolism, hepatobiliary excretion, and renal elimination. 8 Following administration of a single oral 300-mg dose of radio-labeled niraparib, the average percent recovery of the administered dose over 21 days was 47.5% (range: 33.4% to 60.2%) in urine and 38.8% (range: 28.3% to 47.0%) in feces. In pooled samples collected over 6 days, unchanged niraparib accounted for 11% and 19% of the administered dose recovered in urine and feces, respectively. 6
+
+## Half Life
+
+Following multiple daily doses of 300 mg of niraparib, the mean half-life (t 1/2 ) is 36 hours. 6
+
+## Clearance
+
+In a population pharmacokinetic analysis, the apparent total clearance (CL/F) of niraparib was 16.2 L/h in patients with cancer. 6
+
+## Toxicity
+
+There is limited information available regarding the acute toxicity profile and overdosage of niraparib.

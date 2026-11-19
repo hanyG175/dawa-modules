@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_A_001
+DCI: Acenocoumarol
+DrugBank ID: DB01418
+DrugBank Name: Acenocoumarol
+Brand Names: AURACENO | NOVAROL | SINTROM
+Pharmaceutical Forms: Comprimé
+Dosages: 4mg
+Packaging: b/30 | b/60
+Registration Numbers: 013/12 A 001/99/16 | 065/12 A 001/24 | 540/12 A 001/98/19 | 625/12 A 001/24
+Drug Codes: 12 A 001
+
+------------------------------------------------------------
+
+## Description
+
+Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, IX and X, and interferes with coagulation. 6 Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood.
+
+## Pharmacodynamics
+
+Acenocoumarol inhibits the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of certain glutamic acid residues near the N-terminals of clotting factors II, VII, IX and X, the vitamin K-dependent clotting factors. Glutamic acid carboxylation is important for the interaction between these clotting factors and calcium. Without this interaction, clotting cannot occur. Both the extrinsic (via factors VII, X and II) and intrinsic (via factors IX, X and II) are affected by acenocoumarol.
+
+## Mechanism Of Action
+
+Vitamin K epoxide reductase complex subunit 1 Inhibitor
+
+## Absorption
+
+Rapidly absorbed orally with greater than 60% bioavailability. Peak plasma levels are attained 1 to 3 hours following oral administration.
+
+## Volume Of Distribution
+
+The volume of distribution at steady-state appeared to be significantly dose dependent: 78 ml/kg for doses 20 microg/kg respectively
+
+## Metabolism
+
+Extensively metabolized in the liver via oxidation forming two hydroxy metabolites and keto reduction producing two alcohol metabolites. Reduction of the nitro group produces an amino metabolite which is further transformed to an acetoamido metabolite. Metabolites do not appear to be pharmacologically active. Hover over products below to view reaction partners Acenocoumarol 6-Hydroxy-R-acenocoumarol 7-Hydroxy-R-acenocoumarol 8-Hydroxy-R-acenocoumarol
+
+## Route Of Elimination
+
+Mostly via the kidney as metabolites
+
+## Half Life
+
+8 to 11 hours.
+
+## Toxicity
+
+The onset and severity of the symptoms are dependent on the individual's sensitivity to oral anticoagulants, the severity of the overdosage, and the duration of treatment. Bleeding is the major sign of toxicity with oral anticoagulant drugs. The most frequent symptoms observed are: cutaneous bleeding (80%), haematuria (with renal colic) (52%), haematomas, gastrointestinal bleeding, haematemesis, uterine bleeding, epistaxis, gingival bleeding and bleeding into the joints. Further symptoms include tachycardia, hypotension, peripheral circulatory disorders due to loss of blood, nausea, vomiting, diarrhoea and abdominal pains.

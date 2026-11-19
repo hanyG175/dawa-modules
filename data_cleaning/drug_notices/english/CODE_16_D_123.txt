@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_123
+DCI: Venlafaxine** (Sous Forme De Venlafaxine Chlorhydrate)
+DrugBank ID: DB00285
+DrugBank Name: Venlafaxine
+Brand Names: VENEXOR
+Pharmaceutical Forms: Comprimé
+Dosages: 37.5mg**
+Packaging: b/30
+Registration Numbers: 174/16 D 123/08
+Drug Codes: 16 D 123
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Venlafaxine is an antidepressant agent that works to ameliorate the symptoms of various psychiatric disorders by increasing the level of neurotransmitters in the synapse. Venlafaxine does not mediate muscarinic, histaminergic, or adrenergic effects. 17
+
+## Mechanism Of Action
+
+Sodium-dependent serotonin transporter Inhibitor Sodium-dependent noradrenaline transporter Inhibitor
+
+## Absorption
+
+Venlafaxine is well absorbed after oral administration with an absolute bioavailability of approximately 45%. In mass balance studies, at least 92% of a single oral dose of venlafaxine was absorbed. After twice-daily oral administration of immediate-release formulation of 150 mg venlafaxine, C max was 150 ng/mL and T max was 5.5 hours. C max and T max of ODV were 260 ng/mL and nine hours, respectively. The extended-release formulation of venlafaxine has a slower rate of absorption, but the same extent of absorption as the immediate-release formulation. After once-daily administration of extended-release formulation of 75 mg venlafaxine, C max was 225 ng/mL and T max was two hours. C max and T max of ODV were 290 ng/mL and three hours, respectively. 17 Food does not affect the bioavailability of venlafaxine or its active metabolite, O-desmethylvenlafaxine (ODV). 17
+
+## Volume Of Distribution
+
+The apparent volume of distribution at steady-state is 7.5 ± 3.7 L/kg for venlafaxine and 5.7 ± 1.8 L/kg for ODV. 17
+
+## Metabolism
+
+Following absorption, venlafaxine undergoes extensive presystemic metabolism in the liver. It primarily undergoes CYP2D6-mediated demethylation to form its active metabolite O-desmethylvenlafaxine (ODV). 17 Venlafaxine can also undergo N-demethylation mediated by CYP2C9, and CYP2C19, and CYP3A4 to form N-desmethylvenlafaxine (NDV) but this is a minor metabolic pathway. 8 ODV and NDV further metabolized by CYP2C19, CYP2D6 and/or CYP3A4 to form N,O-didesmethylvenlafaxine (NODV) 9 and NODV can be further metabolized to form N, N, O-tridesmethylvenlafaxine, followed by a possible glucuronidation. 10 Hover over products below to view reaction partners Venlafaxine Desvenlafaxine O-Desmethylvenlafaxine glucuronide N,O-Didesmethylvenlafaxine N,N,O-tridesmethylvenlafaxine N,O-didesmethylvenlafaxine glucuronide N-Desmethylvenlafaxine N,O-Didesmethylvenlafaxine
+
+## Route Of Elimination
+
+Approximately 87% of a venlafaxine dose is recovered in the urine within 48 hours as unchanged venlafaxine (5%), unconjugated ODV (29%), conjugated ODV (26%), or other minor inactive metabolites (27%). 17
+
+## Half Life
+
+The apparent elimination half-life is 5 ± 2 hours for venlafaxine and 11 ± 2 hours for ODV. 17
+
+## Clearance
+
+Mean ± SD plasma apparent clearance at steady-state is 1.3 ± 0.6 L/h/kg for venlafaxine and 0.4 ± 0.2 L/h/kg for ODV. 17
+
+## Toxicity
+
+Oral LD 50 was 350 mg/kg in female rats and 700 mg/kg in male rats. 16 There are reports of acute overdosage with venlafaxine either alone or in combination with other drugs including alcohol. Doses up to several-fold higher than the usual therapeutic dose have been ingested in these cases of acute overdosage. Somnolence is the most commonly reported symptom, along with other symptoms such as paresthesia of the extremities, moderate dizziness, altered consciousness, nausea, vomiting, numb hands and feet, hot-cold spells (which occur a few days after the overdose event), hypotension, convulsions, sinus and ventricular tachycardia, rhabdomyolysis, vertigo, liver necrosis, electrocardiogram changes (e.g., prolongation of QT interval, bundle branch block, QRS prolongation), serotonin syndrome, and death. 17 There is no known antidote for venlafaxine overdose. Cases of overdose have been managed with or without symptomatic treatment, hospitalization, and activated charcoal. 17 Retrospective studies suggest that the risk of fatal outcomes from venlafaxine overdosage is higher than that of SSRI antidepressants, but lower than that of tricyclic antidepressants. 17

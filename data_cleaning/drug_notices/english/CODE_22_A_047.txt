@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_A_047
+DCI: PHENYLEPHRINE CHLORHYDRATE 10 % collyre sol récip unidose (NEOSYNEPHRINE FAURE Unidose)
+DrugBank ID: DB00388
+DrugBank Name: Phenylephrine
+Brand Names: GRIPEX
+Pharmaceutical Forms: Gélule
+Dosages: 10 mg/4mg
+Packaging: b/10
+Laboratories: Laboratoires EUROPHTA
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01C - STIMULANTS CARDIAQUES, GLUCOSIDES CARDIOTONIQUES EXCLUS | C01CA - ADRENERGIQUES ET DOPAMINERGIQUES | C01CA06 - PHENYLEPHRINE
+Registration Numbers: 035/22 A 047/99/19
+Drug Codes: 22 A 047
+
+------------------------------------------------------------
+
+## Description
+
+Phenylephrine is an alpha-1 adrenergic receptor agonist used to treat hypotension, 6 , 8 dilate the pupil, 7 and induce local vasoconstriction. 1 The action of phenylephrine, or neo-synephrine, was first described in literature in the 1930s. 2 Phenylephrine was granted FDA approval in 1939. 7
+
+## Pharmacodynamics
+
+Phenylephrine is an alpha-1 adrenergic agonist that raises blood pressure, 6 , 8 dilates the pupils, 7 and causes local vasoconstriction. 1 Ophthalmic formulations of phenylephrine act for 3-8 hours 7 while intravenous solutions have an effective half life of 5 minutes and an elimination half life of 2.5 hours. 3 , 6 Patients taking ophthalmic formulations of phenylephrine should be counselled about the risk of arrhythmia, hypertension, and rebound miosis. 7 Patients taking an intravenous formulation should be counselled regarding the risk of bradycardia, allergic reactions, extravasation causing necrosis or tissue sloughing, and the concomitant use of oxytocic drugs. 6 , 8
+
+## Mechanism Of Action
+
+Alpha-1A adrenergic receptor Agonist Alpha-1B adrenergic receptor Agonist Alpha-1D adrenergic receptor Agonist
+
+## Absorption
+
+Phenylephrine is 38% orally bioavailable. 3 Clinically significant systemic absorption of ophthalmic formulations is possible, especially at higher strengths and when the cornea is damaged. 6
+
+## Volume Of Distribution
+
+The volume of distribution of phenylephrine is 340L. 6 , 8
+
+## Metabolism
+
+Phenylephrine is mainly metabolized by monoamine oxidase A, monoamine oxidase B, and SULT1A3. 4 , 5 , 6 , 8 The major metabolite is the inactive meta-hydroxymandelic acid, followed by sulfate conjugates. 5 , 6 , 8 Phenylephrine can also be metabolized to phenylephrine glucuronide. 5 Hover over products below to view reaction partners Phenylephrine m-hydroxymandelic acid
+
+## Route Of Elimination
+
+86% of a dose of phenylephrine is recovered in the urine 3 with 16% as the unmetabolized drug, 57% as the inactive meta-hydroxymendelic acid, and 8% as inactive sulfate conjugates. 6 , 8
+
+## Half Life
+
+Intravenous phenylephrine has an effective half life of 5 minutes and an elimination half life of 2.5 hours. 3 , 6 , 8
+
+## Clearance
+
+Phenylephrine has an average clearance of 2100mL/min. 6 , 8
+
+## Toxicity
+
+Patients experiencing and overdose may present with headache, hypertension, reflex bradycardia, tingling limbs, cardiac arrhythmias, and a feeling of fullness in the head. 6 , 7 , 8 Overdose may be treated by supportive care and discontinuing phenylephrine, chronotropic medications, and vasodilators. 1 Subcutaneous phentolamine may be used to treat tissue extravasation. 1 , 7

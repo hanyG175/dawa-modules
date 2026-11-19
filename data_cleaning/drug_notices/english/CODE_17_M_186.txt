@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_M_186
+DCI: Mercaptamine
+DrugBank ID: DB00847
+DrugBank Name: Cysteamine
+Brand Names: CYSTADROPS
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 3.8 mg/ml
+Packaging: b/01 flacon 05 ml
+Registration Numbers: 533/17 M 186/25
+Drug Codes: 17 M 186
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Cystine accumulation is the cause of organ damage in cystinosis. Cysteamine prevents the accumulation of cystine crystals in the body and is specifically prescribed to prevent kidney and eye damage. 4 , 9 , 12 Cysteamine converts cystine into a form that may easily exit cells, preventing harmful accumulation. 10
+
+## Mechanism Of Action
+
+Individuals born without the ability to metabolize cystine suffer from cystinosis, a rare genetic disorder characterized by the widespread accumulation of cystine crystals throughout the body and eye tissues. The cystine crystals may cause considerable damage, particularly in the renal tissues and corneal tissues. In some cases, renal failure can occur during childhood if the condition is left untreated. Other organs that may be affected by cystinosis include the CNS, thyroid, pancreas, muscle tissues, and gonads. 2 Cysteamine converts cystine to cysteine and cysteine-cysteamine mixed disulfides, reducing the buildup of corneal cystine crystals. 11 This drug participates in a thiol-disulfide interchange reaction with lysosomes, leading to cysteine exit from the lysosome in patients diagnosed with cystinosis. 12 Target Actions Organism U Somatostatin binder Humans U Cystine cleavage Humans U Neuropeptide Y receptor type 2 other/unknown Humans
+
+## Absorption
+
+Orally administered cysteamine is absorbed in the gastrointestinal tract and reaches its maximum plasma concentration in about 1.4 hours, with some variation according to the type of formulation (delayed versus immediate-release). 6 , 5 , 12 One pharmacokinetic study of adults with Cystic Fibrosis revealed a Cmax of 2.86 mg/L. 6 The maximum plasma concentration after administration of cysteamine eye drops is unknown, however, it is likely to be considerably lower than oral administration. 10 According to prescribing information, the AUC 0-12 h for the delayed-release oral tablets is 99.26 ± 44.2 μmol*h/L with a Cmax of 27.70 ± 14.99 μmol/L. 12 The AUC 0-12 for the immediate-release tablets is 192.00 ± 75.62 μmol*h/L with a Cmax of 37.72 ± 12.10 μmol/L. 12
+
+## Volume Of Distribution
+
+Cysteamine has a volume of distribution of about 129 L, according to one pharmacokinetic study. 6 Prescribing information indicates a volume of distribution of 382 L for the delayed-release formulation and 198 L for the immediate-release preparation. 12 It is known to cross the blood-brain barrier. 8
+
+## Metabolism
+
+There is limited information in the literature regarding the metabolism of cysteamine. This drug undergoes significant first-pass metabolism. 8
+
+## Half Life
+
+The half-life of cysteamine is about 3.7 hours. 6
+
+## Clearance
+
+The plasma clearance of cysteamine is about 1.2 - 1.4 L/min. 12 One reference mentions a clearance of 89.9 L/h in patients with Cystic Fibrosis. 6
+
+## Toxicity
+
+Two cases of human overdoses with cysteamine are recorded in the literature, according to prescribing information. In one case, vomiting was immediate after the administration of cysteamine, and the patient did not experience other symptoms. A 200 to 250 mg/kg dose was accidentally ingested by a healthy 13-month-old child. Vomiting and dehydration followed. A full recovery was made after hospitalization and the replenishment of fluids. 13 There is no known antidote for an overdose with cysteamine. In the case of an overdose, provide supportive treatment, especially to the cardiovascular and respiratory systems. Hemodialysis may be useful in some cases due to the fact that cysteamine has poor plasma protein binding. 13

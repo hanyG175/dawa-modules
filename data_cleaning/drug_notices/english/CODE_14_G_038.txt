@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_038
+DCI: LEVOCARNITINE 100 mg/ml sol buv (LEVOCARNIL)
+DrugBank ID: DB00583
+DrugBank Name: Levocarnitine
+Brand Names: METACARTIN
+Pharmaceutical Forms: Solution
+Dosages: 100 mg/ml
+Packaging: boite d'un flacon de 100ml
+Laboratories: ALFASIGMA FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A16 - AUTRES MEDICAMENTS DES VOIES DIGESTIVES ET DU METABOLISME | A16A - AUTRES MEDICAMENTS DES VOIES DIGESTIVES ET DU METABOLISME | A16AA - ACIDES AMINES ET DERIVES | A16AA01 - LEVOCARNITINE
+Registration Numbers: 544/14 G 038/23
+Drug Codes: 14 G 038
+
+------------------------------------------------------------
+
+## Description
+
+Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+
+## Pharmacodynamics
+
+Levocarnitine is a carrier molecule in the transport of long chain fatty acids across the inner mitochondrial membrane. It also exports acyl groups from subcellular organelles and from cells to urine before they accumulate to toxic concentrations. Lack of carnitine can lead to liver, heart, and muscle problems. Carnitine deficiency is defined biochemically as abnormally low plasma concentrations of free carnitine, less than 20 µmol/L at one week post term and may be associated with low tissue and/or urine concentrations. Further, this condition may be associated with a plasma concentration ratio of acylcarnitine/levocarnitine greater than 0.4 or abnormally elevated concentrations of acylcarnitine in the urine. Only the L isomer of carnitine (sometimes called vitamin BT) affects lipid metabolism. The "vitamin BT" form actually contains D,L-carnitine, which competitively inhibits levocarnitine and can cause deficiency. Levocarnitine can be used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+
+## Mechanism Of Action
+
+Levocarnitine can be synthesised within the body from the amino acids lysine or methionine. Vitamin C (ascorbic acid) is essential to the synthesis of carnitine. Levocarnitine is a carrier molecule in the transport of long chain fatty acids across the inner mitochondrial membrane. It also exports acyl groups from subcellular organelles and from cells to urine before they accumulate to toxic concentrations. Only the L isomer of carnitine (sometimes called vitamin BT) affects lipid metabolism. Levocarnitine is handled by several proteins in different pathways including carnitine transporters, carnitine translocases, carnitine acetyltransferases and carnitine palmitoyltransferases. Target Actions Organism U Carnitine O-palmitoyltransferase 1, muscle isoform activator Humans U Xanthine dehydrogenase/oxidase Not Available Humans U Liver carboxylesterase 1 Not Available Humans U Myeloperoxidase Not Available Humans U Carnitine O-palmitoyltransferase 1, liver isoform activator Humans U Solute carrier family 22 member 4 Not Available Humans U Organic cation/carnitine transporter 2 Not Available Humans U Carnitine O-acetyltransferase Not Available Humans U Mitochondrial basic amino acids transporter Not Available Humans U Mitochondrial carnitine/acylcarnitine carrier protein Not Available Humans U Peroxisomal carnitine O-octanoyltransferase Not Available Humans U Carnitine O-palmitoyltransferase 2, mitochondrial Not Available Humans
+
+## Absorption
+
+Absolute bioavailability is 15% (tablets or solution).
+Time to maximum plasma concentration was found to be 3.3 hours.
+
+## Volume Of Distribution
+
+The steady state volume of distribution (Vss) of an intravenously administered dose, above endogenous baseline levels, was calculated to be 29.0 +/- 7.1L. However this value is predicted to be an underestimate of the true Vss.
+
+## Metabolism
+
+After oral administration L-carnitine which is unabsorbed is metabolized in the gastrointestinal tract by bacterial microflora. Major metabolites include trimethylamine N-oxide and [3H]-gamma-butyrobetaine. Hover over products below to view reaction partners Levocarnitine Trimethylamine N-oxide [3H]-gamma-Butyrobetaine
+
+## Route Of Elimination
+
+Following a single intravenous dose, 73.1 +/- 16% of the dose was excreted in the urine during the 0-24 hour interval.
+Post administration of oral carnitine supplements, in addition to a high carnitine diet, 58-65% of the administered radioactive dose was recovered from urine and feces in 5-11 days.
+
+## Half Life
+
+17.4 hours (elimination) following a single intravenous dose.
+
+## Clearance
+
+Total body clearance was found to be a mean of 4L/h.
+
+## Toxicity
+
+LD 50 > 8g/kg (mouse, oral). Adverse effects include hypertension, fever, tachycardia and seizures.

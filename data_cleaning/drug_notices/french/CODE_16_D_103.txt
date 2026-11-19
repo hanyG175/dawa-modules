@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_103
+DCI: Aripiprazole
+Brand Names: ARIPIPRAZOLE BEKER
+Pharmaceutical Forms: Comprimé
+Dosages: 10MG
+Packaging: B/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 195 DA
+PPA (DA): 5842,20 DA
+Prescription List: Liste I
+ATC Classification: 16D103
+Registration Numbers: 001/16 D 103/14 | 173/16 D 103/22 | 263/16 D 103/16/22 | 289/16 D 103/24 | 309/16 D 103/15/22 | 352/16 D 103/15/25 | 414/16 D 103/08/16 | 426/16 D 103/19/24 | 447/16 D 103/17/23 | 544/16 D 103/23
+Drug Codes: 16 D 103
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

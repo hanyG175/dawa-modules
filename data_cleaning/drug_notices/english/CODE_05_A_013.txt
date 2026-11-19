@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_013
+DCI: Dacarbazine
+DrugBank ID: DB00851
+DrugBank Name: Dacarbazine
+Brand Names: DTI
+Pharmaceutical Forms: Poudre P. Sol A Diluer P. Perf Iv
+Dosages: 100mg
+Packaging: b/10fl.
+Laboratories: LIPOMED GMBH | HEGENHEIMER STRASSE 2 | 79576 WEIL AM RHEIN | ALLEMAGNE
+ATC Classification: L01AX04
+Registration Numbers: 516/05 A 013/16
+Drug Codes: 05 A 013
+
+------------------------------------------------------------
+
+## Description
+
+An antineoplastic agent. It has significant activity against melanomas. (from Martindale, The Extra Pharmacopoeia, 31st ed, p564). Dacarbazine with Oblimersen is in clinical trials for the treatment of malignant melanoma.
+
+## Pharmacodynamics
+
+Dacarbazine is a synthetic analog of naturally occurring purine precursor 5-amino-1H-imidazole-4-carboxamide (AIC). After intravenous administration of dacarbazine, the volume of distribution exceeds total body water content suggesting localization in some body tissue, probably the liver. Its disappearance from the plasma is biphasic with initial half-life of 19 minutes and a terminal half-life of 5 hours. 1 In a patient with renal and hepatic dysfunctions, the half-lives were lengthened to 55 minutes and 7.2 hours. 1 The average cumulative excretion of unchanged DTIC in the urine is 40% of the injected dose in 6 hours. 1 DTIC is subject to renal tubular secretion rather than glomerular filtration. At therapeutic concentrations dacarbazine is not appreciably bound to human plasma protein.
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Absorption
+
+Erratic, slow and incomplete.
+
+## Metabolism
+
+Hepatic
+
+## Route Of Elimination
+
+Dacarbazine is subject to renal tubular secretion rather than glomerular filtration. In man, dacarbazine is extensively degraded. Besides unchanged dacarbazine, 5-aminoimidazole -4 carboxamide (AIC) is a major metabolite of dacarbazine excreted in the urine.
+
+## Half Life
+
+5 hours
+
+## Toxicity
+
+LD 50 =350mg/kg (orally in mice)

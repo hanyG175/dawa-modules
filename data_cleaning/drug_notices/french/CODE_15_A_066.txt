@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_066
+DCI: Pregabaline
+Brand Names: PREGABALINE BEKER
+Pharmaceutical Forms: Gles.
+Dosages: 50MG
+Packaging: B/60
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 2000.00 DA
+PPA (DA): 2000.00 DA
+Prescription List: Liste I
+ATC Classification: 15A066
+Registration Numbers: 001/15 A 066/13 | 097/15 A 066/16 | 149/15 A 066/15 | 235/15 A 066/19 | 263/15 A 066/15/22 | 289/15 A 066/12 | 309/15 A 066/13/24 | 352/15 A 066/17/24 | 418/15 A 066/17 | 447/15 A 066/13/23 | 510/15 A 066/16 | 595/15 A 066/06/22
+Drug Codes: 15 A 066
+
+------------------------------------------------------------
+
+## Indications
+
+NEUROLOGIE
+
+## Mechanism Of Action
+
+ANTI-EPILEPTIQUES & ANTI-CONVULSIVANTS

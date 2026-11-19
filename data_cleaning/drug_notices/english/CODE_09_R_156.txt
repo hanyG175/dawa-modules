@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_R_156
+DCI: Lanreotide
+DrugBank ID: DB06791
+DrugBank Name: Lanreotide
+Brand Names: SOMATULINE LP
+Pharmaceutical Forms: Solution
+Dosages: 60mg/0.5ml
+Packaging: b/01seringue preremplie de 0.5ml
+Registration Numbers: 020/09 R 156/08/24
+Drug Codes: 09 R 156
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Lanreotide exhibits antisecretory effects through cAMP suppression, and activation of ion currents such as K+ and Ca2+ which leads to hyperpolarization of the membrane and inhibition of Ca2+ mediated depolarization. Furthermore, through direct and indirect mechanisms, Lanreotide has potent antiproliferative effects.
+
+## Mechanism Of Action
+
+Somatostatin receptor type 2 Agonist Somatostatin receptor type 5 Agonist
+
+## Absorption
+
+Lanreotide forms a drug depot at the site of injection; therefore, there are 2 phases that describe the absorption of Lanreotide:
+1. Initial rapid subcutaneous release during the first few days of treatment where drug that has not precipitated is rapidly absorbed. 2. Slow release of drug from the depot via passive diffusion.
+Absorption is independent of body weight, gender, and dosage.
+
+## Volume Of Distribution
+
+Estimated Volume of Distribution = 15.1 L
+
+## Route Of Elimination
+
+<5% of lanreotide is excreted in urine, and less than 0.5% is excreted unchanged in the feces suggesting biliary excretion involvement.
+
+## Half Life
+
+Half-life is approximately 22 days
+
+## Clearance
+
+Estimated Clearance = 23.1 L/h
+
+## Toxicity
+
+The most common adverse events are GI related, occurring in 67-84% of patients, and are typically mild to moderate. GI related effects are often transient, improve with subsequent injections, and most frequently include diarrhea and abdominal pain. Other GI symptoms such as nausea, vomiting, and abdominal distension are less common. It is not clear whether or not GI effects are dose related.
+Adverse effects relating to site of injection occur in 43% of patients and are more common in patients who self-inject as opposed to those who had health-care professionals administer the injection.
+A small number of patients report newly impaired glucose tolerance, fasting glucose or diabetes mellitus. Patients being treated for diabetes mellitus may experience hypoglycemia. After 1 year, up to 30% of patients may experience gallstone formation and the presence of sludge within the gallbladder due to inhibition of gallbladder and GI motility. This may be influenced by previous exposure to somatostatin analogues. Other adverse effects include reduction in left ventricular end-diastolic and end-systolic volumes, bradycardia, nasopharyngitis, and alopecia. Lanreotide is classified as Pregnancy Category C.

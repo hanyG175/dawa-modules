@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_031
+DCI: Acide Niflumique
+DrugBank ID: DB04552
+DrugBank Name: Niflumic acid
+Brand Names: GEMATE GEL | NIFLUGEL | NIFLUMEX | NIFLURIC
+Pharmaceutical Forms: Gélule
+Dosages: 0.025
+Packaging: t/40g | t/50g | t/60g
+Registration Numbers: 017/21 A 031/99/15 | 319/21 A 031/08 | 366/21 A 031/08 | 400/21 A 031/21
+Drug Codes: 21 A 031
+
+------------------------------------------------------------
+
+## Description
+
+Niflumic acid is an analgesic and anti-inflammatory agent used in the treatment of rheumatoid arthritis.
+
+## Pharmacodynamics
+
+Niflumic acid, a nonsteroidal anti-inflammatory fenamate, is a Ca 2+ -activated Cl - channel blocker.
+
+## Mechanism Of Action
+
+Phospholipase A2 Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Well absorbed following oral administration.
+
+## Metabolism
+
+Hepatic.
+
+## Half Life
+
+2.5 hours
+
+## Toxicity
+
+Oral, mouse: LD 50 = 350 mg/kg; Oral, rat: LD 50 = 250 mg/kg

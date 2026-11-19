@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_B_099
+DCI: Tinzaparine Sodique (Hbpm)
+DrugBank ID: DB06822
+DrugBank Name: Tinzaparin
+Brand Names: INNOHEP
+Pharmaceutical Forms: Solution
+Dosages: 4500ui anti-xa/0.45ml
+Packaging: b/02 sering. prerempl. de 0.45ml avec système de securite d'aiguille et b/10 sering. prerempl. de 0.45ml avec système de securite d'aiguille
+Registration Numbers: 083/12 B 099/03/24
+Drug Codes: 12 B 099
+
+------------------------------------------------------------
+
+## Description
+
+Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+
+## Pharmacodynamics
+
+Tinzaparin, like other LMWHs, have a higher anti-Xa activity than anti-IIa activity. The anti-Xa activity of tinzaparin is 2.0 +/- 0.5 times greater than its to anti-IIa activity. Heparin exhibits approximately equal inhibitory activity against Xa and IIa. Tinzaparin is an anticoagulant that blocks the formation of thrombi. Like all LMWHs, tinzaparin only causes activated partial thromboplastin time (aPTT) prolongation at higher doses and routine monitoring is not recommended. However, anti-factor Xa levels may be monitored in some conditions such as pregnancy and renal dysfunction. Its use should be avoided in patients with a creatinine clearance less than 20 mL/min. In these patients, unfractionated heparin should be used. Tinzaparin can be used in patients who have a creatinine clearance between 20-30 mL/min, giving it the highest safety threshold for use in renal failure patients compared to all the LMWHs.
+
+## Mechanism Of Action
+
+Antithrombin-III Potentiator
+
+## Absorption
+
+Subcutaneous injection - about 90% when measured as anti-Xa activity versus 67% for anti-IIa activity.
+
+## Volume Of Distribution
+
+Anti-Xa activity is 4 L. Anti-IIa activity is 10.9 L
+
+## Metabolism
+
+Sulfation and polymerization occurs in the liver.
+
+## Route Of Elimination
+
+Linear elimination through kidneys
+
+## Half Life
+
+Anti-Xa activity is 82 minutes. Anti-IIa activity is 71 minutes.
+
+## Clearance
+
+Clearance is dose-dependant. The clearance of tinzaparin based on anti-Xa activity ranged from 1.14 to 2.04 L/hr
+
+## Toxicity
+
+Osteoporosis with increasing duration of use, bleeding, alopecia, heparin induced thrombocytopenia (HIT). All of these adverse drug reactions occur less with LMWH compared to unfractionated heparin. Tinzaparin showed no toxic effects at doses up to 5 mg/kg in mice, rats, or dogs in standard acute, subacute, and chronic toxicity studies.

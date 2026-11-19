@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_070
+DCI: Eletriptan Hydrobromure Exprime En Eletriptan
+DrugBank ID: DB00216
+DrugBank Name: Eletriptan
+Brand Names: RELPAX
+Pharmaceutical Forms: Comprimé
+Dosages: 20mg
+Packaging: b/03
+Laboratories: viatris up | 1 rue de turin | 69007 lyon
+ATC Classification: N02CC06
+Registration Numbers: 045/15 B 070/09/16
+Drug Codes: 15 B 070
+
+------------------------------------------------------------
+
+## Description
+
+Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches.
+
+## Pharmacodynamics
+
+Eletriptan is a selective 5-hydroxytryptamine 1B/1D receptor agonist. In the anesthetized dog, eletriptan has been shown to reduce carotid arterial blood flow, with only a small increase in arterial blood pressure at high doses. While the effect on blood flow was selective for the carotid arterial bed, decreases in coronary artery diameter were observed. Eletriptan has also been shown to inhibit trigeminal nerve activity in the rat.
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 1B Agonist 5-hydroxytryptamine receptor 1D Agonist 5-hydroxytryptamine receptor 1F Agonist
+
+## Absorption
+
+Well absorbed after oral administration with a mean absolute bioavailability of approximately 50%.
+
+## Metabolism
+
+In vitro studies indicate that eletriptan is primarily metabolized by cytochrome P-450 enzyme CYP3A4. The N-demethylated metabolite of eletriptan is the only known active metabolite. Hover over products below to view reaction partners Eletriptan N-Desmethyleletriptan Eletriptan N-oxide
+
+## Half Life
+
+The terminal elimination half-life of eletriptan is approximately 4 hours.
+
+## Clearance
+
+Renal cl=3.9 L/h
+
+## Toxicity
+
+Based on the pharmacology of the 5-HT1B/1D agonists, hypertension or other more serious cardiovascular symptoms could occur on overdose.

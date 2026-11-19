@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_147
+DCI: Peginterferon Beta-1A
+DrugBank ID: DB09122
+DrugBank Name: Peginterferon beta-1a
+Brand Names: PLEGRIDY
+Pharmaceutical Forms: Sol Pour Inj Sc
+Dosages: un stylo : 63mcg/0.5ml & un stylo : 94mcg/0.5ml
+Packaging: b/02 stylos
+Registration Numbers: 628/15 G 147/25
+Drug Codes: 15 G 147
+
+------------------------------------------------------------
+
+## Description
+
+Multiple Sclerosis (MS) is a chronic and inflammatory autoimmune disease of the central nervous system, disrupting communication between the brain and other parts of the body. Most patients diagnosed with this illness experience their initial disease symptoms between the age of 20 to 40, often the most productive years of life. Symptoms may include but are not limited to fatigue, gait changes, bowel or bladder dysfunction, abnormal muscle twitching, vision disturbance, and depressing or mood swings. 11 MS is one of the most common causes of neurological disability in young adults and is found to occur more frequently in women than in men. 3 , 12 Peginterferon beta-1a is an interferon therapy used for the management of relapsing forms of MS. It was originally approved by the FDA in 2014 for subcutaneous use, and was approved for intramuscular use in January 2021. 13 Currently, it is the only approved pegylated interferon for the management of MS with an proven ability to reduce relapses and delay the progression of disability resulting from MS.
+
+## Pharmacodynamics
+
+Peginterferon beta-1a likely reduces MS relapses and the progression of disability and brain lesions associated with MS by reducing inflammation. 8 , 4 Specifically, IFN-beta decreases antigen presentation and T-cell proliferation. In addition, it modifies cytokine and matrix metalloproteinase (MMP) expression while restoring suppressor function. 4
+
+## Mechanism Of Action
+
+The mechanism by which peginterferon beta-1a exerts its effects in patients with multiple sclerosis is unknown 13 , however, it likely exerts its therapeutic actions by reducing inflammation. Through the binding of IFN-beta to its receptor 9 , a cascade of transcriptional events occur, decreasing the inflammation that normally results in the progression of MS. Immune cells are the most likely target of therapeutic effects exerted by IFN-beta. 4 Target Actions Organism U Interferon alpha/beta receptor 1 activator downregulator Humans
+
+## Absorption
+
+Peginterferon beta-1a is almost completely absorbed after subcutaneous administration. After 125 microgram subcutaneous doses of peginterferon beta-1a to patient with MS, a Cmax of 280 pg/mL was reached between 1 and 1.5 days 4 , and the AUC over a 14 day dosing interval was 34.8 ng.hr/mL. 13 The AUC ranges from 23.5-29.5 ng ml −1 h, according to one pharmacokinetic study of patients with MS. Impairment of renal function may alter the Cmax and AUC of interferon beta-1a. 4
+
+## Volume Of Distribution
+
+The volume of distribution of peginterferon beta-1a is about 481 L. 13 One pharmacokinetic study of patients administered interferon beta-1a revealed a volume of distribution in the range of 248-726 L, depending on the week of treatment. 4
+
+## Metabolism
+
+Peginterferon beta-1a is not extensively metabolized in the liver. 13
+
+## Route Of Elimination
+
+Peginterferon beta-1a is mainly cleared through the kidneys. 4 , 13
+
+## Half Life
+
+The mean half life of peginterferon beta-1a is approximately 78 h in patients with MS 15 , however, the half-life is highly variable and depends on duration of treatment and other factors. 4
+
+## Clearance
+
+The average steady state clearance of peginterferon beta-1a is about 4.1 L/h. 13 One pharmacokinetic study revealed a clearance within the range of 3.68-7.89 L/h, depending on the week of treatment. 4
+
+## Toxicity
+
+LD50 information for peginterferon beta-1a is not readily available in the literature. In clinical trials, no cases of overdoses occurred with the administration of interferon beta-1a at a dose of 75 μg administered subcutaneously 3 times a week. 13 In a case report, a 38-year-old patient attempted suicide with about 6 or 7 pre-filled syringes containing 44 mug (12 MIU) of subcutaneous interferon beta-1a; symptoms were limited to malaise and skin erythema, which resolved within 24 hours with no intervention. Laboratory test results were unremarkable. 10 In the case of an overdose with interferon-beta 1a, prescribing information suggests to contact the local poison control centre. 15

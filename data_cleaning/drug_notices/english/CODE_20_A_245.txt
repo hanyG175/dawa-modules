@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_245
+DCI: MONTELUKAST (sel de Na) 4 mg cp à croquer (MONTELUKAST ACCORD)
+DrugBank ID: DB00471
+DrugBank Name: Montelukast
+Brand Names: MEXAM | SINGULAIR
+Pharmaceutical Forms: Granule | Granule Pour Solution Buvable En Sachetets-Dose
+Dosages: 4mg/sachet | 4mg/sachet-dose
+Packaging: b/28 sachets | b/30 sachets-doses
+ATC Classification: R03DC03
+Registration Numbers: 024/20 A 245/15 | 263/20 A 245/21
+Drug Codes: 20 A 245
+
+------------------------------------------------------------
+
+## Description
+
+Montelukast was first approved for clinical use by the US FDA in 1998 as Merck's brand name Singulair. 3 The medication is a member of the leukotriene receptor antagonist (LTRA) category of drugs. 3 , 4 , 5 , 6 , 7 , 8 , 9 Although capable of demonstrating effectiveness, the use of such LTRAs like montelukast is typically in addition to or complementary with the use of inhaled corticosteroids or other agents in asthma step therapy. 1 Regardless, in 2008-2009, there were FDA-led investigations into the possibility of montelukast to elicit neuropsychiatric effects like agitation, hallucinations, suicidal behaviour, and others in individuals who used the medication. 2 And although these kinds of effects are currently included in the official prescribing information for montelukast, 3 , 4 , 5 , 6 , 7 , 8 , 9 the drug still sees extensive use worldwide via millions of prescriptions annually and has since become available as a generic and as a brand name product.
+
+## Pharmacodynamics
+
+Montelukast is a leukotriene receptor antagonist that demonstrates a marked affinity and selectivity to the cysteinyl leukotriene receptor type-1 in preference to many other crucial airway receptors like the prostanoid, cholinergic, or beta-adrenergic receptors. 3 , 4 , 5 , 6 , 7 , 8 , 9 As a consequence, the agent can elicit substantial blockage of LTD4 leukotriene-mediated bronchoconstriction with doses as low as 5 mg. 3 , 4 , 5 , 6 , 7 , 8 , 9 Moreover, a placebo-controlled, crossover study (n=12) demonstrated that montelukast is capable of inhibiting early and late phase bronchoconstriction caused by antigen challenge by 75% and 57% respectively. 3 , 4 , 5 , 6 , 7 , 8 , 9 In particular, it has been documented that montelukast can cause bronchodilation as soon as within 2 hours of oral administration. 3 , 4 , 5 , 6 , 7 , 8 , 9 This action can also be additive to the bronchodilation caused by the concomitant use of a beta agonist. 3 , 4 , 5 , 6 , 7 , 8 , 9 Nevertheless, clinical investigations performed with adults 15 years of age and older revealed that no additional clinical benefit is obtained when doses of montelukast greater than 10 mg a day are used. 3 , 4 , 5 , 6 , 7 , 8 , 9 Additionally, in clinical trials with adults and pediatric asthmatic patients aged 6 to 14 years, it was also determined that montelukast can reduce mean peripheral blood eosinophils by about 13% to 15% from baseline in comparison to placebo during double-blind treatment periods. 3 , 4 , 5 , 6 , 7 , 8 , 9 At the same time, in patients aged 15 years and older who were experiencing seasonal allergic rhinitis, the use of montelukast caused a median reduction of 13% in peripheral blood eosinophil counts when compared to placebo as well. 3 , 4 , 5 , 6 , 7 , 8 , 9
+
+## Mechanism Of Action
+
+Cysteinyl leukotriene receptor 1 Antagonist
+
+## Absorption
+
+It has been observed that montelukast is quickly absorbed following administration by the oral route. 3 , 4 , 5 , 6 , 7 , 8 , 9 The oral bioavailability documented for the drug is 64%. 3 , 4 , 5 , 6 , 7 , 8 , 9 Furthermore, it seems that having a regular meal in the morning or even a high fat snack in the evening does not affect the absorption of montelukast. 3 , 4 , 5 , 6 , 7 , 8 , 9
+
+## Volume Of Distribution
+
+The steady-state volume of distribution recorded for montelukast is an average between 8 to 11 litres. 3 , 4 , 5 , 7 , 8 , 9
+
+## Metabolism
+
+It has been determined that montelukast is highly metabolized and typically so by the cytochrome P450 3A4, 2C8, and 2C9 isoenzymes. 3 , 4 , 5 , 6 , 7 , 8 , 9 In particular, it seems that the CYP2C8 enzymes play a significant role in the metabolism of the drug. 3 , 4 , 5 , 6 , 7 , 8 , 9 Nevertheless, at therapeutic doses, the plasma concentrations of montelukast metabolites are undetectable at steady state in adults and pediatric patients. 3 , 4 , 5 , 6 , 7 , 8 , 9 Hover over products below to view reaction partners Montelukast Montelukast metabolite M1 Montelukast metabolite M2a Montelukast metabolite M2b Montelukast metabolite M5a Montelukast metabolite M5b Montelukast metabolite M6a Montelukast metabolite M6b montelukast sulfoxide 21-Hydroxymontelukast 21(S)-Hydroxy Montelukast Montelukast 1, 2-Diol
+
+## Route Of Elimination
+
+It has been reported that montelukast and its metabolites are almost exclusively excreted in the bile and into the feces. 3 , 4 , 5 , 6 , 7 , 8 , 9
+
+## Half Life
+
+Studies have demonstrated that the mean plasma half-life of montelukast varies from 2.7 to 5.5 hours when observed in healthy young adults. 3 , 4 , 5 , 7 , 8 , 9
+
+## Clearance
+
+The plasma clearance documented for montelukast is an average of 45 mL/min when observed in healthy adults. 3 , 4 , 5 , 7 , 8 , 9
+
+## Toxicity
+
+The adverse effects associated with overdosage of montelukast include abdominal pain, somnolence, thirst, headache, vomiting, psychomotor hyperactivity, and less frequently, convulsion. 3 , 4 , 5 , 6 , 7 , 8 , 9 The oral LD50 value determined for mice and rats is >5000 mg/kg. 3 , 4 , 5 , 6 , 7 , 8 , 9 Montelukast has not been studied in pregnant women. 3 , 4 , 5 , 6 , 7 , 8 , 9 Consequently, it should be used during pregnancy only if clearly needed. 3 , 4 , 5 , 6 , 7 , 8 , 9 Additionally, as it is unknown whether montelukast is excreted into human breast milk, there is also caution regarding the use of the medication in nursing mothers. 3 , 4 , 5 , 6 , 7 , 8 , 9 The plasma half-life of montelukast is somewhat prolonged in elderly patients, although no dosage adjustment is generally necessary. 3 , 4 , 5 , 6 , 7 , 8 , 9

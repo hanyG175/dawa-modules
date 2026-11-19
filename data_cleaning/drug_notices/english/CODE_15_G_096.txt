@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_096
+DCI: Interferon Beta-1B Recombinant
+DrugBank ID: DB00068
+DrugBank Name: Interferon beta-1b
+Brand Names: BETAFERON
+Pharmaceutical Forms: Poudre Et Solv. P. Sol. Inj. Sc
+Dosages: 250mcg/ml (8mui/ml)de sol. reconstituee
+Packaging: b/15presentations unitaires contenant chacune 1flacon de pdre.+1sering.preremplie de 1.2ml de solv.+2tampons imbibes d'alcool+1adapteur pour flacon avec aiguille
+Registration Numbers: 424/15 G 096/12
+Drug Codes: 15 G 096
+
+------------------------------------------------------------
+
+## Description
+
+Human interferon beta (165 residues), cysteine 17 is substituted with serine. Produced in E. coli, no carbohydrates, MW=18.5kD
+
+## Pharmacodynamics
+
+Interferon beta upregulates the expression of MHC I proteins, allowing for increased presentation of peptides derived from viral antigens. This enhances the activation of CD8+ T cells that are the precursors for cytotoxic T lymphocytes (CTLs) and makes the macrophage a better target for CTL-mediated killing. Type I interferons also induce the synthesis of several key antiviral mediators including 2'-5' oligoadenylate synthetase (2'-5' A synthetase), beta-2 microglobulin, neopterin and protein kinase R.
+
+## Mechanism Of Action
+
+Interferon alpha/beta receptor 1 Agonist Interferon alpha/beta receptor 2 Agonist
+
+## Volume Of Distribution
+
+0.25 to 2,88 L/kg
+
+## Clearance
+
+9.4 – 28.9 mL/min•kg-1 [patients with diseases other than MS receiving single intravenous doses up to 2.0 mg]

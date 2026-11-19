@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_256
+DCI: Inotuzumab Ozogamicine
+DrugBank ID: DB05889
+DrugBank Name: Inotuzumab ozogamicin
+Brand Names: BESPONSA
+Pharmaceutical Forms: Poudre
+Dosages: 0.9mg
+Packaging: b/01 flacon mono-dose
+Registration Numbers: 654/05 D 256/25
+Drug Codes: 05 D 256
+
+------------------------------------------------------------
+
+## Description
+
+Inotuzumab ozogamicin is an antibody-drug conjugate consisting of a humanized IgG4 kappa CD22-targeting monoclonal antibody covalently attached to calicheamicin derivative, N-acetyl-gamma-calicheamicin dimethylhydrazide. 3 The antibody portion of the drug binds to CD22 receptors expressed on leukemic B cells and intracellularly releases N-acetyl-gamma-calicheamicin dimethylhydrazide, which produces cytotoxic effects. 3 Inotuzumab ozogamicin was first approved by the European Commission in June 2017 for the treatment of relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). 7 A month later, inotuzumab ozogamicin was also approved by the FDA. 8
+
+## Pharmacodynamics
+
+Inotuzumab ozogamicin is an antineoplastic agent that works to deplete CD22-positive leukemic cells. 8 In preclinical models, it arrested tumour growth and reduced the number of ALL cells. 1 In clinical trials, inotuzumab ozogamicin was shown to prolong the QT interval. 8
+
+## Mechanism Of Action
+
+B-cell receptor CD22 Antibody Regulator
+
+## Absorption
+
+Inotuzumab ozogamicin is intended to be administered in cycles that each run for 3 to 4 weeks. 7 The mean C max of inotuzumab ozogamicin was 308 ng/mL. The mean simulated total AUC per cycle was 100,000 ngxh/mL. In patients with relapsed or refractory ALL, steady-state drug concentration was achieved by Cycle 4. Following administration of multiple doses, a 5.3 times accumulation of inotuzumab ozogamicin was predicted by Cycle 4. 8
+
+## Volume Of Distribution
+
+In humans, the total volume of distribution of inotuzumab ozogamicin was approximately 12 L. 7 , 8
+
+## Metabolism
+
+In vitro, N-acetyl-gamma-calicheamicin dimethylhydrazide was primarily metabolized via nonenzymatic reduction. 7 , 8 In humans, N acetyl-gamma-calicheamicin dimethylhydrazide serum levels were typically below the limit of quantitation of 50 pg/mL; 7 , 8 however, sporadic measurable levels of unconjugated calicheamicin up to 276 pg/mL occurred in some patients. 7 The antibody portion of the drug is thought to undergo proteolytic degradation into amino acids then recycled into other proteins. 2
+
+## Half Life
+
+In patients with relapsed or refractory ALL, the terminal half-life was 12.3 days. 7 , 8
+
+## Clearance
+
+The pharmacokinetics of inotuzumab ozogamicin were well characterized by a 2-compartment model with linear and time-dependent clearance components. The clearance of inotuzumab ozogamicin at steady state is 0.0333 L/h in patients with relapsed or refractory ALL. 7 , 8
+
+## Toxicity
+
+There is limited clinical experience regarding the acute toxicity of inotuzumab ozogamicin. Overdoses may result in adverse reactions that are consistent with the reactions observed at the recommended therapeutic dose. In the event of an overdose, drug infusion should be temporarily interrupted, and patients should be monitored for liver and hematological toxicities. Re-initiation of the drug at the correct therapeutic dose should be considered when all toxicities have resolved. 7

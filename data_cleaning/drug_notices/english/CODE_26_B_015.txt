@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_015
+DCI: HYDROGENE PEROXYDE 3 % sol cut récip unidose (DOSOXYGENEE Unidose) | Peroxyde D'Hydrogene
+DrugBank ID: DB11091
+DrugBank Name: Hydrogen peroxide
+Brand Names: EAU OXYGENEE | EAU OXYGENEE 10V | OXYDERM 10 V RPP
+Pharmaceutical Forms: Sol. Usage Externe
+Dosages: 10 v . flacon de 1000 ml pet | 10 volumes
+Packaging: f/1000 ml | flacon./1l | flacon/100ml
+Laboratories: Cooperation Pharmaceutique Francaise | Place Lucien-Auvert | 77020 Melun Cedex
+ATC Classification: ANTISEPTIQUE | ( D. Dermatologie ) | Solution faiblement antiseptique de la classe des agents oxydants. | Exerce par l'effervescence une action mécanique de nettoyage. | Hémostatique. | Inactivée par les matières organiques (protéines, sang, pus). | D - MEDICAMENTS DERMATOLOGIQUES | D08 - ANTISEPTIQUES ET DESINFECTANTS | D08A - ANTISEPTIQUES ET DESINFECTANTS | D08AX - AUTRES ANTISEPTIQUES ET DESINFECTANTS | D08AX01 - HYDROGENE PEROXYDE
+Registration Numbers: 234/26 B 015/02 | 314/26 B 015/15/22 | 464/26 B 015/10
+Drug Codes: 26 B 015
+
+------------------------------------------------------------
+
+## Description
+
+Hydrogen peroxide is the simplest peroxide with a chemical formula H2O2. Hydrogen peroxide is an unstable compound in the presence of a base or catalyst, and is typically stored with a stabilizer in a weakly acidic solution. If heated to its boiling point, it may undergo potentially explosive thermal decomposition. Hydrogen peroxide is formed in the body of mammals during reduction of oxygen either directly in a two-electron transfer reaction 4 . As a natural product of metabolism, it readily undergoes decomposition by catalase in normal cells 4 . Due to its potent and broad-spectrum antimicrobial actions, hydrogen peroxide is used in both liquid and gas form for preservative, disinfection and sterilization applications as an oxidative biocide 1 . It is used in industrial and cosmetic applications as a bleaching agent. Hydrogen peroxide is also considered as a generally recognized as safe compound by the FDA 4 ; it is used as an antimicrobial agent in starch and cheese products, and as an oxidizing and reducing agent in products containing dried eggs, dried egg whites, and dried egg yolks.
+
+## Pharmacodynamics
+
+Hydrogen peroxide exhibits antimicrobial properties against most forms of microorganisms, including dormant forms with known high resistance profiles, such as bacterial spores and protozoal cysts. It acts as an oxidative biocide to generate free radical species to induce DNA, protein and membrane lipid damage via oxidation.
+
+## Mechanism Of Action
+
+The production of free hydroxyl radicals in the Fenton reaction is thought to be the basis of biocidal actions of hydrogen peroxide. Free radicals eventually lead to oxidative damage proteins and membrane lipids in vivo 2 . The oxidizing radical as the ferryl radical induces DNA oxidation 2 . Target Actions Organism U Tyrosine-protein phosphatase non-receptor type 1 inhibitor Humans
+
+## Absorption
+
+It is reported that hydrogen peroxide is decomposed before absorption in the intestine. Solutions of hydrogen peroxide displays poor penetration when applied to tissue 4 .
+
+## Volume Of Distribution
+
+Target organs affected by hydrogen peroxide include the lungs, intestine, thymus, liver, and kidney 4 .
+
+## Metabolism
+
+Hydrogen peroxide is reduced by glutathione peroxidase, which is an endogenous enzyme in human tissue. It is rapidly decomposed to oxygen and water when in contact with catalase, an enzyme found in blood and most tissues 4 . Hover over products below to view reaction partners Hydrogen peroxide Oxygen + Water
+
+## Toxicity
+
+Oral LD50 in mouse is 2000 mg/kg, and dermal LD50 is 4060 mg/kg in rat and 2000 mg/kg pig. LC50 of hydrogen peroxide vapours in rat is 2000 mg/m at 4 hours MSDS . Oral ingestion of high dose hydrogen peroxide may cause chest and stomach pain, loss of consciousness, motor disorders, microhemorrhages and moderate leucocytosis in humans. Inhalation of highly concentrated vapours causes extreme irritation of nose and throat 4 . Hydrogen peroxide has no known carcinogenic potential. It was shown to be mutagenic to bacteria ( Salmonella typhimurium ) and the fungi, Neurospora crassa and Aspergillis chevallieri , and induced DNA damage in Escheria coli 4 . It also caused sister chromatid exchanges and chromosomal aberrations in mammalian cells in vitro 4 .

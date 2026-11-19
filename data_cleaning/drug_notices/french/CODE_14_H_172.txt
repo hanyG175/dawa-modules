@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_172
+DCI: ARGININE ASPARTATE 1 g/5 ml sol buv (SARGENOR) | Arginine Aspartate
+Brand Names: ARGINOR | SARGENOR
+Pharmaceutical Forms: Solution
+Dosages: 1g/5ml
+Packaging: b/20 ampoule. de 5ml
+Laboratories: COOPERATION PHARMACEUTIQUE FRANCAISE | PLACE LUCIEN AUVERT | 77020 MELUN CEDEX
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09A - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA04 - PERINDOPRIL | Classe pharmacothérapeutique : TONIQUES, code ATC : A13A .
+Registration Numbers: 079/14 H 172/00/19 | 459/14 H 172/99/09
+Drug Codes: 14 H 172
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement d’appoint de l’asthénie fonctionnelle.
+
+## Posology
+
+Posologie | Adulte : 2 à 3 ampoules par jour. | Enfant de plus de 12 ans : 1 à 2 ampoules par jour. | Mode d’administration | Les ampoules sont à prendre diluées dans un peu d’eau, de préférence avant les repas. | Le traitement est limité à 15 jours.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1, notamment le parahydroxybenzoate de méthyle ou de propyle.
+
+## Precautions
+
+En cas de persistance des troubles au-delà de 15 jours de traitement ou d’aggravation des troubles, la situation doit être réévaluée. | Le traitement d’une asthénie chez l’enfant de moins de 12 ans nécessite un avis médical. | Chez les patients ayant récemment subi un infarctus du myocarde, ce médicament ne doit être pris que sous surveillance médicale. | Ce médicament contient du parahydroxybenzoate et peut provoquer des réactions allergiques (éventuellement retardées). | Ce médicament contient du saccharose. Les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du galactose ou un déficit en sucrase/isomaltase (maladies héréditaires rares) ne doivent pas prendre ce médicament. | Ce médicament contient 5,571 mg d'alcool (éthanol) par ampoule. La quantité en éthanol par ampoule équivaut à moins de 1 ml de bière ou 1 ml de vin. La faible quantité d'alcool contenue dans ce médicament n'est pas susceptible d'entraîner d'effet notable ;
+
+## Interactions
+
+Les données disponibles à ce jour ne laissent pas supposer l’existence d’interactions cliniquement significatives.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n'y a pas ou peu de données sur l'utilisation de SARGENOR 1 g/5 ml, solution buvable chez les femmes enceintes. Par mesure de précaution, il est préférable d'éviter l'utilisation de SARGENOR 1 g/5 ml, solution buvable pendant la grossesse. | Allaitement | L’excrétion de l'aspartate d’arginine dans le lait maternel n’est pas connue. Un risque pour les nouveau-nés et les nourrissons ne peut être exclu. Par conséquent, l'utilisation de SARGENOR 1 g/5 ml, solution buvable est à éviter pendant l'allaitement. | Fertilité | Il n’existe pas de données animales ou cliniques sur l’effet de SARGENOR 1 g/5 ml, solution buvable sur la fertilité.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : TONIQUES, code ATC : A13A .
+
+## Adverse Effects
+
+Les effets indésirables mentionnés ci-dessous, pouvant survenir avec SARGENOR 1 g/5 ml, solution buvable sont listés par classe de systèmes d’organes et par fréquence selon la convention suivante : très fréquent (≥ 1/10) ; fréquent (≥1/100, <1/10) ; peu fréquent (≥ 1/1000, <1/100) ; rare (≥ 1/10 000, <1/1000) ; très rare (<1/10 000) ; et fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Système de classes d’organes (SOC) Fréquence Terme préférentiel MedDRA (PT) Affection du système immunitaire Fréquence indéterminée Hypersensibilité Affections gastro-intestinales Fréquence indéterminée Troubles gastro-intestinaux, diarrhée, nausée, vomissements (à forte dose) Affections de la peau et du tissu sous-cutané Fréquence indéterminée Dermatite allergique (réactions cutanées notamment dues à la présence des parahydroxybenzoates) | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr .
+
+## Conservation
+
+Pas de précautions particulières de conservation.

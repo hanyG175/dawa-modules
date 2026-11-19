@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_224
+DCI: Bismuth Subsalicylate
+DrugBank ID: DB01294
+DrugBank Name: Bismuth subsalicylate
+Brand Names: BISMATROL
+Pharmaceutical Forms: Comprimé
+Dosages: 262mg
+Packaging: b/30
+Registration Numbers: 406/10 A 224/26
+Drug Codes: 10 A 224
+
+------------------------------------------------------------
+
+## Description
+
+Bismuth subsalicylate is an antacid and anti-diarrheal agent. Exhibiting antibacterial and gastroprotective properties, bismuth subsalicylate is an insoluble salt of salicylic acid linked to trivalent bismuth cation . Each molecule of bismuth subsalicylate contains 58% bismuth and 42% salicylate by weight. 3 Bismuth subsalicylate has been around for over 100 years: it was originally developed in 1901 for hygienic use and sanitation for cholera infection. 2 , 7 Bismuth subsalicylate was first approved by the FDA in 1939 and is now mainly used to relieve nausea, diarrhea, and gastrointestinal discomfort. 2 It is an active ingredient found in Pepto-Bismol, a common over-the-counter medication that is used to temporarily treat discomforts of the stomach and gastrointestinal tract. 10 Bismuth subsalicylate is a component of HELIDAC Therapy (bismuth subsalicylate, metronidazole , and tetracycline ), which is a treatment regimen indicated for the eradication of H. pylori for treatment of patients with H. pylori infection and duodenal ulcer disease. 13
+
+## Pharmacodynamics
+
+Bismuth subsalicylate is an antacid and antimicrobial, gastroprotective, anti-secretory, and anti-inflammatory actions. 1 , 2 , 4 It works to reduce the severity and incidence of flatulence and diarrhea, and consequently relieving gastrointestinal discomfort. 2 In one study, bismuth subsalicylate was prevented traveler's diarrhea with a protection rate >60%. 8 Organobismuth compounds, formed by the breakdown of bismuth subsalicylate in the gastrointestinal tract, inhibit the growth of Helicobacter pylori and other bacteria implicated in gastrointestinal disorders, and some fungi. 5 In one study, bismuth subsalicylate was shown to eradicate up to 90% of H. pylori infection when used as part of a quadruple therapy regimen containing a proton pump inhibitor, tetracycline, and metronidazole. 2 , 6 Bismuth subsalicylate exhibited antimicrobial activity against Clostridium difficile , enterotoxigenic Escherichia coli O157:H7, norovirus , and other common enteric pathogens such as Salmonella and Shigella . 8
+
+## Mechanism Of Action
+
+The exact mechanism of bismuth subsalicylate is not fully understood. Bismuth subsalicylate is an insoluble complex that constitutes salicylic acid and trivalent bismuth. Once orally administered, bismuth subsalicylate hydrolyzes in the stomach into bismuth oxychloride, which is minimally absorbed into the bloodstream, and salicylic acid, which is almost completely absorbed. Bismuth interacts with other anions and compounds, such as hydrochloric acid, bicarbonate, phosphate, and hydrogen sulfide, in the gastrointestinal tract to form bismuth salts such as bismuth oxychloride, bismuth subcarbonate, bismuth phosphate, and bismuth sulfide. 2 , 3 Bismuth salts possess bactericidal and antimicrobial activity, mainly by preventing bacteria from binding and growing on the mucosal cells of the stomach. It has no effects on normal gut flora. By preventing bacteria from binding to mucosal cells, bismuth subsalicylate prevents intestinal secretion and fluid loss, promotes fluid and electrolyte reabsorption, reduces gastrointestinal inflammation, and promotes the healing of pre-existing ulcer in the stomach. Salicylic acid from dissociated bismuth subsalicylate adds to the anti-inflammatory actions of bismuth salts by inhibiting the cyclooxygenase enzyme and limiting the formation of prostaglandin, a pro-inflammatory mediator. Bismuth subsalicylate exhibits cytoprotective and demulcent activity, which makes it an effective drug in peptic ulcer disease. It blocks the adhesion of H. pylori to the gastric epithelial cells and blocks the bacteria's enzyme activities, including phospholipase, protease, and urease. 2 Target Actions Organism U Albumin binder Humans
+
+## Absorption
+
+Following oral administration, bismuth subsalicylate hydrolyzes into bismuth and salicylic acid in the stomach. Salicylic acid is almost completely absorbed in the small intestine and reaches plasma peak levels one to two hours after dosing. In one study involving healthy male subjects, oral administration of 60 mL Pepto-Bismol, a common over-the-counter product of bismuth subsalicylate, equivalent to 1050 mg of bismuth subsalicylate, resulted in the peak plasma concentration of salicylate of 40.1 μg/mL, with a time to peak concentration (T max ) of 1.8 hours. 3 Less than 1% of bismuth from bismuth subsalicylate is absorbed from the gastrointestinal tract into the systemic circulation. In one study, oral administration of 787 mg bismuth subsalicylate in the chewable tablet form for two weeks resulted in the mean trough blood bismuth concentration was 5.1 ± 3.1 ng/mL. In another study, the mean trough blood bismuth concentration ranged from five to 32 ng/mL following oral administration of 525 mg bismuth subsalicylate in the liquid suspension form. 13
+
+## Volume Of Distribution
+
+There is no information available.
+
+## Metabolism
+
+Bismuth subsalicylate undergo hydrolysis at pH levels lesser than three. It is largely hydrolyzed in the stomach to bismuth oxychloride and salicylic acid. In the small intestine, unchanged bismuth subsalicylate reacts with other anions such as bicarbonate and phosphate to form insoluble bismuth salts. In the colon, unchanged bismuth subsalicylate and other bismuth salts react with hydrogen sulfide produced by anaerobic bacteria to form bismuth sulfide, a highly insoluble black salt responsible for the darkening of the stools. 3 Hover over products below to view reaction partners Bismuth subsalicylate Bismuth cation + Salicylic acid
+
+## Route Of Elimination
+
+Following oral administration, salicylate dissociated from bismuth subsalicylate is excreted in the urine. 3 Bismuth is primarily eliminated via urinary and biliary routes. 13
+
+## Half Life
+
+The terminal half-life of salicylic acid following a single oral dose of 525 mg bismuth subsalicylate is ranges from two to five hours. Bismuth has an intermediate half-life of 5 to 11 days and a terminal half-life of 21 to 72 days. 13
+
+## Clearance
+
+The renal clearance of bismuth is 50 ± 18 mL/min. 13
+
+## Toxicity
+
+Lowest Lethal Dose (LDLo) in humans is 700 mg/kg. LD 50 in rats is 1200 mg/kg via oral route, 542 mg/kg via intraperitoneal route, and 980 mg/kg via subcutaneous route. 11 Overdose of bismuth subsalicylate over an extended period of time and consequently, bismuth toxicity, can lead to blackening of the tongue and teeth, fatigue, mood changes, deterioration of mental status, and neurotoxicity. Other signs and symptoms include impaired cognition, tremors, lethargy, somnolence, insomnia, delirium, myoclonus, seizures, depressed mood, anxiety, and a depressed mood. 2 Salicylate toxicity can occur from chronic bismuth subsalicylate use 9 : it mostly occurs from ingestion of more than 150 mg/kg of salicylates (or >6.5 g of aspirin equivalent). 2 As there are no specific antidotes for bismuth salicylate toxicity, overdose should be managed with supportive care, with or without decontamination with activated charcoal. Hemodialysis may be considered in more severe cases and with the presence of altered mental status and metabolic acidosis. 2

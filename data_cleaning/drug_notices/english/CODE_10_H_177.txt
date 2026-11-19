@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_H_177
+DCI: RACECADOTRIL 10 mg pdre oral sach (TIORFAN nour)
+DrugBank ID: DB11696
+DrugBank Name: Racecadotril
+Brand Names: CELOFON NOURRISSONS | DIACARE | DIARFIL | DOCATRIL | TIOPAM NOURISSONS | TIOTRIL
+Pharmaceutical Forms: Poudre Orale En Sachetet Dose
+Dosages: 10mg
+Packaging: b/16 sachets
+Laboratories: BIOPROJET Pharma
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07X - AUTRES ANTIDIARRHEIQUES | A07XA - AUTRES ANTIDIARRHEIQUES | A07XA04 - RACECADOTRIL
+Registration Numbers: 235/10 H 177/23 | 263/10 H 177/17 | 268/10 H 177/19/24 | 289/10 H 177/19/24 | 293/10 H 177/20 | 380/10 H 177/20
+Drug Codes: 10 H 177
+
+------------------------------------------------------------
+
+## Description
+
+Racecadotril has been investigated for the basic science and treatment of Diarrhea, Acute Diarrhea, and Acute Gastroenteritis.

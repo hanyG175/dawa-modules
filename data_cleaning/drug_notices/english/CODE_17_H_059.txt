@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_059
+DCI: Cyclopentolate
+DrugBank ID: DB00979
+DrugBank Name: Cyclopentolate
+Brand Names: PENTOLATE
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.005
+Packaging: flacon/10ml
+Registration Numbers: 165/17 H 059/98
+Drug Codes: 17 H 059
+
+------------------------------------------------------------
+
+## Description
+
+A parasympatholytic anticholinergic used solely to obtain mydriasis or cycloplegia.
+
+## Pharmacodynamics
+
+Cyclopentolate is an anti-muscarinic in the same class as atropine and scopolamine. Cyclopentolate blocks the receptors in the muscles of the eye (muscarinic receptors). These receptors are involved controlling the pupil size and the shape of the lens. Cyclopentolate thus induces relaxation of the sphincter of the iris and the ciliary muscles. When applied topically to the eyes, it causes a rapid, intense cycloplegic and mydriatic effect that is maximal in 15 to 60 minutes; recovery usually occurs within 24 hours. The cycloplegic and mydriatic effects are slower in onset and longer in duration in patients who have dark pigmented irises.
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M1 Antagonist
+
+## Absorption
+
+Absorbed following ophthalmic administration.
+
+## Toxicity
+
+Oral LD 50 in the rat is 4000 mg/kg and 960 mg/kg in the mouse. Symptoms of overdose include tachycardia, dizziness, dry mouth, behavioral disturbances, uncoordination and drowsiness.

@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_018
+DCI: Iohexol
+DrugBank ID: DB01362
+DrugBank Name: Iohexol
+Brand Names: CONTRAPAQUE 350 | ILLUSOF | OMNIPAQUE | OMNIPOL
+Pharmaceutical Forms: Solution
+Dosages: i =350mg/ml
+Packaging: b/01 flacon de 100ml | b/01 flacon de 50 ml et b/01 flacon de 100ml | b/01fl.de 50ml
+Laboratories: GE HEALTHCARE SAS | 283, RUE DE LA MINIERE | 78530 BUC
+ATC Classification: V08AB02
+Registration Numbers: 173/08 C 018/24 | 212/08 C 018/99/24 | 276/08 C 018/08/16 | 646/08 C 018/24
+Drug Codes: 08 C 018
+
+------------------------------------------------------------
+
+## Description
+
+Iohexol is an effective non-ionic, water-soluble contrast agent which is used in myelography, arthrography, nephroangiography, arteriography, and other radiographic procedures. Its low systemic toxicity is the combined result of low chemotoxicity and low osmolality.
+
+## Pharmacodynamics
+
+Iohexol is an effective non-ionic, water-soluble contrast agent which is used in myelography, arthrography, nephroangiography, arteriography, and other radiographic procedures. Its low systemic toxicity is the combined result of low chemotoxicity and low osmolality.
+
+## Mechanism Of Action
+
+Organic iodine compounds block x-rays as they pass through the body, thereby allowing body structures containing iodine to be delineated in contrast to those structures that do not contain iodine. The degree of opacity produced by these compounds is directly proportional to the total amount (concentration and volume) of the iodinated contrast agent in the path of the x-rays. After intrathecal administration into the subarachnoid space, diffusion of iohexol in the CSF allows the visualization of the subarachnoid spaces of the head and spinal canal. After intravascular administration, iohexol makes opaque those vessels in its path of flow, allowing visualization of the internal structures until significant hemodilution occurs.
+
+## Absorption
+
+Small amounts are absorbed through the bladder via intravesical instillation. Following intrauterine instillation, the majority of the medium within the uterine cavity is discharged into the vagina immediately upon termination of procedure. However, any medium retained in the uterine or peritoneal cavity is absorbed systemically within 60 minutes. May not be absorbed for up to 24 hours if tubes are obstructed and dilated.
+
+## Route Of Elimination
+
+Iohexol is absorbed from cerebrospinal fluid (CSF) into the bloodstream and is eliminated by renal excretion. No significant metabolism, deiodination, or biotransformation occurs.
+
+## Half Life
+
+Intrathecal half-life is 3.4 hours (mean). Intravascular is approximately 2 hours (with normal renal function).
+
+## Clearance
+
+109 mL/min [Adult patients receiving 16-18 ml of iohexol (180 mgI/mL) by lumbar intrathecal injection]
+
+## Toxicity
+
+Non-ionic radiocontrast agents like iohexol are cytotoxic to renal cells. The toxic effects include apoptosis, cellular energy failure, disruption of calcium homeostasis, and disturbance of tubular cell polarity, and are thought to be linked to oxidative stress.

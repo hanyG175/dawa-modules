@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_088
+DCI: Montmorillonite Beidellitique
+DrugBank ID: DB13654
+DrugBank Name: Montmorillonite
+Brand Names: BEDELIX
+Pharmaceutical Forms: Poudre
+Dosages: 3g
+Packaging: b/30
+Laboratories: MAYOLY PHARMA FRANCE | 3 PLACE RENAULT | 92500 RUEIL-MALMAISON
+ATC Classification: A07BC05
+Registration Numbers: 662/10 B 088/97/24
+Drug Codes: 10 B 088
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of inorganic compounds known as post-transition metal oxides. These are inorganic compounds containing an oxygen atom of an oxidation state of -2, in which the heaviest atom bonded to the oxygen is a post-transition metal.

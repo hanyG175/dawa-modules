@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_482
+DCI: Posaconazole
+DrugBank ID: DB01263
+DrugBank Name: Posaconazole
+Brand Names: NOXAFIL
+Pharmaceutical Forms: Suspension
+Dosages: 40mg/ml
+Packaging: b/01 flacon de 105ml+une cuillere mesure de 2.5 ml et 5 ml
+Registration Numbers: 024/13 R 482/17
+Drug Codes: 13 R 482
+
+------------------------------------------------------------
+
+## Description
+
+Posaconazole is a triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.
+
+## Pharmacodynamics
+
+Posaconazole is an antifungal agent structurally related to itraconazole. It is a drug derived from itraconzaole through the replacement of the chlorine substituents with flourine in the phenyl ring, as well as hydroxylation of the triazolone side chain. These modifications enhance the potency and spectrum of activity of the drug. Posaconazole can be either fungicial or fungistatic in action.
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Antagonist
+
+## Absorption
+
+Posaconazole is absorbed with a median Tmax of approximately 3 to 5 hours.
+
+## Metabolism
+
+Posaconazole primarily circulates as the parent compound in plasma. Of the circulating metabolites, the majority are glucuronide conjugates formed via UDP glucuronidation (phase 2 enzymes). Posaconazole does not have any major circulating oxidative (CYP450 mediated) metabolites. The excreted metabolites in urine and feces account for ~17% of the administered radiolabeled dose.
+
+## Route Of Elimination
+
+The excreted metabolites in urine and feces account for ~17% of the administered radiolabeled dose.
+
+## Half Life
+
+Posaconazole is eliminated with a mean half-life (t½) of 35 hours (range 20 to 66 hours).
+
+## Clearance
+
+32 L/hr 51 L/hr [Single-Dose Suspension Administration of 200 mg, fasted] 21 L/hr [Single-Dose Suspension Administration of 200 mg, nonfat meal] 14 L/hr [Single-Dose Suspension Administration of 200 mg, high fat meal] 91 L/hr [Single-Dose Suspension Administration of 400 mg, fasted] 43 L/hr [Single-Dose Suspension Administration of 400 mg with liquid nutritional supplement (14 g fat)]
+
+## Toxicity
+
+During the clinical trials, some patients received posaconazole up to 1600 mg/day with no adverse events noted that were different from the lower doses. In addition, accidental overdose was noted in one patient who took 1200 mg BID for 3 days. No related adverse events were noted by the investigator.

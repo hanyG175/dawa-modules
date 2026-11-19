@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_A_062
+DCI: PILOCARPINE CHLORHYDRATE 2 % collyre sol (ISOPTO-PILOCARPINE)
+DrugBank ID: DB00899
+DrugBank Name: Remifentanil
+Brand Names: REMIFENTANIL MYLAN
+Pharmaceutical Forms: Poudre
+Dosages: 2mg/flacon
+Packaging: boite de 10 flacons de 5 ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EB - PARASYMPATHOMIMETIQUES | S01EB01 - PILOCARPINE
+Registration Numbers: 450/02 A 062/15
+Drug Codes: 02 A 062
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Remifentanil is an opioid agonist with rapid onset and peak effect and ultra-short duration of action. The opioid activity of remifentanil is antagonized by opioid antagonists such as naloxone. The analgesic effects of remifentanil are rapid in onset and offset. Its effects and side effects are dose dependent and similar to other opioids. Remifentanil in humans has a rapid blood-brain equilibration half-time of 1 ± 1 minutes (mean ± SD) and a rapid onset of action.
+
+## Mechanism Of Action
+
+Mu-type opioid receptor Agonist
+
+## Volume Of Distribution
+
+350 mL/kg 452 ± 144 mL/kg [neonates] 223 ± 30.6 mL/kg [adolescents]
+
+## Metabolism
+
+By hydrolysis of the propanoic acid-methyl ester linkage by nonspecific blood and tissue esterases.
+
+## Route Of Elimination
+
+Remifentanil is an esterase-metabolized opioid. The carboxylic acid metabolite is essentially inactive (1/4600 as potent as remifentanil in dogs) and is excreted by the kidneys with an elimination half-life of approximately 90 minutes.
+
+## Half Life
+
+1-20 minutes
+
+## Clearance
+
+40 mL/min/kg [young, healthy adults]

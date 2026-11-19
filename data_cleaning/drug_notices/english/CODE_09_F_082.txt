@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_F_082
+DCI: Nandrolone Decanoate
+DrugBank ID: DB08804
+DrugBank Name: Nandrolone decanoate
+Brand Names: DECA-DURABOLIN
+Pharmaceutical Forms: Solution
+Dosages: 50mg/ml
+Packaging: b/1amp de 1ml
+Registration Numbers: 467/09 F 082/03/17
+Drug Codes: 09 F 082
+
+------------------------------------------------------------
+
+## Description
+
+Nandrolone decanoate, also known as nandrolone caprinate, is an alkylated anabolic steroid indicated in the management of anemia of renal insufficiency and as an adjunct therapy in the treatment of senile and postmenopausal osteoporosis. 8 , 11 , 12 , 13 The process for creating esters of nandrolone was patented in Spain in 1959 15 and in 1960, it was described as having a long duration of action and strong anabolic effect compared to nandrolone and other esters. 11 Nandrolone decanoate was granted FDA approval on 5 October 1962. 12
+
+## Pharmacodynamics
+
+Nandrolone decanoate is an alkylated anabolic steroid indicated in the management of anemia of renal insufficiency and as an adjunct therapy in the treatment of senile and postmenopausal osteoporosis. 8 , 12 , 13 It has a long duration of action as it is given every 3-4 weeks, and a wide therapeutic window as acute overdoses are rare. 8 , 13 Patients should be counselled regarding the risks of giving this drug to patients with cardiac, renal, or hepatic diseases. 13
+
+## Mechanism Of Action
+
+Androgen receptor Agonist Insulin-like growth factor 1 receptor Inducer
+
+## Absorption
+
+A 50 mg intramuscular dose of nandrolone decanoate reaches a mean C max 2.14 ng/mL, with a mean T max of 30 hours, and a mean AUC of 400 h*ng/mL. 1 A 100 mg intramuscular dose of nandrolone decanoate reaches a mean C max 4.26 ng/mL, with a mean T max of 30 hours, and a mean AUC of 862 h*ng/mL. 1 A 150 mg intramuscular dose of nandrolone decanoate reaches a mean C max 5.16 ng/mL, with a mean T max of 72 hours, and a mean AUC of 1261 h*ng/mL. 1
+
+## Metabolism
+
+Nandrolone decanoate is hydrolyzed to nandrolone , possibly by PDE7B. 3 , 5 Nandrolone is further metabolized to the urinary metabolites 19-norandrosterone, 19-noretiocholanolone, and 19-norepiandrosterone. 2 , 13 19-norandrosterone is 3-O-glucuronidated by UGT2B7, UGT 1A4, UGT2B4, UGT1A3, and UGT1A1. 4 19-noretiocholanolone is 3-O-glucuronidated by UGT2B7, UGT2B4, UGT1A4, UGT1A10, UGT1A3, and UGT1A1. 4 Hover over products below to view reaction partners Nandrolone decanoate Nandrolone 19-Norepiandrosterone 19-Noretiocholanolone 19-Noretiocholanolone 3-O-glucuronide 19-Norandrosterone 19-Norandrosterone 3-O-glucuronide
+
+## Route Of Elimination
+
+Nandrolone decanoate is eliminated as urinary metabolites, however data regarding elimination in the feces are not readily available. 7 Data in cattle shows that nandrolone is 30% eliminated in the feces. 7
+
+## Half Life
+
+Nandrolone decanoate has an absorption half life of 6 days and an elimination half life of 4.3 hours. 13 Alternate studies have shown that nandrolone decanoate has a terminal half life of 7.1, 11.7, and 11.8 hours for doses of 50, 100, and 150 mg respectively. 1
+
+## Clearance
+
+50 mg, 100 mg, and 150 mg doses of nadrolone decanoate had mean apparent clearances of 80.0 L/h, 74.3 L/h, and 76.2 L/h respectively. 1
+
+## Toxicity
+
+Data regarding acute overdose of nandrolone decanoate are not readily available. 13 However, patients experiencing a chronic overdose of anabolic steroids may experience adverse effects including suppression of testosterone and spermatogenesis, shrinking of testicles, decreased libido, and erectile dysfunction in men; and suppressed estrogen, progesterone, and ovulation, amenorrhea, and clitoromegaly in women. 8 Patients may also experience neuropsychiatric, cardiovascular, and hepatic adverse effects. 8 Alkylated anabolic steroids such as nandrolone decanoate are more likely to cause hepatic adverse effects. 8 Treat patients with symptomatic and supportive measures. The intraperitoneal LD 50 in mice is >566 mg/kg. 14

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_K_387
+DCI: COLISTIMETHATE SODIQUE 1 M UI pdre/solv p sol inj (COLISTIMETHATE SODIQUE AMDIPHARM)
+Brand Names: NUTRISON MULTIFIBRE
+Pharmaceutical Forms: Liquid.1L.
+Dosages: 1.0 kcal/ml
+Packaging: bouteille
+Laboratories: Advanz Pharma SAS
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01X - AUTRES ANTIBACTERIENS | J01XB - POLYMYXINES | J01XB01 - COLISTINE
+Registration Numbers: 288/14 K 387/21
+Drug Codes: 14 K 387
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Wed Mar 18 00:00:00 CET 2026 | is_edited: False | title: INDICATIONS | text: COLISTIMETHATE SODIQUE AMDIPHARM est indiqué chez les adultes et les enfants dont les nouveau-nés dans le traitement des infections sévères dues à des bactéries aérobies à Gram négatif sensibles, chez des patients pour qui les options thérapeutiques sont limitées (voir rubriques | Posologie et mode d'administration | , | Mises en garde et précautions d'emploi | , | Effets indésirables | et | Pharmacodynamie | ). | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.
+
+## Posology
+
+Posologie | Unité de prise | flacon | colistiméthate sodique : 1 M UI | Modalités d'administration | Voie intrathécale, voie intraveineuse (en perfusion), voie intraventriculaire | A reconstituer immédiatement avant administration | Posologie à adapter à l'état du patient | Posologie | Patient jusqu'à 15 an(s) | Poids = 40 kg | Infection sévère documentée à germe sensible, traitement de 2e intention (de l') | Posologie standard | Voie intraveineuse (en perfusion) | Administrer par perfusion intraveineuse de 30 à 60 minutes | 9 M UI en 2 à 3 prises par jour | Posologie maximale: 12 M UI par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Infection sévère documentée à germe sensible, traitement de 2e intention (de l') | Dose initiale éventuelle | Dans le cas de : Etat sévère | Voie intraveineuse (en perfusion) | Administrer par perfusion intraveineuse de 30 à 60 minutes | 9 M UI 1 fois ce jour | Posologie maximale: 12 M UI ce jour | Posologie standard | Voie intraveineuse (en perfusion) | Administrer par perfusion intraveineuse de 30 à 60 minutes | 9 M UI en 2 à 3 prises par jour | Posologie maximale: 12 M UI par jour | Voie intrathécale, voie intraventriculaire | Utiliser le dosage le plus adapté à la posologie | 0,125 M UI 1 fois par jour | Posologie maximale: 0,125 M UI par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Doses cumulées | Enfant de moins de 15 ans | Grossesse | Hypovolémie | Injection intraventriculaire | Injection par voie intrathécale | Insuffisance hépatique | Insuffisance rénale | Myasthénie | Nourrisson de moins de 1 an | Nouveau-né exposé in utero au médicament | Patient traité à posologie élevée | Porphyrie | Traitement néphrotoxique en cours | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Colistiméthate sodique : Mécanisme d'action | Le colistiméthate sodique est la prodrogue de la | colistine | , qui est un antibiotique polypeptidique de la famille des polymyxines, du groupe des polymyxines E. | La | colistine | est caractérisée par une bactéricidie rapide qui s'accompagne d'un effet postantibiotique peu marqué, voire inexistant, vis-à-vis de Klebsiella pneumoniae, prolongé (particulièrement in vivo) vis-à-vis de Pseudomonas aeruginosa et Acinetobacter spp. | Son mécanisme d'action, non totalement élucidé, est lié à un effet polycationique désorganisant les groupes phosphates des lipopolysaccharides de la membrane des bacilles à Gram négatif. Cette interaction est responsable d'une augmentation de la perméabilité membranaire et d'une fuite du contenu intracellulaire, à l'origine de la mort de la bactérie. Ce mécanisme d'action peut être responsable d'une synergie avec d'autres antibiotiques apparaissant résistants sur l'antibiogramme notamment par imperméabilité, d'où l'intérêt en pratique clinique de tester les associations avec de la | colistine | . | Espèces habituellement sensibles : | aérobies à Gram - : | acinetobacter sp, Citrobacter freundii, Escherichia coli, klebsiella sp, Pseudomonas aeruginosa. | Espèces inconstamment sensibles (résistance acquise >= 10 %) : | aérobies à Gram - : | enterobacter sp, Stenotrophomonas maltophilia. | Espèces résistantes : | aérobies à Gram - : | brucella sp, Burkholderia cepacia, Burkholderia pseudomallei, campylobacter sp, Chryseobacterium meningosepticum, legionella sp, Morganella morganii, neisseria sp, Proteus mirabilis, Proteus vulgaris, providencia sp, serratia sp, Vibrio cholerae El Tor. | aérobies à Gram +. | anaérobies à Gram +. | anaérobies à Gram -.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Créatininémie (augmentation) (Très fréquent) | - Clairance de la créatinine (diminution) (Très fréquent) | - Urémie (augmentation) (Très fréquent) | - Neutropénie | - Protéinurie | - Phosphatases alcalines (augmentation) | - Transaminases (augmentation) | - Cylindrurie | DERMATOLOGIE: | - Prurit (Très fréquent) | - Eruption cutanée | - Urticaire | DIVERS: | - Fourmillement | - Fièvre | - Engourdissement des extrémités | ENDOCRINOLOGIE: | - Pseudosyndrome de Bartter | HÉMATOLOGIE: | - Leucopénie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Angioedème | INSTRUMENTATION: | - Douleur au point d'injection | - Réaction au point d'injection | OPHTALMOLOGIE: | - Vision floue | - Trouble de la vision | ORL, STOMATOLOGIE: | - Vertige | - Engourdissement de la langue | - Sensation de vertige | - Dysphonie | PSYCHIATRIE: | - Confusion mentale | - Psychose | - Désorientation temporospatiale | SYSTÈME CARDIOVASCULAIRE: | - Instabilité vasomotrice | - Réaction vasomotrice | SYSTÈME DIGESTIF: | - Colite pseudomembraneuse | - Gêne gastro-intestinale | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Faiblesse musculaire (Très fréquent) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Paresthésie péribuccale (Très fréquent) | - Paresthésie buccale (Très fréquent) | - Paresthésie faciale (Très fréquent) | - Neurotoxicité (Très fréquent) | - Bloc neuromusculaire | - Irritation méningée | - Convulsions | - Coma | - Paralysie respiratoire | - Trouble neuropsychique | - Trouble de l'élocution | - Ataxie | - Paresthésie des extrémités | SYSTÈME RESPIRATOIRE: | - Dyspnée | - Apnée | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Très fréquent) | - Hématurie | - Nécrose tubulaire aiguë | - Oligurie

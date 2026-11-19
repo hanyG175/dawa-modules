@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_B_345
+DCI: CANDESARTAN CILEXETIL 16 mg + HYDROCHLOROTHIAZIDE 12,5 mg cp (CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW LAB)
+Brand Names: EXCAN
+Pharmaceutical Forms: Comprimé
+Dosages: 16mg/5mg
+Packaging: b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA06 - CANDESARTAN
+Registration Numbers: 352/06 B 345/22
+Drug Codes: 06 B 345
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | candésartan cilexétil : 16 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 18 an(s) | Poids = 6 ans | Traitement initial | 4 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | 4 à 8 mg 1 fois par jour | Posologie maximale: 8 mg par jour | Poids >= 50 kg | Hypertension artérielle de l'adulte et de l'enfant >= 6 ans | Traitement initial | 4 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | 4 à 16 mg 1 fois par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle de l'adulte et de l'enfant >= 6 ans | Traitement initial | 4 à 8 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | 8 à 32 mg 1 fois par jour | Posologie maximale: 32 mg par jour | Insuffisance cardiaque chez l'adulte, traitement de 2e intention (de l') | Traitement initial | 4 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter jusqu'au niveau le plus élevé toléré | Posologie à augmenter par palier à intervalles d'au moins 2 semaines | 4 à 32 mg 1 fois par jour | Posologie maximale: 32 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Anesthésie | Cardiomyopathie obstructive | Enfant entre 6 et 18 ans | Hyperaldostéronisme primaire | Hypovolémie | Insuffisance cardiaque congestive sévère | Insuffisance hépatique légère à modérée | Insuffisance rénale | Insuffisance vasculaire cérébrale | Intervention chirurgicale | Ischémie myocardique | Patient en hémodialyse | Rétrécissement aortique | Rétrécissement mitral | Sujet de plus de 75 ans | Sujet noir
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Candésartan : Mécanisme d'action | L'angiotensine II est la principale hormone vasoactive du système rénine-angiotensine-aldostérone qui joue un rôle dans la physiopathologie de l'hypertension, de l'insuffisance cardiaque et d'autres affections cardiovasculaires. Elle participe également à la pathogenèse de l'hypertrophie et des dommages des organes cibles. Les effets physiologiques majeurs de l'angiotensine II tels que la vasoconstriction, la stimulation d'aldostérone, la régulation de l'homéostase hydrosodée et la stimulation de la croissance cellulaire s'exercent par l'intermédiaire du récepteur de type 1 (AT1). | Le candésartan cilexetil est une prodrogue adaptée à la prise orale. Il est rapidement transformé, après administration orale, en candésartan, le principe actif, par hydrolyse d'un groupement ester au cours de l'absorption gastro-intestinale. Le candésartan est un ARAII, sélectif des récepteurs AT1, avec une forte liaison et une dissociation lente du récepteur. Il n'a aucune activité agoniste. | Le candésartan n'inhibe pas l'enzyme de conversion qui transforme l'angiotensine I en angiotensine II et dégrade la bradykinine. Il n'y a aucun effet sur l'enzyme de conversion et n'entraîne aucune potentialisation de la bradykinine ou de la substance P. Dans des essais cliniques contrôlés comparant le candésartan à des inhibiteurs de l'enzyme de conversion, l'incidence de la toux a été plus faible chez les patients traités par candésartan cilexetil. Le candésartan n'agit sur aucun autre récepteur hormonal ou canal ionique ayant un rôle important dans la régulation cardiovasculaire. L'antagonisme des récepteurs de l'angiotensine II (AT1) se traduit par une augmentation dose-dépendante des taux plasmatiques de rénine, d'angiotensine I et d'angiotensine II, et par une diminution de la concentration plasmatique d'aldostérone. | Le candésartan et l' | hydrochlorothiazide | ont des effets antihypertenseurs additifs.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperkaliémie (Fréquent) | - Hyponatrémie (Très rare) | - Enzymes hépatiques (augmentation) (Très rare) | - Neutropénie (Très rare) | - Hémoglobinémie (diminution) | DERMATOLOGIE: | - Urticaire (Très rare) | - Eruption cutanée (Très rare) | - Prurit (Très rare) | DIVERS: | - Fièvre (Fréquent) | HÉMATOLOGIE: | - Agranulocytose (Très rare) | - Leucopénie (Très rare) | HÉPATOLOGIE: | - Hépatite (Très rare) | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Douleur oropharyngée (Très fréquent) | - Sensation de vertige (Fréquent) | - Rhinopharyngite (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Arythmie sinusale (Fréquent) | - Hypotension artérielle (Fréquent) | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Angioedème intestinal (Très rare) | - Nausée (Très rare) | - Fonction hépatique anormale (Très rare) | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très rare) | - Douleur articulaire (Très rare) | - Dorsalgie (Très rare) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Infection respiratoire (Fréquent) | - Toux (Très fréquent) | - Infection des voies respiratoires supérieures (Très fréquent) | UROLOGIE, NÉPHROLOGIE: | - Atteinte de la fonction rénale (Très rare) | - Insuffisance rénale

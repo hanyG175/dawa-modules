@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_334
+DCI: RETINOL PALMITATE 100 000 UI/2 ml sol inj (VITAMINE A PROVEPHARM)
+Brand Names: ASTENIA
+Pharmaceutical Forms: Comprimé
+Dosages: 0.4mg/0.005mg/10mg/1.4mg/1.6mg/2mg/18mg/0.2mg/6mg/0.150mg/0.001mg/60mg/2.4mg
+Packaging: t/20
+Laboratories: PROVEPHARM
+Registration Numbers: 348/14 H 334/09
+Drug Codes: 14 H 334
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Carence en vitamine A, lorsque la voie orale n'est pas possible. | Malabsorption digestive de la vitamine A : mucoviscidose, cholestase hépatique, insuffisance pancréatique, autres malabsorptions. | Apport en vitamine A au cours de la nutrition entérale élémentaire.

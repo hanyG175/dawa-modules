@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_C_246
+DCI: LYMECYCLINE 226 mg gél (TETRALYSAL) | Lymecycline (Exprime En Tetracycline Base)
+DrugBank ID: DB00256
+DrugBank Name: Lymecycline
+Brand Names: TETRALYSAL | TETRAMAX
+Pharmaceutical Forms: Gélule
+Dosages: 150 mg | 150mg
+Packaging: b/16
+Laboratories: GALDERMA INTERNATIONAL | TOUR EUROPLAZA - LA DEFENSE 4 | 20, AVENUE ANDRE PROTHIN | 92927 LA DEFENSE CEDEX
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01A - TETRACYCLINES | J01AA - TETRACYCLINES | J01AA04 - LYMECYCLINE | J01AA04
+Registration Numbers: 123/13 C 246/03/14 | 149/13 C 246/21
+Drug Codes: 13 C 246
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Lymecycline, like other tetracyclines, exerts bacteriostatic actions on intracellular and extracellular bacteria, treating susceptible bacterial infections. 9 It has been shown to be safe and effective in the treatment of moderate to severe acne. 1 It is important to note that like other tetracyclines, lymecycline may cause esophageal irritation and ulceration, which can be prevented by drinking adequate fluids during administration. It also has the potential to cause photosensitivity. Lymecycline can lead to renal tubular acidosis or hepatic toxicity. It is not recommended to administer this drug in patients with renal disease or severe hepatic disease. 8 , 9
+
+## Mechanism Of Action
+
+Small ribosomal subunit protein uS4 (Escherichia coli (strain K12)) Inhibitor
+
+## Absorption
+
+Lymecycline is 77-88% absorbed after oral administration with a relative bioavailability of 70%. 4 The Cmax of lymecycline is 2.1 mg/L and is achieved about 3 hours after administration. 3 The AUC is 21.9 ± 4.3 mg·h/L. 3
+
+## Volume Of Distribution
+
+Lymecycline is lipophilic and easily crosses the cell membrane and passively diffuses through bacterial porin channels. 3 , 5 As a second-generation tetracycline, the concentration in the bile ranges from 10 to 25 times higher than plasma concentration. 3 , 7 In general, the volume of distribution of tetracyclines ranges from 1.3–1.7 L/kg or 100–130 L. 3
+
+## Route Of Elimination
+
+Lymecycline is 25% eliminated in the urine. 3 Based on being a member of the tetracycline drug class, fecal elimination is likely another route of elimination. 7
+
+## Half Life
+
+The half-life of lymecycline is approximately 8 hours. 3
+
+## Clearance
+
+Lymecycline is partially cleared by the kidneys, like other tetracyclines. 7
+
+## Toxicity
+
+The oral LD50 of lymecycline in rats is 3200 mg/kg. 10 Overdoses with lymecycline are rare. In the case of an overdose, gastric lavage should be performed immediately. Provide supportive treatment and maintain fluid balance. 9

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_024
+DCI: THEOPHYLLINE 200 mg gél LP (DILATRANE)
+Brand Names: DIFFUMAX
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/30
+Laboratories: SERP
+ATC Classification: R03DA04
+Registration Numbers: 203/20 A 024/00
+Drug Codes: 20 A 024
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement symptomatique continu de l'asthme persistant et des autres bronchopneumopathies chroniques obstructives. | La théophylline n'est pas le traitement de première intention de l'asthme.
+
+## Posology
+
+Posologie | Unité de prise | gélule | théophylline : 200 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Posologie à augmenter par palier à intervalle d'au moins 3 jours si besoin | Surveillance de la théophyllinémie pendant le traitement | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 16 an(s) | Poids >= 40 kg | Asthme chez l'enfant, traitement symptomatique continu de 2e intention (de l') - Asthme à dyspnée paroxystique - BPCO, traitement symptomatique continu (de la) | Traitement d'attaque | Administrer matin et soir | Posologie à instaurer progressivement | 10 à 12 mg/kg en 2 prises par jour | Ne pas administrer moins de 3 jours. | Traitement ultérieur | Administrer matin et soir | Posologie à adapter en fonction de la réponse clinique | 10 à 16 mg/kg en 2 prises par jour | Patient à partir de 16 an(s) | Patient quel que soit le poids | Asthme chez l'adulte, traitement symptomatique continu (de l') - Asthme à dyspnée paroxystique - BPCO, traitement symptomatique continu (de la) | Traitement initial | Dans le cas de : Schéma posologique 1 | Administrer matin et soir | Posologie à instaurer progressivement | 10 mg/kg en 2 prises par jour | Ne pas administrer moins de 3 jours. | Dans le cas de : Schéma posologique 2 | Administrer au coucher | Posologie à instaurer progressivement | 10 mg/kg en 1 prise par jour | Ne pas administrer moins de 3 jours. | Traitement ultérieur | Dans le cas de : Schéma posologique 1 | Administrer matin et soir | Posologie à adapter en fonction de la réponse clinique | 300 à 900 mg en 2 prises par jour | Dans le cas de : Schéma posologique 2 | Administrer au coucher | Posologie à adapter en fonction de la réponse clinique | 10 mg/kg en 1 prise par jour | Posologie maximale: 600 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Antécédent d'épilepsie | Cardiomyopathie obstructive | Crise d'asthme | Dysthyroïdie | Enfant de moins de 40 kg | Enfant entre 30 mois et 6 ans | Epilepsie | Fièvre | Grossesse | Hypertension artérielle sévère | Insuffisance cardiaque aiguë | Insuffisance coronarienne | Insuffisance hépatique | Insuffisance rénale | Interchangeabilité | Mucoviscidose | Nouveau-né exposé in utero au médicament | Obésité | Sujet âgé | Tabagisme | Ulcère digestif | Ulcère gastroduodénal évolutif
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | III | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Théophylline : Mécanisme d'action | La théophylline est une base xanthique. Elle exerce une action bronchodilatatrice par relaxation des muscles lisses bronchiques. | Par ailleurs, elle exerce une action sur la relaxation des muscles lisses des voies urinaires et biliaires et du sphincter inférieur de l'oesophage ; une action sur la stimulation centrale, analeptique respiratoire, psychostimulant, agent convulsivant à hautes doses ; une vasodilatation coronarienne, stimulation cardiaque avec augmentation des besoins en | oxygène | du c | œ | ur (coronarodilatateur dit « malin ») ; et enfin une action diurétique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperglycémie | - Hypercalcémie | - Hyperuricémie | - Hypokaliémie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | PSYCHIATRIE: | - Agitation | - Insomnie | - Irritabilité | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Tachycardie | - Hypotension artérielle | - Arythmie | SYSTÈME DIGESTIF: | - Ulcère digestif (Rare) | - Hémorragie digestive (Rare) | - Vomissement | - Nausée | - Douleur épigastrique | - Syndrome occlusif | - Diarrhée | - Tonus du sphincter inférieur de l'oesophage (diminution) | - Reflux gastro-oesophagien | SYSTÈME NERVEUX: | - Tremblement des extrémités | - Céphalée | - Tremblement | - Convulsions | UROLOGIE, NÉPHROLOGIE: | - Polyurie

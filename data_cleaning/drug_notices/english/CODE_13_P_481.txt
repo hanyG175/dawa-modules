@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_481
+DCI: EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (fumarate) 245 mg cp (EMTRICITABINE/TENOFOVIR DISOPROXIL ACCORD)
+DrugBank ID: DB00879
+DrugBank Name: Emtricitabine
+Brand Names: TENOF EM
+Pharmaceutical Forms: Comprimé
+Dosages: 200 mg/300mg (equivalent à 245 mg de tenofovir disoproxil)
+Packaging: flacon de 30
+ATC Classification: J05AF09
+Registration Numbers: 524/13 P 481/17
+Drug Codes: 13 P 481
+
+------------------------------------------------------------
+
+## Description
+
+Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) indicated for the treatment of HIV infection in adults 6 or combined with tenofovir alafenamide for the prevention of HIV-1 infection in high risk adolescents and adults. 5 Emtricitabine is a cytidine analogue. 6 The drug works by inhibiting HIV reverse transcriptase, preventing transcription of HIV RNA to DNA. 6 Emtricitabine was granted FDA approval on 2 July 2003. 6
+
+## Pharmacodynamics
+
+Emtricitabine is a cytidine analog that competes with the natural substrate of HIV-1 reverse transcriptase to be incorporated into newly formed DNA, terminating its transcription. 6 It is administered once daily so it has a long duration of action. Patients should be counselled regarding the risk of lactic acidosis and hepatomegaly with steatosis. 6
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+Emtricitabine reaches a C max of 1.8±0.7µg/mL with a T max of 1-2 hours, and has an AUC of 10±3.1µg*hr/mL. 6 The bioavailability of emtricitabine capsules is 93% and the bioavailability of the oral solution is 75%. 6 Taking emtricitabine with food decreases the C max by 29%.[L9019
+
+## Volume Of Distribution
+
+The apparent central volume of distribution is 42.3L and the peripheral volume of distribution is 55.4L. 2
+
+## Metabolism
+
+Emtricitabine is approximately 86% unmetabolized. 6 Approximately 9% of a dose is metabolized to 3'-sulfoxide diastereomers, 4% to the 2'-O-glucuronide, and a minor amount is converted to 5-fluorocytosine. 1 , 6 Hover over products below to view reaction partners Emtricitabine Emtricitabine 3'-sulfoxide (M-III) Emtricitabine 3'-sulfoxide (M-IV) Emtricitabine O-glucuronide (M-II) 5-fluorocytosine
+
+## Route Of Elimination
+
+Emtricitabine is 86% recovered in the urine and 14% recovered in feces. 6 13% of the dose is recovered in the urine as metabolites; 9% as 3'-sulfoxide diastereomers and 4% as 2'-O-glucuronide. 6
+
+## Half Life
+
+The half life of emtricitabine is approximately 10 hours. 6
+
+## Clearance
+
+Emtricitabine has an apparent elimination rate of 15.1L/h. 2 This rate is closely linked to creatinine clearance. 2
+
+## Toxicity
+
+The LD 50 of emtricitabine is not readily available.[9019,L9818] Symptoms of emtricitabine toxicity include hepatotoxicity with steatosis, as well as lactic acidosis. 6 Treat overdose with symptomatic and supportive measures, including hemodialysis. 6

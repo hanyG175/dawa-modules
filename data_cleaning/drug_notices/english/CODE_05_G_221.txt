@@ -1,0 +1,65 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_221
+DCI: Bendamustine Chlorhydrate Monohydrate Experime En Bendamustine Chlorhydrate
+DrugBank ID: DB06769
+DrugBank Name: Bendamustine
+Brand Names: BENTERO 100
+Pharmaceutical Forms: Lyophilisat Pour Solution A Diluer Pour Perfusion Iv
+Dosages: 100 mg/fl
+Packaging: b/1 flacon de lyophilisat de 20 ml ( 5mg/ml apres reconstitution)
+Registration Numbers: 524/05 G 221/19
+Drug Codes: 05 G 221
+
+------------------------------------------------------------
+
+## Description
+
+Bendamustine is a nitrogen mustard drug which has been used in the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL). Bendamustine is a bifunctional mechlorethamine derivative capable of forming electrophilic alkyl groups that covalently bond to other molecules. Through this function as an alkylating agent, bendamustine causes intra- and inter-strand crosslinks between DNA bases resulting in cell death. It is active against both active and quiescent cells, although the exact mechanism of action is unknown.
+
+## Pharmacodynamics
+
+No mean changes in QTc interval greater than 20 milliseconds were detected up to one hour post-infusion.
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Absorption
+
+Following a single IV dose of bendamustine hydrochloride Cmax typically occurred at the end of infusion. The dose proportionality of bendamustine has not been studied.
+
+## Volume Of Distribution
+
+The mean steady-state volume of distribution (Vss) of bendamustine was approximately 20-25 L. Steady-state volume of distribution for total radioactivity was approximately 50 L, indicating that neither bendamustine nor total radioactivity are extensively distributed into the tissues.
+
+## Metabolism
+
+In vitro data indicate that bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxy-bendamustine (HP2) metabolites with low cytotoxic activity. Two active minor metabolites, M3 and M4, are primarily formed via CYP1A2. However, concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively, suggesting that the cytotoxic activity is primarily due to bendamustine. Results of a human mass balance study confirm that bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways. Hover over products below to view reaction partners Bendamustine γ-hydroxybendamustine (Bendamustine metabolite M3) N-desmethyl-bendamustine (Bendamustine metabolite M4) monohydroxy-bendamustine (bendamustine metabolite HP1) dihydroxy-bendamustine (bendamustine metabolite HP2)
+
+## Route Of Elimination
+
+Mean recovery of total radioactivity in cancer patients following IV infusion of [14C] bendamustine hydrochloride was approximately 76% of the dose. Approximately 50% of the dose was recovered in the urine and approximately 25% of the dose was recovered in the feces. Urinary excretion was confirmed as a relatively minor pathway of elimination of bendamustine, with approximately 3.3% of the dose recovered in the urine as parent. Less than 1% of the dose was recovered in the urine as M3 and M4, and less than 5% of the dose was recovered in the urine as HP2.
+
+## Half Life
+
+40 minutes
+
+## Clearance
+
+700 mL/min
+
+## Toxicity
+
+Risk for tumor-lysis syndrome.
+Discontinue use in the event of severe/progressive skin reactions.
+Hematologic malignancies of different forms reported.
+Discontinue use in the case of severe infusion reactions.
+May cause extravasation.
+Mild to moderate renal impairment.
+Mild hepatic impairment.
+Sepsis (infections) may occur.
+Avoid use if pregnant.
+Possibility of anaphylaxis or infusion reactions- severe in rare cases.

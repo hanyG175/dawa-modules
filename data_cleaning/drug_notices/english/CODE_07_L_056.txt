@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_L_056
+DCI: ACITRETINE 25 mg gél (SORIATANE)
+DrugBank ID: DB00459
+DrugBank Name: Acitretin
+Brand Names: BIOTRETANE
+Pharmaceutical Forms: Gélule
+Dosages: 25mg
+Packaging: b/30
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D05 - MEDICAMENTS CONTRE LE PSORIASIS | D05B - MEDICAMENTS CONTRE LE PSORIASIS A USAGE SYSTEMIQUE | D05BB - RETINOIDES POUR LE TRAITEMENT DU PSORIASIS | D05BB02 - ACITRETINE
+Registration Numbers: 263/07 L 056/25
+Drug Codes: 07 L 056
+
+------------------------------------------------------------
+
+## Description
+
+An oral retinoid effective in the treatment of psoriasis. It is the major metabolite of etretinate with the advantage of a much shorter half-life when compared with etretinate.
+
+## Pharmacodynamics
+
+Acitretin is a retinoid. Retinoids have a structure similar to vitamin A and are involved in the normal growth of skin cells. Acitretin works by inhibiting the excessive cell growth and keratinisation (process by which skin cells become thickened due to the deposition of a protein within them) seen in psoriasis. It therefore reduces the thickening of the skin, plaque formation and scaling.
+
+## Mechanism Of Action
+
+Retinoic acid receptor RXR-alpha Agonist Retinoic acid receptor alpha Agonist Retinoic acid receptor beta Agonist + 4 more targets
+
+## Absorption
+
+Oral absorption of acitretin is optimal when given with food, and is linear and proportional with increasing doses from 25 to 100 mg. Approximately 72% (range 47% to 109%) of the administered dose was absorbed after a single 50 mg dose of acitretin was given to 12 healthy subjects.
+
+## Metabolism
+
+Following oral absorption, acitretin undergoes extensive metabolism and interconversion by simple isomerization to its 13-cis form (cis-acitretin). Both parent compound and isomer are further metabolized into chain-shortened breakdown products and conjugates, which are excreted.
+
+## Route Of Elimination
+
+Both parent compound and isomer are further metabolized into chain-shortened breakdown products and conjugates, which are excreted. The chain-shortened metabolites and conjugates of acitretin and cis-acitretin are ultimately excreted in the feces (34% to 54%) and urine (16% to 53%).
+
+## Half Life
+
+49 hours (range 33 to 96 hours)
+
+## Toxicity
+
+Oral, rat: LD 50 = >4000 mg/kg. Symptoms of overdose include headache and vertigo.

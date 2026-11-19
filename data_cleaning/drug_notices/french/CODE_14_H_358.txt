@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_358
+DCI: ALPHA-TOCOPHEROL ACETATE 500 mg caps molle (TOCO)
+Brand Names: API E
+Pharmaceutical Forms: Comprimé
+Dosages: 500 mg
+Packaging: b/02 tubes de 10
+Laboratories: ETHYX PHARMACEUTICALS
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A11 - VITAMINES | A11H - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA03 - TOCOPHEROL (VIT E)
+Registration Numbers: 348/14 H 358/17
+Drug Codes: 14 H 358
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement des carences en vitamine E.
+
+## Posology
+
+Posologie | Unité de prise | capsule | alpha-tocophérol acétate : 500 mg | Modalités d'administration | Voie orale | Administrer au petit-déjeuner | Administrer avec une quantité suffisante d'eau | Administrer entier | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Carence en vitamine E - Carence en vitamine E, traitement préventif (de la) | Posologie standard | 1 capsule 1 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Patient traité à posologie élevée | Sujet à risque d'accident thromboembolique | Traitement par anticoagulant en cours | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Alpha-tocophérol : Mécanisme d'action | L’alpha-tocophérol est la forme active de la vitamine E.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Temps de saignement (anomalie) | DIVERS: | - Fatigue (Rare) | - Asthénie (Rare) | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Mastodynie | OPHTALMOLOGIE: | - Vision floue | ORL, STOMATOLOGIE: | - Gingivorragie | - Vertige | PSYCHIATRIE: | - Trouble émotif (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Thrombophlébite | SYSTÈME DIGESTIF: | - Douleur abdominale (Rare) | - Diarrhée (Rare) | - Flatulence (Rare) | - Nausée (Rare) | - Trouble digestif | SYSTÈME MUSCULO-SQUELETTIQUE: | - Faiblesse musculaire (Rare) | SYSTÈME NERVEUX: | - Céphalée (Rare)

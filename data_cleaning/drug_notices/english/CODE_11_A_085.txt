@@ -1,0 +1,34 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_A_085
+DCI: SERTACONAZOLE NITRATE 300 mg ovule (SERTACONAZOLE SUBSTIPHARM) | Sertaconazole
+DrugBank ID: DB01153
+DrugBank Name: Sertaconazole
+Brand Names: GYNODERMOFIX | GYNOMIX | SERTAZOLE
+Pharmaceutical Forms: Ovule
+Dosages: 300mg
+Packaging: b/01
+Laboratories: SUBSTIPHARM | 24 RUE ERLANGER | 75016 PARIS
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G01 - ANTI-INFECTIEUX ET ANTISEPTIQUES A USAGE GYNECOLOGIQUE | G01A - ANTI-INFECTIEUX ET ANTISEPTIQUES, NON ASSOCIES AUX CORTICOÏDES | G01AF - DERIVES IMIDAZOLES | G01AF19 - SERTACONAZOLE
+Registration Numbers: 231/11 A 085/20 | 263/11 A 085/11/24 | 366/11 A 085/16
+Drug Codes: 11 A 085
+
+------------------------------------------------------------
+
+## Description
+
+Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available in topical formulations for the treatment of skin infections such as athlete's foot.
+
+## Pharmacodynamics
+
+Sertaconazole is an imidazole/triazole type antifungal agent. Sertaconazole is a highly selective inhibitor of fungal cytochrome P-450 sterol C-14 α-demethylation via the inhibition of the enzyme cytochrome P450 14α-demethylase. This enzyme converts lanosterol to ergosterol, and is required in fungal cell wall synthesis. The subsequent loss of normal sterols correlates with the accumulation of 14 α-methyl sterols in fungi and may be partly responsible for the fungistatic activity of fluconazole. Mammalian cell demethylation is much less sensitive to fluconazole inhibition. Sertaconazole exhibits in vitro activity against Cryptococcus neoformans and Candida spp. Fungistatic activity has also been demonstrated in normal and immunocompromised animal models for systemic and intracranial fungal infections due to Cryptococcus neoformans and for systemic infections due to Candida albicans.
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Inhibitor
+
+## Absorption
+
+Bioavailability is negligible.

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_116
+DCI: MEBEVERINE CHLORHYDRATE 200 mg cp (MEBEVERINE ZYDUS)
+Brand Names: DUSPATALIN | DUSPAVERINE | MEBEVAN LP 200 | MEBEVERINE BEKER LP | SPALVERINE | SPASCOL LP
+Pharmaceutical Forms: Gélule | Microgranule En Gellule Liberation Prolongee
+Dosages: 200mg
+Packaging: b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AA - ANTICHOLINERGIQUES DE SYNTHESE : ESTERS AVEC GROUPEMENT AMINE TERTIAIRE | A03AA04 - MEBEVERINE
+Registration Numbers: 065/10 E 116/08/25 | 147/10 E 116/01/24 | 289/10 E 116/13/23 | 418/10 E 116/12 | 447/10 E 116/17/22 | 518/10 E 116/24
+Drug Codes: 10 E 116
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | mébévérine chlorhydrate : 200 mg | Modalités d'administration | Voie orale | Administrer avant le repas | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Colique hépatique - Douleur spasmodique des voies digestives | Posologie standard | 1 comprimé 2 à 3 fois par jour
+
+## Precautions
+
+Allaitement | Enfant entre 6 et 15 ans | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Mébévérine : Mécanisme d'action | La mébévérine est un antispasmodique musculotrope.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Très rare) | - Urticaire | - Prurit | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Oedème de Quincke | ORL, STOMATOLOGIE: | - Vertige (Rare) | SYSTÈME DIGESTIF: | - Nausée (Rare) | SYSTÈME NERVEUX: | - Céphalée (Rare)

@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_121
+DCI: DORZOLAMIDE (chlorhydrate) 20 mg/ml collyre sol (DORZOLAMIDE ARROW) | DORZOLAMIDE (chlorhydrate) 20 mg/ml collyre sol (DORZOLAMIDE BGR) | Dorzolamide Chlorhydrate Exprime En Dorzolamide
+DrugBank ID: DB00869
+DrugBank Name: Dorzolamide
+Brand Names: ALZOR | DAROMED | DORZAMED | DORZAMIDE | TRUSAMID | XOLA JAM | ZOLAMIDE | ZOLAMIDE FREE
+Pharmaceutical Forms: Collyree | Collyree En Solution
+Dosages: 2% (20mg/ml) | 20mg/ml
+Packaging: boite d'un flacon de 5ml | flacon./5ml
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EC - INHIBITEURS DE L'ANHYDRASE CARBONIQUE | S01EC03 - DORZOLAMIDE | S01EC04
+Registration Numbers: 023/17 C 121/08/14 | 055/17 C 121/24 | 065/17 C 121/17/23 | 065/17 C 121/24 | 071/17 C 121/13 | 380/17 C 121/16 | 386/17 C 121/09/17 | 521/17 C 121/16
+Drug Codes: 17 C 121
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Dorzolamide is a carbonic anhydrase inhibitor that reduces elevated intraocular pressure in open-angle glaucoma or ocular hypertension. When used in combination with topic beta-adrenergic antagonists, dorzolamide has an additive effect of lowering intraocular pressure. The peak ocular hypotensive effect of dorzolamide is observed at about 2 hours following ophthalmic administration. 2
+
+## Mechanism Of Action
+
+Carbonic anhydrase 2 Inhibitor Carbonic anhydrase 4 Inhibitor Carbonic anhydrase 1 Inhibitor
+
+## Absorption
+
+Dorzolamide readily penetrated into the eye in animal studies. 2 Upon ophthalmic administration, dorzolamide is absorbed via the cornea and stroma. 1 Dorzolamide is reported to be absorbed systematically following topical administration. 6 The systemic exposure of dorzolamide following long-term administration was assessed in healthy subjects receiving an oral dose of 2 mg dorzolamide twice daily, which equates to the ophthalmic dose of 2% dorzolamide three times daily. In these subjects receiving the treatment for 20 weeks, the steady-state was reached within 8 weeks. 6
+
+## Volume Of Distribution
+
+There is limited information on the volume of distribution of dorzolamide; however, the plasma concentrations of dorzolamide and its main metabolite are generally below the assay limit of quantitation, which is 15nM. Dorzolamide accumulates in red blood cells following chronic administration as a result of binding to CA-II, which is contained in peripheral red blood cells (RBCs). 6
+
+## Metabolism
+
+Dorzolamide is slowly metabolised to N-desethyldorzolamide, which has a less potent pharmacological activity on CA-II and some inhibitory effect on CA-I. 6 Like the parent drug, N-desethyldorzolamide is also stored in RBCs, where it binds to CA-I. 1 , 6 The findings of an in vitro study using liver microsomes from Sprague-Dawley rats suggest the involvement of CYP2B1, CYP2E1, and CYP3A2 in the metabolism of dorzolamide in rat liver. 4 Hover over products below to view reaction partners Dorzolamide N-desethyldorzolamide
+
+## Route Of Elimination
+
+Dorzolamide is primarily excreted unchanged in the urine; however, N-desethyldorzolamide is also detected in the urine. 6
+
+## Half Life
+
+As the drug administration is stopped, dorzolamide stored in RBCs is washed out of RBCs in a non-linear fashion, 6 with the terminal elimination half-life of ≥120 days in RBCs. 2 This initial rapid decline in drug concentrations is followed by the slow elimination phase, where the elimination half-life of the drug is about >4 months. 1
+
+## Clearance
+
+There is limited information on the clearance rate of dorzolamide.
+
+## Toxicity
+
+The oral LD 50 of dorzolamide is 1927 mg/kg in rats and 1320 mg/kg in mice. The subcutaneous LD 50 is >2 g/kg in both rats and mice. 8 Overdose may result in electrolyte imbalance, acidosis, and possibly central nervous system effects; these symptoms should be responded with appropriate supportive treatment. It is advised that the patient's serum electrolyte (particularly potassium) levels and blood pH levels are monitored in the case of a suspected overdose. 6

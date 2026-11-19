@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_202
+DCI: Repaglinide
+Brand Names: REPAGLINIDE BEKER
+Pharmaceutical Forms: Comprimé
+Dosages: 2MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 390 DA
+PPA (DA): 390.00 DA
+Prescription List: Liste I
+ATC Classification: 14A202
+Registration Numbers: 001/14 A 202/14/24 | 035/14 A 202/23 | 065/14 A 202/15 | 069/14 A 202/01/21 | 149/14 A 202/18 | 235/14 A 202/21 | 263/14 A 202/18 | 285/14 A 202/22 | 289/14 A 202/20 | 293/14 A 202/14/24 | 317/14 A 202/15 | 418/14 A 202/17 | 447/14 A 202/17/22 | 462/14 A 202/19
+Drug Codes: 14 A 202
+
+------------------------------------------------------------
+
+## Indications
+
+METABOLISME NUTRITION DIABETE
+
+## Mechanism Of Action
+
+ANTIDIABETIQUES ORAUX

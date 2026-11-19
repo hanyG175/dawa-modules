@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_C_020
+DCI: Nystatine/Triamcinolone/Neomycine
+DrugBank ID: DB00646
+DrugBank Name: Nystatin
+Brand Names: MICOTYDE | MYCOCIDE | MYCOCINE | MYCOMEX
+Pharmaceutical Forms: Pommademade
+Dosages: 10mui/0.1g/0.25g
+Packaging: t/15g
+Registration Numbers: 003/07 C 020/97/24 | 088/07 C 020/03/24 | 366/07 C 020/09/17 | 400/07 C 020/17
+Drug Codes: 07 C 020
+
+------------------------------------------------------------
+
+## Description
+
+Nystatin is a polyene antifungal drug that has broad-spectrum fungicidal and fungistatic activity against a number of yeasts and fungi, most notably Candida species. 8 It is one of the most effective antifungal agents synthesized by bacteria, in this case a strain of Streptomyces noursei , 13 and is closely related to amphotericin B , differing only slightly in structure. 2 Nystatin has a greater antifungal activity than amphotericin B - parenterally administered nystatin, however, is associated with significant toxicity and is not available in a formulation appropriate for systemic use. 2 As it undergoes very little absorption following oral or topical administration, nystatin's efficacy is limited to the treatment/prevention of cutaneous, mucocutaneous, and gastrointestinal fungal infections. 8 , 9
+
+## Pharmacodynamics
+
+Nystatin is an antifungal that is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi. It exerts its antifungal effects via disruption of the fungal cell membrane. Resistance to nystatin is minimal in Candida albicans , but tends to develop in other species of Candida . 8 Nystatin carries no significant activity against bacteria, protozoa, or viruses. It carries significant systemic toxicity and is currently unavailable in a formula appropriate for systemic use - its efficacy is currently restricted, therefore, to topical, oral, and gastrointestinal infections. 2
+
+## Mechanism Of Action
+
+Ergosterol (Candida albicans) Binder
+
+## Absorption
+
+Systemic absorption of nystatin is minimal following oral administration, 8 and no detectable plasma concentrations are attained following topical or vaginal administration. 12
+
+## Volume Of Distribution
+
+Nystatin is not absorbed into the systemic circulation 8 and thus does not undergo distribution.
+
+## Metabolism
+
+Because nystatin undergoes little-to-no systemic absorption it is not metabolized to any appreciable extent. 8
+
+## Route Of Elimination
+
+The majority of orally administered nystatin is eliminated unchanged in the feces. 8
+
+## Toxicity
+
+The oral LD 50 in rats is 10 g/kg. 11 There have been no reports of serious toxic effects following overdosage of nystatin - doses in excess of five million units daily have resulted in nausea and gastrointestinal upset with no other associated effects. 8

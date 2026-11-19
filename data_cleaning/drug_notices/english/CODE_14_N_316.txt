@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_316
+DCI: Imiglucerase
+DrugBank ID: DB00053
+DrugBank Name: Imiglucerase
+Brand Names: CEREZYME
+Pharmaceutical Forms: Poudre
+Dosages: 400 UNITES D'IMIGLUCERASE / FL. DE PDRE.
+Packaging: B/01FL. DE PDRE. 400UI
+Laboratories: GENZYME EUROPE BV
+Countries: PAYS BAS
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 14N316
+Registration Numbers: 339/14 N 316/06/18 | 592/14 N 316/23
+Drug Codes: 14 N 316
+
+------------------------------------------------------------
+
+## Description
+
+Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.
+
+## Pharmacodynamics
+
+Gaucher disease is characterized by a functional deficiency in Beta-glucocerebrosidase enzymatic activity and the resultant accumulation of lipid glucocerebroside in tissue macrophages which become engorged and are termed Gaucher cells. Gaucher cells are typically found in liver, spleen and bone marrow. This can lead to an enlarged spleen and liver (hepatosplenomegaly). Secondary hematologic sequelae include severe anemia and thrombocytopenia. Injections of imiglucerase into Gaucher disease patients leads to elevated serum levels of the enzyme and reduction in the accumulation of glucocerebroside leading to reduced anemia and thrombocytopenia, reduced spleen and liver size, and decreased cachexia
+
+## Mechanism Of Action
+
+Glucocerebroside Other/unknown
+
+## Volume Of Distribution
+
+0.09 to 0.15 L/kg
+
+## Clearance
+
+14.5 +/- 4.0 mL/min/kg

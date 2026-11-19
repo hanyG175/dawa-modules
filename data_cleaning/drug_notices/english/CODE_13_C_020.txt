@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_C_020
+DCI: Doxycycline
+DrugBank ID: DB00254
+DrugBank Name: Doxycycline
+Brand Names: DOTUR | XYLINE
+Pharmaceutical Forms: Comprimé
+Dosages: 100 mg
+Packaging: b/10
+Laboratories: ARROW GENERIQUES | 26, AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: J01AA02
+Registration Numbers: 549/13 C 020/25 | 608/13 C 020/98/26
+Drug Codes: 13 C 020
+
+------------------------------------------------------------
+
+## Description
+
+Doxycycline is a broad-spectrum antibiotic synthetically derived from oxytetracycline . 13 It is a second-generation tetracycline that was first discovered in 1967. 6 Second-generation tetracyclines exhibit lesser toxicity than first-generation tetracyclines. 5 Doxycycline is used to treat a wide variety of gram-positive and gram-negative bacterial infections. It is also used to treat acne and malaria. 8
+
+## Pharmacodynamics
+
+Doxycycline and other tetracyclines are mainly bacteriostatic and are thought to exert antimicrobial effects by the inhibition of protein synthesis. They suppress the growth of bacteria or keep them in the stationary phase of growth. 3 Tetracyclines have antimicrobial spectrum of activity against a variety of gram-positive and gram-negative microorganisms. 11 Cross-resistance of these microorganisms to tetracyclines is a common occurrence. 11 As it is a highly lipophilic drug, doxycycline crosses multiple membranes of target molecules. 8 Doxycycline shows favorable intra-cellular penetration, with bacteriostatic activity against a wide range of bacteria. 9 Doxycycline also exhibits antiparasitic properties 1 , 2 , 3 and anti-inflammatory actions. 4 , 8 Its anti-inflammatory effects were investigated in various inflammatory skin conditions, such as bullous dermatoses 8 and rosacea. 4 , 8
+
+## Mechanism Of Action
+
+30S ribosomal protein Inhibitor
+
+## Absorption
+
+Doxycycline is virtually completely absorbed after oral administration 11 with a bioavailability of ranging from 73-95%. 10 Following an oral dose of 500 mg, the C max of 15.3 mg/L was reached in four hours. 10 Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours. 13 While a high-fat meal lowers C max and the rate of absorption, the effect is not clinically significant. 11
+
+## Volume Of Distribution
+
+There is limited information available.
+
+## Metabolism
+
+There is limited information available.
+
+## Route Of Elimination
+
+Tetracyclines, including doxycycline, are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form. 11 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min. This percentage may fall as low as 1-5%/72 hours in individuals with a creatinine clearance below 10 mL/min. 11
+
+## Half Life
+
+There is limited information available.
+
+## Clearance
+
+Population pharmacokinetic analysis of sparse concentration-time data of doxycycline following standard of care intravenous and oral dosing in 44 pediatric patients two to 18 years of age showed allometrically -scaled clearance (CL) ranging from 3.27 to 3.58 L/h/70 kg. 13
+
+## Toxicity
+
+Oral LD 50 is 2000 mg/kg in rats, 1870 mg/kg in mice, and 500 mg/kg in dog. 14 In case of overdosage, doxycycline should be discontinued and symptomatic and supportive treatment should be initiated. Dialysis does not alter serum half-life and thus would not be of benefit in treating cases of overdosage. 11

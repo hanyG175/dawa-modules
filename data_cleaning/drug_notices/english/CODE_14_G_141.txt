@@ -1,0 +1,43 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_141
+DCI: CALCIUM (carbonate) 500 mg cp à croquer/sucer (CALCIUM ARROW) | Calcium Carbonate
+DrugBank ID: DB06724
+DrugBank Name: Calcium carbonate
+Brand Names: CALCIMED | CALCIOS | CALCIUM BR | CALCIUM NOVAGENERICS | CALPEROS | KALCITAB | OSSECAL
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/60
+Laboratories: BOUCHARA RECORDATI | IMMEUBLE LE WILSON | 70 AVENUE DU GENERAL DE GAULLE | 92 800 PUTEAUX
+ATC Classification: A12AA04 | C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA05 - ATORVASTATINE
+Registration Numbers: 149/14 G 141/17/23 | 235/14 G 141/18 | 269/14 G 141/98/24 | 318/14 G 141/23 | 378/14 G 141/23 | 490/14 G 141/18/23 | 544/14 G 141/22
+Drug Codes: 14 G 141
+
+------------------------------------------------------------
+
+## Description
+
+Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+
+## Pharmacodynamics
+
+Gastric-peptic disease occurs as a result of an imbalance between protective factors, such as mucus, bicarbonate, and prostaglandin secretion, and aggressive factors, such as hydrochloric acid, pepsin, and Helicobacter pylori ( H. pylori ). Antacids work by restoring acid-base balance, attenuating the pepsin activity and increasing bicarbonate and prostaglandin secretion. The acid-neutralizing capacity of calcium carbonate is 58 mEq/15 ml.
+When used as a nutritional supplement, calcium carbonate acts by directly increasing calcium stores within the body.
+
+## Mechanism Of Action
+
+Calcium carbonate is a basic inorganic salt that acts by neutralizing hydrochloric acid in gastric secretions. It also inhibits the action of pepsin by increasing the pH and via adsorption. Cytoprotective effects may occur through increases in bicarbonate ion (HCO 3 - ) and prostaglandins. Neutralization of hydrochloric acid results in the formation of calcium chloride, carbon dioxide and water. Approximately 90% of calcium chloride is converted to insoluble calcium salts (e.g. calcium carbonate and calcium phosphate).
+
+## Absorption
+
+Maximal absorption occurs at doses of 500 mg or less taken with food. Oral bioavailability depends on intestinal pH, the presence of food and dosage.
+
+## Volume Of Distribution
+
+Calcium is rapidly distributed taken up by skeletal tissues following absorption and distribution into extracellular fluids. Bone contains 99% of the body's calcium and the remaining 1% is approximately equally distributed between intracellular and extracellular fluids.
+
+## Route Of Elimination
+
+Excreted mainly in the feces. The majority of renally filtered calcium is reabsorbed in the ascending limb of the loop of Henle and the proximal and distal convoluted tubules. Also secreted by sweat glands.

@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_B_005
+DCI: Flubendazole
+DrugBank ID: DB08974
+DrugBank Name: Flubendazole
+Brand Names: FLUBENE | FLUDAZOL | FLUMOX | FLUVERDAL | FLUVERMAL | FLUVERMI | FLUVERZOL | FUZOL | OXYDAZOLE | PHYVERZOL | ZOLOVER
+Pharmaceutical Forms: Suspension
+Dosages: 100mg/5ml (2%)
+Packaging: boite de 1 flacon de 30 ml
+Laboratories: KENVUE FRANCE | 43, RUE CAMILLE DESMOULINS | 92130 ISSY-LES-MOULINEAUX
+ATC Classification: P02CA05
+Registration Numbers: 035/19 B 005/22 | 088/19 B 005/19 | 095/19 B 005/98/16 | 235/19 B 005/21 | 242/19 B 005/17 | 285/19 B 005/19/25 | 304/19 B 005/21 | 317/19 B 005/16/22 | 318/19 B 005/19/24 | 462/19 B 005/23 | 503/19 B 005/19
+Drug Codes: 19 B 005
+
+------------------------------------------------------------
+
+## Description
+
+Flubendazole is an anthelmintic that is used to treat worm infection in humans. It is available OTC in Europe.
+
+## Mechanism Of Action
+
+Tubulin Inhibitor

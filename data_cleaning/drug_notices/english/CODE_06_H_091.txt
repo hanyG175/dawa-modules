@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_091
+DCI: Furosemide
+DrugBank ID: DB00695
+DrugBank Name: Furosemide
+Brand Names: FUROSAN
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/20
+Laboratories: LABORATOIRES CHAIX ET DU MARAIS | 7 RUE PASQUIER | 75008 PARIS
+ATC Classification: C03CA01
+Registration Numbers: 012/06 H 091/99/13
+Drug Codes: 06 H 091
+
+------------------------------------------------------------
+
+## Description
+
+Furosemide is a potent loop diuretic that acts on the kidneys to ultimately increase water loss from the body. It is an anthranilic acid derivative. 9 Furosemide is used for edema secondary to various clinical conditions, such as congestive heart failure exacerbation, liver failure, renal failure, and high blood pressure. 10 It mainly works by inhibiting electrolyte reabsorption from the kidneys and enhancing the excretion of water from the body. Furosemide has a fast onset and short duration of action and has been used safely and effectively in both pediatric and adult patients. 1 The use of furosemide is particularly beneficial in clinical settings that require a drug with a higher diuretic potential. In addition to oral formulations, the solution for intravenous and intramuscular administration is also available, which is typically limited to patients who are unable to take oral medication or for patients in emergency clinical situations. 9
+
+## Pharmacodynamics
+
+Furosemide manages hypertension and edema associated with congestive heart failure, cirrhosis, and renal disease, including the nephrotic syndrome. Furosemide is a potent loop diuretic that works to increase the excretion of Na+ and water by the kidneys by inhibiting their reabsorption from the proximal and distal tubules, as well as the loop of Henle. 9 It works directly acts on the cells of the nephron and indirectly modifies the content of the renal filtrate. 8 Ultimately, furosemide increases the urine output by the kidney. Protein-bound furosemide is delivered to its site of action in the kidneys and secreted via active secretion by nonspecific organic transporters expressed at the luminal site of action. 4 , 9 Following oral administration, the onset of the diuretic effect is about 1 and 1.5 hours 9 , and the peak effect is reached within the first 2 hours. 10 The duration of effect following oral administration is about 4-6 hours but may last up to 8 hours. 12 Following intravenous administration, the onset of effect is within 5 minutes, and the peak effect is reached within 30 minutes. The duration of action following intravenous administration is approximately 2 hours. Following intramuscular administration, the onset of action is somewhat delayed. 9
+
+## Mechanism Of Action
+
+Solute carrier family 12 member 1 Inhibitor
+
+## Absorption
+
+Following oral administration, furosemide is absorbed from the gastrointestinal tract. 12 It displays variable bioavailability from oral dosage forms, ranging from 10 to 90%. 4 The oral bioavailability of furosemide from oral tablets or oral solution is about 64% and 60%, respectively, of that from an intravenous injection of the drug. 9
+
+## Volume Of Distribution
+
+The volume of distribution following intravenous administration of 40 mg furosemide were 0.181 L/kg in healthy subjects and 0.140 L/kg in patients with heart failure. 6
+
+## Metabolism
+
+The metabolism of furosemide occurs mainly in the kidneys and the liver, to a smaller extent. The kidneys are responsible for about 85% of total furosemide total clearance, where about 40% involves biotransformation. 5 Two major metabolites of furosemide are furosemide glucuronide, which is pharmacologically active, and saluamine (CSA) or 4-chloro-5-sulfamoylanthranilic acid. 2 Hover over products below to view reaction partners Furosemide 4-chloro-5-sulfamoylanthranilic acid Furosemide glucuronide
+
+## Route Of Elimination
+
+The kidneys are responsible for 85% of total furosemide total clearance, where about 43% of the drug undergoes renal excretion. 5 Significantly more furosemide is excreted in urine following the I.V. injection than after the tablet or oral solution. Approximately 50% of the furosemide load is excreted unchanged in urine, and the rest is metabolized into glucuronide in the kidney. 4
+
+## Half Life
+
+The half-life from the dose of 40 mg furosemide was 4 hours following oral administration and 4.5 hours following intravenous administration. The terminal half-life of furosemide is approximately 2 hours following parenteral administration. 9 The terminal half-life may be increased up to 24 hours in patients with severe renal failure. 12
+
+## Clearance
+
+Following intravenous administration of 400 mg furosemide, the plasma clearance was 1.23 mL/kg/min in patients with heart failure and 2.34 mL/kg/min in healthy subjects, respectively. 6
+
+## Toxicity
+
+Clinical consequences from overdose depend on the extent of electrolyte and fluid loss and include dehydration, blood volume reduction, hypotension, electrolyte imbalance, hypokalemia, hypochloremic alkalosis, 9 hemoconcentration, cardiac arrhythmias (including A-V block and ventricular fibrillation). 12 Symptoms of overdose include acute renal failure, thrombosis, delirious states, flaccid paralysis, apathy and confusion. In cirrhotic patients, overdosage might precipitate hepatic coma. 12 In rats, the oral LD 50 , intraperitoneal LD 50 , and subcutaneous LD 50 is 2600 mg/kg, 800 mg/kg, and 4600 mg/kg, respectively. The Lowest published toxic dose (TDLo) in a female is 6250 μg/kg. 11

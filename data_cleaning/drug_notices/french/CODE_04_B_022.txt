@@ -1,0 +1,39 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_022
+DCI: PIROXICAM 20 mg/ml sol inj (PIROXICAM TEVA) | Piroxicam
+Brand Names: CYCLADOL | PIROXICAM PHYSIOPHARM
+Pharmaceutical Forms: Comp. Dispers. | Comprimé
+Dosages: 20MG | 20mg
+Packaging: B/10 | b/14
+Laboratories: PHYSIOPHARM SARL
+Countries: ALGERIE
+Reference Tariff (DA): 143 DA
+Prescription List: Liste I
+ATC Classification: 04B022 | M - MUSCLE ET SQUELETTE | M01 - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX | M01A - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AC - OXICAMS | M01AC01 - PIROXICAM | M01AC01
+Registration Numbers: 035/04 B 022/19 | 149/04 B 022/14 | 263/04 B 022/09/17 | 289/04 B 022/08/23 | 352/04 B 022/17/23 | 360/04 B 022/06/23 | 380/04 B 022/12/18 | 418/04 B 022/14 | 462/04 B 022/13
+Drug Codes: 04 B 022
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | piroxicam : 20 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer pendant le repas | Traitement à réévaluer après 2 semaines de traitement | Traitement à réévaluer régulièrement | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Arthrose, traitement symptomatique de deuxième intention (de l') - Polyarthrite rhumatoïde, traitement symptomatique de deuxième intention(de la) - Spondylarthrite ankylosante, traitement symptomatique de deuxième intention(de la) | Posologie standard | 20 mg 1 fois par jour | Posologies maximales | Posologie maximale: 20 mg par jour
+
+## Precautions
+
+Accident ischémique transitoire, antécédent (d') | Allaitement | Antécédent d'accident vasculaire cérébral | Antécédent d'insuffisance cardiaque | Artériopathie périphérique | Asthme | Cirrhose hépatique décompensée | Consommation d'alcool | Déshydratation sévère | Diabète | Femme susceptible d'être enceinte | Grossesse, 5 premiers mois (de la) | Hypertension artérielle | Hypertension artérielle, antécédent | Hypovolémie | Insuffisance cardiaque congestive | Insuffisance cardiaque légère à modérée | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Ischémie myocardique | Maladie cardiovasculaire | Métaboliseur lent du CYP2C9 | Néphropathie lupique | Nouveau-né exposé in utero au médicament | Patient à risque d'ulcère digestif | Sujet âgé | Sujet à risque de bronchospasme | Sujet à risque de maladie cardiovasculaire | Sujet à risque de perforation gastro-intestinale | Syndrome néphrotique | Traitement prolongé à posologie élevée
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Piroxicam : Mécanisme d'action | Le piroxicam est un anti-inflammatoire non stéroïdien du groupe des oxicams. | Il possède les propriétés suivantes : antalgique, antipyrétique, anti-inflammatoire, inhibition des fonctions plaquettaires. L'ensemble de ces propriétés est lié à une inhibition de la synthèse de prostaglandines.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Urémie (augmentation) (Fréquent) | - Hémoglobinémie (diminution) (Fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Hématocrite (diminution) (Fréquent) | - Transaminases (augmentation) (Fréquent) | - Eosinophilie (Rare) | - Hypoglycémie | - Hyperglycémie | - Allongement du temps de saignement | - Anticorps antinucléaire positif | - Hyperkaliémie | - Bilan hépatique (anomalie) | - Hyperbilirubinémie | - Bilirubinémie (augmentation) | DERMATOLOGIE: | - Prurit (Fréquent) | - Eruption vésiculo-bulleuse (Peu fréquent) | - Eruption cutanée (Fréquent) | - Réaction cutanée sévère (Très rare) | - Purpura vasculaire (Rare) | - Photosensibilisation (Rare) | - Erythème pigmenté fixe | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Alopécie | - Dermatose bulleuse | - Onycholyse | - Urticaire chronique (aggravation) | - Dermatite exfoliative | - Erythème polymorphe | DIVERS: | - Oedème périphérique (Peu fréquent) | - Oedème (Fréquent) | - Oedème des membres inférieurs | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Fertilité féminine (diminution) | HÉMATOLOGIE: | - Anémie (Fréquent) | - Thrombopénie (Rare) | - Aplasie médullaire (Rare) | - Anémie hémolytique (Rare) | - Pancytopénie (Rare) | - Leucopénie (Rare) | - Agrégation plaquettaire (diminution) | HÉPATOLOGIE: | - Ictère | - Hépatite sévère | - Hépatopathie | - Insuffisance hépatique | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Angioedème (Rare) | - Maladie sérique (Rare) | - Réaction anaphylactique (Rare) | - Hypersensibilité | - Syndrome DRESS | NÉONATOLOGIE: | - Trouble de la reproduction | NUTRITION, MÉTABOLISME: | - Poids (variation) (Fréquent) | - Anorexie (Fréquent) | - Rétention hydrosodée | - Inflation hydrique | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | - Irritation oculaire | - Acuité visuelle (diminution) | - Gonflement oculaire | ORL, STOMATOLOGIE: | - Stomatite (Peu fréquent) | - Sensation de vertige (Fréquent) | - Vertige (Fréquent) | - Acouphène (Fréquent) | - Bourdonnement d'oreille | - Hypoacousie | - Ulcération buccale | - Epistaxis | PSYCHIATRIE: | - Trouble de l'humeur | - Insomnie | - Nervosité | - Hallucination | - Dépression | - Rêves anormaux | - Confusion mentale | SYSTÈME CARDIOVASCULAIRE: | - Palpitation (Peu fréquent) | - Infarctus du myocarde | - Accident thromboembolique artériel | - Vascularite | - Hypertension artérielle | - Insuffisance cardiaque | - Thrombose artérielle | - Malaise | - Insuffisance cardiaque congestive | SYSTÈME DIGESTIF: | - Gêne épigastrique (Fréquent) | - Douleur abdominale (Fréquent) | - Gêne abdominale (Fréquent) | - Pesanteur épigastrique (Fréquent) | - Dyspepsie (Fréquent) | - Nausée (Fréquent) | - Constipation (Fréquent) | - Douleur épigastrique (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Flatulence (Fréquent) | - Maladie de Crohn (aggravation) | - Hémorragie gastro-intestinale | - Fonction hépatique anormale | - Ulcère gastro-intestinal | - Méléna | - Pancréatite | - Perforation gastro-intestinale | - Rectocolite hémorragique (aggravation) | - Trouble digestif | - Gastrite | - Hématémèse | SYSTÈME MUSCULO-SQUELETTIQUE: | - Purpura rhumatoïde | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Fréquent) | - Paresthésie | - Méningite aseptique | - Accident vasculaire cérébral | SYSTÈME RESPIRATOIRE: | - Crise d'asthme | - Bronchospasme | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Nécrose papillaire rénale (Rare) | - Insuffisance rénale fonctionnelle (Rare) | - Néphropathie interstitielle (Rare) | - Syndrome néphrotique (Rare) | - Nécrose tubulaire aiguë | - Glomérulonéphrite | - Lésion rénale structurelle | - Insuffisance rénale aiguë

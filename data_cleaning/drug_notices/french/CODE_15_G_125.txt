@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_125
+DCI: FINGOLIMOD (chlorhydrate) 0,5 mg gél (FINGOLIMOD ACCORD)
+Brand Names: GILENYA | LYXIA
+Pharmaceutical Forms: Gélule
+Dosages: 0.5mg
+Packaging: b/28
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AE - MODULATEURS DES RECEPTEURS DE LA SPHINGOSINE-1 PHOSPHATE (S1P) | L04AE01 - FINGOLIMOD
+Registration Numbers: 001/15 G 125/22 | 068/15 G 125/19
+Drug Codes: 15 G 125
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | fingolimod (chlorhydrate) : 0.5 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer indépendamment de la prise des repas | Posologie | Patient de 10 an(s) à 18 an(s) | Poids >= 41 kg | Sclérose en plaques rémittente-récurrente, traitement de fond des formes très actives (de la) | Posologie standard | 1 gélule 1 fois par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Sclérose en plaques rémittente-récurrente, traitement de fond des formes très actives (de la) | Posologie standard | 1 gélule 1 fois par jour
+
+## Precautions
+
+Allaitement | Antécédent d'hépatopathie | Antécédent de syncope | Antécédent de traitement par immunosuppresseur | Arrêt cardiaque, antécédent (d') | Bloc sino-auriculaire | Bradycardie, antécédent (de) | Bronchopneumopathie chronique obstructive | Diabète | Enfant de moins de 10 ans | Fibrose pulmonaire | Hypertension artérielle non contrôlée | Insuffisance hépatique légère à modérée | Insuffisance respiratoire sévère | Lymphopénie < 500 lymphocytes/mm3 | Patient non immunisé contre la varicelle | Photothérapie | Puvathérapie | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Sujet à risque de leucoencéphalopathie multifocale progressive | Sujet de moins de 40 kg | Syndrome d'apnée du sommeil | Uvéite, antécédent
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Fingolimod : Mécanisme d'action | Le fingolimod est un modulateur des récepteurs à la sphingosine 1-phosphate. Le fingolimod est métabolisé par la sphingosine-kinase en phosphate de fingolimod, son métabolite actif. Le phosphate de fingolimod se lie à des concentrations nanomolaires faibles aux récepteurs à la sphingosine 1- phosphate (S1P) de type 1 présents sur les lymphocytes et traverse facilement la barrière hématoencéphalique pour se lier aux récepteurs à la S1P de type 1 situés sur les cellules neurales dans le système nerveux central. En agissant comme un antagoniste fonctionnel des récepteurs à la S1P sur les lymphocytes, le phosphate de fingolimod provoque leur séquestration dans les ganglions lymphatiques, ce qui entraîne une redistribution des lymphocytes, plutôt qu'une déplétion. Cette redistribution diminue l'infiltration des lymphocytes pathogènes dans le système nerveux central, où ils seraient impliqués dans l'inflammation des nerfs et les lésions du tissu nerveux. Les études chez l'animal et les expérimentations | in vitro | indiquent que le fingolimod peut aussi agir par son interaction avec les récepteurs à la S1P présents sur les cellules neurales.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypertriglycéridémie (Fréquent) | - Enzymes hépatiques (augmentation) (Très fréquent) | - Neutrophiles diminués (Peu fréquent) | - Transaminases (augmentation) | - Gamma GT (augmentation) | - Bilirubinémie (augmentation) | CANCEROLOGIE: | - Epithélioma basocellulaire (Fréquent) | - Mélanome (Peu fréquent) | - Cancer épidermoïde (Rare) | - Epithélioma spinocellulaire (Rare) | - Lymphome (Rare) | - Sarcome de Kaposi (Très rare) | - Lymphome lié au virus d'Epstein-Barr | - Lymphome malin non hodgkinien | - Mycosis fongoïde | - Cancer | - Carcinome à cellules de Merkel | - Lymphome T | DERMATOLOGIE: | - Alopécie (Fréquent) | - Prurit (Fréquent) | - Eczéma (Fréquent) | - Pityriasis versicolor (Fréquent) | - Eruption cutanée | - Verrue | - Papillome | - Urticaire | DIVERS: | - Asthénie (Fréquent) | - Fatigue | - Oedème périphérique | - Exacerbation de la maladie | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Dysplasie du col utérin | HÉMATOLOGIE: | - Leucopénie (Fréquent) | - Thrombopénie (Peu fréquent) | - Lymphopénie (Fréquent) | - Syndrome hémophagocytaire | - Anémie hémolytique auto-immune | HÉPATOLOGIE: | - Insuffisance hépatique aiguë | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Angioedème | - Syndrome inflammatoire de restauration immunitaire | INFECTIOLOGIE D'ORIGINE BACTERIENNE: | - Infection bactérienne | - Infection à mycobactérie atypique | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Mycose | - Infection à cryptocoque | INFECTIOLOGIE D'ORIGINE VIRALE: | - Grippe (Très fréquent) | - Infection à herpès-virus (Fréquent) | - Infection par le virus John Cunningham | - Infection par le virus varicelle-zona | - Infection à papillomavirus | - Herpès | - Infection virale | INFECTIOLOGIE NON PRECISÉE: | - Infection | NUTRITION, MÉTABOLISME: | - Poids (diminution) (Fréquent) | OPHTALMOLOGIE: | - Oedème maculaire (Peu fréquent) | - Vision floue (Fréquent) | - Acuité visuelle (diminution) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | - Sinusite (Très fréquent) | PSYCHIATRIE: | - Humeur dépressive (Peu fréquent) | - Dépression (Fréquent) | - Trouble psychiatrique | - Anxiété | SYSTÈME CARDIOVASCULAIRE: | - Bloc auriculoventriculaire (Fréquent) | - Hypertension artérielle (Fréquent) | - Bradycardie (Fréquent) | - Artériopathie des membres inférieurs (Rare) | - Onde T inversée à l'électrocardiogramme (Très rare) | - Inversion de l'onde T (Très rare) | - Artériopathie oblitérante périphérique (Rare) | - Hypotension artérielle | - Palpitation | - Trouble de la conduction cardiaque | - Asystolie | - Allongement de l'espace PR | SYSTÈME DIGESTIF: | - Nausée (Peu fréquent) | - Diarrhée (Très fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Dorsalgie (Très fréquent) | - Douleur musculaire (Fréquent) | SYSTÈME NERVEUX: | - Migraine (Fréquent) | - Céphalée (Très fréquent) | - Trouble du système nerveux central (Rare) | - Syndrome d'encéphalopathie postérieure réversible (Rare) | - Accident vasculaire cérébral ischémique | - Epilepsie (crise) | - Leucoencéphalopathie multifocale progressive | - Encéphalomyélite disséminée aiguë | - Etat de mal épileptique | - Accident vasculaire cérébral hémorragique | - Trouble neurologique | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Toux (Très fréquent) | - Pneumonie (Peu fréquent) | - Bronchite (Fréquent) | - VEMS (diminution) | - Infection des voies respiratoires inférieures | - DLCO (diminution)

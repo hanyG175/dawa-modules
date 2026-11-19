@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_010
+DCI: Hydroxyde D'Aluminium/Hydroxyde De Magnesium
+DrugBank ID: DB01370
+DrugBank Name: Aluminium
+Brand Names: MAALOX MAUX D'ESTOMAC | SAILOX
+Pharmaceutical Forms: Suspension
+Dosages: 3.50g/4.00g/100ml
+Packaging: flacon/250ml
+Laboratories: OPELLA HEALTHCARE FRANCE SAS | 157 avenue Charles de Gaulle | 92200 Neuilly-sur-Seine
+ATC Classification: A02AD01
+Registration Numbers: 003/10 B 010/06/25 | 201/10 B 010/96/24
+Drug Codes: 10 B 010
+
+------------------------------------------------------------
+
+## Description
+
+A metallic element that has the atomic number 13, atomic symbol Al, and atomic weight 26.98.
+
+## Mechanism Of Action
+
+Sodium/potassium-transporting ATPase subunit alpha-1 Binder

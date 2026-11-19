@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_108
+DCI: ALUMINIUM HYDROXYDE 460 mg + MAGNESIUM HYDROXYDE 400 mg susp buv sach (MAALOX HYDROXYDE D'ALUMINIUM/HYDROXYDE DE MAGNESIUM)
+DrugBank ID: DB14501
+DrugBank Name: Ferrous glycine sulfate
+Brand Names: FERRO SANOL GYN
+Pharmaceutical Forms: Gélule
+Dosages: 454.13mg/80mg/1mg
+Packaging: b/50
+Laboratories: OPELLA HEALTHCARE France SAS
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A02 - MEDICAMENTS DES TROUBLES DE L'ACIDITE | A02A - ANTIACIDES | A02AB - ANTIACIDES A BASE D'ALUMINIUM | A02AB01 - ALUMINIUM HYDROXYDE
+Registration Numbers: 268/12 E 108/03/24
+Drug Codes: 12 E 108
+
+------------------------------------------------------------
+
+## Description
+
+A medication used to treat low levels of iron in the body.
+
+## Pharmacodynamics
+
+The major activity of supplemental iron is in the prevention and treatment of iron deficiency anemia. Iron has putative immune-enhancing, anticarcinogenic and cognition-enhancing activities.
+
+## Mechanism Of Action
+
+Iron is necessary for the production of hemoglobin. Iron-deficiency can lead to decreased production of hemoglobin and a microcytic, hypochromic anemia. Target Actions Organism U Transferrin receptor protein 1 Not Available Humans U Egl nine homolog 1 Not Available Humans U Histone deacetylase 8 Not Available Humans U Alpha-hemoglobin-stabilizing protein Not Available Humans U Hemoglobin subunit alpha Not Available Humans U Frataxin, mitochondrial Not Available Humans U Ferritin heavy chain Not Available Humans U Flap endonuclease 1 Not Available Humans U Endonuclease 8-like 1 Not Available Humans U Endonuclease 8-like 2 Not Available Humans U DNA polymerase beta Not Available Humans U Ceruloplasmin Not Available Humans U Serotransferrin Not Available Humans
+
+## Absorption
+
+The efficiency of absorption depends on the salt form, the amount administered, the dosing regimen and the size of iron stores. Subjects with normal iron stores absorb 10% to 35% of an iron dose. Those who are iron deficient may absorb up to 95% of an iron dose.
+
+## Toxicity
+
+Acute iron overdosage can be divided into four stages. In the first stage, which occurs up to six hours after ingestion, the principal symptoms are vomiting and diarrhea. Other symptoms include hypotension, tachycardia and CNS depression ranging from lethargy to coma. The second phase may occur at 6-24 hours after ingestion and is characterized by a temporary remission. In the third phase, gastrointestinal symptoms recur accompanied by shock, metabolic acidosis, coma, hepatic necrosis and jaundice, hypoglycemia, renal failure and pulmonary edema. The fourth phase may occur several weeks after ingestion and is characterized by gastrointestinal obstruction and liver damage. In a young child, 75 milligrams per kilogram is considered extremely dangerous. A dose of 30 milligrams per kilogram can lead to symptoms of toxicity. Estimates of a lethal dosage range from 180 milligrams per kilogram and upwards. A peak serum iron concentration of five micrograms or more per ml is associated with moderate to severe poisoning in many.

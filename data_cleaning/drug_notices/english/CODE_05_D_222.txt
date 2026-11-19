@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_222
+DCI: GOLIMUMAB 50 mg/0,5 ml sol inj ser préremplie (GOBIVAZ)
+DrugBank ID: DB06674
+DrugBank Name: Golimumab
+Brand Names: SIMPONI
+Pharmaceutical Forms: Sol Inj S/C En Stylo Prerempli
+Dosages: 50mg/stylo
+Packaging: b/1 stylo de 0.5 ml
+Registration Numbers: 095/05 D 222/20
+Drug Codes: 05 D 222
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Golimumab inhibits the activity of the cytokine, tumor necrosis factor alpha (TNFα). In areas such as the joints and blood, increased TNFα is associated with chronic inflammation seen in patients with rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis. Thus golimumab decreases the inflammation in these conditions. Concerning ulcerative colitis, the physiological effects of golimumab has yet to be determined.
+
+## Mechanism Of Action
+
+Tumor necrosis factor Antibody
+
+## Absorption
+
+After subcutaneous administration, golimumab can achieve maximum serum concentrations in 2 to 6 days and has an approximate bioavailability of 53%. In healthy volunteers, the maximum average concentration reached was 3.2 ± 1.4 μg/mL.
+
+## Volume Of Distribution
+
+After IV administration, golimumab has a volume of distribution of about 58 to 126 mL/kg. This means that golimumab stays mostly in the circulatory system.
+
+## Metabolism
+
+The metabolism of golimumab has yet to be determined.
+
+## Route Of Elimination
+
+The route of elimination for golimumab has yet to be determined.
+
+## Half Life
+
+Golimumab has a long half-life of about 2 weeks.
+
+## Clearance
+
+After one IV dose of golimumab, the systemic clearance was about 4.9 to 6.7 mL/day/kg.
+
+## Toxicity
+
+The FDA label includes a black box warning of serious infections and malignancy. Specifically there have been hospitalizations or death from infections such as bacterial sepsis, tuberculosis (TB), and invasive fungal (histoplasmosis) and other opportunistic infections. Additionally in children and adolescents taking golimumab, there have been lymphoma and other malignancies observed.

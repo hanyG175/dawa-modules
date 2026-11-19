@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_006
+DCI: Halothane
+DrugBank ID: DB01159
+DrugBank Name: Halothane
+Brand Names: HALOTHANE BP
+Pharmaceutical Forms: Liquide Pour Inhalation Par Vapeur
+Dosages: 100% (498 mg/250ml)
+Packaging: b/01 flacon de 250 ml
+Registration Numbers: 449/02 B 006/17
+Drug Codes: 02 B 006
+
+------------------------------------------------------------
+
+## Description
+
+A nonflammable, halogenated, hydrocarbon anesthetic that provides relatively rapid induction with little or no excitement. Analgesia may not be adequate. nitrous oxide is often given concomitantly. Because halothane may not produce sufficient muscle relaxation, supplemental neuromuscular blocking agents may be required. (From AMA Drug Evaluations Annual, 1994, p178)
+
+## Pharmacodynamics
+
+Halothane is a general inhalation anesthetic used for induction and maintenance of general anesthesia. It reduces the blood pressure and frequently decreases the pulse rate and depresses respiration. It induces muscle relaxation and reduces pains sensitivity by altering tissue excitability. It does so by decreasing the extent of gap junction mediated cell-cell coupling and altering the activity of the channels that underlie the action potential.
+
+## Mechanism Of Action
+
+Potassium channel subfamily K member 3 Binder Potassium channel subfamily K member 9 Binder GABA(A) Receptor Positive allosteric modulator + 1 more target
+
+## Metabolism
+
+Halothane is metabolized in the liver, primarily by CYP2E1, and to a lesser extent by CYP3A4 and CYP2A6. Hover over products below to view reaction partners Halothane bromide trifluoroacetic acid 2-chloro-1,1-difluoroethene 1-chloro-2,2,2-trifluoroethanide Trifluoroacetyl chloride chlorotrifluoroethane 2-chloro-1,1-difluoroethene
+
+## Toxicity
+
+Toxic effects of halothane include malignant hyperthermia and hepatitis.

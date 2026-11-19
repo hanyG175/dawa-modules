@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_A_001
+DCI: Busulfan
+DrugBank ID: DB01008
+DrugBank Name: Busulfan
+Brand Names: BUSULFAN ACCORD | PMS BUSULFAN
+Pharmaceutical Forms: Sol.Perf. | Solution
+Dosages: 6mg/ml
+Packaging: b/08 flacons | b/8 flc de 10ml
+Laboratories: ACCORD HEALTHCARE FRANCE | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: L01AB01
+Registration Numbers: 495/27 A 001/21 | 534/27 A 001/21
+Drug Codes: 27 A 001
+
+------------------------------------------------------------
+
+## Description
+
+Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen.
+
+## Pharmacodynamics
+
+Busulfan is an antineoplastic in the class of alkylating agents and is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn leads to a miscoding of DNA. Alkylating agents are cell cycle-nonspecific and work by three different mechanisms, all of which achieve the same end result - disruption of DNA function and cell death. Overexpression of MGST2, a glutathione s-transferase, is thought to confer resistance to busulfan. The role of MGST2 in the metabolism of busulfan is unknown however.
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Absorption
+
+Completely absorbed from the gastrointestinal tract. Busulfan is a small, highly lipophilic molecule that crosses the blood-brain-barrier. The absolute bioavailability, if a single 2 mg IV bolus injection is given to adult patients, is 80% ± 20%. In children (1.5 - 6 years old), the absolute bioavailability was 68% ± 31%. When a single oral dose is given to patients, the area under the curve (AUC) was 130 ng•hr/mL. The peak plasma concentration when given orally is 30 ng/mL (after dose normalization to 2 mg). It takes 0.9 hours to reach peak plasma concentration after dose normalization to 4 mg.
+
+## Metabolism
+
+Busulfan is extensively metabolizes in the hepatic. Busulfan is predominantly metabolized by conjugation with glutathione, both spontaneously and by glutathione S-transferase (GST) catalysis. GSTA1 is the primary GST isoform that facilitates the the metabolism of busulfan. Other GST isoforms that are also involved are GSTM1 and GSTP1. At least 12 metabolites have been identified among which tetrahydrothiophene, tetrahydrothiophene 12-oxide, sulfolane, and 3-hydroxysulfolane were identified. These metabolites do not have cytotoxic activity.
+
+## Route Of Elimination
+
+Following administration of 14C- labeled busulfan to humans, approximately 30% of the radioactivity was excreted into the urine over 48 hours; negligible amounts were recovered in feces. Less than 2% of the administered dose is excreted in the urine unchanged within 24 hours. Elimination of busulfan is independent of renal function.
+
+## Half Life
+
+2.6 hours
+
+## Clearance
+
+2.52 ml/min/kg [Following an infusion of dose of 0.8 mg/kg every six hours, for a total of 16 doses over four days]
+
+## Toxicity
+
+Signs of overdose include allergic reaction, unusual bleeding or bruising, sudden weakness or unusual fatigue, persistent cough, congestion, or shortness of breath; flank, stomach or joint pain; pronounced nausea, vomiting, diarrhea, dizziness, confusion, or darkening of the skin, chills, fever, collapse, and loss of consciousness.

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_399
+DCI: Empagliflozine
+DrugBank ID: DB09038
+DrugBank Name: Empagliflozin
+Brand Names: EMPAGLOZINE | JARDIANCE
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/30
+Registration Numbers: 152/14 A 399/24 | 447/14 A 399/25
+Drug Codes: 14 A 399
+
+------------------------------------------------------------
+
+## Description
+
+Empagliflozin is an inhibitor of sodium-glucose co-transporter-2 (SGLT2), the transporters primarily responsible for the reabsorption of glucose in the kidney. 10 It is used clinically as an adjunct to diet and exercise, often in combination with other drug therapies, 15 , 16 , 13 for the management of type 2 diabetes mellitus. 18 The first known inhibitor of SGLTs, phlorizin, was isolated from the bark of apple trees in 1835 and researched extensively into the 20th century, but was ultimately deemed inappropriate for clinical use given its lack of specificity and significant gastrointestinal side effects. 12 Attempts at overcoming these limitations first saw the development of O-glucoside analogs of phlorizin (e.g. remogliflozin etabonate ), but these molecules proved relatively pharmacokinetically unstable. The development of C-glucoside phlorizin analogs remedied the issues observed in the previous generation, and led to the FDA approval of canagliflozin in 2013 and both dapagliflozin and empagliflozin in 2014. 12 As the most recently approved of the "flozin" drugs, empagliflozin carries the highest selectivity for SGLT2 over SGLT1 (approximately 2700-fold). Empagliflozin was further approved by the EMA in March 2022 and Health Canada in April 2022, making it the first and only approved treatment in Europe and Canada for adults with symptomatic chronic heart failure regardless of ejection fraction. 22 , 19
+
+## Pharmacodynamics
+
+Empagliflozin lowers blood glucose levels by preventing glucose reabsorption in the kidneys, thereby increasing the amount of glucose excreted in the urine. 18 It has a relatively long duration of action requiring only once-daily dosing. Patients should be monitored closely for signs and symptoms of ketoacidosis regardless of blood glucose level as empagliflozin may precipitate diabetic ketoacidosis in the absence of hyperglycemia. 18 As its mechanism of action is contingent on the renal excretion of glucose, empagliflozin may be held in cases of acute kidney injury and/or discontinued in patients who develop chronic renal disease. The overexcretion of glucose creates a sugar-rich urogenital environment which increases the risk of urogenital infections in both male and female patients - monitor closely for signs and symptoms of developing infection. 18
+
+## Mechanism Of Action
+
+Sodium/glucose cotransporter 2 Inhibitor
+
+## Absorption
+
+Following oral administration, peak plasma concentrations are reached in approximately 1.5 hours (T max ). At steady-state, plasma AUC and C max were 1870 nmol·h/L and 259 nmol/L, respectively, following therapy with empagliflozin 10mg daily and 4740 nmol·h/L and 687 nmol/L, respectively, following therapy with empagliflozin 25mg daily. 18 Administration with food does not significantly affect the absorption of empagliflozin.
+
+## Volume Of Distribution
+
+The estimated apparent steady-state volume of distribution is 73.8 L. 18
+
+## Metabolism
+
+Empagliflozin undergoes minimal metabolism. It is primarily metabolized via glucuronidation by 5'-diphospho-glucuronosyltransferases 2B7, 1A3, 1A8, and 1A9 to yield three glucuronide metabolites: 2-O-, 3-O-, and 6-O-glucuronide. 18 No metabolite represented more than 10% of total drug-related material. Hover over products below to view reaction partners Empagliflozin Empagliflozin-2-glucuronide Empagliflozin-3-glucuronide Empagliflozin-6-glucuronide
+
+## Route Of Elimination
+
+After oral administration of radiolabeled empagliflozin approximately 41.2% of the administered dose was found eliminated in feces and 54.4% eliminated in urine. The majority of radioactivity in the feces was due to unchanged parent drug while approximately half of the radioactivity in urine was due to unchanged parent drug. 18
+
+## Half Life
+
+The apparent terminal elimination half-life was found to be 12.4 h based on population pharmacokinetic analysis. 18
+
+## Clearance
+
+Apparent oral clearance was found to be 10.6 L/h based on a population pharmacokinetic analysis. 18
+
+## Toxicity
+
+Experience with empagliflozin overdose is limited - employ standard symptomatic and supportive measures, as well as gastric decontamination when appropriate. The use of hemodialysis in empagliflozin overdose has not been studied but is unlikely to be of benefit given the drug's relatively high protein-binding. 18

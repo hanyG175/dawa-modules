@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_E_268
+DCI: Apalutamide
+DrugBank ID: DB11901
+DrugBank Name: Apalutamide
+Brand Names: ERLEADA
+Pharmaceutical Forms: Comprimé
+Dosages: 60mg
+Packaging: b/112
+Registration Numbers: 095/05 E 268/25
+Drug Codes: 05 E 268
+
+------------------------------------------------------------
+
+## Description
+
+Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements 1 . It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors 1 . In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide . Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines 1 . Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males 2 . Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis 5 . Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death 1 . In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment 1 . In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo 5 . Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer 5 .
+
+## Pharmacodynamics
+
+In androgen receptors (AR)-overexpressing LNCaP cells, apaludatamide was reported to have a 7 to 10-fold greater affinity to the AR than bicalutamide. 3 Additionally, apalutamide still possesses total antagonistic activity in AR-overexpressing cell lines with bicalutamide-resistance mutations such as T878A and W741C. 4 In castrate mice with LNCaP/AR(cs) tumors, apalutamide produced tumor regression (defined by >50% regression in tumor volume) in 8 mice compared to only 1 for bicalutamide. 2 The apalutamide-treated tumors also have a 60% decrease in proliferative index and a 10-fold increase in apoptotic rate compared with vehicle. 2 In an open-label, uncontrolled, multicenter, single-arm dedicated QT study in 45 patients with CRPC, an exposure-QT analysis suggested a concentration-dependent increase in QTcF for apalutamide and its active metabolite. Apalutamide demonstrated antitumor activity in the mouse xenograft models of prostate cancer, where it decreased tumor cell proliferation and reduced tumor volume. 6
+
+## Mechanism Of Action
+
+Androgen receptor Antagonist
+
+## Absorption
+
+Mean absolute oral bioavailability was approximately 100%. The median time to achieve peak plasma concentration (t max ) was 2 hours (range: 1 to 5 hours). The major active metabolite N-desmethyl apalutamide C max was 5.9 mcg/mL (1.0) and AUC was 124 mcg·h/mL (23) at steady-state after the recommended dosage. Administration of apalutamide to healthy subjects under fasting conditions and with a high-fat meal (approximately 500 to 600 fat calories, 250 carbohydrate calories, and 150 protein calories) resulted in no clinically relevant changes in C max and AUC. The median time to reach t max was delayed approximately 2 hours with food. 6 Following administration of the recommended dosage, apalutamide steady-state was achieved after 4 weeks and the mean accumulation ratio was approximately 5-fold. Apalutamide C max was 6.0 mcg/mL (1.7) and AUC was 100 mcg·h/mL (32) at steady-state. Daily fluctuations in apalutamide plasma concentrations were low, with the mean peak-to-trough ratio of 1.63. 6 Oral administration of four 60 mg apalutamide tablets dispersed in applesauce resulted in no clinically relevant changes in Cmax and AUC compared to the administration of four intact 60 mg tablets under fasting conditions. 6
+
+## Volume Of Distribution
+
+The mean apparent volume of distribution at steady state of apalutamide was approximately 276 L. 6
+
+## Metabolism
+
+Metabolism is the main route of elimination of apalutamide. Apalutamide is primarily metabolized by CYP2C8 and CYP3A4 to form active metabolite, N-desmethyl apalutamide. The contribution of CYP2C8 and CYP3A4 in the metabolism of apalutamide is estimated to be 58% and 13% following single dose but changes to 40% and 37%, respectively at steady-state. 6 The auto-induction of CYP3A4-mediated metabolism by apalutamide may explain the increase in CYP3A4 enzymatic activity at steady-state. 6 Hover over products below to view reaction partners Apalutamide N-desmethyl apalutamide M4 apalutamide
+
+## Route Of Elimination
+
+Apalutamide and its main active metabolite are subject to both renal and focal elimination. Up to 70 days following a single oral administration of radiolabeled apalutamide, 65% of the dose was recovered in urine (1.2% of dose as unchanged apalutamide and 2.7% as N-desmethyl apalutamide) and 24% was recovered in feces (1.5% of dose as unchanged apalutamide and 2% as N-desmethyl apalutamide). 6
+
+## Half Life
+
+The mean effective half-life for apalutamide in patients with NM-CRPC was approximately 3 days at steady-state. 6
+
+## Clearance
+
+The CL/F of apalutamide was 1.3 L/h after single dosing and increased to 2.0 L/h at steady-state after once-daily dosing likely due to CYP3A4 auto-induction. 6 The auto-induction effect likely reached its maximum at the recommended dosage because exposure to apalutamide across the dose range of 30 to 480 mg is dose-proportional. 6
+
+## Toxicity
+
+There is no known specific antidote for apalutamide overdose. In the event of an overdose, stop apalutamide, undertake general supportive measures until clinical toxicity has been diminished or resolved. 6 The safety and efficacy of apalutamide have not been established in females. Based on findings from animals and its mechanism of action, apalutamide can cause fetal harm and loss of pregnancy when administered to a pregnant female. There are no
+available data on apalutamide use in pregnant women to inform a drug-associated risk. In an animal reproduction study, oral administration of apalutamide to pregnant rats during and after organogenesis resulted in fetal abnormalities and embryo-fetal lethality at maternal exposures ≥ 2 times the human clinical exposure (AUC) at the recommended dose. 6 In a 2-year carcinogenicity study in male rats, apalutamide was administered by oral gavage at doses of 5, 15 and 50 mg/kg/day. Apalutamide increased the incidence of Leydig interstitial cell adenoma in the testes at doses ≥ 5 mg/kg/day (0.2 times the human exposure based on AUC). The findings in the testes are considered to be related to the pharmacological activity of apalutamide. Rats are regarded as more sensitive than humans to developing interstitial cell tumors in the testes. Oral administration of apalutamide to male rasH2 transgenic mice for 6 months did not result in increased incidence of neoplasms at doses up to 30 mg/kg/day. 6 Apalutamide did not induce mutations in the bacterial reverse mutation (Ames) assay and was not genotoxic in either in vitro chromosome aberration assay or the in vivo rat bone marrow micronucleus assay or the in vivo rat Comet assay. In repeat-dose toxicity studies in male rats (up to 26 weeks) and dogs (up to 39 weeks), atrophy of the prostate gland and seminal vesicles, aspermia/hypospermia, tubular degeneration and/or hyperplasia or hypertrophy of the interstitial cells in the reproductive system were observed at ≥ 25 mg/kg/day in rats (1.4 times the human exposure based on AUC) and ≥ 2.5 mg/kg/day in dogs (0.9 times the human exposure based on AUC). 6 In a fertility study in male rats, a decrease in sperm concentration and motility, increased abnormal sperm morphology, lower copulation and fertility rates (upon pairing with untreated females) along with reduced weights of the secondary sex glands and epididymis were observed following 4 weeks of dosing at ≥ 25 mg/kg/day (0.8 times the human exposure based on AUC). A reduced number of live fetuses due to increased pre- and/or post-implantation loss was observed following 4 weeks of 150 mg/kg/day administration (5.7 times the human exposure based on AUC). Effects on male rats were reversible after 8 weeks from the last apalutamide administration. 6

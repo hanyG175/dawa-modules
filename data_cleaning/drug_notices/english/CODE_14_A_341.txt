@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_341
+DCI: Acarbose
+DrugBank ID: DB00284
+DrugBank Name: Acarbose
+Brand Names: DIACARBOSE
+Pharmaceutical Forms: Comprimé
+Dosages: 50MG
+Packaging: B/30
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 410 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: A10BF01
+Registration Numbers: 149/14 A 341/17/25 | 231/14 A 341/16/24 | 263/14 A 341/24 | 309/14 A 341/24 | 424/14 A 341/12 | 447/14 A 341/16/22
+Drug Codes: 14 A 341
+
+------------------------------------------------------------
+
+## Description
+
+Acarbose is a complex oligosaccharide that acts as an inhibitor of several enzymes responsible for the breakdown of complex carbohydrates in the intestines. It inhibits both pancreatic alpha-amylase and membrane-bound alpha-glucosidases - including intestinal glucoamylase, sucrase, maltase, and isomaltase - which are responsible for the metabolism of complex starches and oligo-, tri-, and disaccharides into absorbable simple sugars. 7 , 4 By inhibiting the activity of these enzymes, acarbose limits the absorption of dietary carbohydrates and the subsequent postprandial increase in blood glucose and insulin levels. Acarbose is therefore used in conjunction with diet, exercise, and other pharmacotherapies for the management of blood sugar levels in patients with type 2 diabetes. 6 , 7 Acarbose is one of only two approved alpha-glucosidase inhibitors (the other being miglitol ), receiving its first FDA approval in 1995 under the brand name Precose (since discontinued). 9 This class of antidiabetic therapy is not widely used due to their relatively modest impact on A1c, their requirement for thrice-daily dosing, and the potential for significant gastrointestinal adverse effects. 9
+
+## Pharmacodynamics
+
+Acarbose is a complex oligosaccharide that competitively inhibits the ability of brush-border alpha-glucosidase enzymes to break down ingested carbohydrates into absorbable monosaccharides, reducing carbohydrate absorption and subsequent postprandial insulin levels. 4 Acarbose requires the co-administration of carbohydrates in order to exert its therapeutic effect, and as such should be taken with the first bite of a meal three times daily. 7 Given its mechanism of action, acarbose in isolation poses little risk of contributing to hypoglycemia - this risk is more pronounced, however, when acarbose is used in conjunction with other antidiabetic therapies (e.g. sulfonylureas, insulin). 7 Patients maintained on acarbose in addition to other antidiabetic agents should be aware of the symptoms and risks of hypoglycemia and how to treat hypoglycemic episodes. There have been rare post-marketing reports of the development of pneumatosis cystoides intestinalis following treatment with alpha-glucosidase inhibitors - patients experiencing significant diarrhea/constipation, mucus discharge, and/or rectal bleeding should be investigated and, if pneumatosis cystoides intestinalis is suspected, should discontinue therapy. 6
+
+## Mechanism Of Action
+
+Maltase-glucoamylase Inhibitor Sucrase-isomaltase, intestinal Inhibitor Pancreatic alpha-amylase Inhibitor
+
+## Absorption
+
+The oral bioavailability of acarbose is extremely minimal, with less than 1-2% of orally administered parent drug reaching the systemic circulation. Despite this, approximately 35% of the total radioactivity from a radiolabeled and orally administered dose of acarbose reaches the systemic circulation, with peak plasma radioactivity occurring 14-24 hours after dosing - this delay is likely reflective of metabolite absorption rather than absorption of the parent drug. As acarbose is intended to work within the gut, its minimal degree of oral bioavailability is therapeutically desirable. 6
+
+## Metabolism
+
+Acarbose is extensively metabolized within the gastrointestinal tract, primarily by intestinal bacteria and to a lesser extent by digestive enzymes, into at least 13 identified metabolites. Approximately 1/3 of these metabolites are absorbed into the circulation where they are subsequently renally excreted. The major metabolites appear to be methyl, sulfate, and glucuronide conjugates of 4-methylpyrogallol. 6 Only one metabolite - resulting from the cleavage of a glucose molecule from acarbose - has been identified as having alpha-glucosidase inhibitory activity. 6
+
+## Route Of Elimination
+
+Roughly half of an orally administered dose is excreted in the feces within 96 hours of administration. 7 What little drug material is absorbed into the systemic circulation (approximately 34% of an orally administered dose) is excreted primarily by the kidneys, suggesting renal excretion would be a significant route of elimination if the parent drug was more readily absorbed - this is further supported by data in which approximately 89% of an intravenously administered dose of acarbose was excreted in the urine as active drug (in comparison to <2% following oral administration) within 48 hours. 7
+
+## Half Life
+
+In healthy volunteers, the plasma elimination half-life of acarbose is approximately 2 hours. 6
+
+## Toxicity
+
+The symptoms of acarbose overdose are likely to be consistent with its adverse effect profile and may therefore include significant gastrointestinal (GI) symptoms (flatulence, distension, etc), although an overdose on an empty stomach (i.e. when not co-administered with food) is less likely to result in these GI symptoms. 6 In the event of an overdose, patients should be instructed to avoid carbohydrate-containing foods for 4-6 hours following administration as these can precipitate the aforementioned GI symptoms. 6

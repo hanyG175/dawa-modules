@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_163
+DCI: Indapamide
+DrugBank ID: DB00808
+DrugBank Name: Indapamide
+Brand Names: INDAPAMIDE BEKER LP
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 1,5MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 600.00 DA
+PPA (DA): 600.00 DA
+Prescription List: Liste II
+ATC Classification: 06H163
+Registration Numbers: 040/06 H 163/03/24 | 317/06 H 163/11/22 | 352/06 H 163/09/24 | 447/06 H 163/14/24
+Drug Codes: 06 H 163
+
+------------------------------------------------------------
+
+## Description
+
+The most significant modifiable risk factor for cardiovascular disease and the most prominent contributor to all-cause mortality is hypertension. 17 Characterized by an office blood pressure of ≥140/90, hypertension is pervasive and impacts an estimated 25% of adults globally. 17 Treatment for hypertension should include a number of lifestyle changes (ie. reduced sodium intake) along with pharmacotherapy - it should be noted that treatment with several antihypertensive agents may be required in order to achieve blood pressure targets. 17 Thiazide-like diuretics such as indapamide are a valuable tool for the treatment of hypertension and continue to grow in popularity, falling behind only ACE inhibitors in terms of prescription frequency. 16 When compared to hydrochlorothiazide (another commonly prescribed diuretic), indapamide has been shown to be superior at lowering systolic blood pressure, reducing left ventricular mass index, lowering oxidative stress, inhibiting platelet aggregation, and reducing microalbuminuria associated with diabetes. 16 Interestingly, unlike thiazide diuretics, several sources suggest that indapamide is not associated with glucose or lipid disturbances. 16 , 19 Indapamide is characterized by both a methylindoline and a sulfamoyl chlorobenzamide functional group, with the former being largely responsible for the molecule’s lipid solubility. 18
+
+## Pharmacodynamics
+
+Classified as a sulfonamide diuretic, indapamide is an effective antihypertensive agent and by extension, has shown efficacy in the prevention of target organ damage. 2 , 3 Administration of indapamide produces water and electrolyte loss, with higher doses associated with increased diuresis. 2 , 10 Severe and clinically significant electrolyte disturbances may occur with indapamide use - for example, hypokalemia resulting from renal potassium loss may lead to QTc prolongation. 2 , 9 Further electrolyte imbalances may occur due to renal excretion of sodium, chloride, and magnesium. 2 , 9 , 10 Other indapamide induced changes include increases in plasma renin and aldosterone, and reduced calcium excretion in the urine. 2 , 11 , 15 In many studies investigating the effects of indapamide in both non-diabetic and diabetic hypertensive patients, glucose tolerance was not significantly altered. 2 However, additional studies are necessary to assess the long term metabolic impacts of indapamide, since thiazide related impaired glucose tolerance can take several years to develop in non-diabetic patients. 2
+
+## Mechanism Of Action
+
+Solute carrier family 12 member 3 Inhibitor
+
+## Absorption
+
+The bioavailability of indapamide is virtually complete after an oral dose and is unaffected by food or antacids. 6 , 4 Indapamide is highly lipid-soluble due to its indoline moiety - a characteristic that likely explains why indapamide’s renal clearance makes up less than 10% of its total systemic clearance. 2 , 6 , 4 The Tmax occurs approximately 2.3 hours after oral administration. 6 The Cmax and AUC 0-24 values are 263 ng/mL and 2.95 ug/hr/mL, respectively. 6
+
+## Volume Of Distribution
+
+Some sources report an apparent volume of distribution of 25 L for indapamide, while others report a value of approximately 60 L. 6 , 4 , 13
+
+## Metabolism
+
+As a result of extensive metabolism in the liver, the majority of indapamide excreted is metabolized, with only 7% remaining unchanged. 6 In humans, as many as 19 distinct indapamide metabolites may be produced, although not all have been identified. 2 , 6 There are several metabolic routes through which indapamide may be metabolized, and CYP3A4 is the main enzyme involved in the corresponding hydroxylation, carboxylation, and dehydrogenation reactions. 14 Indapamide can undergo dehydrogenation to form M5, then oxidation to form M4, then further hydroxylation at the indole moiety to form M2. 5 These reactions are facilitated by CYP3A4. 5 Another route of metabolism occurs when indapamide is first hydroxylated to M1 by CYP3A4. 5 M1 then undergoes dehydrogenation to form M3 and is further oxidized to form M2. 5 Hydroxylation of indapamide’s indole moiety is thought to form the major metabolite (M1), which is less pharmacologically active compared to its parent compound according to animal studies. 6 Indapamide may also undergo epoxidation via CYP3A4 to form a reactive epoxide intermediate. 5 The unstable epoxide intermediate may then undergo dihydroxylation via microsomal epoxide hydrolase to form M6, or glutathione conjugation to form M7. 5 Hover over products below to view reaction partners Indapamide Indapamide metabolite M5 Indapamide metabolite M4 Indapamide metabolite M2 Indapamide metabolite M1 Indapamide metabolite M3 Indapamide metabolite M2 Indapamide epoxide intermediate Indapamide glutathione conjugate M7 Indapamide metabolite M6
+
+## Route Of Elimination
+
+An estimated 60-70% of indapamide is eliminated in the urine, while 16-23% is eliminated in the feces. 2
+
+## Half Life
+
+Indapamide is characterized by biphasic elimination. 6 In healthy subjects, indapamide's elimination half-life can range from 13.9 to 18 hours. 2 , 4 The long half-life is conducive to once-daily dosing. 6
+
+## Clearance
+
+Indapamide's renal and hepatic clearance values are reported to be 1.71 mL/min and 20-23.4 mL/min, respectively. 2
+
+## Toxicity
+
+Indapamide overdose symptoms may include but are not limited to nausea, vomiting, gastrointestinal disorders, electrolyte disturbances and weakness. 23 Other signs of overdose include respiratory depression and severe hypotension. 23 In cases of overdose, supportive care interventions may be necessary to manage symptoms. 23 Emesis and gastric lavage may be recommended to empty the stomach; however, patients should be monitored closely for any electrolyte or fluid imbalances. 23

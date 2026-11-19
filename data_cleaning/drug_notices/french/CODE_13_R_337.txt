@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_337
+DCI: Voriconazole
+Brand Names: VORICONAZOLE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 200MG
+Packaging: B/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 0 DA
+Prescription List: Liste I
+Registration Numbers: 003/13 R 337/25 | 045/13 R 337/09/17 | 581/13 R 337/21
+Drug Codes: 13 R 337
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+ANTIFONGIQUES SYSTEMIQUES

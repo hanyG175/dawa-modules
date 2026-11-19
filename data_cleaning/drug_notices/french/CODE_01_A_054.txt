@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_054
+DCI: LEVOCETIRIZINE DICHLORHYDRATE 5 mg cp (LEVOCETIRIZINE ARROW)
+Brand Names: HISTADINE | LEVORGICA | LEVOXINE | LEVOZEN | RIZINAL 5 | TYRIZAL | XYCARE | XYRIZINE | ZOLIX | ZYRAL
+Pharmaceutical Forms: Comprimé
+Dosages: 05 mg
+Packaging: b/14 | b/14 et b/28 | b/20 | b/30
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AE - DERIVES DE LA PIPERAZINE | R06AE09 - LEVOCETIRIZINE
+Registration Numbers: 173/01 A 054/24 | 231/01 A 054/18 | 263/01 A 054/23 | 293/01 A 054/15 | 304/01 A 054/22 | 309/01 A 054/21 | 317/01 A 054/25 | 352/01 A 054/19/24 | 380/01 A 054/20 | 418/01 A 054/17
+Drug Codes: 01 A 054
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | lévocétirizine dichlorhydrate : 5 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer en une prise quotidienne | Administrer entier | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 6 an(s) | Patient quel que soit le poids | Rhinite allergique - Urticaire | Posologie standard | 5 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Enfant de moins de 6 ans | Epilepsie | Insuffisance rénale : 15 ml/min < clairance de la créatinine < 60 ml/min | Sujet à risque de crise convulsive | Sujet à risque de rétention urinaire
+
+## Mechanism Of Action
+
+Lévocétirizine : Mécanisme d'action | La lévocétirizine, le R-énantiomère de la | cétirizine | , est un antagoniste puissant et sélectif des récepteurs périphériques H1. | Des études de liaison aux récepteurs ont révélé que la lévocétirizine a une forte affinité pour les récepteurs humains H1 (Ki = 3,2 nmoles/L). La lévocétirizine a une affinité 2 fois supérieure à celle de la | cétirizine | (Ki = 6,3 nmol/l). La demi-vie de dissociation de la lévocétirizine des récepteurs H1 est de 115 ± 38 min. Le taux de fixation aux récepteurs après administration d'une dose unique est de 90 % à la 4 | e | heure et 57 % à 24 heures.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) | DERMATOLOGIE: | - Erythème pigmenté fixe | - Eruption cutanée | - Prurit | - Urticaire | DIVERS: | - Asthénie (Peu fréquent) | - Fatigue | - Oedème | HÉPATOLOGIE: | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | NUTRITION, MÉTABOLISME: | - Appétit augmenté | - Poids (augmentation) | OPHTALMOLOGIE: | - Vision floue | - Trouble de la vision | ORL, STOMATOLOGIE: | - Dysgueusie | - Sécheresse buccale | - Vertige | - Hyposialie | - Sensation de vertige | PSYCHIATRIE: | - Agressivité | - Hallucination | - Dépression | - Agitation | - Cauchemar | - Trouble du sommeil | - Idée suicidaire | - Insomnie | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Tachycardie | - Syncope | SYSTÈME DIGESTIF: | - Douleur abdominale (Peu fréquent) | - Vomissement | - Constipation | - Nausée | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire | - Douleur articulaire | SYSTÈME NERVEUX: | - Paresthésie | - Crise oculogyre | - Céphalée | - Somnolence | - Tremblement | - Sédation | - Convulsions | SYSTÈME RESPIRATOIRE: | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire | - Dysurie

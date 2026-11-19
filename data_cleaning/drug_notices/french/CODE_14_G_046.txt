@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_046
+DCI: glucose
+Brand Names: GLUCOPACK
+Pharmaceutical Forms: So. Inj. P. Perf. Iv
+Dosages: 0.1
+Packaging: flacon. en polyproylene de 500ml
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B05 - SUBSTITUTS DU SANG ET SOLUTIONS DE PERFUSION | B05B - SOLUTIONS INTRAVEINEUSES | B05BA - SOLUTIONS POUR NUTRITION PARENTERALE | B05BA03 - HYDRATES DE CARBONE
+Registration Numbers: 280/14 G 046/12/23
+Drug Codes: 14 G 046
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | glucose : 50 mg | Modalités d'administration | Voie intraveineuse (en perfusion) | Adapter le débit de perfusion à l'état du patient | Administrer par perfusion IV lente | Posologie à établir en fonction de l'état clinique du patient | Posologie | Patient jusqu'à 15 an(s) | Poids = 21 kg | Apport calorique glucidique en nutrition parentérale - Cétose au cours d'une dénutrition - Cétose au cours d'une dénutrition, traitement préventif (de la) - Déshydratation - Déshydratation, traitement préventif (de la) - Hypovolémie - Véhicule pour apport thérapeutique | Posologie standard | 1 500 à 2 400 ml 1 fois par 24 heures | Posologie maximale: 18 mg/kg par minute | Patient à partir de 15 an(s) | Patient quel que soit le poids | Apport calorique glucidique en nutrition parentérale - Cétose au cours d'une dénutrition - Cétose au cours d'une dénutrition, traitement préventif (de la) - Déshydratation - Déshydratation, traitement préventif (de la) - Hypovolémie - Véhicule pour apport thérapeutique | Posologie standard | 500 à 3 000 ml 1 fois par 24 heures | Posologie maximale: 5 mg/kg par minute
+
+## Precautions
+
+Accident vasculaire cérébral ischémique, antécédent récent (d') | Accouchement | Allaitement | Altération de la barrière hémato-encéphalique | Anurie | Cardiopathie | Compliance cérébrale réduite | Déshydratation | Diabète | Diabète insipide | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Grossesse | Hépatopathie | Hypertension intracrânienne | Insuffisance cardiaque | Insuffisance rénale | Insuffisance respiratoire | Intoxication hydrique | Néphropathie | Nourrisson de 1 à 30 mois | Nouveau-né de moins de 1 mois | Oedème | Oligurie | Prématuré | Sujet âgé | Sujet à risque de carence en vitamine B1 | Sujet en état de dénutrition sévère | Syndrome de sécrétion inappropriée d'hormone antidiurétique (SIADH) | Transfusion sanguine | Traumatisme crânien
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Glucose : Mécanisme d'action | L'apport calorique glucidique est de 100 Kcal/litre.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperlactatémie | - Hyperglycémie | - Glycosurie | - Hypophosphatémie | - Hypomagnésémie | - Hypokaliémie | - Hyponatrémie | DIVERS: | - Fièvre | - Frisson | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | INFECTIOLOGIE NON PRECISÉE: | - Infection au site de perfusion | INSTRUMENTATION: | - Ulcération au point d'injection | - Phlébite au point d'injection | - Thrombophlébite au point d'injection | - Infection au site d'injection | - Douleur au point d'injection | - Irritation au point d'injection | - Extravasation au point d'injection | - Nécrose au point d'injection | - Réaction au point d'injection | NUTRITION, MÉTABOLISME: | - Trouble hydroélectrolytique | - Déshydratation | SYSTÈME CARDIOVASCULAIRE: | - Irritation de la paroi veineuse | - Hypervolémie | - Thrombophlébite | SYSTÈME NERVEUX: | - Encéphalopathie hyponatrémique | UROLOGIE, NÉPHROLOGIE: | - Polyurie

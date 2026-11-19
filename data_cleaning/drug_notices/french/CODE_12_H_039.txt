@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_H_039
+DCI: Etamsylate
+Brand Names: ETAMSYLATE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 250MG/2ML
+Packaging: B/10AMP. DE 2ML
+Laboratories: BIOLOGICI
+Countries: ITALIE
+Reference Tariff (DA): 0 DA
+Prescription List: N/D
+ATC Classification: 12H039 | B02BX01
+Registration Numbers: 255/12 H 039/98/16 | 304/12 H 039/21 | 433/12 H 039/19/24 | 543/12 H 039/24
+Drug Codes: 12 H 039
+
+------------------------------------------------------------
+
+## Indications
+
+HEMATOLOGIE ET HEMOSTASE
+
+## Mechanism Of Action
+
+HEMOSTATIQUES GENERAUX

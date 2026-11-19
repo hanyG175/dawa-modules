@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_107
+DCI: Cytarabine
+DrugBank ID: DB00987
+DrugBank Name: Cytarabine
+Brand Names: CYTARABINE-BELMED
+Pharmaceutical Forms: Poudre
+Dosages: 1000mg
+Packaging: b/1fl. de 20ml
+Laboratories: EG LABO - Laboratoires EuroGenerics | CENTRAL PARK | 9-15 RUE MAURICE MALLET | 92130 ISSY-LES-MOULINEAUX
+ATC Classification: L01BC01
+Registration Numbers: 079/05 A 107/25
+Drug Codes: 05 A 107
+
+------------------------------------------------------------
+
+## Description
+
+A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+
+## Pharmacodynamics
+
+Cytarabine is an antineoplastic anti-metabolite used in the treatment of several forms of leukemia including acute myelogenous leukemia and meningeal leukemia. Anti-metabolites masquerade as purine or pyrimidine - which become the building blocks of DNA. They prevent these substances becoming incorporated in to DNA during the "S" phase (of the cell cycle), stopping normal development and division. Cytarabine is metabolized intracellularly into its active triphosphate form (cytosine arabinoside triphosphate). This metabolite then damages DNA by multiple mechanisms, including the inhibition of alpha-DNA polymerase, inhibition of DNA repair through an effect on beta-DNA polymerase, and incorporation into DNA. The latter mechanism is probably the most important. Cytotoxicity is highly specific for the S phase of the cell cycle.
+
+## Mechanism Of Action
+
+DNA polymerase beta Inhibitor DNA Cross-linking/alkylation
+
+## Absorption
+
+Less than 20% of the orally administered dose is absorbed from the gastrointestinal tract.
+
+## Metabolism
+
+Hepatic.
+
+## Route Of Elimination
+
+The primary route of elimination of cytarabine is metabolism to the inactive compound ara-U, followed by urinary excretion of ara-U.
+
+## Half Life
+
+10 minutes
+
+## Toxicity
+
+Cytarabine syndrome may develop - it is characterized by fever, myalgia, bone pain, occasionally chest pain, maculopapular rash, conjunctivitis, and malaise.

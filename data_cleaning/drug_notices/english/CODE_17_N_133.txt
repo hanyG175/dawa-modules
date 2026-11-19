@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_N_133
+DCI: Carbomere 980
+DrugBank ID: DB14091
+DrugBank Name: Carbomer homopolymer type C
+Brand Names: LIPOSIC
+Pharmaceutical Forms: Gélule
+Dosages: 0.2% (ou 2mg/g)
+Packaging: t/10g
+Registration Numbers: 096/17 N 133/08/16
+Drug Codes: 17 N 133
+
+------------------------------------------------------------
+
+## Description
+
+Carbomer homopolymer type C is a high molecular polyanionic substance tested for antiulcerogenic activity.

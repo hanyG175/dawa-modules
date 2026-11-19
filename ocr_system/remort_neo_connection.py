@@ -101,13 +101,13 @@ if __name__ == "__main__":
         run_with_timeout(db.verify, STEP_TIMEOUT_SECONDS, "Connectivity verification")
         print("✓ Neo4j connectivity OK", flush=True)
 
-        print("[4/4] Running sample query (adalimumab + abatacept)...", flush=True)
+        print("[4/4] Running sample query (aspirine + warfarine)...", flush=True)
         interactions = run_with_timeout(
             db.get_drug_interactions,
             STEP_TIMEOUT_SECONDS,
             "Sample query",
-            "adalimumab",
-            "abatacept",
+            "acide acetylsalicylique",
+            "warfarin",
         )
 
         if interactions:

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_128
+DCI: FER (sulfate ferreux) 80 mg cp (TARDYFERON) | Fer Sous Forme De Sulfate Ferreux
+Brand Names: NEOFERON | TARDYFERON
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg
+Packaging: b/30
+Laboratories: PIERRE FABRE MEDICAMENT | LES CAUQUILLOUS | 81500 LAVAUR | PIERRE FABRE MÉDICAMENT
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B03 - PREPARATIONS ANTIANEMIQUES | B03A - PREPARATIONS MARTIALES | B03AC - FER, PREPARATIONS PARENTERALES | B03AA07
+Registration Numbers: 099/12 E 128/07/24 | 418/12 E 128/20
+Drug Codes: 12 E 128
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Tardyferon est indiqué chez les adultes et les enfants âgés de plus de 6 ans. | Traitement curatif de l'anémie par carence martiale. | Traitement préventif de la carence martiale de la femme enceinte, lorsqu'un apport alimentaire suffisant en fer ne peut être assuré.
+
+## Posology
+
+Posologie | Unité de prise | ml | fer (hydroxyde ferrique-saccharose) : 20 mg/1 ml | Modalités d'administration | Voie intraveineuse (en perfusion) | A diluer avant administration | Administrer par perfusion IV lente | Posologie à adapter en fonction des résultats biologiques | Posologie à adapter en fonction du poids corporel | Posologie | Patient de 30 mois à 15 an(s) | Patient quel que soit le poids | Anémie ferriprive, traitement alternatif à la voie orale (de l') - Carence en fer, traitement alternatif à la voie orale (de l') | Posologie standard | Respecter un intervalle d'au moins 48 heures entre 2 injections | 3 mg/kg 1 à 3 fois par semaine | Patient à partir de 15 an(s) | Patient quel que soit le poids | Anémie ferriprive, traitement alternatif à la voie orale (de l') - Carence en fer, traitement alternatif à la voie orale (de l') | Posologie standard | Respecter un intervalle d'au moins 48 heures entre 2 injections | 100 à 200 mg 1 à 3 fois par semaine | Dose maximale par prise: 300 mg | Anémie de l'insuffisant rénal chronique dialysé, traitement de 2e intention (de l') | Traitement initial | 2 à 4 mg/kg 1 fois par semaine | Pendant 4 à 12 semaines | Dose maximale par prise: 300 mg | Traitement d'entretien | 2 mg/kg 1 à 2 fois par mois | Dose maximale par prise: 300 mg | Stimulation de l'érythropoïèse au cours de transfusion autologue programmé, trt associé à l'époétine | Posologie standard | 2 à 3 mg/kg 1 fois par semaine | Dose cumulée maximale: 15 mg/kg | Pendant 5 semaines | Dose maximale par prise: 300 mg
+
+## Precautions
+
+Allaitement | Asthme | Déficit en acide folique | Déficit immunitaire | Enfant de moins de 15 ans | Etat inflammatoire | Grossesse | Infection | Insuffisance hépatique | Patient dialysé | Patient préalablement traité par voie orale | Patient soumis à prélèvement autologue | Patient traité à posologie élevée | Porphyrie cutanée tardive | Sujet à risque de déplétion phosphorée | Terrain allergique | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Fer : Mécanisme d'action | Le fer est un constituant essentiel de l'organisme. Il est nécessaire à la formation de l'hémoglobine et aux processus d'oxydation des tissus vivants. | Le fumarate ferreux contient 33 % de fer métal. | Les sels ferreux sont en général faiblement absorbés (10 à 20 % de la dose ingérée). Cette absorption est majorée quand les réserves en fer sont diminuées. | L'absorption a lieu surtout au niveau du duodénum et de la partie proximale du jéjunum. | Le complexe hydroxyde ferrique-saccharose en solution permet l'apport de fer par la voie intraveineuse. Le complexe stable d'hydroxyde ferrique et de | dextran | est analogue à la forme physiologique du fer : la ferritine (complexe d'hydroxyde ferrique et de protéine phosphatée) | En imagerie, sous forme de particules de magnétite non stoechiométrique [N-(2-aminoéthyl)-3-aminopropyl] silylées, le fer est un produit de contraste pour IRM.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ALAT (augmentation) (Peu fréquent) | - Hypophosphatémie (Peu fréquent) | - Enzymes hépatiques (augmentation) (Peu fréquent) | - Ferritine (augmentation) (Peu fréquent) | - ASAT (augmentation) (Peu fréquent) | - Gamma GT (augmentation) (Peu fréquent) | - LDH (augmentation) (Rare) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Dermatite (Peu fréquent) | - Prurit (Peu fréquent) | - Exfoliation cutanée (Peu fréquent) | - Eruption cutanée (Fréquent) | - Hypersudation (Peu fréquent) | - Exanthème (Peu fréquent) | - Erythème facial (Peu fréquent) | - Hyperhidrose (Rare) | - Pâleur | - Altération de la couleur cutanée | - Coloration anormale au site d?injection | DIVERS: | - Oppression thoracique (Fréquent) | - Douleur (Peu fréquent) | - Oedème périphérique (Peu fréquent) | - Frisson (Peu fréquent) | - Douleur thoracique (Peu fréquent) | - Fièvre (Peu fréquent) | - Douleur des membres (Peu fréquent) | - Asthénie (Peu fréquent) | - Fatigue (Peu fréquent) | - Sensation de brûlure (Peu fréquent) | - Syndrome pseudogrippal (Rare) | - Oedème | - Décès | - Sueur froide | - Réaction de Fishbane | HÉMATOLOGIE: | - Hématome | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Angioedème (Rare) | - Réaction anaphylactique (Rare) | - Réaction anaphylactoïde (Rare) | - Oedème de Quincke | - Hypersensibilité retardée | - Hypersensibilité immédiate | INFECTIOLOGIE NON PRECISÉE: | - Infection (Peu fréquent) | INSTRUMENTATION: | - Phlébite au point d'injection (Peu fréquent) | - Réaction au site de perfusion (Fréquent) | - Réaction au point d'injection (Fréquent) | - Hématome au site d'injection | - Décoloration au site d'injection | - Gonflement au site d'injection | - Erythème au point d'injection | - Thrombophlébite au point d'injection | - Extravasation au point d'injection | - Oedème au point d'injection | - Prurit au point d'injection | - Irritation au point d'injection | - Ecchymose au point d'injection | - Douleur au site de perfusion | - Douleur au point d'injection | - Sensation de brûlure au point d'injection | NÉONATOLOGIE: | - Bradycardie foetale | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Dysgueusie (Fréquent) | - Dysphonie (Rare) | - Goût métallique | PSYCHIATRIE: | - Confusion mentale | - Anxiété | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Peu fréquent) | - Hypertension artérielle (Fréquent) | - Bouffée de chaleur (Peu fréquent) | - Tachycardie (Peu fréquent) | - Hypotension artérielle (Fréquent) | - Phlébite (Peu fréquent) | - Syncope (Rare) | - Malaise (Rare) | - Arythmie (Rare) | - Palpitation (Rare) | - Collapsus cardiovasculaire | - Bradycardie | - Syndrome de Kounis | - Thrombophlébite | SYSTÈME DIGESTIF: | - Constipation (Peu fréquent) | - Vomissement (Peu fréquent) | - Dyspepsie (Peu fréquent) | - Nausée (Fréquent) | - Douleur abdominale (Peu fréquent) | - Diarrhée (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Peu fréquent) | - Tuméfaction articulaire (Fréquent) | - Dorsalgie (Peu fréquent) | - Raideur musculo-squelettique (Peu fréquent) | - Douleur musculaire (Peu fréquent) | - Spasme musculaire (Peu fréquent) | - Crampe (Rare) | - Douleur osseuse (Rare) | - Arthrite (Rare) | SYSTÈME NERVEUX: | - Perte de conscience (Peu fréquent) | - Paresthésie (Peu fréquent) | - Céphalée (Peu fréquent) | - Tremblement (Peu fréquent) | - Hypoesthésie (Peu fréquent) | - Détérioration mentale (Rare) | - Convulsions (Rare) | - Somnolence (Rare) | - Epilepsie (crise) | - Altération de la conscience | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent) | - Bronchospasme (Peu fréquent) | - Difficulté à respirer | UROLOGIE, NÉPHROLOGIE: | - Couleur de l'urine (modification) (Rare)

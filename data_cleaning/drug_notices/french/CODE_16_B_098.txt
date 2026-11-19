@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_098
+DCI: Bromazepam
+Brand Names: BROMAZEPAM
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 6MG
+Packaging: B/30
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 205 DA
+PPA (DA): 200.00 DA
+Prescription List: Liste I
+ATC Classification: 16B098
+Registration Numbers: 195/16 B 098/07 | 235/16 B 098/02/23 | 242/16 B 098/07/25 | 268/16 B 098/05/16 | 285/16 B 098/05/22 | 462/16 B 098/13 | 571/16 B 098/22
+Drug Codes: 16 B 098
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+ANXIOLYTIQUES

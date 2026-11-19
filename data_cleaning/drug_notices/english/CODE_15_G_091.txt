@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_091
+DCI: Natalizumab
+DrugBank ID: DB00108
+DrugBank Name: Natalizumab
+Brand Names: TYSABRI
+Pharmaceutical Forms: Concentre A Diluer P. Perf.
+Dosages: 300mg/fl. de conc. (20mg/ml)
+Packaging: b/01fl. de 15ml
+Registration Numbers: 375/15 G 091/09/16
+Drug Codes: 15 G 091
+
+------------------------------------------------------------
+
+## Description
+
+Natalizumab is a recombinant humanized IgG4κ monoclonal antibody that binds to α4-integrin. 8 While natalizumab was originally approved by the FDA to treat multiple sclerosis in 2004, it was withdrawn from the market following multiple reports of fatal progressive multifocal leukoencephalopathy (PML). In 2006, the FDA reintroduced the drug to the market for multiple sclerosis. 2 Natalizumab was further approved by the FDA for the treatment of Crohn's Disease in January 2008. 5 On August 24, 2023, the first biosimilar to natalizumab, natalizumab-sztn, was approved by the FDA. 8 Natalizumab was approved by the European Commission on September 22, 2023. 9
+
+## Pharmacodynamics
+
+Natalizumab is a disease-modifying drug that works to alleviate the symptoms of multiple sclerosis and Crohn’s disease by attenuating inflammation. 2 , 4 A reduction in lesions was observed in patients with multiple sclerosis who received natalizumab. 2 Natalizumab increases the number of circulating leukocytes, including lymphocytes, monocytes, basophils, and eosinophils; 3 , 6 this effect is attributed to natalizumab inhibiting their transmigration out of the vascular space. Natalizumab does not affect the absolute count of circulating neutrophils. 6
+
+## Mechanism Of Action
+
+Integrin alpha-4 Antibody
+
+## Absorption
+
+Following the repeat intravenous administration of a 300 mg dose of natalizumab in patients with multiple sclerosis, the mean ± SD maximum observed serum concentration was 110 ± 52 mcg/mL. Mean average steady-state trough concentrations ranged from 23 mcg/mL to 29 mcg/mL. The observed time to steady-state was approximately 24 weeks after every four weeks of dosing. 6 In patients with Crohn's Disease, the mean ± SD maximum observed serum concentration was 101 ± 34 mcg/mL. The mean ± SD average steady-state trough concentration was 10 ± 9 mcg/mL. The estimated time to steady-state was approximately 16 to 24 weeks after every four weeks of dosing. 6
+
+## Volume Of Distribution
+
+Following the repeat intravenous administration of a 300 mg dose of natalizumab in patients with multiple sclerosis, the mean ± SD volume of distribution was 5.7 ± 1.9 L. In patients with Crohn's Disease, it was 5.2 ± 2.8 L. 6
+
+## Metabolism
+
+No information is available.
+
+## Route Of Elimination
+
+No information is available.
+
+## Half Life
+
+Following the repeat intravenous administration of a 300 mg dose of natalizumab in patients with multiple sclerosis, the mean ± SD half-life was 11 ± 4 days. In patients with Crohn's Disease, it was 10 ± 7 days. 6
+
+## Clearance
+
+Following the repeat intravenous administration of a 300 mg dose of natalizumab in patients with multiple sclerosis, the mean ± SD clearance was 16 ± 5 mL/hour. In patients with Crohn's Disease, it was 22 ± 22 mL/hour. 6 Natalizumab clearance increased with body weight in a less-than-proportional manner. The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 3-fold.
+
+## Toxicity
+
+There is limited information regarding the acute toxicity (LD 50 ) and overdosage of natalizumab. The safety of doses higher than 300 mg has not been adequately evaluated. The maximum amount of natalizumab that can be safely administered has not been determined. 6

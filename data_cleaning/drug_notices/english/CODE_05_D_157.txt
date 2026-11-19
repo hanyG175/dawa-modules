@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_157
+DCI: Cetuximab
+DrugBank ID: DB00002
+DrugBank Name: Cetuximab
+Brand Names: ERBITUX
+Pharmaceutical Forms: Solution
+Dosages: 5mg/ml (100mg/20ml-500mg/100ml)
+Packaging: b/1fl. de 20ml et b/1fl. de 100ml
+Registration Numbers: 062/05 D 157/12
+Drug Codes: 05 D 157
+
+------------------------------------------------------------
+
+## Description
+
+Cetuximab is a recombinant chimeric human/mouse IgG1 monoclonal antibody that competitively binds to epidermal growth factor receptor (EGFR) and competitively inhibits the binding of epidermal growth factor (EGF). 4 EGFR is a member of the ErbB family of receptor tyrosine kinases found in both normal and tumour cells; it is responsible for regulating epithelial tissue development and homeostasis. 9 EGFR has been implicated in various types of cancer, as it is often overexpressed in malignant cells 4 and EGFR overexpression has been linked to more advanced disease and poor prognosis. 3 EGFR is often mutated in certain types of cancer and serves as a driver of tumorigenesis. 9 In vitro , cetuximab was shown to mediate anti-tumour effects in numerous cancer cell lines and human tumour xenografts. 3 Approved by the FDA in February 2004 under the brand name ERBITUX, cetuximab is used for the treatment of head and neck cancer and metastatic, KRAS wild-type colorectal cancer, and metastatic colorectal cancer with a BRAF V600E mutation. 3 , 13 It has also been investigated in advanced colorectal cancer, EGFR-expressing non-small cell lung cancer (NSCLC), and unresectable squamous cell skin cancer. 12 Cetuximab is administered via intravenous infusion and is used as monotherapy or in combination with other chemotherapies, including platinum agents, radiation therapy, leucovorin , fluorouracil , and irinotecan . 11
+
+## Pharmacodynamics
+
+Cetuximab is an anticancer agent that works by inhibiting the growth and survival of epidermal growth factor receptor (EGFR)-expressing tumour cells with high specificity and higher affinity than epidermal growth factor (EGF) and transforming growth factor-alpha (TGF-α), which are natural ligands of EGFR. 12 Cetuximab works by inhibiting the growth and survival of EGFR-positive tumours. 3 In vitro , it promotes antibody-dependent cellular cytotoxicity (ADCC) against certain human tumour types. On the contrary, cetuximab does not exert its anti-tumour effects on human tumour xenografts lacking EGFR expression. 3 , 11 Cetuximab potentiates the cytotoxic effects of chemotherapeutics and radiation therapy when used in combination. 11 In human tumour xenograft models in mice, cetuximab and irinotecan synergistically inhibited the growth of orthotopic anaplastic thyroid carcinoma xenografts in vitro and in vivo . Cetuximab potentiated the in vitro anti-proliferative and pro-apoptotic effect of irinotecan and achieved 93% in vivo inhibition of tumour growth when combined with irinotecan, compared to 77% and 79% inhibition when cetuximab and irinotecan were used alone, respectively. 5
+
+## Mechanism Of Action
+
+Epidermal growth factor receptor Binder
+
+## Absorption
+
+After administration of a 400 mg/m 2 initial dose followed by a 250 mg/m 2 weekly dose, the steady-state levels of cetuximab was reached by the third weekly infusion with mean peak and trough concentrations across studies ranging from 168 µg/mL to 235 µg/mL and 41 µg/mL to 85 µg/mL, respectively. 11 T max is about 3 hours. 3
+
+## Volume Of Distribution
+
+The volume of the distribution is about 2-3 L/m 2 and is independent of dose. 11
+
+## Metabolism
+
+Like other monoclonal antibodies, cetuximab is expected to undergo lysosomal degradation by the reticuloendothelial system and protein catabolism by a target‐mediated disposition pathway. 6
+
+## Route Of Elimination
+
+There is limited information available.
+
+## Half Life
+
+After administration of a 400 mg/m 2 initial dose followed by a 250 mg/m 2 weekly dose, the mean half-life for cetuximab was approximately 112 hours, with a range of 63 to 230 hours. 11
+
+## Clearance
+
+In patients with recurrent and/or metastatic squamous cell carcinoma of the head and neck, the estimated clearance rate was 0.103 L/h. 7 At doses ranging from 200 to 400 mg/m 2 , complete saturation of systemic clearance was observed. In a population pharmacokinetic study, female patients had a 25% lower intrinsic cetuximab clearance than male patients, although there was no evidence of the need for dose modification based on sex. 3
+
+## Toxicity
+
+The intravenous LD 50 is > 300 mg/kg in mice and > 200 mg/kg in rats. 10 There is limited information on the overdose from cetuximab. In clinical trials, cetuximab was associated with serious and fatal infusion reactions, cardiopulmonary arrest or sudden death, and serious dermatologic toxicities. Pulmonary toxicities, such as interstitial lung disease, interstitial pneumonitis with non-cardiogenic pulmonary edema, and exacerbation of pre-existing fibrotic lung disease have been reported. 11

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_J_052
+DCI: Triptoreline
+DrugBank ID: DB06825
+DrugBank Name: Triptorelin
+Brand Names: DECAPEPTYL
+Pharmaceutical Forms: Poudreet Solv. Pour Sol.Inj. Sc
+Dosages: 0.1mg/ml
+Packaging: b/7fl. de lyoph. + 7amp. solv. 01ml
+Registration Numbers: 020/09 J 052/99/15
+Drug Codes: 09 J 052
+
+------------------------------------------------------------
+
+## Description
+
+Triptorelin is a synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men.
+
+## Pharmacodynamics
+
+The first administration of triptorelin is followed by a transient surge of follicle stimulating hormone (FSH), luteinizing hormone (LH), estradiol,and testosterone. The time, peak and decline of testosterone in the body varies depending on the dose administered. This initial surge is often responsible for worsening of prostate cancer symptoms such as urethral or bladder outlet obstruction, bone pain, spinal cord injury and hematuria in the early stages. A sustained decrease in FSH and LH, and significant reduction of testicular steroidogenesis is usually seen 2-4 weeks post-initiation of therapy. This result is a reduction of serum testosterone to levels which are typically seen in surgically castrated men. Ultimately, tissues and functions that require these hormones become inactive. The effects of triptorelin can usually be reversed once the drug is discontinued.
+
+## Mechanism Of Action
+
+Gonadotropin-releasing hormone receptor Agonist
+
+## Absorption
+
+Following IV administration of triptorelin, triptorelin is completely absorbed.
+
+## Volume Of Distribution
+
+After a single IV dose of 0.5mg, the volume of distribution of triptorelin peptide in healthy males was 30 - 33L.
+
+## Metabolism
+
+The metabolism of triptorelin in humans is not well understood; however, metabolism likely does not involve hepatic enzymes such as cytochrome P450. Whether or not triptorelin affects, or how it affects other metabolizing enzymes is also poorly understood. Triptorelin has no identified metabolites.
+
+## Route Of Elimination
+
+Elimination of triptorelin involves both the kidneys and the liver.
+
+## Half Life
+
+The pharmacokinetics of triptorelin follows a 3 compartment model. The half lives are estimated to be 6 minutes, 45 minutes, and 3 hours respectively.
+
+## Clearance
+
+In healthy male volunteers, total clearance of triptorelin was 211.9 mL/min.
+
+## Toxicity
+
+Some of the most commonly reported adverse effects of triptorelin are hot flushes reported in 58.6% of patients, skeletal pain in 12.1%, impotence in 7.1%, and headache in 5.0%. Other reported adverse effects include injection site pain, general body pain, leg pain, fatigue, hypertension, dizziness, diarrhea, vomiting, insomnia, emotional lability, anemia, pruritus, urinary tract infections, and urinary retention. Triptorelin is classified as Pregnancy Category X and contraindicated in pregnant women or in women who may become pregnant. Hormonal changes caused by triptorelin increase the risk for pregnancy loss. Studies done on pregnant rats demonstrated maternal toxicity and embryo-fetal toxicities.

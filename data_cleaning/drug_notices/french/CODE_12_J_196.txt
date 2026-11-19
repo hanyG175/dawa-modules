@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_196
+DCI: Moroctocog Alfa ( Facteur De Coagulation Humaine Viii Adnr) Pfizer | moroctocog alfa
+Brand Names: OCTOFACTOR | REFACTO AF
+Pharmaceutical Forms: Poudre Et Solv. Sol. Inj Iv
+Dosages: 500 UI/fl
+Packaging: b/1 flacon de lyophilisat + 1fl de 5ml de solvant | b/1 kit : 1fl. de pdre. + 1sering. prerempl. de 4ml de solv (chlorure de sodium à 0.9 %+ eppi) +1 adapteur pour flacon + 1 necessaire de per +2 tampons d'alcool + 1 papanssement + 1 compresse de gaze
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B02 - ANTIHEMORRAGIQUES | B02B - VITAMINE K ET AUTRES HEMOSTATIQUES | B02BD - FACTEURS DE LA COAGULATION SANGUINE | B02BD02 - FACTEUR VIII DE COAGULATION
+Registration Numbers: 045/12 J 196/18 | 640/12 J 196/24
+Drug Codes: 12 J 196
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | seringue | moroctocog alfa : 1000 UI | Modalités d'administration | Voie intraveineuse (en perfusion) | A reconstituer immédiatement avant administration | Adapter le débit de perfusion | Posologie à adapter au taux de facteur VIII | Posologie à adapter en fonction de la réponse clinique | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient quel que soit l'âge | Patient quel que soit le poids | Hémorragie chez l'hémophile A | Posologie standard | Dans le cas de : Début d?hémarthrose, saignement musculaire ou buccal | Respecter un intervalle de 12 heures entre chaque administration | Traitement à poursuivre jusqu'à disparition des symptômes | 10 à 20 UI/kg 1 à 2 fois par 24 heures | Ne pas administrer moins de 24 heures. | Dans le cas de : Hémarthrose et hémorragie musculaire plus étendue, ou hématome | Respecter un intervalle de 12 heures entre chaque administration | Traitement à poursuivre jusqu'à disparition des symptômes | 15 à 30 UI/kg 1 à 2 fois par 24 heures | Ne pas administrer moins de 3 jours. | Dans le cas de : Hémorragie mettant en jeu le pronostic vital | Durée du traitement limitée à la période de risque | Respecter un intervalle d'au moins 8 heures entre 2 administrations | 30 à 50 UI/kg 1 à 3 fois par 24 heures | Dans le cas de : Chirurgie mineure dont extraction dentaire | Traitement à poursuivre jusqu'à cicatrisation | 15 à 30 UI/kg 1 fois par 24 heures | Ne pas administrer moins de 24 heures. | Traitement initial | Dans le cas de : Chirurgie majeure | Débuter le traitement avant l'intervention chirurgicale | Respecter un intervalle d'au moins 8 heures entre 2 administrations | Traitement à poursuivre jusqu'à cicatrisation | 40 à 50 UI/kg 1 à 3 fois par 24 heures | Traitement ultérieur | Dans le cas de : Chirurgie majeure | Respecter un intervalle d'au moins 8 heures entre 2 administrations | 15 à 30 UI/kg 1 à 3 fois par 24 heures | Ne pas administrer moins de 7 jours. | Hémorragie chez l'hémophile A, traitement préventif (de l') | Posologie standard | Dans le cas de : Etat sévère | 20 à 40 UI/kg 1 fois ce jour tous les 2 à 3 jours
+
+## Precautions
+
+Allaitement | Enfant de moins de 6 ans | Grossesse | Hémophilie avec présence d'anticorps inhibiteur | Insuffisance hépatique | Insuffisance rénale | Intervention chirurgicale majeure | Patient ayant l'intention de voyager | Patient porteur d'un cathéter veineux central | Sujet âgé | Sujet à risque de maladie cardiovasculaire | Sujet de faible poids | Surcharge pondérale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Moroctocog alfa : Mécanisme d'action | Le moroctocog alpha, | facteur VIII | de coagulation recombinant délété du domaine B, est une glycoprotéine de poids moléculaire d'environ 170000 daltons, composée de 1438 acides aminés. L'activité | facteur VIII | est considérablement réduite chez les patients atteints d'hémophilie A, entraînant la nécessité d'un traitement substitutif. | Perfusé à un patient hémophile, le | facteur VIII | se fixe sur le | facteur Von Willebrand | présent dans sa circulation sanguine. | Le | facteur VIII | activé agit comme cofacteur du | facteur IX | activé, accélérant la conversion du facteur X en facteur X activé. Le facteur X activé convertit la prothrombine en | thrombine | . La | thrombine | convertit alors le | fibrinogène | en fibrine et un caillot apparaît. | L'hémophilie A est un trouble héréditaire de la coagulation sanguine lié au sexe, dû à une diminution du taux de facteur VIII:C et qui se caractérise par des saignements abondants au niveau des articulations, des muscles ou des organes internes, soit spontanément soit suite à un traumatisme accidentel ou chirurgical. Grâce à une thérapie de substitution, le taux plasmatique en | facteur VIII | est augmenté, ce qui permet ainsi une correction temporaire du déficit en facteur et de la tendance au saignement.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ASAT (augmentation) (Peu fréquent) | - Anticorps antifacteur VIII (Fréquent) | - ALAT (augmentation) (Peu fréquent) | - Anticorps de protéines de hamster (Très rare) | - Anticorps (production) | - CPK (augmentation) | - Hyperbilirubinémie | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Hyperhidrose (Peu fréquent) | - Eruption cutanée | - Prurit | - Erythème cutané | DIVERS: | - Asthénie | - Kyste | - Fièvre | HÉMATOLOGIE: | - Hémorragie (Fréquent) | - Hématome (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Choc anaphylactique | - Réaction anaphylactique | INSTRUMENTATION: | - Inflammation au site d'injection (Peu fréquent) | - Réaction au point d'injection (Peu fréquent) | - Douleur au point d'injection (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Anorexie | ORL, STOMATOLOGIE: | - Dysgueusie | - Sensation de vertige | PSYCHIATRIE: | - Confusion mentale | SYSTÈME CARDIOVASCULAIRE: | - Palpitation (Peu fréquent) | - Thrombophlébite (Peu fréquent) | - Angor (Peu fréquent) | - Tachycardie | - Hypotension artérielle | SYSTÈME DIGESTIF: | - Diarrhée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement | - Nausée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Douleur musculaire (Fréquent) | SYSTÈME NERVEUX: | - Neuropathie périphérique (Peu fréquent) | - Céphalée | - Somnolence | SYSTÈME RESPIRATOIRE: | - Toux | - Dyspnée

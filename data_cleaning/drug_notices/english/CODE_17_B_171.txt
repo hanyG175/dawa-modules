@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_171
+DCI: KETOTIFENE (fumarate) 0,1 mg/0,4 ml collyre sol récip unidose (MONOKETO Unidose) | Ketotifene Hydrogenofumarate Exprime En Ketotifene
+DrugBank ID: DB00920
+DrugBank Name: Ketotifen
+Brand Names: CITIGEN | OPHTALGON | PARVISTEN | ZALERG
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.25mg/ml
+Packaging: boite de 1 flacon de 5ml
+Laboratories: HORUS PHARMA | LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | ZONE INDUSTRIELLE DU BREZET | 63100 CLERMONT-FERRAND
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01G - DECONGESTIONNANTS ET ANTIALLERGIQUES | S01GX - AUTRES ANTIALLERGIQUES | S01GX08 - KETOTIFENE | S01GX08
+Registration Numbers: 022/17 B 171/13/24 | 065/17 B 171/24 | 406/17 B 171/23 | 521/17 B 171/25
+Drug Codes: 17 B 171
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Ketotifen is a non-competitive histamine antagonist and mast cell stabilizer. 6 Administered orally, it functions as a non-bronchodilator antiasthmatic drug by inhibiting the effects of endogenous substances known to be inflammatory mediators. 7 While effects can take 6 to 12 weeks to become apparent, 5 the use of ketotifen has been demonstrated to reduce the frequency, severity, and duration of asthma symptoms, and may allow for a reduction in the use of other asthma therapies. 7
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Following oral administration, absorption is relatively quick (with a T max of ~3 hours) and nearly complete as judged by plasma concentrations and urinary excretion levels - despite this, oral bioavailability is only ~50% due to a significant first-pass effect in the liver. 7
+
+## Metabolism
+
+Ketotifen is extensively metabolized in humans 5 and three distinct metabolites have been detected in human urine. The main metabolite is the N-glucuronide, comprising roughly 50% of urinary drug product, 5 with the N-demethylated nor-ketotifen and the 10-hydroxyl derivative comprising 2% and <1%, respectively. 7 Nor-ketotifen appears to be equally as active as its parent drug, 7 though the clinical relevance of this is unclear given the relatively small proportion in which nor-ketotifen is found in the plasma. Formation of the N-glucuronide metabolite is carried out by several UGT enzymes, including UGT1A3, UGT1A4, and UGT2B10. 2 Hover over products below to view reaction partners Ketotifen Ketotifen-N-glucuronide 10-alpha-hydroxyl Ketotifen Nor-ketotifen
+
+## Route Of Elimination
+
+More than 60% of an administered dose is excreted in the urine, primarily as metabolites 7 - of this material, <1% is found as unchanged drug, while the glucuronide and pharmacologically active nor-ketotifen metabolites account for 50% and 10%, respectively. 5
+
+## Half Life
+
+Ketotifen clearance is biphasic - the half-life of the distribution phase is approximately 3-5 hours and the half-life of the elimination phase is 22 hours. 5
+
+## Toxicity
+
+Oral ingestion of up to 60x the recommended dose has been reported, although no fatal overdoses of ketotifen have been described. 4 Symptoms of ketotifen overdosage may include significant sedation, confusion, disorientation, tachycardia, hypotension, convulsions, hyperexcitability (particularly in children), and/or reversible coma. 7 If ingestion is recent, consider the use of gastric lavage or activated charcoal. 7 Other treatments should be supportive and administered as necessary based on symptoms. Physostigmine may be useful to mitigate anticholinergic effects, and short-acting barbiturates or benzodiazepines may be used if the patient presents with excitation or convulsions. 7

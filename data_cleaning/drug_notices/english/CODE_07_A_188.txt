@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_A_188
+DCI: Oxyde De Zinc
+DrugBank ID: DB09321
+DrugBank Name: Zinc oxide
+Brand Names: OXYZINC 10%
+Pharmaceutical Forms: Pommademade
+Dosages: 0.1
+Packaging: tube de 40g
+Registration Numbers: 309/07 A 188/21
+Drug Codes: 07 A 188
+
+------------------------------------------------------------
+
+## Description
+
+Zinc oxide is an inorganic compound used in a number of manufacturing processes. It can be found in rubbers, plastics, ceramics, glass, cement, lubricants, paints, ointments, adhesives, sealants, pigments, foods, batteries, ferrites, fire retardants, and first-aid tapes. It occurs naturally as the mineral zincite, but most zinc oxide is produced synthetically. It is also widely used to treat a variety of other skin conditions, in products such as baby powder and barrier creams to treat diaper rashes, calamine cream, anti-dandruff shampoos, and antiseptic ointments.
+
+## Indications
+
+For adjunctive treatment of diaper dermatitis. Also, it can be used to treat minor skin irritations (eg, cuts, burns, and scrapes, poison ivy).
+
+## Pharmacodynamics
+
+Zinc oxide has astringent, soothing and protective properties and is used in topical preparations for eczema, slight excoriations, wounds and haemorrhoids. It also reflects ultraviolet radiation and can be used as a physical sunscreen.
+
+## Mechanism Of Action
+
+It acts by providing a physical barrier to prevent skin irritation and help heal damaged skin.
+
+## Absorption
+
+No significant percutaneous absorption from topically applied zinc oxide.
+
+## Volume Of Distribution
+
+Intended for local use only, no systemic absorption.
+
+## Metabolism
+
+Intended for local use only, no systemic absorption.
+
+## Route Of Elimination
+
+Intended for local use only, no systemic absorption.
+
+## Half Life
+
+Intended for local use only, no systemic absorption.
+
+## Clearance
+
+Intended for local use only, no systemic absorption.
+
+## Toxicity
+
+Acute oral toxicity (LD 50 ) in mice: 7950 mg/kg. 2 The acute respiratory LD 50 in mice is 2500 mg/m 3 . 2

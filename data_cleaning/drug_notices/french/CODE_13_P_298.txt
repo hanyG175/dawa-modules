@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_298
+DCI: EFAVIRENZ 600 mg cp (EFAVIRENZ ARROW)
+Brand Names: EFFAHOPE
+Pharmaceutical Forms: Comprimé
+Dosages: 600 mg
+Packaging: flacon hdpe de 30 comprimes
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J05 - ANTIVIRAUX A USAGE SYSTEMIQUE | J05A - ANTIVIRAUX A ACTION DIRECTE | J05AG - INHIBITEURS DE LA TRANSCRIPTASE REVERSE NON NUCLEOSIDIQUES | J05AG03 - EFAVIRENZ
+Registration Numbers: 478/13 P 287/20
+Drug Codes: 13 P 298
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | efavirenz : 600 mg | Modalités d'administration | Voie orale | Administrer à jeun de préférence au coucher | Posologie | Patient à partir de 12 an(s) | Poids >= 40 kg | Infection par le VIH-1, traitement associé (de l') | Posologie standard | 600 mg en 1 prise par jour | Dans le cas de : Association au voriconazole | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | 300 mg en 1 prise par jour | Poids >= 50 kg | Infection par le VIH-1, traitement associé (de l') | Posologie standard | Dans le cas de : Association à la rifampicine | Utiliser le dosage le plus adapté à la posologie | 800 mg en 1 prise par jour
+
+## Precautions
+
+Allaitement | Antécédent d'épilepsie | Antécédent de dépression | Antécédent de maladie psychiatrique | Antécédent de réaction cutanée due à un inhibiteur non nucléosidique de la transcriptase inverse | Co-infection VHB-VIH | Co-infection VHC-VIH | Déficit immunitaire sévère | Enfant de moins de 15 ans | Enfant de moins de 40 kg | Femme susceptible d'être enceinte | Hépatite chronique | Hépatopathie | Homme en âge de procréer | Insuffisance hépatique légère à modérée | Insuffisance rénale | Nouveau-né exposé in utero au médicament | Sujet âgé | Traitement hépatotoxique en cours | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Efavirenz : Mécanisme d'action | L'efavirenz est un inhibiteur non nucléosidique de la transcriptase inverse (INNTI) du virus de l’immunodéficience humaine de type 1 (VIH-1). | L'efavirenz se lie directement à la transcriptase inverse du VIH-1 et n'inhibe pas de manière significative la transcriptase inverse du VIH-2, ni les ADN (acides désoxyribonucléiques) polymérases alpha, ß, gamma ou delta cellulaires.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ALAT (augmentation) (Fréquent) | - Hypertriglycéridémie (Fréquent) | - ASAT (augmentation) (Fréquent) | - Gamma GT (augmentation) (Fréquent) | - Hypercholestérolémie (Peu fréquent) | - Hyperglycémie | - Hyperlipidémie | - Amylasémie (augmentation) | DERMATOLOGIE: | - Erythème polymorphe (Peu fréquent) | - Eruption cutanée (Très fréquent) | - Prurit (Fréquent) | - Syndrome de Stevens-Johnson (Peu fréquent) | - Dermatite solaire (Rare) | - Photosensibilisation (Rare) | - Réaction cutanée sévère | - Eruption maculopapuleuse | DIVERS: | - Fatigue (Fréquent) | - Réaction inflammatoire post-infection | ENDOCRINOLOGIE: | - Gynécomastie (Peu fréquent) | - Maladie de Basedow | HÉPATOLOGIE: | - Hépatite aiguë (Peu fréquent) | - Insuffisance hépatique (Rare) | - Hépatite B | - Hépatite fulminante | - Hépatite auto-immune | - Affection biliaire | - Trouble hépatique | - Hépatite C | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Syndrome de restauration immunitaire | - Maladie auto-immune | INFECTIOLOGIE NON PRECISÉE: | - Infection opportuniste | NUTRITION, MÉTABOLISME: | - Poids (augmentation) | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Sensation de vertige (Fréquent) | - Acouphène (Peu fréquent) | PSYCHIATRIE: | - Réaction paranoïde (Peu fréquent) | - Tentative de suicide (Peu fréquent) | - Idée suicidaire (Peu fréquent) | - Pensée anormale (Peu fréquent) | - Accès maniaque (Peu fréquent) | - Insomnie (Fréquent) | - Réaction maniaque (Peu fréquent) | - Trouble psychique (Peu fréquent) | - Psychose (Peu fréquent) | - Catatonie (Peu fréquent) | - Euphorie (Peu fréquent) | - Agitation (Peu fréquent) | - Dépression (Fréquent) | - Anxiété (Fréquent) | - Labilité affective (Peu fréquent) | - Confusion mentale (Peu fréquent) | - Rêves anormaux (Fréquent) | - Concentration (diminution) (Fréquent) | - Hallucination (Peu fréquent) | - Trouble émotif (Peu fréquent) | - Agressivité (Peu fréquent) | - Délire (Rare) | - Suicide (Rare) | - Névrose (Rare) | - Trouble psychiatrique | - Episode psychotique | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Pancréatite (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Ostéonécrose | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Ataxie (Peu fréquent) | - Ataxie cérébelleuse (Fréquent) | - Tremblement (Peu fréquent) | - Trouble de l'équilibre (Fréquent) | - Convulsions (Peu fréquent) | - Amnésie (Peu fréquent) | - Somnolence (Fréquent) | - Encéphalopathie | - Trouble neurologique

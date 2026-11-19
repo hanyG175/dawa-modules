@@ -1,0 +1,34 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_F_082
+DCI: ADENOSINE 30 mg/10 ml sol p perf (ADENOSINE ACCORD) | Adenosine Triphosphate
+DrugBank ID: DB00171
+DrugBank Name: ATP
+Brand Names: ATEPADENE | ATP NOVAGENERICS
+Pharmaceutical Forms: Gélule
+Dosages: 30mg
+Packaging: b/30
+Laboratories: LABORATOIRE X.O | 170 BUREAUX DE LA COLLINE | 92213 SAINT-CLOUD CEDEX
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01E - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB10 - ADENOSINE
+Registration Numbers: 149/03 F 082/17 | 541/03 F 082/06/22
+Drug Codes: 03 F 082
+
+------------------------------------------------------------
+
+## Description
+
+An adenine nucleotide containing three phosphate groups esterified to the sugar moiety. In addition to its crucial roles in metabolism adenosine triphosphate is a neurotransmitter.
+
+## Pharmacodynamics
+
+Adenosine triphosphate (ATP) is the nucleotide known in biochemistry as the "molecular currency" of intracellular energy transfer; that is, ATP is able to store and transport chemical energy within cells. ATP also plays an important role in the synthesis of nucleic acids. The total quantity of ATP in the human body is about 0.1 mole. The energy used by human cells requires the hydrolysis of 200 to 300 moles of ATP daily. This means that each ATP molecule is recycled 2000 to 3000 times during a single day. ATP cannot be stored, hence its consumption must closely follow its synthesis.
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase ABL1 Inhibitor
+
+## Toxicity
+
+Oral LD 50 in rats is > 2 g/kg.

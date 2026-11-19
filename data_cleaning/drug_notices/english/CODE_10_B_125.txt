@@ -1,0 +1,41 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_125
+DCI: Dimeticone/Gaiazulene
+DrugBank ID: DB11074
+DrugBank Name: Dimethicone
+Brand Names: PEPSANE | PEPSULENE
+Pharmaceutical Forms: Gélule
+Dosages: 3g/0.004g | 3g/0.004g/sachet
+Packaging: b/30 sachets | b/30 sachets doses
+Registration Numbers: 265/10 B 125/02/14 | 468/10 B 125/22
+Drug Codes: 10 B 125
+
+------------------------------------------------------------
+
+## Description
+
+Dimethicone is a silicone oil that is also known as polydimethylsiloxane (PDMS). It has viscoelastic properties. Dimethicone is used as a surfactant, antifoaming agent, carminative in various products such as medical devices, food products, and lubricants. It is used in a number of health and beauty products including hair care products such as shampoo, conditioner, leave-in conditioner, and de-tangling products. On skin, it is also observed to have moisturizing actions 6 , 8 . A study found that that the 100 % dimethicone product is a safe and highly effective head lice treatment for children and may serve as less toxic and less resistance-prone alternative to pesticide-containing products 3 .
+
+## Pharmacodynamics
+
+This drug acts as a skin protectant by helping to treat and prevent minor skin irritation due to diaper rash and seals out moisture from the diaper area. This drug temporarily protects and helps prevent chafed, chapped, cracked or windburned skin. 7 .
+
+## Mechanism Of Action
+
+When applied topically, dimethicone forms a layer to delay the evaporation of water 8 .
+In the treatment of head lice dimethicone 100, the respiratory systems of head lice are targeted. NYDA works by suffocating the lice, nymphs and the embryos. The physical properties of this drug, including the viscosity and spreading property of the solution allow it to easily flow into the respiratory system of all developmental stages of the insect, causing suffocation and death of the organisms. It diffuses through the stigmata (spiracles) of the lice, into the tracheae of the head lice as well as through the aeropyles of the egg operculum. The solution then displaces oxygen. The low viscosity, volatile dimethicone enables the NYDA head lice solution to penetrate into the breathing system. Its evaporation causes the thickening of the NYDA solution. The remaining high viscosity dimethicone ultimately encloses the respiratory system and thus leading to suffocation of all stages of head lice (adult lice, larvae and eggs). This mode of action prevents the development of lice resistance by preventing the formation of new progency 9 . Studies performed using house crickets and lice suggest a close correlation between the death of the lice and the influx of the solution into the insect head tracheae. These data strongly suggest that the total filling of the head tracheae immediately blocks the oxygen supply to the insect central nervous system. Death, following numerous stages of disability after the entrance of dimethicones into the abdominal tracheal system, demonstrates the sequence of oxygen deprivation. NYDA was applied directly to the head and mouth of the organism, and was found to have no effect when applied solely to the outside of the head/mouth 9 .
+
+## Absorption
+
+This drug is not believed to be absorbed when used in quantities from 1-30% Label .
+
+## Volume Of Distribution
+
+Following injection of [14C]dimethicone fluid in the hind limb of rats, the radioactivity was distributed primarily in the gastrointestinal tract, and no evidence of metabolism was observed. When [14C]dimethicone was administered through i.p. injection in rats, the following distribution of radioactivity was observed at 25 days after dosing: 51% in adipose tissue, 27% in gastrointestinal tissues, and 15% in liver 5 .
+
+## Toxicity
+
+The minimum lethal oral dose of dimethicone 200 (50 cs), dimethicone 550 (75 cs), dimethicone in rats 5 . A 76-week dietary toxicity study of a silicone antifoam compound (94% polydimethylsiloxane silicone oil and 6% silicone dioxide) was performed in mice. Three groups were given diet containing 0, 0.25%, or 2.5% of the test article. The dose levels in the treatment groups were estimated to be 580 and 5800 mg/kg/day. Mortality was increased in the 5800 mg/kg/day females. No target organs of toxicity were observed. The no-effect dose was 580 mg/kg/day. This study is of limited usefulness for assessing the toxicity of dimethicones, due to the small number of organs/tissues that were examined 5 . In one clinical study, 145 subjects were treated with either NYDA (dimethicone )or with a permethrin-based lice product. The number of subjects experiencing any adverse events was similar in both groups. In the NYDA group, 29 adverse events were reported in 25 subjects. All except two adverse events were categorized as being unrelated to the lice treatment (e.g., superficial wound after a fall, otitis externa following swimming in a pool). Two patients in the NYDA group experienced ocular irritation after treatment when the product entered the eyes. The irritation resolved spontaneously in both cases after rinsing the eyes with clean water 9 .

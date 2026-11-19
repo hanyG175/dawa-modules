@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_057
+DCI: Sevoflurane
+Brand Names: SEVOFLURANE USP
+Pharmaceutical Forms: Liquide P. Inhal
+Dosages: 100ML/100ML DE LIQUIDE POUR INHALATION PAR VAPEUR
+Packaging: CARTON DE 06 FL. DE 250ML
+Laboratories: BAXTER
+Countries: ETATS UNIS D'AMERIQUE
+Reference Tariff (DA): DA
+Prescription List: Liste I
+ATC Classification: 02B057
+Registration Numbers: 298/02 B 057/16 | 498/02 B 057/05/24 | 499/02 B 057/21
+Drug Codes: 02 B 057
+
+------------------------------------------------------------
+
+## Indications
+
+ANESTHESIOLOGIE
+
+## Mechanism Of Action
+
+ANESTHESIQUES GENERAUX & GAZ

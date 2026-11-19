@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_K_075
+DCI: Nandrolone
+DrugBank ID: DB00984
+DrugBank Name: Nandrolone phenpropionate
+Brand Names: KERATYL
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.01
+Packaging: flacon/5ml
+Registration Numbers: 096/17 K 075/98
+Drug Codes: 17 K 075
+
+------------------------------------------------------------
+
+## Description
+
+C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+
+## Pharmacodynamics
+
+Nandrolone is an anabolic steroid occurring naturally in the human body, albeit in small quantities. Nandrolone increases production and urinary excretion of erythropoietin. It may also have a direct action on bone marrow. Nandrolone binds to the androgen receptor to a greater degree than testosterone, but due to its inability to act on the muscle in ways unmediated by the receptor, has less overall effect on muscle growth.
+
+## Mechanism Of Action
+
+Androgen receptor Agonist
+
+## Absorption
+
+The absorption after oral dosing is rapid for testosterone and probably for other anabolic steroids, but there is extensive first-pass hepatic metabolism for all anabolic steroids except those that are substituted at the 17-alpha position. The rate of absorption from subcutaneous or intramuscular depots depends on the product and its formulation. Absorption is slow for the lipid-soluble esters such as the cypionate or enanthate, and for oily suspensions.
+
+## Metabolism
+
+Nandrolone is unusual in that unlike most anabolic steroids, it is not broken down into the more reactive DHT by the enzyme 5α-reductase, but rather into a less effective product known as Dihydronandrolone.
+
+## Half Life
+
+The elimination half-life from plasma is very short.

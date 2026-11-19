@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_A_049
+DCI: CHLORPHENAMINE MALEATE 4 mg + PARACETAMOL 500 mg gél (HUMEXLIB)
+Brand Names: RYNZA
+Pharmaceutical Forms: Gélule
+Dosages: 500mg/4mg
+Packaging: b/15
+Laboratories: Laboratoires URGO HEALTHCARE
+Registration Numbers: 263/22 A 049/23
+Drug Codes: 22 A 049
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Fri Feb 28 00:00:00 CET 2025 | is_edited: False | title: INDICATIONS | text: Ce médicament est indiqué dans le traitement au cours des rhumes, rhinites, rhinopharyngites et des états grippaux de l'adulte et de l'enfant de plus de 15 ans : | de l'écoulement nasal clair et des larmoiements, | des éternuements, | des maux de tête et/ou fièvre. | lists: de l'écoulement nasal clair et des larmoiements, | des éternuements, | des maux de tête et/ou fièvre.

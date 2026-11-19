@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_L_266
+DCI: Pomalidomide
+DrugBank ID: DB08910
+DrugBank Name: Pomalidomide
+Brand Names: POMALIDOMIDE BIOPHARM
+Pharmaceutical Forms: Gélule
+Dosages: 2mg
+Packaging: b/21
+Registration Numbers: 263/05 L 266/25
+Drug Codes: 05 L 266
+
+------------------------------------------------------------
+
+## Description
+
+Pomalidomide, an analogue of thalidomide, is an immunomodulatory antineoplastic agent. FDA approved on February 8, 2013.
+
+## Pharmacodynamics
+
+Pomalidomide is more potent than thalidomide (100-times) and lenalidomide (10-times).
+
+## Mechanism Of Action
+
+Protein cereblon Inhibitor Tumor necrosis factor Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Pomalidomide is generally well absorbed. The major circulating component is the parent compound.
+Tmax, single oral dose = 2 -3 hours.
+When 4 mg of promalidomide is given to patients with multiple myeloma, the steady-state pharmacokinetic parameters are as follows:
+AUC(T) = 400 ng.hr/mL;
+Cmax = 75 ng/mL.
+Promalidomide accumulates following multiple doses.
+
+## Volume Of Distribution
+
+Mean apparent volume of distribution (Vd/F), steady-state = 62 - 138 L
+
+## Metabolism
+
+Promalidomide is hepatically metabolized by CYP1A2 and CYP3A4. The metabolites are 26-fold less active than the parent compound. Minor contributions from CYP2C19 and CYP2D6 have been observed in vitro.
+
+## Route Of Elimination
+
+When a single oral dose (2mg) is given to healthy subjects, 73% of the dose was eliminated in urine. 15% of the dose was eliminated in feces. 2% and 8% of the dose eliminated unchanged as pomalidomide in urine and feces, respectively.
+
+## Half Life
+
+Healthy subjects = 9.4 hours;
+Multiple myeloma patients = 7.5 hours.
+
+## Clearance
+
+Total body clearance = 7-10 L/hour
+
+## Toxicity
+
+Most common adverse reactions (≥30%) included fatigue and asthenia, neutropenia, anemia, constipation, nausea, diarrhea, dyspnea, upper-respiratory tract infections, back pain and pyrexia.

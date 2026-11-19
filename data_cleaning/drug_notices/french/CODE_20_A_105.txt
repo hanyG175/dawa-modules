@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_105
+DCI: FLUTICASONE PROPIONATE 250 µg/dose + SALMETEROL (xinafoate) 50 µg/dose pdre p inhal en récip unidose (PROPIONATE DE FLUTICASONE/SALMETEROL ARROW AIRMASTER Unidose)
+Brand Names: SERETIDE DISKUS
+Pharmaceutical Forms: Poudre P. Inhal.
+Dosages: 250mcg/50mcg/dose
+Packaging: f/60doses
+ATC Classification: R - SYSTEME RESPIRATOIRE | R01 - PREPARATIONS POUR LE NEZ | R01A - DECONGESTIONNANTS ET AUTRES PREPARATIONS A USAGE TOPIQUE | R01AD - CORTICOIDES | R01AD12 - FLUTICASONE FUROATE
+Registration Numbers: 112/20 A 105/03
+Drug Codes: 20 A 105
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | pulvérisation | fluticasone furoate : 27.5 µg | Modalités d'administration | Voie nasale | Administrer dans chaque narine | Information du patient : agiter le flacon avant emploi | Information du patient : reboucher le flacon après utilisation | Information du patient : se moucher avant chaque instillation | Réduire la fréquence d'administration après l'amélioration des symptômes | Tenir compte du délai d'action du traitement | Posologie | Patient de 6 an(s) à 12 an(s) | Patient quel que soit le poids | Rhinite allergique | Posologie standard | 1 pulvérisation 1 fois par jour | Dans le cas de : Patient faiblement répondeur | 2 pulvérisations 1 fois par jour | Patient à partir de 12 an(s) | Patient quel que soit le poids | Rhinite allergique | Traitement initial | Traitement à poursuivre jusqu'à amélioration des symptômes | 2 pulvérisations 1 fois par jour | Traitement d'entretien | 1 pulvérisation 1 fois par jour
+
+## Precautions
+
+Allaitement | Dysfonctionnement surrénalien | Enfant de moins de 6 ans | Enfant entre 6 et 18 ans | Grossesse | Infection nasale | Intervention chirurgicale nasale, antécédent récent (d') | Mycose pulmonaire | Nouveau-né exposé in utero au médicament | Obstruction nasale | Patient traité à posologie élevée | Traitement par corticoïde en cours | Traitement prolongé | Traitement prolongé à posologie élevée | Traumatisme nasal | Tuberculose pulmonaire | Ulcère de la cloison nasale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Fluticasone : Mécanisme d'action | La fluticasone est un corticoïde synthétique trifluoré ayant une très grande affinité pour le récepteur aux glucocorticoïdes et exerçant une activité anti-inflammatoire puissante.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Douleur au site d'application | - Eruption cutanée | - Prurit | - Urticaire | DIVERS: | - Effets systémiques | ENDOCRINOLOGIE: | - Insuffisance surrénale | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Réaction anaphylactique | - Oedème de Quincke | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose oropharyngée | - Candidose nasale | OPHTALMOLOGIE: | - Glaucome (Très rare) | - Cataracte (Très rare) | - Hypertonie oculaire | - Trouble oculaire | - Vision floue | ORL, STOMATOLOGIE: | - Epistaxis (Très fréquent) | - Ulcération nasale (Fréquent) | - Hyposécrétion nasale (Fréquent) | - Rhinalgie (Peu fréquent) | - Gêne nasale (Peu fréquent) | - Perforation du septum nasal (Très rare) | - Gorge sèche | - Aphonie | - Anosmie | - Goût désagréable | - Sensation de brûlure nasale | - Dysgueusie | - Agueusie | - Irritation nasale | - Dysphonie | - Sensation d'odeur désagréable | SYSTÈME MUSCULO-SQUELETTIQUE: | - Retard de croissance | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Bronchospasme

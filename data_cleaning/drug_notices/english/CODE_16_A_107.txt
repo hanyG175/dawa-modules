@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_107
+DCI: DULOXETINE (chlorhydrate) 60 mg gél gastrorésis (DULOXETINE ACCORD)
+DrugBank ID: DB00476
+DrugBank Name: Duloxetine
+Brand Names: BALTAXINE | CYACETINE | CYMBALTA | CYMOXETINE | DULOX | WYSERIN
+Pharmaceutical Forms: Gélule | Microgranule En Gellule | Microgranule En Gellule Liberation Prolongee | Microgranules Gastro Resistante Gelule
+Dosages: 60 mg | 60mg
+Packaging: b/01 pilulier de30 | b/28 | b/30 | pilulier/30
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06A - ANTIDEPRESSEURS | N06AX - AUTRES ANTIDEPRESSEURS | N06AX21 - DULOXETINE
+Registration Numbers: 001/16 A 107/15 | 034/16 A 107/07/15 | 035/16 A 107/15 | 286/16 A 107/16/25 | 289/16 A 107/17 | 352/16 A 107/16/22
+Drug Codes: 16 A 107
+
+------------------------------------------------------------
+
+## Description
+
+Duloxetine is a dual serotonin and norepinephrine reuptake inhibitor. Label It was originally discovered in 1993 and developed by Eli Lilly and Company as LY248686. 15 Duloxetine first received approval from the FDA in August, 2004 as Cymbalta for the treatment of Major Depressive Disorder. 20 It has since received approval for a variety of indications including the treatment of neuropathic pain, Generalized Anxiety disorder, osteoarthritis, and stress incontinence. Duloxetine continues to be investigated for the treatment of pain in cancer, surgery, and more.
+
+## Pharmacodynamics
+
+Duloxetine, through increasing serotonin and norepinephrine concentrations in Onuf's nucleus, enhances glutamatergic activation of the pudendal motor nerve which innervates the external urethral sphinter. 9 , 10 This enhanced signaling allows for stronger contraction. Increased contraction of this sphincter increases the pressure needed to produce an incontinence episode in stress urinary incontinence. Duloxetine has been shown to improve Patient Global Impression of Improvement and Incontinence Quality of Life scores. 11 It has also been shown to reduce the median incontinence episode frequency at doses of 40 and 80 mg. Action at the dorsal horn of the spinal cord allows duloxetine to strengthen the the serotonergic and adrenergic pathways involved in descending inhibition of pain. 10 , 12 This results in an increased threshold of activation necessary to transmit painful stimuli to the brain and effective relief of pain, particularly in neuropathic pain. Pain relief has been noted in a variety of painful conditions including diabetic peripheral neuropathy, fibromyalgia, and osteoarthritis using a range of pain assessment surveys. 13 While duloxetine has been shown to be effective in both animal models of mood disorders and in clinical trials for the treatment of these disorders in humans, the broad scope of its pharmacodynamic effects on mood regulation in the brain has yet to be explained. 14 Increased blood pressure is a common side effect with duloxetine due to vasoconstriction mediated by the intended increase in norepinephrine signaling. Label , 16
+
+## Mechanism Of Action
+
+Sodium-dependent serotonin transporter Inhibitor Sodium-dependent noradrenaline transporter Inhibitor
+
+## Absorption
+
+Duloxetine is incompletely absorbed with a mean bioavailability of 50% although there is wide variability in the range of 30-80%. 7 The population absorption constant (ka) is 0.168 h -1 .The molecule is susceptible to hydrolysis in acidic environments necessitating the use of an enteric coating to protect it during transit through the stomach. This creates a 2 hour lag time from administration to the start of absorption. The Tmax is 6 hours including the lag time. Label Administering duloxetine with food 3 hour delay in Tmax along with an 10% decrease in AUC. Similarly, administering the dose at bedtime produces a 4 hour delay and 18% decrease in AUC with a 29% reduction in Cmax. 7 These are attributed to delayed gastric emptying in both cases but are not expected to impact therapy to a clinically significant degree.
+
+## Volume Of Distribution
+
+Apparent Vd of 1620-1800 L. Label , 7 Duloxetine crosses the blood-brain barrier and collects in the cerebral cortex at a higher concentration than the plasma. 7
+
+## Metabolism
+
+Duloxetine is extensively metabolized primarily by CYP1A2 and CYP2D6 with the former being the greater contributor. Label , 7 It is hydroxylated at the 4, 5, or 6 positions on the naphthalene ring with the 4-hydroxy metabolite proceeding directly to a glucuronide conjugate while the 5 and 6-hydroxy metabolites proceed through a catechol and a 5-hydroxy, 6-methoxy intermediate before undergoing glucuronide or sulfate conjugation. CYP2C9 is known to be a minor contributor to the 5-hydroxy metabolite. Another uncharacterized metabolite is known to be excreted in the feces but comprises <5% of the total excreted drug. Many other metabolites exist but have not been identified due their low contribution to the overall profile of duloxetine and lack of clinical significance. Hover over products below to view reaction partners Duloxetine 4-hydroxy duloxetine 4-hydroxy duloxetine glucuronide 5-hydroxy duloxetine + 6-hydroxy duloxetine Catechol duloxetine 5-hydroxy, 6-methoxy duloxetine 5-hydroxy, 6-methoxy duloxetine glucuronide 5-hydroxy, 6-methoxy duloxetine sulfate Catechol duloxetine 5-hydroxy, 6-methoxy duloxetine 5-hydroxy, 6-methoxy duloxetine glucuronide 5-hydroxy, 6-methoxy duloxetine sulfate
+
+## Route Of Elimination
+
+About 70% of duloxetine is excreted in the urine mainly as conjugated metabolites. Label Another 20% is present in the feces as the parent drug, 4-hydroxy metabolite, and an uncharacterized metabolite. Label , 7 Biliary secretion is thought to play a role due to timeline of fecal excretion exceeding the time expected of normal GI transit. 7
+
+## Half Life
+
+Mean of 12 h with a range of 8-17. Label , 7
+
+## Clearance
+
+There is a large degree of interindividual variation reported in the clearance of duloxetine with values ranging from 57-114 L/h. 7 Steady state concentrations have still been shown to be dose proportional with a doubling of dose from 30 to 60 mg and from 60 to 120 mg producing 2.3 and 2.6 times the Css respectively.
+
+## Toxicity
+
+Overdose Fatalities have been reported with doses of 1000mg involving both mixed drugs as well as duloxetine alone. Label Signs and symptoms of overdose include: somnolence, coma, serotonin syndrome, seizure, syncope, hypo- or hypertension, tachycardia, and vomiting. No antidote exists and the drug is unlikely to be cleared by hemodialysis. Supportive care is recommended along with activated charcoal and gastric lavage to reduce absorption. If serotonin syndrome occurs specific treatment such as temperature control or cyproheptadine may be initiated. Carcinogenicity & Mutagenicity Increased incidence of hepatocellular carcinomas and adenomas were reported in female mice fed 140 mg/kg/day duloxetine for 2 years, equivalent to 6 times the maximum recommended human dose (MRHD). Label No effect was reported with doses of 50mg/kg/day (2 time MRHD) in females or 100 mg/kg/day in males (4 times MRHD). Similar investigation in rats produced no carcinogenicity at doses of 27 mg/kg/day (2 times MRHD)in females and 36 mg/kg/day in males (4 times MRHD). No mutagenicity, clastogenicity, induction of sister chromatid exchange, or genotoxicity has been observed in toxicology investigations. Reproductive Toxicity Neither male or female rats displayed adverse reproductive effects at doses up to 45 mg/kg/day (4 times MRHD). Label Lactation An estimated 25% of plasma duloxetine appears in breast milk with the estimated daily infant dose being 0.14% of the maternal dose. Label Breast milk concentrations have been observed to peak 3 hours after administration.

@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_236
+DCI: Lamivudine
+Brand Names: LAMIVUDINE MYLAN
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 150MG
+Packaging: B/60
+Laboratories: MYLAN
+Countries: INDE
+Reference Tariff (DA): 00 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 13P236
+Registration Numbers: 450/13 P 236/17 | 524/13 P 236/19
+Drug Codes: 13 P 236
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+ANTIVIRAUX

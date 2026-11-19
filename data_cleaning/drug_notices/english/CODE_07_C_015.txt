@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_C_015
+DCI: Chlortetracycline
+DrugBank ID: DB09093
+DrugBank Name: Chlortetracycline
+Brand Names: CLOMYCINE
+Pharmaceutical Forms: Pommademade
+Dosages: 0.03
+Packaging: t/15g
+Registration Numbers: 003/07 C 015/99/24
+Drug Codes: 07 C 015
+
+------------------------------------------------------------
+
+## Description
+
+Chlortetracycline is a tetracycline antibiotic, and historically the first member of this class to be identified. It was discovered in 1945 by the scientist, Benjamin Minge Duggar, working at Lederle Laboratories under the supervision of Yellapragada Subbarow. He discovered that this antibiotic was the product of an actinomycete strain he cultured and obtained from a soil sample from a field in Missouri. The organism was named Streptomyces aureofaciens due to its gold-hued color.
+
+## Pharmacodynamics
+
+Tetracycline antibiotics are bacteriostatic agents which act to inhibit bacterial growth and reproduction 2 .
+
+## Mechanism Of Action
+
+16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor Small ribosomal subunit protein uS3 (Escherichia coli (strain K12)) Inhibitor Small ribosomal subunit protein uS8 (Escherichia coli (strain K12)) Inhibitor + 3 more targets
+
+## Absorption
+
+Chortetracycline reaches peak plasma concentation in about 3 hours 1 . Its oral bioavailability is 25-30%.
+
+## Volume Of Distribution
+
+Chlortetracycline has a volume of distribution of 100 liters 1 .
+
+## Metabolism
+
+Chlortetracycline is not known to undergo significant metabolism 1 .
+
+## Route Of Elimination
+
+Chlortetracycline is mainly eliminated in feces 1 . Renal function does not appear to affect the rate of elimination.
+
+## Half Life
+
+The half-life of Chlortetracycline is 5.6 hours 1 .
+
+## Toxicity
+
+The acute oral LD50 in mice is 2314mg/kg MSDS .The most common adverse effects of tertacylines are gastrointestinal disturbances, and staining of teeth and bone. Some occurences of dental hypoplasia and bone deformity have been noted 2 . In pregnant women tetracyclines may produce hepatotoxicity.

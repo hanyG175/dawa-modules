@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_056
+DCI: Ebastine
+Brand Names: EBASTA
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/10 et b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: R06AX22
+Registration Numbers: 268/01 A 056/17/22
+Drug Codes: 01 A 056
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement symptomatique de : | · la rhinite allergique saisonnière et perannuelle, | · l'urticaire.
+
+## Posology
+
+Posologie | Réservé à l'adulte et à l'enfant de plus de 12 ans : | · rhinite allergique saisonnière et perannuelle : 10 à 20 mg par jour en 1 prise quotidienne pendant ou en dehors des repas, | · urticaire : 10 mg par jour en 1 prise quotidienne pendant ou en dehors des repas. | Population spéciales | Il n’est pas nécessaire d’ajuster la dose chez les patients souffrant d’insuffisance rénale légère, modérée ou sévère ou d’insuffisance hépatique légère à modérée. Il n’y a pas d’expérience avec des doses supérieures à 10 mg chez les patients souffrant d’insuffisance hépatique sévère. Par conséquent, la dose de 10 mg ne doit pas être dépassée chez les patients souffrant d’insuffisance hépatique sévère. Le traitement doit être poursuivi jusqu’à disparition des symptômes. | Mode d’administration | Voie orale.
+
+## Contraindications
+
+· Enfant de moins de 12 ans en l'absence de données d'efficacité et de sécurité | · Antécédent d'hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1
+
+## Precautions
+
+Mises en garde spéciales | La prescription d’ébastine doit être prudente chez les patients présentant un syndrome du QT long, ayant une hypokaliémie, ou recevant un médicament connu pour allonger l’intervalle QT ou pour inhiber le CYP3A4, tels que les antifongiques azolés comme le kétoconazole et l’itraconazole ou les macrolides comme l’érythromycine (voir rubrique 4.5). | Puisqu’il existe une interaction pharmacocinétique entre les médicaments antituberculeux comme la rifampicine (voir rubrique 4.5), il faut être vigilant lors de la co-prescription d’ébastine avec des molécules de ce groupe. | Précaution d'emploi | L’ébastine doit être utilisée avec prudence chez les patients présentant une insuffisance hépatique sévère (voir rubrique 4.2). | Liées aux excipients | Ce médicament contient du lactose. Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament.
+
+## Interactions
+
+Associations déconseillées | Des interactions pharmacocinétiques ont été observées quand l’ébastine était donnée avec du kétoconazole, ou l’itraconazole et de l’érythromycine. Ces interactions aboutissent à une augmentation des concentrations plasmatiques d’ébastine et dans une moindre mesure de carébastine, qui n’étaient néanmoins pas associés à une conséquence clinique significative. Toutefois, par mesure de précaution, l’association avec le kétoconazole, l’itraconazole, l’érythromycine, la clarithromycine, la josamycine doit être évitée : risque majoré de survenue de troubles du rythme ventriculaire chez les sujets prédisposés (syndrome du QT long, congénital). | Des interactions pharmacocinétiques ont été observées quand l’ébastine était donnée avec de la rifampicine. Ces interactions peuvent conduire à des concentrations plasmatiques plus faibles en ébastine et réduire l’effet antihistaminique. | Aucune interaction n’a été rapportée entre l’ébastine et la théophylline, la warfarine, la cimétidine, le diazépam et l’alcool. | L’administration de l’ébastine avec de la nourriture ne modifie pas son effet clinique.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il y a peu de données sur l’utilisation de l’ébastine chez la femme enceinte. Les études de toxicité chez l’animal ne montrent pas d’effets délétères directs ou indirects. Par mesure de précaution, il est préférable de ne pas utiliser l’ébastine pendant la grossesse. | Allaitement | On ignore si l’ébastine est excrétée dans le lait maternel ou pas. Le taux élevé de fixation aux protéines de l’ébastine (97%) et son métabolite principal, la carébastine, suggère qu’il n’y a pas d’excrétion dans le lait maternel. Par mesure de précaution, il est préférable de ne pas utiliser l’ébastine pendant l’allaitement. | Fertilité | Il n’y a pas de donnée de fertilité avec l’ébastine chez l’homme.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : ANTIHISTAMINIQUE H1 par voie systémique, code ATC : R06AX22 . | (R: Système Respiratoire, D: Dermatologie) | L'ébastine et son métabolite actif, la carébastine, sont des antihistaminiques sélectifs agissant sur les récepteurs H1 périphériques, qui semblent dénués d'effets secondaires sédatifs et anticholinergiques aux doses préconisées.
+
+## Adverse Effects
+
+Dans une analyse poolée des essais cliniques contrôlés versus placebo avec 5 708 patients sur l’ébastine, les effets indésirables les plus fréquemment rapportés étaient bouche sèche et somnolence. Les effets indésirables liés au traitement dans les essais cliniques chez l’enfant (n=460) étaient similaires à ceux observés chez l’adulte. | Le tableau ci-dessous liste les effets indésirables rapportés dans les essais cliniques et depuis la commercialisation selon la convention suivante : très fréquent (≥ 1/10), fréquent (≥ 1/100 et < 1/10), peu fréquent (≥ 1/1000 et < 1/100), rare (≥ 1/10 000 et < 1/1000), très rare (< 1/10 000) et fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | SOC medDRA Très fréquent ≥ 1/10 Fréquent ≥ 1/100 jusqu’à < 1/10 Rare ≥ 1/10 000 jusqu’à < 1/1000 Très rare < 1/10 000 Indéterminée Troubles du système immunitaire Réactions d’hypersensibilité (tels que anaphylaxie et œdème de Quincke) Manifestations allergiques sévères Troubles psychiques Nervosité, insomnie Troubles du système nerveux Maux de tête Somnolence Etourdissements, hypoesthésie, dysgueusie Troubles cardiaques Palpitations, tachycardie Troubles gastro-intestinaux Bouche sèche Douleur abdominale, vomissement, nausée, dyspepsie Troubles hépatobiliaires Hépatite, cholestase, tests de la fonction hépatique anormaux (transaminases, gamma GT, phosphatase alcaline et bilirubine augmentées) Troubles de la peau Urticaire, éruption cutanée, dermatite Troubles des organes de reproduction Troubles menstruels Troubles généraux Œdème, asthénie Troubles du métabolisme et de la nutrition Augmentation de l'appétit Investigations Prise de poids | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr
+
+## Conservation
+
+Ce médicament ne nécessite pas de précautions particulières de conservation.

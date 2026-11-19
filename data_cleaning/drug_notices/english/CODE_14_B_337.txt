@@ -1,0 +1,51 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_B_337
+DCI: INSULINE GLARGINE 100 UI/ml sol inj stylo prérempli (ABASAGLAR KWIKPEN)
+DrugBank ID: DB00046
+DrugBank Name: Insulin lispro
+Brand Names: HUMALOG KwikPen
+Pharmaceutical Forms: Sol Inj S/C En Stylo Prerempli
+Dosages: 100ui/ml (3.5mg/ml)
+Packaging: boite de 05 stylos preremplis de 3ml
+Laboratories: LILLY FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10A - INSULINES ET ANALOGUES | A10AE - INSULINES ET ANALOGUES D'ACTION LENTE PAR VOIE INJECTABLE | A10AE04 - INSULINE GLARGINE
+Registration Numbers: 263/14 B 337/12/23
+Drug Codes: 14 B 337
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Insulin is a natural hormone produced by beta cells of the pancreas. In non-diabetic individuals, a basal level of insulin is supplemented with insulin spikes following meals. Increased insulin secretion following meals is responsible for the metabolic changes that occur as the body transitions from a postabsorptive to absorptive state. Insulin promotes cellular uptake of glucose, particularly in muscle and adipose tissues, promotes energy storage via glycogenesis, opposes catabolism of energy stores, increases DNA replication and protein synthesis by stimulating amino acid uptake by liver, muscle and adipose tissue, and modifies the activity of numerous enzymes involved in glycogen synthesis and glycolysis. Insulin also promotes growth and is required for the actions of growth hormone (e.g. protein synthesis, cell division, DNA synthesis). Insulin lispro is a rapid-acting insulin analogue used to mimic postprandial insulin spikes in diabetic individuals. The onset of action of insulin lispro is 10-15 minutes. Its activity peaks 60 minutes following subcutaneous injection and its duration of action is 4-5 hours. Compared to regular human insulin, insulin lispro has a more rapid onset of action and a shorter duration of action. Insulin lispro is also shown to be equipotent to human insulin on a molar basis. Insulin lispro has been shown to be equipotent to human insulin on a molar basis. One unit of insulin lispro has the same glucose-lowering effect as one unit of regular human insulin. Studies in normal volunteers and patients with diabetes demonstrated that insulin lispro has a more rapid onset of action and a shorter duration of activity than regular human insulin when given subcutaneously. 9 The pharmacodynamics of a single 20 unit dose of insulin lispro at 200 units/mL (HUMALOG U-200) administered subcutaneously were compared to the pharmacodynamics of a single 20 unit dose of insulin lispro at 100 units/mL (HUMALOG U-100) administered subcutaneously in a euglycemic clamp study enrolling healthy subjects. In this study, the overall, maximum, and time to maximum glucose lowering effect were similar between HUMALOG U-200 and HUMALOG U-100. The mean area under the glucose infusion rate curves (measure of overall pharmacodynamic effect) were 125 g and 126 g for HUMALOG U-200 and HUMALOG U-100, respectively. The maximum glucose infusion rate was 534 mg/min and 559 mg/min and the corresponding median time (min, max) to maximum effect were 2.8 h (0.5 h – 6.3 h) and 2.4 h (0.5 h – 4.7 h) for HUMALOG U-200 and HUMALOG U-100, respectively. 9
+
+## Mechanism Of Action
+
+Insulin receptor Agonist
+
+## Absorption
+
+Studies in healthy volunteers and patients with diabetes demonstrated that insulin lispro is absorbed more quickly than regular human insulin, specifically at the abdominal, deltoid, or femoral subcutaneous sites. In healthy volunteers given subcutaneous doses of insulin lispro ranging from 0.1 to 0.4 unit/kg, peak serum levels were seen 30 to 90 minutes after dosing. When healthy volunteers received equivalent doses of regular human insulin, peak insulin levels occurred between 50 to 120 minutes after dosing. After insulin lispro was administered in the abdomen, serum drug levels were higher, and the duration of action was slightly shorter than after deltoid or thigh administration. 9 Bioavailability of insulin lispro is similar to that of regular human insulin. The absolute bioavailability after subcutaneous injection ranges from 55% to 77% with doses between 0.1 to 0.2 unit/kg, inclusive. 9 The mean observed area under the serum insulin concentration-time curve from time zero to infinity was 2360 pmol hr/L to 2390 pmol hr/L. The corresponding mean peak serum insulin concentration was 795 pmol/L to 909 pmol/L, and the median time to maximum concentration was 1.0 hour. 9
+
+## Volume Of Distribution
+
+When administered intravenously as bolus injections of 0.1 and 0.2 U/kg dose in two separate groups of healthy subjects, the mean volume of distribution of HUMALOG appeared to decrease with increase in dose (1.55 and 0.72 L/kg, respectively) in contrast to that of regular human insulin for which, the volume of distribution was comparable across the two dose groups (1.37 and 1.12 L/kg for 0.1 and 0.2 U/kg dose, respectively). 9
+
+## Metabolism
+
+Human metabolism studies have not been conducted. However, animal studies indicate that the metabolism of insulin lispro is identical to that of regular human insulin. 9
+
+## Half Life
+
+After subcutaneous administration of insulin lispro, the t 1/2 is shorter than that of regular human insulin (1 versus 1.5 hours, respectively). 9 For intravenous administration, insulin lispro demonstrated a mean t 1/2 of 0.85 hours (51 minutes) and 0.92 hours (55 minutes), respectively for 0.1 unit/kg and 0.2 unit/kg doses, and
+regular human insulin mean t1/2 was 0.79 hours (47 minutes) and 1.28 hours (77 minutes), respectively for 0.1 unit/kg and 0.2 unit/kg doses. 9
+
+## Clearance
+
+When administered intravenously, insulin lispro and regular human insulin demonstrated similar dose-dependent clearance, with a mean clearance of 21.0 mL/min/kg and 21.4 mL/min/kg, respectively (0.1 unit/kg dose), and 9.6 mL/min/kg and 9.4 mL/min/kg, respectively (0.2 unit/kg dose). 9
+
+## Toxicity
+
+Inappropriately high dosages relative to food intake and/or energy expenditure may result in severe and sometimes prolonged and life-threatening hypoglycemia. Neurogenic (autonomic) signs and symptoms of hypoglycemia include trembling, palpitations, sweating, anxiety, hunger, nausea and tingling. Neuroglycopenic signs and symptoms of hypoglycemia include difficulty concentrating, lethargy/weakness, confusion, drowsiness, vision changes, difficulty speaking, headache, and dizziness. Mild hypoglycemia is characterized by the presence of autonomic symptoms. Moderate hypoglycemia is characterized by the presence of autonomic and neuroglycopenic symptoms. Individuals may become unconscious in severe cases of hypoglycemia. Rare cases of lipoatrophy or lipohypertrophy reactions have been observed. Excess insulin administration may cause hypoglycemia and hypokalemia. Mild episodes of hypoglycemia usually can be treated with oral glucose. Adjustments in drug dosage, meal patterns, or exercise may be needed. More severe episodes with coma, seizure, or neurologic impairment may be treated with a glucagon product for emergency use or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycemia may recur after apparent clinical recovery. Hypokalemia must be corrected appropriately. 9 Patients with renal or hepatic impairment may be at increased risk of hypoglycemia and may require more frequent insulin lispro dose adjustment and more frequent blood glucose monitoring. 9 Standard 2-year carcinogenicity studies in animals have not been performed. In Fischer 344 rats, a 12-month repeat-dose toxicity study was conducted with insulin lispro at subcutaneous doses of 20 and 200 units/kg/day (approximately 3 and 32 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area). Insulin lispro did not produce important target organ toxicity including mammary tumors at any dose. 9 Insulin lispro was not mutagenic in the following genetic toxicity assays: bacterial mutation, unscheduled DNA synthesis, mouse lymphoma, chromosomal aberration and micronucleus assays. 9 Male fertility was not compromised when male rats given subcutaneous insulin lispro injections of 5 and 20 units/kg/day (0.8 and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area) for 6 months were mated with untreated female rats. In a combined fertility, perinatal, and postnatal study in male and female rats given 1, 5, and 20 units/kg/day subcutaneously (0.2, 0.8, and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area), mating and fertility were not adversely affected in either gender at any dose. 9

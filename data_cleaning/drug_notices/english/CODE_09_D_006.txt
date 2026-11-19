@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_D_006
+DCI: Bromocriptine
+DrugBank ID: DB01200
+DrugBank Name: Bromocriptine
+Brand Names: PARLODEL
+Pharmaceutical Forms: Comprimé
+Dosages: 2.5mg
+Packaging: b/30
+Registration Numbers: 068/09 D 006/97/17
+Drug Codes: 09 D 006
+
+------------------------------------------------------------
+
+## Description
+
+Bromocriptine mesylate is a semisynthetic ergot alkaloid derivative with potent dopaminergic activity. It inhibits prolactin secretion and may be used to treat dysfunctions associated with hyperprolactinemia. Bromocriptine is also indicated for the management of signs and symptoms of Parkinsonian Syndrome, as well as the treatment of acromegaly. Bromocriptine has been associated with pulmonary fibrosis, and can also cause sustained suppression of somatotropin (growth hormone) secretion in some patients with acromegaly. In 1995, the FDA withdrew the approval of bromocriptine mesylate for the prevention of physiological lactation after finding that bromocriptine was not shown to be safe for use. 8 , 9 It continues to be used for the indications mentioned above.
+
+## Pharmacodynamics
+
+Bromocriptine stimulates centrally-located dopaminergic receptors resulting in a number of pharmacologic effects. Five dopamine receptor types from two dopaminergic subfamilies have been identified. The dopaminergic D1 receptor subfamily consists of D 1 and D 5 subreceptors, which are associated with dyskinesias. The dopaminergic D2 receptor subfamily consists of D 2 , D 3 and D 4 subreceptors, which are associated with improvement of symptoms of movement disorders. Thus, agonist activity specific for D2 subfamily receptors, primarily D 2 and D 3 receptor subtypes, are the primary targets of dopaminergic antiparkinsonian agents. It is thought that postsynaptic D 2 stimulation is primarily responsible for the antiparkinsonian effect of dopamine agonists, while presynaptic D 2 stimulation confers neuroprotective effects. This semisynthetic ergot derivative exhibits potent agonist activity on dopamine D 2 -receptors. It also exhibits agonist activity (in order of decreasing binding affinity) on 5-hydroxytryptamine (5-HT) 1D , dopamine D 3 , 5-HT 1A , 5-HT 2A , 5-HT 1B , and 5-HT 2C receptors, antagonist activity on α 2A -adrenergic, α 2C , α 2B , and dopamine D 1 receptors, partial agonist activity at receptor 5-HT 2B , and inactivates dopamine D 4 and 5-HT 7 receptors. Parkinsonian Syndrome manifests when approximately 80% of dopaminergic activity in the nigrostriatal pathway of the brain is lost. As this striatum is involved in modulating the intensity of coordinated muscle activity (e.g. movement, balance, walking), loss of activity may result in dystonia (acute muscle contraction), Parkinsonism (including symptoms of bradykinesia, tremor, rigidity, and flattened affect), akathesia (inner restlessness), tardive dyskinesia (involuntary muscle movements usually associated with long-term loss of dopaminergic activity), and neuroleptic malignant syndrome, which manifests when complete blockage of nigrostriatal dopamine occurs. High dopaminergic activity in the mesolimbic pathway of the brain causes hallucinations and delusions; these side effects of dopamine agonists are manifestations seen in patients with schizophrenia who have overractivity in this area of the brain. The hallucinogenic side effects of dopamine agonists may also be due to 5-HT 2A agonism. The tuberoinfundibular pathway of the brain originates in the hypothalamus and terminates in the pituitary gland. In this pathway, dopamine inhibits lactotrophs in anterior pituitary from secreting prolactin. Increased dopaminergic activity in the tuberoinfundibular pathway inhibits prolactin secretion making bromocriptine an effective agent for treating disorders associated with hypersecretion of prolactin. Pulmonary fibrosis may be associated bromocriptine’s agonist activity at 5-HT 1B and 5-HT 2B receptors.
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Agonist D(3) dopamine receptor Agonist
+
+## Absorption
+
+Approximately 28% of the oral dose is absorbed; however due to a substantial first pass effect, only 6% of the oral dose reaches the systemic circulation unchanged. Bromocriptine and its metabolites appear in the blood as early as 10 minutes following oral administration and peak plasma concentration are reached within 1-1.5 hours. Serum prolactin may be decreased within 2 hours or oral administration with a maximal effect achieved after 8 hours. Growth hormone concentrations in patients with acromegaly is reduced within 1-2 hours with a single oral dose of 2.5 mg and decreased growth hormone concentrations persist for at least 4-5 hours.
+
+## Metabolism
+
+Completely metabolized by the liver, primarily by hydrolysis of the amide bond to produce lysergic acid and a peptide fragment, both inactive and non-toxic. Bromocriptine is metabolized by cytochrome P450 3A4 and excreted primarily in the feces via biliary secretion.
+
+## Route Of Elimination
+
+Parent drug and metabolites are almost completely excreted via the liver, and only 6% eliminated via the kidney.
+
+## Half Life
+
+2-8 hours
+
+## Toxicity
+
+Symptoms of overdosage include nausea, vomiting, and severe hypotension. The most common adverse effects include nausea, headache, vertigo, constipation, light-headedness, abdominal cramps, nasal congestion, diarrhea, and hypotension.

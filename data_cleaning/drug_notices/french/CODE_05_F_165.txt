@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_F_165
+DCI: Acide Zoledronique Monohydrate Exprime En Acide Zoledronique | sodium chlorure
+Brand Names: ACLASTA | ZOLEDRIC | ZOLESTA | ZOLTONAR
+Pharmaceutical Forms: Solution
+Dosages: 5mg/100ml
+Packaging: b/01fl de 100ml | flacon/100ml
+Laboratories: SERB
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B05 - SUBSTITUTS DU SANG ET SOLUTIONS DE PERFUSION | B05X - ADDITIFS POUR SOLUTIONS INTRAVEINEUSES | B05XA - SOLUTIONS D'ELECTROLYTES | B05XA03 - SODIUM CHLORURE
+Registration Numbers: 068/05 F 165/14 | 380/05 F 165/21 | 433/05 F 165/20/25 | 521/05 F 165/18
+Drug Codes: 05 F 165
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Nov 17 00:00:00 CET 2025 | is_edited: False | title: INDICATIONS | text: Cardioplégie au cours des interventions de chirurgie cardiaque ; | Protection des organes durant les interventions en champ opératoire exsangue (cœur, rein, foie) ; | Conservation des organes destinés à la transplantation : perfusion et conservation à froid (cœur, rein, foie, pancréas). | lists: Cardioplégie au cours des interventions de chirurgie cardiaque ; | Protection des organes durant les interventions en champ opératoire exsangue (cœur, rein, foie) ; | Conservation des organes destinés à la transplantation : perfusion et conservation à froid (cœur, rein, foie, pancréas).
+
+## Posology
+
+Posologie | Unité de prise | ml | Modalités d'administration | Voie intramusculaire, voie intraveineuse (en perfusion), voie sous-cutanée | Respecter le débit de perfusion recommandé | Posologie | Patient jusqu'à 15 an(s) | Patient quel que soit le poids | Déshydratation - Hypovolémie - Rééquilibration hydroélectrolytique | Posologie standard | Voie intraveineuse (en perfusion) | Posologie à adapter en fonction des résultats biologiques | Posologie à établir en fonction de l'état clinique du patient | 20 à 100 ml 1 fois par 24 heures | Véhicule pour apport thérapeutique | Posologie standard | Voie intramusculaire, voie intraveineuse (en perfusion), voie sous-cutanée | Administrer immédiatement après ajout d'un médicament | Lorsque la solution est utilisée comme véhicule ou diluant pour préparation injectable d'autres médicaments, la posologie et le débit de perfusion seront principalement fonction de la nature et de la posologie du médicament à administrer. | Patient à partir de 15 an(s) | Patient quel que soit le poids | Déshydratation - Hypovolémie - Rééquilibration hydroélectrolytique | Posologie standard | Voie intraveineuse (en perfusion) | Posologie à adapter en fonction des résultats biologiques | Posologie à établir en fonction de l'état clinique du patient | 500 à 3 000 ml 1 fois par 24 heures | Véhicule pour apport thérapeutique | Posologie standard | Voie intramusculaire, voie intraveineuse (en perfusion), voie sous-cutanée | Administrer immédiatement après ajout d'un médicament | Lorsque la solution est utilisée comme véhicule ou diluant pour préparation injectable d'autres médicaments, la posologie et le débit de perfusion seront principalement fonction de la nature et de la posologie du médicament à administrer.
+
+## Precautions
+
+Acidose métabolique | Administration de volume important | Cirrhose hépatique | Compliance cérébrale réduite | Enfant de moins de 15 ans | Hyperaldostéronisme | Hypertension artérielle | Hypervolémie | Hypoprotéinémie | Insuffisance cardiaque | Insuffisance rénale | Nouveau-né de moins de 1 mois | Obstruction des voies urinaires | Oedème périphérique | Oedème pulmonaire | Période post-opératoire | Prématuré | Sujet âgé | Sujet à risque d'insuffisance rénale | Sujet à risque de rétention hydrosodée | Sujet à risque de trouble hydroélectrolytique | Syndrome de sécrétion inappropriée d'hormone antidiurétique (SIADH) | Traitement par corticoïde en cours | Traitement prolongé
+
+## Mechanism Of Action
+
+Sodium chlorure : Mécanisme d'action | Les propriétés pharmacodynamiques de la solution de sodium chlorure sont celles des ions sodium et chlorure, qui maintiennent l'équilibre hydroélectrolytique. Les ions tels que le sodium circulent à travers la membrane cellulaire, en utilisant des mécanismes de transport variés, parmi lesquels la pompe à sodium (Na | + | , K | + | -ATPase). Le sodium joue un rôle important dans la neurotransmission et l'électrophysiologie cardiaque, ainsi que dans le métabolisme rénal. | En solution pour perfusion, le sodium chlorure est une solution isotonique dont l'osmolarité approximative est de 308 mOsm/l. | Par voie ophtalmique, le sodium chlorure agit par un effet mécanique (lubrification, hydratation), sans activité pharmacologique. | En soins dentaires, le sodium chlorure a des propriétés hygroscopiques et osmotiques. Il stimule la sécrétion salivaire et améliore la vascularisation du tissu gingival.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypernatrémie | - Hyperchlorémie | - Hyponatrémie | DERMATOLOGIE: | - Eruption cutanée | - Strie cutanée | - Prurit | - Urticaire | DIVERS: | - Réaction locale | - Oedème périphérique | - Ulcère au site d'administration | - Fièvre | - Frisson | INSTRUMENTATION: | - Ulcération au site de perfusion | - Phlébite au point d'injection | - Réaction au site de perfusion | - Urticaire au site de perfusion | - Infection au site d'injection | - Douleur au point d'injection | - Sensation de brûlure au point d'injection | - Irritation au site de perfusion | - Erythème au site de perfusion | - Complications liées à la voie d'administration | - Nécrose tissulaire post-extravasation | - Extravasation au point d'injection | - Nécrose au point d'injection | NUTRITION, MÉTABOLISME: | - Acidose métabolique | - Acidose hyperchlorémique | - Syndrome de démyélinisation osmotique | - Polydipsie | OPHTALMOLOGIE: | - Hyposécrétion lacrymale | ORL, STOMATOLOGIE: | - Hyposialie | SYSTÈME CARDIOVASCULAIRE: | - Irritation de la paroi veineuse | - Hypervolémie | - Hypotension artérielle | - Thrombophlébite | SYSTÈME NERVEUX: | - Trouble cérébral | - Tremblement | - Encéphalopathie hyponatrémique | SYSTÈME RESPIRATOIRE: | - Oedème pulmonaire

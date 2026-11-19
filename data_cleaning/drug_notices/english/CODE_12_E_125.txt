@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_125
+DCI: MAGNESIUM SULFATE 15 % sol inj (SULFATE DE MAGNESIUM LAVOISIER) | MORPHINE SULFATE cinquante milligrammes par millilitre sol inj (MORPHINE (SULFATE) LAVOISIER)
+DrugBank ID: DB14546
+DrugBank Name: Sulfate ion
+Brand Names: FERAN B9 | ZANITRA PLUS
+Pharmaceutical Forms: Gélule
+Dosages: 150 mg/0.5 mg | 49.297mg/0.5 mg
+Packaging: b/30 | boite de 30
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02A - OPIOIDES | N02AA - ALCALOÏDES NATURELS DE L'OPIUM | N02AA01 - MORPHINE
+Registration Numbers: 003/12 E 125/07/23 | 518/12 E 125/21
+Drug Codes: 12 E 125
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Target Actions Organism U Carbonic anhydrase 1 inhibitor Humans

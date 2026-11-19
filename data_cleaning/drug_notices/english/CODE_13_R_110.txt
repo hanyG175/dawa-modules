@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_110
+DCI: Griseofulvine
+DrugBank ID: DB00400
+DrugBank Name: Griseofulvin
+Brand Names: FONGENAL
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/30
+Registration Numbers: 003/13 R 110/96/13
+Drug Codes: 13 R 110
+
+------------------------------------------------------------
+
+## Description
+
+An antifungal antibiotic. Griseofulvin may be given by mouth in the treatment of tinea infections.
+
+## Pharmacodynamics
+
+Griseofulvin is a mycotoxic metabolic product of Penicillium spp. It was the first available oral agent for the treatment of dermatophytoses and has now been used
+
+## Mechanism Of Action
+
+Tubulin beta chain (Trichophyton rubrum) Inhibitor
+
+## Absorption
+
+Poorly absorbed from GI ranging from 25 to 70% of an oral dose. Absorption is significantly enhanced by administration with or after a fatty meal.
+
+## Metabolism
+
+Primarily hepatic with major metabolites being 6-methyl-griseofulvin and its glucuronide conjugate. Hover over products below to view reaction partners Griseofulvin 6-methyl-griseofulvin
+
+## Half Life
+
+9-21 hours
+
+## Toxicity
+
+Side effects are minor: headaches, gastrointestinal reactions and cutaneous eruptions.

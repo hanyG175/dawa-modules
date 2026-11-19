@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_116
+DCI: MEBEVERINE CHLORHYDRATE 200 mg cp (MEBEVERINE ZYDUS)
+DrugBank ID: DB12554
+DrugBank Name: Mebeverine
+Brand Names: DUSPATALIN | DUSPAVERINE | MEBEVAN LP 200 | MEBEVERINE BEKER LP | SPALVERINE | SPASCOL LP
+Pharmaceutical Forms: Gélule | Microgranule En Gellule Liberation Prolongee
+Dosages: 200mg
+Packaging: b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AA - ANTICHOLINERGIQUES DE SYNTHESE : ESTERS AVEC GROUPEMENT AMINE TERTIAIRE | A03AA04 - MEBEVERINE
+Registration Numbers: 065/10 E 116/08/25 | 147/10 E 116/01/24 | 289/10 E 116/13/23 | 418/10 E 116/12 | 447/10 E 116/17/22 | 518/10 E 116/24
+Drug Codes: 10 E 116
+
+------------------------------------------------------------
+
+## Description
+
+Mebeverine has been investigated for the treatment of Irritable Bowel Syndrome and Post-cholecystectomy Gastrointestinal Spasms.
+
+## Mechanism Of Action
+
+Target Actions Organism U Muscarinic acetylcholine receptor M5 antagonist Humans

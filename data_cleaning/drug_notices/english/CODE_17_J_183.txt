@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_J_183
+DCI: Nepafenac
+DrugBank ID: DB06802
+DrugBank Name: Nepafenac
+Brand Names: APFECTO
+Pharmaceutical Forms: Collyree En Suspension
+Dosages: 0.003
+Packaging: b/01 flacon de 5ml en ldpe contenant 1.7ml de suspension
+Registration Numbers: 521/17 J 183/24
+Drug Codes: 17 J 183
+
+------------------------------------------------------------
+
+## Description
+
+Nepafenac is a non-steroidal anti-inflammatory prodrug (NSAID) usually sold as a prescription eye drop. It is used to treat pain and inflammation associated with cataract surgery.
+
+## Pharmacodynamics
+
+Low but quantifiable plasma concentrations of nepafenac and amfenac were observed in the majority of subjects 2 and 3 hours postdose, respectively, following bilateral topical ocular TID dosing of nepafenac ophthalmic suspension, 0.1%. The mean steady-state Cmax for nepafenac and for amfenac were 0.310 ± 0.104 ng/ml and 0.422 ± 0.121 ng/ml, respectively, following ocular administration.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 1 Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Nepafenac rapidly cross the cornea (6 times faster than diclofenac in vitro).
+
+## Metabolism
+
+Nepafenac (prodrug) is deaminated to amfenac (active compound) in the ciliary body epithelium, retina, and choroid by intraocular hydrolases. Subsequently, amfenac undergoes extensive metabolism to more polar metabolites involving hydroxylation of the aromatic ring leading to glucuronide conjugate formation.
+
+## Route Of Elimination
+
+After oral administration of 14C-nepafenac to healthy volunteers, urinary excretion was found to be the major route of radioactivity elimination, accounting for approximately 85% of the dose, while fecal excretion represented approximately 6% of the dose. Nepafenac (prodrug) and amfenac (active compound) were not quantifiable in the urine.
+
+## Toxicity
+
+Ocularly applied non-steroidal anti-inflammatory drugs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.

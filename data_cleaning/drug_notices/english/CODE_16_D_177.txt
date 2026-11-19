@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_177
+DCI: Lurasidone Chlorhydrate | Lurasidone Hydrochloride
+DrugBank ID: DB08815
+DrugBank Name: Lurasidone
+Brand Names: LAROZA | LODERA
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: b/30
+Registration Numbers: 001/16 D 177/23 | 352/16 D 177/23
+Drug Codes: 16 D 177
+
+------------------------------------------------------------
+
+## Description
+
+Lurasidone is an atypical antipsychotic developed by Dainippon Sumitomo Pharma. It was approved by the U.S. Food and Drug Administration (FDA) for treatment of schizophrenia on October 29, 2010 and is currently pending approval for the treatment of bipolar disorder in the United States.
+
+## Pharmacodynamics
+
+Lurasidone is a benzothiazol derivative that is an antagonist and binds with high affinity to Dopamine-2 (D2) (Ki = 0.994 nM), 5-HT2A (Ki = 0.47 nM) receptors, and 5-HT7 receptors (Ki = 0.495 nM). It also binds with moderate affinity to alpha-2C adrenergic receptors (Ki = 10.8 nM) and is a partial agonist at 5-HT1A receptors (Ki = 6.38 nM). Its actions on histaminergic and muscarinic receptors are negligible.
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist 5-hydroxytryptamine receptor 2A Antagonist
+
+## Absorption
+
+Lurasidone is readily absorbed and quickly reaches maximal concentrations (Cmax) within 1-4 hours. When taken with food, there is a two-fold increase in exposure and time to maximal concentration is increased by 0.5-1.5 hours. This occurs regardless of fat or caloric content. Bioavailability = 9-19%.
+
+## Metabolism
+
+Lurasidone is metabolized by CYP3A4 in which its major active metabolite is referred to as ID-14283 (25% of parent exposure). Its two minor metabolites are referred to as ID14326 and ID11614 which make up 3% and 1% of parent exposure respectively. Its two non-active metabolites are referred to as ID-20219 and ID-20220. Hover over products below to view reaction partners Lurasidone ID11614 ID14326
+
+## Route Of Elimination
+
+Urine (~9%) and feces (~80%)
+
+## Half Life
+
+40 mg dose= 18 hours
+120 mg - 160 mg dose = 29-37 hours
+
+## Clearance
+
+3902 mL/min

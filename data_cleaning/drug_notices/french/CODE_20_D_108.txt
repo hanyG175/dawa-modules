@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_108
+DCI: CARBOCISTEINE 5 % sirop (MUCOPLEXIL Ad Ss sucre)
+Brand Names: RHINATHIOL AD SANS SUCRE
+Pharmaceutical Forms: Siropop
+Dosages: 0.05
+Packaging: flacon/200ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05C - EXPECTORANTS, SAUF ASSOCIATIONS AUX ANTITUSSIFS | R05CB - MUCOLYTIQUES | R05CB03 - CARBOCISTEINE
+Registration Numbers: 049/20 D 108/04
+Drug Codes: 20 D 108
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | carbocistéine : 50 mg | Modalités d'administration | Voie orale | Administrer de préférence à distance des repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Sécrétion bronchique, troubles (de la) | Posologie standard | 15 ml 3 fois par jour | Durées absolues de traitement | Ne pas dépasser 5 jours de traitement.
+
+## Precautions
+
+Enfant de moins de 15 ans | Grossesse | Sujet à risque d'hémorragie digestive | Ulcère gastroduodénal, antécédent (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Carbocistéine : Mécanisme d'action | La carbocistéine est un mucolytique. Elle exerce son action sur la phase du mucus, vraisemblablement en rompant les ponts disulfures des glycoprotéines, et favorise ainsi l'expectoration.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatose bulleuse (Cas isolés) | - Erythème polymorphe (Très rare) | - Erythème pigmenté fixe | - Prurit | - Urticaire | - Syndrome de Stevens-Johnson | - Dermatite allergique | - Rash érythémateux | - Eruption d'origine médicamenteuse | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Angioedème | - Réaction anaphylactique | SYSTÈME DIGESTIF: | - Diarrhée (Rare) | - Nausée (Rare) | - Vomissement | - Gêne épigastrique | - Hémorragie gastro-intestinale | - Trouble digestif | - Douleur épigastrique | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Très rare)

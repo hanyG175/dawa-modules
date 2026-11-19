@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_118
+DCI: ZOLMITRIPTAN 2,5 mg cp orodispers (ZOLMITRIPTAN SUN)
+DrugBank ID: DB00315
+DrugBank Name: Zolmitriptan
+Brand Names: ZOMIPTAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2.5 mg
+Packaging: boite de 1 flacon de 06
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02C - ANTIMIGRAINEUX | N02CC - AGONISTES SELECTIFS DES RECEPTEURS 5HT1 | N02CC03 - ZOLMITRIPTAN
+Registration Numbers: 352/15 B 118/18/23
+Drug Codes: 15 B 118
+
+------------------------------------------------------------
+
+## Description
+
+Zolmitriptan is a member of the triptan class of 5-hydroxytryptamine(5-HT) 1B/1D/(1F) receptor agonists used to treat acute migraine. 1 , 14 Sumatriptan was the first triptan to be developed, but had poor oral bioavailability and lipophilicity. This led to the development of second-generation triptans, including almotriptan , eletriptan , frovatriptan , naratriptan , rizatriptan , and zolmitriptan. 2 Triptans can be administered alone or in combination with an NSAID like naproxen , and represent the current "gold standard" for acute migraine treatment. 4 Zolmitriptan was first approved by the FDA for sale by Zeneca Pharmaceuticals under the trade name Zomig® on November 25, 1997. It is currently available in both tablet and nasal spray forms. 14
+
+## Pharmacodynamics
+
+Zolmitriptan, like other triptans, is a serotonin (5-hydroxytryptamine; 5-HT) receptor agonist, with enhanced specificity for the 5-HT 1B and 5-HT 1D receptor subtypes. It is through the downstream effects of 5-HT 1B/1D activation that triptans are proposed to provide acute relief of migraines. 14 , 1 , 2 Zolmitriptan is also a vasoconstrictor, 5 leading to possible adverse cardiovascular effects such as myocardial ischemia/infarction, arrhythmias, cerebral and subarachnoid hemorrhage, stroke, gastrointestinal ischemia, and peripheral vasospastic reactions. In addition, chest/throat/neck/jaw pain, tightness, and/or pressure has been reported, along with the possibility of medication overuse headaches and serotonin syndrome. Patients with phenylketonuria should be advised that ZOMIG-ZMT contains phenylalanine. 14
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 1B Agonist 5-hydroxytryptamine receptor 1D Agonist 5-hydroxytryptamine receptor 1F Agonist
+
+## Absorption
+
+Zolmitriptan tablets have a mean absolute oral bioavailability of approximately 40%, with food having no effect on the rate or extent of absorption. 1 , 9 , 14 The dosing kinetics are linear over a range of 2.5 to 50 mg with 75% of the eventual C max being attained within 1 hour of dosing. The median T max for the tablet form is 1.5 hours, while for the orally disintegrating tablet form, it is 3 hours. 9 , 14 The AUC across studies was in the range of 84.4-173.8 ng/mL*h while the C max was between 16 and 25.2 ng/mL. 9 , 12 Zolmitriptan administered as a nasal spray is detected in the plasma within 2-5 minutes, compared to 10-15 minutes for the tablet form; the faster kinetics likely reflect fast absorption across the nasal mucosa. 10 The bioavailability compared to the tablet is 102%, and plasma zolmitriptan concentration is maintained for 4-6 hours after intranasal delivery. 10 , 14 The active N-desmethyl metabolite of zolmitriptan has a mean plasma concentration that is roughly two-thirds of zolmitriptan, regardless of dosage route or concentration. 9 , 14
+
+## Volume Of Distribution
+
+Zolmitriptan has a volume of distribution between 7 and 8.4 L/kg. 14
+
+## Metabolism
+
+Zolmitriptan is metabolized in the liver, and studies using cytochrome P450 inhibitors like cimetidine suggest that it is likely metabolized by CYP1A2, as well as by monoamine oxidase (MAO). 14 , 11 , 13 Zolmitriptan metabolism results in three major metabolites: an active N-desmethyl metabolite (183C91) as well as inactive N-oxide (1652W92) and indole acetic acid (2161W92) metabolites. 14 , 12 , 9 Hover over products below to view reaction partners Zolmitriptan Zolmitriptan N-oxide N-Desmethylzolmitriptan Indole ethyl alcohol zolmitriptan derivative Indole acetic acid zolmitriptan derivative
+
+## Route Of Elimination
+
+Zolmitriptan is primarily excreted in urine (approximately 65%) and feces (approximately 30%). Within urine, the most common form is the indole acetic acid metabolite (31%), followed by the N-oxide (7%), and N-desmethyl (4%) metabolites; the majority of zolmitriptan recovered in feces remains unchanged. 14 , 12
+
+## Half Life
+
+Zolmitriptan has a mean elimination half-life of approximately three hours following oral or nasal administration. Its active N-desmethyl metabolite has a slightly longer (approximately 3.5 hours) half-life. 14 , 12
+
+## Clearance
+
+Zolmitriptan has a clearance of 31.5 mL/min/kg for oral tablets and 25.9 mL/min/kg for nasal administration; one-sixth of the clearance is renal. 14
+
+## Toxicity
+
+Toxicity information regarding zolmitriptan is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as cardiovascular symptoms due to excessive vasoconstriction and activation of serotonergic receptors. Patients receiving a single 50 mg oral dose of zolmitriptan often experienced sedation. Symptomatic and supportive measures are recommended. 14

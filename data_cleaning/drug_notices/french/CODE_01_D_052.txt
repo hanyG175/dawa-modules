@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_D_052
+DCI: pollen extrait allergénique de phléole des prés
+Brand Names: STALORAL
+Pharmaceutical Forms: Solution
+Dosages: 10+100+300 ir/ml-300 ir/ml
+Packaging: coffret de 03 flacon. de 10ml de solution (10+100+300 ir/ml) - coffret de 01 flacon. de 10ml de solution (300 ir/ml)
+ATC Classification: V - DIVERS | V01 - ALLERGENES | V01A - ALLERGENES | V01AA - EXTRAITS D'ALLERGENES | V01AA05 - POLLEN D'ARBRE
+Registration Numbers: 130/01 D 052/15
+Drug Codes: 01 D 052
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | lyoc | pollen extrait allergénique de bouleau blanc : 12 SQ-T | Modalités d'administration | Voie sublinguale | Durée du traitement limitée à la période d'exposition à l'allergène | Débuter le traitement au moins 4 mois avant l'exposition aux allergènes | Info patient : éviter de déglutir pendant 1 minute après dissolution sous la langue du comprimé | Laisser fondre le lyophilisat sous la langue jusqu'à dissolution | Ne pas prendre d'aliment ou de boisson dans les 5 minutes après la prise du traitement | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Désensibilisation spécifique | Posologie standard | 1 lyoc 1 fois par jour
+
+## Precautions
+
+Asthme | Extraction dentaire, antécédent récent | Grossesse | Maladie auto-immune en rémission | Maladie cardiovasculaire sévère | Sujet allergique | Sujet de moins de 18 ans | Vaccination concomitante
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Fréquent) | DIVERS: | - Sensation de corps étranger (Fréquent) | - Gêne thoracique (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Syndrome d'allergie orale (Fréquent) | - Angioedème (Peu fréquent) | - Réaction anaphylactique | NUTRITION, MÉTABOLISME: | - Dysphagie (Fréquent) | OPHTALMOLOGIE: | - Conjonctivite allergique (Fréquent) | ORL, STOMATOLOGIE: | - Dysphonie (Fréquent) | - Gêne buccale (Fréquent) | - Dysgueusie (Fréquent) | - Douleur oropharyngée (Fréquent) | - Prurit oral (Très fréquent) | - Stomatite vésiculaire (Fréquent) | - Glossite (Peu fréquent) | - Ulcération buccale (Peu fréquent) | - Oedème labial (Fréquent) | - Irritation de la gorge (Très fréquent) | - Oedème laryngé (Peu fréquent) | - Oedème pharyngé (Fréquent) | - Prurit de l'oreille (Très fréquent) | - Oedème buccal (Très fréquent) | - Prurit labial (Fréquent) | - Glossodynie (Fréquent) | - Rhinite (Fréquent) | - Paresthésie pharyngo-laryngée (Fréquent) | - Sensation de constriction pharyngée (Peu fréquent) | - Stomatite (Fréquent) | - Prurit de la langue (Très fréquent) | - Vésicule labiale (Peu fréquent) | - Gorge sèche (Fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Reflux gastro-oesophagien (Fréquent) | - Irritation oesophagienne (Peu fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Gonflement de la langue (Fréquent) | - Dyspepsie (Fréquent) | - Oesophagite à éosinophiles | SYSTÈME NERVEUX: | - Paresthésie buccale (Très fréquent) | - Hypoesthésie buccale (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Toux (Fréquent)

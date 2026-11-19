@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_J_170
+DCI: Desmopressine
+DrugBank ID: DB00035
+DrugBank Name: Desmopressin
+Brand Names: MINIRIN® MELT ®
+Pharmaceutical Forms: Lyoph. Oral Sublingual
+Dosages: 60mcg/lyoph.
+Packaging: b/30
+Laboratories: BIOGARAN | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: H01BA02
+Registration Numbers: 275/09 J 170/12/25
+Drug Codes: 09 J 170
+
+------------------------------------------------------------
+
+## Description
+
+Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney 6 . The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems. Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH 2 . It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate 3 . Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate. Nocdurna, or desmopressin acetate, was approved by the FDA on June 21st, 2018 for the treatment of nocturia due to nocturnal polyuria in adults. It is available as a sublingual tablet.
+
+## Pharmacodynamics
+
+By mimicking the actions of endogenous ADH, desmopressin acts as a selective agonist of V2 receptors expressed in the renal collecting duct (CD) to increase water re-absorption and reduce urine production. Desmopressin has been shown to be more potent than ADH in increasing plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I 8 . Desmopressin demonstrates markedly diminished pressor activity. Desmopressin administered intranasally has an antidiuretic effect about one-tenth that of an equivalent dose administered by injection 7 .
+
+## Mechanism Of Action
+
+Vasopressin V2 receptor Agonist Vasopressin V1a receptor Agonist Vasopressin V1b receptor Agonist
+
+## Absorption
+
+Following nasal spray administration of 0.83 mcg and 1.66 mcg, median time to peak plasma concentrations (Tmax) was 0.25 and 0.75 hour, respectively Label . The peak plasma concentration was approximately 4.00 (± 3.85) pg/mL and 9.11 (± 6.90) pg/mL, respectively Label . The bioavailability of 1.5 mg/mL desmopressin administered by the intranasal route was between 3.3 and 4.1% 8 . The absolute bioavailability of orally administered desmopressin varies between 0.08% and 0.16% where the mean maximum plasma concentration is reached within 2 hours 9 .
+
+## Volume Of Distribution
+
+The distribution volume of orally administered desmopressin is 0.2 – 0.32 l/kg 9 . It is not reported to cross the blood-brain barrier.
+
+## Metabolism
+
+In vitro, in human liver microsome preparations, it has been shown that no significant amount of desmopressin is metabolised in the liver and thus human liver metabolism in vivo is not likely to occur 9 .
+
+## Route Of Elimination
+
+Desmopressin is mainly excreted in the urine. About 65% of the amount of desmopressin absorbed after oral administration
+could be recovered in the urine within 24 hours 9 .
+
+## Half Life
+
+Following an intranasal dose of 1.66 mcg of desmopressin, the median apparent terminal half-life was 2.8 hours Label . Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment Label . The oral terminal half life of desmopressin ranges from 2 to 3.11 hours 9 .
+
+## Toxicity
+
+Intravenous TDLo in humans is reported to be 0.3 µg/kg/10M MSDS . Desmopressin is associated with hyponatremia in case of overdose, which may require temporary or permanent discontinuation of the therapy depending on severity. The effects of hyponatremia include seizure, altered mental status (confusion, drowsiness or continuing headache), cardiac arrhythmias and worsening edema. Other signs of overdose may include oliguria and rapid weight gain due to fluid retention Label . In case of overdose, reduce the dose or frequency of drug administration, or discontinue use if appropriate. Assessment of serum sodium and initiation of appropriate medical treatment is recommended.

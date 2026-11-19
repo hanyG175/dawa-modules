@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_F_255
+DCI: BUDESONIDE 160 µg/dose + FORMOTEROL FUMARATE 5 µg/dose + GLYCOPYRRONIUM (bromure) 7,2 µg/dose susp p inhal en fl press (TRIXEO AEROSPHERE)
+Brand Names: BREZTRI AEROSPHERE
+Pharmaceutical Forms: Suspension
+Dosages: 5mcg/7.2mcg/160mcg
+Packaging: etui 120 doses
+Laboratories: AstraZeneca
+Registration Numbers: 256/20 A 255/25
+Drug Codes: 20 F 255
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Thu Aug 14 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: Trixeo Aerosphere est indiqué en traitement continu de la bronchopneumopathie chronique obstructive (BPCO) modérée à sévère chez les adultes non traités de façon satisfaisante par l'association d'un corticostéroïde inhalé et d'un bêta-2-agoniste de longue durée d'action ou l'association d'un bêta-2-agoniste de longue durée d'action et d'un antagoniste muscarinique de longue durée d'action (voir rubrique | Pharmacodynamie | pour les résultats obtenus sur le contrôle des symptômes et la prévention des exacerbations,).

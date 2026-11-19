@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_062
+DCI: Iobitridol
+DrugBank ID: DB12407
+DrugBank Name: Iobitridol
+Brand Names: XENETIX 350
+Pharmaceutical Forms: Solution
+Dosages: 350mg/ml
+Packaging: b/01 flc de 50 ml et b/01 flc de 100ml
+Registration Numbers: 168/08 C 062/00/24
+Drug Codes: 08 C 062
+
+------------------------------------------------------------
+
+## Description
+
+Iobitridol has been used in trials studying the diagnostic of Diagnostic Imaging, Coronary Artery Disease, Type 2 Diabetes Mellitus, and Coronary Atherosclerosis.

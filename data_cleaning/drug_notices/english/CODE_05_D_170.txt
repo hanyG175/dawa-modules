@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_170
+DCI: INFLIXIMAB 100 mg pdre p sol diluer p perf (FLIXABI)
+DrugBank ID: DB00065
+DrugBank Name: Infliximab
+Brand Names: INFLIXIMAB-SAIDAL | IXIFI | REMICADE | REMSIMA
+Pharmaceutical Forms: Poudre P. Sol P. Perf Iv
+Dosages: 100mg/fl
+Packaging: b/01fl | flc de 15ml
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AB - INHIBITEURS DU TNF-ALPHA | L04AB02 - INFLIXIMAB
+Registration Numbers: 001/05 D 170/17/24 | 003/05 D 170/24 | 045/05 D 170/21 | 095/05 D 170/14
+Drug Codes: 05 D 170
+
+------------------------------------------------------------
+
+## Description
+
+Infliximab is a tumor necrosis factor (TNF-alpha or TNF-α) blocker and a chimeric monoclonal IgG1 antibody composed of human constant (75%) and murine variable (25%) regions 3 . Infliximab is produced by a recombinant cell line cultured by continuous perfusion. Tumor necrosis factor-alpha (TNF-α) is a key proinflammatory cytokine involved in chronic inflammatory diseases 3 . Its hyperactivity and enhanced signalling pathways can be observed in inflammatory diseases where it activates further pro-inflammatory cascades. By binding to both the soluble subunit and the membrane-bound precursor of TNF-α 1 , infliximab disrupts the interaction of TNF-α with its receptors and may also cause lysis of cells that produce TNF-α 1 . Infliximab was first approved by the FDA in 1998 under the market name Remicade as an intravenous injection. It is indicated for the treatment of various inflammatory disorders such as adult or pediatric Chron's disease, adult or pediatric ulcerative colitis, rheumatoid arthritis in combination with methotrexate, ankylosing spondyliti, psoriatic arthritis, and plaque psoriasis Label . In clinical trials, multiple infusions of infliximab displayed in a reduction of signs and symptoms of inflammatory diseases and induction of remission in patients who have had an inadequate response to alternative first-line therapies for that disorder Label . There are currently two biosilimars of infliximab available in the US market that demonstrate a high degree of similarity to the reference product, Remicade. They are approved for all eligible indications of the reference product. Inflectra, a first biosimilar drug product, was approved in 2016. In December 2017, Ixifi, a second biosimilar that was developed by Pfizer, was granted approval by the FDA.
+
+## Pharmacodynamics
+
+Infliximab disrupts the activation of pro-inflammaory cascade signalling. Infliximab has shown to reduce infiltration of inflammatory cells into sites of inflammation. It also attenautes the expression of molecules mediating cellular adhesion {including E-selectin, intercellular adhesion molecule-1 (ICAM-1) and vascular cell adhesion molecule-1 (VCAM-1)}, chemoattraction {[IL-8 and monocyte chemotactic protein (MCP-1)} and tissue degradation {matrix metalloproteinase (MMP) 1 and 3} Label .
+
+## Mechanism Of Action
+
+Tumor necrosis factor Inhibitor
+
+## Absorption
+
+Following a single intravenous infusion, infliximab absorption displays a linear relationship between the dose administered and the maximum serum concentration Label . In patients with Crohn's disease, the maximum plasma concentration (Cmax) of infliximab following single doses of 5 mg/kg and 10 mg/kg was 75 µg/mL and 181 µg/mL, respectively. In a maintenance therapy study, multiple infusions of infliximab (at week 0, 2 and 6) at the same dose of 5 mg/kg and 10 mg/kg resulted in Cmax of 120 µg/mL and 189 µg/mL , respectively 3 . In patients with rheumatoid arthritis, the Cmax of infliximab following a single dose infusion of 5 mg/kg, 10 mg/kg and 20 mg/kg were 192±51 µg/mL, 427±106 µg/mL, and 907±183 µg/mL, respectively 3 .
+
+## Volume Of Distribution
+
+Based on a pharmacokinetic study of adult patients, the distribution at steady state was independent of dose and indicated that infliximab was distributed primarily within the vascular compartment Label . In patients with Crohn's disease, the apparent volume of distribution at steady state (Vss) of infliximab following single doses of 5 mg/kg and 10 mg/kg was 80 mL/kg and 65 mL/kg, respectively. In a maintenance therapy study, multiple infusions of infliximab (at week 0, 2 and 6) at the same dose of 5 mg/kg and 10 mg/kg resulted in Vss of 70 mL/kg and 81 mL/kg , respectively 3 . In patients with rheumatoid arthritis, the Vss of infliximab following a single dose infusion of 5 mg/kg, 10 mg/kg and 20 mg/kg were 4.3±2.5 L, 3.2±0.7 L, and 3.1±0.6 L, respectively 3 .
+
+## Route Of Elimination
+
+Therapeutic monoclonal antibodies including infliximab are predicted to be nonspecifically metabolized to peptides and amino acids that can be re-used in the body for de novo synthesis of proteins or arc excreted by the kidney 4 . The reticuloendothelial system (RES) are phagocytic cells of the immune system such as macrophages and monocytes that play a role in the elimination of endogenous IgG antibodies. Although administered infliximab accounts for a small fraction of total endogenous IgG and this route is not likely saturated by therapeutic mAbs, infliximab may be removed by opsonization via RES following binding of the Fc part of the antibody to Fcy-receptors expressed on the RES 4 .
+
+## Half Life
+
+The median terminal half-life of infliximab is 7.7 to 9.5 days. The data is based on a pharmacokinetic study in patients with Crohn's disease, plaque psoriasis and rheumatoid arthritis receiving a single dose of infliximab Label .
+
+## Clearance
+
+In patients with Crohn's disease, the total body clearance (CL) of infliximab following single doses of 5 mg/kg and 10 mg/kg was 18.4 mL/h and 14.3 mL/h, respectively. In a maintenance therapy study, multiple infusions of infliximab (at week 0, 2 and 6) at the same dose of 5 mg/kg and 10 mg/kg resulted in CL of 15.2 mL/h and 15.2 mL/h, respectively 3 . In patients with rheumatoid arthritis, the CL of infliximab following a single dose infusion of 5 mg/kg, 10 mg/kg and 20 mg/kg were 11±7.5 mL/h, 11.4±5 mL/h, and 11±8.9 mL/h, respectively 3 . Development of antibodies to infliximab increased infliximab clearance Label .

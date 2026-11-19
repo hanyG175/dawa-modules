@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_005
+DCI: DEXCHLORPHENIRAMINE MALEATE 2 mg cp (POLARAMINE)
+Brand Names: HISTAGAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/30
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AB - ALKYLAMINES SUBSTITUEES | R06AB02 - DEXCHLORPHENIRAMINE
+Registration Numbers: 003/01 A 005/97/25
+Drug Codes: 01 A 005
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | dexchlorphéniramine maléate : 2 mg | Modalités d'administration | Voie orale | Le traitement doit être de courte durée | Respecter un intervalle d'au moins 4 heures entre 2 prises | Posologie | Patient de 6 an(s) à 12 an(s) | Patient quel que soit le poids | Conjonctivite allergique - Manifestations allergiques, traitement symptomatique (des) - Rhinite allergique - Urticaire | Posologie standard | Utiliser une forme sécable si nécessaire | 0,5 comprimé 2 à 3 fois par jour | Patient à partir de 12 an(s) | Patient quel que soit le poids | Conjonctivite allergique - Manifestations allergiques, traitement symptomatique (des) - Rhinite allergique - Urticaire | Posologie standard | 1 comprimé 3 à 4 fois par jour
+
+## Precautions
+
+Asthme | Grossesse | Hypertrophie bénigne de la prostate | Infection virale | Insuffisance hépatique sévère | Insuffisance rénale sévère | Nouveau-né exposé in utero au médicament | Obstruction des voies urinaires | Obstruction digestive | Porphyrie | Sujet âgé | Ulcère gastroduodénal évolutif
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | III | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Dexchlorphéniramine : Mécanisme d'action | La dexchlorphéniramine est un antihistaminique H1, à usage systémique, à structure propylamine (alkylamine substituée), qui se caractérise par un effet sédatif marqué aux doses usuelles, d'origine histaminergique et adrénolytique centrale ; un effet anticholinergique à l'origine d'effets indésirables périphériques, et enfin un effet adrénolytique périphérique, pouvant retentir au plan hémodynamique (risque d'hypotension orthostatique). | Les antihistaminiques ont en commun la propriété de s'opposer, par antagonisme compétitif plus ou moins réversible, aux effets de l' | histamine | , notamment sur la peau, les vaisseaux et les muqueuses conjonctivales, nasales, bronchiques et intestinales. | Ils possèdent, pour la plupart, une activité antitussive, qui est modeste par elle-même, mais qui potentialise les effets des antitussifs centraux morphiniques ainsi que ceux d'autres bronchodilatateurs, comme les amines sympathomimétiques, auxquelles ils sont souvent associés (sirop).
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie | DERMATOLOGIE: | - Eczéma | - Sécheresse muqueuse | - Prurit | - Erythème cutané | - Urticaire | - Purpura | DIVERS: | - Oedème | HÉMATOLOGIE: | - Anémie hémolytique | - Thrombopénie | - Leucopénie | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Choc anaphylactique | OPHTALMOLOGIE: | - Mydriase | - Trouble de l'accommodation | ORL, STOMATOLOGIE: | - Vertige | PSYCHIATRIE: | - Nervosité (Rare) | - Agitation (Rare) | - Insomnie (Rare) | - Confusion mentale | - Hallucination | - Concentration (diminution) | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Hypotension orthostatique | SYSTÈME DIGESTIF: | - Constipation | SYSTÈME NERVEUX: | - Trouble de l'équilibre | - Trouble de la mémoire | - Somnolence | - Tremblement | - Ataxie | - Sédation | TOXICOLOGIE: | - Effet atropinique | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire

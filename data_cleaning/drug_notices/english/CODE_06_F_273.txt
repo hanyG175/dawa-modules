@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_273
+DCI: NEBIVOLOL (chlorhydrate) 5 mg cp (NEBIVOLOL ALMUS) | Nebivolol | Nebivolol Chlorhydrate Exprime En Nebivolol
+DrugBank ID: DB04861
+DrugBank Name: Nebivolol
+Brand Names: NEBCAR | TEMERIT | TEMERIVOL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/30
+Laboratories: TEVA SANTE | 100-110 ESPLANADE DU GENERAL DE GAULLE | 92931 PARIS LA DEFENSE CEDEX
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C07 - BETA-BLOQUANTS | C07A - BETA-BLOQUANTS | C07AB - BETA-BLOQUANTS SELECTIFS | C07AB12 - NEBIVOLOL | C07BB12
+Registration Numbers: 203/06 F 273/09/17 | 352/06 F 273/18/23 | 380/06 F 273/18
+Drug Codes: 06 F 273
+
+------------------------------------------------------------
+
+## Description
+
+Nebivolol is a racemic mixture of 2 enantiomers where one is a beta adrenergic antagonist and the other acts as a cardiac stimulant without beta adrenergic activity. 2 Treatment with nebivolol leads to a greater decrease in systolic and diastolic blood pressure than atenolol , propranolol , or pindolol . 2 Nebivolol and other beta blockers are generally not first line therapies as many patients are first treated with thiazide diuretics. 8 Nebivolol was granted FDA approval on 17 December 2007. 9
+
+## Pharmacodynamics
+
+Nebivolol is a selective beta-1 adrenergic receptor antagonist that decreases vascular resistance, increases stroke volume and cardiac output, and does not negatively affect left ventricular function. 2 , 3 It has a long duration of action as effects can be seen 48 hours after stopping the medication and a wide therapeutic window as patients generally take 5-40mg daily. 2 , 9 Patients should not abruptly stop taking this medication as this may lead to exacerbation of coronary artery disease. 9 Diabetic patients should monitor their blood glucose levels as beta blockers may mask signs of hypoglycemia. 9
+
+## Mechanism Of Action
+
+Beta-1 adrenergic receptor Antagonist
+
+## Absorption
+
+The absorption of nebivolol is not affected by food. 9 Nebivolol has a T max of 1.5-4 hours. 9 Bioavailability can range from 12-96% for extensive to poor CYP2D6 metabolizers. 6 , 7 For a 20mg dose, d-nebivolol has a C max of 2.75±1.55ng/mL, l-nebivolol has a C max of 5.29±2.06ng/mL, both enantiomers have a C max of 8.02±3.47ng/mL, and nebivolol glucuronides have a C max of 68.34±44.68ng/mL. 6 For a 20mg dose, d-nebivolol has an AUC of 13.78±15.27ng*h/mL, l-nebivolol has an AUC of 27.72±15.32ng*h/mL, both enantiomers have an AUC of 41.50±29.76ng*h/mL, and nebivolol glucuronides have an AUC of 396.78±297.94ng*h/mL. 6
+
+## Volume Of Distribution
+
+For a 20mg dose, d-nebivolol has an apparent volume of distribution of 10,290.81±3911.72L, l-nebivolol has an apparent volume of distribution of 8,066.66±4,055.50L, and both enantiomers together have a volume of distribution of 10,423.42±6796.50L. 6
+
+## Metabolism
+
+Nebivolol is metabolized mainly by glucuronidation and CYP2D6 mediated hydroxylation. 1 , 4 Metabolism involves n-dealkylation, hydroxylation, oxidation, and glucuronidation. 7 Aromatic hydroxyl and acyclic oxide metabolites are active, while n-dealkylated and glucuronides are inactive. 7 Hover over products below to view reaction partners Nebivolol 4-hydroxy Nebivolol
+
+## Route Of Elimination
+
+In extensive CYP2D6 metabolizers, 38% is eliminated in the urine and 44% in the feces. 9 In poor CYP2D6 metabolizers, 67% is eliminated in the urine and 13% in the feces. 9 <1% of a dose is excreted as the unmetabolized drug. 5
+
+## Half Life
+
+d-nebivolol has a half life of 12 hours in CYP2D6 extensive metabolizers and 19 hours in poor metabolizers. 5 , 9
+
+## Clearance
+
+For a 20mg dose, the clearance of d-nebivolol is 1241.63±749.77L/h, l-nebivolol is 435.53±180.93L/h, and both enantiomers is 635.31±300.25L/h. 6
+
+## Toxicity
+
+Patients experiencing an overdose may present with bradycardia, hypotension, cardiac failure, dizziness, hypoglycemia, fatigue, vomiting, bronchospasm and heart block. 9 Treat overdose with general supportive measures including intravenous atropine for bradycardia, vasopressors and intravenous fluids for hypotension, isoproterenol infusion for heart block, digitalis glycosides and diuretics for congestive heart failure, bronchodilators for bronchospasm, and intravenous glucose for hypoglycemia. 9

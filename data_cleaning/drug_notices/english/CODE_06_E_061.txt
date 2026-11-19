@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_061
+DCI: Methyldopa Anhydre Sous Forme Sesquihydratee
+DrugBank ID: DB00968
+DrugBank Name: Methyldopa
+Brand Names: ALDOMET | DOPAMET | METHYCARE
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/30
+Registration Numbers: 268/06 E 061/99/21 | 293/06 E 061/24 | 380/06 E 061/23
+Drug Codes: 06 E 061
+
+------------------------------------------------------------
+
+## Description
+
+Methyldopa, or α-methyldopa, is a centrally acting sympatholytic agent and an antihypertensive agent. 4 It is an analog of DOPA (3,4‐hydroxyphenylanine), and it is a prodrug, meaning that the drug requires biotransformation to an active metabolite for therapeutic effects. Methyldopa works by binding to alpha(α)-2 adrenergic receptors as an agonist, leading to the inhibition of adrenergic neuronal outflow and reduction of vasoconstrictor adrenergic signals. 1 Methyldopa exists in two isomers D-α-methyldopa and L-α-methyldopa, which is the active form. 7 First introduced in 1960 as an antihypertensive agent, methyldopa was considered to be useful in certain patient populations, such as pregnant women and patients with renal insufficiency. Since then, methyldopa was largely replaced by newer, better-tolerated antihypertensive agents; 4 however, it is still used as monotherapy 11 or in combination with hydrochlorothiazide . 12 Methyldopa is also available as intravenous injection, which is used to manage hypertension when oral therapy is unfeasible and to treat hypertensive crisis. 13
+
+## Pharmacodynamics
+
+Antihypertensive effects of methyldopa are mostly mediated by its pharmacologically active metabolite, alpha-methylnorepinephrine, which works as an agonist at central inhibitory alpha-adrenergic receptors. 11 Stimulation of alpha-adrenergic receptors leads to decreased peripheral sympathetic tone and reduced arterial pressure. 3 Methyldopa causes a net reduction in the tissue concentration of serotonin, dopamine, norepinephrine, and epinephrine. Overall, methyldopa lowers both standing blood pressure and especially supine blood pressure, with infrequent symptomatic postural hypotension. Methyldopa also reduces plasma renin activity but has negligible effects on glomerular filtration rate, renal blood flow, or filtration fraction. It also has no direct effect on cardiac function but in some patients, a slowed heart rate may occur. 11 Following oral administration, blood-pressure-lowering effects are observed within 12 to 24 hours in most patients, and a maximum reduction in blood pressure occurs in 4 to 6 hours. Blood pressure returns to pre-treatment levels within 24 to 48 hours following drug discontinuation. 11 Following intravenous administration, the blood-pressure-lowering effects of methyldopa last for about 10 to 16 hours. 4
+
+## Mechanism Of Action
+
+Aromatic-L-amino-acid decarboxylase Inhibitor Alpha-2A adrenergic receptor Agonist
+
+## Absorption
+
+Methyldopa is incompletely absorbed from the gastrointestinal tract following oral administration. 5 In healthy individuals, the inactive D-isomer is less readily absorbed than the active L-isomer. 7 The mean bioavailability of methyldopa is 25%, ranging from eight to 62%. 5 Following oral administration, about 50% of the dose is absorbed and T max is about three to six hours. 6 , 4
+
+## Volume Of Distribution
+
+The apparent volume of distribution ranges between 0.19 and 0.32L/kg and the total volume of distribution ranges from 0.41 to 0.72L/kg. Since methyldopa is lipid-soluble 4 , it crosses the placental barrier, appears in cord blood, and appears in breast milk. 11
+
+## Metabolism
+
+Two isomers of methyldopa undergo different metabolic pathways. 7 L-α-methyldopa is biotransformed to its pharmacologically active metabolite, alpha-methylnorepinephrine. Methyldopa is extensively metabolized in the liver to form the main circulating metabolite in the plasma, alpha (α)-methyldopa mono-O-sulfate. Its other metabolites also include 3-O-methyl-α-methyldopa; 3,4-dihydroxyphenylacetone; α-methyldopamine; and 3-O-methyl-α-methyldopamine. These metabolites are further conjugated in the liver to form sulfate conjugates. 11 After intravenous administration, the most prominent metabolites are alpha-methyldopamine and the glucuronide of dihydroxyphenylacetone, along with other uncharacterized metabolites. 5 D-α-methyldopa, which is the inactive isomer of methyldopa, is also metabolized to 3-O-methyl-α-methyldopa and 3,4-dihydroxyphenylacetone to a minimal extent; however, there are no amines (α-methyldopamine and 3-O-methyl-α-methyldopamine) formed. 7 Hover over products below to view reaction partners Methyldopa 3-O-methyl-alpha-methyldopa 3-O-methyl-alpha-methyldopa sulfate Alpha-methyldopamine Alpha-methylnorepinephrine Alpha-methylepinephrine 3-O-methyl-alpha-methyldopamine Alpha-methyldopa-mono-O-sulfate 3,4-Dihydroxyphenylacetone 3,4-Dihydroxyphenylacetone glucuronide
+
+## Route Of Elimination
+
+Approximately 70% of absorbed methyldopa is excreted in the urine as unchanged parent drug (24%) and α-methyldopa mono-O-sulfate (64%), 6 , 11 with variability.3-O-methyl-α-methyldopa accounted for about 4% of urinary excretion products. Other metabolites like 3,4-dihydroxyphenylacetone, α-methyldopamine, and 3-O-methyl-α-methyldopamine are also excreted in urine. 6 Unabsorbed drug is excreted in feces as the unchanged parent compound. 4 After oral doses, excretion is essentially complete in 36 hours. 12 Due to attenuated excretion in patients with renal failure, accumulation of the drug and its metabolites may occur, 4 possibly leading to more profound and prolonged hypotensive effects in these patients. 5
+
+## Half Life
+
+The plasma half-life of methyldopa is 105 minutes. 11 Following intravenous injection, the plasma half-life of methyldopa ranges from 90 to 127 minutes. 13
+
+## Clearance
+
+The renal clearance is about 130 mL/min in normal subjects and is decreased in patients with renal insufficiency. 11
+
+## Toxicity
+
+The lowest published toxic dose via oral route is 44 gm/kg/3Y (intermittent) in a female. Oral LD 50 is 5000 mg/kg in rats and 5300 mg/kg in mice. Intraperitoneal LD 50 is 300 mg/kg in rats and 150 mg/kg in mice. 14 Acute overdosage is characterized by acute hypotension and other presentations attributed to the brain and gastrointestinal dysfunction, such as excessive sedation, weakness, bradycardia, dizziness, light-headedness, constipation, distention, flatus, diarrhea, nausea, and vomiting. Symptomatic and supportive measures should be initiated in the event of methyldopa overdose. Overdosage following recent oral ingestion can be managed by gastric lavage or emesis, as well as infusions to limit further drug absorption. Cardiac rate and output, blood volume, electrolyte balance, paralytic ileus, urinary function and cerebral activity should be closely monitored. The use of sympathomimetic drugs such as levarterenol, epinephrine, and metaraminol bitartrate, or dialysis may be considered. 11

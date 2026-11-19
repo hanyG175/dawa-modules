@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_020
+DCI: Terbutaline Sulfate
+Brand Names: TERBUTALINE SULFATE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 0,5MG/ML
+Packaging: B/8AMP. DE 1ML
+Laboratories: RENAUDIN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 20A020
+Registration Numbers: 003/20 A 020/05/21
+Drug Codes: 20 A 020
+
+------------------------------------------------------------
+
+## Indications
+
+PNEUMOLOGIE
+
+## Mechanism Of Action
+
+BRONCHODILATATEURS & ANTI-ASTHMATIQUES

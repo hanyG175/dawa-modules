@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_162
+DCI: Prednisone
+Brand Names: METHYLPREDNISONE MYLAN
+Pharmaceutical Forms: Poudre Sol. Inj.
+Dosages: 120MG/FL. DE PDRE.
+Packaging: B/20FL. DE PDRE.
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 09H031
+Registration Numbers: 003/09 H 162/08/23 | 235/09 H 162/25
+Drug Codes: 09 H 162
+
+------------------------------------------------------------
+
+## Indications
+
+ENDOCRINOLOGIE ET HORMONES
+
+## Mechanism Of Action
+
+GLUCOCORTICOIDES

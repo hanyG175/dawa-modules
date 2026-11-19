@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_171
+DCI: ARGININE ASPARTATE 1 g cp efferv (SARGENOR Ss sucre)
+Brand Names: SARGENINE
+Pharmaceutical Forms: Comprimé
+Dosages: 1g
+Packaging: b/01 tube de 20
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09A - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA04 - PERINDOPRIL
+Registration Numbers: 348/14 H 171/16
+Drug Codes: 14 H 171
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | périndopril arginine : 10 mg | Modalités d'administration | Voie orale | Administrer le matin à jeun | Utiliser une forme sécable si nécessaire | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle | Traitement initial | 5 mg 1 fois par jour | Pendant 1 mois | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | 5 à 10 mg 1 fois par jour | Dans le cas de : Association à un diurétique, Déplétion sodée, Etat sévère, Hypertension rénovasculaire | Posologie à adapter en fonction de la réponse tensionnelle | Utiliser le dosage le plus adapté à la posologie | 2,5 à 10 mg 1 fois par jour | Troubles cardiovasculaires suite à une maladie coronarienne, traitement préventif (des) | Traitement initial | 5 mg 1 fois par jour | Pendant 2 semaines | Traitement ultérieur | Posologie à adapter en fonction de la tolérance | 5 à 10 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Acidose métabolique | Anesthésie | Angor instable | Antécédent d?angioedème | Cardiomyopathie hypertrophique | Connectivite | Décompensation cardiaque | Déshydratation | Diabète | Femme susceptible d'être enceinte | Hyperaldostéronisme primaire | Hyperstimulation du système rénine-angiotensine | Hypertension artérielle | Hypoaldostéronisme | Hypovolémie | Insuffisance cardiaque | Insuffisance cardiaque congestive | Insuffisance coronarienne | Insuffisance rénale | Intervention chirurgicale majeure | Ischémie myocardique | Nouveau-né exposé in utero au médicament | Obstruction de la voie d'éjection ventriculaire gauche | Pathologie cérébrovasculaire | Patient en hémodialyse | Rétrécissement aortique | Rétrécissement mitral | Sujet âgé | Sujet à risque d'hypotension artérielle | Sujet de moins de 18 ans | Sujet noir | Traitement concomitant par immunosuppresseur | Traitement de désensibilisation en cours | Traitement par un médicament hyperkaliémiant | Transplantation rénale, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | III | X | Contre-indication absolue | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Arginine : Mécanisme d'action | L’arginine a des propriétés cholagogue et cholérétique, antiasthénique, hypoammoniémiante. | Dans le cas des déficits héréditaires de l'uréogenèse, l'arginine permet la détoxification et l'élimination de l'ammoniaque sous forme de | citrulline | ou d'acide argino-succinique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Eosinophilie (Peu fréquent) | - Urémie (augmentation) (Peu fréquent) | - Hyperkaliémie (Peu fréquent) | - Hyponatrémie (Peu fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Hypoglycémie (Peu fréquent) | - Enzymes hépatiques (augmentation) (Rare) | - Bilirubinémie (augmentation) (Rare) | - Hémoglobinémie (diminution) (Très rare) | - Hyperbilirubinémie (Rare) | - Hématocrite (diminution) (Très rare) | - Neutropénie (Très rare) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Hypersudation (Peu fréquent) | - Photosensibilisation (Peu fréquent) | - Hyperhidrose (Peu fréquent) | - Prurit (Fréquent) | - Pemphigoïde (Peu fréquent) | - Eruption cutanée (Fréquent) | - Erythème polymorphe (Très rare) | - Psoriasis (aggravation) (Rare) | DIVERS: | - Chute (Peu fréquent) | - Oedème de la face (Peu fréquent) | - Douleur thoracique (Peu fréquent) | - Oedème périphérique (Peu fréquent) | - Oedème muqueux (Peu fréquent) | - Fièvre (Peu fréquent) | - Asthénie (Fréquent) | ENDOCRINOLOGIE: | - Syndrome de sécrétion inappropriée d'hormone antidiurétique (SIADH) (Rare) | HÉMATOLOGIE: | - Agranulocytose (Très rare) | - Thrombopénie (Très rare) | - Pancytopénie (Très rare) | - Anémie hémolytique (Très rare) | - Leucopénie (Très rare) | HÉPATOLOGIE: | - Hépatite cytolytique (Très rare) | - Hépatite cholestatique (Très rare) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke | - Angioedème | OPHTALMOLOGIE: | - Trouble de la vision (Fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Dysgueusie (Fréquent) | - Sécheresse buccale (Peu fréquent) | - Oedème labial (Peu fréquent) | - Sensation de vertige (Fréquent) | - Oedème laryngé (Peu fréquent) | - Acouphène (Fréquent) | - Rhinite (Très rare) | PSYCHIATRIE: | - Dépression (Peu fréquent) | - Trouble de l'humeur (Peu fréquent) | - Trouble du sommeil (Peu fréquent) | - Confusion mentale (Très rare) | SYSTÈME CARDIOVASCULAIRE: | - Vascularite (Peu fréquent) | - Tachycardie (Peu fréquent) | - Hypotension artérielle (Fréquent) | - Palpitation (Peu fréquent) | - Syncope (Peu fréquent) | - Malaise (Peu fréquent) | - Bouffée congestive (Rare) | - Arythmie (Très rare) | - Angor (Très rare) | - Infarctus du myocarde (Très rare) | - Syndrome de Raynaud | - Arrêt cardiaque | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Oedème de la langue (Peu fréquent) | - Diarrhée (Fréquent) | - Pancréatite (Très rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Fréquent) | - Douleur articulaire (Peu fréquent) | - Douleur musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Peu fréquent) | - Trouble de l'équilibre (Peu fréquent) | - Paresthésie (Fréquent) | - Accident vasculaire cérébral (Très rare) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Bronchospasme (Peu fréquent) | - Toux (Fréquent) | - Pneumopathie à éosinophiles (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Peu fréquent) | - Impuissance (Peu fréquent) | - Trouble de l'érection (Peu fréquent) | - Insuffisance rénale aiguë (Rare) | - Oligurie (Rare) | - Anurie (Rare)

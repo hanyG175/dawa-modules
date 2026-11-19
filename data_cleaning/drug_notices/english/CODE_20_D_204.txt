@@ -1,0 +1,63 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_204
+DCI: Bromhexine | Bromhexine Chlorhydrate
+DrugBank ID: DB09019
+DrugBank Name: Bromhexine
+Brand Names: BROMHEXINE | BROMHEXINE KPMA
+Pharmaceutical Forms: Siropop | Solution
+Dosages: 10MG/5ML (OU 0,2%) | 10mg/5ml
+Packaging: FL./60ML | b/1 flacon de 60 ml
+Laboratories: SAIDAL GROUPE
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 140 DA
+Prescription List: N/D
+ATC Classification: 20D204
+Registration Numbers: 073/20 D 204/05 | 400/20 D 204/18
+Drug Codes: 20 D 204
+
+------------------------------------------------------------
+
+## Description
+
+Bromhexine is mucolytic agent used for a variety of respiratory conditions associated with increased mucus secretion. It is derived from the Adhatoda vasica plant and aids in the clearance of excess mucus, improving breathing and reducing cough. It was introduced into the market in 1963, and is widely available as an over-the-counter drug in many countries. 1 Recently, bromhexine and its metabolite ambroxol have garnered interest for the potential prevention and treatment of COVID-19 due to their interactions with cell receptors in the lungs. 5 , 6
+
+## Pharmacodynamics
+
+Bromhexine thins airway secretions, improving breathing and discomfort associated with thick mucus in airways associated with a variety of respiratory conditions. 1 , 11 , 13
+
+## Mechanism Of Action
+
+Transmembrane protease serine 2 Inhibitor Angiotensin-converting enzyme 2 Binder
+
+## Absorption
+
+After oral administration, bromhexine demonstrates linear pharmacokinetics when given in doses of 8-32 mg. Bromhexine is readily absorbed in the gastrointestinal tract at a rapid rate. This drug undergoes extensive first-pass effect in the range of 75-80%. 3 , 13 The bioavailability is therefore reduced to approximately 22-27%. 13
+
+## Volume Of Distribution
+
+After intravenous administration in a pharmacokinetic study, bromhexine was found to be widely distributed. Bromhexine is known to cross the blood-brain barrier; small concentrations may cross the placenta. The average volume of distribution of bromhexine was 1209 ± 206 L (19 L/kg). Lung tissue concentrations of bromhexine two hours after a dose were 1.5 to 3.2 times higher in bronchial tissues than plasma concentrations. Pulmonary parynchema concentrations were 3.4 to 5.9 times higher when compared to plasma concentrations. 13
+
+## Metabolism
+
+Bromhexine is almost completely metabolized to a variety of hydroxylated metabolites in addition to dibromanthranilic acid. Ambroxol is a known metabolite of bromhexine. 13 In one study of human plasma, (E)-4-hydroxydemethylbromhexine (E-4-HDMB) and (E)-3-hydroxydemethylbromhexine (E-3-HDMB) were quantified as major metabolites of ambroxol, and (Z)-4-hydroxydemethylbromhexine and (Z)-3-hydroxydemethylbromhexine were quantified as minor metabolites. 4
+
+## Route Of Elimination
+
+After a dose of bromhexine was administered during a pharmacokinetic study, approximately 97% of the radiolabeled dose was detected in the urine; under 1% was detected as the parent drug. 13
+
+## Half Life
+
+Following single oral doses ranging from 8 and 32 mg, the terminal half-life of bromhexine has been measured between 6.6 and 31.4 hours. 13
+
+## Clearance
+
+The clearance of bromhexine ranges from 843-1073 mL/min, within the range of the hepatic circulation. 13
+
+## Toxicity
+
+The oral LD50 of bromhexine in rats is 6 g/kg. 14 The observed symptoms of accidental overdose with bromhexine are consistent with the
+known adverse effects of bromhexine, including headache, nausea, and vomiting, among other symptoms. Provide symptomatic treatment and contact poison control services if an overdose is confirmed or suspected. 13

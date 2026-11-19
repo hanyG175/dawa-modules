@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_149
+DCI: DEFERIPRONE 100 mg/ml sol buv (FERRIPROX) | argentum nitricum [H]
+DrugBank ID: DB11153
+DrugBank Name: Potassium hydroxide
+Brand Names: NOVO FER | POLYFER
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/30
+Laboratories: CHIESI SAS
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AC - CHELATEURS DU FER | V03AC02 - DEFERIPRONE
+Registration Numbers: 242/12 E 149/21 | 504/12 E 149/16
+Drug Codes: 12 E 149
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+The corrosiveness of potassium hydroxide renders it a very useful agent in the decomposition/removal soft tissue and hair removal. It is incorporated into some nail products, shaving creams, and soaps 13 .
+
+## Mechanism Of Action
+
+The exact mechanism of action of KOH is not known but the speculated one is that topical application of KOH digests keratin, and induces inflammation 7 . The mechanism of skin injury by alkali substances such as potassium hydroxide is by the saponification of fat, causing fatty tissue to lose its function with increased damage due to a heat reaction. Extraction of water from cells occurs due to the hygroscopic (absorbent) nature of alkali. Dissolution of proteins also occurs, allowing for deeper penetration of OH- ions and resulting in various chemical reactions 14 . The alkali penetrates the skin quickly, saponifies plasma membranes, denatures collagen proteins, and leads to vascular thromboses in the conjunctiva and other parts of the eye. The resulting corneal burns include scarring and opacification of the cornea with resulting in vision loss, corneal neovascularization, ulcer formation, and perforation. Other consequences of untreated or very severe alkali burns include epithelial erosions, secondary glaucoma, and causes the destruction of conjunctival mucus cells, causing dry eyes, trichiasis (misdirected eyelash hairs), and other ocular conditions 14 . In the gastrointestinal tract, after oral ingestion, burns may result. The mechanism of injury is liquefactive necrosis. The thrombosis of gastrointestinal blood vessels also contributes to tissue damage. When the alkali enters the stomach, gastric acid may neutralize the strong base, which can limit the extent of the injury. Perforation of the stomach can sometimes occur with peritonitis and caustic injury to the surrounding organs including the colon, pancreas, liver, and spleen 14 .
+
+## Absorption
+
+KOH in aqueous solutions completely dissociates into K+ and OH- ions. Because of the neutralization of OH- by gastric HCl and the rapid blood pH regulation action (buffer capacity of extracellular body fluids, respiratory and renal compensation mechanisms), an alkalosis due to the OH- ions after KOH oral dosage in non-irritating conditions is thus prevented 3 . The uptake of potassium, in potassium hydroxide form, is much less than the oral uptake with therapeutic doses of KCl for treating potassium deficiency, of up to 10 g/day. Furthermore, the oral uptake of potassium from food/natural sources or from food additives is likely to be also much higher 3 .
+
+## Metabolism
+
+KOH in aqueous solution is entirely dissociated into K+ and OH- ions. Due to the neutralization of OH- by gastric HCl and the quick and efficient blood pH regulation mechanisms (buffer capacity of extra cellular body fluids, respiratory and renal compensation mechanisms), an alkalosis due to the OH- ions after KOH oral dosage in non-irritating conditions is prevented 14 .
+
+## Toxicity
+
+No studies are currently identified regarding the reproduction/developmental toxicity of potassium hydroxide 14 . The Ld50 of potassium hydroxide in rats ranges from 0.273 - 1.230 g KOH/kg body weight/day 3 . Adverse effects include vomiting, diarrhea, skin blistering, gastrointestinal disturbance, and burns 5 . Strong alkaline chemicals such as potassium hydroxide destroy soft tissues may cause a deep, penetrating type of burn. Caustics are usually hydroxides of light metals. Sodium hydroxide and potassium hydroxide are the most broadly used caustic agents in the industry 11 . Potassium Hydroxide can irritate the lungs. Repeated exposure may cause bronchitis to develop with coughing, phlegm, and/or shortness of breath 9 .

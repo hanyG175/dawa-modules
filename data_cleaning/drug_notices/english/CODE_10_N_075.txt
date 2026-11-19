@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_N_075
+DCI: MESALAZINE 500 mg cp LP (PENTASA) | Mesalazine
+DrugBank ID: DB00244
+DrugBank Name: Mesalazine
+Brand Names: LANVASA | MELAZA | PENTASA
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 500mg
+Packaging: b/100 | b/90 | boite de 90
+Laboratories: FERRING S.A.S | 7, RUE JEAN BAPTISTE CLEMENT | 94 250 - GENTILLY
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07E - ANTIINFLAMMATOIRES INTESTINAUX | A07EC - ACIDE AMINOSALICYLIQUE ET ANALOGUES | A07EC02 - MESALAZINE
+Registration Numbers: 263/10 N 075/17 | 275/10 N 075/03/15 | 571/10 N 075/22
+Drug Codes: 10 N 075
+
+------------------------------------------------------------
+
+## Description
+
+An anti-inflammatory agent, structurally related to the salicylates and non-steroidal anti-inflammatory drugs like acetylsalicylic acid, which is active in inflammatory bowel disease 2 . Although demonstrably effective in treating and maintaining remission for ulcerative colitis, mesalazine has historically faced a number of issues regarding its lack of stability as a pharmaceutical agent 1 . Throughout the late seventies and the eighties, important research initiatives developed stable mesalazine formulations like the eudragit-S coating of Asacol brand mesalazine and the Pentasa brand's encapsulation of mesalazine within microgranules 1 . In the present day, contemporary research regarding novel methods to stabilize mesalazine continues and interest in the agent's capacity to decrease inflammatory activity and subsequently potentially reduce the risk of colorectal cancer in conditions like ulcerative colitis is maintained. 1 , 2
+
+## Pharmacodynamics
+
+Mesalazine is one of the two components of sulphasalazine, the other being sulphapyridine. It is the latter responsible for most of the side effects associated with sulphasalazine therapy, while mesalazine is known to be the active moiety in the treatment of ulcerative colitis 12 . Mesalazine is thought to dampen the inflammatory process through its ability to inhibit prostaglandin synthesis, interfere with leukotriene synthesis, and consequent leukocyte migration as well as act as a potent scavenger of free radicals. 25 Regardless of the mode of action, mesalazine appears to be active mainly topically rather than systemically. 25 Intraperitoneally administered mesalazine at 30 and 340 mg/kg daily had similar efficacy in attenuating colitis as prednisolone 4 to 550 mg/kg daily given intraperitoneally or sulphasalazine 0.34 to 5 mg/kg given orally in immune complex-induced colitis mice. 11 Mesalazine at 5 mmol/L and sulphasalazine 1.5 mmol/L also reversed the increase in water and chloride secretion and decrease the sodium in dinitrochlorbenzene-induced colitis guinea pig. 11
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor Polyunsaturated fatty acid 5-lipoxygenase Inhibitor + 1 more target
+
+## Absorption
+
+Depending on the formulation administered, prescribing information for orally administered delayed-released tablets of 2.4g or 4.8g of mesalazine given once daily for 14 days to healthy volunteers was to found to be about 21% to 22% of the administered dose Label while prescribing information for an orally administered controlled-release capsule formulation suggests 20% to 30% of the mesalazine in the formulation is absorbed. 27 In contrast, when mesalamine is administered orally as an unformulated 1-g aqueous suspension, mesalazine is approximately 80% absorbed. 27
+
+## Volume Of Distribution
+
+For the extended-release formulation, mesalazine has a Vd of 18 L, confirming minimal extravascular penetration of systemically available drug. 18 For the delayed-release formulation, the apparent volume of distribution was estimated to be 4.8 L. 19
+
+## Metabolism
+
+Mesalazine is metabolized both pre-systemically by the intestinal mucosa and systemically in the liver to N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA) principally by NAT-1. Some acetylation also occurs through the action of colonic bacteria. 13 , 17 Hover over products below to view reaction partners Mesalazine N-acetyl-5-ASA (Ac-5-ASA)
+
+## Route Of Elimination
+
+Elimination of mesalazine is mainly via the renal route following metabolism to N-acetyl-5-aminosalicylic acid (acetylation) 23 . However, there is also limited excretion of the parent mesalazine drug in the urine. 23 After the oral administration of the extended-release formulation of mesalazine, of the approximately 21% to 22% of the drug absorbed, less than 8% of the dose was excreted unchanged in the urine after 24 hours, compared with greater than 13% for N-acetyl-5-aminosalicylic acid. 23 When given the controlled-release formulation, about 130 mg free mesalazine was recovered in the feces following a single 1-g dose, which was comparable to the 140 mg of mesalazine recovered from the molar equivalent sulfasalazine tablet dose of 2.5 g F3001]. Elimination of free mesalazine and salicylates in feces increased proportionately with the dose given. N-acetylmesalazine was the primary compound excreted in the urine (19% to 30%) following the controlled-release dosing. 27 In patients with ulcerative proctitis treated with mesalamine 500 mg as a rectal suppository every 8 hours for 6 days, 12% or less of the dose was eliminated in urine as unchanged 5-ASA and 8% to 77% was eliminated as N-acetyl-5-ASA following the initial dose. At steady state, 11% or less of the dose was eliminated in the urine as unchanged 5-ASA and 3% to 35% was eliminated as N-acetyl-5-ASA. 16
+
+## Half Life
+
+For the delayed-release formulation, after intravenous administration, the elimination half-life of mesalamine is reported to be approximately 40 minutes. After oral dosing, the median terminal half life values for mesalamine are usually about 25 hours, but are variable, ranging from 1.5 to 296 hours. There is a large inter-subject and intra-subject variability in the plasma concentrations of mesalamine and N-acetyl-5-aminosalicylic acid and in their terminal half-lives following the administration of mesalazine. 15 For the extended-release formulation, following single and multiple doses of mesalazine, the mean half-lives were 9 to 10 hours for 5-ASA, and 12 to 14 hours for N-Ac-5-ASA. 17 The mean elimination half-life was 5 hours (CV=73%) for 5-ASA and 5 hours (CV=63%) for N-acetyl-5-ASA in patients taking 500 mg mesalazine as a rectal suppository every 8 hours for 6 days. 16 For the rectal enema suspension formulation, the elimination half-life was 0.5 to 1.5 hours for 5-ASA and 5 to 10 hours for N-acetyl-5-ASA. 24
+
+## Clearance
+
+The mean (SD) renal clearance in L/h for mesalazine following the single dose administration of mesalazine delayed-release tablets 4.8g under fasting conditions to young and elderly subjects were documented as 2.05 ± 1.33 in young subjects aged 18 to 35 years old, 2.04 ± 1.16 in elderly subjects aged 65 to 75 years old and 2.13 ± 1.20 in elderly subjects older than 75 years. 23
+
+## Toxicity
+
+Mesalazine caused no increase in the incidence of neoplastic lesions over controls in a two-year study of Wistar rats fed up to 320 mg/kg/day of mesalazine admixed with diet (about 1.7 times the recommended human intra-rectal dose of CANASA, based on body
+surface area). Mesalazine was not mutagenic in the Ames test, the mouse lymphoma cell (TK+/-) forward mutation test, or the mouse micronucleus test. No effects on fertility or reproductive performance of the male and female rats were observed at oral mesalamine doses up to 320 mg/kg/day (about 1.7 times the recommended human intra-rectal dose of mesalazine, based on body surface area). 16 Mesalazine is an aminosalicylate, and symptoms of salicylate toxicity include nausea, vomiting and abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures). Severe salicylate intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ involvement (e.g., renal and liver). There is no specific antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute
+overdosage and may include gastrointestinal tract decontamination to prevent further absorption. Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function. 14 Mesalazine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function. Evaluate renal function in all patients prior to initiation and periodically while on Asacol HD therapy. Monitor patients with known renal impairment or a history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions. 14

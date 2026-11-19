@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_094
+DCI: Amisulpride
+Brand Names: AMISULPRIDE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 200MG
+Packaging: B/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 2061.7 DA
+PPA (DA): 2061.7 DA
+Prescription List: Liste I
+ATC Classification: 16D094
+Registration Numbers: 035/16 D 094/17 | 097/16 D 094/20 | 235/16 D 094/23 | 309/16 D 094/17/22 | 352/16 D 094/11 | 392/16 D 094/06/24 | 447/16 D 094/13/23
+Drug Codes: 16 D 094
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

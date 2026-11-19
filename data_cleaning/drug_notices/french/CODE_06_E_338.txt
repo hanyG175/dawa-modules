@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_338
+DCI: TELMISARTAN 80 mg + AMLODIPINE (bésilate) 10 mg cp (TELMISARTAN/AMLODIPINE ARROW)
+Brand Names: EXTEL | TEMISAL
+Pharmaceutical Forms: Comprimé
+Dosages: 80 mg/10 mg | 80mg/10 mg
+Packaging: boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA07 - TELMISARTAN
+Registration Numbers: 039/06 E 338/22 | 352/06 E 338/22
+Drug Codes: 06 E 338
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | telmisartan : 40 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle | Posologie standard | Tenir compte du délai d'action du traitement | 20 à 80 mg 1 fois par jour | Diabétique à haut risque cardiovasculaire, trt préventif des complications cardiovasculaires (du) - Pathologie artérielle ischémique, traitement préventif des complications (d'une) | Posologie standard | 80 mg 1 fois par jour | Posologies maximales | Posologie maximale: 80 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Acidose métabolique | Cardiomyopathie obstructive | Décompensation cardiaque | Déshydratation | Diabète | Femme susceptible d'être enceinte | Hyperaldostéronisme primaire | Hyponatrémie | Hypovolémie | Insuffisance cardiaque congestive sévère | Insuffisance hépatique légère à modérée | Insuffisance rénale | Ischémie myocardique | Pathologie provoquant une lyse cellulaire | Patient dialysé | Rétrécissement aortique | Rétrécissement mitral | Sujet âgé | Sujet à risque d'hyperkaliémie | Sujet de moins de 18 ans | Sujet noir
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Telmisartan : Mécanisme d'action | Le telmisartan est un antagoniste spécifique du récepteur de l'angiotensine II (type AT1), actif par voie orale. Le telmisartan présente une très forte affinité pour le récepteur AT1 de l'angiotensine II. Il déplace l'angiotensine II de son site de fixation sur ce récepteur, responsable des effets connus de l'angiotensine II. Il n'a aucun effet agoniste partiel sur le récepteur AT1. Le telmisartan se fixe sélectivement sur le récepteur AT1. La liaison au récepteur est de longue durée. Le telmisartan n'a pas d'affinité pour d'autres récepteurs, y compris pour le récepteur AT2 et les autres récepteurs AT moins bien caractérisés. Le rôle fonctionnel de ces récepteurs n'est pas connu, de même que l'effet produit par une forte stimulation de ces récepteurs par l'angiotensine II, dont les taux sont augmentés en cas de traitement par le telmisartan. Les taux plasmatiques d'aldostérone sont abaissés en cas de traitement par le telmisartan. Le telmisartan n'inhibe pas la rénine plasmatique humaine et ne bloque pas les canaux ioniques. Le telmisartan n'inhibe pas l'enzyme de conversion de l'angiotensine (kininase II), enzyme également responsable de la dégradation de la bradykinine. Il n'y a donc pas lieu de craindre une potentialisation des effets indésirables liés à la bradykinine.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypercréatininémie (Peu fréquent) | - Hyperkaliémie (Peu fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Hémoglobinémie (diminution) (Rare) | - Enzymes hépatiques (augmentation) (Rare) | - Hyponatrémie (Rare) | - Hypoglycémie (Rare) | - CPK (augmentation) (Rare) | - Hyperuricémie (Rare) | - Eosinophilie (Rare) | DERMATOLOGIE: | - Hyperhidrose (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Eczéma (Rare) | - Urticaire (Rare) | - Eruption cutanée toxique (Rare) | - Eruption d'origine médicamenteuse (Rare) | - Erythème cutané (Rare) | DIVERS: | - Douleur thoracique (Peu fréquent) | - Asthénie (Peu fréquent) | - Douleur des extrémités (Rare) | - Syndrome pseudogrippal (Rare) | - Faiblesse | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Thrombopénie (Rare) | HÉPATOLOGIE: | - Trouble hépatique (Rare) | - Hépatopathie (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Angioedème (Rare) | - Réaction anaphylactique (Rare) | INFECTIOLOGIE NON PRECISÉE: | - Sepsis (Rare) | OPHTALMOLOGIE: | - Trouble de la vision (Rare) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Dysgueusie (Rare) | - Sécheresse buccale (Rare) | - Pharyngite | - Sinusite | PSYCHIATRIE: | - Dépression (Peu fréquent) | - Insomnie (Peu fréquent) | - Anxiété (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension orthostatique (Peu fréquent) | - Bradycardie (Peu fréquent) | - Hypotension artérielle (Peu fréquent) | - Syncope (Peu fréquent) | - Tachycardie (Rare) | SYSTÈME DIGESTIF: | - Dyspepsie (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Flatulence (Peu fréquent) | - Diarrhée (Peu fréquent) | - Gêne abdominale (Rare) | - Fonction hépatique anormale (Rare) | - Gêne gastrique (Rare) | - Angioedème intestinal | SYSTÈME MUSCULO-SQUELETTIQUE: | - Dorsalgie (Peu fréquent) | - Douleur musculaire (Peu fréquent) | - Spasme musculaire (Peu fréquent) | - Douleur articulaire (Rare) | - Douleur tendineuse (Rare) | - Sciatique | - Tendinite | SYSTÈME NERVEUX: | - Somnolence (Rare) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent) | - Infection respiratoire (Fréquent) | - Infection des voies respiratoires supérieures (Peu fréquent) | - Toux (Peu fréquent) | - Pneumopathie interstitielle (Très rare) | - Pneumopathie interstitielle diffuse (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Peu fréquent) | - Infection des voies urinaires (Peu fréquent) | - Cystite (Peu fréquent) | - Insuffisance rénale aiguë

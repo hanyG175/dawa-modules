@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_015
+DCI: Salbutamol
+Brand Names: SALBUTAMOL PHYSIOPHARM
+Pharmaceutical Forms: Sol. Buv.
+Dosages: 2MG/5ML
+Packaging: B/01 FLACON DE 125ML
+Laboratories: PHYSIOPHARM SARL
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 20A016
+Registration Numbers: 109/20 A 015/99/17 | 121/20 A 015/06
+Drug Codes: 20 A 015
+
+------------------------------------------------------------
+
+## Indications
+
+PNEUMOLOGIE
+
+## Mechanism Of Action
+
+BRONCHODILATATEURS & ANTI-ASTHMATIQUES

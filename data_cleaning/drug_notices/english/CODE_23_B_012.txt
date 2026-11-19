@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_B_012
+DCI: Hexetidine
+DrugBank ID: DB08958
+DrugBank Name: Hexetidine
+Brand Names: DAD MOUTH WASH | ORALVEX
+Pharmaceutical Forms: Sol. P. Bain De Bouche | Sol.Bain.Bouche
+Dosages: 0.001 | 0.1%
+Packaging: b/1fl. de 125ml | flacon/200 ml
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: A01AB12
+Registration Numbers: 055/23 B 012/98 | 285/23 B 012/12/17
+Drug Codes: 23 B 012
+
+------------------------------------------------------------
+
+## Description
+
+A bactericidal and fungicidal antiseptic. It is used as a 0.1% mouthwash for local infections and oral hygiene.

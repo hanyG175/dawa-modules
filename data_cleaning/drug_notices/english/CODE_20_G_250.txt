@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_G_250
+DCI: Calfactant
+DrugBank ID: DB06415
+DrugBank Name: Calfactant
+Brand Names: INFASURF
+Pharmaceutical Forms: Suspension
+Dosages: 35mg/ml
+Packaging: b/1 flacon de 3ml (105 mg de phospholipides/3ml) et b/1fl de 6 ml (210 mg de phospholipides/6ml)
+Registration Numbers: 225/20 G 250/18
+Drug Codes: 20 G 250
+
+------------------------------------------------------------
+
+## Description
+
+Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C. Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+
+## Mechanism Of Action
+
+Pulmonary surfactant is an endogenous substance produced in the lungs that functions to decrease surface tension at the air:fluid interface on the alveolar surface. In premature infants with pulmonary surfactant deficiency, surface tension can increase to the point where sections of lung collapse and respiratory distress syndrome (RDS) develops. Calfactant adsorbs rapidly to the surface of the alveolar air:fluid interface and modifies surface tension to a minimum of less than 3 mN/m. It acts in a manner similar to natural lung surfactant, thus preventing or treating respiratory distress syndrome.
+
+## Absorption
+
+Calfactant is administered directly to the lung lumen surface where it acts. No human studies on absorption have been completed.
+
+## Volume Of Distribution
+
+No human studies on the distribution of calfactant have been performed.
+
+## Metabolism
+
+Endogenous lung surfactant is produced and excreted by Type II alveolar pneumocytes to form a surface monolayer across the alveoli through adsorption. Through repeated contraction and expansion of an alveolus, this monolayer degrades and the surfactant is taken back up into the Type II alveolar pneumocyte for re-packaging. No human studies on the metabolism of calfactant have been completed, but it is likely metabolized through a similar mechanism to endogenous pulmonary surfactant.
+
+## Route Of Elimination
+
+No human studies on elimination of calfactant have been completed.
+
+## Half Life
+
+Half time clearance from the lung lumen was reported as 12 hours in a study of normal rabbits.
+
+## Clearance
+
+No human studies on the metabolism and elimination of calfactant have been performed.
+
+## Toxicity
+
+Carcinogenesis and animal reproduction studies have not been performed with calfactant. A single mutagenicity study produced a negative Ames assay. Overdose with calfactant has not yet been reported, but it is recommended that in the case of an overdose ventilation should be supported until all excess fluid is cleared from the lungs. Cyanosis, bradycardia and airway obstruction have been reported with administration of calfactant.

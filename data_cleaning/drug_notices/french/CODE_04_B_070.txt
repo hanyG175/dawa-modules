@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_070
+DCI: CYANOCOBALAMINE 1 mg/4 ml sol buv/inj (VITAMINE B12 GERDA)
+Brand Names: MAFEPAIN
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/20
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01X - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA20 - LARMES ARTIFICIELLES ET DIVERSES AUTRES PREPARATIONS
+Registration Numbers: 190/04 B 070/14
+Drug Codes: 04 B 070
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : jeter le récipient unidose après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Cicatrisation cornéenne, trouble (de la), traitement d'appoint (du) | Posologie standard | 1 gte 3 à 4 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Sujet porteur de lentilles de contact | Traitement concomitant par un collyre
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cyanocobalamine : Mécanisme d'action | La cyanocobalamine ou vitamine B12, par voie systémique, agit comme facteur hématopoïétique. | Par voie ophtalmique, la cyanocobalamine est à visée cicatrisante.
+
+## Adverse Effects
+
+IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | OPHTALMOLOGIE: | - Gêne oculaire | - Sensation de brûlure dans l?oeil | - Irritation oculaire | - Picotement oculaire

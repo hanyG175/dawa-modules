@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_090
+DCI: Risperidone
+DrugBank ID: DB00734
+DrugBank Name: Risperidone
+Brand Names: RISPERIDONE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 2MG
+Packaging: B/60
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 4140.00 DA
+PPA (DA): 4140.00 DA
+Prescription List: Liste I
+ATC Classification: N05AX08
+Registration Numbers: 001/16 D 090/08/23 | 035/16 D 090/11/25 | 235/16 D 090/15/22 | 263/16 D 090/10/25 | 268/16 D 090/19/24 | 352/16 D 090/10/25 | 447/16 D 090/12 | 468/16 D 090/14
+Drug Codes: 16 D 090
+
+------------------------------------------------------------
+
+## Description
+
+Risperidone is a second-generation antipsychotic (SGA) medication used in the treatment of a number of mood and mental health conditions including schizophrenia and bipolar disorder. 16 It is one of the most widely used SGAs. Paliperidone , another commonly used SGA, is the primary active metabolite of risperidone (i.e. 9-hydroxyrisperidone). 16 Schizophrenia and various mood disorders are thought to be caused by an excess of dopaminergic D2 and serotonergic 5-HT2A activity, resulting in overactivity of central mesolimbic pathways and mesocortical pathways, respectively. Risperidone is thought to reduce this overactivity through inhibition of dopaminergic D2 receptors and serotonergic 5-HT2A receptors in the brain. 16 Risperidone binds with a very high affinity to 5-HT2A receptors, approximately 10-20 fold greater than the drug's binding affinity to D2 receptors, and carries lesser activity at several off-targets which may responsible for some of its undesirable effects. 16
+
+## Pharmacodynamics
+
+The primary action of risperidone is to decrease dopaminergic and serotonergic pathway activity in the brain, therefore decreasing symptoms of schizophrenia and mood disorders. 3 , 4 Risperidone has a high binding affinity for serotonergic 5-HT2A receptors when compared to dopaminergic D2 receptors in the brain. 2 , 3 Risperidone binds to D2 receptors with a lower affinity than first-generation antipsychotic drugs, which bind with very high affinity. A reduction in extrapyramidal symptoms with risperidone, when compared to its predecessors, is likely a result of its moderate affinity for dopaminergic D2 receptors. 7 , 5
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 2A Antagonist D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Well absorbed. The absolute oral bioavailability of risperidone is 70% (CV=25%). The relative oral bioavailability of risperidone from a tablet is 94% (CV=10%) when compared to a solution. 16
+
+## Volume Of Distribution
+
+The volume of distribution of risperidone is approximately 1 to 2 L/kg. 16
+
+## Metabolism
+
+Extensively metabolized by hepatic cytochrome P450 2D6 isozyme to 9-hydroxyrisperidone (i.e. paliperidone ), which has approximately the same receptor binding affinity as risperidone. 6 , 9 Hydroxylation is dependent on debrisoquine 4-hydroxylase and metabolism is sensitive to genetic polymorphisms in debrisoquine 4-hydroxylase. 7 , 9 Risperidone also undergoes N-dealkylation to a lesser extent. 7 , 9 Hover over products below to view reaction partners Risperidone 9-hydroxyrisperidone
+
+## Route Of Elimination
+
+Risperidone is extensively metabolized in the liver. In healthy elderly subjects, renal clearance of both risperidone and 9-hydroxyrisperidone was decreased, and elimination half-lives are prolonged compared to young healthy subjects. 9 , 15
+
+## Half Life
+
+3 hours in extensive metabolizers 9 Up to 20 hours in poor metabolizers 9
+
+## Clearance
+
+Risperidone is cleared by the kidneys. Clearance is decreased in the elderly and those with a creatinine clearance (ClCr) between 15-59 mL/min, in whom clearance is decreased by approximately 60%. 15
+
+## Toxicity
+
+Symptoms of overdose include lethargy, dystonia/spasm, tachycardia, bradycardia, and seizures. LD 50 =57.7 mg/kg (rat, oral) and 34 mg/kg (rat, intravenous). 5 , 6 , 7

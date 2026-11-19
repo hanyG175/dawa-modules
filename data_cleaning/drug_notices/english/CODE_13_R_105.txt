@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_105
+DCI: Amphotericine B
+DrugBank ID: DB00681
+DrugBank Name: Amphotericin B
+Brand Names: AMPHOTRET | FUNGIZONE
+Pharmaceutical Forms: Poudre
+Dosages: 50 mg | 50mg
+Packaging: b/01 | boite d'un flacon de 10ml
+Laboratories: Medipha Sante | Les Fjords Immeuble Oslo | 19 Avenue De Norvege | 91140 VILLEBON-SUR-YVETTE
+ATC Classification: J02AA01
+Registration Numbers: 017/13 R 105/99/16 | 588/13 R 105/23
+Drug Codes: 13 R 105
+
+------------------------------------------------------------
+
+## Description
+
+Amphotericin B shows a high order of in vitro activity against many species of fungi. Histoplasma capsulatum, Coccidioides immitis, Candida species, Blastomyces dermatitidis, Rhodotorula, Cryptococcus neoformans, Sporothrix schenckii, Mucor mucedo, and Aspergillus fumigatus are all inhibited by concentrations of amphotericin B ranging from 0.03 to 1.0 mcg/mL in vitro. While Candida albicans is generally quite susceptible to amphotericin B, non-albicans species may be less susceptible. Pseudallescheria boydii and Fusarium sp. are often resistant to amphotericin B. The antibiotic is without effect on bacteria, rickettsiae, and viruses.
+
+## Pharmacodynamics
+
+Amphotericin B shows a high order of in vitro activity against many species of fungi. Histoplasma capsulatum , Coccidioides immitis , Candida species , Blastomyces dermatitidis , Rhodotorula , Cryptococcus neoformans , Sporothrix schenckii , Mucor mucedo , and Aspergillus fumigatus are all inhibited by concentrations of amphotericin B ranging from 0.03 to 1.0 mcg/mL in vitro . While Candida albicans is generally quite susceptible to amphotericin B, non- albicans species may be less susceptible. Pseudallescheria boydii and Fusarium sp. are often resistant to amphotericin B. The antibiotic is without effect on bacteria, rickettsiae, and viruses.
+
+## Mechanism Of Action
+
+Ergosterol (Candida albicans) Binder
+
+## Absorption
+
+Bioavailability is 100% for intravenous infusion.
+
+## Metabolism
+
+Exclusively renal
+
+## Half Life
+
+An elimination half-life of approximately 15 days follows an initial plasma half-life of about 24 hours.
+
+## Clearance
+
+39 +/- 22 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 1 mg/kg/day at Day 1] 17 +/- 6 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 1 mg/kg/day 3-20 days later] 51 +/- 44 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 2.5 mg/kg/day at Day 1] 22 +/- 15 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 2.5 mg/kg/day 3-20 days later] 21 +/- 14 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 5 mg/kg/day at Day 1] 11 +/- 6 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 5 mg/kg/day 3-20 days later]
+
+## Toxicity
+
+Oral, rat: LD 50 = >5 gm/kg. Amphotericin B overdoses can result in cardio-respiratory arrest.

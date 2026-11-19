@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_A_166
+DCI: TICAGRELOR 90 mg cp (TICAGRELOR BIOGARAN)
+Brand Names: BRILIQUE | PLAXELOR
+Pharmaceutical Forms: Comprimé
+Dosages: 90mg
+Packaging: b/60 | b/60 et b/100
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AC - INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, HEPARINE EXCLUE | B01AC24 - TICAGRELOR
+Registration Numbers: 256/12 A 166/13 | 447/12 A 166/23
+Drug Codes: 12 A 166
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | ticagrélor : 90 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | En cas d'oubli : ne pas prendre la dose oubliée puis reprendre le trt comme initialement prévu | En cas de difficulté à déglutir, écraser le comprimé | Possibilité d'administrer par sonde nasogastrique | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Athérothrombose en cas de syndrome coronaire aigu, trt préventif associé à l'aspirine (de l') | Dose de charge | 180 mg en 1 prise ce jour | Dose ultérieure | 90 mg 2 fois par jour | Pendant 12 mois | Athérothrombose en cas d'antécédent d'IDM chez le sujet à haut risque, trt prév assoc à l'aspirine | Posologie standard | Dosage non adapté | 60 mg 2 fois par jour
+
+## Precautions
+
+Accident vasculaire cérébral ischémique, antécédent(d') | Allaitement | Antécédent d'asthme | Asthme | Bronchopneumopathie chronique obstructive | Bronchopneumopathie chronique obstructive, antécédent(de) | Femme susceptible d'être enceinte | Goutte, antécédent | Grossesse | Hémorragie gastro-intestinale | Hémorragie gastro-intestinale, antécédent récent (d') | Hyperuricémie, antécédent | Insuffisance cardiaque | Insuffisance hépatique modérée | Intervention chirurgicale | Néphropathie uricémique | Patient en hémodialyse | Sujet à risque de bradycardie | Sujet à risque hémorragique | Sujet de moins de 18 ans | Syndrome coronaire aigu | Syndrome coronaire aigu, antécédent (de) | Thrombopénie induite par l'héparine | Transfusion sanguine | Traumatisme, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Ticagrélor : Mécanisme d'action | Le ticagrélor appartient à la classe chimique des cyclopentyltriazolopyrimidines (CPTP), antagoniste sélectif du P2Y | 12 | , récepteur plaquettaire de l' | adénosine | diphosphate (ADP) qui empêche l'activation et l'agrégation plaquettaires déclenchées par l'ADP. Le ticagrélor est actif par voie orale et interagit de façon réversible avec le récepteur plaquettaire de l'ADP-P2Y | 12 | . Le ticagrélor n'interagit pas avec le site de fixation de l'ADP lui-même mais son interaction avec le récepteur plaquettaire de l'ADP-P2Y | 12 | empêche la transduction du signal.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperuricémie (Très fréquent) | - Créatininémie (augmentation) (Fréquent) | DERMATOLOGIE: | - Hémorragie cutanée (Fréquent) | - Prurit (Fréquent) | - Eruption cutanée (Fréquent) | - Pétéchie | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Hémorragie vaginale (Peu fréquent) | - Hémorragie post-ménopausique (Peu fréquent) | HÉMATOLOGIE: | - Hémorragie (Très fréquent) | - Trouble de la coagulation (Très fréquent) | - Hémorragie tumorale (Peu fréquent) | - Ecchymose (Très fréquent) | - Hémorragie sous-cutanée (Fréquent) | - Hémorragie post-intervention (Fréquent) | - Contusion (Fréquent) | - Hématome (Très fréquent) | - Hémorragie post-traumatique (Fréquent) | - Diathèse hémorragique | - Purpura thrombopénique thrombotique | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Peu fréquent) | - Hypersensibilité (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Goutte (Fréquent) | OPHTALMOLOGIE: | - Hémorragie rétinienne (Peu fréquent) | - Hémorragie oculaire (Peu fréquent) | - Hémorragie conjonctivale (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Epistaxis (Fréquent) | - Gingivorragie (Fréquent) | - Sensation de vertige (Fréquent) | - Hémorragie auriculaire (Peu fréquent) | PSYCHIATRIE: | - Confusion mentale (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle (Fréquent) | - Syncope (Fréquent) | - Bradyarythmie | - Bloc auriculoventriculaire | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Constipation (Fréquent) | - Hémorragie gastro-intestinale (Fréquent) | - Hémorragie rétropéritonéale (Peu fréquent) | - Dyspepsie (Fréquent) | - Ulcère digestif hémorragique (Fréquent) | - Diarrhée (Fréquent) | - Rectorragie (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Arthrite microcristalline (Fréquent) | - Hémorragie musculaire (Peu fréquent) | - Hémarthrose (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hémorragie intracrânienne (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée paroxystique (Très fréquent) | - Hémoptysie (Fréquent) | - Dyspnée d'effort (Très fréquent) | - Dyspnée (Très fréquent) | - Dyspnée de repos (Très fréquent) | - Hémorragie du tractus respiratoire (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Cystite hémorragique (Fréquent) | - Hémospermie (Peu fréquent) | - Hémorragie du tractus urinaire (Fréquent) | - Hématurie (Fréquent) | - Hémorragie urogénitale

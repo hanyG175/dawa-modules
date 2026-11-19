@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_A_007
+DCI: Glycocolle
+DrugBank ID: DB00145
+DrugBank Name: Glycine
+Brand Names: URO 3000 GLYCOCOLLE AGUETTANT
+Pharmaceutical Forms: Sol. P. Irrigation Vesicale
+Dosages: 0.015
+Packaging: b/4 poch. de 3000ml
+Registration Numbers: 075/26 A 007/98
+Drug Codes: 26 A 007
+
+------------------------------------------------------------
+
+## Description
+
+A non-essential amino acid. It is found primarily in gelatin and silk fibroin and used therapeutically as a nutrient. It is also a fast inhibitory neurotransmitter.
+
+## Pharmacodynamics
+
+Helps trigger the release of oxygen to the energy requiring cell-making process; Important in the manufacturing of hormones responsible for a strong immune system.
+
+## Mechanism Of Action
+
+Glutamate receptor ionotropic, NMDA 2A Antagonist
+
+## Absorption
+
+Absorbed from the small intestine via an active transport mechanism.
+
+## Metabolism
+
+Hepatic Hover over products below to view reaction partners Glycine Methylamine Dihydrolipoamide Lipoic acid
+
+## Toxicity
+
+ORL-RAT LD 50 7930 mg/kg, SCU-RAT LD 50 5200 mg/kg, IVN-RAT LD 50 2600 mg/kg, ORL-MUS LD 50 4920 mg/kg; Doses of 1 gram daily are very well tolerated. Mild gastrointestinal symptoms are infrequently noted. In one study doses of 90 grams daily were also well tole.

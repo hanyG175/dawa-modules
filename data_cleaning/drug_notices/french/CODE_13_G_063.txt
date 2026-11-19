@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_063
+DCI: BENZATHINE BENZYLPENICILLINE 1,2 M UI pdre/solv p susp inj (EXTENCILLINE) | BENZYLPENICILLINE SODIQUE 1 M UI pdre p sol inj (PENICILLINE G PANPHARMA)
+Brand Names: GECTAPEN | PENI G BIOCARE
+Pharmaceutical Forms: Poudre | Poudre P. Susp. Inj. Im
+Dosages: 1 m.UI/fl. de pdre. | 1mui/flc
+Packaging: b/01 flacon. de pdre. + 01 ampoule. de 5ml de solv.(eppi) et b/50fl. de pdre. | b/flc de pdre et 1amp 5ml
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CE - PENICILLINES SENSIBLES AUX BETALACTAMASES | J01CE08 - BENZATHINE BENZYLPENICILLINE
+Registration Numbers: 003/13 G 063/98/21 | 293/13 G 063/11
+Drug Codes: 13 G 063
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | flacon | benzathine benzylpénicilline : 1.2 M UI | Modalités d'administration | Voie intramusculaire | A reconstituer immédiatement avant administration | Administrer par voie intramusculaire lente | Administrer par voie intramusculaire stricte | Posologie à adapter à l'état du patient | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient jusqu'à 30 mois | Patient quel que soit le poids | Syphilis | Posologie standard | Dans le cas de : Syphilis congénitale | 0,05 M UI/kg 1 fois ce jour | Patient de 1 mois à 12 an(s) | Patient quel que soit le poids | Syphilis | Posologie standard | Dans le cas de : Syphilis précoce | Traitement à renouveler si besoin | 0,05 M UI/kg 1 fois ce jour | Posologie maximale: 2,4 M UI par jour | Dans le cas de : Syphilis tardive | 0,05 M UI/kg 1 fois par semaine | Pendant 3 semaines | Posologie maximale: 2,4 M UI par jour | Poids = 30 kg | Pian - Pinta | Posologie standard | 1,2 M UI 1 fois ce jour | Erysipèle | Posologie standard | 1,2 M UI 1 fois par semaine | Erysipèle récidivant, traitement préventif (de l') - Glomérulonéphrite post-streptococcique, traitement préventif (de la) - Rhumatisme articulaire aigu, traitement préventif (du) | Posologie standard | 1,2 M UI 1 fois ce jour toutes les 3 à 4 semaines | Patient à partir de 12 an(s) | Patient quel que soit le poids | Syphilis | Posologie standard | Dans le cas de : Syphilis précoce | Traitement à renouveler si besoin | 2,4 M UI 1 fois ce jour | Dans le cas de : Syphilis tardive | 2,4 M UI 1 fois par semaine | Pendant 3 semaines | Pian - Pinta | Posologie standard | 1,2 M UI 1 fois ce jour | Erysipèle | Posologie standard | 1,2 M UI 1 fois par semaine | Erysipèle récidivant, traitement préventif (de l') - Glomérulonéphrite post-streptococcique, traitement préventif (de la) - Rhumatisme articulaire aigu, traitement préventif (du) | Posologie standard | 1,2 M UI 1 fois ce jour toutes les 3 à 4 semaines | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Asthme | Diabète | Enfant de moins de 12 ans | Grossesse | Insuffisance hépatique | Insuffisance rénale | Mycose cutanée | Patient en hémodialyse | Patient traité à posologie élevée | Sujet allergique | Syphilis | Syphilis congénitale | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Benzylpénicilline : Mécanisme d'action | La benzylpénicilline est un antibiotique antibactérien du groupe des bêtalactamines, de la famille des benzylpénicillines. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : | S 16 mg/l ; | CMI (concentration minimale bactéricide) pneumocoque : S 1 mg/l. | Espèces sensibles : | aérobies à Gram + : | Corynebacterium diphtheriae | , | Erysipelothrix rhusiopathiae | , | Listeria monocytogenes | , | Streptococcus | , | Streptococcus pneumoniae | ; | aérobies à Gram - : | Neisseria gonorrhoeae | , | Neisseria meningitidis | , | Moraxella lacunata | , | Pasteurella multocida | , | Streptobacillus moniliformis | ; | anaérobies : | Actinomyces israelii | , | Clostridium | , | Clostridium perfringens | , | Fusobacterium | , | Peptostreptococcus | , | Porphyromonas | , | Prevotella | , | Propionibacterium acnes | , | Veillonella | ; | autres : | Borrelia | , | Leptospira | , | Treponema | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram + : | Enterococcus faecalis | , | Enterococcus faecium | ; | aérobies à Gram - : | Haemophilus influenzae | . | Espèces résistantes : | aérobies à Gram + : | Staphylococcus | ; | aérobies à Gram - : aérobies stricts à Gram négatif non fermentaires ( | Acinetobacter | , | Pseudomonas | , etc.), | Branhamella catarrhalis | , Entérobactéries, | Legionella | ; | autres : | Chlamydia | , Mycobactéries, | Mycoplasma | , | Rickettsia | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Test de coombs positif (Fréquent) | DERMATOLOGIE: | - Erythème polymorphe (Rare) | - Dermatite exfoliative (Rare) | - Syndrome de Lyell | - Syndrome de Stevens-Johnson | - Urticaire | - Pemphigoïde bulleuse | - Purpura | DIVERS: | - Fièvre (Rare) | - Granulome inflammatoire (Très rare) | - Effet lié à une injection intravasculaire accidentelle | - Réaction locale | HÉMATOLOGIE: | - Agranulocytose (Très rare) | - Anémie hémolytique (Très rare) | - Thrombopénie | - Leucopénie | HÉPATOLOGIE: | - Cholestase | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Réaction anaphylactoïde (Rare) | - Choc anaphylactique (Exceptionnel) | - Maladie sérique | - Réaction d'Herxheimer | - Oedème de Quincke | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose | INSTRUMENTATION: | - Douleur au point d'injection | - Infiltrat au site d'injection | ORL, STOMATOLOGIE: | - Stomatite (Peu fréquent) | - Glossite (Peu fréquent) | PSYCHIATRIE: | - Confusion mentale | SYSTÈME CARDIOVASCULAIRE: | - Collapsus cardiovasculaire (Rare) | - Syndrome de Nicolau | - Syndrome de Hoigné | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Trouble digestif | - Diarrhée | - Colite pseudomembraneuse | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Rare) | SYSTÈME NERVEUX: | - Neuropathie (Rare) | - Altération de la conscience | - Mouvement anormal | - Epilepsie | - Encéphalopathie | SYSTÈME RESPIRATOIRE: | - Asthme | UROLOGIE, NÉPHROLOGIE: | - Néphropathie interstitielle (Rare) | - Néphropathie

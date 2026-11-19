@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_151
+DCI: Ciclopirox
+DrugBank ID: DB01188
+DrugBank Name: Ciclopirox
+Brand Names: MYCOSTER
+Pharmaceutical Forms: Solution
+Dosages: 0.08
+Packaging: f/3ml
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: D01AE14
+Registration Numbers: 099/07 D 151/07/24
+Drug Codes: 07 D 151
+
+------------------------------------------------------------
+
+## Description
+
+Ciclopirox olamine (used in preparations called Batrafen, Loprox, Mycoster, Penlac and Stieprox) is a synthetic antifungal agent for topical dermatologic treatment of superficial mycoses. In particular, the agent is especially effective in treating Tinea versicolor.
+
+## Pharmacodynamics
+
+Ciclopirox is a broad-spectrum antifungal medication that also has antibacterial and anti-inflammatory properties. Its main mode of action is thought to be its high affinity for trivalent cations, which inhibit essential co-factors in enzymes. Ciclopirox exhibits either fungistatic or fungicidal activity in vitro against a broad spectrum of fungal organisms, such as dermatophytes, yeasts, dimorphic fungi, eumycetes, and actinomycetes. In addition to its broad spectrum of action, ciclopirox also exerts antibacterial activity against many Gram-positive and Gram-negative bacteria. Furthermore, the anti-inflammatory effects of ciclopirox have been demonstrated in human polymorphonuclear cells, where ciclopirox has inhibited the synthesis of prostaglandin and leukotriene. Ciclopirox can also exhibit its anti-inflammatory effects by inhibiting the formation of 5-lipoxygenase and cyclooxygenase.
+
+## Mechanism Of Action
+
+Sodium/potassium-transporting ATPase subunit alpha-1 Binder
+
+## Absorption
+
+Rapidly absorbed after oral administration. Mean absorption of ciclopirox after application to nails of all twenty digits and adjacent 5 millimeters of skin once daily for 6 months in patients with dermatophytic onychomycoses was less than 5% of the applied dose. Ciclopirox olamine also penetrates into hair and through the epidermis and hair follicles into sebaceous glands and dermis.
+
+## Metabolism
+
+Glucuronidation is the main metabolic pathway of ciclopirox.
+
+## Route Of Elimination
+
+Most of the compound is excreted either unchanged or as glucuronide. After oral administration of 10 mg of radiolabeled drug (14C-ciclopirox) to healthy volunteers, approximately 96% of the radioactivity was excreted renally within 12 hours of administration. Ninety-four percent of the renally excreted radioactivity was in the form of glucuronides.
+
+## Half Life
+
+1.7 hours for 1% topical solution.
+
+## Toxicity
+
+Oral LD 50 in rat is >10 ml/kg. Symptoms of overexposure include drowsiness and headache.

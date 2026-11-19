@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Dict, Any
 
-from src.engines.google_drive.service import GoogleDriveOCRModule
+from src.google_ocr.service import GoogleDriveOCRModule
 from src.core.parsing.french_medical_parser import FrenchDrugNoticeParser
 
 class MedicalOCRPipeline:

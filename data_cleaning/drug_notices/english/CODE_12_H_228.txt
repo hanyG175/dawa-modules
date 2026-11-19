@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_H_228
+DCI: Eftrenonacog Alpha
+DrugBank ID: DB11608
+DrugBank Name: Eftrenonacog alfa
+Brand Names: ALPROLIX 3000
+Pharmaceutical Forms: Poudre
+Dosages: 3000ui
+Packaging: boite d'un flacon
+Registration Numbers: 533/12 H 228/23
+Drug Codes: 12 H 228
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+In two multinational, phase III studies in previously treated children, adolescents and adults with severe haemophilia B, eftrenonacog alfa prophylaxis resulted in low median annualized bleeding rates (ABRs), and was associated with reductions in median weekly factor consumption and dosing frequency compared with pre-study FIX regimens. The extension of those studies demonstrated effectiveness in the treatment of bleeding episodes and when used in the perioperative setting in all age groups 1 . In animal models, a single intravenous dose of eftrenonacog alfa displayed half values approximately three- to four-fold longer than those seen with recombinant FIX 1 .
+
+## Mechanism Of Action
+
+IgG receptor FcRn large subunit p51 Ligand
+
+## Absorption
+
+Following administration of a single intravenous dose of 50 IU/kg of eftrenonacog alfa in patients ≥19 years of age with hemophilia B, the mean peak plasma concentration (Cmax) was 46.10 IU/dL Label . The mean area under the FIX activity time curve (AUC) was 31.58 Uxh/dL per IU/kg Label . In pediatric and adolescent patients (< 18 years of age) receiving the same dose, the mean AUC ranged from 22.71 to 29.50 Uxh/dL per IU/kg Label .
+
+## Volume Of Distribution
+
+Following administration of a single intravenous dose of 50 IU/kg of eftrenonacog alfa in patients ≥19 years of age with hemophilia B, the mean volume of distribution at steady-state (Vss) was 303.4 mL/kg Label . In pediatric and adolescent patients (< 18 years of age) receiving the same dose, the mean Vss ranged from 289 to 365.1 mL/kg Label .
+
+## Metabolism
+
+The Fc domain of eftrenonacog alfa is expected to undergo lysosomal degradation while the remaining recombinant FIX (rFIX) portion is expected to be metabolized by the same pathway as endogenous factor IX.
+
+## Route Of Elimination
+
+Eftrenonacog alfa is expected to undergo renal clearance 2 .
+
+## Half Life
+
+Following administration of a single intravenous dose of 50 IU/kg of eftrenonacog alfa in patients ≥19 years of age with hemophilia B, the mean terminal half life (t1/2) was 77.6 hours Label . In pediatric and adolescent patients (< 18 years of age) receiving the same dose, the mean t1/2 ranged from 66.49 to 82.22 hours Label .
+
+## Clearance
+
+Following administration of a single intravenous dose of 50 IU/kg of eftrenonacog alfa in patients ≥19 years of age with hemophilia B, the mean clearance (CL) was 3.17 mL/h/kg Label . In pediatric and adolescent patients (< 18 years of age) receiving the same dose, mean CL ranged from 3.390 to 4.365 mL/h/kg Label .
+
+## Toxicity
+
+Based on findings from a rabbit thrombogenicity test and rat or monkey repeated-dose toxicity studies, eftrenonacog alfa displays no special hazards for humans. Studies to investigate the genotoxicity, carcinogenicity, toxicity to reproduction or embryo-foetal development have not been conducted. Eftrenonacog alfa has shown to cross the placenta in small amounts according to a mouse placental transfer study Label .

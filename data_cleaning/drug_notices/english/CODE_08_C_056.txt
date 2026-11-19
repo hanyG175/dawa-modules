@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_056
+DCI: Iopromide
+DrugBank ID: DB09156
+DrugBank Name: Iopromide
+Brand Names: ULTRAVIST 370
+Pharmaceutical Forms: Solution
+Dosages: 768.86mg/ml (teneur en iode 370mg/ml)
+Packaging: b/1fl. de 50ml - b/1fl. de 100 ml - b/10fl. de 50ml - b/10fl. de 100ml
+Registration Numbers: 424/08 C 056/00/13
+Drug Codes: 08 C 056
+
+------------------------------------------------------------
+
+## Description
+
+Iopromide is a low osmolar, non-ionic X-ray contrast agent for intravascular administration. It functions as a contrast agent by opacifying blood vessels in the flow path of the contrast agent, permitting radiographic visualization of the internal structures until significant hemodilution occurs. 1 Although iopromide can cause several serious adverse effects, including cardiac events, thromboembolism, hypersensitivity reaction, and even death if administered intrathecally inadvertently, it is still deemed to have a favorable safety profile, with only 0.7% of patients in a 2 years study experiencing adverse events. 2 Although the mechanism is unclear, women and outpatients tend to have a higher incidence of adverse events compared to other population groups. 2 Approved by the FDA in 1995 and Health Canada in 1994 under the brand name ULTRAVIST, iopromide is used in radiological diagnosis, including, but not limited to, intra-arterial digital subtraction angiography (IA-DSA), cerebral and peripheral arteriography, peripheral venography, excretory urography, brain computer tomography (CT), coronary arteriography, left ventriculography, visceral angiography, and orthography. 3 , 6
+
+## Pharmacodynamics
+
+After intravenous injection, opacification of the renal parenchyma begins within 1 minute. Excretion of the contrast agent becomes apparent in 1 to 3 minutes with optimal contrast in the calyces and collecting system occurring between 5 and 15 minutes. In nephropathic conditions, particularly when excretory capacity has been altered, the excretion rate varies unpredictably and opacification may be delayed for several hours after injection. 6 the degree of contrast enhancement is related to the iodine concentration in the tissue of interest. 3
+
+## Mechanism Of Action
+
+Iopromide is a nonionic iodinated, water-soluble, radiographic contrast medium that is available in two stable, ready-to-use solutions of different concentrations (i.e., 300 mg I/mL and 370 mg I/mL). Following intravascular injection, iopromide provides radiographic opacification of the vasculature and extracellular space in the path of flow of the agent, allowing diagnostic assessment of the limbs and internal organs until significant dilution occurs. 6
+
+## Absorption
+
+Immediately following intravascular injection, iopromide reaches peak plasma concentrations and is then rapidly distributed throughout the extracellular fluid compartment. It displays little tendency to bind to serum or plasma proteins. 6 Iodinated contrast agents cross a disrupted blood-brain barrier. 3
+
+## Volume Of Distribution
+
+The total volume of distribution at steady state is about 16 L, suggesting distribution into extracellular space. 3
+
+## Metabolism
+
+Iopromide does not undergo significant metabolism, deiodination, or biotransformation. 3
+
+## Route Of Elimination
+
+The amounts excreted unchanged in urine represent 97% of the dose in adult healthy subjects. Only 2% of the dose is recovered in the feces. Similar recoveries in urine and feces are observed in middle-aged and elderly patients. This finding suggests that, compared to the renal route, biliary and/or gastrointestinal excretion is not important for iopromide. During the slower terminal phase, only 3% of the dose is eliminated; 97% of the dose is disposed of during the earlier phases, the largest part of which occurs during the main elimination phase. 3 The ratio of the renal clearance of iopromide to the creatinine clearance is 0.82, suggesting that iopromide is mainly excreted by glomerular filtration. Additional tubular reabsorption is possible. 3
+
+## Half Life
+
+After intravenous administration to healthy adult subjects, the plasma iopromide concentration-time profile shows an initial distribution phase with a half-life of 0.24 hours; a main elimination phase with a half-life of 2 hours; and a terminal elimination phase with a half-life of 6.2 hours. 3
+
+## Clearance
+
+The mean total and renal clearances are 107 mL/min and 104 mL/min, respectively. 3
+
+## Toxicity
+
+There are no data on iopromide use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Iopromide crosses the placenta and reaches fetal tissues in small amounts. In animal reproduction studies, intravenous administration of iopromide to pregnant rats and rabbits during organogenesis at doses up to 0.35 and 0.7 times, respectively, the maximum recommended human dose based on body surface area resulted in no relevant adverse developmental effects. 3 The safety and efficacy of iopromide have been established in pediatric patients aged 2 years and older for radiographic evaluation of cardiac chambers and related arteries, excretory urography, and contrast computed tomography of the head and body. The use of iopromide in these age groups for these indications is supported by evidence from adequate and well-controlled studies in adults and additional safety data in pediatric patients aged 2 years and older, including data from published studies. 3 Pediatric patients who are at higher risk of experiencing an adverse reaction during and after the administration of any contrast agent include those with asthma, sensitivity to medication and/or allergens, cyanotic and acyanotic heart disease, congestive
+heart failure, or serum creatinine greater than 1.5 mg/dL. 3 Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates; Some patients were treated for hypothyroidism. After exposure to iodinated contrast media, individualize thyroid function monitoring in pediatric patients 0 to 3 years of age based on underlying risk factors, especially in term and preterm neonates. 3 The clearance of iopromide decreases with increasing degree of renal impairment and results in delayed opacification of the urinary system. In addition, preexisting renal impairment increases the risk of acute kidney injury. Iopromide can be removed by dialysis. 3 Long-term animal studies have not been performed with iopromide to evaluate carcinogenic potential or effects on fertility. Iopromide was not genotoxic in a series of studies including the Ames test, an in vitro human lymphocytes analysis of chromosomal aberrations, an in vivo mouse micronucleus assay, and an in vivo mouse dominant lethal assay. 3 The manifestations of overdosage are life-threatening and affect mainly the pulmonary and cardiovascular systems. Treatment of overdosage is directed toward the support of all vital functions, and prompt institution of symptomatic therapy. 3 The most common adverse reactions (>1%) are headache, nausea, injection site and infusion site reactions, vasodilatation, vomiting, back pain, urinary urgency, chest pain, pain, dysgeusia, and abnormal vision. Inadvertent intrathecal administration may cause death, convulsions, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, seizures, rhabdomyolysis, hyperthermia, and brain edema. 3

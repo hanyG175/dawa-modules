@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_C_028
+DCI: Mepivacaine Chlorhydrate / Adrenaline
+DrugBank ID: DB00961
+DrugBank Name: Mepivacaine
+Brand Names: MEDICAINE 2% AVEC ADRENALINE 1/100000
+Pharmaceutical Forms: Sol Inj En Carpules
+Dosages: 0.02
+Packaging: boite de 50 carpules de 1.8ml
+Registration Numbers: 242/02 C 028/06/23
+Drug Codes: 02 C 028
+
+------------------------------------------------------------
+
+## Description
+
+A local anesthetic that is chemically related to bupivacaine but pharmacologically related to lidocaine. It is indicated for infiltration, nerve block, and epidural anesthesia. Mepivacaine is effective topically only in large doses and therefore should not be used by this route. (From AMA Drug Evaluations, 1994, p168)
+
+## Pharmacodynamics
+
+Mepivicaine is an amide local anesthetic. Mepivicaine as a reasonably rapid onset and medium duration and is known by the proprietary names as Carbocaine and Polocaine. Mepivicaine is used in local infiltration and regional anesthesia. Systemic absorption of local anesthetics produces effects on the cardiovascular and central nervous systems. At blood concentrations achieved with normal therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance are minimal.
+
+## Mechanism Of Action
+
+Sodium channel protein type 10 subunit alpha Inhibitor
+
+## Absorption
+
+Absorbed locally. The rate of systemic absorption of local anesthetics is dependent upon the total dose and concentration of drug administered, the route of administration, the vascularity of the administration site, and the presence or absence of epinephrine in the anesthetic solution.
+
+## Metabolism
+
+Rapidly metabolized, with only a small percentage of the anesthetic (5 percent to 10 percent) being excreted unchanged in the urine. The liver is the principal site of metabolism, with over 50% of the administered dose being excreted into the bile as metabolites.
+
+## Route Of Elimination
+
+It is rapidly metabolized, with only a small percentage of the anesthetic (5 percent to 10 percent) being excreted unchanged in the urine.The liver is the principal site of metabolism, with over 50% of the administered dose being excreted into the bile as metabolites.
+
+## Half Life
+
+The half-life of mepivacaine in adults is 1.9 to 3.2 hours and in neonates 8.7 to 9 hours.
+
+## Toxicity
+
+The mean seizure dosage of mepivacaine in rhesus monkeys was found to be 18.8 mg/kg with mean arterial plasma concentration of 24.4 µg/mL. The intravenous and subcutaneous LD 50 in mice is 23 mg/kg to 35 mg/kg and 280 mg/kg respectively.

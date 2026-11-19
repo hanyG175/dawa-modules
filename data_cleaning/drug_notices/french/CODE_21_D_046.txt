@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_D_046
+DCI: anatoxine diphtérique
+Brand Names: OSTEOS | OSTONEL ONCE A WEEK | RISONATE
+Pharmaceutical Forms: Comprimé
+Dosages: 35mg
+Packaging: b/04
+Laboratories: Laboratoire GlaxoSmithKline
+Registration Numbers: 317/21 D 046/14/22 | 352/21 D 046/15 | 447/21 D 046/13/18
+Drug Codes: 21 D 046
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Ce vaccin est indiqué dans la prévention conjointe des infections invasives à | Haemophilus influenzae | type b (méningites, septicémies, cellulites, arthrites, épiglottites...), de la diphtérie, du tétanos, de la coqueluche et de la poliomyélite, en primovaccination chez les nourrissons à partir de 2 mois et en rappel à l'âge de 11 mois. | Ce vaccin ne protège pas contre les infections dues aux autres types d' | Haemophilus influenzae | , ni contre les méningites dues à d'autres micro-organismes. | Ce vaccin n'a été étudié que chez les enfants de moins de 3 ans.

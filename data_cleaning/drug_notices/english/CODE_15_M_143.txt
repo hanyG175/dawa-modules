@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_M_143
+DCI: Risdiplam
+DrugBank ID: DB15305
+DrugBank Name: Risdiplam
+Brand Names: EVRYSDI
+Pharmaceutical Forms: Poudre
+Dosages: 0.75mg/ml
+Packaging: boite de 01 flacon de 80
+Registration Numbers: 128/15 M 143/23
+Drug Codes: 15 M 143
+
+------------------------------------------------------------
+
+## Description
+
+Risdiplam is an orally bioavailable mRNA splicing modifier used for the treatment of spinal muscular atrophy (SMA). 5 It increases systemic SMN protein concentrations by improving the efficiency of SMN2 gene transcription. This mechanism of action is similar to its predecessor nusinersen , the biggest difference being their route of administration: nusinersen requires intrathecal administration, as does the one-time gene therapy onasemnogene abeparvovec , whereas risdiplam offers the ease of oral bioavailability. 9 , 4 Risdiplam was approved by the FDA in August 2020 for the treatment of spinal muscular atrophy (SMA). 6 , 7 Set to be substantially cheaper than other available SMA therapies, 9 risdiplam appears to provide a novel and relatively accessible treatment option for patients with SMA regardless of severity or type.
+
+## Pharmacodynamics
+
+Risdiplam helps to alleviate symptoms of spinal muscular atrophy by stimulating the production of a critical protein in which these patients are deficient. Early trials with risdiplam demonstrated up to a 2-fold increase in SMN protein concentration in SMA patients after 12 weeks of therapy. 2
+
+## Mechanism Of Action
+
+Spinal muscular atrophy (SMA) is a severe and progressive congenital neuromuscular disease resulting from mutations in the survival of motor neuron 1 ( SMN1 ) gene responsible for making SMN proteins. 3 Clinical features of SMA include degeneration of motor neurons in the spinal cord which ultimately leads to muscular atrophy and, in some cases, loss of physical strength. 1 SMN proteins are expressed ubiquitously throughout the body and are thought to hold diverse intracellular roles in DNA repair, cell signaling, endocytosis, and autophagy. 1 A secondary SMN gene ( SMN2 ) can also produce SMN proteins, but a small nucleotide substitution in its sequence results in the exclusion of exon 7 during splicing in approximately 85% of the transcripts - this means that only ~15% of the SMN proteins produced by SMN2 are functional, 1 which is insufficient to compensate for the deficits caused by SMN1 mutations. Emerging evidence suggests that many cells and tissues are selectively vulnerable to reduced SMN concentrations, making this protein a desirable target in the treatment of SMA. 1 Risdiplam is an mRNA splicing modifier for SMN2 that increases the inclusion of exon 7 during splicing, which ultimately increases the amount of functional SMN protein produced by SMN2 . 3 It does so by binding to two sites in SMN2 pre-mRNA: the 5' splice site (5'ss) of intron 7 and the exonic splicing enhancer 2 (ESE2) of exon 7. 4
+
+## Absorption
+
+The T max following oral administration is approximately 1-4 hours. 3 , 7 Following once-daily administration with a morning meal (or after breastfeeding), risdiplam reaches steady-state in approximately 7-14 days. 7 The pharmacokinetics of risdiplam were found to be approximately linear between all studied dosages in patients with SMA. 7
+
+## Volume Of Distribution
+
+Following oral administration, risdiplam distributes well into the central nervous system and peripheral tissues. 1 The apparent volume of distribution at steady-state is 6.3 L/kg. 7
+
+## Metabolism
+
+The metabolism of risdiplam is mediated primarily by flavin monooxygenases 1 and 3 (FMO1 and FMO3), with some involvement of CYP1A1, CYP2J2, CYP3A4, and CYP3A7. 7 Parent drug comprises approximately 83% of circulating drug material. 7 A pharmacologically-inactive metabolite, M1, has been identified as the major circulating metabolite - this M1 metabolite has been observed in vitro to inhibit MATE1 and MATE2-K transporters, similar to the parent drug. 7 Hover over products below to view reaction partners Risdiplam Risdiplam M1 metabolite
+
+## Route Of Elimination
+
+Following the oral administration of 18mg risdiplam, approximately 53% of the dose was excreted in the feces and 28% was excreted in the urine. 7 Unchanged parent drug comprised 14% of the dose excreted in feces and 8% of the dose excreted in urine. 7
+
+## Half Life
+
+The terminal elimination half-life of risdiplam is approximately 50 hours in healthy adults. 7
+
+## Clearance
+
+For a 14.9kg patient, the apparent clearance of risdiplam is 6.3 L/kg. 7
+
+## Toxicity
+
+Data regarding overdose of risdiplam are unavailable. Symptoms of overdose are likely to be consistent with risdiplam's adverse effect profile, and may therefore involve significant fever, diarrhea, and skin reactions. 7

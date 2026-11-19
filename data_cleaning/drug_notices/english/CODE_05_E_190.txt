@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_E_190
+DCI: Enzalutamide
+DrugBank ID: DB08899
+DrugBank Name: Enzalutamide
+Brand Names: XTANDI | XYTOVA
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 40mg
+Packaging: b/04 pochettes de 08 (112 gélule molles ) | b/120
+Registration Numbers: 001/05 E 190/25 | 374/05 E 190/17
+Drug Codes: 05 E 190
+
+------------------------------------------------------------
+
+## Description
+
+Enzalutamide is an androgen receptor (AR) inhibitor for the treatment of castration-resistant prostate cancer (CRPC), both metastatic and non-metastatic. 8 It is a second-generation antiandrogen agent that the FDA approved on August 31, 2012. 8 , 7 Although androgen deprivation therapy (ADT) is the first-line treatment of prostate cancer and remission can be achieved, arising resistance is inevitable, becoming castration-resistant prostate cancer. 7 Until recently, docetaxel is the only treatment available for metastatic CRPC; however, AR inhibitors have been developed
+
+## Pharmacodynamics
+
+Enzalutamide is a second-generation antiandrogen that blocks the activity of androgen and androgen receptor (AR) in prostate cancer. AR activity and prostate cancer progression are closely related due to the normal physiology of prostate cells, providing the rationale for androgen deprivation therapy (ADT). 4 However, resistance will eventually arise after the commencement of ADT in 2-3 years due to the accumulation of mutations, including constitutively active mutation, AR overexpression, and changes in AR splicing variants. 5 , 1 Enzalutamide was therefore designed to exploit these mutations. 3 In vitro experiments in human prostate cancer cell line VCaP showed that enzalutamide can suppress cell growth and induce apoptosis while other antiandrogens like bicalutamide did not. 3 Clinical trials on prostate cancer patients indicated that enzalutamide can lead to a decrease in serum PSA for at least 12 weeks, although this response can be short-lived and thus resulting in enzalutamide resistance. 6 , 3 Patients receiving enzalutamide also had a 37% decreased in the risk of death compared to placebo. 2
+
+## Mechanism Of Action
+
+Androgen receptor Inhibitor
+
+## Absorption
+
+The median Tmax is 1 hour (0.5 to 3 hours) following a single 160 mg dose of capsules and 2 hours (0.5 to 6 hours)
+following a single 160 mg dose of tablets. 9 Enzalutamide achieves steady-state by Day 28 and its AUC accumulates approximately 8.3-fold relative to a single dose. At steady-state, the mean (%CV) maximum concentration (Cmax) for enzalutamide and N-desmethyl enzalutamide is 16.6 µg/mL (23%) and 12.7 µg/mL (30%), respectively, and the mean (%CV) minimum concentrations (Cmin) are 11.4 µg/mL (26%) and 13.0 µg/mL (30%), respectively. 9
+
+## Volume Of Distribution
+
+The mean (%CV) volume of distribution after a single oral dose is 110 L (29%). 9
+
+## Metabolism
+
+Enzalutamide is metabolized by CYP2C8 and CYP3A4. CYP2C8 is primarily responsible for the formation of the active
+metabolite (N-desmethyl enzalutamide). Carboxylesterase 1 metabolizes N-desmethyl enzalutamide and enzalutamide to
+the inactive carboxylic acid metabolite. 9 Hover over products below to view reaction partners Enzalutamide M6 enzalutamide N-desmethyl enzalutamide Carboxyl metabolite enzalutamide (M1) Carboxyl metabolite enzalutamide (M1)
+
+## Route Of Elimination
+
+Enzalutamide is primarily eliminated by hepatic metabolism. 71% of the dose is recovered in urine (including only trace amounts of enzalutamide and N-desmethyl enzalutamide), and 14% is recovered in feces (0.4% of the dose as unchanged enzalutamide and 1% as N-desmethyl enzalutamide). 11
+
+## Half Life
+
+The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days). Following a single 160 mg oral dose of enzalutamide in healthy volunteers, the mean terminal t1/2 for N-desmethyl enzalutamide is approximately 7.8 to 8.6 days. 9
+
+## Clearance
+
+The mean apparent clearance (CL/F) of enzalutamide after a single dose is 0.56 L/h (0.33 to 1.02 L/h). 9
+
+## Toxicity
+
+In an embryo-fetal developmental toxicity study in mice, enzalutamide caused developmental toxicity when administered at oral doses of 10 or 30 mg/kg/day throughout the period of organogenesis (gestational days 6-15). Findings included embryo-fetal lethality (increased post-implantation loss and resorptions) and decreased anogenital distance at ≥ 10 mg/kg/day, and cleft palate and absent palatine bone at 30 mg/kg/day. Doses of 30 mg/kg/day caused maternal toxicity. The doses tested in mice (1, 10, and 30 mg/kg/day) resulted in systemic exposures (AUC) of approximately 0.04, 0.4, and 1.1 times, respectively, the exposures in patients. Enzalutamide did not cause developmental toxicity in rabbits when administered throughout the period of organogenesis (gestational days 6-18) at dose levels up to 10 mg/kg/day (approximately 0.4 times the exposures in patients based on AUC). 9 In a pharmacokinetic study in pregnant rats with a single oral 30 mg/kg enzalutamide administration on gestation day 14,
+enzalutamide and/or its metabolites were present in the fetus at a Cmax that was approximately 0.3 times the concentration
+found in maternal plasma and occurred 4 hours after administration. 9 Based on animal studies, XTANDI may impair fertility in males of reproductive potential. Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of XTANDI. 9 The most common adverse reactions (≥ 5%) are asthenia/fatigue, back pain, diarrhea, arthralgia, hot flush, peripheral edema, musculoskeletal pain, headache, upper respiratory infection, muscular weakness, dizziness, insomnia, lower respiratory infection, spinal cord compression and cauda equina syndrome, hematuria, paresthesia, anxiety, and hypertension. 9

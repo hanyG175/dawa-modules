@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_154
+DCI: Spiramycine
+Brand Names: SPIRAMYCINE AFRO
+Pharmaceutical Forms: Siropop
+Dosages: 0,375MUI/5ML
+Packaging: FL./150ML
+Laboratories: AFRO PHARM SPA
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 13E154
+Registration Numbers: 003/13 E 154/09/20 | 073/13 E 154/19/24 | 503/13 E 154/17
+Drug Codes: 13 E 154
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+MACROLIDES & SYNERGISTINES

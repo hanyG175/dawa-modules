@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_248
+DCI: DOCETAXEL 20 mg/ml sol diluer p perf (DOCETAXEL ARROW)
+DrugBank ID: DB01248
+DrugBank Name: Docetaxel
+Brand Names: DOCETAXEL IMGSA
+Pharmaceutical Forms: Solution
+Dosages: 20mg/ml
+Packaging: b/1 flc
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01C - ALCALOÏDES VEGETAUX ET AUTRES MEDICAMENTS D'ORIGINE NATURELLE | L01CD - TAXANES | L01CD02 - DOCETAXEL
+Registration Numbers: 556/05 G 248/24
+Drug Codes: 05 G 248
+
+------------------------------------------------------------
+
+## Description
+
+Docetaxel is a clinically well established anti-mitotic chemotherapy medication used for the treatment of different types of cancer, including breast, ovarian, and non-small cell lung cancer. Docetaxel is a complex diterpenoid molecule and a semisynthetic analogue of paclitaxel . 6 , 7 Docetaxel reversibly binds to microtubulin with high affinity in a 1:1 stoichiometric ratio, allowing it to prevent cell division and promote to cell death. 6 Compared to paclitaxel, docetaxel is two times more potent as an inhibitor of microtubule depolymerization. Docetaxel binds to microtubules but does not interact with dimeric tubulin. 5 The use of docetaxel may lead to udesired outcomes such as hepatic impairment, hematologic effects, enterocolitis and neutropenic colitis, hypersensitivity reactions, fluid retention, second primary malignancies, embryo-fetal toxicity, and tumor lysis syndrome. 7 Docetaxel was approved by the FDA in 1996 and is available in solution for injection for intravenous or parenteral administration. 6
+
+## Pharmacodynamics
+
+Docetaxel is a taxoid antineoplastic agent. It promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network which is essential for vital interphase and mitotic cellular functions. In addition, docetaxel induces abnormal arrays or "bundles" of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis. 4 , 5 The use of docetaxel may lead to treatment-related deaths in breast cancer and non-small cell lung cancer patients, hepatic impairment, hematologic effects, enterocolitis and neutropenic colitis, hypersensitivity reactions, fluid retention, second primary malignancies, cutaneous reactions, neurologic reactions, eye disorders, asthenia, embryo-fetal toxicity, and tumor lysis syndrome. 7
+
+## Mechanism Of Action
+
+Tubulin beta-1 chain Inhibitor
+
+## Absorption
+
+The pharmacokinetic profile of docetaxel is consistent with a three-compartment model. The initial rapid decline represents the distribution to the peripheral compartments, and the late (terminal) phase is partly due to a relatively slow efflux of docetaxel from the peripheral compartment. The area under the curve (AUC) was dose proportional at doses between 70 mg/m 2 and 115 mg/m 2 with infusion times of 1 to 2 hours. 7 , 9 In a group of patients with solid tumors given 100 mg/m 2 of docetaxel intravenously, the Cmax and AUC were 2.41 μg/mL and 5.93 μg⋅h/mL, respectively. 1 , 3
+
+## Volume Of Distribution
+
+Docetaxel has a steady-state volume of distribution of 113 L. Its pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model. 7 , 9
+
+## Metabolism
+
+Docetaxel undergoes hepatic metabolism. In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme. 7 , 9 CYP3A5 also plays a role in the metabolism of this drug. 1 In humans, docetaxel is metabolized by CYP3A4/5 into four metabolites: M1, M2, M3 and M4. Docetaxel undergoes hydroxylation of the synthetic isobutoxy side chain, forming metabolite M2. The oxidation of M2 forms an unstable aldehyde that is immediately cyclised into the stereoisomers M1 and M3. M4 is then formed by the oxidation of M1/M3. 2 Hover over products below to view reaction partners Docetaxel Hydroxy-Docetaxel
+
+## Route Of Elimination
+
+Docetaxel was eliminated in urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route. Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively. In the first 48 hours, approximately 80% of the radioactivity recovered was excreted in feces. One major and three minor metabolites were excreted at this point, with less than 8% as the unchanged drug. 7 , 9
+
+## Half Life
+
+With plasma sampling up to 8 to 22 days after docetaxel infusion, the terminal elimination half-life was 116 hours. 7 Doses between 70 and 115 mg/m 2 with infusion times of 1 to 2 hours produce a triphasic elimination profile. The half-life of the alpha, beta, and gamma phases are 4 minutes, 36 minutes, and 11.1 hours, respectively. 9
+
+## Clearance
+
+After the administration of 20–115 mg/m 2 of intravenous docetaxel to cancer patients, the total body clearance was 21 L/h/m 2 . 9 In patients aged 1 to 20 years with solid tumors that received 55 mg/m 2 to 235 mg/m 2 of docetaxel in a 1-hour intravenous infusion every 3 weeks, clearance was 17.3 L/h/m 2 . 7
+
+## Toxicity
+
+There is no known antidote for an overdose of docetaxel injection. In case of overdose, patients should be closely monitored in specialized units. Some of the anticipated complications of overdosage include: bone marrow suppression, peripheral neurotoxicity, and mucositis. After an overdose is discovered, patients should receive granulocyte colony-stimulating factor (G-CSF) as soon as possible. Other appropriate symptomatic measures should be taken as needed. 7 In two reports of overdose, one patient received 150 mg/m 2 , and the other received 200 mg/m 2 as 1-hour infusions. Both patients experienced severe neutropenia, mild asthenia, cutaneous reactions, and mild paresthesia, and recovered without incident. 7 In rats, the oral LD 50 of docetaxel is >2000 mg/kg. The intravenous LD 50 in mice is 138 mg/kg. 8

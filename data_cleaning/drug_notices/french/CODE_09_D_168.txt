@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_D_168
+DCI: CABERGOLINE 0,5 mg cp (CABERGOLINE ARROW)
+Brand Names: CABERGOLINE BR | CABERNEX | DONEX | DOSTINOVA | PROLANEX | PROLATINEX BGL
+Pharmaceutical Forms: Comprimé
+Dosages: 0.5 mg | 0.5mg
+Packaging: b/08 | boite de 8 | flc de 8 comp | pilulier/08
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G02 - AUTRES MEDICAMENTS GYNECOLOGIQUES | G02C - AUTRES MEDICAMENTS GYNECOLOGIQUES | G02CB - INHIBITEURS DE LA PROLACTINE | G02CB03 - CABERGOLINE | N - SYSTEME NERVEUX | N04 - ANTIPARKINSONIENS | N04B - DOPAMINERGIQUES | N04BC - AGONISTES DOPAMINERGIQUES | N04BC06 - CABERGOLINE
+Registration Numbers: 149/09 D 168/18 | 235/09 D 168/20 | 293/09 D 168/17 | 309/09 D 168/21 | 378/09 D 168/21 | 380/09 D 168/22
+Drug Codes: 09 D 168
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | cabergoline : 0.5 mg | Modalités d'administration | Voie orale | Administrer pendant le repas | Posologie à adapter en fonction de la tolérance | Traitement à réévaluer régulièrement | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Hyperprolactinémie, traitement symptomatique (de l') - Prolactinome | Traitement initial | 0,5 mg en 1 à 2 prises par semaine | Pendant 4 semaines | Traitement ultérieur | Administrer en 2 prises au-delà d'une dose > 1 mg | Posologie à adapter à la prolactinémie | Posologie à augmenter par palier mensuel de 0,5 mg jusqu'à la dose efficace | 0,25 à 4,5 mg en 1 à 2 prises par semaine | Dose maximale par prise: 1 mg | Posologie maximale: 3 mg par jour | Patient de sexe féminin | Inhibition de la lactation | Posologie standard | Dans le cas de : Inhibition de la montée laiteuse | Administrer dans les 24 heures suivant l'accouchement | 1 mg en 1 prise ce jour | Dans le cas de : Arrêt de la lactation | 0,25 mg toutes les 12 heures | Pendant 2 jours
+
+## Precautions
+
+Allaitement | Antécédent de maladie psychiatrique | Doses cumulées | Femme susceptible d'être enceinte | Grossesse | Hémorragie digestive | Hépatopathie | Hypertension gravidique | Hypotension artérielle | Insuffisance coronarienne | Insuffisance rénale sévère | Maladie cardiovasculaire sévère | Maladie de Parkinson | Post-partum | Sujet de moins de 16 ans | Syndrome de Raynaud | Traitement prolongé | Tumeur hypophysaire | Ulcère gastroduodénal évolutif | Vasculopathie sténosante
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cabergoline : Mécanisme d'action | La cabergoline est un agoniste dopaminergique D2 dérivé de l'ergot de seigle, doté d'une activité inhibitrice puissante et prolongée de la sécrétion de prolactine. Il agit par stimulation directe des récepteurs D2-dopaminergiques au niveau des cellules lactotropes de l'hypophyse, en inhibant la sécrétion de prolactine. | L'abaissement de la prolactinémie est proportionnel à la dose en ce qui concerne l'intensité et la durée de son action.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hémoglobinémie (diminution) (Peu fréquent) | - Bilan hépatique (anomalie) | - CPK (augmentation) | DERMATOLOGIE: | - Alopécie (Peu fréquent) | - Dermatose (Peu fréquent) | - Erythème facial (Fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit | - Acné | DIVERS: | - Asthénie (Très fréquent) | - Oedème périphérique (Peu fréquent) | - Fatigue (Très fréquent) | - Oedème (Peu fréquent) | - Hypersexualité | - Douleur thoracique | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Douleur mammaire (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | OPHTALMOLOGIE: | - Défauts visuels | ORL, STOMATOLOGIE: | - Epistaxis (Peu fréquent) | - Sensation de vertige (Très fréquent) | PSYCHIATRIE: | - Dépression (Fréquent) | - Libido (augmentation) (Peu fréquent) | - Jeu pathologique | - Agressivité | - Hallucination | - Compulsion alimentaire | - Idée délirante | - Boulimie | - Trouble du contrôle des impulsions | - Achat compulsif | - Psychose | SYSTÈME CARDIOVASCULAIRE: | - Bouffée de chaleur (Fréquent) | - Spasme artériel (Peu fréquent) | - Syndrome de Raynaud (Peu fréquent) | - Palpitation (Peu fréquent) | - Pression artérielle (diminution) (Fréquent) | - Syncope (Peu fréquent) | - Valvulopathie (Très fréquent) | - Hypotension orthostatique (Fréquent) | - Epanchement péricardique | - Régurgitation de valve cardiaque | - Péricardite | - Pression artérielle diastolique diminuée | - Angor | - Pression artérielle systolique diminuée | SYSTÈME DIGESTIF: | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Nausée (Très fréquent) | - Dyspepsie (Très fréquent) | - Douleur abdominale (Très fréquent) | - Gastrite (Très fréquent) | - Douleur épigastrique (Rare) | - Fonction hépatique anormale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampes des membres inférieurs (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Perte de conscience (Peu fréquent) | - Paresthésie (Peu fréquent) | - Hémianopsie (Peu fréquent) | - Somnolence (Fréquent) | - Tremblement | - Endormissement soudain | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent) | - Epanchement pleural (Peu fréquent) | - Fibrose pleurale (Très rare) | - Insuffisance respiratoire | - Trouble respiratoire | - Fibrose pulmonaire | - Douleur pleurétique | - Pleurite | - Pleurésie

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_261
+DCI: OLMESARTAN MEDOXOMIL 20 mg cp (OLMETEC)
+Brand Names: NORMATEC | OLBEK
+Pharmaceutical Forms: Comprimé
+Dosages: 20 mg | 20mg
+Packaging: b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA08 - OLMESARTAN MEDOXOMIL
+Registration Numbers: 173/06 E 261/24 | 447/06 E 261/23
+Drug Codes: 06 E 261
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | olmésartan médoxomil : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante de liquide | Administrer chaque jour à la même heure | Administrer indépendamment de la prise des repas | Ne pas mâcher | Tenir compte du délai d'action du traitement | Posologie | Patient de 6 an(s) à 18 an(s) | Poids = 35 kg | Hypertension artérielle | Traitement initial | 10 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | Utiliser le dosage le plus adapté à la posologie | 10 à 40 mg 1 fois par jour | Posologie maximale: 40 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle | Traitement initial | 10 mg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse tensionnelle | Utiliser le dosage le plus adapté à la posologie | 10 à 40 mg 1 fois par jour | Posologie maximale: 40 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Acidose métabolique | Allaitement | Cardiomyopathie obstructive | Décompensation cardiaque | Déshydratation | Diabète | Enfant de moins de 6 ans | Femme susceptible d'être enceinte | Hyperaldostéronisme primaire | Hypovolémie | Insuffisance cardiaque congestive sévère | Insuffisance hépatique modérée à sévère | Insuffisance rénale | Insuffisance vasculaire cérébrale | Ischémie myocardique | Pathologie provoquant une lyse cellulaire | Rétrécissement aortique | Rétrécissement mitral | Sujet à risque d'hyperkaliémie | Sujet de plus de 70 ans | Sujet noir | Transplantation rénale, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Olmésartan médoxomil : Mécanisme d'action | L'olmésartan médoxomil est un antagoniste sélectif puissant des récepteurs de l'angiotensine II (type AT1) actif par voie orale. Il bloque tous les effets de l'angiotensine II faisant intervenir les récepteurs AT1 indépendamment de l'origine ou de la voie de synthèse de l'angiotensine II. L'antagonisme sélectif des récepteurs de l'angiotensine II (AT1) entraîne une augmentation des taux plasmatiques de rénine et des concentrations d'angiotensine I et II, et une baisse de la concentration plasmatique d'aldostérone. | L'angiotensine II est la principale hormone vasoactive du système rénine-angiotensine-aldostérone. Elle joue un rôle important dans la physiopathologie de l'hypertension en agissant au niveau des récepteurs de type 1 (AT1). | L'association de l’olmésartan à l’ | amlodipine | , inhibiteur calcique, d’une part, ou à l’ | hydrochlorothiazide | , diurétique thiazidique, d’autre part, a un effet antihypertenseur synergique, diminuant la pression artérielle de manière plus importante que chacun des composants administré seul.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperuricémie (Fréquent) | - Urémie (augmentation) (Fréquent) | - CPK (augmentation) (Fréquent) | - Hypertriglycéridémie (Fréquent) | - Enzymes hépatiques (augmentation) (Fréquent) | - Hypercréatininémie (Rare) | - Hyperkaliémie (Rare) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Exanthème (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Dermatite allergique (Peu fréquent) | - Prurit (Peu fréquent) | DIVERS: | - Douleur thoracique (Fréquent) | - Syndrome pseudogrippal (Fréquent) | - Douleur (Fréquent) | - Oedème de la face (Peu fréquent) | - Oedème périphérique (Fréquent) | - Asthénie (Peu fréquent) | - Fatigue (Fréquent) | HÉMATOLOGIE: | - Thrombopénie (Peu fréquent) | HÉPATOLOGIE: | - Hépatite auto-immune | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique (Peu fréquent) | - Angioedème (Rare) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Epistaxis (Fréquent) | - Sensation de vertige (Fréquent) | - Pharyngite (Fréquent) | - Rhinite (Fréquent) | PSYCHIATRIE: | - Léthargie (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle (Peu fréquent) | - Angor (Peu fréquent) | - Malaise (Peu fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Dyspepsie (Fréquent) | - Vomissement (Peu fréquent) | - Diarrhée (Fréquent) | - Gastroentérite (Fréquent) | - Entéropathie (Très rare) | - Angioedème intestinal | SYSTÈME MUSCULO-SQUELETTIQUE: | - Dorsalgie (Fréquent) | - Arthrite (Fréquent) | - Douleur musculaire (Peu fréquent) | - Douleur osseuse (Fréquent) | - Rhabdomyolyse (Cas isolés) | - Spasme musculaire (Rare) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Bronchite (Fréquent) | - Toux (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Infection des voies urinaires (Fréquent) | - Hématurie (Fréquent) | - Insuffisance rénale aiguë (Rare) | - Insuffisance rénale (Rare)

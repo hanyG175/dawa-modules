@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_N_066
+DCI: LANREOTIDE (acétate) 30 mg pdre/solv p susp inj LP (SOMATULINE LP)
+Brand Names: LUTEROL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: boite de 10
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H01 - HORMONES HYPOPHYSAIRES, HYPOTHALAMIQUES ET ANALOGUES | H01C - HORMONES HYPOTHALAMIQUES | H01CB - SOMATOSTATINE ET ANALOGUES | H01CB03 - LANREOTIDE
+Registration Numbers: 285/09 N 066/18/23
+Drug Codes: 09 N 066
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | seringue | lanréotide (acétate) : 120 mg | Modalités d'administration | Voie sous-cutanée | Administrer dans le muscle fessier en alternant l'injection entre les 2 fesses | Administrer par voie sous-cutanée profonde | Possibilité d'administrer en auto-inject ds la cuisse par le patient ou 1 personne de son entourage | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Acromégalie en cas de non indication de la chirurgie ou de la radiothérapie - Acromégalie en cas de réponse insuffisante après chirurgie et/ou radiothérapie | Posologie standard | Posologie à adapter en fonction du taux sérique d'IGF-1 | Posologie à adapter en fonction du taux sérique de GH | 60 à 120 mg 1 fois ce jour tous les 28 jours | Tumeur carcinoïde | Traitement initial | 90 mg 1 fois ce jour tous les 28 jours pendant 2 mois | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | 60 mg 1 fois ce jour tous les 28 jours | Dans le cas de : Réponse insuffisante au traitement | Posologie à adapter en fonction de la réponse clinique | 120 mg 1 fois ce jour tous les 28 jours | Tumeur neuroendocrine digestive non résécable | Posologie standard | Posologie à adapter en fonction de la réponse clinique | 60 à 120 mg 1 fois ce jour tous les 28 jours
+
+## Precautions
+
+Acromégalie | Allaitement | Cardiopathie | Diabète insulinonécessitant | Grossesse | Sujet de moins de 18 ans | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lanréotide : Mécanisme d'action | Le lanréotide est un octapeptide analogue de la | somatostatine | naturelle. | Comme la | somatostatine | , le lanréotide est un inhibiteur de différentes fonctions endocrines, neuroendocrines, exocrines et paracrines. Il présente une forte affinité pour les récepteurs à la | somatostatine | humaine (SSTR) 2 et 5, et une affinité faible sur les SSTR 1, 3 et 4. L'inhibition de l'hormone de croissance s'expliquerait principalement par cette activité au niveau des récepteurs SSTR 2 et 5. Le lanréotide est plus actif que la | somatostatine | naturelle et présente une durée d'action plus longue. | Sa sélectivité marquée vis-à-vis de la sécrétion de l'hormone de croissance par rapport à celle de l'insuline en fait un produit adapté au traitement de l'acromégalie. | Comme la | somatostatine | , le lanréotide a une action antisécrétoire exocrine générale. Il inhibe la sécrétion basale de motiline, de peptide inhibiteur gastrique et de polypeptide pancréatique, mais n'a pas d'action significative sur la sécrétion à jeun de sécrétine ou de gastrine. En outre, il diminue le taux plasmatique de chromogranine A et le taux urinaire de 5-HIAA (acide 5-hydroxyindolacétique) chez les patients présentant une TNE gastro-entéro-pancréatique associée à des taux élevés de ces marqueurs tumoraux. Le lanréotide inhibe l'augmentation du débit sanguin de l'artère mésentérique supérieure et de la veine porte en post-prandial. Le lanréotide diminue significativement la sécrétion hydroélectrolytique jéjunale (eau, sodium, | potassium | , chlorures) stimulée par la prostaglandine E1. Le lanréotide diminue les taux de prolactine chez les patients acromégales traités au long cours.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Phosphatases alcalines (augmentation) (Peu fréquent) | - ALAT (augmentation) (Fréquent) | - Hyperbilirubinémie (Fréquent) | - ASAT (augmentation) (Peu fréquent) | - Hémoglobine glycosylée (augmentation) (Fréquent) | - Hyponatrémie (Peu fréquent) | - Hyperglycémie (Fréquent) | - Enzymes pancréatiques (diminution) (Fréquent) | - Hypoglycémie (Fréquent) | DERMATOLOGIE: | - Alopécie (Fréquent) | - Hypotrichose (Fréquent) | DIVERS: | - Asthénie (Fréquent) | - Fatigue (Fréquent) | HÉPATOLOGIE: | - Lithiase biliaire (Très fréquent) | - Dilatation des voies biliaires (Fréquent) | - Cholécystite | - Cholangite | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | INSTRUMENTATION: | - Réaction au point d'injection (Fréquent) | - Nodule au site d'injection | - Prurit au point d'injection | - Abcès au site d'injection | - Douleur au point d'injection | - Induration au site d'injection | NUTRITION, MÉTABOLISME: | - Diabète (Fréquent) | - Poids (diminution) (Fréquent) | - Appétit diminué (Fréquent) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | PSYCHIATRIE: | - Léthargie (Fréquent) | - Insomnie (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Bouffée de chaleur (Peu fréquent) | - Bradycardie sinusale (Fréquent) | SYSTÈME DIGESTIF: | - Distension abdominale (Fréquent) | - Selle molle (Très fréquent) | - Gêne abdominale (Fréquent) | - Nausée (Fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Diarrhée (Très fréquent) | - Décoloration des selles (Peu fréquent) | - Flatulence (Fréquent) | - Douleur abdominale (Très fréquent) | - Stéatorrhée (Fréquent) | - Pancréatite | - Trouble digestif | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculo-squelettique (Fréquent) | - Douleur musculaire (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent)

@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_025
+DCI: Diazepam
+DrugBank ID: DB00829
+DrugBank Name: Diazepam
+Brand Names: DIAZEPAM
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 10MG/2ML
+Packaging: B/10
+Laboratories: RENAUDIN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: N05BA01
+Registration Numbers: 003/16 B 025/01/21 | 433/16 B 025/23
+Drug Codes: 16 B 025
+
+------------------------------------------------------------
+
+## Description
+
+A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589) Given diazepam's storied history as a commonly used and effective medication for a variety of indications, contemporary advancements in the formulation and administration of the agent include the development and US FDA approval of an auto-injectable formulation for the rapid treatment of uncontrolled seizures in 2015-2016 7 . Combining diazepam, a proven effective therapy for acute repetitive seizures, with an auto-injector designed for subcutaneous administration that is quickly and easily administered offers the potential for complete, consistent drug absorption and rapid onset of effect 7 . This current development is subsequently an important addition to the rescue therapy tool chest for patients with epilepsy 7 .
+
+## Pharmacodynamics
+
+Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle- relaxant, anticonvulsant and amnestic effects 15 , 16 , 6 . Most of these effects are thought to result from facilitation of the action of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter in the central nervous system 15 , 16 , 6 .
+
+## Mechanism Of Action
+
+GABA(A) Receptor Positive allosteric modulator GABA(A) Receptor Benzodiazepine Binding Site Ligand
+
+## Absorption
+
+After oral administration, it is considered that diazepam is rapidly and completely absorbed from the gastrointestinal tract as >90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1 – 1.5 hours with a range of 0.25 to 2.5 hours 15 , 16 , 6 . Absorption is delayed and decreased when administered with a moderate fat meal 15 . In the presence of food mean lag times are approximately 45 minutes as compared with 15 minutes when fasting 15 . There is also an increase in the average time to achieve peak concentrations to about 2.5 hours in the presence of food as compared with 1.25 hours when fasting 15 . This results in an average decrease in Cmax of 20% in addition to a 27% decrease in AUC (range 15% to 50%) when administered with food 15 .
+
+## Volume Of Distribution
+
+In young healthy males, the volume of distribution at steady-state is 0.8 to 1.0 L/kg 15 .
+
+## Metabolism
+
+Diazepam is N-demethylated by CYP3A4 and 2C19 to the active metabolite N-desmethyldiazepam, and is hydroxylated by CYP3A4 to the active metabolite temazepam 15 , 16 . N-desmethyldiazepam and temazepam are both further metabolized to oxazepam 15 , 16 . Temazepam and oxazepam are further largely eliminated by way of conjugation to glucuronic acid via glucuronidation 15 , 16 . Furthermore, oxidation of diazepam is mediated by cytochrome P450 isozymes; formation of desmethyl-diazepam mainly by CYP2C19 and CYP3A and 3-hydroxy-diazepam (temazepam) and oxazepam by CYP3A. Because CYP2C19 is polymorphic, extensive metabolizers (EMs), and poor metabolizers (PMs) of diazepam can be distinguished 15 , 16 . PMs of diazepam showed significantly lower clearance (12 vs 26 mL/min) and longer elimination half-life (88 vs 41 h) of diazepam than EMs after a single oral dose 15 , 16 . Also, PMs had lower clearance, higher AUC and longer elimination half-life of desmethyl-diazepam 15 , 16 . Hover over products below to view reaction partners Diazepam Nordazepam Nordiazepam O-glucuronide Oxazepam Temazepam Oxazepam Oxazepam desmethyldiazepam
+
+## Route Of Elimination
+
+Diazepam and its metabolites are excreted mainly in the urine, predominantly as their glucuronide conjugates 15 , 16 , 6 .
+
+## Half Life
+
+Diazepam has a biphasic half-life with an initial rapid distribution phase followed by a prolonged terminal elimination phase of 1 or 2 days; its action is further prolonged by the even longer half-life of 2-5 days of its principal active metabolite, desmethyldiazepam (nordiazepam), the relative proportion of which increases in the body on long-term administration 6 . The plasma half-life of diazepam is prolonged in neonates, in the elderly, and in patients with kidney or liver disease 6 .
+
+## Clearance
+
+The clearance of diazepam is 20 to 30 mL/min in young adults 15 , 16 .
+
+## Toxicity
+
+The symptoms of diazepam overdose are mainly an intensification of the therapeutic effects (ataxia, drowsiness, dysarthria, sedation, muscle weakness, profound sleep, hypotension, bradycardia, nystagmus) or paradoxical excitation 15 , 16 , 6 . In most cases only observation of vital functions is required 15 , 16 , 6 . Extreme overdosage may lead to coma, areflexia, cardio-respiratory depression and apnoea, requiring appropriate countermeasures (ventilation, cardiovascular support) 15 , 16 , 6 . Benzodiazepine respiratory depressant effects are more serious in patients with severe chronic obstructive airways disease 15 , 16 , 6 . Severe effects in overdose also include rhabdomyolysis and hypothermia 6 . Overdose of benzodiazepines in combination with other CNS depressants (including alcohol) may be fatal and should be closely monitored 15 . In general, the use of diazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus 15 . The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered 15 . If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus 15 . Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug 15 . Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates 15 . With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants) 15 . Diazepam passes into breast milk 15 . Breastfeeding is therefore not recommended in patients receiving diazepam 15 . Safety and effectiveness in pediatric patients below the age of 6 months have not been established 15 . In elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated) 15 . Extensive accumulation of diazepam and its major metabolite, desmethyldiazepam, has been noted following chronic administration of diazepam in healthy elderly male subjects. Metabolites of this drug are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function 15 . Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function 15 . Decreases in clearance and protein binding, and increases in volume of distribution and half-life has been reported in patients with cirrhosis 15 . In such patients, a 2- to 5- fold increase in mean half-life has been reported 15 . Delayed elimination has also been reported for the active metabolite desmethyldiazepam 15 . Benzodiazepines are commonly implicated in hepatic encephalopathy 15 . Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis 15 .

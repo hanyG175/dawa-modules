@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_318
+DCI: Cefdinir
+DrugBank ID: DB00535
+DrugBank Name: Cefdinir
+Brand Names: AZORD | OMNICEF | OMNIFAL
+Pharmaceutical Forms: Gélule
+Dosages: 300mg
+Packaging: b/10
+Registration Numbers: 001/13 B 318/07/22 | 039/13 B 318/17 | 055/13 B 318/24
+Drug Codes: 13 B 318
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Cefdinir is a bactericidal agent that treats bacterial infections by interfering with cell wall synthesis. 14 Cefdinir exerts broad-spectrum activity against a variety of gram-positive and gram-negative bacterial infections. It is effective against several beta-lactamase enzyme producing bacteria. As a result, many organisms that are resistant to other cephalosporins may be susceptible to cefdinir. 3 , 4 , 17
+
+## Mechanism Of Action
+
+Probable peptidoglycan D,D-transpeptidase PenA (Neisseria gonorrhoeae) Inhibitor Peptidoglycan D,D-transpeptidase FtsI (Haemophilus influenzae) Inhibitor
+
+## Absorption
+
+Maximal plasma cefdinir concentration can be attained between 2-4 hours after an ingested dose. 14 The bioavailability of cefdinir depends on the formulation used. The estimated bioavailability of cefdinir in the capsule form is approximately 16%-21%, depending on the dose. Absolute bioavailability after the administration of a suspension of cefdinir is 25%. 2 . The Cmax of cefdinir is 1.60 μg/mL after a 300 mg dose with an AUC of 7.05. Cmax is 2.87 μg/mL after a 600 mg dose with an AUC of 11. 14 A meal high in fat can reduce the absorption of cefdinir by up to 15%, however, this is not a cause for clinically significant changes, therefore cefdinir may be taken with or without food. 14 When given with aluminum or magnesium-containing antacids or iron, cefdinir absorption may decrease. It is recommended to allow 2 hours between cefdinir administration and the administration of these agents. 2
+
+## Volume Of Distribution
+
+The average volume of distribution of cefdinir in adults is about 0.35 L/kg and 0.67 L/kg in children. 14 , 18 Another resource estimates the volume of distribution in adults at 1.56–2.09 L/kg. 2 Cefdinir is found to be distributed in various tissues at clinically effective concentrations. It may be found in the epithelial lining fluid, bronchial mucosa, tonsils, sinuses, skin blister fluid, as well as the middle ear fluid. 2 Third-generation cephalosporins such as cefdinir cross the blood-brain barrier and are found in high concentrations in the cerebrospinal fluid, unlike their first and second generation counterparts. 12 The wide tissue distribution of cefdinir allows it to treat a variety of infections throughout the body.
+
+## Metabolism
+
+This drug is not significantly metabolized and its pharmacological actions are mainly attributed to the parent drug. 2 , 14
+
+## Route Of Elimination
+
+This drug is mainly excreted by the kidneys. Dose adjustments may be required for patients with renal impairment or patients on dialysis. 14 Approximately 18.4% of a 300 mg dose of cefdinir was found unchanged in the urine after a 300 mg dose was administered during a pharmacokinetic study of 21 individuals. 18 A large proportion of the administered dose is excreted in the feces, although the majority is found in the urine. 12
+
+## Half Life
+
+The average plasma elimination half-life is about 1.7 hours in adults. 14 In children and healthy infants, plasma elimination half-life ranges from 1.2–1.5 hours. 2
+
+## Clearance
+
+The renal clearance in healthy adults in a pharmacokinetic study was 2.0 (± 1.0) mL/min/kg and the clearance in patients with renal failure was lower, decreasing in proportion to the degree of renal impairment. 18 Dose adjustment is required in patients with renal impairment. 14
+
+## Toxicity
+
+LD50 information
+Oral LD50 of cefdinir in the rat is >2000 mg/kg. 15 There are limited data regarding cefdinir overdose in the literature. In studies of rodents, one 5600-mg/kg dose administered orally did not lead to adverse effects. Signs of toxicity and overdose caused by other beta-lactam antibiotics included nausea, vomiting, diarrhea, abdominal pain, and seizures. 16

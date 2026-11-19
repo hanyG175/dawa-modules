@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_C_012
+DCI: CALCITONINE DE SAUMON 100 UI/ml sol inj (CALCITONINE PHARMY II)
+DrugBank ID: DB00017
+DrugBank Name: Salmon calcitonin
+Brand Names: CALCO
+Pharmaceutical Forms: Solution
+Dosages: 100ui/ml
+Packaging: b/5amp. de 1ml
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H05 - MEDICAMENTS DE L'EQUILIBRE CALCIQUE | H05B - MEDICAMENTS ANTIPARATHYROÏDIENS | H05BA - CALCITONINES | H05BA01 - CALCITONINE (SYNTHETIQUE DE SAUMON)
+Registration Numbers: 011/21 C 012/96/16
+Drug Codes: 21 C 012
+
+------------------------------------------------------------
+
+## Description
+
+Synthetic peptide, 32 residues long formulated as a nasal spray.
+
+## Pharmacodynamics
+
+Calcitonin inhibits bone resorption by osteoclasts (bone remodeling cells) and promotes bone formation by osteoblasts. This leads to a net increase in bone mass and a reduction in plasma calcium levels. It also promotes the renal excretion of ions such as calcium, phosphate, sodium, magnesium, and potassium by decreasing tubular reabsorption. In consequence, there is an increase in the jejunal secretion of water, sodium, potassium, and chloride.
+
+## Mechanism Of Action
+
+Calcitonin receptor Agonist
+
+## Absorption
+
+Salmon calcitonin is rapidly absorbed with bioavailability of 71% following subcutaneous injection and 66% following intramuscular injection in humans. Via the nasal route, the bioavailability varies between 3 to 5% relative to IM.
+
+## Volume Of Distribution
+
+0.15 to 0.3 L/kg
+
+## Metabolism
+
+Salmon calcitonin primarily undergoes degradation in the kidneys to form pharmacologically inactive metabolites. It is also metabolized in the blood and the peripheral tissue.
+
+## Route Of Elimination
+
+Urine. Studies with injectable calcitonin show increases in the excretion of filtered phosphate, calcium, and sodium by decreasing their tubular reabsorption in the kidney.
+
+## Half Life
+
+Half-life elimination (terminal): I.M. 58 minutes; SubQ 59 to 64 minutes; Nasal: ~18 to 23 minutes
+
+## Toxicity
+
+Salmon calcitonin was shown to inhibit lactation in animals and is not recommend in nursing mothers. While research in animals have shown a decrease in fetal weight, no studies have yet shown similar results in humans. It is recommended however to proceed carefully when administering salmon calcitonin to pregnant women and consider if the benefits outweigh the risks. Because of its protein nature, salmon calcitonin may provoke an allergy reaction (bronchospams and swelling of the tongue/throat) that can turn into a full-blown anaphylactic response. The manufacturer also reports an increase in the risk of malignancies from oral route (0.7%) to intranasal route (2.4%) compared to placebo. The same may apply to IV, IM and SC routes since the systemic exposure is higher in those cases.
+Nausea is noticeable in some patients but tends to decrease with continued administration. Rhinitis, headaches and back pain have also been reported among others.

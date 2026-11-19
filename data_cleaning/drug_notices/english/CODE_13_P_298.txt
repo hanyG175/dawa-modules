@@ -1,0 +1,41 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_298
+DCI: EFAVIRENZ 600 mg cp (EFAVIRENZ ARROW)
+DrugBank ID: DB00625
+DrugBank Name: Efavirenz
+Brand Names: EFFAHOPE
+Pharmaceutical Forms: Comprimé
+Dosages: 600 mg
+Packaging: flacon hdpe de 30 comprimes
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J05 - ANTIVIRAUX A USAGE SYSTEMIQUE | J05A - ANTIVIRAUX A ACTION DIRECTE | J05AG - INHIBITEURS DE LA TRANSCRIPTASE REVERSE NON NUCLEOSIDIQUES | J05AG03 - EFAVIRENZ
+Registration Numbers: 478/13 P 287/20
+Drug Codes: 13 P 298
+
+------------------------------------------------------------
+
+## Description
+
+Efavirenz (brand names Sustiva® and Stocrin®) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) and is used as part of highly active antiretroviral therapy (HAART) for the treatment of a human immunodeficiency virus (HIV) type 1. For HIV infection that has not previously been treated, efavirenz and lamivudine in combination with zidovudine or tenofovir is the preferred NNRTI-based regimen. Efavirenz is also used in combination with other antiretroviral agents as part of an expanded postexposure prophylaxis regimen to prevent HIV transmission for those exposed to materials associated with a high risk for HIV transmission.
+
+## Pharmacodynamics
+
+Efavirenz (dideoxyinosine, ddI) is an oral non-nucleoside reverse transcriptase inhibitor (NNRTI). It is a synthetic purine derivative and, similar to zidovudine, zalcitabine, and stavudine. Efavirenz was originally approved specifically for the treatment of HIV infections in patients who failed therapy with zidovudine. Currently, the CDC recommends that Efavirenz be given as part of a three-drug regimen that includes another nucleoside reverse transcriptase inhibitor (e.g., lamivudine, stavudine, zidovudine) and a protease inhibitor or efavirenz when treating HIV infection.
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Metabolism
+
+Efavirenz is principally metabolized by the cytochrome P450 system to hydroxylated metabolites with subsequent glucuronidation of these hydroxylated metabolites. These metabolites are essentially inactive against HIV-1. Hover over products below to view reaction partners Efavirenz 8-OH-efavirenz
+
+## Route Of Elimination
+
+Nearly all of the urinary excretion of the radiolabeled drug was in the form of metabolites.
+
+## Half Life
+
+40-55 hours

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_109
+DCI: THIAMINE CHLORHYDRATE 250 mg cp (BEVITINE)
+Brand Names: THIAMINE API
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/20
+Laboratories: Laboratoires DB PHARMA
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A11 - VITAMINES | A11D - VITAMINE B1 NON ASSOCIEE ET EN ASSOCIATION AVEC VITAMINES B6 ET B12 | A11DA - VITAMINE B1, NON ASSOCIEE | A11DA01 - THIAMINE (VIT B1)
+Registration Numbers: 348/14 H 109/08
+Drug Codes: 14 H 109
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Thu Sep 16 00:00:00 CEST 2021 | is_edited: True | title: INDICATIONS | text: Traitement de la carence en vitamine B1 : Béri-béri. | Encéphalopathie de Gayet-Wernicke, en relais d'un traitement parentéral. | lists: Traitement de la carence en vitamine B1 : Béri-béri. | Encéphalopathie de Gayet-Wernicke, en relais d'un traitement parentéral.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | thiamine chlorhydrate : 250 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Carence en vitamine B1 - Encéphalopathie de Gayet-Wernicke, traitement de relais de la voie injectable (de l') | Posologie standard | 1 comprimé 1 à 2 fois par jour
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 ans | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Thiamine : Mécanisme d'action | La thiamine est la forme active de la vitamine B1.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Toxidermie | - Prurit | - Urticaire | - Hyperhidrose | - Exanthème | DIVERS: | - Douleur thoracique | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Choc anaphylactique | - Hypersensibilité | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Collapsus cardiovasculaire | - Tachycardie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Diarrhée | - Douleur abdominale | SYSTÈME RESPIRATOIRE: | - Insuffisance respiratoire aiguë

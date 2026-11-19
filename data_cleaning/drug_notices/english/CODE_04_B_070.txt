@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_070
+DCI: CYANOCOBALAMINE 1 mg/4 ml sol buv/inj (VITAMINE B12 GERDA)
+DrugBank ID: DB00784
+DrugBank Name: Mefenamic acid
+Brand Names: MAFEPAIN
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/20
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01X - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA20 - LARMES ARTIFICIELLES ET DIVERSES AUTRES PREPARATIONS
+Registration Numbers: 190/04 B 070/14
+Drug Codes: 04 B 070
+
+------------------------------------------------------------
+
+## Description
+
+A non-steroidal anti-inflammatory agent with analgesic, anti-inflammatory, and antipyretic properties. It is an inhibitor of cyclooxygenase.
+
+## Pharmacodynamics
+
+Mefenamic acid, an anthranilic acid derivative, is a member of the fenamate group of nonsteroidal anti-inflammatory drugs (NSAIDs). It exhibits anti-inflammatory, analgesic, and antipyretic activities. Similar to other NSAIDs, mefenamic acid inhibits prostaglandin synthetase.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Mefenamic acid is rapidly absorbed after oral administration.
+
+## Volume Of Distribution
+
+1.06 L/kg [Normal Healthy Adults (18-45 yr)]
+
+## Metabolism
+
+Mefenamic acid undergoes metabolism by CYP2C9 to 3-hydroxymethyl mefenamic acid, and further oxidation to a 3-carboxymefenamic acid may occur. The activity of these metabolites has not been studied. Mefenamic acid is also glucuronidated directly. Hover over products below to view reaction partners Mefenamic acid 3-hydroxymethyl mefenamic aci
+
+## Route Of Elimination
+
+The fecal route of elimination accounts for up to 20% of the dose, mainly in the form of unconjugated 3-carboxymefenamic acid.3 The elimination half-life of mefenamic acid is approximately two hours. Mefenamic acid, its metabolites and conjugates are primarily excreted by the kidneys. Both renal and hepatic excretion are significant pathways of elimination.
+
+## Half Life
+
+2 hours
+
+## Clearance
+
+Oral cl=21.23 L/hr [Healthy adults (18-45 yrs)]
+
+## Toxicity
+
+Oral, rat LD 50 : 740 mg/kg. Symptoms of overdose may include severe stomach pain, coffee ground-like vomit, dark stool, ringing in the ears, change in amount of urine, unusually fast or slow heartbeat, muscle weakness, slow or shallow breathing, confusion, severe headache or loss of consciousness.

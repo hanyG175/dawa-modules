@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_022
+DCI: DEXAMETHASONE 1 mg/ml + NEOMYCINE SULFATE 3 500 UI/ml + POLYMYXINE B SULFATE 6 000 UI/ml collyre susp (MAXIDROL) | Neomycine
+DrugBank ID: DB00994
+DrugBank Name: Neomycin
+Brand Names: NEO EYE | OPHTAMYCIN
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.35%
+Packaging: flacon/10ml | flacon/5 ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB02 - DEXAMETHASONE
+Registration Numbers: 109/17 D 022/99 | 272/17 D 022/06
+Drug Codes: 17 D 022
+
+------------------------------------------------------------
+
+## Description
+
+Neomycin is a broad-spectrum aminoglycoside antibiotic drug that is derived from the metabolic products of Streptomyces fradiae . 5 Neomycin is a complex comprised of three components, neomycin A, B, and C. 2 Neomycin B, also known as framycetin , is the most active component of the complex and neomycin C is the isomer of neomycin B, making these two stereoisomers the active components of neomycin. 1 , 2 Neomycin A, or neamine , is a moiety that conjoins two molecules of neomycin B and C together. 1 Neomycin is active against both gram-positive and gram-negative organisms and mediates its pharmacological action by binding to bacterial ribosomes and inhibiting protein synthesis, which is crucial for the survival of bacteria. 9 Neomycin sulfate is the most common form for pharmaceutical preparations; because the compound is a complex, the amount of neomycin in products is measured in units. 2 Neomycin sulfate as monotherapy is available in an oral solution for adjunct use in the treatment of hepatic coma. 5 It is also used in combination with polymyxin B sulfates and hydrocortisone in otic suspensions for use in the treatment of bacterial infections in the external auditory canal, including infections caused by medical procedures in the ear. 6 Neomycin is also used in combination with polymyxin B sulfates and dexamethasone in ophthalmic preparations for use in the treatment of inflammatory conditions and infections in the eye. 7 Neomycin is also available in over-the-counter topical products to prevent minor skin infections.
+
+## Pharmacodynamics
+
+Neomycin mediates its bactericidal action by inhibiting bacterial protein synthesis, thereby suppressing the growth and survival of susceptible bacteria. Following oral administration, the duration of bactericidal activity of neomycin ranged from 48 to 72 hours. 5 By decreasing colonic bacteria that produce ammonia, neomycin was shown to be effective as an adjunctive therapy in hepatic coma to improve neurologic symptoms. 5 , 9 Neomycin is active against both gram positive and gram negative organisms, including the major E. coli species resident in the colon as well as the enteropathogenic forms of E. coli . 9 It is also active against Klebsiella - Enterobacter group. 5 Resistant strains of E. coli , Klebsiella and Proteus spp . may emerge from neomycin therapy. 2 Neomycin has no antifungal activity and has some activity against some protozoa. 1
+
+## Mechanism Of Action
+
+Small ribosomal subunit protein uS12 (Escherichia coli (strain K12)) Inhibitor 16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor
+
+## Absorption
+
+Neomycin is poorly absorbed from the gastrointestinal tract. Gastrointestinal absorption of the drug may be increased if inflammatory or ulcerative gastrointestinal disease is present. 5
+
+## Volume Of Distribution
+
+The small fraction of absorbed neomycin is rapidly distributed in the tissues. The amount of systemically absorbed neomycin is reported to increase cumulatively with each repeated dose administered until a steady state is reached. 5
+
+## Metabolism
+
+There is limited information on the metabolism of neomycin, as there is limited systemic absorption following drug administration. Metabolism is deemed to be negligible.
+
+## Route Of Elimination
+
+The small absorbed fraction of neomycin is excreted by the kidney. The unabsorbed portion of the drug is excreted unchanged in the feces. 5
+
+## Half Life
+
+There is limited information on the half-life of neomycin.
+
+## Clearance
+
+There is limited information on the clearance rate of neomycin.
+
+## Toxicity
+
+The oral LD 50 of neomycin sulfate in mouse is > 8 g/kg. The subcutaneous LD 50 is 200 mg/kg in rat and 190 mg/kg in mouse. The intraperitoneal LD 50 in mouse is 305 mg/kg. The oral Lowest published toxic dose (TDLo) in woman is 12600 mg/kg/7D. 8 Because of low absorption, acute overdosage from oral neomycin is not likely to occur. However, prolonged administration of neomycin should be avoided because of the possibility of some systemic absorption and the risk of neurotoxicity, ototoxicity, and/or nephrotoxicity. Hemodialysis will remove neomycin from the blood. While nephrotoxicity and ototoxicity have been reported in otherwise patients without compromised renal function, the risk for developing these toxicities is increased in patients with renal impairment. 9 Like other aminoglycosides, neomycin may cause fetal harm and total irreversible bilateral congenital deafness when administered in pregnant women. 5

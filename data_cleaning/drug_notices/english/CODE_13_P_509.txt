@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_509
+DCI: Doravirine/Lamivudine/Tenofir Disoproxil
+DrugBank ID: DB12301
+DrugBank Name: Doravirine
+Brand Names: DELSTRIGO
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg/300mg/245mg
+Packaging: b/30
+Registration Numbers: 024/13 P 509/22
+Drug Codes: 13 P 509
+
+------------------------------------------------------------
+
+## Description
+
+Doravirine is an HIV-1 non-nucleoside reverse transcriptase inhibitor (NNRTI) intended to be administered in combination with other antiretroviral medicines. 5 , 4 Doravirine is available by itself or as a combination product of doravirine (100 mg), lamivudine (300 mg), and tenofovir disoproxil fumarate (300 mg). 4 Doravirine is formally indicated for the treatment of HIV-1 infection in adult patients with no prior antiretroviral treatment experience, further expanding the possibility and choice of therapeutic treatments available for the management of HIV-1 infection. 4
+
+## Pharmacodynamics
+
+In a clinical phase 2 trial evaluating a dose range of 0.25-2x the recommended dose of doravirine (in combination with emtricitabine/tenofovir) in HIV-1 infected subjects with no antiretroviral treatment history, no exposure-response relationship for efficacy was identified for doravirine. 5 Furthermore, at a dose of 1200 mg, which provides approximately 4 times the peak concentration observed following the recommended dose, doravirine does not prolong the QT interval to any clinically relevant extent. 5
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+The absolute bioavailability of doravirine is 64% with a T max of 2 hours. 5 Following oral [14C]doravirine administration, all of the administered dose was recovered 1 and the agent is considered to be well absorbed. 2 Moreover, its co-administration with food did not greatly alter doravirine's pharmacokinetic profile during clinical studies. 2
+
+## Volume Of Distribution
+
+The steady-state volume of distribution of doravirine following intravenous administration is 60.5 L. 5
+
+## Metabolism
+
+Following absorption, unchanged parent drug is the major circulating component in plasma. Its M9 metabolite - a product of cytochrome P450 3A4/5 mediated oxidative metabolism - is the most abundant doravirine metabolite in the circulation. 1 Hover over products below to view reaction partners Doravirine Doravirine M9 Metabolite
+
+## Route Of Elimination
+
+The primary route of elimination for doravirine is via cytochrome P450 3A4/5 metabolism. 5 , 1 , 2 Only 6% of an administered dose is recovered in the urine unchanged, with even less unchanged drug found in the feces. 5
+
+## Half Life
+
+The elimination half-life determined of doravirine is 15 hours. 5
+
+## Clearance
+
+The oral and renal clearances of doravirine are 106 ml/min and 9.3 ml/min, respectively. 5
+
+## Toxicity
+
+No clinically significant difference on the pharmacokinetics of doravirine were observed based on age (18 to 78 years of age), sex, and race/ethnicity, mild to severe renal impairment (creatinine clearance (CLcr) >15 mL/min, estimated by Cockcroft-Gault), or moderate hepatic impairment (Child-Pugh B). The pharmacokinetics of doravirine in patients with end-stage renal disease or undergoing dialysis, severe hepatic impairment (Child-Pugh C), or <18 years of age is unknown. 5 No adequate human data are available to establish whether or not doravirine poses a risk to pregnancy outcomes. 5 It is unknown whether doravirine is present in human milk, affects human milk production, or has effects on the breastfed infant. 5 Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving doravirine. 5 The safety and efficacy of doravirine have not been established in pediatric patients less than 18 years of age. 5 Clinical trials of doravirine did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects. In general, caution should be exercised in the administration of doravirine in elderly patients, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of comorbidities or other drug therapy. 5 No dosage adjustment of doravirine is required in patients with mild, moderate, or severe renal impairment. Doravirine has not been adequately studied in patients with end-stage renal disease and has not been studied in dialysis patients. 5 No dosage adjustment of doravirine is required in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment. Doravirine has not been studied in patients with severe hepatic impairment (Child-Pugh Class C). 5 Doravirine was not carcinogenic in long-term oral carcinogenicity studies in mice and rats at exposures up to 6 and 7 times, respectively, the human exposures at the RHD. 5 A statistically significant incidence of thyroid parafollicular cell adenoma and carcinoma seen only in female rats at the high dose was within the range observed in historical controls. 5 Doravirine was not genotoxic in a battery of in vitro or in vivo assays, including microbial mutagenesis, chromosomal aberration in Chinese hamster ovary cells, and in in vivo rat micronucleus assays. 5 There were no effects on fertility, mating performance or early embryonic development when doravirine was administered to rats at systemic exposures (AUC) approximately 7 times the exposure in humans at the RHD. 5

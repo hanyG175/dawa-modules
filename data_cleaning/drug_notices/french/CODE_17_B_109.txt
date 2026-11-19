@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_109
+DCI: Levocabastine | OXYBUPROCAINE CHLORHYDRATE 0,4 % collyre sol récip unidose (CHLORHYDRATE D'OXYBUPROCAINE THEA Unidose)
+Brand Names: BIOCABASTINE | LEVOPHTA
+Pharmaceutical Forms: Collyree En Solution | Collyree En Suspension
+Dosages: 0.0005
+Packaging: flacon/5ml
+Laboratories: LABORATOIRE CHAUVIN | 416 RUE SAMUEL MORSE – CS 99535 | 34961 MONTPELLIER | [Tel, fax, e-Mail : à compléter ultérieurement par le titulaire] | THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01H - ANESTHESIQUES LOCAUX | S01HA - ANESTHESIQUES LOCAUX | S01HA02 - OXYBUPROCAÏNE | S01GX02
+Registration Numbers: 096/17 B 109/99 | 543/17 B 109/21
+Drug Codes: 17 B 109
+
+------------------------------------------------------------
+
+## Indications
+
+Conjonctivites allergiques.
+
+## Posology
+
+Présenté sous forme de micro-suspension, LEVOPHTA 0,05 % collyre doit être agité avant emploi. | Posologie | Population pédiatrique | La sécurité et l’efficacité de LEVOPHTA 0,05 %, collyre, chez les enfants âgés de moins de 6 ans n’ont pas encore été établies. Ces données sont limitées (voir rubrique 5.1). | Adulte et enfant âgé d’au moins 6 ans | La dose usuelle recommandée est de 1 goutte dans chaque œil, 2 fois par jour. | Cette dose peut être augmentée, si nécessaire, à 1 goutte 3 à 4 fois par jour. | Le collyre doit être utilisé à intervalles réguliers. | Le traitement ne devra pas être prolongé au-delà de 5 jours sans avis médical. | Mode d’administration | Comme pour tous les collyres, effectuer, dans l'ordre, les opérations suivantes : | · Se laver soigneusement les mains avant l’instillation. | · Eviter de toucher l'œil ou les paupières avec l'embout du flacon. | · Instiller une goutte de collyre dans le cul de sac conjonctival de l'œil en regardant vers le haut et en tirant légèrement la paupière inférieure vers le bas, | · L'œil fermé, essuyer proprement l'excédent, notamment sur la joue. | · Afin d'éviter les effets systémiques, il est recommandé, de comprimer l'angle interne de l'œil pendant 1 minute après chaque instillation. | En cas de traitement concomitant par un autre collyre, espacer de 15 minutes les instillations.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.
+
+## Precautions
+
+LEVOPHTA 0,05 %, collyre ne doit pas être utilisé en injection. | Le port des lentilles de contact est déconseillé pendant le traitement (risque d'adsorption du conservateur et des principes actifs). | Ce médicament contient du propylèneglycol et peut provoquer des irritations cutanées. | Ce médicament contient du phosphate (voir rubrique 4.8). | Ce médicament contient du chlorure de benzalkonium équivalent à 0,15 mg/mL. | Le chlorure de benzalkonium peut être absorbé par les lentilles de contact souples et changer leur couleur. Retirer les lentilles de contact avant application et attendre au moins 15 minutes avant de les remettre. | Le chlorure de benzalkonium est connu pour provoquer une irritation des yeux, des symptômes du syndrome de l’œil sec et peut affecter le film lacrymal et la surface de la cornée. Doit être utilisé avec prudence chez les patients atteints d’œil sec et ceux présentant un risque d’endommagement de la cornée. Les patients doivent être surveillés en cas d’utilisation prolongée. | Le chlorure de benzalkonium peut irriter la peau.
+
+## Interactions
+
+Sans objet.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Aucune donnée concernant l'espèce humaine n'est disponible. Compte tenu du passage systémique négligeable et du fait qu'aucun effet embryotoxique ou tératogène n'ait été signalé lors d'expérimentation animale, l'utilisation du LEVOPHTA 0,05 %, collyre est envisageable avec précaution durant la grossesse. | Allaitement | Du fait de l'absence de données, l'utilisation de la lévocabastine n'est pas recommandée au cours de l'allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : antihistaminique H1 sélectif , code ATC : S01GX02 . | La lévocabastine est un antihistaminique-H1, sélectif, puissant et dont l'action est rapide et prolongée. | Après instillation oculaire, elle soulage rapidement et pendant plusieurs heures les symptômes de la conjonctivite allergique (prurit, érythème, larmoiement, œdème palpébral, chémosis). | Population pédiatrique | Les études pédiatriques réalisées dans la population d’enfants âgés de 6 à 18 ans ont confirmé l’efficacité de la lévocabastine en instillations oculaires. Des données d’utilisation chez les enfants de 4 à 6 ans ont été publiées. En raison de leur caractère limité, le rapport bénéfice-risque doit être pris en compte en cas d’utilisation de la lévocabastine oculaire chez les enfants d’au moins 4 ans et de moins de 6 ans.
+
+## Adverse Effects
+
+Les effets indésirables issus des essais cliniques, études épidémiologiques et des données de post-marketing sont classés selon leur fréquence d'apparition, comme suit : très fréquents (≥ 1/10), fréquents (≥ 1/100, <1/10), peu fréquents (≥1/1000, < 1/100), rares (≥1/10000, <1/1000) et très rares (<1/10000). Les fréquences des effets rapportés après commercialisation ne sont pas connues. | Affections oculaires | Fréquent : Douleur oculaire, vision floue | Peu fréquent : Œdème des paupières | Très rare : Conjonctivite, gonflement des yeux, blépharite, hyperémie oculaire, larmoiement des yeux | Quelques très rares cas de calcification cornéenne ont été signalés en association avec l’utilisation de gouttes contenant des phosphates chez certains patients atteints de cornées gravement endommagées. | Affections cardiaques | Très rare : palpitations | Troubles généraux et anomalie au site d’administration | Fréquent : Réaction au site d’administration incluant sensation de brûlure/picotement, irritation oculaire | Très rare : Réaction au site d’administration incluant rougeur des yeux, prurit oculaire | Affections du système immunitaire | Très rare : Œdème de Quincke, hypersensibilité , réaction anaphylactique | Affections de la peau et du tissus sous-cutané | Très rare : Dermatite de contact, urticaire | Affections du système nerveux | Très rare : Maux de tête | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/.
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C. | Pour les conditions de conservation du médicament après première ouverture, voir la rubrique 6.3.

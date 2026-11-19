@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_051
+DCI: TRIMEBUTINE MALEATE 100 mg cp (DEBRIDAT) | Trimebutine Maleate
+Brand Names: DEBRIDAT | GASTRIMED | SAPBRIDATE | TRANSACALM | TRIBEMEX | TRIMEBUTINE B | TRIMEBUTINE BIOCARE
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/20 | b/30
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES | PFIZER HOLDING FRANCE | 23-25 AVENUE DU DOCTEUR LANNELONGUE | 75014 PARIS | SUBSTIPHARM | 24 RUE ERLANGER | 75016 PARIS
+ATC Classification: A03AA05
+Registration Numbers: 050/10 F 051/96/13 | 235/10 F 051/02/23 | 289/10 F 051/04/14 | 293/10 F 051/13/24 | 400/10 F 051/16 | 544/10 F 051/06/19 | 595/10 F 051/97/25
+Drug Codes: 10 F 051
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement symptomatique des douleurs, des troubles du transit et de l'inconfort intestinal liés aux troubles fonctionnels intestinaux.
+
+## Posology
+
+RESERVE A L'ADULTE. | La posologie usuelle est de 1 comprimé de 100 mg, 3 fois par jour et qui peut être augmentée exceptionnellement jusqu'à 2 comprimés de 100 mg, 3 fois par jour.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1. | Bien que ce médicament soit réservé à l’adulte, il est rappelé que la trimébutine est contre-indiquée chez l’enfant de moins de 2 ans.
+
+## Precautions
+
+Ce médicament contient du lactose (voir rubrique 2). Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament. | Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c'est-à-dire qu’il est essentiellement « sans sodium ».
+
+## Interactions
+
+Sans objet.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Les études chez l'animal n'ont pas mis en évidence d'effet tératogène. | Il n'existe pas actuellement de données suffisamment pertinentes, pour évaluer un éventuel effet malformatif ou fœtotoxique de la trimébutine lorsqu'elle est administrée pendant la grossesse. | En conséquence, par mesure de précaution, il est préférable de ne pas utiliser la trimébutine au cours du premier trimestre de la grossesse. En l'absence d'effet néfaste attendu pour la mère ou l'enfant, l'utilisation de la trimébutine au cours des 2 ème et 3 ème trimestres de la grossesse ne doit être envisagée que si nécessaire. | Allaitement | Le passage dans le lait maternel de la trimébutine n’est pas connu. | Par mesure de précaution, il est préférable d’éviter d’utiliser la trimébutine pendant l’allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : ANTISPASMODIQUE MUSCULOTROPE - code ATC : A03AA05 | (A : appareil digestif et métabolisme) | Les effets de la trimébutine s’exercent au niveau du tube digestif sur la motricité intestinale. | La trimébutine a des propriétés d’agoniste enképhalinergique. Elle stimule la motricité intestinale en déclenchant des ondes de phase III propagées du complexe moteur migrant et en l’inhibant lors de stimulation préalable (chez l’animal). | In vitro , elle agit par blocage des canaux sodiques (IC50 = 8.4 μM) et inhibe la libération d’un médiateur de la nociception (le glutamate). | Chez le rat, elle inhibe la réaction de l’animal à la distension rectale et colique dans différents modèles expérimentaux.
+
+## Adverse Effects
+
+La liste ci-dessous des effets indésirables est issue de l’expérience des essais cliniques et des données rapportées depuis la mise sur le marché. | Selon le système de classification par organe, les effets indésirables sont listés ci-dessous par ordre de fréquence en utilisant les catégories suivantes : très fréquent (≥1/10) ; fréquent (≥1/100 à <1/10) ; peu fréquent (≥1/1000 à <1/100) ; rare (≥1/10000 à <1/1000) ; très rare (<1/10000) ; fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Affections du système immunitaire | Fréquence indéterminée : réactions d’hypersensibilité (prurit, urticaire, œdème de Quincke et exceptionnellement choc anaphylactique) | Affections de la peau et du tissu sous-cutané | Peu fréquent : rash | Fréquence indéterminée : éruption maculopapuleuse généralisée, érythèmes, réactions eczématiformes et exceptionnellement réactions cutanées sévères comprenant des cas de pustulose exanthématique aiguë généralisée (PEAG), érythème polymorphe, toxidermie fébrile. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : www.signalement-sante.gouv.fr .
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C.

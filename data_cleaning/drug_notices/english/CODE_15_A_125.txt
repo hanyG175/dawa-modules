@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_125
+DCI: Phenytoine Sodique
+DrugBank ID: DB00252
+DrugBank Name: Phenytoin
+Brand Names: FENTEX
+Pharmaceutical Forms: Solution
+Dosages: 250mg/5ml
+Packaging: b/05 flacon 5ml et b/10 flacon 5ml
+Registration Numbers: 551/15 A 125/19
+Drug Codes: 15 A 125
+
+------------------------------------------------------------
+
+## Description
+
+Phenytoin is classified as a hydantoin derivative and despite its narrow therapeutic index, it is one of the most commonly used anticonvulsants. 12 , 6 , 8 Since it's introduction about 80 years ago, phenytoin has not only been established as an effective anti-epileptic, but has also been investigated for several other indications such as bipolar disorder, retina protection, and wound healing. 7 , 6 Clinicians are advised to initiate therapeutic drug monitoring in patients who require phenytoin since even small deviations from the recommended therapeutic range can lead to suboptimal treatment, or adverse effects. 8 , 10 Both parenteral and oral formulations of phenytoin are available on the market. 8
+
+## Pharmacodynamics
+
+Phenytoin is an anticonvulsant with a narrow therapeutic index. 5 Although the recommended therapeutic range is cited to be between 10-20 mg/L, differences in albumin levels, genetics, comorbidities, and body composition can make achieving an ideal phenytoin dose challenging. 5 For example, studies have confirmed that phenytoin metabolism is impacted by CYP2C9 genotype polymorphisms and possibly by CYP2C19 genotype polymorphisms (the latter has not been as extensively studied). 5 It is worth nothing that although phenytoin is highly protein bound, only the fraction unbound is able to exert a pharmacological effect. 17 Therefore, factors that reduce or increase the percentage of protein bound phenytoin (for example: concomitant administration of drugs that can cause displacement from protein binding sites) can have a marked impact on phenytoin therapy. 4 , 17
+
+## Mechanism Of Action
+
+Sodium channel protein type 5 subunit alpha Inhibitor Sodium channel protein type 1 subunit alpha Inhibitor Voltage-gated inwardly rectifying potassium channel KCNH2 Inhibitor + 6 more targets
+
+## Absorption
+
+Given its narrow therapeutic index, therapeutic drug monitoring is recommended to help guide dosing. 8 , 10 Phenytoin is completely absorbed. 8 Peak plasma concentration is attained approximately 1.5-3 hours, and 4-12 hours after administration of the immediate release formulation and the extended release formulation, respectively. 3 , 8 It should be noted that absorption can be markedly prolonged in situations of acute ingestion. 8
+
+## Volume Of Distribution
+
+The volume of distribution of phenytoin is reported to be approximately 0.75 L/kg. 11
+
+## Metabolism
+
+Phenytoin is extensively metabolized and is first transformed into a reactive arene oxide intermediate . 12 It is thought that this reactive intermediate is responsible for many undesirable phenytoin adverse effects such as hepatotoxicity, SJS/TEN, and other idiosyncratic reactions. 12 The arene oxide is metabolized to either a hydroxyphenytoin or phenytoin dihydrodiol metabolite, although the former accounts for about 90% of phenytoin metabolism. 12 Interestingly, two stereoisomers of the hydroxyphenytoin metabolite are formed by CYP2C9 and CYP2C19: (R)-p-HPPH and (S)-p-HPPH . 12 When CYP2C19 catalyzes the reaction, the ratio of stereoisomers is roughly 1:1, whereas when CYP2C9 catalyzes the reaction, the ratio heavily favours the "S" stereoisomer. 12 Since the metabolism of phenytoin is in part influenced by genetic polymorphisms of CYP2C9 and CYP2C19, this ratio can be utilized to identify different genomic variants of the enzymes. 5 , 6 , 12 EPHX1, CYP1A2, CYP2A6, CYP2C19, CYP2C8, CYP2C9, CYP2D6, CYP2E1 and CYP3A4 are responsible for producing the phenytoin dihydrodiol metabolite. 12 Hydroxyphenytoin can be metabolized by CYP2C19, CYP3A5, CYP2C9, CYP3A4, CYP3A7, CYP2B6 and CYP2D6 to a phenytoin catechol metabolite or undergo glucuronidation by UGT1A6, UGT1A9, UGT1A1, and UGT1A4 to a glucuronide metabolite that can be eliminated in the urine. 12 On the other hand, the phenytoin dihydrodiol entity is only transformed to the catechol metabolite. 12 The catechol metabolite can undergo methylation by COMT and be subsequently eliminated in the urine, or can spontaneously oxidize to a phenytoin quinone (NQO1 can transform the quinone back to the catechol metabolite). 12 Of note, although CYP2C18 is poorly expressed in the liver, the enzyme is active in the skin and is involved in the primary and secondary hydroxylation of phenytoin. 12 , 13 This CYP2C18 mediated bioactivation may be linked to the manifestation of adverse cutaneous drug reactions associated with phenytoin. 12 Hover over products below to view reaction partners Phenytoin Phenytoin arene-oxide Hydroxyphenytoin Hydroxyphenytoin-O-glucuronide Phenytoin catechol Phenytoin methylcatechol Phenytoin quinone Phenytoin dihydrodiol Phenytoin catechol Phenytoin methylcatechol Phenytoin quinone
+
+## Route Of Elimination
+
+The majority of phenytoin is excreted as inactive metabolites in the bile. 14 , 16 An estimated 1-5% of phenytoin is eliminated unchanged in the urine. 8
+
+## Half Life
+
+Oral administration: The half-life of phenytoin ranges from 7 to 42 hours, and is 22 hours on average. 11 , 14 Intravenous administration: The half-life of phenytoin ranges from 10-15 hours. 16
+
+## Clearance
+
+The clearance of phenytoin is non-linear. 10 At lower serum concentrations (less than 10 mg/L), elimination is characterized by first order kinetics. 3 As plasma concentrations increase, the kinetics shift gradually towards zero-order, and finally reach zero-order kinetics once the system is saturated. 3
+
+## Toxicity
+
+The experience of phenytoin toxicity is not limited to situations of acute ingestion, but may also occur due to drug interactions or due to physiological circumstances that impact serum albumin (ie. kidney disease) or drug metabolism. 3 Other changes that may result in phenytoin toxicity include pregnancy, malnutrition and malignancy. 3 Phenytoin toxicity most often affects the cardiovascular and nervous systems. 3 The most common presentation of toxicity depends on the route of administration. 3 Cardiovascular adverse effects are most commonly linked to intravenous phenytoin administration, whereas neurological adverse effects are more common with oral phenytoin administration. 3 Neurotoxicity is usually dependent on serum concentrations. 3 When concentrations range from 10-20 mg/L, mild nystagmus and lateral gaze may occur, while more significant nystagmus is associated with concentrations ranging from 20-30 mg/L. 3 At concentrations of 30-40 mg/L, slurred speech, tremor, nausea, vomiting and ataxia have been reported. 3 In more serious cases where serum levels range from 40-50 mg/L patients are at risk of lethargy, confusion and hyperactivity, and at levels beyond 50 mg/L, coma and seizures may occur. 3 Phenytoin is classified as an antiarrhythmic and can cause SA and AV nodal blocks as well as dysrhythmias due to its effect on voltage-gated sodium channels. 3 Further, since phenytoin is poorly soluble, the parenteral form is administered with propylene glycol, which is a cardiac depressant. 3 The infusion rate of parenteral phenytoin should not exceed 50 mg per minute due to the risk of hypotension, bradycardia, and asystole. 3 Treatment for phenytoin toxicity is non-specific and centres around supportive care. 3 One dose of activated charcoal may be used to prevent phenytoin absorption in cases of acute ingestion. 3 Although hemodialysis is moderately effective at removing phenytoin, it is not normally recommended due to the risks associated with the procedure, and the general effectiveness of supportive care. 3

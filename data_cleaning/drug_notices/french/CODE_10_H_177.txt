@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_H_177
+DCI: RACECADOTRIL 10 mg pdre oral sach (TIORFAN nour)
+Brand Names: CELOFON NOURRISSONS | DIACARE | DIARFIL | DOCATRIL | TIOPAM NOURISSONS | TIOTRIL
+Pharmaceutical Forms: Poudre Orale En Sachetet Dose
+Dosages: 10mg
+Packaging: b/16 sachets
+Laboratories: BIOPROJET Pharma
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07X - AUTRES ANTIDIARRHEIQUES | A07XA - AUTRES ANTIDIARRHEIQUES | A07XA04 - RACECADOTRIL
+Registration Numbers: 235/10 H 177/23 | 263/10 H 177/17 | 268/10 H 177/19/24 | 289/10 H 177/19/24 | 293/10 H 177/20 | 380/10 H 177/20
+Drug Codes: 10 H 177
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | En complément à la réhydratation orale et des mesures diététiques, traitement symptomatique des diarrhées aiguës de l'enfant et du nourrisson. | L'importance de la réhydratation par soluté de réhydratation orale ou par voie intraveineuse doit être adaptée en fonction de l'intensité de la diarrhée, de l'âge et des particularités de l'enfant (maladies associées...).
+
+## Posology
+
+Posologie | Unité de prise | gélule | racécadotril : 100 mg | Modalités d'administration | Voie orale | Administrer avant les principaux repas | Administrer la 1ère dose d'emblée | Posologie à adapter en fonction du poids corporel | Traitement à poursuivre jusqu'à apparition de deux selles moulées consécutives | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Diarrhée aiguë, traitement symptomatique (de la) | Posologie standard | 1 gélule 3 fois par jour | Durées absolues de traitement | Ne pas dépasser 7 jours de traitement. | Posologies maximales | Posologie maximale: 3 gélules par jour
+
+## Precautions
+
+Allaitement | Antécédent d'oedème de Quincke | Diarrhée chronique | Diarrhée infectieuse avec signes invasifs | Diarrhée sévère | Dysenterie | Enfant de moins de 15 ans | Grossesse | Insuffisance hépatique | Insuffisance rénale | Traitement par IEC en cours | Vomissement abondant
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Racécadotril : Mécanisme d'action | Le racécadotril est une prodrogue, qui doit être hydrolysée en son métabolite actif, le thiorphan, qui est un inhibiteur de l'enképhalinase, enzyme de la membrane cellulaire, présente dans différents tissus, dont l'épithélium intestinal. | Cette enzyme contribue à l'hydrolyse de peptides exogènes et endogènes, telles que les enképhalines. Le racécadotril protège ainsi les enképhalines endogènes, qui sont physiologiquement actives au niveau digestif, prolongeant leur action antisécrétoire. Le racécadotril est un antisécrétoire intestinal pur. Il diminue l'hypersécrétion intestinale d'eau et d'électrolytes, induite par la toxine cholérique ou l'inflammation, sans avoir d'effet sur la sécrétion basale. Il exerce une activité antidiarrhéique rapide, sans modification du temps de transit intestinal. Le racécadotril n'entraîne pas de ballonnement abdominal. Durant les essais cliniques, une constipation secondaire est observée avec la même fréquence dans les groupes racécadotril et placebo. Par voie orale, l'activité est uniquement périphérique, sans effet sur le système nerveux central.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Erythème cutané (Peu fréquent) | - Toxidermie | - Eruption papuleuse | - Prurit | - Prurigo | - Urticaire | - Erythème polymorphe | - Erythème noueux | DIVERS: | - Oedème de la face | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Choc anaphylactique | - Oedème de Quincke | - Syndrome DRESS | OPHTALMOLOGIE: | - Oedème palpébral | ORL, STOMATOLOGIE: | - Oedème labial | SYSTÈME DIGESTIF: | - Oedème de la langue | SYSTÈME NERVEUX: | - Céphalée (Fréquent)

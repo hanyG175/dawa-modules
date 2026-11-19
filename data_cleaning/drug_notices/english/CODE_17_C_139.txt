@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_139
+DCI: TRAVOPROST 40 µg/ml collyre sol (SINETRAV) | Travoprost
+DrugBank ID: DB00287
+DrugBank Name: Travoprost
+Brand Names: TRAVADIS | TRAVADROP | TRAVADROP FREE | TRAVOST
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 40mcg/ml
+Packaging: flacon compte goutte de 5 ml contenant 2.5 ml de sol | flacon de 2.5 ml
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON | HORUS PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EE - ANALOGUES DES PROSTAGLANDINES | S01EE04 - TRAVOPROST | S01ED51
+Registration Numbers: 065/17 C 139/21 | 065/17 C 139/25 | 317/17 C 139/22 | 543/17 C 139/18/24
+Drug Codes: 17 C 139
+
+------------------------------------------------------------
+
+## Description
+
+Travoprost is a synthetic isopropyl ester prodrug of a prostaglandin F2alpha (F2α) analogue and selective FP prostanoid receptor agonist. It is used to decrease intraocular pressure in open-angle glaucoma and ocular hypertension. 7 Unlike other prostaglandin analogues, travoprost demonstrates full agonism and high selectivity at the prostanoid receptor, reporting a higher efficacy in reducing intraocular pressure and a reduced risk for developing off-target side effects. 2
+
+## Pharmacodynamics
+
+Travoprost demonstrates preferential affinity and full agonist activity for the prostaglandin FP receptor in the nanomolar range. 3 Travoprost shows no significant affinity for other prostanoid or non-prostanoid receptors. 2 Travoprost-induced reduction of intraocular pressure is observed about two hours after administration, and the maximum effect is reached after 12 hours. Significant lowering of intraocular pressure can be maintained for periods exceeding 24 hours with a single dose. 4
+
+## Mechanism Of Action
+
+Prostaglandin F2-alpha receptor Agonist
+
+## Absorption
+
+Following ophthalmic administration, travoprost is absorbed through the cornea. In many patients in multiple-dose pharmacokinetic studies, the plasma concentrations of the free acid were below 0.01 ng/mL, which was the quantitation limit of the assay. In these studies, the mean plasma C max of travoprost free acid was 0.018 ± 0.007 ng/mL (ranging from 0.01 to 0.052 ng/mL), and the T max was about 30 minutes. 7
+
+## Volume Of Distribution
+
+No information is available.
+
+## Metabolism
+
+Travoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to its biologically active free acid. Systemically, travoprost free acid is metabolized to inactive metabolites via beta-oxidation of the α (carboxylic acid) chain to give the 1,2-dinor and 1,2,3,4-tetranor analogs, via oxidation of the 15-hydroxyl moiety, as well as via reduction of the 13, 14 double bond. 4 , 7 Hover over products below to view reaction partners Travoprost Travoprost free acid
+
+## Route Of Elimination
+
+The elimination of travoprost free acid from plasma is rapid. The levels of travoprost free acid were generally below the limit of quantification within one hour after dosing. Less than 2% of the topical ocular dose of travoprost was excreted in the urine within 4 hours as the travoprost free acid. 7
+
+## Half Life
+
+The terminal elimination half-life of travoprost free acid was estimated from fourteen subjects and ranged from 17 minutes to 86 minutes with the mean half-life of 45 minutes. 7
+
+## Clearance
+
+No information is available.
+
+## Toxicity
+
+No cases of overdose have been reported for travoprost, as overdose from topical or ophthalmic administration is not likely to occur. Overdose from topical administration should be responded to with flushing of the eyes with lukewarm water. Treatment of an oral overdose should be symptomatic and supportive. 4

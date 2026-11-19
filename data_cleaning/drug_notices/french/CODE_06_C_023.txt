@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_C_023
+DCI: Molsidomine
+Brand Names: MOLSIDOMINE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 4MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 449.99 DA
+Prescription List: Liste I
+ATC Classification: 06C023
+Registration Numbers: 003/06 C 023/06/20 | 195/06 C 023/07/21 | 268/06 C 023/10/26 | 318/06 C 023/19 | 352/06 C 023/20/25 | 447/06 C 023/14/24
+Drug Codes: 06 C 023
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+ANTI-ANGOREUX

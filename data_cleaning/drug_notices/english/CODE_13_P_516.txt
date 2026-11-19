@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_516
+DCI: Letermovir
+DrugBank ID: DB12070
+DrugBank Name: Letermovir
+Brand Names: PREVYMIS
+Pharmaceutical Forms: Comprimé
+Dosages: 240mg
+Packaging: b/28
+Registration Numbers: 633/13 P 516/24
+Drug Codes: 13 P 516
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Letermovir inhibits the activity of the DNA terminase complex of CMV thereby preventing the cutting of viral DNA into mature length genomes for packaging into viral particles. 7 Letemovir inhibits the DNA terminase complex with an EC50 of 2.1nM.
+
+## Mechanism Of Action
+
+CMV DNA Terminase Complex (Human Cytomegalovirus) Inhibitor
+
+## Absorption
+
+Letermovir has a bioavailability of 94% in healthy subjects when administered without cyclosporin, 35% in HSCT recipients when administered without cyclosporin, and 85% in HSCT recipients when administered with cyclosporin. 7 Letermovir's Tmax is 45 min to 2.25 hours. 7 Time to steady state has been observed to be 9-10 days. Taking Letermovir with food increases Cmax by an average of 129.82% (range of 104.35%-161.50%). 7 No significant effect on AUC has been observed.
+
+## Volume Of Distribution
+
+The mean steady state volume of distribution is 45.5L. 7
+
+## Metabolism
+
+Letermovir undergoes a minor degree of metabolism through UGT1A1/1A3. 7
+
+## Route Of Elimination
+
+Letemovir is taken up by the liver through OATP1B1/3 transporters. 93% is excreted in the feces with 70% as the parent drug. 7 <2% is excreted in the urine.
+
+## Half Life
+
+The mean terminal half-life was observed to be 12 hours following administration of Letemovir 480 mg IV once daily. 7
+
+## Clearance
+
+The mean clearance is 11.25 L/h in healthy subjects. 1
+
+## Toxicity
+
+There is no human data on the safety of Letemovir in pregnancy. 7 Embryo-fetal toxicity and malformations have been observed in rats at exposures 11 times the human exposure at the recommended human dose (RHD) of Letemovir. No such toxicity was noted in rats at 3 times human exposure at the RHD or in rabbits at values less than human exposure with the RHD. Total litter loss was observed in 21.7% of female rats at 2 times human exposure at RHD. This did not occur at values similar to human exposure at RHD. Ototoxicity has been noted in animal studies. 8 No human data is available regarding lactation. 7 Letemovir has been observed in the milk of lactating rats and in the blood of their nursing pups. No data is available concerning the effect of Letemovir on human fertility. 7 Testicular toxicity leading to reduced fertility has been observed in male rats. Patients should only consider an intravenous formulation if they are unable to take oral therapy. 8 They should be switched to an oral therapy as soon as possible to reduce exposure to the excipient hydroxypropyl betadex . 8 Accumulation of hydroxypropyl betadex may occur in adults with creatinine clearance <50 mL/min, or pediatric patients with a similar level of age-adjusted renal impairment. 8 Intravenous administration should not exceed 4 weeks. 8 No antidote exists for Letemovir overdosage. 7 The effectiveness of dialysis in clearing plasma of Letemovir is unknown.

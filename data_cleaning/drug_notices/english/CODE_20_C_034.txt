@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_034
+DCI: OXELADINE CITRATE 10 mg/5 ml sirop (PAXELADINE)
+DrugBank ID: DB04822
+DrugBank Name: Oxeladin
+Brand Names: EUPNEX
+Pharmaceutical Forms: Siropop
+Dosages: 10 mg/5ml
+Packaging: flacon/180 ml+goblet doseur
+Laboratories: MAYOLY PHARMA FRANCE
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05D - ANTITUSSIFS, SAUF ASSOCIATIONS AUX EXPECTORANTS | R05DB - AUTRES ANTITUSSIFS | R05DB09 - OXELADINE
+Registration Numbers: 003/20 C 034/98/25
+Drug Codes: 20 C 034
+
+------------------------------------------------------------
+
+## Description
+
+Withdrawn from the Canadian, US, and UK markets in 1976 due to carcinogenicity.

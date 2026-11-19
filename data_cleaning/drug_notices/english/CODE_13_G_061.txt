@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_061
+DCI: BENZATHINE BENZYLPENICILLINE 1,2 M UI pdre/solv p susp inj (EXTENCILLINE)
+DrugBank ID: DB06770
+DrugBank Name: Benzyl alcohol
+Brand Names: MMF | RETARCILINE
+Pharmaceutical Forms: Poudre P. Susp. Inj. Im
+Dosages: 1200000ui/fl. de pdre.
+Packaging: b/01fl. de pdre. + 01amp. de 5ml de solv.(eppi) et b/50fl. de pdre.
+Registration Numbers: 003/13 G 061/05/25 | 293/13 G 061/11/19
+Drug Codes: 13 G 061
+
+------------------------------------------------------------
+
+## Description
+
+A medication used to treat head lice infections.
+
+## Mechanism Of Action
+
+Benzyl alcohol inhibits lice from closing their respiratory spiracles, allowing the vehicle to obstruct the spiracles and causing the lice to asphyxiate.
+
+## Toxicity
+
+1250 mg/kg (rat, oral) LD50
+400 mg/kg IPR-RAT LD50
+2000 mg/kg SKN-RBT LD50
+53 mg/kg IVN-RAT LD50
+2500 mg/kg ORL-GPG LD50

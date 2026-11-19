@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_149
+DCI: DEFERIPRONE 100 mg/ml sol buv (FERRIPROX) | argentum nitricum [H]
+Brand Names: NOVO FER | POLYFER
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/30
+Laboratories: CHIESI SAS
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AC - CHELATEURS DU FER | V03AC02 - DEFERIPRONE
+Registration Numbers: 242/12 E 149/21 | 504/12 E 149/16
+Drug Codes: 12 E 149
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Jan 23 00:00:00 CET 2023 | is_edited: False | title: INDICATIONS | text: Ferriprox en monothérapie est indiqué dans le traitement de la surcharge en fer chez les patients présentant une thalassémie majeure lorsque le traitement chélateur en cours est contre-indiqué ou inadapté. | Ferriprox associé à un autre chélateur (voir rubrique | Mises en garde et précautions d'emploi | ) est indiqué chez les patients présentant une thalassémie majeure lorsque la monothérapie avec un autre chélateur du fer est inefficace ou lorsque la prévention ou le traitement des conséquences de la surcharge en fer menaçant le pronostic vital (surcharge cardiaque principalement) justifie qu'on y remédie de manière rapide et efficace (voir rubrique | Posologie et mode d'administration | ).
+
+## Posology
+
+Posologie | Unité de prise | comprimé | défériprone : 1000 mg | Modalités d'administration | Voie orale | Calculer la posologie par kg de poids corporel en arrondissant au 1/2 comprimé le plus proche | Posologie à adapter en fonction de la réponse clinique | Utiliser une forme sécable si nécessaire | Posologie | Patient à partir de 10 an(s) | Patient quel que soit le poids | Surcharge martiale, traitement associé de 2e intention (de la) - Surcharge martiale, traitement de 2e intention (de la) | Posologie standard | 25 mg/kg 3 fois par jour | Posologies maximales | Posologie maximale: 100 mg/kg par jour
+
+## Precautions
+
+Association à d'autres chélateurs du fer | Enfant de moins de 10 ans | Femme susceptible d'être enceinte | Hépatite C | Infection par le VIH | Insuffisance hépatique sévère | Insuffisance rénale terminale | Patient immunodéprimé, non infecté par le VIH | Thalassémie | Transaminases sériques, augmentation (des)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Défériprone : Mécanisme d'action | La défériprone (3-hydroxy-1,2-diméthylpyridin-4-one) est un ligand bidenté qui se lie au | fer | selon un rapport molaire de 3:1.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Fréquent) | - Enzymes hépatiques (augmentation) (Fréquent) | - Zinc plasmatique (diminution) | DERMATOLOGIE: | - Eruption cutanée | - Urticaire | DIVERS: | - Asthénie (Fréquent) | HÉMATOLOGIE: | - Agranulocytose (Fréquent) | HÉPATOLOGIE: | - Fibrose hépatique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Appétit augmenté (Fréquent) | OPHTALMOLOGIE: | - Diplopie | - Nystagmus | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Fréquent) | - Douleur abdominale (Très fréquent) | - Vomissement (Très fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Arthropathie | - Hypertonie musculaire | - Hypotonie musculaire | - Arthrite | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Trouble de la marche | - Syndrome cérébelleux | - Trouble neurologique | - Instabilité posturale | - Ralentissement psychomoteur | UROLOGIE, NÉPHROLOGIE: | - Couleur de l'urine (modification) (Très fréquent)

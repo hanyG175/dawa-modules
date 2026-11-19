@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_C_012
+DCI: CALCITONINE DE SAUMON 100 UI/ml sol inj (CALCITONINE PHARMY II)
+Brand Names: CALCO
+Pharmaceutical Forms: Solution
+Dosages: 100ui/ml
+Packaging: b/5amp. de 1ml
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H05 - MEDICAMENTS DE L'EQUILIBRE CALCIQUE | H05B - MEDICAMENTS ANTIPARATHYROÏDIENS | H05BA - CALCITONINES | H05BA01 - CALCITONINE (SYNTHETIQUE DE SAUMON)
+Registration Numbers: 011/21 C 012/96/16
+Drug Codes: 21 C 012
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | calcitonine de saumon : 100 UI | Modalités d'administration | Voie intramusculaire, voie intraveineuse, voie intraveineuse (en perfusion), voie sous-cutanée | Administrer de préférence le soir au coucher | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Perte osseuse due à une immobilisation prolongée, traitement préventif (de la) | Traitement initial éventuel | Voie intramusculaire, voie sous-cutanée | 50 UI 1 fois par jour | Posologie standard | Voie intramusculaire, voie sous-cutanée | 50 UI 2 fois par jour | Pendant 2 semaines | Ne pas dépasser 4 semaines de traitement. | Maladie de Paget, traitement de 2e intention (de la) | Posologie standard | Dans le cas de : Schéma posologique 1 | Voie intramusculaire, voie sous-cutanée | Administrer au coucher | Traitement à poursuivre jusqu'à disparition des symptômes | 100 UI 1 fois par jour | Ne pas dépasser 3 mois de traitement. | Dans le cas de : Schéma posologique 2 | Voie intramusculaire, voie sous-cutanée | Administrer au coucher | Traitement à poursuivre jusqu'à disparition des symptômes | 50 UI 3 fois par semaine | Ne pas dépasser 3 mois de traitement. | Hypercalcémie maligne | Traitement initial | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | 100 UI toutes les 6 à 8 heures | Pendant 1 à 2 jours | Traitement ultérieur éventuel | Dans le cas de : Réponse insuffisante au traitement | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | 100 à 400 UI toutes les 6 à 8 heures | Dans le cas de : Etat sévère, Traitement d'urgence | Voie intraveineuse (en perfusion) | A diluer avant administration | Administrer par perfusion intraveineuse d'au moins 6 heures | 10 UI/kg 1 fois par jour | Posologie maximale: 10 UI/kg par jour
+
+## Precautions
+
+Allaitement | Grossesse | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Calcitonine : Mécanisme d'action | La calcitonine est une hormone calciotrope qui inhibe la résorption osseuse par action directe sur les ostéoclastes. En inhibant l'activité des ostéoclastes par l'intermédiaire de ses récepteurs spécifiques, la calcitonine de saumon diminue la résorption osseuse. Dans les études pharmacologiques, la calcitonine a montré une activité antalgique sur des modèles animaux. | La calcitonine réduit de manière importante le renouvellement osseux dans les situations caractérisées par une augmentation du taux de résorption osseuse, telles que la maladie de Paget et la perte osseuse aiguë suite à une immobilisation soudaine. | L'absence de défaut de minéralisation osseuse en cas de traitement par la calcitonine a été démontrée par des études d'histomorphométrie à la fois chez l'homme et chez l'animal. | Des diminutions de la résorption osseuse, mise en évidence par une réduction de l'hydroxyproline et de la désoxypyridinoline urinaires, ont été observées après un traitement par la calcitonine à la fois chez des volontaires sains et chez des patients atteints de troubles d'origine osseuse, y compris la maladie de Paget et l'ostéoporose. | L'effet hypocalcémiant de la calcitonine est dû à la fois à une diminution du flux de | calcium | allant de l'os vers le liquide extracellulaire et à l'inhibition de la réabsorption tubulaire rénale du | calcium | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Anticorps anticalcitonine de saumon (Rare) | - Hypocalcémie | CANCEROLOGIE: | - Cancer secondaire (Fréquent) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Eruption cutanée généralisée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire | DIVERS: | - Oedème généralisé (Peu fréquent) | - Syndrome pseudogrippal (Peu fréquent) | - Fatigue (Fréquent) | - Oedème périphérique (Peu fréquent) | - Oedème de la face (Très rare) | - Décès | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Réaction anaphylactique (Très rare) | - Réaction allergique généralisée (Très rare) | - Choc anaphylactique (Très rare) | INSTRUMENTATION: | - Réaction au point d'injection (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Appétit diminué | OPHTALMOLOGIE: | - Trouble de la vision (Peu fréquent) | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | - Sensation de vertige (Peu fréquent) | - Goût métallique (Peu fréquent) | - Oedème laryngé (Très rare) | SYSTÈME CARDIOVASCULAIRE: | - Hypertension artérielle (Peu fréquent) | - Bouffée de chaleur (Très fréquent) | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Douleur abdominale (Fréquent) | - Diarrhée (Peu fréquent) | - Oedème de la langue (Très rare) | - Vomissement (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Douleur musculo-squelettique (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Paresthésie | - Tremblement | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Polyurie (Peu fréquent)

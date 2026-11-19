@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_D_041
+DCI: AMIODARONE CHLORHYDRATE 200 mg cp (AMIODARONE ARROW) | Amiodarone Chlorhydrate
+Brand Names: AMIODARONE HUP | TRIAXONE
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON | FRANCE
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01B - ANTIARYTHMIQUES, CLASSE I ET III | C01BD - ANTIARYTHMIQUES, CLASSE III | C01BD01 - AMIODARONE | J01DD04
+Registration Numbers: 035/06 D 041/15/22 | 380/06 D 041/14
+Drug Codes: 06 D 041
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | amiodarone chlorhydrate : 200 mg | Modalités d'administration | Voie orale | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Fibrillation auriculaire - Fibrillation ventriculaire, traitement préventif des récidives (de la) - Flutter auriculaire - Tachycardie supraventriculaire - Tachycardie supraventriculaire, traitement préventif des récidives (de la) - Tachycardie ventriculaire, traitement préventif des récidives (de la) | Traitement d'attaque | 200 mg 3 fois par jour | Pendant 8 à 10 jours | Posologie maximale: 1 000 mg par jour | Traitement d'entretien | Utiliser une forme sécable si nécessaire | 100 à 400 mg 1 fois par jour
+
+## Precautions
+
+Anesthésie | Bloc auriculoventriculaire du premier degré | Dysthyroïdie | Enfant de moins de 15 ans | Grossesse, 3 premiers mois (de la) | Hypokaliémie | Intervention chirurgicale | Patient en attente de transplantation cardiaque | Port d'un stimulateur cardiaque | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'hypokaliémie | Thyroide, maladie, antécédent | Transplantation cardiaque | Trouble hydroélectrolytique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Amiodarone : Mécanisme d'action | L’amiodarone possède les propriétés antiarythmiques suivantes : | allongement de la phase 3 du potentiel d'action des cellules cardiaques sans modification de sa hauteur ni de sa vitesse d'ascension (classe III de Vaughan-Williams). L'allongement isolé de la phase 3 du potentiel d'action résulte d'un ralentissement du courant potassique sans modification des courants sodique et calcique ; | effet bradycardisant par diminution de l'automatisme sinusal : cet effet n'est pas antagonisé par l' | atropine | ; | effet antiadrénergique non compétitif alpha et bêta ; | ralentissement de la conduction sino-auriculaire, auriculaire et nodale d'autant plus marqué que le rythme est plus rapide ; | pas de modification de la conduction au niveau ventriculaire ; | augmentation des périodes réfractaires et diminution de l'excitabilité myocardique à l'étage auriculaire, nodal et ventriculaire ; | ralentissement de la conduction et allongement des périodes réfractaires dans les voies accessoires auriculoventriculaires ; | absence d'effet inotrope négatif. | Elle diminue également la consommation d' | oxygène | par chute modérée des résistances périphériques et réduction de la fréquence cardiaque. | Elle augmente le débit coronaire par effet direct sur la musculature lisse des artères myocardiques et maintien du débit cardiaque par diminution de la pression et des résistances périphériques et absence d'effet inotrope négatif.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Transaminases (augmentation) (Très fréquent) | - Hyponatrémie (Rare) | - Neutropénie | - Créatininémie (augmentation) | - T3 (diminution) | - T4 (augmentation) | DERMATOLOGIE: | - Photosensibilisation (Très fréquent) | - Coloration de la peau (Fréquent) | - Dermatite exfoliative (Très rare) | - Alopécie (Très rare) | - Eruption cutanée (Très rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Réaction cutanée sévère | - Erythème cutané | - Dermatose bulleuse | - Eczéma | - Urticaire | DIVERS: | - Granulome inflammatoire | ENDOCRINOLOGIE: | - Hypothyroïdie (Fréquent) | - Dysthyroïdie (Très fréquent) | - Hyperthyroïdie (Fréquent) | - Syndrome de sécrétion inappropriée d'hormone antidiurétique (SIADH) (Très rare) | HÉMATOLOGIE: | - Aplasie médullaire (Très rare) | - Thrombopénie (Très rare) | - Anémie hémolytique (Très rare) | - Agranulocytose | - Granulome de la moelle osseuse | HÉPATOLOGIE: | - Hépatopathie aiguë (Fréquent) | - Hépatite pseudoalcoolique (Très rare) | - Hépatopathie | - Ictère | IMMUNO-ALLERGOLOGIE: | - Syndrome lupique | - Réaction anaphylactoïde | - Dysfonction primaire du greffon | - Choc anaphylactique | - Réaction anaphylactique | - Angioedème | - Syndrome DRESS | NUTRITION, MÉTABOLISME: | - Appétit diminué | OPHTALMOLOGIE: | - Dépôt cornéen (Très fréquent) | - Halo coloré (Exceptionnel) | - Névrite optique (Très rare) | - Oedème papillaire | - Acuité visuelle (diminution) | - Vision floue | ORL, STOMATOLOGIE: | - Dysgueusie | - Sécheresse buccale | - Parosmie | PSYCHIATRIE: | - Trouble du sommeil (Fréquent) | - Libido (diminution) (Fréquent) | - Hallucination | - Cauchemar | - Confusion mentale | - Délire | SYSTÈME CARDIOVASCULAIRE: | - Trouble de la conduction cardiaque (Peu fréquent) | - Bradycardie (Fréquent) | - Vascularite (Très rare) | - Pause sinusale (Exceptionnel) | - Torsades de pointes | - Bloc sino-auriculaire | - Bloc auriculoventriculaire | SYSTÈME DIGESTIF: | - Trouble digestif (Très fréquent) | - Vomissement | - Constipation | - Pancréatite | - Nausée | - Pancréatite aiguë | SYSTÈME MUSCULO-SQUELETTIQUE: | - Myopathie (Peu fréquent) | SYSTÈME NERVEUX: | - Tremblement (Fréquent) | - Syndrome extrapyramidal (Fréquent) | - Neuropathie périphérique (Fréquent) | - Neuropathie optique (Très rare) | - Hypertension intracrânienne (Très rare) | - Céphalée (Très rare) | - Ataxie cérébelleuse (Très rare) | - Syndrome parkinsonien | SYSTÈME RESPIRATOIRE: | - Pleurésie (Fréquent) | - Pneumopathie alvéolaire diffuse (Fréquent) | - Pneumopathie interstitielle (Fréquent) | - Bronchiolite oblitérante (Fréquent) | - Bronchospasme (Très rare) | - Syndrome de détresse respiratoire aiguë (Très rare) | - Fibrose pulmonaire | - Hémoptysie | - Hémorragie intrapulmonaire | UROLOGIE, NÉPHROLOGIE: | - Néphropathie (Très rare) | - Epididymite (Très rare)

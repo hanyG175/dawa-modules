@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_090
+DCI: Oxaliplatine
+Brand Names: OXALIPLATINE MYLAN
+Pharmaceutical Forms: Lyoph. Sol. Inj.
+Dosages: 100MG/FL. DE PDRE. (5MG/ML DE SOL. RECONSTITUEE)
+Packaging: B/1FL. DE PDRE.
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 05G090
+Registration Numbers: 330/05 G 090/12 | 450/05 G 090/12
+Drug Codes: 05 G 090
+
+------------------------------------------------------------
+
+## Indications
+
+CANCEROLOGIE
+
+## Mechanism Of Action
+
+A.T.U.(AUTORISATION TEMPORAIRE D'UTILISATION )

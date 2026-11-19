@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_D_025
+DCI: CLINDAMYCINE (chlorhydrate) 150 mg gél (CLINDAMYCINE VIATRIS)
+DrugBank ID: DB01190
+DrugBank Name: Clindamycin
+Brand Names: CLINARAM
+Pharmaceutical Forms: Gélule
+Dosages: 150mg
+Packaging: b/16
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01F - MACROLIDES, LINCOSAMIDES ET STREPTOGRAMINES | J01FF - LINCOSAMIDES | J01FF01 - CLINDAMYCINE
+Registration Numbers: 166/13 D 025/98/15
+Drug Codes: 13 D 025
+
+------------------------------------------------------------
+
+## Description
+
+Clindamycin is a semi-synthetic lincosamide antibiotic used in the treatment of a variety of serious infections due to susceptible microorganisms 14 , 13 as well as topically for acne vulgaris. 12 It has a relatively narrow spectrum of activity that includes anaerobic bacteria as well as gram-positive cocci and bacilli and gram-negative bacilli. 8 Interestingly, clindamycin appears to carry some activity against protozoans, and has been used off-label in the treatment of toxoplasmosis, malaria, and babesiosis. 9 Clindamycin is derived from, and has largely replaced, lincomycin , a naturally occurring lincosamide and the eponymous member of this antibiotic class, due to its improved properties over the parent compound. The name lincomycin is derived from Lincoln, Nebraska, where it was first isolated from Streptomyces lincolnensis found in a soil sample. 8
+
+## Pharmacodynamics
+
+Clindamycin exerts its bacteriostatic effect via inhibition of microbial protein synthesis. 8 Clindamycin has a relatively short T max and half-life necessitating administration every six hours to ensure adequate antibiotic concentrations. 20 Clostridium difficile associated diarrhea (CDAD) has been observed in patients using clindamycin, ranging in severity from mild diarrhea to fatal colitis and occasionally occurring over two months following cessation of antibiotic therapy. 15 Overgrowth of C. difficile resulting from antibiotic use, along with its production of A and B toxins, contributes to morbidity and mortality in these patients. Because of the associated risks, clindamycin should be reserved for serious infections for which the use of less toxic antimicrobial agents are inappropriate. 15 Clindamycin is active against a number of gram-positive aerobic bacteria, as well as both gram-positive and gram-negative anaerobes. 14 Resistance to clindamycin may develop, and is generally the result of base modification within the 23S ribosomal RNA. Cross-resistance between clindamycin and lincomycin is complete, and may also occur between clindamycin and macrolide antibiotics (e.g. erythromycin ) due to similarities in their binding sites. 14 As antimicrobial susceptibility patterns are geographically distinct, local antibiograms should be consulted to ensure adequate coverage of relevant pathogens prior to use.
+
+## Mechanism Of Action
+
+Large ribosomal subunit protein uL1 (Staphylococcus aureus (strain NCTC 8325)) Inhibitor
+
+## Absorption
+
+Oral bioavailability is nearly complete, at approximately 90%, and peak serum concentrations (C max ) of, on average, 2.50 µg/mL are reached at 0.75 hours (T max ). 15 The AUC following an orally administered dose of 300mg was found to be approximately 11 µg•hr/mL. 20 Systemic exposure from the administration of vaginal suppository formulations is 40-fold to 50-fold lower than that observed following parenteral administration 17 and the C max observed following administration of vaginal cream formulations was 0.1% of that observed following parenteral administration. 13
+
+## Volume Of Distribution
+
+Clindamycin is widely distributed in the body, including into bone, but does not distribute into cerebrospinal fluid. The volume of distribution has been variably estimated between 43-74 L. 7 , 6
+
+## Metabolism
+
+Clindamycin undergoes hepatic metabolism mediated primarily by CYP3A4 and, to a lesser extent, CYP3A5. 15 Two inactive metabolites have been identified - an oxidative metabolite, clindamycin sulfoxide, and an N-demethylated metabolite, N-desmethylclindamycin. 15 Hover over products below to view reaction partners Clindamycin Clindamycin sulfoxide N-desmethylclindamycin
+
+## Route Of Elimination
+
+Approximately 10% of clindamycin bioactivity is excreted in the urine and 3.6% in the feces, with the remainder excreted as inactive metabolites. 15
+
+## Half Life
+
+The elimination half-life of clindamycin is about 3 hours in adults and 2.5 hours in children. 15 , 14 Half-life is increased to approximately 4 hours in the elderly. 15 , 14
+
+## Clearance
+
+The plasma clearance of clindamycin is estimated to be 12.3-17.4 L/h, and is reduced in patients with cirrhosis and altered in those with anemia. 6 , 7
+
+## Toxicity
+
+The oral LD 50 in mice and rats is 2540 mg/kg and 2190 mg/kg, respectively. 19 While no cases of overdose have been reported, symptoms are expected to be consistent with the adverse effect profile of clindamycin and may therefore include abdominal pain, nausea, vomiting, and diarrhea. During clinical trials, one 3-year-old child was given a dose of 100 mg/kg daily for 5 days and showed only mild abdominal pain and diarrhea. 20 Activated charcoal may be of value to remove unabsorbed drug, but hemodialysis and peritoneal dialysis are ineffective. 20 General supportive measures are recommended in cases of clindamycin overdose. 20

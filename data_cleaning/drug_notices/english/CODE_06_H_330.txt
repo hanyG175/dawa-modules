@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_330
+DCI: EPLERENONE 25 mg cp (EPLERENONE VIATRIS GENERIQUES)
+DrugBank ID: DB00700
+DrugBank Name: Eplerenone
+Brand Names: ELERAX | EPLERON
+Pharmaceutical Forms: Comprimé
+Dosages: 25 mg | 25mg
+Packaging: b/30 | boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C03 - DIURETIQUES | C03D - ANTAGONISTES DE L'ALDOSTERONE ET AUTRES AGENTS EPARGNEURS POTASSIQUES | C03DA - ANTAGONISTES DE L'ALDOSTERONE | C03DA04 - EPLERENONE
+Registration Numbers: 263/06 H 330/23 | 352/06 H 330/21
+Drug Codes: 06 H 330
+
+------------------------------------------------------------
+
+## Description
+
+Eplerenone, an aldosterone receptor antagonist similar to spironolactone, has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion. The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone. Eplerenone selectively binds to recombinant human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone and androgen receptors.
+
+## Pharmacodynamics
+
+Eplerenone, an aldosterone receptor antagonist similar to spironolactone, has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion. The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone. Eplerenone selectively binds to recombinant human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone and androgen receptors.
+
+## Mechanism Of Action
+
+Mineralocorticoid receptor Antagonist
+
+## Absorption
+
+The absolute bioavailability of eplerenone is unknown.
+
+## Metabolism
+
+Eplerenone is metabolized primarily by CYP3A4, however, no active metabolites have been identified in human plasma. Hover over products below to view reaction partners Eplerenone 6beta-hydroxyeplerenone 21-hydroxyeplerenone
+
+## Half Life
+
+4-6 hours
+
+## Clearance
+
+Apparent plasma cl=10 L/hr
+
+## Toxicity
+
+The most likely symptoms of human overdosage would be anticipated to be hypotension or hyperkalemia. However, no cases of human overdosage with eplerenone have been reported.

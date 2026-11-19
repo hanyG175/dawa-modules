@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_111
+DCI: Pholcodine
+DrugBank ID: DB09209
+DrugBank Name: Pholcodine
+Brand Names: BIOCALYPTOL A LA PHOLCODINE
+Pharmaceutical Forms: Siropop
+Dosages: 131MG/19,75MG/100ML
+Packaging: FL/200ML
+Laboratories: ZAMBON FRANCE
+Countries: FRANCE
+Reference Tariff (DA): 202 DA
+PPA (DA): 202.00 DA
+Prescription List: Liste I
+ATC Classification: R05DA08
+Registration Numbers: 049/20 C 111/05
+Drug Codes: 20 C 111
+
+------------------------------------------------------------
+
+## Description
+
+Pholcodine formula is 3-o-morpholinoethylmorphine and it is classified as an antitussive which is defined as an opioid cough suppressant. It belongs to the opioid family of compounds and it is widely used. 1 Pholcodine activity is the suppression of unproductive cough and it also has a mild sedative effect with little or no analgesic effects. 2 Pholcodine is not prescribed in the United States where it is classed as a Schedule I drug. It is categorized as Class B drug in the UK and officially taken out of the shelves in 2008. Pholcodine is not approved in Canada.
+
+## Pharmacodynamics
+
+The therapeutic doses of pholcodine have been shown not to cause depression of respiration, CNS excitation or other side effects associated with narcotics. It is thought that the impact of pholcodine is selective on the cough center without affecting the respiratory center. Pholcodine is not euphorigenic, and thus, psychological dependence is unlikely. Clinical trials have not shown any evidence of addiction after prolonged administration of pholcodine. 6 It is well reported that pholcodine presents a more considerable respiratory depression effect than codeine and it causes hypotension in the same degree than codeine. Some other noted impacts of pholcodine in preclinical trials are: 1) the induction of histamine release, 2) anti-histaminic effect, 3) anti-acetylcholinic action, 4) anti-convulsant action and 5) mild tranquilizing action. 7
+
+## Mechanism Of Action
+
+Mu-type opioid receptor Antagonist Kappa-type opioid receptor Antagonist
+
+## Absorption
+
+After oral administration of 60 mg of pholcodine, the Tmax and Cmax are reported to be 1.3 hours and 26.3 ng/ml. In the same administration, the AUC in plasma and saliva are reported to be 1.67 and 6.61 mg h/l respectively. The absorption of pholcodine is reported to represent approximately 88% of the administered dose. 1
+
+## Volume Of Distribution
+
+The reported volume of distribution depends on the pharmacokinetic model and it can be of 265L based on a one-compartment model to 3207L in a two-compartment model. 4
+
+## Metabolism
+
+The metabolism of pholcodine seems to be very slow 4 and due to the elimination profile, it is thought that most of the administered dose undergoes metabolism. There is some evidence in preclinical trials that indicate that morphine is a minor metabolite of pholcodine and that it accounts for 1% of the administered dose. 1 Hover over products below to view reaction partners Pholcodine desmorpholino-hydroxy-pholcodine hydroxypholcodine + oxopholcodine Morphine
+
+## Route Of Elimination
+
+After oral administration of pholcodine, the serum concentration peaks and declines in a monoexponential manner. The percent of the dose excreted unchanged is of approximately 25-30%. Part of the administered dose is composed by metabolites that can be recovered in urine. From the administered dose, the fecal excretion corresponds to the 5% of the administered dose as unchanged pholcodine. 1
+
+## Half Life
+
+After oral administration of 60 mg of pholcodine, the half-life in plasma, saliva and urine are 45, 55 and 45 hours respectively. 1
+
+## Clearance
+
+After oral administration of 60 mg of pholcodine, the clearance rate was reported to be 126 ml/min. 1
+
+## Toxicity
+
+Generally, pholcodine is significantly less toxic than codeine. Nonetheless, it is important to consider the significant depressive respiratory effect. 7

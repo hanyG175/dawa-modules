@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_168
+DCI: LERCANIDIPINE CHLORHYDRATE 10 mg cp (LERCAN)
+Brand Names: CARDIPINE | CORDIPINE | DEPADIUM | DINAZIP | LECARNIDIPINE LDM | LERCA | LERCANIDIPINE BEKER | ZANIDIP
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/30 | b/30 et b/90
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C08 - INHIBITEURS CALCIQUES | C08C - INHIBITEURS CALCIQUES SELECTIFS A EFFETS VASCULAIRES PREDOMINANTS | C08CA - DERIVES DE LA DIHYDROPYRIDINE | C08CA13 - LERCANIDIPINE
+Registration Numbers: 149/06 E 168/17 | 263/06 E 168/19/24 | 269/06 E 168/01/23 | 309/06 E 168/22 | 352/06 E 168/14/24 | 380/06 E 168/21 | 418/06 E 168/20/25 | 447/06 E 168/15/21
+Drug Codes: 06 E 168
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | lercanidipine chlorhydrate : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante de liquide | Administrer de préférence le matin à jeun | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle | Traitement initial | 5 mg 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse tensionnelle | 5 à 20 mg 1 fois par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Angor | Femme susceptible d'être enceinte | Grossesse | Insuffisance hépatique modérée | Insuffisance rénale légère à modérée | Insuffisance ventriculaire gauche | Ischémie myocardique | Maladie du sinus non appareillé | Patient en dialyse péritonéale | Sujet âgé | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lercanidipine : Mécanisme d'action | La lercanidipine est un antagoniste calcique appartenant à la famille des dihydropyridines. | Elle bloque sélectivement les canaux calciques voltage-dépendants de type L. Son action antihypertensive est liée à un effet relaxant direct sur les muscles vasculaires lisses. Les résistances périphériques totales sont donc diminuées. Malgré sa courte demi-vie plasmatique, la lercanidipine possède une activité antihypertensive prolongée ; ceci peut être lié à un coefficient de partage membranaire élevé. La lercanidipine est dépourvue d'effet inotrope négatif. | La vasodilatation induite par la lercanidipine survenant progressivement, les cas d'hypotension aiguë avec tachycardie réflexe ont rarement été observés chez les patients hypertendus. | Comme pour les autres 1, 4-dihydropyridines asymétriques, l'activité antihypertensive de la lercanidipine est due principalement à son énantiomère (S).
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Transaminases (augmentation) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire (Rare) | - Erythème facial | DIVERS: | - Asthénie (Peu fréquent) | - Fatigue (Peu fréquent) | - Oedème périphérique (Fréquent) | - Douleur thoracique (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Angioedème | INSTRUMENTATION: | - Liquide de dialyse péritonéale trouble | ORL, STOMATOLOGIE: | - Sensation de vertige (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Fréquent) | - Tachycardie (Fréquent) | - Hypotension artérielle (Peu fréquent) | - Palpitation (Fréquent) | - Angor (aggravation) (Très rare) | - Angor (Rare) | - Précordialgie (Rare) | - Syncope (Rare) | - Infarctus du myocarde (Cas isolés) | SYSTÈME DIGESTIF: | - Dyspepsie (Peu fréquent) | - Douleur abdominale haute (Peu fréquent) | - Nausée (Peu fréquent) | - Douleur abdominale (Rare) | - Vomissement (Rare) | - Diarrhée (Rare) | - Hypertrophie gingivale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Rare) | - Syndrome extrapyramidal | UROLOGIE, NÉPHROLOGIE: | - Polyurie (Peu fréquent) | - Pollakiurie (Rare)

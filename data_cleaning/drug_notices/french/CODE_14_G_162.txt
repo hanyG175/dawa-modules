@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_162
+DCI: MAGNESIUM SULFATE 15 % sol inj (SULFATE DE MAGNESIUM PROAMP) | Magnesium Element (Sous Forme De Magnesium Pidolate) | Magnesium Pidolate | Pidolate De Magnesium / Magnesium-Element | Pidolate De Magnesium / Soit En Magnesium - Element
+Brand Names: ACTIMAG | ISOMAG | MAGNE | PIDOMAG | VITAMAG
+Pharmaceutical Forms: Siropop | Sol. Buv. En Fl. | Solution
+Dosages: 0.15 | 122mg/ml | 15% (0.75g/5ml) | 15% (ou 0.75g/5ml) | 61mg/5ml de magnesium (soit 0.75g/5ml ou 15% de magnesium pidolate)
+Packaging: boite d'un flacon de 150ml | boite de 1 flacon de 200ml | flacon./125ml | flacon/150ml
+Registration Numbers: 073/14 G 162/98/09 | 077/14 G 162/98/24 | 079/14 G 162/10 | 242/14 G 162/06 | 400/14 G 162/23
+Drug Codes: 14 G 162
+
+------------------------------------------------------------
+
+## Conservation
+
+name: SULFATE DE MAGNESIUM PROAMP 0,15 g/ml S inj 50Amp/10ml
+conservation: Cip : 3400937173070 Modalités de conservation : Avant ouverture : durant 36 mois

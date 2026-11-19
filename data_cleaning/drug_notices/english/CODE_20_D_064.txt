@@ -1,0 +1,34 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_064
+DCI: Chlorhydrate D'Ambroxol | MEGLUMINE BENZOATE 130 mg/5 ml + POLYSORBATE [20] 15 mg/5 ml + PROMETHAZINE CHLORHYDRATE 2,5 mg/5 ml sirop (FLUISEDAL) | OXYBUPROCAINE CHLORHYDRATE 0,4 % collyre sol récip unidose (CHLORHYDRATE D'OXYBUPROCAINE THEA Unidose)
+DrugBank ID: DB06742
+DrugBank Name: Ambroxol
+Brand Names: AMBOLAR | AMBRODAL | BROXOL | FLUXOL | IXOL | MUCOREX | MUXOL | MUXOMEX | TOUXOL
+Pharmaceutical Forms: Siropop | Solution
+Dosages: 0.003
+Packaging: b/01 flc | flacon/100ml | flacon/125 ml | flacon/150ml | flacon/180 ml | flacon/200ml
+Laboratories: THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01H - ANESTHESIQUES LOCAUX | S01HA - ANESTHESIQUES LOCAUX | S01HA02 - OXYBUPROCAÏNE
+Registration Numbers: 055/20 D 064/98 | 073/20 D 064/07/23 | 077/20 D 064/04 | 079/20 D 064/99/09 | 201/20 D 064/97/24 | 242/20 D 064/07 | 317/20 D 064/05/11 | 318/20 D 064/17 | 400/20 D 064/23
+Drug Codes: 20 D 064
+
+------------------------------------------------------------
+
+## Description
+
+Ambroxol is a secretolytic agent used in the treatment of respiratory diseases associated with viscid or excessive mucus. It is the active ingredient of Mucosolvan, Lasolvan or Mucoangin. The substance is a mucoactive drug with several properties including secretolytic and secretomotoric actions that restore the physiological clearance mechanisms of the respiratory tract which play an important role in the body’s natural defence mechanisms. It stimulates synthesis and release of surfactant by type II pneumocytes. Surfactants acts as an anti-glue factor by reducing the adhesion of mucus to the bronchial wall, in improving its transport and in providing protection against infection and irritating agents.
+
+## Mechanism Of Action
+
+Ambroxol is a mucolytic agent. Excessive Nitric oxide (NO) is associated with inflammatory and some other disturbances of airways function. NO enhances the activation of soluble guanylate cyclase and cGMP accumulation. Ambroxol has been shown to inhibit the NO-dependent activation of soluble guanylate cyclase. It is also possible that the inhibition of NO-dependent activation of soluble guanylate cyclase can suppress the excessive mucus secretion, therefore it lowers the phlegm viscosity and improves the mucociliary transport of bronchial secretions.
+
+## Absorption
+
+Rapid and almost complete.
+
+## Half Life
+
+7-12 hours

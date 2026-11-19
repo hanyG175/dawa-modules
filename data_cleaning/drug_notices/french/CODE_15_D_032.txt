@@ -1,0 +1,18 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_032
+DCI: CARBIDOPA 25 mg + LEVODOPA 250 mg cp (LEVODOPA CARBIDOPA TEVA)
+Brand Names: LEVOCARB | LEVODOZ | LEVOMED
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg/25mg | 250mg/25mg**
+Packaging: b/100
+Registration Numbers: 149/15 D 032/21 | 178/15 D 032/99 | 235/15 D 032/11/24
+Drug Codes: 15 D 032
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Lévodopa : Mécanisme d'action | Le déficit en | dopamine | dans les noyaux gris centraux est la principale anomalie biochimique de la maladie de Parkinson. La lévodopa apportée par voie digestive, puis sanguine, passe dans le tissu cérébral et, par sa transformation en | dopamine | , vient pallier ce déficit. En raison de l'important métabolisme périphérique de la lévodopa, seule une fraction peu importante d'une dose donnée atteint le système nerveux central quand on administre de la lévodopa sans inhibiteurs des enzymes métaboliques. | La | carbidopa | et le | bensérazide | sont des inhibiteurs de la dopadécarboxylase (DDC) périphérique qui diminuent la transformation périphérique de la lévodopa en | dopamine | , ce qui fait qu'une quantité plus importante de lévodopa est disponible pour le cerveau. Quand la décarboxylation de la lévodopa est diminuée grâce à la coadministration d'un inhibiteur de la DDC, il est possible d'utiliser une dose moindre de lévodopa, ce qui réduit la fréquence des effets indésirables. | L’ | entacapone | est un inhibiteur spécifique et réversible de la catéchol-O-méthyltransférase (COMT) qui agit principalement au niveau périphérique. L' | entacapone | diminue la biotransformation de la lévodopa en 3-O- | méthyldopa | (3-OMD) par inhibition de l'enzyme COMT. Cela conduit à une augmentation de l'ASC (aire sous la courbe) de la lévodopa. La quantité de lévodopa disponible au cerveau est augmentée. L' | entacapone | prolonge donc la réponse clinique à la lévodopa.

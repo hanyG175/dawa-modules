@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_034
+DCI: Rifamycine (Sodique)
+DrugBank ID: DB11753
+DrugBank Name: Rifamycin
+Brand Names: RIFAMYCINE CHIBRET
+Pharmaceutical Forms: Pommademade
+Dosages: 1000000ui/100g (ou 1%)
+Packaging: t/5g
+Laboratories: LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | 63017 CLERMONT-FERRAND CEDEX 2 | FRANCE
+ATC Classification: S01AA16
+Registration Numbers: 022/17 D 034/99/16
+Drug Codes: 17 D 034
+
+------------------------------------------------------------
+
+## Description
+
+Rifamycin is the prime member of the rifamycin family which are represented by drugs that are a product of fermentation from the gram-positive bacterium Amycolatopsis mediterranei , also known as Streptomyces mediterranei . The parent compound of rifamycin was rifamycin B which was originally obtained as a main product in the presence of diethylbarburitic acid. Some small modifications where performed in this inactive compound and with the creation of rifamycin SV there was the first antibiotic used intravenously for the treatment of tuberculosis. 2 Rifamycin has had several direct derivative products such as rifamycin SV, rifaximin, rifampin and rifamycin CV. All of the derivatives have slight different physicochemical properties when compared to the parent structure. 1 Rifamycin was further developed by Cosmo Technologies Ltd and approved in November 16, 2018 by the FDA as a prescription drug after being granted the designation of Qualified Infectious Disease Product which allowed it to have a status a priority review. 10 This drug was also sent for review to the EMA in 2015 by Dr. Falk Pharma Gmbh and it was granted a waiver for the tested conditions. 11
+
+## Pharmacodynamics
+
+Rifamycin is known to be effective against Gram-positive and Gram-negative pathogens and mycobacteria. It is very effective against E. coli reporting a MIC90 of 64-128 mcg/ml without showing cross-resistance with other antimicrobial agents. 4 The specific indication of rifamycin is extremely important as ther were previous reports that indicated a high risk factor in the generation of resistant E. coli strains in patients with inflammatory bowel disease. 13 In clinical trials, rifamycin was tested in a randomized clinical trial of travellers' coming from Mexico and Guatemala. In this trial, rifamycin was proven to significantly reduce the symptoms of travellers' diarrhea. 12
+
+## Mechanism Of Action
+
+DNA-directed RNA polymerase subunit beta (Escherichia coli (strain K12)) Binder DNA-directed RNA polymerase subunit alpha (Escherichia coli (strain K12)) Binder DNA-directed RNA polymerase subunit beta' (Escherichia coli (strain K12)) Binder
+
+## Absorption
+
+Rifamycin has a very poor absorption 4 and thus, the generation of an oral modified-release formulation using the technology of the multi-matrix structure was required for the generation of the FDA approved product. This preparation allows the delivery of the active ingredient in the distal small bowel and colon without interfering with the flora in the upper gastrointestinal tract. 5 The multi-matrix is made by a lipophiic matrix surrounded in a hydrophilic matrix which allows for the protection of the active ingredient from dissolution in the intestinal aqueous fluids before it arrives in the cecum. All this matrix is surrounded by a gastro-resistant polymer that only desintegrate in a pH lower than 7. 6 All this administration-customed formulation allows for a bioavailability of <0.1% and the plasma concentrations are reported to be of <2 ng/ml in patients receiving a dose of 400 mg. This confirms that the site of action of rifamycin stays in the small intestine and colon which prevents the need for dose adjustments in special populations as well as systemic drug interactions. 6 The reported Cmax, tmax, AUC and mean residence time after a dosage of 250 mg of rifamycin is 36 mg/L, 5 min, 11.84 mg.h/L and 0.49 h respectively. 6
+
+## Volume Of Distribution
+
+The reported volume of distribution after measured after a dosage of 250 mg of rifamycin is 101.8 L. 6
+
+## Metabolism
+
+When absorbed, rifamycin is mainly metabolzied in hepatocytes and intestinal microsomes to a 25-deacetyl metabolite. 6 Hover over products below to view reaction partners Rifamycin 25-deacetyl-rifamycin
+
+## Route Of Elimination
+
+From the administered dose, 18%, 50% and 21% is recovered in feces during the first 24, 48 and 72h after administration. This will represent about 90% of the administered dose eliminated by the feces while the urinary secretion is negligible. 6
+
+## Half Life
+
+The reported half-life when a dose of 250 mg of rifamycin was administered is 3 h. 6
+
+## Clearance
+
+The reported clearance when a dose of 250 mg of rifamycin was administered is 23.3 L/h. 6
+
+## Toxicity
+
+In safety studies with rifamycin, it was reported a potential of hepatotoxicity due to the depletion of glutathione and the generation of reactive oxygen species in liver microsomes. It is important to mention that this effect is mainly observed in the intravenous administration as the oral dosage does not have a significant systemic absorption. 7 Rifamycin is not genotoxic in bacterial mutation assays, mouse cell mutation assay or mouse bone marrow micronucleus assay. There is no current information about the effects on fertility, overdosage or carcinogenesis. Label

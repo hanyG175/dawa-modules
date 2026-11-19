@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_D_015
+DCI: Resorcinol/Ephedrine (Chlorhydrate)
+DrugBank ID: DB11085
+DrugBank Name: Resorcinol
+Brand Names: OSMOTOL
+Pharmaceutical Forms: Sol. P. Inst. Aurc.
+Dosages: 0.001
+Packaging: flacon/10ml
+Registration Numbers: 096/18 D 015/98
+Drug Codes: 18 D 015
+
+------------------------------------------------------------
+
+## Description
+
+Resorcinol is a 1,3-isomer (or meta-isomer) of benzenediol with the formula C6H4(OH)2. It is used as an antiseptic and disinfectant in topical pharmaceutical products in the treatment of skin disorders and infections such as acne, seborrheic dermatitis, eczema, psoriasis, corns, calluses, and warts. It exerts a keratolytic activity. Resorcinol works by helping to remove hard, scaly, or roughened skin. Although it is primarily indicated for use as a topical application, resorcinol also possesses a well-documented anti-thyroidal activity that is generally not relied upon for any kind of formal therapeutic indication.
+
+## Pharmacodynamics
+
+In vitro and in vivo studies have demonstrated that resorcinol can inhibit peroxidases in the thyroid and subsequently block the synthesis of thyroid hormones and cause goiter 6 , 4 . Resorcinol interferes with the iodination of tyrosine and the oxidation of iodide 6 , 4 . In an in vitro study involving lactoperoxidase (LPO) and thyroid peroxidase (TPO), it was shown that the mechanism of these two enzymes can become irreversibly inhibited by way of a suicide inactivation by resorcinol 6 , 4 . It is believed that the Fe3+ of the porphyrin residue of the peroxidase to is oxidised to Fe4+ by hydrogen peroxide with the transfer of an oxygen radical 6 , 4 . In LPO and TPO, the resulting π-cation radical of the porphyrin can isomerize to a radical cation with the radical in an aromatic side chain of the enzyme 6 , 4 . The latter radical can bind, in a pH-dependent reaction, covalently and irreversibly to the resorcinol radical formed during regular oxidation of resorcinol and this reduces the activity of the enzyme greatly 6 , 4 . While the inactivation of the enzyme and the binding of resorcinol to the enzyme may be largely increased by the presence of 0.1 nM iodide, increasing the iodide concentration to 5 mM reduced the resorcinol binding to the enzyme by one quarter but increased the enzyme activity, determined as the rate of iodination of tyrosine, more than proportionally from 6.2% to 44.7% 6 , 4 . Nevertheless, the role played by iodide ions in the irreversible inactivation of the enzymes is not yet fully elucidated 6 , 4 . Ultimately, such in vitro and in vivo data propose that the anti-thyroidal activity of resorcinol is caused by inhibition of thyroid peroxidase enzymes, resulting in decreased thyroid hormone production and increased proliferation due to an increase in the secretion of TSH (thyroid stimulating hormone) 6 , 4 . The iodination process is catalyzed by a haem-containing enzyme, and resorcinol is known to form covalent bonds with haem 6 , 4 . Despite the legitimacy of this pharmacodynamic profile in resorcinol, the therapeutic uses for which it may be formally indicated for at this time do not actually rely upon any of these mechanisms or dynamics, which are primarily elicited only upon systemic exposure to resorcinol or particularly high overdosage of the agent. This is especially true, considering resorcinol is most commonly available as topical applications to the public.
+
+## Mechanism Of Action
+
+Thyroid peroxidase Inhibitor
+
+## Absorption
+
+The dermal absorption of resorcinol seems to be low (< 1%) when applied on healthy and intact skin 7 . The agent absorbed very slightly under normal conditions & the absorption was lower when applied to the scalp than to clean shaven skin due to a strong fixation by the hair 1 .
+
+## Volume Of Distribution
+
+Specific data regarding the volume of distribution of resorcinol is not readily available, although it is believed that the compound's volume of distribution is considered large, owing to resorcinol's profile as a lipid-soluble compound 1 .
+
+## Metabolism
+
+Specific data regarding the metabolism of resorcinol is not readily available, although the major metabolite of resorcinol found in the urine was its glucuronide 1 .
+
+## Route Of Elimination
+
+Specific data regarding the route of elimination of resorcinol is not readily available, although the major metabolite of resorcinol found in the urine was its glucuronide 1 .
+
+## Half Life
+
+Specific data regarding the half-life of resorcinol is not readily available, although, in one case of dermal exposure, an adult male with a 90% phenol exposure had an elimination half-life of about 14 hours 1 .
+
+## Clearance
+
+Specific data regarding the clearance of resorcinol is not readily available, although it is generally believed that the relatively low topical absorption or resorcinol does not result in an extensive systemic presence and clearance 7 , 1 .
+
+## Toxicity
+
+Effects in man include CNS effects, mainly in persons who have used creams containing high levels of resorcinol, effects on the erythrocytes (especially methaemoglobinaemia, mainly in babies and infants) and, after prolonged exposure, effects on the thyroid gland (like goiter or especially chronic myxoedema) 6 . In addition, exogenous ochronosis is associated with prolonged exposure to resorcinol 6 . In persons suffering from resorcinol poisoning, the symptoms included anemia, spleen siderosis, and fatty degeneration of the liver and kidneys 6 .

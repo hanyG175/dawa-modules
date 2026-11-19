@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_058
+DCI: Meloxicam
+DrugBank ID: DB00814
+DrugBank Name: Meloxicam
+Brand Names: MELOX
+Pharmaceutical Forms: Comprimé
+Dosages: 15mg
+Packaging: b/10 et b/100
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: M01AC06
+Registration Numbers: 178/04 B 058/09/16
+Drug Codes: 04 B 058
+
+------------------------------------------------------------
+
+## Description
+
+Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve various types of pain, including pain caused by musculoskeletal conditions, osteoarthritis, and rheumatoid arthritis. 1 With a longer half-life than most other NSAIDS, it is a favorable option for those who require once-daily dosing. Meloxicam is available in oral, transdermal, and intravenous formulations. It is a preferential COX-2 inhibitor, purportedly reducing the risk of adverse gastrointestinal tract effects, however, this is a topic of controversy. 4 , 5
+
+## Pharmacodynamics
+
+Meloxicam is an anti-inflammatory, analgesic analgesic with antipyretic effects in fever. 1 Prostaglandins are substances that contribute to inflammation. 7 This drug also exerts preferential actions against COX-2 3 , which may reduce the possible gastrointestinal effects of this drug. In humans, meloxicam has demonstrated the ability to decrease erythrocyte sedimentation rate(ESR) in patients with rheumatoid arthritis, and to decrease ESR, C-reactive protein (CRP), as well as aquaporin-1 expression. 1 As with other NSAIDS, prolonged use of meloxicum can result in renal or cardiovascular impairment or thrombotic cardiovascular events. 10 A note on gastrointestinal effects As meloxicam preferentially inhibits COX-2, it is thought to cause less gastrointestinal irritation compared to other NSAIDS. Despite this, it still carries a risk of gastric inflammation, bleeding and ulceration. 5 , 10 In one study, patients on meloxicam suffered from gastrointestinal symptoms at a rate of 13% compared to 19% of those on diclofenac . GI events were found to be less severe in the meloxicam-treated patients. 1
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor
+
+## Absorption
+
+The absolute bioavailability oral capsules after a dose was 89% in one pharmacokinetic study. Cmax was reached 5–6 hours after administration of a single dose given after the first meal of the day. The Cmax doubled when the drug was administered in the fasting state. Despite this, meloxicam can be taken without regard to food, unlike many other NSAIDS. 1 , 10 Meloxicam formulated for instillation with bupivacaine produced varied systemic measures following a single dose of varying strength. In patients undergoing bunionectomy, 1.8 mg of meloxicam produced a C max of 26 ± 14 ng/mL, a median T max of 18 h, and an AUC ∞ of 2079 ± 1631 ng*h/mL. For a 9 mg dose used in herniorrhaphy, the corresponding values were 225 ± 96 ng/mL, 54 h, and the AUC ∞ was not reported. Lastly, a 12 mg dose used in total knee arthroplasty produced values of 275 ± 134 ng/mL, 36 h, and 25,673 ± 17,666 ng*h/mL. 13
+
+## Volume Of Distribution
+
+The volume of distribution of meloxicam is 10-15L. Because of its high binding to albumin, it is likely to be distributed in highly perfused tissues, such as the liver and kidney. 1 Meloxicam concentrations in synovial fluid, measured after an oral dose, is estimated at 40% to 50% of the concentrations measured in the plasma. 10 This drug is known to cross the placenta in humans. 9
+
+## Metabolism
+
+Meloxicam is almost completely metabolized. CYP2C9 is the main enzyme responsible for the metabolism of meloxicam 1 , 6 with minor contributions from CYP3A4. 10 Meloxicam has 4 major metabolites with no activity determined. About 60% of the ingested dose is metabolized to 5'-carboxy meloxicam from hepatic cytochrome enzyme oxidation of an intermediate metabolite, 5’-hydroxymethylmeloxicam. 6 , 8 Two other metabolites are likely produced via peroxidation. 6 , 10 Hover over products below to view reaction partners Meloxicam 5'-hydroxymethyl meloxicam 5'-carboxy meloxicam
+
+## Route Of Elimination
+
+Meloxicam is mainly eliminated through metabolism. Its metabolites are cleared through renal and fecal elimination. 3 Less than <0.25% of a dose is eliminated in the urine as unchanged drug. 10 About 1.6% of the parent drug is excreted in the feces. 1
+
+## Half Life
+
+The half-life of meloxicam is approximately 20 hours 3 , which is considerably longer than most other NSAIDS. It can therefore be dosed without the need for slow-release formulations. 1 Meloxicam applied together with bupivacaine for postsurgical analgesia had a median half-life of 33-42 hours, depending on dose and application site. 13
+
+## Clearance
+
+After an oral dose, the total clearance of meloxicam is 0.42–0.48 L/h. 1 , 3 The FDA label indicates a plasma clearance from 7 to 9 mL/min. No dose changes are required in mild to moderate renal or hepatic impairment. The use of meloxicam in patients with severe renal or hepatic impairment has not been studied. FDA prescribing information advises against it. 10
+
+## Toxicity
+
+The oral LD50 in rats is 98 mg/kg. 11 Signs and symptoms of overdose with meloxicam may include shallow breathing, seizure, decreased urine output, gastrointestinal irritation, nausea, vomiting, gastrointestinal bleeding, and black tarry stools. 12 In the case of an overdose, offer supportive treatment and attempt to remove gastrointestinal contents. Cholestyramine has been shown to enhance the elimination of meloxicam. 11

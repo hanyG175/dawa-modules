@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_047
+DCI: TAMSULOSINE CHLORHYDRATE 0,4 mg gél LP (TAMSULOSINE ARROW LP)
+DrugBank ID: DB00706
+DrugBank Name: Tamsulosin
+Brand Names: GAMCET | OLSERAZ | PROSTALOZINE LP | PROSTAM LP | PROSTASIR LP | SULOZIR LP | TAMSIR LP | TAMSULIX LP | TAMSULOSINE BEKER LP | TAMSULOSINE MM LP | TAMSUMED LP | TAMSUPROST
+Pharmaceutical Forms: Comprimé | Gélule | Microgranule En Gellule Liberation Prolongee
+Dosages: 0.4 mg | 0.4mg
+Packaging: b/30 | b/30 et b/90
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G04 - MEDICAMENTS UROLOGIQUES | G04C - MEDICAMENTS UTILISES DANS L'HYPERTROPHIE BENIGNE DE LA PROSTATE | G04CA - ALPHA-BLOQUANTS | G04CA02 - TAMSULOSINE
+Registration Numbers: 035/25 B 047/14 | 055/25 B 047/19 | 088/25 B 047/11 | 149/25 B 047/14 | 286/25 B 047/15 | 289/25 B 047/12/23 | 320/25 B 047/10 | 352/25 B 047/12/22 | 426/25 B 047/12/22 | 447/25 B 047/15/23 | 470/25 B 047/12/23 | 544/25 B 047/23
+Drug Codes: 25 B 047
+
+------------------------------------------------------------
+
+## Description
+
+Tamsulosin is a selective alpha-1A and alpha-1B adrenoceptor antagonist that exerts its greatest effect in the prostate and bladder, where these receptors are most common. Label It is indicated for the treatment of signs and symptoms of benign prostatic hypertrophy. Label Antagonism of these receptors leads to relaxation of smooth muscle in the prostate and detrusor muscles in the bladder, allowing for better urinary flow. Label Other alpha-1 adrenoceptor antagonists developed in the 1980s were less selective and more likely to act on the smooth muscle of blood vessels, resulting in hypotension. 5 Tamsulosin was first approved by the FDA on April 15, 1997. 6
+
+## Pharmacodynamics
+
+Tamsulosin is an alpha adrenoceptor blocker with specificity for the alpha-1A and alpha-1D subtypes, which are more common in the prostate and submaxillary tissue. 1 The final subtype, alpha-1B, are most common in the aorta and spleen. 1 Tamsulosin binds to alpha-1A receptors 3.9-38 times more selectively than alpha-1B and 3-20 times more selectively than alpha-1D. 1 This selectivity allows for a significant effect on urinary flow with a reduced incidence of adverse reactions like orthostatic hypotension. 1
+
+## Mechanism Of Action
+
+Alpha-1A adrenergic receptor Antagonist
+
+## Absorption
+
+Oral tamsulosin is 90% absorbed in fasted patients. Label The area under the curve is 151-199ng/mL*hr for a 0.4mg oral dose and 440-557ng/mL*hr for a 0.8mg oral dose. Label The maximum plasma concentration is 3.1-5.3ng/mL for a 0.4mg oral dose and 2.5-3.6ng/mL for a 0.8mg oral dose. Label Taking tamsulosin with food increases the time to maximum concentration from 4-5 hours to 6-7 hours but increases bioavailability by 30% and maximum plasma concentration by 40-70%. Label
+
+## Volume Of Distribution
+
+16L after intravenous administration. Label
+
+## Metabolism
+
+Tamsulosin is mostly metabolized in the liver by cytochrome P450 (CYP) 3A4 and 2D6, with some metabolism by other CYPs. Label , 1 CYP3A4 is responsible for the deethylation of tamsulosin to the M-1 metabolite and the oxidative deamination to the AM-1 metabolite, 2 , 3 while CYP2D6 is responsible for the hydroxylation of tamsulosin to the M-3 metabolite and the demethylation of tamsulosin to the M-4 metabolite. 2 In addition, tamsulosin can be hydroxylated at a different position by an unknown enzyme to form the M-2 metabolite. 2 The M-1, M-2, M-3, and M-4 metabolites can be glucuronidated, and the M-1 and M-3 metabolites can undergo sulfate conjugation to form other metabolites before excretion. 3 Hover over products below to view reaction partners Tamsulosin Tamsulosin M-1 Metabolite Tamsulosin M-1-Sul Metabolite Tamsulosin M-1-Glu Metabolite Tamsulosin AM-1 Metabolite Tamsulosin M-3 Metabolite Tamsulosin M-3-Sul Metabolite Tamsulosin M-3-Glu Metabolite Tamsulosin M-4 Metabolite Tamsulosin M-4-Glu Metabolite Tamsulosin M-2 Metabolite Tamsulosin M-2-Glu Metabolite
+
+## Route Of Elimination
+
+97% of an orally administered does is recovered in studies, which 76% in the urine and 21% in the feces after 168 hours. Label 8.7% of the dose is excreted as unmetabolized tamsulosin. Label , 1
+
+## Half Life
+
+The half life in fasted patients is 14.9±3.9 hours. Label The elimination half life is 5-7 hours and the apparent half life is 9 to 13 hours in healthy subjects. Label In patients who require tamsulosin, the apparent half life is 14-15 hours. Label
+
+## Clearance
+
+2.88L/h. Label
+
+## Toxicity
+
+In the event of overdose, patients may experience hypotension and should lie down in a supine position to maintain blood pressure and heart rate. Label If further measures are required intravenous fluids should be considered. Label If further progression is required, vasopressors may be used and renal function should be monitored. Label Dialysis is unlikely to assist in treating overdose because tamsulosin is extensively protein bound. Label The oral LD50 in rats is 650mg/kg. MSDS Tamsulosin is not indicated for use in women and no studies have been performed in pregnancy, though animal studies have not shown fetal harm. Label Tamsulosin is excreted in the milk of rats but there is no available data on what the effect of this tamsulosin exposure may be. Label Animal studies have shown male and female rat fertility is affected by tamsulosin due to impairment of ejaculation and fertilization. Label In men, tamsulosin is associated with abnormal ejaculation. Label Tamsulosin is not mutagenic but may be carcinogenic at levels above the maximum recommended human dose. Label Female rats experience a slight increase in the rates of mammary gland fibroadenomas and adenocarcinomas. Label

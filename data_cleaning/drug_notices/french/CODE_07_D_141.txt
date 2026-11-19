@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_141
+DCI: Ketoconazole
+Brand Names: KETOCONAZOLE NOVAGENERICS
+Pharmaceutical Forms: Shampoing
+Dosages: 0,02
+Packaging: FL/100ML
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 458,00 DA
+PPA (DA): 458,00 DA
+Prescription List: Liste I
+ATC Classification: 07D141
+Registration Numbers: 088/07 D 141/21 | 149/07 D 141/18/24 | 173/07 D 141/07/22 | 406/07 D 141/13
+Drug Codes: 07 D 141
+
+------------------------------------------------------------
+
+## Indications
+
+DERMATOLOGIE
+
+## Mechanism Of Action
+
+ANTIFONGIQUES LOCAUX

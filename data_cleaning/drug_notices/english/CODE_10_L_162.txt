@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_L_162
+DCI: Bisacodyl
+DrugBank ID: DB09020
+DrugBank Name: Bisacodyl
+Brand Names: GYLAXA
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/20
+Laboratories: CRISTERS | 22 QUAI GALLIENI | 92150 SURESNE
+ATC Classification: A06AB02
+Registration Numbers: 304/10 L 162/08/16
+Drug Codes: 10 L 162
+
+------------------------------------------------------------
+
+## Description
+
+Bisacodyl, a diphenylmethane derivative, is a commonly used over the counter stimulant laxative for occasional constipation. 5 , 9 Both bisacodyl and picosulfate are metabolized to the same active metabolite bis-(p-hydroxyphenyl)-pyridyl-2-methane (BHPM). 4 , 5 , 6 Bisacodyl was patented on 25 September 1956 8 but has been used as a laxative since 1952. 5
+
+## Pharmacodynamics
+
+Patients should be counselled regarding abdominal pain, nausea, vomiting, or a change in bowel function that lasts longer than 2 weeks. 9 It has a wide therapeutic index, as patients can take 5-15 mg orally. 9 Patients taking bisacodyl should be counselled before taking the medication if they are already experiencing abdominal pain, nausea, vomiting, or a change in bowel function lasting longer than 2 weeks. 9 Patients should also be counselled to stop taking the medication if they experience rectal bleeding or no bowel movement in 12 hours. 9
+
+## Mechanism Of Action
+
+Aquaporin-3 Negative modulator Sodium/Potassium Transporting ATPase Inhibitor
+
+## Absorption
+
+Oral formulations of bisacodyl are only 16% bioavailable. 2 , 3 A 10 mg enteric coated oral tablet reaches a C max of 26 ng/mL with a T max of 8 hours, while a 10 mg oral solution reaches a C max of 237 ng/mL with a T max of 1.7 hours. 10 A 10 mg suppository reaches a C max of 0-64 ng/mL. 10 In lactating women, 10mg of oral bisacodyl reaches a C max of 20.5-195 ng/mL, with a T max of 3-4 hours, and a geometric mean AUC after a single dose of 471 h*ng/mL. 6 After multiple doses, the geometric mean AUC decreases to 311 h*ng/mL. 6
+
+## Volume Of Distribution
+
+Data regarding the volume of distribution of bisacodyl is not readily available. However, the volume of distribution of the active metabolite, BHPM, in lactating women is 181 L after a single dose and 289 L at steady state. 6
+
+## Metabolism
+
+Bisacodyl is deacetylated to the active bis-(p-hydroxyphenyl)-pyridyl-2-methane (BHPM) by an intestinal deacetylase. 4 , 5 , 6 A small amount of BHPM is absorbed from the gastrointestinal tract, and is glucuronidated before elimination. 6 Hover over products below to view reaction partners Bisacodyl Bis-(p-hydroxyphenyl)-pyridyl-2-methane
+
+## Route Of Elimination
+
+The majority of bisacodyl is eliminated in the feces. 13.8-17.0% of a bisacodyl dose is eliminated in the urine as the active metabolite BHPM. 6
+
+## Half Life
+
+Data regarding the half life of bisacodyl is not readily available. The half life of the active metabolite, BHPM, in lactating women was 7.3 h after a single 10 mg oral dose and 10.0 h after multiple doses. 6
+
+## Clearance
+
+Data regarding the clearance of bisacodyl is not readily available. The apparent plasma clearance of the active metabolite, BHPM, in lactating women after a single 10 mg oral dose is 272 mL/min and after multiple doses is 412 mL/min. 6
+
+## Toxicity
+
+Patients experiencing an overdose of bisacodyl may present with more severe diarrhea and electrolyte imbalance. 1 Patients should be treated with symptomatic and supportive measures. The oral LD 50 in rats is 4320 mg/kg, and in mice is 17500 mg/kg. 10

@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_014
+DCI: MIANSERINE CHLORHYDRATE 30 mg cp (MIANSERINE CRISTERS)
+DrugBank ID: DB06148
+DrugBank Name: Mianserin
+Brand Names: TOLVON
+Pharmaceutical Forms: Comprimé
+Dosages: 30mg
+Packaging: b/20
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06A - ANTIDEPRESSEURS | N06AX - AUTRES ANTIDEPRESSEURS | N06AX03 - MIANSERINE
+Registration Numbers: 664/16 A 014/96/22
+Drug Codes: 16 A 014
+
+------------------------------------------------------------
+
+## Description
+
+A tetracyclic compound with antidepressant effects. Mianserin was previously available internationally, however in most markets it has been phased out in favour of mirtazapine .
+
+## Pharmacodynamics
+
+Mianserin is a tetracyclic antidepressant that has antihistaminic and hypnosedative, but almost no anticholinergic, effect. It is a weak inhibitor of norepinephrine reuptake and strongly stimulates the release of norepinephrine. Interactions with serotonin receptors in the central nervous system have also been found. Its effect is usually noticeable after one to three weeks. Mianserin may cause drowsiness and hematological problems.
+
+## Mechanism Of Action
+
+Mianserin's mechanism of therapeutic action is not well understood, although it apparently blocks alpha-adrenergic, histamine H1, and some types of serotonin receptors. Target Actions Organism U Alpha-2A adrenergic receptor antagonist Humans U 5-hydroxytryptamine receptor 2A antagonist Humans U 5-hydroxytryptamine receptor 2C antagonist Humans U Histamine H1 receptor antagonist Humans U Sodium-dependent noradrenaline transporter inhibitor Humans U Sodium-dependent serotonin transporter inhibitor Humans U Histamine H4 receptor binder Humans U 5-hydroxytryptamine receptor 1A blocker Humans U Alpha-2C adrenergic receptor antagonist Humans U 5-hydroxytryptamine receptor 2B binder Humans U 5-hydroxytryptamine receptor 1F binder Humans U Alpha-2B adrenergic receptor antagonist Humans U D(3) dopamine receptor binder Humans U Kappa-type opioid receptor agonist Humans U Sodium-dependent dopamine transporter binder Humans U 5-hydroxytryptamine receptor 7 antagonist Humans U D(2) dopamine receptor antagonist Humans U 5-hydroxytryptamine receptor 6 binder Humans U Alpha-1 adrenergic receptors antagonist Humans U D(1) dopamine receptor binder Humans
+
+## Absorption
+
+Absorbed following oral administration.
+
+## Metabolism
+
+Hepatic. Hover over products below to view reaction partners Mianserin (R)-mianserin, N-Desmethyl (R)-mianserin, 8-hydroxy (R)-mianserin, N-oxide 8-Hydroxymianserin Desmethylmianserin Mianserin N-oxide
+
+## Half Life
+
+10-17 hours
+
+## Toxicity
+
+Oral rat LD 50 : 780mg/kg

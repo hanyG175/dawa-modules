@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_061
+DCI: EPOETINE ZETA 2 000 UI/0,6 ml sol inj ser préremplie (RETACRIT)
+DrugBank ID: DB00016
+DrugBank Name: Erythropoietin
+Brand Names: BIOPOIETINE | RELIPOIETIN 2000
+Pharmaceutical Forms: Solution
+Dosages: 2000ui/0.5ml
+Packaging: b/1sering. preremplie de 0.5ml
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B03 - PREPARATIONS ANTIANEMIQUES | B03X - AUTRES PREPARATIONS ANTIANEMIQUES | B03XA - AUTRES PREPARATIONS ANTIANEMIQUES | B03XA01 - ERYTHROPOÏETINE
+Registration Numbers: 286/12 E 061/12 | 543/12 E 061/25
+Drug Codes: 12 E 061
+
+------------------------------------------------------------
+
+## Description
+
+Erythropoietin (EPO) is a growth factor produced in the kidneys that stimulates the production of red blood cells. It works by promoting the division and differentiation of committed erythroid progenitors in the bone marrow Label . Epoetin alfa (Epoge) was developed by Amgen Inc. in 1983 as the first rhEPO commercialized in the United States, followed by other alfa and beta formulations. Epoetin alfa is a 165-amino acid erythropoiesis-stimulating glycoprotein produced in cell culture using recombinant DNA technology and is used for the treatment of patients with anemia associated with various clinical conditions, such as chronic renal failure, antiviral drug therapy, chemotherapy, or a high risk for perioperative blood loss from surgical procedures Label . It has a molecular weight of approximately 30,400 daltons and is produced by mammalian cells into which the human erythropoietin gene has been introduced. The product contains the identical amino acid sequence of isolated natural erythropoietin and has the same biological activity as the endogenous erythropoietin. Epoetin alfa biosimilar, such as Retacrit (epoetin alfa-epbx or epoetin zeta), has been formulated to allow more access to treatment options for patients in the market 5 . The biosimilar is approved by the FDA and EMA as a safe, effective and affordable biological product and displays equivalent clinical efficacy, potency, and purity to the reference product 1 . Epoetin alfa formulations can be administered intravenously or subcutaneously.
+
+## Pharmacodynamics
+
+Erythropoietin and epoetin alfa are involved in the regulation of erythrocyte differentiation and the maintenance of a physiological level of circulating erythrocyte mass. It is reported to increase the reticulocyte count within 10 days of initiation, followed by increases in the RBC count, hemoglobin, and hematocrit, usually within 2 to 6 weeks 7 . Depending on the dose administered, the rate of hemoglobin increase may vary. In patients receiving hemodialysis, a greater biologic response is not observed at doses exceeding 300 Units/kg 3 times weekly 7 . Epoetin alfa serves to restore erythropoietin deficiency in pathological and other clinical conditions where normal production of erythropoietin is impaired or compromised. In anemic patients with chronic renal failure (CRF), administration with epoetin alfa stimulated erythropoiesis by increasing the reticulocyte count within 10 days, followed by increases in the red cell count, hemoglobin, and hematocrit, usually within 2 to 6 weeks Label . Epoetin alfa was shown to be effective in increasing hematocrit in zidovudine-treated HIV-infected patients and anemic cancer patients undergoing chemotherapy Label .
+
+## Mechanism Of Action
+
+Erythropoietin receptor Agonist
+
+## Absorption
+
+The time to reach peak concentration is slower via the subcutaneous route than the intravenous route which ranges from 20 to 25 hours, and the peak is always well below the peak achieved using the intravenous route (5–10% of those seen with IV administration). 4 The bioavailability of subcutaneous injectable erythropoietin is much lower than that of the intravenously administered product and is approximately 20-40%. 4 Adult and paediatric patients with CRF: Following subcutaneous administration, the peak plasma levels are achieved within 5 to 24 hours Label . Cancer patients receiving cyclic chemotherapy: The average time to reach peak plasma concentration was approximately 13.3 ± 12.4 hours after 150 Units/kg three times per week (TIW) subcutaneous (SC) dosing. The Cmax is expected be 3- to 7- fold higher and the Tmax is expected to be 2- to 3-fold longer in patients receiving a 40,000 Units SC weekly dosing regimen Label .
+
+## Volume Of Distribution
+
+In healthy volunteers, the volume of distribution of intravenous epoetin alfa was generally similar to the plasma volume (range of 40–63.80 mL/kg), indicating limited extravascular distribution 4 , 2 .
+
+## Metabolism
+
+Binding of erythropoietin and epoetin alfa to EPO-R leads to cellular internalization, which involves the degradation of the ligand. Erythropoietin and epoetin alfa may also be degraded by the reticuloendothelial scavenging pathway or lymphatic system 4 .
+
+## Route Of Elimination
+
+Erythropoietin and epoetin alfa are cleared via uptake and degradation via the EPO-R-expressing cells, and may also involve other cellular pathways in the interstitium, probably via cells in the reticuloendothelial scavenging pathway or lymphatic system 4 . Only a small amount of unchanged epoetin alfa is found in the urine 8 .
+
+## Half Life
+
+Healthy volunteers: The half life is approximately 4 hours in healthy volunteers receiving an intravenous injection 7 . A half-life of approximately 6 hours has been reported in children 7 . Adult and paediatric patients with CRF: The elimination half life following intravenous administration ranges from 4 to 13 hours, which is about 20% longer in CRF patients than that in healthy subjects. The half life is reported to be similar between adult patients receiving or not receiving dialysis Label . Cancer patients receiving cyclic chemotherapy: Following subcutaneous administration, the average half life is 40 hours with range of 16 to 67 hours Label .
+
+## Clearance
+
+* Healthy volunteers: * In male volunteers receiving intravenous epoetin alfa, the total body clearance was approximately 8.12 ± 1.00 mL/h/kg 2 . Cancer patients receiving cyclic chemotherapy: The average clearance was approximately 20.2 ± 15.9 mL/h/kg after 150 Units/kg three times per week (TIW) subcutaneous (SC) dosing Label . The patients receiving a 40,000 Units SC weekly dosing regimen display a lower clearance (9.2 ± 4.7 mL/h/kg) Label .
+
+## Toxicity
+
+Overdose from epoetin alfa include signs and symptoms associated with an excessive and/or rapid increase in hemoglobin concentration, including cardiovascular events. Patients with suspected or known overdose should be monitored closely for cardiovascular events and hematologic abnormalities. Polycythemia should be managed acutely with phlebotomy, as clinically indicated. Following resolution of the overdose, reintroduction of epoetin alfa therapy should be accompanied by close monitoring for evidence of rapid increases in hemoglobin concentration (>1 gm/dL per 14 days). In patients with an excessive hematopoietic response, reduce the dose in accordance with the recommendations described in the drug label Label .

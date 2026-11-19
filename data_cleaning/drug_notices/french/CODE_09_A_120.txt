@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_A_120
+DCI: Letrozole
+Brand Names: LETROZOLE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 2,5MG
+Packaging: B/30
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+Registration Numbers: 001/09 A 120/21 | 157/09 A 120/15 | 263/09 A 120/22 | 285/09 A 120/20 | 323/09 A 120/16 | 352/09 A 120/25 | 630/09 A 120/25
+Drug Codes: 09 A 120
+
+------------------------------------------------------------
+
+## Indications
+
+ENDOCRINOLOGIE ET HORMONES
+
+## Mechanism Of Action
+
+ANDROGENES & ANTI-ANDROGENES

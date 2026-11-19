@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_320
+DCI: Cefoperazone Sodique Exprime En Cefoperazone | Cefoperazone Sodique Exprimee En Cefoperazone
+DrugBank ID: DB01329
+DrugBank Name: Cefoperazone
+Brand Names: CEFOPERAZ HUP | PERAZ 1000
+Pharmaceutical Forms: Poudre
+Dosages: 1000mg/fl. de pdre.** | 1g
+Packaging: b/100 flacons | grde. boite contenant 100boites de 1flacon de pdre.
+Registration Numbers: 286/13 B 320/12 | 380/13 B 320/18
+Drug Codes: 13 B 320
+
+------------------------------------------------------------
+
+## Description
+
+Cefoperazone is a semisynthetic broad-spectrum cephalosporin proposed to be effective against Pseudomonas infections. It is a third-generation antiobiotic agent and it is used in the treatment of various bacterial infections caused by susceptible organisms in the body, including respiratory tract infections, peritonitis, skin infections, endometritis, and bacterial septicemia. While its clinical use has been discontinued in the U.S., cefoperazone is available in several European countries most commonly under the product name, Sulperazon.
+
+## Pharmacodynamics
+
+Cefoperazone is a third generation cephalosporin antibiotic. Cefoperazone exerts its bactericidal effect by inhibiting the bacterial cell wall synthesis
+
+## Mechanism Of Action
+
+Peptidoglycan D,D-transpeptidase FtsI (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1B (Escherichia coli (strain K12)) Inhibitor Peptidoglycan D,D-transpeptidase MrdA (Escherichia coli (strain K12)) Inhibitor + 6 more targets
+
+## Metabolism
+
+No significant quanitity of metabolites have been identified in urine.
+
+## Route Of Elimination
+
+Cefoperazone is excreted mainly in the bile.
+
+## Half Life
+
+The mean serum half-life is approximately 2.0 hours, independent of the route of administration.
+
+## Toxicity
+
+Symptoms of overdose include blood in the urine, diarrhea, nausea, upper abdominal pain, and vomiting.

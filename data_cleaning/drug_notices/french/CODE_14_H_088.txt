@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_088
+DCI: Alfacalcidol
+Brand Names: SUPRA CALCI | UN-ALFA
+Pharmaceutical Forms: Gélule
+Dosages: 1mcg
+Packaging: b/30
+Laboratories: Theramex Ireland Limited | 3rd Floor, Kilmore House, | Park Lane, Spencer Dock, | Dublin 1, D01 YE64 | IrlandE
+ATC Classification: A11CC03
+Registration Numbers: 174/14 H 088/19 | 600/14 H 088/98/23
+Drug Codes: 14 H 088
+
+------------------------------------------------------------
+
+## Indications
+
+· Ostéodystrophie rénale : | o traitement curatif de l'ostéodystrophie rénale radiologiquement évidente et/ou avec élévation des phosphatases alcalines et hypocalcémie (< 95 mg/l) chez l'insuffisant rénal avec une clairance de la créatinine < 30 ml/mn et chez l'hémodialysé ; | o traitement préventif de l'ostéodystrophie rénale uniquement chez l'enfant insuffisant rénal mais non chez l'adulte. | · Rachitismes pseudo-carentiels. | · Rachitismes et ostéomalacies par hypophosphatémie vitamino-résistante en association avec un supplément de PO 4 . | · Hypoparathyroïdismes et pseudo-hypoparathyroïdismes. | · Prévention de l'hypocalcémie post-parathyroïdectomie en cas d'hyperparathyroïdisme primaire ou tertiaire.
+
+## Posology
+
+Mode d’administration | Voie orale | Le conditionnement du médicament a été spécialement étudié pour en assurer au maximum la sécurité d'emploi et la bonne conservation. En particulier, le flacon est équipé d'un bouchon de sécurité, conçu pour éviter qu'un jeune enfant ne puisse l'ouvrir. | Avaler les capsules avec un peu d'eau, sans les sucer, ni les mâcher, ni les croquer. | Conserver les capsules dans leur flacon, soigneusement rebouché après chaque usage, et à l'abri de la chaleur, de l'humidité et de la lumière vive. | Posologie | Ostédystrophie rénale : | Traitement curatif | o chez l'adulte : 1 à 2 microgrammes/jour, | o chez l'enfant de moins de 20 kg : 1 microgramme/jour. | Il est néanmoins prudent de commencer le traitement par : | o 0,5 à 1 microgramme/jour chez l'adulte et | o 0,05 microgramme/kg/jour chez l'enfant de moins de 20 kg. | La dose est ensuite éventuellement ajustée pour obtenir un produit phosphocalcique normal. | Traitement préventif uniquement chez l'enfant : | · 0,5 à 1 microgramme/jour. | Rachitisme pseudo-carentiel : | · 2 à 4 microgrammes/jour en traitement d'attaque, | · 0,75 à 2 microgrammes/jour en traitement d'entretien, | · 5 à 8 microgrammes/jour dans la forme avec alopécie. | Rachitismes et ostéomalacies par hypophosphatémie vitamino-résistante : | · 1 à 6 microgrammes/jour en associant avec un supplément de PO 4 . | Hypoparathyroïdismes et pseudo-hypoparathyroïdismes : | · 1 à 3 microgrammes/jour chez l'adulte comme chez l'enfant.
+
+## Contraindications
+
+· Hypersensibilité à l’alfacalcidol ou à l’un des excipients, mentionnés à la rubrique 6.1. | · Signe d’une toxicité de la vitamine D. | · Hypercalcémie, hyperphosphorémie (sauf celle des hypoparathyroïdies), hypermagnésémie. | · En raison de la présence d’huile d’arachide, ce médicament est contre indiqué en cas d’allergie à l’arachide ou au soja.
+
+## Precautions
+
+Mises en garde spéciales | L'hyperparathyroïdisme autonomisé (primaire ou tertiaire) et les ostéomalacies par intoxication à l'aluminium ne sont pas justiciables d'un traitement par l'alfacalcidol. | L'association avec certains médicaments est à éviter ( voir rubrique 4.5 ) | Précautions d'emploi | La conduite du traitement impose la surveillance régulière (hebdomadaire au début) de la calcémie et de la phosphorémie afin de contrôler le produit phosphocalcique. | Il convient également de doser mensuellement la créatinine, le magnésium, les phosphatases alcalines sériques et en l'absence d'insuffisance rénale, la calciurie. | La surveillance sera plus fréquente : | · pendant la période d'établissement de la posologie utile ; | · et au moment où l'efficacité du traitement se traduit par une diminution des phosphatases alcalines, ou une amélioration radiologique nette : les doses requises pour le traitement des troubles osseux doivent alors généralement être diminuées. | Dans tous les cas, il convient d'éviter l'apparition d'une hypercalcémie, d'une hyperphosphorémie et d'une hypercalciurie. | Ce médicament contient de faibles quantités d’éthanol (alcool), inférieures à 100 mg par capsule molle. | Ce médicament contient de l’huile d’arachide et peut provoquer des réactions d’hypersensibilité (urticaire, choc anaphylactique). | Ce médicament contient du sorbitol. Son utilisation est déconseillée chez les patients présentant une intolérance au fructose (maladie héréditaire rare).
+
+## Interactions
+
+Associations contre-indiquées | Vitamine D ou analogues | La vitamine D ou ses analogues à doses pharmacologiques ne doivent pas être donnés pendant le traitement par alfacalcidol en raison de la possibilité d’effets additifs et d’un risque accru d’hypercalcémie. | Digitaliques | Chez les patients traités par digitaliques, une hypercalcémie peut entraîner des arythmies cardiaques. Les patients prenant des digitaliques en association avec de l’alfacalcidol doivent donc être étroitement surveillés. | Cholestyramine, colestipol, sucralfate, antiacides à base d’aluminium | L’absorption de l’alfacalcidol peut être altérée par l’utilisation concomitante de chélateurs des acides biliaires (cholestyramine, colestipol), de sucralfate ou d’antiacides à base d’aluminium. | Préparations contenant du calcium, diurétiques thiazidiques | Le risque d’hypercalcémie est augmenté chez les patients prenant des préparations contenant du calcium, ou des diurétiques thiazidiques en association avec l’alfacalcidol. | Associations déconseillées | · les antiépileptiques (barbituriques, carbamazépine, phénytoïne, primidone) : ils diminuent l'efficacité du traitement par l'Alfa D3 et nécessitent de ce fait une augmentation des doses ou le recours au 25-OH D 3 ou au 1,25 (OH) 2 D 3 ; | · les antiacides contenant du magnésium et les laxatifs : l'Alfa D3 augmente l'absorption du magnésium et expose au risque d'hypermagnésie. La prudence est donc requise pour cette association, en particulier chez les patients dialysés chroniques. | Associations à prendre en compte | Orlistat | Diminution de l’absorption de la vitamine D.
+
+## Pregnancy Breastfeeding
+
+Il est préférable de n'utiliser ce produit chez la femme enceinte qu'après avoir mis en balance les avantages attendus d'une part et l'éventuel risque thérapeutique d'autre part. Il en est de même pour la femme en cours d'allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : Vitamine A et D et associations des deux incluses, code ATC : A11CC03. | L'alfacalcidol normalise l'absorption intestinale du calcium et du phosphore. Il élève à la fois la calcémie et la phosphorémie. Il n'abaisse les taux élevés de l'hormone parathyroïdienne que si l'hyperphosphorémie est prévenue par l'augmentation des doses d'hydroxyde d'aluminium. Son action continue de s'exercer même lorsque la 1-alpha-hydroxylation rénale est perturbée. | L'action pharmacologique se manifeste rapidement et proportionnellement à la dose.
+
+## Adverse Effects
+
+Les effets indésirables présentés ci-dessous sont classés par système organe et par ordre de fréquence. La classification selon la fréquence utilise la convention suivante : effets très fréquents (≥ 1/10), fréquents (≥ 1/100 ; < 1/10), peu fréquents (≥ 1/1 000 ; < 1/100), rares (≥ 1/10 000 ; < 1/1 000), très rares (< 1/10 000) et fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Troubles du métabolisme et de la nutrition | · Fréquence indéterminée : hypercalcémie (associé à une hypercalciurie), hyperphosphorémie. | · Chez l'insuffisant rénal : le risque majeur de l'alfacalcidol est l'hypercalcémie et l'hyperphosphorémie entraînant des calcifications des tissus mous (cornée, conjonctives, peau, vaisseau, reins) pouvant mettre en jeu le pronostic fonctionnel et vital. | · Chez l'hypoparathyroïdien et l'hypophosphatémique vitamino-résistant non insuffisant rénal : le risque est, ici, celui de l'hypercalcémie et le l'hypercalciurie. Il peut être prévenu par l'arrêt de l'alfacalcidol quand la calciurie dépasse 6 mg/kg/24 h. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température inférieure à 25°C et à l'abri de l'humidité.

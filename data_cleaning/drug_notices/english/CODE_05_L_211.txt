@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_L_211
+DCI: Aflibercept Sanofi
+DrugBank ID: DB08885
+DrugBank Name: Aflibercept
+Brand Names: ZALTRAP
+Pharmaceutical Forms: Solution
+Dosages: 25mg/ml
+Packaging: b/1fl de 4 ml(100mg/4ml) b/1fl de 8 ml (200mg/8ml)
+Registration Numbers: 376/05 L 211/18
+Drug Codes: 05 L 211
+
+------------------------------------------------------------
+
+## Description
+
+Aflibercept is a recombinant protein composed of the binding domains of two human vascular endothelial growth factor (VEGF) receptors, VEGFR1 and VEGFR2, fused with the Fc region of human immunoglobulin gamma 1 (IgG1). 3 Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). 4 It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. 9 All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrates and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. 5 , 6 Due to the 2 fused VEGFR, aflibercept has a higher affinity to the cognate ligands than the endogenous individual receptor. However, it lacks the intracellular structure to propagate subsequent signal transduction, thus essentially sequestering the ligands to prevent activation of VEGFR. 3 , 9 Ziv-aflibercept, under the brand name Zaltrap, was developed as an intravenous injection for the treatment of metastatic colorectal cancer, and it was approved by the FDA and EMA in August 2012 and February 2013, respectively. 11 , 12 The intravitreal formulation, under the brand name EYELEA, was approved by the FDA for the treatment of retinopathy of prematurity in preterm infants in February 2023 and for the treatment of wet age-related macular degeneration, diabetic macular edema, and diabetic retinopathy in August 2023. 13 An aflibercept biosimilar, Yesafili, was approved for use in the EU in September 2023. 14 Three aflibercept biosimilars—Yesafili (aflibercept-jbvf) 16 and Opuviz (aflibercept-yszy) 15 , approved in May 2024, and Ahzantive (aflibercept-mrbb) 17 , approved in July 2024—were authorized by the FDA as treatments for retinal diseases; Enzeevi (aflibercept-abzv) 18 , approved in August 2024, was also approved by the FDA for similar indications.
+
+## Pharmacodynamics
+
+The equilibrium dissociation constants (K D ) for aflibercept for various human receptors are as follow: 0.5 pM for VEGF-A 165 , 0.36 pM for VEGF-A 121 , 1.92 pM for VEGF-B, and 39 pM for PlGF-2. 8 The effect of 6 mg per kg intravenous aflibercept every three weeks on QTc interval was evaluated in 87 patients with solid tumors in a randomized, placebo-controlled study. No large changes in the mean QT interval from baseline (i.e., greater than 20 ms as corrected for placebo) based on the Fridericia correction method were detected in the study. However, a small increase in the mean QTc interval (i.e., less than 10 ms) cannot be excluded due to the limitations of the study design. 8
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor A, long form Inhibitor Binder Placenta growth factor Inhibitor Binder Vascular endothelial growth factor B Inhibitor Binder
+
+## Absorption
+
+Following unilateral intravitreal administration of 8 mg aflibercept, the mean (SD) C max of free aflibercept in plasma was 0.30 (0.27) mg/L, and the median time to maximal concentration in plasma was 2.9 days. The accumulation of free aflibercept in plasma following three initial monthly intravitreal doses was minimal (mean accumulation ratio 1.2); subsequently, no further accumulation was observed. 9 In patients with wet age-related macular degeneration (AMD), retinopathy of prematurity (RVO), and diabetic macular edema (DME), the mean C max of free aflibercept in the plasma was 0.02 mcg/mL (range: 0 to 0.054 mcg/mL), 0.05 mcg/mL (range: 0 to 0.081 mcg/mL), and 0.03 mcg/mL (range: 0 to 0.076 mcg/mL), respectively and was attained in 1 to 3 days following intravitreal administration of 2 mg per eye. 7 The free aflibercept plasma concentrations were undetectable two weeks post-dosing in all patients. 7
+
+## Volume Of Distribution
+
+The volume of distribution of free aflibercept following intravenous (I.V.) administration of aflibercept is approximately 7 L. 9
+
+## Metabolism
+
+Aflibercept is a therapeutic protein and no drug metabolism studies have been conducted. Aflibercept is expected to undergo elimination through both target-mediated disposition via binding to free endogenous VEGF and metabolism via proteolysis. 9
+
+## Half Life
+
+For the intravitreal formulation, the half-life was estimated to be 7.13 days. 3 For the intravenous formulation, following a dose of 4 mg per kg every two weeks administered intravenously, the elimination half-life of free ziv-aflibercept was approximately 6 days (range 4-7 days). 8
+
+## Clearance
+
+Following an hour of intravenous infusion of 2 to 9 mg/kg every 2 or 3 week in cancer patients, the clearances of free and bound aflibercept were estimated to be 0.88 L/day and 0.14 L/day respectively. 2 Healthy subjects have a similar clearance of free aflibercept but slightly faster clearance of bound aflibercept (0.19 L/day). 2 Patients with a low albumin or high alkaline phosphatase levels also typically exhibit faster clearance of free aflibercept. 2
+
+## Toxicity
+
+For all intravitreal VEGF inhibitors, there is increased risk of stroke and myocardial infarction. An increase in intraocular pressure may also occur. When used intravenously, most common adverse reactions were leukopenia, diarrhea, neutropenia, proteinuria, AST increased, stomatitis, fatigue, thrombocytopenia, ALT increased, hypertension, weight decreased, decreased appetite, epistaxis, abdominal pain, dysphonia, serum creatinine increased, and headache. 9 Adequate and well-controlled studies with aflibercept have not been conducted in pregnant women. Aflibercept produced adverse embryofetal effects in rabbits, including external, visceral, and skeletal malformations. A fetal No Observed Adverse Effect Level (NOAEL) was not identified. At the lowest dose shown to produce adverse embryofetal effects, systemic exposure (based on AUC for free aflibercept) was approximately 0.9 -fold of the population pharmacokinetic estimated exposure in humans after an intravitreal dose of 8 mg. 9 Animal reproduction studies are not always predictive of human response, and it is not known whether EYLEA HD can cause fetal harm when administered to a pregnant woman. Based on the anti-VEGF mechanism of action for aflibercept, treatment with aflibercept may pose a risk to human embryofetal development. Aflibercept should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. 9 Overdosing with increased injection volume may increase intraocular pressure. Therefore, in case of overdosage, intraocular pressure should be monitored and if deemed necessary by the treating physician, adequate treatment should be initiated. 9 No studies have been conducted on the mutagenic or carcinogenic potential of aflibercept. Effects on male and female fertility were assessed as part of a 6-month study in monkeys with intravenous administration of aflibercept at weekly doses ranging from 3 to 30 mg per kg. Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels. In addition, females showed decreased ovarian and uterine weight accompanied by compromised luteal development and reduction of maturing follicles. These changes correlated with uterine and vaginal atrophy. All changes were reversible within 20 weeks after cessation of treatment. A No Observed Adverse Effect Level (NOAEL) was not identified. Intravenous administration of the lowest dose of aflibercept assessed in monkeys (3 mg per kg) resulted in systemic exposure (AUC) for free aflibercept that was 91 times higher than the population pharmacokinetic estimated systemic exposure in humans after an intravitreal dose of 8 mg. 9

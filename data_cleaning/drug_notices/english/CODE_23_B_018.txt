@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_B_018
+DCI: Amyleine Chloral
+DrugBank ID: DB01563
+DrugBank Name: Chloral hydrate
+Brand Names: DOLODENT
+Pharmaceutical Forms: Solution
+Dosages: 0.75g/100g
+Packaging: flacon/36g
+Registration Numbers: 133/23 B 018/98
+Drug Codes: 23 B 018
+
+------------------------------------------------------------
+
+## Description
+
+A hypnotic and sedative used in the treatment of insomnia. The safety margin is too narrow for chloral hydrate to be used as a general anesthetic in humans, but it is commonly used for that purpose in animal experiments. It is no longer considered useful as an anti-anxiety medication.
+
+## Absorption
+
+Rapidly absorbed in the GI tract following oral or rectal administration. Chloral hydrate and its active metabolite, trichloroethanol, have been detected in CSF, umbilical cord blood, fetal blood, and amniotic fluid.
+
+## Metabolism
+
+Metabolized by the liver and erythrocytes to form trichloroethanol, an active metabolite. This reaction is catalyzed by alcohol dehydrogenase and other enzymes. Oxidation of chloral hydrate and trichloroethanol to trichloroacetic acid in the liver and kidneys also occurs to a lesser extent. Trichloroethanol also undergoes glucuronidation to produce an inactive metabolism.
+
+## Route Of Elimination
+
+Trichloroethanol, trichloroethanol glucuronide, and trichloroacetic acid are excreted in the urine. Some trichloroethanol glucuronide may be secreted into bile and excreted in the feces.

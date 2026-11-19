@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_R_179
+DCI: Benzoate De Benzyle
+DrugBank ID: DB00676
+DrugBank Name: Benzyl benzoate
+Brand Names: ASCABINE FORTE | ASCALOL
+Pharmaceutical Forms: Sol. Appli. Cutanee | Sol. Appli. Locale
+Dosages: 25g/100g
+Packaging: flacon/125ml
+Registration Numbers: 314/07 R 179/19 | 318/07 R 179/14
+Drug Codes: 07 R 179
+
+------------------------------------------------------------
+
+## Description
+
+Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+
+## Pharmacodynamics
+
+Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+
+## Mechanism Of Action
+
+Benzyl benzoate exerts toxic effects on the nervous system of the parasite, resulting in its death. It is also toxic to mite ova, though its exact mechanism of action is unknown. In vitro, benzyl benzoate has been found to kill the Sarcoptes mite within 5 minutes. Target Actions Organism U Hormone-sensitive lipase modulator Humans
+
+## Absorption
+
+No data are available on percutaneous absorption of benzyl benzoate. Some older studies have suggested some percutaneous absorption, however the amount was not quantified.
+
+## Metabolism
+
+Rapidly hydrolyzed to benzoic acid and benzyl alcohol, which is further oxidized to benzoic acid. The benzoic acid is conjugated with glycine to form hippuric acid.
+
+## Toxicity
+
+Oral, rabbit: LD 50 = 1680 mg/kg; Skin, rabbit: LD 50 = 4000 mg/kg. Symptoms of overdose include blister formation, crusting, itching, oozing, reddening, or scaling of skin; difficulty in urinating (dribbling); jerking movements; sudden loss of consciousness.

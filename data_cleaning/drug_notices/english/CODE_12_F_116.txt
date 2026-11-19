@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_F_116
+DCI: altéplase
+DrugBank ID: DB00009
+DrugBank Name: Alteplase
+Brand Names: REVELISE
+Pharmaceutical Forms: Lyophilisat Pour Solution Pour Perfusion
+Dosages: 50mg
+Packaging: b/01
+Laboratories: BOEHRINGER INGELHEIM FRANCE
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AD - ENZYMES | B01AD02 - ALTEPLASE
+Registration Numbers: 592/12 F 116/23
+Drug Codes: 12 F 116
+
+------------------------------------------------------------
+
+## Description
+
+Alteplase is a recombinant tissue plasminogen activator (rt-PA) used as a thrombolytic agent. 6 It cleaves plasminogen to form plasmin, an enzyme involved in the degradation of fibrin clots. In the absence of fibrin, the alteplase-mediated conversion of plasminogen is limited, thanks to the high affinity between alteplase and fibrin. 3 , 6 Alteplase is a purified glycoprotein of 527 amino acids expressed in Chinese hamster ovary (CHO) cells. 5 , 6 It was first approved by the FDA in 1987 for the management of thromboembolic disease, including acute myocardial infarction (AMI). 1 The use of alteplase to manage AMI has decreased thanks to the availability of safer treatments such as angioplasty and stenting. However, its use for the treatment of acute ischemic stroke (AIS) has increased over the years. 4 New thrombolytic agents derived from tissue plasminogen activator, such as desmoteplase , tenecteplase and reteplase , have also been developed. 1 , 5 Alteplase is also available as Cathflo Activase (intracatheter instillation) for the restoration of function to central venous access devices. 8
+
+## Pharmacodynamics
+
+Alteplase binds to fibrin and plasminogen. Alteplase specificity for fibrin is achieved thanks to its high affinity for lysine residues. Also, it can bind plasminogen via loop structures called kringles, stabilized by three disulphide linkages similar to the ones in plasminogen. The specificity of alteplase for plasminogen bound to fibrin allows this drug to act in a clot- or fibrin-specific manner, leading to low concentrations of circulating plasmin and a lower risk of hemorrhagic transformation. 1 , 3 In patients with acute myocardial infarction, alteplase reduces fibrinogen levels 3 to 6 hours after treatment. In patients with acute ischemic stroke, patients treated with alteplase have a significantly higher resolution of hyperdense artery sign, a marker of clot formation in the proximal middle cerebral artery, compared to those treated with placebo. 3 The use of alteplase increases the risk of bleeding and thromboembolic events. Rare cases of cholesterol embolism have also been reported. 6
+
+## Mechanism Of Action
+
+Plasminogen Activator Fibrinogen alpha chain Binder Fibrinogen gamma chain Binder
+
+## Absorption
+
+Healthy volunteers with a baseline endogenous tissue plasminogen activator (t-PA) of 3.3 ng/ml had a 290-fold increase in baseline concentrations after receiving alteplase at an infusion rate of 0.25 mg/kg for 30 min; with an infusion rate of 0.5 mg/kg, a 550-fold increase was observed. 1 Acute myocardial infarction patients (n=12) given 10 mg of alteplase in a 2-minute infusion reached a peak plasma concentration of 3310 ng/ml. This was followed by 50 mg of alteplase in 1 h and 30 mg in 1.5 h, resulting in steady-state plasma levels of 2210 ng/ml and 930 ng/ml, respectively. 2
+
+## Volume Of Distribution
+
+The initial volume of distribution approximates plasma volume. 6 The average volume of distribution of the central compartment goes from 3.9 to 4.3 L, and the volume of distribution at steady state goes from 7.2 to 12 L. 1
+
+## Metabolism
+
+Alteplase is mainly metabolized by the liver. The carbohydrate and polypeptide domains of alteplase interact with hepatic glycoprotein receptors, leading to receptor-mediated endocytosis. 1 In vivo studies suggest that alteplase follows zero-order kinetics, meaning that its metabolism is saturable at higher plasma concentrations. 1
+
+## Route Of Elimination
+
+In healthy volunteers, more than 80% of alteplase is eliminated through urine 18 hours after administration. 1
+
+## Half Life
+
+Alteplase has an initial half-life of less than 5 minutes in patients with acute myocardial infarction (AMI). The dominant initial plasma half-life of the 3-hour and the accelerated regimens for AMI are similar. 6
+
+## Clearance
+
+Alteplase has a plasma clearance between 380 and 570 mL/min. 6
+
+## Toxicity
+
+Toxicity information regarding alteplase is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as risk of bleeding and thromboembolic events. 6 Symptomatic and supportive measures are recommended. The carcinogenic potential of alteplase or its effect on fertility have not been evaluated. In vivo studies evaluating tumorigenicity and in vitro studies evaluating mutagenicity were negative. 6 It has been estimated that the acute oral and dermal toxicity of alteplase is above 5,000 mg/kg. 7

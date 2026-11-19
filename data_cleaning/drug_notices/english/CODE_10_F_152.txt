@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_152
+DCI: Metoclopramide
+DrugBank ID: DB01233
+DrugBank Name: Metoclopramide
+Brand Names: METOCLOPRAMIDE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 10MG
+Packaging: B/10AMP.
+Laboratories: RENAUDIN
+Countries: FRANCE
+Reference Tariff (DA): 144.2 DA
+Prescription List: Liste II
+ATC Classification: A03FA01
+Registration Numbers: 366/10 F 152/16
+Drug Codes: 10 F 152
+
+------------------------------------------------------------
+
+## Description
+
+Diabetic gastroparesis is a condition that causes frequent nausea and vomiting, which has a negative impact on quality of life and poses a significant burden on the healthcare system. 6 Metoclopramide is a dopamine antagonist used to treat nausea and vomiting that may be associated with diabetic gastroparesis in addition to gastroesophageal reflux disease (GERD). It can also be used to prevent nausea or vomiting associated with chemotherapy or certain surgical or diagnostic procedures. 19 One unique property of this drug is that it does not increase gastric acid secretion. It is available in the oral tablet form or in solution, and can also be administered through the intravenous route. 17 Metoclopramide was initially approved by the FDA in 1980. 5
+
+## Pharmacodynamics
+
+Metoclopramide increases gastric emptying by decreasing lower esophageal sphincter (LES) pressure. It also exerts effects on the area postrema of the brain, preventing and relieving the symptoms of nausea and vomiting. In addition, this drug increases gastrointestinal motility without increasing biliary, gastric, or pancreatic secretions. 17 , 18 , 19 Because of its antidopaminergic activity, metoclopramide can cause symptoms of tardive dyskinesia (TD), dystonia, and akathisia, and should therefore not be administered for longer than 12 weeks. 4 , 18
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 4 Agonist 5-hydroxytryptamine receptor 3A Antagonist Muscarinic acetylcholine receptor M1 Agonist + 1 more target
+
+## Absorption
+
+Metoclopramide is rapidly absorbed in the gastrointestinal tract with an absorption rate of about 84%. 4 The bioavailability of the oral preparation is reported to be about 40.7%, but can range from 30-100%. 2 , 7 Nasal metoclopramide is 47% bioavailable. 21 A 15mg dose reaches a C max of 41.0 ng/mL, with a T max of 1.25 h, and an AUC of 367 ng*h/mL. 21
+
+## Volume Of Distribution
+
+The volume of distribution of metoclopramide is approximately 3.5 L/kg. This implies a high level of tissue distribution. Metoclopramide crosses the placental barrier and can cause extrapyramidal symptoms in the fetus. 13 , 18
+
+## Metabolism
+
+Metoclopramide undergoes first-pass metabolism and its metabolism varies according to the individual. This drug is metabolized by cytochrome P450 enzymes in the liver. 2 CYP2D6 and CYP3A4 both contribute to its metabolism, with CYP2D6 being more heavily involved. CYP1A2 is also a minor contributing enzyme. 16 The process of N-4 sulphate conjugation is a primary metabolic pathway of metoclopramide. 4 Hover over products below to view reaction partners Metoclopramide Monodeethylmetoclopramide Conjugated metabolite, Metoclopramide
+
+## Route Of Elimination
+
+About 85% of an orally administered dose was measured in the urine within 72 hours during a pharmacokinetic study. An average of 18% to 22% of 10-20 mg dose was recovered as free drug within 3 days of administration. 18
+
+## Half Life
+
+The mean elimination half-life of metoclopramide in people with healthy renal function ranges from 5 to 6 hours but is prolonged in patients with renal impairment. Downward dose adjustment should be considered. 4 , 13 , 18
+
+## Clearance
+
+The renal clearance of metoclopramide is 0.16 L/h/kg with a total clearance of 0.7 L/h/kg. Clinical studies showed that the clearance of metoclopramide may be reduced by up to 50% in patients with renal impairment. 4 After high intravenous doses, total metoclopramide clearance ranged from 0.31 to 0.69 L/kg/h. 14
+
+## Toxicity
+
+The rat oral LD50 of metoclopramide is 750 mg/kg. 20 Some symptoms of an overdose with metoclopramide include drowsiness, disorientation, and extrapyramidal reactions. Drugs that manage Parkinson's disease or anticholinergic drugs or antihistamines with anticholinergic properties 15 should be employed to treat extrapyramidal symptoms. Normally, these symptoms subside within 24 hours. 18 Unintentional overdose in infants receiving the oral solution of metoclopramide resulted in seizures, extrapyramidal symptoms, in addition to a lethargic state. In addition, methemoglobinemia has been found to occur in premature and full-term neonates after a metoclopramide overdose. Intravenous methylene blue may treat metoclopramide-associated methemoglobinemia. It is important to note that methylene blue administration may lead to hemolytic anemia in patients who suffer from G6PD deficiency, which can result in fatality. Dialysis has not been shown to be effective in sufficiently eliminating metoclopramide in an overdose situation due to low plasma distribution of this drug. 18

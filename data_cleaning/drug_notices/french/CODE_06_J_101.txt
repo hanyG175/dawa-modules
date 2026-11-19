@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_101
+DCI: NAFTIDROFURYL OXALATE 200 mg cp (NAFTIDROFURYL TEVA)
+Brand Names: NAFRONYL | NAFTILENE | NAFTIRETARD LP
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/20
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C04 - VASODILATATEURS PERIPHERIQUES | C04A - VASODILATATEURS PERIPHERIQUES | C04AX - AUTRES VASODILATATEURS PERIPHERIQUES | C04AX21 - NAFTIDROFURYL
+Registration Numbers: 235/06 J 101/16/23 | 418/06 J 101/11/24 | 447/06 J 101/23
+Drug Codes: 06 J 101
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | naftidrofuryl oxalate : 200 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer pendant le repas | Traitement à arrêter en cas d'absence d'amélioration après 6 mois de traitement | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Artériopathie chronique oblitérante des membres inférieurs au stade II | Posologie standard | 1 gélule 3 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Hypertension artérielle
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Naftidrofuryl : Mécanisme d'action | Le naftidrofuryl possède une activité 5 HT | 2 | bloquante, s'oppose aux effets vasoconstricteurs chez l'animal et aux effets proagrégants plaquettaires de la sérotonine chez l'animal et chez l'homme.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée | HÉPATOLOGIE: | - Hépatopathie sévère | - Hépatite cytolytique | ORL, STOMATOLOGIE: | - Ulcération buccale | SYSTÈME DIGESTIF: | - Vomissement | - Diarrhée | - Oesophagite | - Trouble digestif | - Douleur épigastrique | UROLOGIE, NÉPHROLOGIE: | - Lithiase oxalique

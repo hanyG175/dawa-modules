@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_021
+DCI: DEXAMETHASONE PHOSPHATE (sodique) 4 mg/ml sol inj (DEXAMETHASONE KRKA) | Dexamethasone
+DrugBank ID: DB01234
+DrugBank Name: Dexamethasone
+Brand Names: DEXAMETHASONE INPHA-MEDIS | DEXAMETYD | DEXASONE | DEXTHERA
+Pharmaceutical Forms: Sol Inj | Solution
+Dosages: 4mg/ml
+Packaging: b/5 ampoule | b/5amp 1ml et 2 ml et 5ml + b/50 ampoule 1ml et 2 ml et 5ml | b/5amp de 1ml. 2ml et 5ml + b/50 ampoule de 1ml. 2ml et 5ml | boite de 5 ampoules de 1 ml
+Laboratories: KRKA, D.D., NOVO MESTO | MARJEKA CESTA 6 | 8501 NOVO MESTO | SLOVENIE
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB02 - DEXAMETHASONE | H02AB02
+Registration Numbers: 003/09 H 021/08/23 | 317/09 H 021/21 | 433/09 H 021/16/22 | 543/09 H 021/21
+Drug Codes: 09 H 021
+
+------------------------------------------------------------
+
+## Description
+
+Dexamethasone, or MK-125, is a corticosteroid fluorinated at position 9 used to treat endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, gastrointestinal, respiratory, hematologic, neoplastic, edematous, and other conditions. 13 Developed in 1957, it is structurally similar to other corticosteroids like hydrocortisone and prednisolone . 9 Dexamethasone was granted FDA approval on 30 October 1958. 11 In a press release for the Randomized Evaluation of COVID-19 Therapy (RECOVERY) trial on 16 June 2020, dexamethasone was recommended for use in COVID-19 patients with severe respiratory symptoms. Dexamethasone reduced deaths by approximately one third in patients requiring ventilation and by one fifth in those requiring oxygen. 22
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals. 3 Dexamethasone's duration of action varies depending on the route. 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces. 3 Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 3
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Absorption via the intramuscular route is slower than via the intravenous route. 13 A 3mg intramuscular dose reaches a C max of 34.6±6.0ng/mL with a T max of 2.0±1.2h and an AUC of 113±38ng*h/mL. 5 A 1.5mg oral dose reaches a C max of 13.9±6.8ng/mL with a T max of 2.0±0.5h and an AUC of 331±50ng*h/mL. 5 Oral dexamethasone is approximately 70-78% bioavailable in healthy subjects. 6
+
+## Volume Of Distribution
+
+A 1.5mg oral dose of dexamethasone has a volume of distribution of 51.0L, while a 3mg intramuscular dose has a volume of distribution of 96.0L. 5
+
+## Metabolism
+
+Dexamethasone is 6-hydroxylated by CYP3A4 to 6α- and 6β-hydroxydexamethasone. 1 Dexamethasone is reversibly metabolized to 11-dehydrodexamethasone by corticosteroid 11-beta-dehydrogenase isozyme 2 and can also be converted back to dexamethasone by Corticosteroid 11-beta-dehydrogenase isozyme 1. 7 , 8 Hover over products below to view reaction partners Dexamethasone 6alpha-Hydroxydexamethasone 6beta-Hydroxydexamethasone 11-dehydrodexamethasone Dexamethasone
+
+## Route Of Elimination
+
+Corticosteroids are generally eliminated predominantly in the urine. 4 However, dexamethasone is <10% elminated in urine. 16
+
+## Half Life
+
+The mean terminal half life of a 20mg oral tablet is 4 hours. 16 A 1.5mg oral dose of dexamethasone has a half life of 6.6±4.3h, while a 3mg intramuscular dose has a half life of 4.2±1.2h. 5
+
+## Clearance
+
+A 20mg oral tablet has a clearance of 15.7L/h. 16 A 1.5mg oral dose of dexamethasone has a clearance of 15.6±4.9L/h while a 3.0mg intramuscular dose has a clearance of 9.9±1.4L/h. 5
+
+## Toxicity
+
+The oral LD 50 in female mice was 6.5g/kg and 794mg/kg via the intravenous route. 13 Overdoses are not expected with otic formulations. 12 Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency. 2 Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment. 2

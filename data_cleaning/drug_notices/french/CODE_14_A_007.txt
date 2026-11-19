@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_007
+DCI: METFORMINE CHLORHYDRATE 850 mg cp (METFORMINE CRISTERS)
+Brand Names: DIABAMINE BGL | DIAGUANID | FARMIDOX | GLUCOFORMINE | GLUCOMEX | GLUCONAD | GLUCOPHAGE 850 | GLUCOTAC | METFOR 850 | METFORAL | METOPHAGE | NEXECOR | NOVOFORMINE
+Pharmaceutical Forms: Comprimé
+Dosages: 850mg
+Packaging: b/100 | b/30 | b/30 - b/60 - b/90 - b/120 | b/30 et b/100 | b/30 et b/90 | b/30 et b/90 et b/120 | b/60 | b/90
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BA - BIGUANIDES | A10BA02 - METFORMINE
+Registration Numbers: 003/14 A 007/05/25 | 062/14 A 007/97/23 | 077/14 A 007/16 | 235/14 A 007/10/16 | 289/14 A 007/07/16 | 352/14 A 007/05 | 367/14 A 007/99/15 | 368/14 A 007/07/13 | 380/14 A 007/13 | 400/14 A 007/16 | 447/14 A 007/10/25 | 468/14 A 007/15 | 490/14 A 007/15/24
+Drug Codes: 14 A 007
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | metformine chlorhydrate : 1000 mg | Modalités d'administration | Voie orale | Administrer pendant le repas | Posologie à adapter à la glycémie | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | Posologie | Patient de 10 an(s) à 18 an(s) | Patient quel que soit le poids | Diabète insulinonécessitant chez l'enfant > 10 ans, traitement adjuvant (du) - Diabète non insulinodépendant chez l'enfant > 10 ans | Traitement initial | 500 à 850 mg 1 fois par jour | Pendant 10 à 15 jours | Traitement ultérieur | Posologie à instaurer progressivement | 500 à 2 000 mg en 1 à 3 prises par jour | Posologie maximale: 2 000 mg par 24 heures | Nombre d'unité de prise maximale: 2 comprimés par 24 heures | Patient à partir de 18 an(s) | Patient quel que soit le poids | Diabète non insulinodépendant chez l'adulte - Diabète non insulinodépendant chez l'adulte, traitement associé (du) | Traitement initial | 500 à 850 mg 2 à 3 fois par jour | Pendant 10 à 15 jours | Traitement ultérieur | Posologie à instaurer progressivement | 1 000 à 3 000 mg en 2 à 3 prises par jour | Posologie maximale: 3 000 mg par 24 heures | Nombre d'unité de prise maximale: 3 comprimés par 24 heures | Diabète insulinonécessitant chez l'adulte, traitement adjuvant (du) | Traitement initial | 500 à 850 mg 2 à 3 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Anesthésie générale | Anesthésie péridurale | Association à l'insuline | Association à un sulfamide hypoglycémiant | Consommation d'alcool importante | Diabète non équilibré | Enfant de moins de 10 ans | Enfant entre 10 et 12 ans | Femme susceptible d'être enceinte | Grossesse | Injection de produit de contraste iodé | Insuffisance rénale légère à modérée | Intervention chirurgicale | Jeûne | Mitochondriopathie | Pathologie cardio-pulmonaire | Rachianesthésie | Septicémie | Sujet âgé | Sujet à risque d'acidose lactique | Sujet à risque d'insuffisance rénale | Sujet à risque de carence en vitamine B12 | Surcharge pondérale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Metformine : Mécanisme d'action | La metformine est un biguanide possédant des effets antihyperglycémiants, réduisant la glycémie basale et postprandiale. Elle ne stimule pas la sécrétion d'insuline et, par conséquent, ne provoque pas d'hypoglycémie. | Elle peut agir par l'intermédiaire de trois mécanismes : | en réduisant la production hépatique de | glucose | , en inhibant la néoglucogenèse et la glycogénolyse ; | au niveau musculaire, en augmentant la sensibilité à l'insuline, en favorisant la captation et l'utilisation périphérique du | glucose | ; | enfin, en retardant l'absorption intestinale du | glucose | . | La metformine stimule la synthèse intracellulaire du glycogène, en agissant sur la glycogène-synthase. | Elle augmente la capacité de transport de tous les types de transporteurs membranaires du | glucose | (GLUTs) connus à ce jour.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Très rare) | DERMATOLOGIE: | - Urticaire (Très rare) | - Eruption cutanée (Très rare) | - Dermatose (Très rare) | - Prurit (Très rare) | - Réaction cutanée (Très rare) | - Erythème cutané (Très rare) | - Dermatose bulleuse | - Dermatite exfoliative | - Pemphigoïde bulleuse | HÉMATOLOGIE: | - Anémie mégaloblastique (Très rare) | HÉPATOLOGIE: | - Trouble hépatique (Très rare) | - Hépatite (Très rare) | NUTRITION, MÉTABOLISME: | - Malabsorption de la vitamine B12 (Fréquent) | - Anorexie (Très fréquent) | - Avitaminose B12 (Fréquent) | - Acidose lactique (Très rare) | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | - Goût métallique (Fréquent) | SYSTÈME DIGESTIF: | - Trouble digestif (Très fréquent) | - Nausée (Très fréquent) | - Douleur abdominale (Très fréquent) | - Diarrhée (Très fréquent) | - Vomissement (Très fréquent)

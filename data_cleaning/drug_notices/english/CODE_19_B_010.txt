@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_B_010
+DCI: Pyrantel
+DrugBank ID: DB11156
+DrugBank Name: Pyrantel
+Brand Names: COMBANTRIN | HELMINTOX
+Pharmaceutical Forms: Comprimé
+Dosages: 125mg
+Packaging: b/6
+Registration Numbers: 045/19 B 010/98 | 087/19 B 010/98
+Drug Codes: 19 B 010
+
+------------------------------------------------------------
+
+## Description
+
+Pyrantel is a pyrimidine-derivative anthelmintic agent for the oral treatment of various parasitic worm infections including ascariasis, hookworm infections, enterobiasis (pinworm infection), trichostrongyliasis, and trichinellosis 17 . Pyrantel was initially described in 1965 by researchers from Pfizer who sought cyclic amidines with suitable pharmacokinetic properties (specifically, duration of action) for use as an anthelmintic drug. Pyrantel is mainly available in formulations for dogs and cats as the embonate salt, containing a 34.7% pyrantel base 14 . Pyrantel is on the World Health Organization's List of Essential Medicines, which are the safest and most effective medicines required in a functioning health system 15 , 16 . A depolarizing neuromuscular-blocking agent causing longstanding nicotinic receptor activation, resulting in spastic paralysis of susceptible nematodes (worms). Pyrantel has shown to be effective after a single dose 18 . In humans, it is administered as pyrantel pamoate 3 , 4 , 8 , 12 .
+
+## Pharmacodynamics
+
+It has similar properties to both competitive and depolarizing neuromuscular blocking agents, which leads to the understanding of the paralytic effect of the drug has on parasites, ultimately resulting in the death of the parasite 16 , 8 .
+
+## Mechanism Of Action
+
+By promoting the release of acetylcholine, inhibiting cholinesterase, and stimulating ganglionic neurons, pyrantel serves as a depolarizing neuromuscular blocking agent in helminths. This causes extensive depolarization of the helminth muscle membrane, resulting in tension to the helminth's muscles, leading to paralysis and release of their attachment to the host organism intestinal walls 8 . This action is unlike piperazine, which is a hyperpolarizing neuromuscular blocking agent that causes relaxation of the helminth muscles, leading to a subsequent detachment from the intestinal wall. Excretion of the parasites in the feces occurs by normal peristalsis 7 . Target Actions Organism U G-protein coupled receptor 35 Not Available Humans N Muscarinic acetylcholine receptor M1 antagonist agonist Humans
+
+## Absorption
+
+Pyrantel is poorly absorbed from the GI tract of humans 8 , 21 . Peak serum concentrations occur 1–3 hours after a single dose 17 .
+
+## Metabolism
+
+Pyrantel is administered orally.
+The poor solubility of the pamoate salt offers the advantage of reduced absorption from the gastrointestinal tract and allows the drug to reach and act against parasites in the large intestine. Metabolism of pyrantel is rapid 22 . The absorbed drug is partly metabolized in the liver 20 .
+
+## Route Of Elimination
+
+Approximately 50% of an oral dose is excreted unchanged in feces; 7% excreted in urine as unchanged drug and metabolites 17 .
+
+## Half Life
+
+In pigs, following intravenous administration, pyrantel exhibited a half-life of 1.75 +/- 0.19 h 5 .
+
+## Toxicity
+
+Mild adverse effects include nausea, vomiting, diarrhea, headache, and dizziness 8 . LD50 in rats is 535 mg/kg 10 . Reported effects in humans in case of overdose include gastrointestinal disturbance, central nervous system effects, and superficial skin reactions. In one study, serum aspartate aminotransferase (AST) and serum alanine-aminotransferase (ALT) values were increased in approximately 2% of patients 19 . Pyrantel should be used with caution in patients with severe malnutrition or anemia. Supportive therapy is recommended for anemic, dehydrated, or malnourished patients before administration of the drug 12 . Pyrantel pamoate has been placed in pregnancy category C. This refers to the fact that animal studies have revealed adverse effects on the fetus (teratogenic/embryocidal, or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus 9 .Data on the use of pyrantel pamoate in pregnant women are quite limited. In mass treatment programs for which the World Health Organization (WHO) has observed that the benefits of treatment outweigh the risks, WHO allows the use of pyrantel pamoate in the 2nd and 3rd trimesters of pregnancy, due to the fact that the effects of pyrantel on birth outcome are uncertain. The risk of treatment in pregnant women already known to have an infection needs to be balanced with the risk of disease progression if treatment were to be omitted 9 . Individuals with liver disease are more susceptible to the toxicity in cases of pyrantel overexposure 9 , 11 . There are no data regarding the presence of pyrantel in breast milk. Pyrantel is poorly absorbed from the GI tract; therefore, excretion into breast milk may be minimal. Some experts recommend that a single dose of pyrantel therapy may be given to breastfeeding women 8 .

@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_K_185
+DCI: LEVOTHYROXINE SODIQUE 200 µg cp (LEVOTHYROX)
+Brand Names: LEVOTIRON
+Pharmaceutical Forms: Comprimé
+Dosages: 200mcg
+Packaging: b/50
+Laboratories: MERCK SERONO
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H03 - MEDICAMENTS DE LA THYROIDE | H03A - PREPARATIONS THYROIDIENNES | H03AA - HORMONES THYROIDIENNES | H03AA01 - LEVOTHYROXINE SODIQUE
+Registration Numbers: 177/09 K 185/24
+Drug Codes: 09 K 185
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Mar 04 00:00:00 CET 2024 | is_edited: False | title: INDICATIONS | text: Hypothyroïdies, | Circonstances, associées ou non à une hypothyroïdie, où il est nécessaire de freiner la TSH. | lists: Hypothyroïdies, | Circonstances, associées ou non à une hypothyroïdie, où il est nécessaire de freiner la TSH.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | lévothyroxine sodique : 100 µg | Modalités d'administration | Voie orale | Administrer au moins 1/2 heure avant le petit déjeuner | Administrer avec une quantité suffisante de liquide | Administrer en une prise unique | Administrer entier | Possibilité de dissoudre le comprimé dans l'eau | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient jusqu'à 15 an(s) | Patient quel que soit le poids | Hypothyroïdie | Traitement initial | Dans le cas de : Déficit congénital | Utiliser la forme la plus adaptée au patient | 10 à 15 µg/kg 1 fois par jour | Pendant 3 mois | Dans le cas de : Déficit acquis | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | Posologie à augmenter par palier toutes les 2 à 4 semaines | Utiliser la forme la plus adaptée au patient | 12,5 à 50 µg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | Utiliser la forme la plus adaptée au patient | 100 à 150 µg/m² 1 fois par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Hypothyroïdie | Traitement initial | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | Posologie à augmenter par palier toutes les 2 à 4 semaines | 25 à 50 µg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 100 à 200 µg 1 fois par jour | Traitement antithyroïdien d'une hyperthyroïdie, traitement associé (du) | Posologie standard | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 50 à 100 µg 1 fois par jour | Hormonothérapie freinatrice en cas de cancer thyroïdien - Hormonothérapie substitutive en cas de cancer thyroïdien | Posologie standard | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 150 à 300 µg 1 fois par jour | Goitre par carence iodée | Posologie standard | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 75 à 200 µg 1 fois par jour | Pendant 6 mois à 2 an(s) | Goitre par carence iodée, traitement préventif des récidives (du) | Posologie standard | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 75 à 200 µg 1 fois par jour | Freinage de la TSH | Traitement initial | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 2 µg/kg 1 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | Posologie à adapter en fonction des résultats biologiques | 2,1 à 2,5 µg/kg 1 fois par jour | Test de suppression thyroïdienne | Posologie standard | Débuter le traitement 2 semaines avant le test | 150 à 200 µg 1 fois par jour | Pendant 14 jours | Populations particulières | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Angor | Anorexie | Antécédent d'épilepsie | Antécédent de maladie cardiovasculaire | Antécédent récent d'infarctus du myocarde | Arythmie | Athérosclérose | Autonomie de la glande thyroïde | Diabète | Enfant ayant des difficultés de déglutition | Femme ménopausée | Goitre | Goitre volumineux | Grossesse | Hypertension artérielle | Hyperthyroïdie | Hypopituitarisme | Hypothyroïdie chronique | Hypothyroïdie secondaire | Hypothyroïdie sévère | Insuffisance cardiaque | Insuffisance coronarienne | Insuffisance surrénale | Interchangeabilité | Myocardite | Nourrisson de moins de 30 mois | Nouveau-né de faible poids | Post-partum | Prématuré | Sujet âgé | Sujet à risque de maladie psychiatrique | Sujet de faible poids | Sujet dénutri | Tachyarythmie | Tachycardie
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypercalciurie | DERMATOLOGIE: | - Hypersudation | - Affection du tissu sous-cutané | - Eruption cutanée | - Hyperhidrose | - Prurit | - Erythème cutané | - Alopécie | - Urticaire | - Dermatite allergique | DIVERS: | - Fièvre | - Intolérance à la chaleur | ENDOCRINOLOGIE: | - Hyperthyroïdie (Fréquent) | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Trouble menstruel | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Angioedème | NUTRITION, MÉTABOLISME: | - Appétit augmenté | - Poids (diminution) | PSYCHIATRIE: | - Insomnie (Très fréquent) | - Nervosité (Fréquent) | - Agitation | SYSTÈME CARDIOVASCULAIRE: | - Tachycardie (Fréquent) | - Palpitation (Très fréquent) | - Fibrillation auriculaire | - Collapsus cardiovasculaire | - Bouffée congestive | - Cardiopathie (aggravation) | - Infarctus du myocarde | - Angor | - Hypertension artérielle | - Arythmie | - Extrasystole | - Craniosténose | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Douleur abdominale | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe | - Soudure prématurée des épiphyses | - Faiblesse musculaire | - Ostéoporose | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Pseudotumeur cérébrale (Rare) | - Hypertension intracrânienne | - Tremblement | SYSTÈME RESPIRATOIRE: | - Symptôme d'allergie respiratoire | - Dyspnée

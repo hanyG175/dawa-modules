@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_187
+DCI: Glimepiride
+DrugBank ID: DB00222
+DrugBank Name: Glimepiride
+Brand Names: GLIMEPIRIDE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 1MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 251 DA
+PPA (DA): 250.8 DA
+Prescription List: Liste I
+ATC Classification: 14A187
+Registration Numbers: 001/14 A 187/07/16 | 003/14 A 187/05/25 | 293/14 A 187/07/24 | 317/14 A 187/10/22 | 352/14 A 187/08/24 | 447/14 A 187/16/22 | 492/14 A 187/16/24
+Drug Codes: 14 A 187
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Glimepiride stimulates the secretion of insulin granules from the pancreatic beta cells and improves the sensitivity of peripheral tissues to insulin to increase peripheral glucose uptake, thus reducing plasma blood glucose levels and glycated hemoglobin (HbA1C) levels. A multi-center, randomized, placebo-controlled clinical trial evaluated the efficacy of glimepiride (1–8 mg) as monotherapy titrated over 10 weeks compared with placebo in T2DM subjects who were not controlled by diet alone. 1 In this study, there was a reduction in fasting plasma glucose (FPG) by 46 mg/dL, post-prandial glucose (PPG) by 72 mg/dL, and HbA1c by 1.4% more than the placebo. 1 In another randomized study comprising of patients with T2DM receiving either placebo or one of the three doses (1, 4, or 8 mg) of glimepiride during a 14-week study period, all glimepiride regimens significantly reduced FPG, PPG, and HbA1c values (P < 0.001) compared to placebo by the end of the study period. 1 The 4- and 8-mg doses of glimepiride were more effective than the 1-mg dose; however, the 4-mg dose provided a nearly maximal antihyperglycemic effect. 1
+
+## Mechanism Of Action
+
+ATP-sensitive inward rectifier potassium channel 11 Inhibitor ATP-sensitive inward rectifier potassium channel 1 Inhibitor ATP-binding cassette sub-family C member 8 Inducer
+
+## Absorption
+
+Glimepiride is completely absorbed after oral administration within 1 hour of administration with a linear pharmacokinetics profile. 1 Following administration of a single oral dose of glimepiride in healthy subjects and with multiple oral doses with type 2 diabetes, the peak plasma concentrations (Cmax) were reached after 2 to 3 hours post-dose. 8 Accumulation does not occur after multiple doses. 1 When glimepiride was given with meals, the time to reach Cmax was increased by 12% while the mean and AUC (area under the curve) were decreased by 8 to 9%, respectively. 9 In a pharmacokinetic study of Japanese patients with T2DM, Cmax value in once-daily dose was higher than those in twice-daily doses. 5 The absolute bioavailability of glimepiride is reported to be complete following oral administration. 4
+
+## Volume Of Distribution
+
+Following intravenous dosing in healthy subjects, the volume of distribution was 8.8 L (113 mL/kg). 8
+
+## Metabolism
+
+Glimepiride is reported to undergo hepatic metabolism. Following either an intravenous or oral dose, glimepiride undergoes oxidative biotransformation mediated by CYP2C9 enzyme to form a major metabolite, cyclohexyl hydroxymethyl derivative (M1), that is pharmacologically active. M1 can be further metabolized to the inactive metabolite carboxyl derivative (M2) by one or several cytosolic enzymes. M1 retained approximately one third of the pharmacologic activity of its parent in an animal model, with a half-life of 3-6 hours. 3 However, whether the glucose-lowering effect of M1 is clinically significant is not clear. Hover over products below to view reaction partners Glimepiride Cyclohexyl hydroxymethyl glimepiride Cyclohexyl carboxyl glimepiride
+
+## Route Of Elimination
+
+Following oral administration of glimepiride in healthy male subjects, approximately 60% of the total radioactivity was recovered in the urine in 7 days, with M1 and M2 accounting for 80-90% of the total radioactivity recovered in the urine. The ratio of M1 to M2 was approximately 3:2 in two subjects and 4:1 in one subject. 8 Approximately 40% of the total radioactivity was recovered in feces where M1 and M2 accounted for about 70% of the radioactivity and a ratio of M1 to M2 being 1:3. No parent drug was recovered from urine or feces. 8
+
+## Half Life
+
+The elimination half-life of glimepiride is approximately 5 to 8 hours, 3 which can increase up to 9 hours following multiple doses. 2
+
+## Clearance
+
+A single-dose, crossover, dose-proportionality (1, 2, 4, and 8 mg) study in normal subjects and from a single- and multiple-dose, parallel, dose proportionality (4 and 8 mg) study in patients with type 2 diabetes (T2D) were performed. In these studies, the total body clearance was 52.1 +/- 16.0 mL/min, 48.5 +/- 29.3 mL/min in patients with T2D given a single oral dose, and 52.7 +/- 40.3 mL/min in patients with T2D given multiple oral doses. 9 Following intravenous dosing in healthy subjects, the total body clearance was 47.8 mL/min. 8
+
+## Toxicity
+
+The oral LD50 value in rats is > 10000 mg/kg. MSDS The intraperitoneal LD50 value in rats is reported to be 3950 mg/kg MSDS . Although glimepiride is reported to have fewer risks of hypoglycemia compared to other sulfonylureas such as glyburide, overdosage of glimepiride may result in severe hypoglycemia with coma, seizure, or other neurological impairment may occur. This can be treated with glucagon or intravenous glucose. Continued observation and additional carbohydrate intake may be necessary since hypoglycemia may recur after apparent clinical recovery. 8 In a study of rats given doses of up to 5000 parts per million (ppm) in complete feed for 30 months, there were no signs of carcinogenesis. Meanwhile, the administration of glimepiride at a dose much higher than the maximum human recommended dose for 24 months in mice resulted in an increase in benign pancreatic adenoma formation in a dose-related manner, which was thought to be the result of chronic pancreatic stimulation. 8 Glimepiride was non-mutagenic in in vitro and in vivo mutagenicity studies. In male and female rat studies, glimepiride was shown to have no effects on fertility. 8

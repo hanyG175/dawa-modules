@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_199
+DCI: Carboxymaltose Ferrique Exprime En Fer
+DrugBank ID: DB08917
+DrugBank Name: Ferric carboxymaltose
+Brand Names: FERINJECT
+Pharmaceutical Forms: Solution
+Dosages: 50 mg/ml
+Packaging: b/1fl de 10 ml
+Laboratories: VIFOR FRANCE | 100-101 TERRASSE BOIELDIEU | TOUR FRANKLIN LA DÉFENSE 8 | 92042 PARIS LA DÉFENSE CEDEX
+Registration Numbers: 001/12 E 199/19/25
+Drug Codes: 12 E 199
+
+------------------------------------------------------------
+
+## Description
+
+Ferric carboxymaltose is an iron replacement product and, chemically, an iron-carbohydrate complex. It was FDA approved on July 25, 2013.
+
+## Pharmacodynamics
+
+When measured using positron emission tomography (PET), the red cell uptake of 59-Fe and 52-Fe from INJECTAFER ranged from 61% to 99%. 2 In patients with iron deficiency, the red cell uptake ranged from 91% to 99%. 2 In patients with renal anemia, the red cell uptake ranged from 61% to 84%. 2
+
+## Mechanism Of Action
+
+Ferric carboxymaltose is a colloidal iron (III) hydroxide in complex with carboxymaltose, a carbohydrate polymer that releases iron. 2
+
+## Absorption
+
+When a single dose of 100 to 1000 mg of iron was given to iron-deficient patients, the maximum serum concentration was 37 μg/mL to 333 μg/mL. These levels were obtained 15 minutes to 1.21 hours post-dose. 2
+
+## Volume Of Distribution
+
+The estimated volume of distribution after a single dose was 3 liters. 2
+
+## Route Of Elimination
+
+Renal elimination of iron was negligible. 2
+
+## Half Life
+
+The terminal half-life of ferric carboxymaltose ranges from 7-12 hours. 2 The elimination half-life in pediatric patients was approximately 9.7 hours. 2
+
+## Toxicity
+
+The most common adverse reactions (>2%) are nausea, hypertension, flushing, hypophosphatemia, and dizziness. 2

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_073
+DCI: PROPRANOLOL CHLORHYDRATE 40 mg cp (PROPRANOLOL EG)
+DrugBank ID: DB00571
+DrugBank Name: Propranolol
+Brand Names: FEDICARD | NEOCARDIL
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: b/30 | b/50
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C07 - BETA-BLOQUANTS | C07A - BETA-BLOQUANTS | C07AA - BETA-BLOQUANTS NON SELECTIFS | C07AA05 - PROPRANOLOL
+Registration Numbers: 242/06 F 073/13/25 | 418/06 F 073/19/24
+Drug Codes: 06 F 073
+
+------------------------------------------------------------
+
+## Description
+
+Propranolol is a racemic mixture of 2 enantiomers where the S(-)-enantiomer has approximately 100 times the binding affinity for beta adrenergic receptors. 9 Propranolol is used to treat a number of conditions but most commonly is used for hypertension. 8 , 9 , 10 Propranolol was granted FDA approval on 13 November 1967. 9
+
+## Pharmacodynamics
+
+Propranolol is a beta-adrenergic receptor antagonist used to treat hypertension. 9 , 10 Propranolol has a long duration of action as it is given once or twice daily depending on the indication. 8 , 9 , 10 When patients abruptly stop taking propranolol, they may experience exacerbations of angina and myocardial infarctions. 10
+
+## Mechanism Of Action
+
+Beta-1 adrenergic receptor Antagonist
+
+## Absorption
+
+Patients taking doses of 40mg, 80mg, 160mg, and 320mg daily experienced C max values of 18±15ng/mL, 52±51ng/mL, 121±98ng/mL, and 245±110ng/mL respectively. 4 Propranolol has a T max of approximately 2 hours, though this can range from 1 to 4 hours in fasting patients. 5 Taking propranolol with food does not increase T max but does increase bioavailability. 5
+
+## Volume Of Distribution
+
+The volume of distribution of propranolol is approximately 4L/kg 8 , 9 or 320L. 4
+
+## Metabolism
+
+Propranolol undergoes side chain oxidation to α-naphthoxylactic acid, ring oxidation to 4’-hydroxypropranolol, or glucuronidation to propranolol glucuronide. 7 It can also be N-desisopropylated to become N-desisopropyl propranolol. 1 17% of a dose undergoes glucuronidation and 42% undergoes ring oxidation. 6 Hover over products below to view reaction partners Propranolol N-desisopropylpropranolol 4'-hydroxypropanolol Propranolol Glucuronide α-Naphthoxylactic Acid
+
+## Route Of Elimination
+
+91% of an oral dose of propranolol is recovered as 12 metabolites in the urine. 6
+
+## Half Life
+
+The elimination half-life of propranolol is approximately 8 hours. 10 The plasma half-life of propranolol is 3 to 6 hours. 8 , 9
+
+## Clearance
+
+The clearance of propranolol is 2.7±0.03L/h/kg in infants 90 days. 8 Propranolol clearance increases linearly with hepatic blood flow. 3 Propranolol has a clearance in hypertensive adults of 810mL/min. 4
+
+## Toxicity
+
+Symptoms of overdose include hypotension, hypoglycemic seizure, restlessness, euphoria, insomnia. 8 Patients with asthma may develop bronchospasm. 8 In case of overdose, monitor vital signs, mental status, and blood glucose. 8 Treat hypotension with intravenous fluids, bradycardia with atropine, and isoproterenol and aminophylline for bronchospasm. 8 If patients do not respond to intravenous fluids, follow up with glucagon 50-150µg/kg intravenously, then 1-5mg/hour, followed by catecholamines. 8 , 9 , 10 Dialysis will not be useful as propranolol is highly protein bound. 8 , 9 , 10

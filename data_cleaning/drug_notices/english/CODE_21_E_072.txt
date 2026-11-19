@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_E_072
+DCI: Methocarbamol
+DrugBank ID: DB00423
+DrugBank Name: Methocarbamol
+Brand Names: MUSCLAX
+Pharmaceutical Forms: Comprimé
+Dosages: 500 mg | 500mg
+Packaging: b/20 et b/60 | boite de 20 et boite de 60
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: M03BA03
+Registration Numbers: 447/21 E 072/20 | 477/21 E 072/20
+Drug Codes: 21 E 072
+
+------------------------------------------------------------
+
+## Description
+
+Methocarbamol was developed in the early 1950s as a treatment for muscle spasticity and the associated pain. 6 , 7 It is a guaiacol glyceryl ether. 7 Methocarbamol tablets and intramuscular injections are prescription medicines indicated in the United States as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions. Label , 9 In Canada, methocarbamol can be sold as an over the counter oral medicine at a lower dose that may be combined with acetaminophen or ibuprofen . 10 A combination product with acetylsalicylic acid and codeine is available in Canada by prescription. 10 Methocarbamol was FDA approved on 16 July 1957. 8
+
+## Pharmacodynamics
+
+Methacarbamol is a skeletal muscle relaxant with an unknown mechanism of action. 5 Methacarbamol has been shown to block spinal polysynaptic reflexes, decrease nerve transmission in spinal and supraspinal polysynaptic pathways, and prolong the refractory period of muscle cells. 5 , 4 Methocarbamol does not act as a local anesthetic upon injection. 4 In animal studies, methocarbamol also prevents convulsions after electric shock. 5
+
+## Mechanism Of Action
+
+The mechanism of action of methocarbamol is thought to be dependant on its central nervous system depressant activity. 3 This action may be mediated through blocking spinal polysynaptic reflexes, decreasing nerve transmission in spinal and supraspinal polysynaptic pathways, and prolonging the refractory period of muscle cells. 5 , 4 Methocarbamol has been found to have no effect on contraction of muscle fibres, motor end plates, or nerve fibres. 9 Target Actions Organism N Carbonic anhydrase 1 inhibitor Humans
+
+## Absorption
+
+The time to maximum concentration is 1.1 hours for both healthy patients and those on hemodialysis. 1 The maximum plasma concentration is 21.3mg/L for healthy patients and 28.7mg/L in hemodialysis patients. 1 The area under the curve for healthy patients is 52.5mg/L*hr and 87.1mg/L*hr in hemodialysis patients. 1 AUC% based on terminal elimination half life is 2% for healthy patients and 4% for hemodialysis patients. 1 Older studies report maximum plasma concentrations in 0.5 hours. 2
+
+## Volume Of Distribution
+
+Volume of distribution data in humans is scarce. In horses, the volume of distribution is 515-942mL/kg at steady state or 724-1130mL/kg. 5
+
+## Metabolism
+
+Methocarbamol is metabolized in the liver by demethylation to 3-(2-hydroxyphenoxy)-1,2-propanediol-1-carbamate or hydroxylation to 3-(4-hydroxy-2-methoxyphenoxy)-1,2-propanediol-1-carbamate. 2 Methocarbamol and its metabolites are conjugated through glucuronidation or sulfation. 2 Hover over products below to view reaction partners Methocarbamol 3-(2-hydroxyphenoxy)-1,2-propanediol-1-carbamate 3-(4-hydroxy-2-methoxyphenoxy)-1,2-propanediol-1-carbamate
+
+## Route Of Elimination
+
+In humans the majority of the dose is eliminated in the urine. 2 In dogs, 88.85% of the dose is eliminated in urine and 2.14% in the feces. 2 In rats, 84.5-92.5% of the dose is eliminated in the urine and 0-13.3% is eliminated in the feces. 2
+
+## Half Life
+
+The elimination half life is 1.14 hours in healthy subjects and 1.24 hours in subjects with renal insufficiency. 1 Older studies report half lives of 1.6-2.15 hours. 2
+
+## Toxicity
+
+Overdose of methocarbamol may be associated with alcohol and other central nervous system depressants. Label Patients may experience nausea, drowsiness, blurred vision, hypotension, seizures, and coma. Label Treatment of overdose is generally through airway maintenance, monitoring urinary output, vital signs, and giving fluid intravenously if necessary. Label The oral LD50 in rats is 3576.2mg/kg. 10 The FDA has classified methocarbamol as pregnancy category C. Label Animal and human studies have not been performed to determine the risks to a fetus, however fetal and congenital abnormalities have been reported. Label Methocarbamol is excreted in the milk of dogs, however it is unknown if this is also the case for humans. Label Caution should be exercised when taking methocarbamol while breastfeeding. Label Studies to assess the carcinogenicity, mutagenicity, or effects on fertility of methocarbamol have not been performed. Label

@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_062
+DCI: TROPICAMIDE 0,5 % collyre sol (MYDRIATICUM) | Tropicamide
+DrugBank ID: DB00809
+DrugBank Name: Tropicamide
+Brand Names: MYDRIATICUM | MYDRICOL | TROPEX | TROPITICUM
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.005
+Packaging: flacon./10ml | flacon./5ml
+Laboratories: LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | 63017 CLERMONT-FERRAND CEDEX 2 | THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01F - MYDRIATIQUES ET CYCLOPLEGIQUES | S01FA - ANTICHOLINERGIQUES | S01FA06 - TROPICAMIDE | S01FA06
+Registration Numbers: 022/17 H 062/99/15 | 023/17 H 062/07/14 | 065/17 H 062/23 | 543/17 H 062/25
+Drug Codes: 17 H 062
+
+------------------------------------------------------------
+
+## Description
+
+Tropicamide is an alkaloid atropine‐derived anticholinergic drug and a non‐selective antagonist of muscarinic acetylcholine (mACh) receptors. 3 Usually available in ophthalmic formulations, tropicamide is used to cause mydriasis and cycloplegia for eye exams or ocular procedures. 1 It is also used in combination with hydroxyamphetamine for the same indication. 10 Oral tropicamide has been investigated as a potential drug to relieve sialorrhea in patients with Parkinson's Disease. 1
+
+## Pharmacodynamics
+
+Tropicamide is an anticholinergic drug and that works by non‐selectively blocking muscarinic receptors to cause mydriasis and cycloplegia. It relaxes the pupillary sphincter to dilate the pupil. 1 The onset of tropicamide‐induced mydriasis is about 10 to 15 minutes, 3 with optimal effect occurring 25 to 30 minutes post-administration. Mydriasis caused by tropicamide wears off within four to eight hours, but it was seen up to 24 hours in some individuals. Tropicamide hinders accommodation by causing the contraction of the ciliary muscle. The cycloplegic effect occurs within 20 to minutes following administration, with a duration of action of four to 10 hours. Tropicamide can elevate intraocular pressure. 1 The ophthalmic use of tropicamide is not typically associated with serious systemic adverse events. 5 One randomized pilot study showed that oral tropicamide alleviated perceived symptoms of sialorrhea in patients with Parkinson's Disease: anticholinergics are believed to restore the dopaminergic to cholinergic activity imbalance in neurodegenerative diseases. 1 Similarly in one case report, tropicamide administered via ophthalmic solution relieved clozapine-induced sialorrhea. 2 Interestingly, in rodent models, tropicamide suppressed drug-induced tremulous jaw movements which are often used as a model of parkinsonian tremor: the significance of this finding requires further investigations. 4
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M4 Antagonist Muscarinic acetylcholine receptor M1 Antagonist Muscarinic acetylcholine receptor M2 Antagonist + 1 more target
+
+## Absorption
+
+Following ocular administration of 40 μL drops of 0.5% tropicamide in female subjects, tropicamide reached its mean peak concentration in plasma of 2.8 ± 1.7 ng/mL (mean ± SD) at five minutes. 5
+
+## Volume Of Distribution
+
+No information can be found.
+
+## Metabolism
+
+No information can be found.
+
+## Route Of Elimination
+
+No information can be found.
+
+## Half Life
+
+Tropicamide has a plasma half-life of 30 minutes. 2
+
+## Clearance
+
+No information can be found.
+
+## Toxicity
+
+Oral LD 50 is 865 mg/kg in rats and 565 mg/kg in mice. Intraperitoneal LD 50 is 1210 mg/kg in rats and 695 mg/kg in mice. Subcutaneous LD 50 is 872 mg/kg in rats and 665 mg/kg in mice. 11 There is limited information on tropicamide overdose. Systemic adverse effects, such as tachycardia, central nervous system disturbances, and muscle rigidity have been reported with the use of tropicamide. Psychotic reactions, behavioral disturbances, and vasomotor or cardio-respiratory collapse have been reported with the use of anticholinergic in children. 9

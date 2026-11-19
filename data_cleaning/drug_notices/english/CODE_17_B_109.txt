@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_109
+DCI: Levocabastine | OXYBUPROCAINE CHLORHYDRATE 0,4 % collyre sol récip unidose (CHLORHYDRATE D'OXYBUPROCAINE THEA Unidose)
+DrugBank ID: DB01106
+DrugBank Name: Levocabastine
+Brand Names: BIOCABASTINE | LEVOPHTA
+Pharmaceutical Forms: Collyree En Solution | Collyree En Suspension
+Dosages: 0.0005
+Packaging: flacon/5ml
+Laboratories: LABORATOIRE CHAUVIN | 416 RUE SAMUEL MORSE – CS 99535 | 34961 MONTPELLIER | [Tel, fax, e-Mail : à compléter ultérieurement par le titulaire] | THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01H - ANESTHESIQUES LOCAUX | S01HA - ANESTHESIQUES LOCAUX | S01HA02 - OXYBUPROCAÏNE | S01GX02
+Registration Numbers: 096/17 B 109/99 | 543/17 B 109/21
+Drug Codes: 17 B 109
+
+------------------------------------------------------------
+
+## Description
+
+Levocabastine is a selective second-generation H1-receptor antagonist used for allergic conjunctivitis. Levocabastine was discovered at Janssen Pharmaceutica in 1979.
+
+## Pharmacodynamics
+
+Levocabastine is a selective histamine H1-receptor antagonist exerting inhibitory effects on the release of chemical mediators from mast cells and on the chemotaxis of polymorphonuclear leukocytes and eosinophils. Both histamine and antigens induced conjunctivitis can be inhibited by levocabastine. Levocabastine can also reduce symptoms of allergic rhinitis by preventing an increase in vascular permeability of nasal mucosa.
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist Neurotensin receptor type 2 Partial antagonist
+
+## Absorption
+
+After instillation in the eye, levocabastine is systemically absorbed, albeit at low levels.
+
+## Metabolism
+
+Mostly unchanged. 10 to 20% is metabolized to the acylglucuronide of levocabastine.
+
+## Half Life
+
+36 hours (after oral administration)
+
+## Toxicity
+
+Adverse effects include visual disturbances, dry mouth, cough, nausea, eyelid edema and lacrimation.

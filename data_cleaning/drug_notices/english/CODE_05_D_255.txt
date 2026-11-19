@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_255
+DCI: Isatuximab
+DrugBank ID: DB14811
+DrugBank Name: Isatuximab
+Brand Names: SARCLISA
+Pharmaceutical Forms: Solution
+Dosages: 20mg/ml
+Packaging: b/01 flacon. de 100mg/5ml et b/01 flacon. de 500mg/25ml
+Registration Numbers: 376/05 D 255/25
+Drug Codes: 05 D 255
+
+------------------------------------------------------------
+
+## Description
+
+Isatuximab (formerly SAR650984) is a humanized, IgG1-derived monoclonal antibody (mAb) produced from a Chinese hamster ovary (CHO) cell line. 9 , 2 Structurally, isatuximab is comprised of two identical immunoglobulin kappa light chains and two identical immunoglobulin gamma heavy chains. 9 It is a cytolytic antibody targeted against CD38, a glycoprotein found on the surface of some immune cells that is highly expressed by malignant plasma cells in multiple myeloma. 9 Along with daratumumab , another anti-CD38 mAb, isatuximab constitutes a novel treatment modality for patients with difficult-to-treat multiple myeloma. Following three consecutive years on the yearly "Antibodies to watch" list published in "mAb", a peer-reviewed scientific journal dedicated to antibody research, 6 , 7 , 8 isatuximab was granted Orphan Drug designation and approved on March 2nd, 2020, for the treatment of multiple myeloma. 9 , 10 It is manufactured by Sanofi-Aventis U.S. under the brand name Sarclisa. 10
+
+## Pharmacodynamics
+
+Isatuximab results in the apoptosis of malignant plasma cells via inhibition of a surface protein key to their survival and proliferation. 9 It has a relatively long residence time in the body, taking approximately 2 months to clear following the final dose, and may therefore be infused on a weekly or bimonthly schedule. 9 Isatuximab is given in combination with pomalidomide due to a synergy that exists between the two - isatuximab can induce a depletion in host NK lymphocytes, yet the ADCC effect of anti-CD38 mAbs has been shown to be superior in patient samples with a high ratio of NK to myleoma cells. 5 Pomalidomide, another antineoplastic agent, has the ability to induce and enhance NK lymphocyte activity 1 , 5 and thus works synergistically to enhance isatuximab-mediated killing of myeloma cells. 2 Isatuximab is formulated as an intravenous infusion and its administration may result in infusion-related reactions characterized most commonly by dyspnea, cough, chills, and nausea. 9 All noted reactions started during the first infusion and 98% resolved on the same day. Reactions may be mitigated by pre-medication with acetaminophen, H2 antagonists, diphenyhdramine, and/or dexamethasone. 9 Patients with grade 1 or 2 reactions may restart the infusion at a slower rate following resolution of symptoms, but patients experiencing a grade 3 or higher reaction (e.g. hypertension, bronchospasm) should discontinue therapy indefinitely. 9 Isatuximab can generate false positive results for indirect antglobulin tests (indirect Coombs tests), immunofixation tests, and serum protein electrophoresis. 9
+
+## Mechanism Of Action
+
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 Allosteric modulator
+
+## Absorption
+
+When administered at the recommended dose and schedule, the steady-state C max and AUC were found to be 351 µg/mL and 72,600 μg∙h/mL, respectively. 9 It takes approximately 8 weeks for isatuximab to reach steady-state. Over a dosage range of 1 mg/kg to 20 mg/kg given every 2 weeks AUC increases in a greater than dose-proportional manner, whereas over a dosage range of 5 mg/kg to 20 mg/kg every 4 weeks (followed by every 2 weeks) AUC was found to increase proportionately with dose. Steady-state AUC is lower in patients with increased body weight, but not to the extent that dose adjustments are required. 9 T max ranges from approximately 2 to 5 hours, increasing with dose and with repeated dosing. 3
+
+## Volume Of Distribution
+
+The predicted volume of distribution of isatuximab is 8.13 L. 9
+
+## Metabolism
+
+Isatuximab metabolism is likely to involve catabolism to smaller proteins and peptides. 9
+
+## Clearance
+
+Total clearance decreases with increasing dose and with multiple dosing. 9 At steady-state, it takes approximately 2 months to eliminate ≥99% of isatuximab from plasma following the last dose. 9
+
+## Toxicity
+
+There is no known antidote for isatuximab, nor does there appear to be any clinical experience with overdose. 9 Symptoms of overdosage are likely to be consistent with isatuximab's adverse effect profile and may therefore include significant infusion-site reactions, gastrointestinal disturbances, and may increase the risk of infection. Treatment of overdose should involve careful monitoring of the patient and symptomatic and supportive measures as clinically indicated. 9

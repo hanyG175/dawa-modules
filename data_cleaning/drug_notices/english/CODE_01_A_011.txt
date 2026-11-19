@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_011
+DCI: Promethazine Chlorhydrate Exprime En Promethazine
+DrugBank ID: DB01069
+DrugBank Name: Promethazine
+Brand Names: PRANOK
+Pharmaceutical Forms: Solution
+Dosages: 50mg/02ml
+Packaging: b/100 ampoule. 02ml
+Registration Numbers: 487/01 A 011/06/14
+Drug Codes: 01 A 011
+
+------------------------------------------------------------
+
+## Description
+
+Promethazine, originally known as 3,277 R.P., is an N-dimethylaminopropyl derivative of phenothiazine that was developed in France in 1946. 1 Promethazine antagonizes a variety of receptors, allowing it to be used for a number of indications including allergic reactions, pain, sedation, nausea, and vomiting. 2 , 8 , 9 , 7 , 10 Promethazine was granted FDA approval before 29 March 1951. 11 , 12
+
+## Pharmacodynamics
+
+Promethazine is is a histamine H1 antagonist that can be used for it's ability to induce sedation, reduce pain, and treat allergic reactions. 12 Promethazine's effects generally last 4-6h but can last up to 12h. 12 Patients should be counselled regarding CNS and respiratory depression, reduce seizure threshold, and bone marrow depression. 12
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist D(2) dopamine receptor Antagonist Muscarinic acetylcholine receptor M1 Antagonist + 11 more targets
+
+## Absorption
+
+A 25mg dose of intramuscular promethazine reaches a C max of 22ng/mL. 4 Intravenous promethazine reaches a C max of 10.0ng/mL, with a T max of 4-10h, and an AUC of 14,466ng*h/mL. 4 Oral promethazine is only 25% bioavailable due to first pass metabolism. 4 Oral promethazine reaches a C max of 2.4-18.0ng/mL, with a T max of 1.5-3h, and an AUC of 11,511ng*h/mL. 4
+
+## Volume Of Distribution
+
+The volume of distribution of promethazine is approximately 970L or 30L/kg. 4
+
+## Metabolism
+
+Promethazine is predominantly metabolized to promethazine sulfoxide, and minorly to desmethylpromethazine and a hydroxy metabolite. 3 , 4 Hydroxylation of promethazine is predominantly mediated by CYP2D6. 3 Hover over products below to view reaction partners Promethazine Promethazine Sulphoxide Desmethylpromethazine Promethazine Hydroxy Metabolite
+
+## Route Of Elimination
+
+An intravenous dose of promethazine is 0.64% eliminated in the urine as the unchanged parent drug, 0.02-2.02% in the urine as desmethylpromethazine, 10% in the urine as promethazine sulfoxide. 4
+
+## Half Life
+
+The elimination half life of promethazine is approximately 12-15h. 4
+
+## Clearance
+
+The intravenous clearance of promethazine is approximately 1.14L/min. 4 The renal clearance of promethazine is 5.9mL/min and the renal clearance of promethazine sulfoxide is 90.4mL/min. 4
+
+## Toxicity
+
+The intraperitoneal LD 50 in rats is 170mg/kg and in mice is 160mg/kg. 14 The subcutaneous LD 50 in rats is 400mg/kg and in mice is 240mg/kg. 14 The oral LD 50 in mice is 255mg/kg. 14 Patients experiencing an overdose of promethazine may present with mild central nervous system and cardiovascular depression, hypotension, respiratory depression, unconciousness, hyperreflexia, hypertonia, ataxia, athetosis, extensor-plantar reflexes, convulsions, dry mouth, flushing, gastrointestinal symptoms, and fixed, dilated pupils. 12 Treat overdoses with symptomatic and supportive treatment, which may include activated charcoal, sodium sulfate, magnesium sulfate, controlled ventilation, diazepam, intravenous fluids, vasopressors, norepinephrine, phenylephrine, anticholinergic antiparkinsonian agents, diphenhydramine, barbiturates, or oxygen. 12

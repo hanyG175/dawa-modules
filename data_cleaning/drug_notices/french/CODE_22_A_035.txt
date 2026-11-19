@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_A_035
+DCI: DIMENHYDRINATE 3,147 mg/ml sirop (NAUSICALM)
+Brand Names: MENTEX
+Pharmaceutical Forms: Siropop
+Dosages: 12.5mg/15mg/30mg/125mg/57mg/1mg/5ml
+Packaging: flacon./125ml + bouchon doseur
+Laboratories: Les Laboratoires BROTHIER
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AA - ETHERS AMINOALKYLES | R06AA11 - DIMENHYDRINATE
+Registration Numbers: 352/22 A 035/08
+Drug Codes: 22 A 035
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Thu Jul 01 00:00:00 CEST 2021 | is_edited: False | title: INDICATIONS | text: Chez l'adulte et l'enfant de plus de 2 ans : | prévention et traitement du mal des transports. | Chez l'adulte et l'enfant de plus de 6 ans : | traitement symptomatique de courte durée des nausées et des vomissements non accompagnés de fièvre. | lists: prévention et traitement du mal des transports. | traitement symptomatique de courte durée des nausées et des vomissements non accompagnés de fièvre.
+
+## Posology
+
+Posologie | Unité de prise | sachet | diménhydrinate : 15.7 mg | Modalités d'administration | Voie orale | Posologie | Patient de 6 an(s) à 16 an(s) | Patient quel que soit le poids | Mal des transports - Mal des transports, traitement préventif (du) | Posologie standard | Administrer 1/2 heure avant le voyage | Respecter un intervalle de 6 à 8 heures entre 2 prises | Traitement à renouveler si besoin au cours du voyage | 1 à 2 sachets 1 fois par jour | Nausées et vomissements | Posologie standard | Le traitement doit être de courte durée | 1 à 2 sachets toutes les 6 à 8 heures | Ne pas dépasser 2 jours de traitement. | Posologies maximales | Posologie maximale: 150 mg par jour
+
+## Precautions
+
+Antécédent d'arythmie | Antécédent de toxicomanie | Asthme | Bronchite chronique | Bronchopneumopathie chronique obstructive | Emphysème | Epilepsie | Gastrite, antécédent | Hypertension artérielle | Hyperthyroïdie | Hypertrophie bénigne de la prostate | Insuffisance hépatique | Insuffisance rénale | Nouveau-né exposé in utero au médicament | Obstruction des voies urinaires | Occlusion intestinale | Psychose | Sujet âgé | Traitement ototoxique en cours | Ulcère gastroduodénal, antécédent (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Diménhydrinate : Mécanisme d'action | Le diménhydrinate est un antihistaminique H1, à structure éthanolamine, qui se caractérise par un important effet sédatif aux doses usuelles, d'origine histaminergique et adrénolytique centrale, un effet anticholinergique à l'origine d'effets indésirables périphériques, mis à profit dans la prévention et le traitement du mal des transports, et enfin un effet adrénolytique périphérique pouvant retentir au plan hémodynamique (risque d'hypotension orthostatique). | Les antihistaminiques ont en commun la propriété de s'opposer, par antagonisme compétitif plus ou moins réversible, aux effets de l' | histamine | notamment sur la peau, les bronches, l'intestin, et les vaisseaux.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie | DERMATOLOGIE: | - Photosensibilisation | - Dermatite | - Eruption cutanée | - Hyperhidrose | - Prurit | - Eruption maculopapuleuse | - Erythème cutané | - Eczéma | - Urticaire | - Erythème polymorphe | - Purpura | DIVERS: | - Fatigue | - Oedème | - Trouble sexuel | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Inhibition de la lactation | HÉMATOLOGIE: | - Thrombopénie (Rare) | - Pancytopénie (Rare) | - Agranulocytose (Rare) | - Leucopénie (Rare) | - Anémie hémolytique (Rare) | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | NUTRITION, MÉTABOLISME: | - Anorexie | - Porphyrie aiguë | OPHTALMOLOGIE: | - Mydriase | - Vision floue | - Diplopie | - Trouble de l'accommodation | - Glaucome | - Trouble de la vision | ORL, STOMATOLOGIE: | - Acouphène | - Sécheresse buccale | - Vertige | PSYCHIATRIE: | - Hallucination | - Dépression | - Agitation | - Concentration (diminution) | - Euphorie | - Irritabilité | - Confusion mentale | - Pharmacodépendance | - Abus de substance | - Délire | - Insomnie | - Excitation paradoxale | - Anxiété | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Tachycardie | - Arythmie | - Extrasystole | - Bloc cardiaque | - Hypotension orthostatique | - Hypotension artérielle | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Vomissement | - Constipation | - Nausée | - Douleur épigastrique | - Diarrhée | SYSTÈME NERVEUX: | - Syndrome extrapyramidal (Très rare) | - Paresthésie | - Trouble de la mémoire | - Céphalée | - Somnolence | - Tremblement | - Sédation | - Convulsions | - Trouble de l'équilibre | - Ataxie | SYSTÈME RESPIRATOIRE: | - Hyperviscosité des sécrétions bronchiques | TOXICOLOGIE: | - Effet atropinique | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire | - Dysurie

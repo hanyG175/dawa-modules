@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_088
+DCI: Alfacalcidol
+DrugBank ID: DB01436
+DrugBank Name: Alfacalcidol
+Brand Names: SUPRA CALCI | UN-ALFA
+Pharmaceutical Forms: Gélule
+Dosages: 1mcg
+Packaging: b/30
+Laboratories: Theramex Ireland Limited | 3rd Floor, Kilmore House, | Park Lane, Spencer Dock, | Dublin 1, D01 YE64 | IrlandE
+ATC Classification: A11CC03
+Registration Numbers: 174/14 H 088/19 | 600/14 H 088/98/23
+Drug Codes: 14 H 088
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Alfacalcidol works to increase serum levels of calcium by stimulating intestinal calcium absorption, reabsorption of calcium from bone, and possibly the renal reabsorption of calcium. It also modestly promotes intestinal phosphorus absorption. 9 In patients with renal failure, alfacalcidol increased intestinal calcium and phosphorus absorption in a dose-related manner. This increase in calcium and phosphorus levels occurs within three days following drug administration: this effect was reversed within three days of drug discontinuation. In patients with chronic renal failure, serum calcium levels were elevated while parathyroid hormone and alkaline phosphatase levels returned to normal levels within five days following alfacalcidol administration. 12 Since alfacalcidol suppresses parathyroid hormone, a reduction in parathyroid hormone levels is achieved more rapidly in patients on intermittent intravenous therapy, with significant reductions occurring within three months of therapy. In patients receiving daily oral therapy of alfacalcidol, the time it takes alfacalcidol to normalize plasma calcium levels may be up to several months, possibly reflecting calcium being utilized for bone mineralization. 9 In patients with nutritional osteomalacia, alfacalcidol increased calcium absorption with six hours of oral administration and the effects peaked at 24 hours. 12
+
+## Mechanism Of Action
+
+Vitamin D3 receptor Agonist
+
+## Absorption
+
+Alfacalcidol is absorbed passively and almost completely in the small intestine. 12
+
+## Metabolism
+
+Alfacalcidol is rapidly converted in the liver to 1,25-dihydroxyvitamin D, which is essentially the metabolite of vitamin D that regulates calcium and phosphate metabolism. Alfacalcidol is further metabolized to other polar inactive metabolites, excreted primarily through the bile. 12
+
+## Half Life
+
+The half-life of alfacalcidol ranges from three to four hours. 9 , 12
+
+## Toxicity
+
+There is a discrepancy across a number of reported LD 50 values for alfacalcidol, which can be attributed to differences in the procedures used in laboratories. Oral LD 50 in mice ranges from 440 to 490 mcg/kg. Intravenous in mice was 290 mcg/kg; however, another source presented 56 mcg/kg in female mice and 71 mcg/kg in male mice. Oral LD 50 in rats ranges from 340 to 720 mcg/kg. 9 In case of an acute accidental overdose following oral administration, emesis or gastric lavage can be induced to prevent further drug absorption. Mineral oil may be used to promote fecal drug elimination in instances where the drug was already absorbed in the stomach. 9 Alfacalcidol overdose can lead to hypercalcemia, hypercalciuria, and hyperphosphatemia. Similarly, a high intake of calcium and phosphate concurrently with a therapeutic dose of alfacalcidol can result in those conditions. 9 Hypercalcemia most commonly presents with headache, weakness, hypertension, somnolence, dizziness, sweating, anorexia, nausea, vomiting, diarrhea, constipation, polyuria, polydipsia and muscle and bone pain, and metallic taste. 12 Hypercalcemia should be responded to with discontinuation of alfacalcidol, a low calcium diet and withdrawal of calcium supplements. 9 Prolonged hypercalcemia can lead to nephrocalcinosis, nephrolithiasis, and reduced kidney function. In cases of severe hypercalcemia, general supportive measures are recommended, which may include forced diuresis and close monitoring of renal function, electrolytes, and electrocardiographs. Monitoring for abnormalities is especially critical in patients receiving digitalis glycosides. Management with glucocorticosteroids, loop diuretics, bisphosphonates, and calcitonin, as well as hemodialysis with low calcium content, may be considered. 12

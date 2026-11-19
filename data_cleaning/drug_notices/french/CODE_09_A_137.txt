@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_A_137
+DCI: Bicalutamide
+Brand Names: BICALUTAMIDE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 50MG
+Packaging: B/30
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 0 DA
+PPA (DA): 5350.00 DA
+Prescription List: Liste I
+ATC Classification: 09A137
+Registration Numbers: 157/09 A 137/14 | 263/09 A 137/24 | 285/09 A 137/20 | 323/09 A 137/16 | 352/09 A 137/19 | 569/09 A 137/05/23
+Drug Codes: 09 A 137
+
+------------------------------------------------------------
+
+## Indications
+
+ENDOCRINOLOGIE ET HORMONES
+
+## Mechanism Of Action
+
+ANDROGENES & ANTI-ANDROGENES

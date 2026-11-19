@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_C_022
+DCI: Molsidomine
+DrugBank ID: DB09282
+DrugBank Name: Molsidomine
+Brand Names: MOLSIDOMINE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 2MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 266.49 DA
+Prescription List: Liste I
+ATC Classification: 06C022
+Registration Numbers: 003/06 C 022/06/19 | 195/06 C 022/07/21 | 268/06 C 022/10/23 | 318/06 C 022/19 | 352/06 C 022/20/25 | 447/06 C 022/14/24 | 457/06 C 022/13
+Drug Codes: 06 C 022
+
+------------------------------------------------------------
+
+## Description
+
+Molsidomine is an orally active, long-acting vasodilator, which belongs to the class of medications known as syndnones. Interestingly, it is being studied as being a preventive measure in cerebral infarction 1 .
+
+## Pharmacodynamics
+
+Molsidomine leads to smooth muscle relaxation in the coronary blood vessels, relieving symptoms of angina and increasing blood flow to the coronary arteries.
+
+## Mechanism Of Action
+
+Guanylate cyclase soluble subunit alpha-2 Agonist
+
+## Absorption
+
+Peak plasma drug concentration (tmax) occurs from 1 to 2 hours after administration.
+
+## Metabolism
+
+Molsidomine hepatically metabolized to linsidomine . Linsidomine releases nitric oxide (NO) from endothelial cells when it decays, and acts as the active vasodilating metabolite responsible for molsidomine's pharmacological effects. Oral absorption of Molsidomine is found to be 95.5% ±4.5. Presystemic metabolism is noted to be 56% and metabolism is reported extensive by Liver. Renal Excretion accounts for 95 % and plasma half-life is 5 hr.
+Back to top Hover over products below to view reaction partners Molsidomine Linsidomine
+
+## Clearance
+
+renal excretion is the main route of elimination of the metabolites in humans (90% to 95%)
+About 2% of the ingested drug is excreted unchanged in the urine.

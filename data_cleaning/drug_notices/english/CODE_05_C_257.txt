@@ -1,0 +1,51 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_257
+DCI: Ponatinib
+DrugBank ID: DB08901
+DrugBank Name: Ponatinib
+Brand Names: ICLUSIG
+Pharmaceutical Forms: Comprimé
+Dosages: 15 mg
+Packaging: b/30
+Registration Numbers: 659/05 C 257/25
+Drug Codes: 05 C 257
+
+------------------------------------------------------------
+
+## Description
+
+Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase ABL1 Inhibitor Breakpoint cluster region protein Inhibitor
+
+## Absorption
+
+The absolute bioavailability of ponatinib is unknown. Peak concentrations of ponatinib are observed within 6 hours after Iclusig oral administration. Food does not affect absorption of food. The aqueous solubility of ponatinib is pH dependent, with higher pH resulting in lower solubility.
+When 45 mg of ponatinib is given to cancer patients, the pharmacokinetic parameters are as follows:
+Cmax = 73 ng/mL;
+AUC = 1253 ng•hr/mL;
+
+## Volume Of Distribution
+
+After oral administration of 45 mg ponatinib once daily for 28 days in cancer patients, the steady state volume of distribution is 1223 L. 2 Ponatinib is a weak substrate for P-gp and ABCG2. 2
+
+## Metabolism
+
+At least 64% of a ponatinib dose undergoes phase I and phase II metabolism. CYP3A4 and to a lesser extent CYP2C8, CYP2D6 and CYP3A5 are involved in the phase I metabolism of ponatinib in vitro. 2 Ponatinib is also metabolized by esterases and/or amidases. 2
+
+## Route Of Elimination
+
+Ponatinib is mainly eliminated via feces. Following a single oral dose of [14C]-labeled ponatinib, approximately 87% of the radioactive dose is recovered in the feces and approximately 5% in the urine. 2
+
+## Half Life
+
+After oral administration of 45 mg ponatinib once daily for 28 days in cancer patients, the terminal elimination half-life is 24 hours (range of 12 - 66 hours). 2
+
+## Toxicity
+
+The most common non-hematologic adverse reactions (≥ 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia. Hematologic adverse reactions included thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia. 2

@@ -1,0 +1,5 @@
+"""Google Drive OCR adapter."""
+
+from .service import GoogleDriveOCRModule, OCRResult
+
+__all__ = ["GoogleDriveOCRModule", "OCRResult"]

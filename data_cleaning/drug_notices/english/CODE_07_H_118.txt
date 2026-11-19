@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_118
+DCI: Hydrocortisone Aceponate
+DrugBank ID: DB14538
+DrugBank Name: Hydrocortisone aceponate
+Brand Names: EFFICORT HYDROPHILE
+Pharmaceutical Forms: Creme Hydrophile
+Dosages: 0.00127
+Packaging: t/30g
+Registration Numbers: 123/07 H 118/01/15
+Drug Codes: 07 H 118
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as gluco/mineralocorticoids, progestogins and derivatives. These are steroids with a structure based on a hydroxylated prostane moiety.
+
+## Pharmacodynamics
+
+Hydrocortisone is the most important human glucocorticoid. It is essential for life and regulates or supports a variety of important cardiovascular, metabolic, immunologic and homeostatic functions. Topical hydrocortisone is used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects. Glucocorticoids are distinguished from mineralocorticoids and sex steroids by having different receptors, target cells, and effects. Technically, the term corticosteroid refers to both glucocorticoids and mineralocorticoids, but is often used as a synonym for glucocorticoid. Glucocorticoids suppress cell-mediated immunity. They act by inhibiting genes that code for the cytokines IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8 and TNF-alpha, the most important of which is the IL-2. Reduced cytokine production limits T cell proliferation. Glucocorticoids also suppress humoral immunity, causing B cells to express lower amounts of IL-2 and IL-2 receptors. This diminishes both B cell clonal expansion and antibody synthesis. The diminished amounts of IL-2 also leads to fewer T lymphocyte cells being activated.
+
+## Mechanism Of Action
+
+Annexin A1 Glucocorticoid receptor
+
+## Absorption
+
+Topical corticosteroids can be absorbed from normal intact skin. Inflammation and/or other disease processes in the skin increase percutaneous absorption.
+
+## Metabolism
+
+Primarily hepatic via CYP3A4
+
+## Route Of Elimination
+
+Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys. Some of the topical corticosteroids and their metabolites are also excreted into the bile.
+
+## Half Life
+
+6-8 hours
+
+## Toxicity
+
+Side effects include inhibition of bone formation, suppression of calcium absorption and delayed wound healing

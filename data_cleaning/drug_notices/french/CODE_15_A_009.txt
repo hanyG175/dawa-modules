@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_009
+DCI: CLONAZEPAM deux virgule cinq milligrammes par millilitre sol buv en gte (RIVOTRIL)
+Brand Names: CLONA
+Pharmaceutical Forms: Solution
+Dosages: 2.5mg/ml
+Packaging: 1 flacon/20ml
+Laboratories: CHEPLAPHARM France
+ATC Classification: N - SYSTEME NERVEUX | N03 - ANTIEPILEPTIQUES | N03A - ANTIEPILEPTIQUES | N03AE - DERIVES DE LA BENZODIAZEPINE | N03AE01 - CLONAZEPAM
+Registration Numbers: 242/15 A 009/10/25
+Drug Codes: 15 A 009
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Tue Jan 24 00:00:00 CET 2023 | is_edited: False | title: INDICATIONS | text: Dans le traitement de l'épilepsie chez l'enfant, soit en monothérapie temporaire, soit en association à un autre traitement antiépileptique : | traitement des épilepsies généralisées : crises cloniques, toniques, tonico-cloniques, absences, crises myocloniques, atoniques, spasmes infantiles et syndrome de Lennox-Gastaut ; | traitement des épilepsies partielles : crises partielles avec ou sans généralisation secondaire. | lists: traitement des épilepsies généralisées : crises cloniques, toniques, tonico-cloniques, absences, crises myocloniques, atoniques, spasmes infantiles et syndrome de Lennox-Gastaut ; | traitement des épilepsies partielles : crises partielles avec ou sans généralisation secondaire.
+
+## Posology
+
+Posologie | Unité de prise | ml | clonazépam : 1 mg | Modalités d'administration | Voie intramusculaire, voie intraveineuse | A diluer avant administration | Administrer par voie intraveineuse lente | Posologie à adapter pendant le traitement | Rechercher la posologie minimale efficace | S'assurer de la compatibilité des excipients avec la voie d'administration | Traitement à arrêter progressivement | Posologie | Patient de 1 an à 15 an(s) | Patient quel que soit le poids | Etat de mal épileptique | Posologie standard | Voie intraveineuse | Respecter la posologie maximale recommandée | 0,25 à 0,5 mg 1 fois ce jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Etat de mal épileptique | Posologie standard | Voie intramusculaire, voie intraveineuse | Administrer par voie intramusculaire exceptionnellement | 1 mg 1 à 6 fois ce jour | Posologie maximale: 10 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Alcoolisme | Allaitement | Antécédent de dépression | Ataxie | Dépression sévère | Doses cumulées | Enfant de moins de 15 ans | Epilepsie | Etat de dépendance, antécédent | Femme susceptible d'être enceinte | Grossesse | Idée suicidaire, antécédent (d') | Insuffisance hépatique légère à modérée | Insuffisance rénale | Insuffisance respiratoire | Néphropathie | Nouveau-né exposé in utero au médicament | Patient polymédiqué | Patient traité à posologie élevée | Porphyrie | Psychose | Sujet âgé | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Clonazépam : Mécanisme d'action | Le clonazépam appartient à la classe des 1-4 benzodiazépines et a une activité pharmacodynamique qualitativement semblable à celle des autres composés de cette classe : myorelaxante, anxiolytique, sédative, hypnotique, anticonvulsivante, amnésiante. | Ces effets sont liés à une action agoniste spécifique sur un récepteur central faisant partie du complexe « récepteurs macromoléculaires GABA-OMEGA », également appelés BZ1 et BZ2 et modulant l'ouverture du canal chlore.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) | DERMATOLOGIE: | - Urticaire (Rare) | - Altération de la couleur cutanée (Rare) | - Eruption cutanée (Rare) | - Prurit (Rare) | - Alopécie (Rare) | DIVERS: | - Fatigue | - Lassitude | ENDOCRINOLOGIE: | - Puberté précoce | HÉMATOLOGIE: | - Thrombopénie (Rare) | - Leucopénie (Rare) | - Anémie (Exceptionnel) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Réaction anaphylactique (Très rare) | - Hypersensibilité | OPHTALMOLOGIE: | - Nystagmus (Fréquent) | - Vision floue | - Diplopie | ORL, STOMATOLOGIE: | - Sialorrhée (Fréquent) | - Sensation de vertige | PSYCHIATRIE: | - Trouble de la libido (Rare) | - Agressivité | - Hallucination | - Dépression | - Agitation | - Cauchemar | - Phénomène de rebond | - Rêves anormaux | - Concentration (diminution) | - Trouble du comportement | - Trouble de l'humeur | - Irritabilité | - Confusion mentale | - Trouble émotif | - Trouble du sommeil | - Pharmacodépendance | - Psychose | - Délire | - Désorientation temporospatiale | - Anxiété | - Hostilité | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Arrêt cardiaque | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Nausée (Rare) | - Gêne épigastrique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Hypotonie musculaire | - Faiblesse musculaire | - Fracture | SYSTÈME NERVEUX: | - Convulsions (Très rare) | - Céphalée (Rare) | - Réaction paradoxale | - Somnolence | - Ralentissement psychomoteur | - Dysarthrie | - Amnésie | - Altération de la conscience | - Trouble de l'équilibre | - Ataxie | - Epilepsie (crise) | - Hyperactivité | - Amnésie antérograde | SYSTÈME RESPIRATOIRE: | - Dépression respiratoire | - Hypersécrétion bronchique | TOXICOLOGIE: | - Syndrome de sevrage | UROLOGIE, NÉPHROLOGIE: | - Trouble de l'érection (Rare) | - Rétention urinaire | - Incontinence urinaire

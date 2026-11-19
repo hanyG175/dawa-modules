@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_041
+DCI: ETHANOL 72 % + POVIDONE IODEE 5 % sol cut récip unidose (BETADINE ALCOOLIQUE Unidose)
+Brand Names: ALCOOL CHIRURGICAL 90°
+Pharmaceutical Forms: Solution
+Dosages: 90°
+Packaging: 1 flacon/1000ml
+Laboratories: COOPER
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D09 - PANSEMENTS MEDICAMENTEUX | D09A - PANSEMENTS MEDICAMENTEUX | D09AA - PANSEMENTS AVEC ANTI-INFECTIEUX | D09AA09 - POVIDONE IODEE
+Registration Numbers: 314/26 B 041/15/22
+Drug Codes: 26 B 041
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Oct 30 00:00:00 CET 2023 | is_edited: False | title: INDICATIONS | text: Antisepsie de la peau saine avant acte de petite chirurgie ou avant certains gestes invasifs tels que ponctions et injections. Il convient de respecter les recommandations thérapeutiques officielles en vigueur. | Antisepsie chirurgicale : préparation du champ opératoire. | Remarque : Les agents à visée antiseptique ne sont pas stérilisants. Ils réduisent temporairement le nombre des microorganismes. | lists: Antisepsie de la peau saine avant acte de petite chirurgie ou avant certains gestes invasifs tels que ponctions et injections. Il convient de respecter les recommandations thérapeutiques officielles en vigueur. | Antisepsie chirurgicale : préparation du champ opératoire.
+
+## Posology
+
+Posologie | Unité de prise | compresse | Modalités d'administration | Voie cutanée | Information du patient : se laver les mains avant et après application | Traitement à renouveler aussi souvent que nécessaire | Posologie | Patient à partir de 1 an | Patient quel que soit le poids | Antisepsie des affections cutanéo-muqueuses - Antisepsie des plaies ou brûlures superficielles peu étendues | Posologie standard | 1 compresse 1 à 2 fois par 48 heures
+
+## Precautions
+
+Allaitement | Application sous pansement occlusif | Application sur les muqueuses | Brûlure | Grand brûlé | Grossesse | Insuffisance rénale | Lésion cutanée | Nourrisson entre 12 et 30 mois | Patient traité par application étendue | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Povidone iodée : Mécanisme d'action | La | povidone | iodée est un antiseptique à large spectre, bactéricide et fongicide sur | Candida albicans | . C’est un iodophore, complexe organique à 10 % environ d'iode disponible actif. | Son spectre d'activité est celui de l'iode, libéré lentement et progressivement : bactéricide en moins de 5 minutes | in vitro | , sur l'ensemble des bactéries ; fongicide sur les levures. | Les matières organiques (protéines, sérum, sang...) diminuent l'activité de l'iode libre, forme active de cette substance. Les iodophores sont instables à pH alcalin. La peau enduite de | povidone | iodée prend une coloration brune qui s'élimine facilement à l'eau.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Osmolarité sanguine anormale | - Surcharge iodée | DERMATOLOGIE: | - Bulle | - Prurit | - Erythème cutané | - Dermite allergique de contact | - Coloration de la peau | - Urticaire | - Dermatite de contact | DIVERS: | - Effets systémiques | ENDOCRINOLOGIE: | - Hyperthyroïdie (Très rare) | - Dysthyroïdie | - Hypothyroïdie | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde | - Choc anaphylactique | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Acidose métabolique | - Trouble hydroélectrolytique | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale aiguë

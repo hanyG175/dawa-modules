@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_B_125
+DCI: Paracetamol
+Brand Names: PARACETAMOL BIOCARE
+Pharmaceutical Forms: Poudre Sol. Buv.
+Dosages: 200MG
+Packaging: B/12
+Laboratories: BIOCARE LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 110.28 DA
+PPA (DA): DA
+Prescription List: N/D
+ATC Classification: 03B045
+Registration Numbers: 468/03 B 125/17
+Drug Codes: 03 B 125
+
+------------------------------------------------------------
+
+## Indications
+
+ANTALGIQUES
+
+## Mechanism Of Action
+
+PARACETAMOL ET DERIVES

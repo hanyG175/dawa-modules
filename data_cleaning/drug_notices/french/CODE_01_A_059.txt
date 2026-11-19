@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_059
+DCI: BILASTINE 10 mg cp orodispers (INORIAL)
+Brand Names: BILAXTEN
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/10 et b/20
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX - AUTRES ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX29 - BILASTINE
+Registration Numbers: 001/01 A 059/24
+Drug Codes: 01 A 059
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | bilastine : 20 mg | Modalités d'administration | Voie orale | Administrer 1 heure avant ou 2 heures après la prise d'aliment ou de jus de fruit | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Rhinoconjonctivite allergique, traitement symptomatique(de la) - Urticaire | Posologie standard | 1 comprimé 1 fois par jour
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Antécédent d'arythmie | Enfant de moins de 12 ans | Grossesse | Sujet à risque d'allongement de l'espace QT
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Bilastine : Mécanisme d'action | La bilastine est un antihistaminique non sédatif, pour usage systémique, d'action prolongée, exerçant un effet antagoniste sélectif sur les récepteurs H1 périphériques, et dénué d'affinité pour les récepteurs muscariniques. | Administrée en dose unique, la bilastine inhibe les réactions érythématopapuleuses induites par l' | histamine | pendant 24 heures.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ALAT (augmentation) (Peu fréquent) | - ASAT (augmentation) (Peu fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Hypertriglycéridémie (Peu fréquent) | - Gamma GT (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eczéma (Peu fréquent) | - Prurit (Peu fréquent) | - Eruption cutanée | - Erythème cutané | DIVERS: | - Fièvre (Peu fréquent) | - Asthénie (Peu fréquent) | - Fatigue (Peu fréquent) | - Affection préexistante améliorée (Peu fréquent) | - Oedème localisé | - Tuméfaction locale | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | INFECTIOLOGIE D'ORIGINE VIRALE: | - Herpès buccal (Peu fréquent) | - Herpès labial (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Poids (augmentation) (Peu fréquent) | - Appétit augmenté (Peu fréquent) | OPHTALMOLOGIE: | - Irritation oculaire (Peu fréquent) | - Conjonctivite allergique (Fréquent) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Hyposécrétion nasale (Peu fréquent) | - Sécheresse buccale (Peu fréquent) | - Oedème labial (Peu fréquent) | - Gêne nasale (Peu fréquent) | - Sensation de vertige (Peu fréquent) | - Rhinite (Peu fréquent) | - Acouphène (Peu fréquent) | PSYCHIATRIE: | - Anxiété (Peu fréquent) | - Insomnie (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Anomalie de l'électrocardiogramme (Peu fréquent) | - Arythmie sinusale (Peu fréquent) | - Allongement de l'espace QT (Peu fréquent) | - Bloc de branche droit (Peu fréquent) | - Palpitation | - Tachycardie | SYSTÈME DIGESTIF: | - Gonflement des lèvres (Peu fréquent) | - Gêne gastrique (Peu fréquent) | - Dyspepsie (Peu fréquent) | - Douleur abdominale haute (Peu fréquent) | - Nausée (Peu fréquent) | - Gastrite (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Douleur épigastrique (Peu fréquent) | - Soif (Peu fréquent) | - Diarrhée (Peu fréquent) | - Vomissement | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Perte de conscience (Peu fréquent) | - Somnolence (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent)

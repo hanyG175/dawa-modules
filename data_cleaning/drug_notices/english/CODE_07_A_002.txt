@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_A_002
+DCI: Hydrocotyle (Extrait Sec Reconstitue Titre A 40% D'Asiaticoside Et 60% D'Acides Madecassique Et Asiatique)
+DrugBank ID: DB15532
+DrugBank Name: Madecassoside
+Brand Names: MADECASSOL
+Pharmaceutical Forms: Creme
+Dosages: 0.01
+Packaging: t/10g
+Registration Numbers: 058/07 A 002/97/25
+Drug Codes: 07 A 002
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as triterpene saponins. These are glycosylated derivatives of triterpene sapogenins. The sapogenin moiety backbone is usually based on the oleanane, ursane, taraxastane, bauerane, lanostane, lupeol, lupane, dammarane, cycloartane, friedelane, hopane, 9b,19-cyclo-lanostane, cycloartane, or cycloartanol skeleton.

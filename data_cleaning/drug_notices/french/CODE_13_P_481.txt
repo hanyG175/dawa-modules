@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_481
+DCI: EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (fumarate) 245 mg cp (EMTRICITABINE/TENOFOVIR DISOPROXIL ACCORD)
+Brand Names: TENOF EM
+Pharmaceutical Forms: Comprimé
+Dosages: 200 mg/300mg (equivalent à 245 mg de tenofovir disoproxil)
+Packaging: flacon de 30
+ATC Classification: J05AF09
+Registration Numbers: 524/13 P 481/17
+Drug Codes: 13 P 481
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | emtricitabine : 10 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | En cas d'oubli : prendre la dose si oubli <= 12 heures | Traitement à renouveler en cas de vomissement dans l'heure | Utiliser la forme la plus adaptée au patient | Posologie | Patient de 4 mois à 18 an(s) | Patient quel que soit le poids | Infection par le VIH-1, traitement associé (de l') | Posologie standard | 6 mg/kg 1 fois par jour | Posologie maximale: 240 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Infection par le VIH-1, traitement associé (de l') | Posologie standard | 240 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Co-infection VHB-VIH | Co-infection VHC-VIH | Déficit immunitaire sévère | Grossesse | Hépatite chronique évolutive | Hépatopathie | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Nourrisson de moins de 4 mois | Nouveau-né exposé in utero au médicament | Patient en dialyse péritonéale | Sujet âgé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Emtricitabine : Mécanisme d'action | L'emtricitabine est un analogue nucléosidique synthétique de la cytidine, dotée d'une activité spécifique sur le virus de l'immunodéficience humaine de types 1 et 2 (VIH-1 et VIH-2) et sur le virus de l'hépatite B (VHB). | L'emtricitabine est phosphorylée par les enzymes cellulaires pour former l'emtricitabine-5'-triphosphate. L'emtricitabine-5'-triphosphate inhibe de façon compétitive la transcriptase inverse du VIH-1, aboutissant à l'arrêt de l'élongation de la chaîne d'ADN (acide désoxyribonucléique). L'emtricitabine est un faible inhibiteur des polymérases alpha, ß et epsi de l'ADN des mammifères et de la polymérase gamma de l'ADN mitochondrial.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperbilirubinémie (Fréquent) | - Amylasémie (augmentation) (Fréquent) | - CPK (augmentation) (Très fréquent) | - Hypertriglycéridémie (Fréquent) | - ASAT (augmentation) (Fréquent) | - Neutropénie (Fréquent) | - Hyperglycémie (Fréquent) | - ALAT (augmentation) (Fréquent) | - Lipase sérique (augmentation) (Fréquent) | - Enzymes pancréatiques (augmentation) | - Hyperlipidémie | DERMATOLOGIE: | - Prurit (Fréquent) | - Eruption maculopapuleuse (Fréquent) | - Urticaire (Fréquent) | - Altération de la couleur cutanée (Très fréquent) | - Eruption pustuleuse (Fréquent) | - Eruption vésiculo-bulleuse (Fréquent) | - Eruption cutanée (Fréquent) | - Hyperpigmentation cutanée | DIVERS: | - Douleur (Fréquent) | - Asthénie (Fréquent) | - Réaction inflammatoire post-infection | ENDOCRINOLOGIE: | - Maladie de Basedow | HÉMATOLOGIE: | - Anémie (Fréquent) | HÉPATOLOGIE: | - Hépatite auto-immune | IMMUNO-ALLERGOLOGIE: | - Angioedème (Peu fréquent) | - Hypersensibilité (Fréquent) | - Syndrome de restauration immunitaire | - Maladie auto-immune | INFECTIOLOGIE NON PRECISÉE: | - Infection opportuniste | NUTRITION, MÉTABOLISME: | - Poids (augmentation) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | PSYCHIATRIE: | - Insomnie (Fréquent) | - Rêves anormaux (Fréquent) | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Douleur abdominale (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Ostéonécrose | SYSTÈME NERVEUX: | - Céphalée (Très fréquent)

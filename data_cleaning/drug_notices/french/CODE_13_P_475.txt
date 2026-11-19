@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_475
+DCI: SOFOSBUVIR 400 mg cp (SOVALDI)
+Brand Names: NAPIVIR | SOFOS | SOFOSBUVIR MERINAL
+Pharmaceutical Forms: Comprimé
+Dosages: 400mg
+Packaging: b/28
+Laboratories: GILEAD Sciences
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J05 - ANTIVIRAUX A USAGE SYSTEMIQUE | J05A - ANTIVIRAUX A ACTION DIRECTE | J05AP - ANTIVIRAUX POUR LE TRAITEMENT DES INFECTIONS HCV | J05AP08 - SOFOSBUVIR
+Registration Numbers: 268/13 P 475/19/25 | 352/13 P 475/18 | 447/13 P 475/15
+Drug Codes: 13 P 475
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Sovaldi est indiqué, en association avec d'autres médicaments, pour le traitement de l'hépatite C chronique (HCC) chez les adultes et les patients pédiatriques âgés de 3 ans et plus ( | cf Posologie et Mode d'administration | , Mises en garde et Précautions d'emploi | , Pharmacodynamie | ). | Pour l'activité en fonction du génotype du virus de l'hépatite C (VHC), | cf Mises en garde et Précautions d'emploi | , Pharmacodynamie | .
+
+## Posology
+
+Posologie | Unité de prise | comprimé | sofosbuvir : 400 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer pendant le repas | En cas d'oubli : ne pas prendre la dose si oubli > 18 heures | En cas d'oubli : prendre la dose si oubli = 35 kg | Hépatite C chronique chez le sujet >= 3 ans, traitement associé (de l') | Posologie standard | 1 comprimé 1 fois par jour | Pendant 12 à 24 semaines | Patient à partir de 15 an(s) | Patient quel que soit le poids | Hépatite C chronique chez le sujet >= 3 ans, traitement associé (de l') | Posologie standard | 1 comprimé 1 fois par jour | Pendant 12 à 24 semaines
+
+## Precautions
+
+Allaitement | Association à la ribavirine | Charge virale importante | Cirrhose | Cirrhose hépatique décompensée | Co-infection VHB-VHC | Diabète | Enfant de moins de 3 ans | Fibrose hépatique | Grossesse | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Patient en attente de transplantation hépatique | Patient en hémodialyse | Patient faiblement répondeur | Patient infecté par VHC porteur du génotype 1, 4, 5 ou 6 | Patient infecté par VHC porteur du génotype 5 ou 6 | Patient porteur du génotype IL28B non CC | Sujet noir | Traitement par anti-arythmique | Traitement par anti-VHC, antécédent | Transplantation hépatique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Sofosbuvir : Mécanisme d'action | Le sofosbuvir est un inhibiteur pan-génotypique de l'ARN polymérase ARN-dépendante NS5B du VHC, qui est essentielle pour la réplication du virus. Le sofosbuvir est la prodrogue d'un nucléotide qui subit une métabolisation intracellulaire pour former un analogue de l'uridine triphosphate (GT-461203) actif au plan pharmacologique, qui peut être incorporé dans l'ARN viral par la polymérase NS5B et agit comme terminateur de chaîne. Dans un test biochimique, le GS-461203 a inhibé l'activité polymérase de la NS5B recombinante de VHC de génotypes 1b, 2a, 3a et 4a avec une concentration inhibitrice à 50 % (CI | 50 | ) allant de 0,7 à 2,6 µM. Le GS-461203 (le métabolite actif du sofosbuvir) n'est pas un inhibiteur des ADN- et ARN polymérases humaines, ni un inhibiteur de l'ARN polymérase mitochondriale.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Très fréquent) | - Hyperbilirubinémie (Très fréquent) | - Hémoglobinémie (diminution) (Très fréquent) | DERMATOLOGIE: | - Alopécie (Fréquent) | - Sécheresse cutanée (Fréquent) | - Eruption cutanée (Très fréquent) | - Syndrome de Stevens-Johnson | - Prurit | DIVERS: | - Douleur thoracique (Fréquent) | - Frisson (Très fréquent) | - Fatigue (Très fréquent) | - Douleur (Très fréquent) | - Syndrome pseudogrippal (Très fréquent) | - Asthénie (Fréquent) | - Fièvre | HÉMATOLOGIE: | - Lymphopénie (Très fréquent) | - Thrombopénie (Très fréquent) | - Anémie | NUTRITION, MÉTABOLISME: | - Appétit diminué (Très fréquent) | - Poids (diminution) (Fréquent) | OPHTALMOLOGIE: | - Vision floue (Fréquent) | ORL, STOMATOLOGIE: | - Hyposialie (Fréquent) | - Sensation de vertige (Très fréquent) | - Rhinopharyngite (Fréquent) | PSYCHIATRIE: | - Insomnie (Très fréquent) | - Dépression (Fréquent) | - Anxiété (Fréquent) | - Trouble de l'attention (Fréquent) | - Irritabilité (Très fréquent) | - Agitation (Fréquent) | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Reflux gastro-oesophagien (Fréquent) | - Gêne abdominale (Fréquent) | - Constipation (Fréquent) | - Vomissement (Très fréquent) | - Dyspepsie (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Spasme musculaire (Fréquent) | - Dorsalgie (Fréquent) | - Douleur articulaire | - Douleur musculaire | SYSTÈME NERVEUX: | - Trouble de la mémoire (Fréquent) | - Céphalée (Très fréquent) | - Migraine (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée d'effort (Fréquent) | - Dyspnée (Très fréquent) | - Toux

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_186
+DCI: Turoctocog Alfa ( Facteur Viii De Ccoagulation Humain Adn R)
+DrugBank ID: DB09109
+DrugBank Name: Turoctocog alfa
+Brand Names: NOVO EIGHT
+Pharmaceutical Forms: Poudre Et Solv. Sol. Inj
+Dosages: 250 UI
+Packaging: b/1 flacon de dpre +1 adapteur pour flacon+ 1 seringue pre-remplie + 1 tige de piston
+Registration Numbers: 069/12 J 186/17
+Drug Codes: 12 J 186
+
+------------------------------------------------------------
+
+## Description
+
+Turoctocog alfa is a recombinant factor VIII (rFVIII) with a truncated B-domain made from the sequence coding for 10 amino acids from the N-terminus and 11 amino acids from the C-terminus of the naturally occurring B-domain. Turoctocog alfa is produced in Chinese hamster ovary (CHO) cells without addition of any human- or animal-derived materials. During secretion, some rFVIII molecules are cleaved at the C-terminal of the heavy chain (HC) at amino acid 720, and a monoclonal antibody binding C-terminal to this position is used in the purification process allowing isolation of the intact rFVIII. 1 It was developped by Novo Nordisk and FDA approved in October 16, 2013. 6
+
+## Pharmacodynamics
+
+After turoctocog alfa administration, it has been reported a significant improvement in hemostasis. This effect was observed by the amelioration on whole blood clotting time. 3 In clinical trials, there were no reports of development of factor VIII inhibitors and even 90% of the ocurred bleeds were resolved with 1 or 2 infusions of turoctocog alfa. There are no reports of treatment failure. 9 In vitro studies confirmed the ability of turoctocog alfa to improve clot formation and clot stability. All these studies prove that turoctocog alfa is fully functional and its activity is similar to the one showed by other recombinant factor VIII products. 10
+
+## Mechanism Of Action
+
+Coagulation factor IX Activator Coagulation factor X Activator Prothrombin Binder
+
+## Absorption
+
+In pre-clinical studies, the absorption half-life was reported wot be 5.4 hours. 3 The absorption profile varies depending on the age of the patient where the AUC is 9.92, 11.09 and 15.26 IU hour/ml for the age range of 0-6 years, 6-12 years and over 12 years old respectively. The Cmax according to the different age groups is 1, 1.07 and 1.226 IU/ml for the age range of 0-6 years, 6-12 years and over 12 years old respectively. 9
+
+## Volume Of Distribution
+
+In pre-clinical studies, turoctocog distribution was studied based on a two model compartment and it resulted in 59 ml/kg in the central compartment and 13 ml/kg in the peripheral compartment. It also presented an inter-compartmental flow of 0.66 ml/hour kg. 3
+
+## Metabolism
+
+Turoctocog alfa is expected to be cleaved by proteolysis into small individual aminoacids that constitute them after receptor mediated cell endocytosis. 10
+
+## Route Of Elimination
+
+After intravenous administration of turoctocog alfa, the time for complete elimination of the blood plasma is of 50-55 hours. Due to the fact that this drug is a 166 kDa, it is thought that it will be eliminated by tissue mechanisms such as receptor mediated endocytosis followed by catabolism rather than hepatic metabolism and renal excretion. 10
+
+## Half Life
+
+In pre-clinical studies, turoctocog half-life was reported to be 16 hours. 3 In knockout mice there are reports of half-life of 7-8 hours. 10
+
+## Clearance
+
+In pre-clinical studies, turoctocog clearance was reported to be 6.5 ml/hour kg. 3
+
+## Toxicity
+
+In preclinical safety studies, there was a change in reported systolic pressure after 2-weeks of multiple dosing. 9 Thrombus formation, cardiovascular, neurological or respiratory effects are not expected to be a safety concern. 10

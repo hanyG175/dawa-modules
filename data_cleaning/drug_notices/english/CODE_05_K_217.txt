@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_K_217
+DCI: Netupitant/Palonosetron
+DrugBank ID: DB09048
+DrugBank Name: Netupitant
+Brand Names: AKYNZEO
+Pharmaceutical Forms: Gélule
+Dosages: 300mg/0.5mg
+Packaging: b/01
+Registration Numbers: 547/05 K 217/18/24
+Drug Codes: 05 K 217
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Substance-P receptor Antagonist
+
+## Absorption
+
+Upon oral administration of a single dose of netupitant, netupitant started to be measurable in plasma between 15 minutes and 3 hours after dosing. Plasma concentrations reached Cmax in approximately 5 hours. There was a greater than dose-proportional increase in the systemic exposure with the dose increase from 10 mg to 300 mg and a dose-proportional increase in systemic exposure with a dose increase from 300 mg to 450 mg.
+
+## Volume Of Distribution
+
+In cancer patients, Vz/F: 1982 ± 906 L (mean ± SD).
+
+## Metabolism
+
+Once absorbed, netupitant is extensively metabolized to form three major metabolites: desmethyl derivative, M1; N-oxide derivative, M2; and OH-methyl derivative, M3. Metabolism is mediated primarily by CYP3A4 and to a lesser extent by CYP2C9 and CYP2D6. Metabolites M1, M2 and M3 were shown to bind to the substance P/neurokinin 1 (NK1) receptor. Hover over products below to view reaction partners Netupitant Desmethyl Netupitant N-oxide Netupitant
+
+## Route Of Elimination
+
+Primarily fecal.
+
+## Half Life
+
+96 hours with CV% of 61.
+
+## Clearance
+
+Estimated systemic clearance of 20.3 ± 9.2 L/h (mean ± SD).
+
+## Toxicity
+
+Daily oral administration of netupitant in rats at doses up to 30 mg/kg (1.9 times the human AUC in male rats and 3.7 times the human AUC in female rats at the recommended human dose) had no effects on fertility or reproductive performance.

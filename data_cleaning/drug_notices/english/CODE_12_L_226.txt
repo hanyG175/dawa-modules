@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_L_226
+DCI: Filgrastim
+DrugBank ID: DB00099
+DrugBank Name: Filgrastim
+Brand Names: NEUTROMAX
+Pharmaceutical Forms: Solution
+Dosages: 300meg/ml
+Packaging: b/01 flacon de 1ml
+Registration Numbers: 357/12 L 226/25
+Drug Codes: 12 L 226
+
+------------------------------------------------------------
+
+## Description
+
+Filgrastim is a short-acting recombinant, non-pegylated human granulocyte colony-stimulating factor (G-CSF) analog produced by recombinant DNA technology. It has an amino acid sequence identical to endogenous G-CSF, but it is non-glycosylated unlike the endogenous G-CSF and has an N-terminal methionine added in the sequence for expression in E. Coli . 8 Human G-CSF is a glycoprotein that regulates the production and release of neutrophils from the bone marrow. Filgrastim mimics the biological actions of G-CSF to increase the levels of neutrophils in the blood. 10 It has a number of therapeutic uses, including the management and prevention of infections and febrile neutropenia in patients receiving myelosuppressive chemotherapy or radiation therapy. It is also used to manage severe chronic neutropenia and mobilize hematopoietic progenitor cells to the peripheral blood for collection by leukapheresis in patients undergoing peripheral blood progenitor cell collection and therapy. 8 Filgrastim was approved in the US in 1991 and there are biosimilars available with similar therapeutic indications. 3 Tbo-filgrastim was approved by the FDA on August 29, 2012. 9 Filgrastim-sndz was approved on March 6, 2015 12 and filgrastim-ayow was approved on March 2, 2022. 13 A long-acting, pegylated G-CSF, pegfilgrastim , was made available to increase the duration of action of the drug.
+
+## Pharmacodynamics
+
+Filgrastim is used to reduce the incidence, severity and duration of neutropenia and febrile neutropenia in patients undergoing cytotoxic chemotherapy. In clinical trials in patients, filgrastim reduced the duration of febrile neutropenia, antibiotic use, and hospitalization after induction chemotherapy for acute myelogenous leukemia or myeloablative therapy followed by bone marrow transplantation; however, the incidence of fever and documented infections were not reduced in either setting. 10 Filgrastim is also used to mobilize hematopoietic progenitor cells into the peripheral blood in order to reduce the risk for bleeding complications and the need for platelet transfusions. Recipients of allogeneic PBPCs mobilized with filgrastim experienced significantly more rapid hematological recovery, leading to a significant decrease in time to unsupported platelet recovery when compared with allogeneic bone marrow transplantation. 10 Filgrastim causes a dose-dependent increase in circulating neutrophil counts within 24 hours of administration. Filgrastim can also cause a minor increase in monocyte and lymphocyte counts, but the clinical significance of these effects is unknown. 8 In some patients, filgrastim also caused a minor increase in the number of circulating eosinophils and basophils relative to baseline; however, these patients may already have had elevated eosinophils and basophils prior to filgrastim treatment. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50% within one to two days, and to normal levels within one to seven days. As with other hematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. 10
+
+## Mechanism Of Action
+
+Granulocyte colony-stimulating factor receptor Stimulator
+
+## Absorption
+
+Filgrastim exhibits nonlinear pharmacokinetics. Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours. Continuous 24-hour intravenous infusions of 20 mcg/kg over an 11 to 20-day period produced steady-state serum concentrations of filgrastim with no evidence of drug accumulation. The absolute bioavailability of filgrastim after subcutaneous administration is 60% to 70%. 8
+
+## Volume Of Distribution
+
+After intravenous administration, the volume of distribution averaged 150 mL/kg. 8 There is no evidence of drug accumulation. 10
+
+## Metabolism
+
+Like other G-CSF compounds, filgrastim is cleared from plasma via neutrophil-mediated clearance involving internalization via G-CSF receptors and degradation within the neutrophil. Filgrastim is also subject to extracellular proteolytic degradation by neutrophil elastase: this enzyme rapidly cleaves filgrastim and renders it inactive. 6 , 7
+
+## Route Of Elimination
+
+There is limited information available; however, filgrastim is subject to renal elimination. 7
+
+## Half Life
+
+After intravenous administration, the elimination half-life of filgrastim was approximately 3.5 hours in both normal subjects and patients with cancer. Single parenteral doses or daily intravenous doses‚ over a 14-day period‚ resulted in comparable half-lives. The half-lives were similar for intravenous administration (231 minutes‚ following doses of 34.5 mcg/kg) and for subcutaneous administration (210 minutes‚ following filgrastim dosages of 3.45 mcg/kg). 8
+
+## Clearance
+
+Clearance rates of filgrastim were approximately 0.5 to 0.7 mL/minute/kg after intravenous administration. 8
+
+## Toxicity
+
+The oral LD 50 in mouse and rat was >3 mg/kg. The intravenous LD 50 in rat was also >3 mg/kg. 11 There is limited information regarding filgrastim overdose. The maximum tolerated dose of filgrastim has not been determined. In clinical trials of patients with cancer receiving myelosuppressive chemotherapy‚ white blood cell counts greater than 100,000/mm 3 have been reported in less than 5% of patients‚ but were not associated with any reported adverse clinical effects. Patients in the bone marrow transplantation studies received up to 138 mcg/kg/day without toxic effects‚ although there was a flattening of the dose response curve above daily doses of greater than 10 mcg/kg/day. 8

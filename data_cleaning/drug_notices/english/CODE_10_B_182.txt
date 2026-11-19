@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_182
+DCI: ACIDE FOLINIQUE (sel de calcium) 25 mg/10 ml sol inj (FOLINATE DE CALCIUM ZENTIVA)
+DrugBank ID: DB06724
+DrugBank Name: Calcium carbonate
+Brand Names: RENNIE DEFLATINE
+Pharmaceutical Forms: Comprimé
+Dosages: 680mg/80mg/25mg
+Packaging: b/18
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AF - MEDICAMENTS DETOXIFIANTS DANS UN TRAITEMENT CYTOSTATIQUE | V03AF03 - CALCIUM FOLINATE
+Registration Numbers: 523/10 B 182/09/17
+Drug Codes: 10 B 182
+
+------------------------------------------------------------
+
+## Description
+
+Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+
+## Pharmacodynamics
+
+Gastric-peptic disease occurs as a result of an imbalance between protective factors, such as mucus, bicarbonate, and prostaglandin secretion, and aggressive factors, such as hydrochloric acid, pepsin, and Helicobacter pylori ( H. pylori ). Antacids work by restoring acid-base balance, attenuating the pepsin activity and increasing bicarbonate and prostaglandin secretion. The acid-neutralizing capacity of calcium carbonate is 58 mEq/15 ml.
+When used as a nutritional supplement, calcium carbonate acts by directly increasing calcium stores within the body.
+
+## Mechanism Of Action
+
+Calcium carbonate is a basic inorganic salt that acts by neutralizing hydrochloric acid in gastric secretions. It also inhibits the action of pepsin by increasing the pH and via adsorption. Cytoprotective effects may occur through increases in bicarbonate ion (HCO 3 - ) and prostaglandins. Neutralization of hydrochloric acid results in the formation of calcium chloride, carbon dioxide and water. Approximately 90% of calcium chloride is converted to insoluble calcium salts (e.g. calcium carbonate and calcium phosphate).
+
+## Absorption
+
+Maximal absorption occurs at doses of 500 mg or less taken with food. Oral bioavailability depends on intestinal pH, the presence of food and dosage.
+
+## Volume Of Distribution
+
+Calcium is rapidly distributed taken up by skeletal tissues following absorption and distribution into extracellular fluids. Bone contains 99% of the body's calcium and the remaining 1% is approximately equally distributed between intracellular and extracellular fluids.
+
+## Route Of Elimination
+
+Excreted mainly in the feces. The majority of renally filtered calcium is reabsorbed in the ascending limb of the loop of Henle and the proximal and distal convoluted tubules. Also secreted by sweat glands.

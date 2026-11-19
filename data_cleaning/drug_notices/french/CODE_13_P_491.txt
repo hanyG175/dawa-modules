@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_491
+DCI: ABACAVIR (sulfate) 300 mg + LAMIVUDINE 150 mg + ZIDOVUDINE 300 mg cp (ABACAVIR/LAMIVUDINE/ZIDOVUDINE VIATRIS)
+Brand Names: ABAVIR
+Pharmaceutical Forms: Comprimé
+Dosages: 300 mg
+Packaging: b/1 pilulier de 60
+ATC Classification: J05AF06
+Registration Numbers: 524/13 P 491/19
+Drug Codes: 13 P 491
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | abacavir (sulfate) : 300 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | En cas de difficulté à déglutir, écraser le comprimé | Utiliser la forme la plus adaptée au patient | Posologie | Patient à partir de 3 mois | 14 kg = 25 kg | Infection par le VIH, traitement associé (de l') | Posologie standard | 600 mg en 1 à 2 prises par jour
+
+## Precautions
+
+Allaitement | Charge virale > 100 000 copies/ml d'ARN | Co-infection VHB-VIH | Co-infection VHC-VIH | Déficit immunitaire sévère | Grossesse | Hépatite chronique | Hépatopathie | Insuffisance hépatique | Insuffisance rénale terminale | Nourrisson de moins de 3 mois | Nouveau-né exposé in utero au médicament | Sujet âgé | Sujet à risque de maladie cardiovasculaire | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Abacavir : Mécanisme d'action | L'abacavir est un inhibiteur nucléosidique de la transcriptase inverse (INTI). C'est un puissant inhibiteur sélectif, actif sur les virus de l’immunodéficience humaine de types 1 et 2 (VIH-1 et VIH-2). L'abacavir est métabolisé au niveau intracellulaire en son métabolite actif, le carbovir 5'-triphosphate (TP). | Les études réalisées | in vitro | ont démontré que son mécanisme d'action sur le VIH est lié à une inhibition enzymatique, par blocage de l'élongation de la chaîne d'ADN (acide désoxyribonucléique) au niveau de la transcriptase inverse et interruption du cycle de réplication virale. | Une activité synergique a été démontrée | in vitro | lorsque l'abacavir est associé à la | névirapine | ou à la | zidovudine | . | Un effet additif a été observé lors de l'association de l'abacavir avec la | didanosine | , la | lamivudine | et la | stavudine | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Très fréquent) | - Hyperglycémie | - Hyperlipidémie | - Créatininémie (augmentation) | - CPK (augmentation) | DERMATOLOGIE: | - Eruption cutanée (Très fréquent) | - Syndrome de Stevens-Johnson (Très rare) | - Syndrome de Lyell (Très rare) | - Erythème polymorphe (Très rare) | - Eruption maculopapuleuse | - Eruption urticarienne | DIVERS: | - Fièvre (Très fréquent) | - Fatigue (Fréquent) | - Réaction inflammatoire post-infection | - Oedème | ENDOCRINOLOGIE: | - Maladie de Basedow | HÉMATOLOGIE: | - Lymphopénie | - Lymphadénopathie | HÉPATOLOGIE: | - Insuffisance hépatique | - Hépatite auto-immune | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Syndrome de restauration immunitaire | - Maladie auto-immune | - Réaction anaphylactique | - Hypersensibilité | INFECTIOLOGIE NON PRECISÉE: | - Infection opportuniste | NUTRITION, MÉTABOLISME: | - Anorexie (Fréquent) | - Acidose lactique (Très rare) | - Poids (augmentation) | OPHTALMOLOGIE: | - Conjonctivite | ORL, STOMATOLOGIE: | - Ulcération buccale | - Pharyngite | PSYCHIATRIE: | - Léthargie (Très fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Malaise | - Hypotension artérielle | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Douleur abdominale (Très fréquent) | - Vomissement (Très fréquent) | - Pancréatite (Rare) | - Trouble digestif | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très fréquent) | - Ostéonécrose | - Douleur articulaire | - Rhabdomyolyse | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Paresthésie | SYSTÈME RESPIRATOIRE: | - Toux (Très fréquent) | - Dyspnée (Très fréquent) | - Insuffisance respiratoire | - Syndrome de détresse respiratoire aiguë | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale

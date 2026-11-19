@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_F_223
+DCI: Prasugrel
+DrugBank ID: DB06209
+DrugBank Name: Prasugrel
+Brand Names: PERGUS
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/30
+Registration Numbers: 352/12 F 223/24
+Drug Codes: 12 F 223
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Prasugrel is a thienopyridine ADP receptor inhibitors which inhibits platelet aggregation by irreversibly binding to P2Y12 receptors.
+
+## Mechanism Of Action
+
+P2Y purinoceptor 12 Antagonist
+
+## Absorption
+
+79% or greater of the dose is absorbed after oral administration. Absorption and metabolism occur rapidly and peak plasma concentrations (C max ) are reached approximately 30 minutes following oral administration. Administration with a high fat, high calorie meal did not affect the AUC of the active metabolite in healthy individuals, but the C max was decreased by ~49% and the T max was increased to 0.5 to 1.5 hours. Prasugrel may be administered with or without food.
+
+## Metabolism
+
+Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolyzed in the intestine to thiolactone by human carboxylesterase (hCE) 2. This intermediate is further metabolized to its active metabolite, R-138727, in a single step by cytochrome P450 enzymes in the liver (primarily CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19). The active metabolite is further metabolized by S-methylation or cysteine conjugation to two inactive metabolites. Unlike clopidogrel, transformation of prasugrel to its active metabolite does not appear to be affected by cytochrome P450 polymorphisms. Hover over products below to view reaction partners Prasugrel R-95913 R-138727
+
+## Route Of Elimination
+
+Approximately 68% of the orally administered dose is excreted in urine and 27% in the feces, as inactive metabolites. The active metabolite is not expected to be removed by dialysis.
+
+## Half Life
+
+The active metabolite has an elimination half-life of about 7.4 hours (range 2-15 hours).
+
+## Clearance
+
+Apparent clearance = 112 - 166 L/hr
+
+## Toxicity
+
+LD50 (rat) 1,000 - 2,000 mg/kg; LD50 (rabbit) > 1,000 mg/kg

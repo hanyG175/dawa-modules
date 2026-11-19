@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_E_014
+DCI: Framycetine | Framycetine (Sous Forme De Sulfate)**
+DrugBank ID: DB00452
+DrugBank Name: Framycetin
+Brand Names: ISOFRA | NIFRAMYCINE
+Pharmaceutical Forms: Sol . Pulv . Nas. | Solution
+Dosages: 0.0125 | 1.25% ** (856250ui/100ml)
+Packaging: flacon/15ml
+Registration Numbers: 079/22 E 014/98/09 | 269/22 E 014/98
+Drug Codes: 22 E 014
+
+------------------------------------------------------------
+
+## Description
+
+A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed)
+
+## Pharmacodynamics
+
+Framycetin is used for the treatment of bacterial eye infections such as conjunctivitis. Framycetin is an antibiotic. It is not active against fungi, viruses and most kinds of anaerobic bacteria. Framycetin works by binding to the bacterial 30S ribosomal subunit, causing misreading of t-RNA, leaving the bacterium unable to synthesize proteins vital to its growth. Framycetin is useful primarily in infections involving aerobic bacteria bacteria.
+
+## Mechanism Of Action
+
+16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor Small ribosomal subunit protein uS12 (Escherichia coli (strain K12)) Inhibitor

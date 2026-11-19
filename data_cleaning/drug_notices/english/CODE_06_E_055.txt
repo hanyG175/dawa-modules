@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_055
+DCI: CLINDAMYCINE (chlorhydrate) 150 mg gél (CLINDAMYCINE VIATRIS)
+DrugBank ID: DB00575
+DrugBank Name: Clonidine
+Brand Names: CLONIDEX | CLONIDINA CLORIDRATO
+Pharmaceutical Forms: Solution
+Dosages: 150 mcg/ml
+Packaging: b/10 am de 1 ml | b/30 ampoule de 1ml
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01F - MACROLIDES, LINCOSAMIDES ET STREPTOGRAMINES | J01FF - LINCOSAMIDES | J01FF01 - CLINDAMYCINE
+Registration Numbers: 433/06 E 055/24 | 555/06 E 055/22
+Drug Codes: 06 E 055
+
+------------------------------------------------------------
+
+## Description
+
+Clonidine is an imidazole derivate that acts as an agonist of alpha-2 adrenoceptors. 2 This activity is useful for the treatment of hypertension, severe pain, and ADHD. 8 , 15 , 9 , 10 , 11 Clonidine was granted FDA approval on 3 September 1974. 8
+
+## Pharmacodynamics
+
+Clonidine functions through agonism of alpha-2 adrenoceptors which have effects such as lowering blood pressure, sedation, and hyperpolarization of nerves. 2 It has a long duration of action as it is given twice daily and the therapeutic window is between 0.1mg and 2.4mg daily. 8 , 9 , 10 , 11
+
+## Mechanism Of Action
+
+Alpha-2B adrenergic receptor Agonist Alpha-2C adrenergic receptor Agonist Alpha-2A adrenergic receptor Agonist
+
+## Absorption
+
+Clonidine reaches maximum concentration in 60-90 minutes after oral administration. 2 , 6 Race and fasting status do not influence pharmacokinetics of clonidine. 8 A 100µg oral clonidine tablet reaches a C max of 400.72pg/mL with an AUC of 5606.78h*pg/mL and a bioavailability of 55-87%. 6
+
+## Volume Of Distribution
+
+The volume of distribution of clonidine has been reported as 1.7-2.5L/kg 2 , 2.9L/kg 9 , or 2.1±0.4L/kg 10 depending on the source.
+
+## Metabolism
+
+The metabolism of clonidine is poorly understood. 7 The main reaction in clonidine metabolism is the 4-hydroxylation of clonidine by CYP2D6, CYP1A2, CYP3A4, CYP1A1, and CYP3A5. 7 Clonidine is <50% metabolized in the liver to inactive metabolites. 2 , 8 , 9 , 10 , 11 Hover over products below to view reaction partners Clonidine 4-Hydroxyclonidine
+
+## Route Of Elimination
+
+Approximately 50% of a clonidine dose is excreted in the urine as the unchanged drug and 20% is eliminated in the feces. 2 , 8
+
+## Half Life
+
+The elimination half life after epidural administration is 30 minutes but otherwise can range from 6-23h. 2
+
+## Clearance
+
+The clearance of clonidine is 1.9-4.3mL/min/kg. 2
+
+## Toxicity
+
+Oral LD 50 is 126 mg/kg in rats. 12 The TDLO is 70µg/kg in children, 126µg/kg in women, and 69µg/kg in men. 12 Symptoms of overdose include hypertension followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased reflexes, weakness, irritability, and miosis. 8 , 9 , 10 , 11 Severe overdoses can cause reversible cardiac conduction defects or dysrhythmias, apnea, coma, and seizures. 8 , 9 , 10 , 11 Induction of vomiting is not recommended due to CNS depression but gastric lavage or activated charcoal may be useful in recent ingestion. 8 , 9 , 10 , 11 Dialysis is also unlikely to be beneficial. 8 , 9 , 10 , 11 Overdose can be treated with supportive measures such as atropine sulfate for bradycardia, intravenous fluids or vasopressors for hypotension, vasodilators for hypertension, naloxone for respiratory depression, and blood pressure monitoring. 8 , 9 , 10 , 11

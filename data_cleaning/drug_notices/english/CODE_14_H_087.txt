@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_087
+DCI: Ascorbate De Sodium/Glutamate De Sodium/Chlorhydrate De Lysine/Aspartate De Magnesium
+DrugBank ID: DB14482
+DrugBank Name: Sodium ascorbate
+Brand Names: TONIC + C
+Pharmaceutical Forms: Amp.Buv.
+Dosages: 60mg/250mg/100mg/100mg/100ml
+Packaging: b/20 ampoule. de 5ml
+Registration Numbers: 079/14 H 087/98/19
+Drug Codes: 14 H 087
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as butenolides. These are dihydrofurans with a carbonyl group at the C2 carbon atom.

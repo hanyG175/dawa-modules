@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_105
+DCI: Pentoxifylline
+DrugBank ID: DB00806
+DrugBank Name: Pentoxifylline
+Brand Names: PENTOXIFYLLINE MYLAN
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 400MG
+Packaging: B/30
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 324.49 DA
+Prescription List: Liste I
+ATC Classification: C04AD03
+Registration Numbers: 380/06 J 105/17
+Drug Codes: 06 J 105
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Pentoxifylline, a synthetic dimethylxanthine derivative structurally related to theophylline and caffeine , exhibits hemorheological, anti-oxidative, and anti-inflammatory properties and is traditionally indicated in the treatment of peripheral arterial disease (PAD). In PAD patients with concurrent cerebrovascular and coronary artery diseases, pentoxifylline treatment has occasionally been associated with angina, arrhythmia, and hypotension. Concurrent use with warfarin should be associated with more frequent monitoring of prothrombin times. Also, patients with risk factors complicated by hemorrhages, such as retinal bleeding, peptic ulceration, and recent surgery, should be monitored periodically for bleeding signs. 29
+
+## Mechanism Of Action
+
+Adenosine receptor A2a Agonist Phosphodiesterase enzymes Inhibitor 5'-nucleotidase Inhibitor
+
+## Absorption
+
+Oral pentoxifylline (PTX) is almost completely absorbed but has low bioavailability of 20-30% due to extensive first-pass metabolism; three of the seven known metabolites, M1, M4, and M5 are present in plasma and appear soon after dosing. 22 , 23 , 29 Single oral doses of 100, 200, and 400 mg of pentoxifylline in healthy males produced a mean t max of 0.29-0.41 h, a mean C max of 272-1607 ng/mL, and a mean AUC 0-∞ of 193-1229 ng*h/mL; corresponding ranges for metabolites 1, 4, and 5 were 0.72-1.15, 114-2753, and 189-7057. 19 Single administration of a 400 mg extended-release tablet resulted in a heightened t max of 2.08 ± 1.16 h, lowered C max of 55.33 ± 22.04 ng/mL, and a comparable AUC 0-t of 516 ± 165 ng*h/mL; all these parameters were increased in cirrhotic patients. 20 Smoking was associated with a decrease in the C max and AUC steady-state of metabolite M1 but did not dramatically affect the pharmacokinetic parameters of pentoxifylline or other measured metabolites. 21 Renal impairment increases the mean C max , AUC, and ratio to parent compound AUC of metabolites M4 and M5, but has no significant effect on PTX or M1 pharmacokinetics. 22 Finally, similar to cirrhotic patients, the C max and t max of PTX and its metabolites are increased in patients with varying degrees of chronic heart failure. 23 Overall, metabolites M1 and M5 exhibit plasma concentrations roughly five and eight times greater than PTX, respectively. PTX and M1 pharmacokinetics are approximately dose-dependent, while those of M5 are not. Food intake before PTX ingestion delays time to peak plasma concentrations but not overall absorption. Extended-release forms of PTX extend the t max to between two and four hours but also serves to ameliorate peaks and troughs in plasma concentration over time. 29
+
+## Volume Of Distribution
+
+Pentoxifylline has a volume of distribution of 4.15 ± 0.85 following a single intravenous 100 mg dose in healthy subjects. 20
+
+## Metabolism
+
+Pentoxifylline (PTX) metabolism is incompletely understood. There are seven known metabolites (M1 through M7), although only M1, M4, and M5 are detected in plasma at appreciable levels, following the general pattern M5 > M1 > PTX > M4. 2 , 29 As PTX apparent clearance is higher than hepatic blood flow and the AUC ratio of M1 to PTX is not appreciably different in cirrhotic patients, it is clear that erythrocytes are the main site of PTX-M1 interconversion. However, the reaction likely occurs in the liver as well. 20 , 24 , 25 PTX is reduced in an NADPH-dependent manner by unknown an unidentified carbonyl reductase to form either lisofylline (the (R)-M1 enantiomer) or (S)-M1; the reaction is stereoselective, producing (S)-M1 exclusively in liver cytosol, 85% (S)-M1 in liver microsomes, and a ratio of 0.010-0.025 R:S-M1 after IV or oral dosing in humans. 24 , 25 Although both (R)- and (S)-M1 can be oxidized back into PTX, (R)-M1 can also give rise to M2 and M3 in liver microsomes. 24 , 25 In vitro studies suggest that CYP1A2 is at least partly responsible for the conversion of lisofylline ((R)-M1) back into PTX. 26 Unlike the reversible oxidation/reduction of PTX and its M1 metabolites, M4 and M5 are formed via irreversible oxidation of PTX in the liver. 19 , 22 , 23 , 24 , 25 Studies in mice recapitulating the PTX-ciprofloxacin drug reaction suggest that CYP1A2 is responsible for the formation of M6 from PTX and of M7 from M1, both through de-methylation at position 7. 27 In general, metabolites M2, M3, and M6 are formed at very low levels in mammals. 19 Hover over products below to view reaction partners Pentoxifylline Lisofylline M7, 7-demethylated M1 Pentoxifylline M3, Pentoxifylline internal diol M2, Pentoxifylline external diol (S)-M1 M7, 7-demethylated M1 Pentoxifylline M4, Pentoxifylline C-5 carboxylic acid M5, Pentoxifylline C-4 carboxylic acid M6, 7-demethylated pentoxifylline
+
+## Route Of Elimination
+
+Pentoxifylline is eliminated almost entirely in the urine and predominantly as M5, which accounts for between 57 and 65 percent of the administered dose. Smaller amounts of M4 are recovered, while M1 and the parent compound account for less than 1% of the recovered dose. The fecal route accounts for less than 4% of the administered dose. 2 , 19 , 29
+
+## Half Life
+
+Overall, pentoxifylline has an elimination half-life of between 0.39 and 0.84 hours, while its primary metabolites have elimination half-lives of between 0.96 and 1.61 hours. 2
+
+## Clearance
+
+Pentoxifylline given as a single 100 mg intravenous infusion has a clearance of 3.62 ± 0.75 L/h/kg in healthy subjects, which decreased to 1.44 ± 0.46 L/h/kg in cirrhotic patients. 20 In another study, the apparent clearance of either 300 or 600 mg of pentoxifylline given intravenously (median and range) was 4.2 (2.8-6.3) and 4.1 (2.3-4.6) L/min, respectively. 25 It is important to note that, due to the reversible extra-hepatic metabolism of the parent compound and metabolite 1, the true clearance of pentoxifylline may be even higher than the measured values. 25
+
+## Toxicity
+
+Overdoses of pentoxifylline have been reported with symptoms including agitation, fever, flushing, hypotension, convulsions, somnolence, and loss of consciousness beginning 4-5 hours following ingestion and lasting up to 12 hours. Symptomatic treatment is recommended, specifically pertaining to maintaining proper respiration, blood pressure, and controlling convulsions. Activated charcoal may prove useful in absorbing excess pentoxifylline in overdose cases. Patients have recovered from overdose even at doses as high as 80 mg/kg. 29

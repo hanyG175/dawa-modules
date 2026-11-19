@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_D_008
+DCI: OXYBUTYNINE CHLORHYDRATE 5 mg cp (OXYBUTYNINE ACCORD)
+DrugBank ID: DB01062
+DrugBank Name: Oxybutynin
+Brand Names: DITROPAN | DRIPDOZ | DRIPTANE | OXYPTANE BR | RINOSPAN | UROXYB
+Pharmaceutical Forms: Comprimpe Secable | Comprimé
+Dosages: 5mg
+Packaging: b/20 | b/60 | boite de 60
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G04 - MEDICAMENTS UROLOGIQUES | G04B - MEDICAMENTS UROLOGIQUES | G04BD - MEDICAMENTS DE L'INCONTINENCE URINAIRE | G04BD04 - OXYBUTYNINE
+Registration Numbers: 019/25 D 008/97/16 | 149/25 D 008/22 | 235/25 D 008/23 | 255/25 D 008/98 | 304/25 D 008/05 | 378/25 D 008/20
+Drug Codes: 25 D 008
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Oxybutynin exerts antispasmodic actions on the bladder, relieving the uncomfortable symptoms of overactive bladder, including urinary urgency and frequency. These actions occur through the inhibition of muscarinic receptors. A note on angioedema and anticholinergic effects Symptoms of angioedema may occur with oxybutynin therapy. If angioedema is suspected, discontinue oxybutynin immediately and provide appropriate medical treatment. 14 In addition, anticholinergic effects may occur with the administration of this drug. Some symptoms may include hallucinations, confusion, agitation, and drowsiness. It is advisable to avoid operating heavy machinery before the response to oxybutynin has been monitored. Dose adjustments may be required. 14
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M3 Antagonist Muscarinic acetylcholine receptor M2 Antagonist Muscarinic acetylcholine receptor M1 Antagonist
+
+## Absorption
+
+Oxybutynin should be swallowed whole with the help of liquids. 14 A pharmacokinetic study revealed that oxybutynin was rapidly absorbed, and peak concentrations were reached within about 1 hour of administration, measured at 8.2 ngml-1 and AUC was 16 ngml-1. 1 The biovailability of oxybutynin is about 6%, and the plasma concentration of the active metabolite, desethyloxybutynin is 5 to 12 times greater than that of oxybutynin. 2 Bioavailability is increased in the elderly. 3 Food has been shown to increase the exposure to controlled-release oxybutynin. 7
+
+## Volume Of Distribution
+
+Oxybutynin has a wide volume of distribution of 193 L. 14 In rats, oxybutynin penetrates the central nervous system. 11
+
+## Metabolism
+
+Oxybutynin is heavily metabolized by the CYP3A4 enzyme system 3 in both the liver and the wall of the intestine. It undergoes first-pass metabolism, and its resulting primary active metabolite, N-desethyloxybutynin circulates. It is active at the muscarinic receptors in both the bladder and the salivary gland. 2 Hepatic biotransformation also produces its major inactive metabolite, phenylcyclohexylglycolic acid. 3 Hover over products below to view reaction partners Oxybutynin N-desethyloxybutynin 2-cyclohexyl-2-phenylglycolic acid
+
+## Route Of Elimination
+
+Oxybutynin is heavily cleared by the liver. 1 Under 0.1% of an administered dose is found as unchanged drug in the urine. Less than 0.1% of a single dose of oxybutynin is excreted as desethyloxybutynin. 1 , 14
+
+## Half Life
+
+The plasma elimination half-life is about 2 hours. In the elderly, the elimination half-life is prolonged up to 5 hours. 2 , 3
+
+## Toxicity
+
+The acute oral LD50 in rats is 460 mg/kg. 13 Overdose information An overdose with oxybutynin may manifest clinically as CNS overactivity, fever, palpitations, cardiac arrhythmias, urinary retention, respiratory failure, paralysis, in addition to coma. 12 , 14 Provide supportive care immediately. Activated charcoal in addition to a cathartic agent should be administered. There have been 2 reports of an overdose with a 100 mg dose of oxybutynin. One case was a 13-year-old boy and another was a 34-year-old woman. Alcohol was also ingested simultaneously in both cases. The patients received supportive treatment and fully recovered. 12

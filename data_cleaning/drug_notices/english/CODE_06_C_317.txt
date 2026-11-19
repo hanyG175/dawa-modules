@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_C_317
+DCI: Abciximab
+DrugBank ID: DB00054
+DrugBank Name: Abciximab
+Brand Names: CLOTINAB
+Pharmaceutical Forms: Solution
+Dosages: 2mg/ml (10mg/5ml)
+Packaging: b/01 flacon de 5 ml
+Registration Numbers: 531/06 C 317/17
+Drug Codes: 06 C 317
+
+------------------------------------------------------------
+
+## Description
+
+Abciximab is a Fab fragment of the chimeric human-murine monoclonal antibody 7E3. Abciximab binds to the glycoprotein (GP) IIb/IIIa receptor of human platelets and inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive molecules. It also binds to vitronectin (αvβ3) receptor found on platelets and vessel wall endothelial and smooth muscle cells.
+
+## Pharmacodynamics
+
+Abciximab inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive molecules to GPIIb/IIIa receptor sites on activated platelets. A single intravenous bolus dose from 0.15 mg/kg to 0.30 mg/kg produced rapid dose-dependent inhibition of platelet function. After two hours post-injection with a dose of 0.25 - 0.30 mg/kg, 80% of the GPIIb/IIIa receptors were blocked and platelet aggregation was prevented. GPIIb/IIIa is the major surface receptor involved in the final pathway of platelet aggregation. Bleeding time increases to over 30 minutes at the aforementioned doses. To compare, baseline values were five minutes.
+
+## Mechanism Of Action
+
+Integrin beta-3 Antagonist Integrin alpha-IIb Antagonist
+
+## Metabolism
+
+Most likely removed by opsonization via the reticuloendothelial system when bound to platelets, or by human antimurine antibody production. Excreted renally.
+
+## Half Life
+
+Following intravenous bolus administration, free plasma concentrations of Abciximab decrease rapidly with an initial half-life of less than 10 minutes and a second phase half-life of about 30 minutes, probably related to rapid binding to the platelet GPIIb/IIIa receptors.

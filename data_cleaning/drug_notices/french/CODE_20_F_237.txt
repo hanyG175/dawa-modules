@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_F_237
+DCI: BUDESONIDE 160 µg/dose + FORMOTEROL FUMARATE 4,5 µg/dose susp p inhal en fl press (SYMBICORT RAPIHALER)
+Brand Names: FORACORT HFA 200 | FORMONIDE
+Pharmaceutical Forms: Aérosol | Susp. Inhal.Buccale
+Dosages: 200mcg/6mcg/dose
+Packaging: flacon/120
+Laboratories: AstraZeneca
+ATC Classification: R03BA02
+Registration Numbers: 182/20 F 237/09/24 | 358/20 F 237/09
+Drug Codes: 20 F 237
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Bronchopneumopathie chronique obstructive (BPCO) : | Symbicort Rapihaler est indiqué en traitement symptomatique de la BPCO chez les adultes âgés de 18 ans et plus dont le VEMS (mesuré après administration d'un bronchodilatateur) est inférieur à 70 % de la valeur théorique et ayant des antécédents d'exacerbations malgré un traitement bronchodilatateur continu (Cf également | Mises en garde et Précautions d'emploi | ).
+
+## Posology
+
+Posologie | Unité de prise | ml | budésonide : 0.5 mg | Modalités d'administration | Voie inhalée | Administrer au moyen d'un nébuliseur | Information du patient : jeter le récipient unidose après utilisation | Information du patient : se rincer la bouche après chaque administration sans avaler l'eau | Rechercher la posologie minimale efficace | Posologie | Patient de 6 mois à 15 an(s) | Patient quel que soit le poids | Asthme, traitement de fond (de l') | Posologie standard | Réduire la fréquence d'administration après l'amélioration des symptômes | 0,25 à 2 mg en 1 à 2 prises par jour | Dans le cas de : Etat sévère | Réduire la fréquence d'administration après l'amélioration des symptômes | 2 mg en 1 à 2 prises par jour | Dyspnée laryngée | Posologie standard | 2 mg toutes les 12 heures | Pendant 36 heures | BPCO, traitement symptomatique associé des poussées (de la) | Posologie standard | 4 à 8 mg en 2 à 4 prises par jour | Pendant 10 jours | Patient à partir de 15 an(s) | Patient quel que soit le poids | Asthme, traitement de fond (de l') | Posologie standard | Réduire la fréquence d'administration après l'amélioration des symptômes | 0,5 à 4 mg en 1 à 4 prises par jour | Dyspnée laryngée | Posologie standard | 2 mg toutes les 12 heures | Pendant 36 heures | BPCO, traitement symptomatique associé des poussées (de la) | Posologie standard | 4 à 8 mg en 2 à 4 prises par jour | Pendant 10 jours
+
+## Precautions
+
+Asthme aigu sévère | Asthme instable | Bronchopneumopathie chronique obstructive | Crise d'asthme | Dyspnée aiguë | Dyspnée paroxystique | Etat de stress | Exacerbation d'asthme | Hypersécrétion bronchique | Infection bronchique | Insuffisance hépatique | Intervention chirurgicale | Mycose pulmonaire | Patient naïf aux corticoïdes | Patient traité à posologie élevée | Patient traité en relais d'un autre corticoïde | Patient traité en relais d'une corticothérapie par voie générale | Sujet à risque d'ostéoporose | Sujet de moins de 18 ans | Traitement par fortes doses de corticoïde | Traitement prolongé | Traitement prolongé par corticothérapie orale en cours | Tuberculose pulmonaire
+
+## Mechanism Of Action
+
+Budésonide : Mécanisme d'action | Le budésonide est un glucocorticoïde de synthèse, glucocorticostéroïde doté d'un effet anti-inflammatoire local puissant. A des doses cliniquement équivalentes de glucocorticostéroïdes systémiques, le budésonide entraîne significativement une inhibition moindre de l'axe hypothalamo-hypophyso-surrénalien et a moins d'influence sur les marqueurs inflammatoires. | En inhalation, le budésonide exerce une action anti-inflammatoire marquée sur la muqueuse bronchique. Le budésonide traverse les membranes cellulaires et se lie à un récepteur protéique cytoplasmique. Ce complexe pénètre ensuite dans le noyau et y induit la biosynthèse de protéines spécifiques telles que la macrocortine (lipocortine). Les effets de type hormonal apparaissent après une certaine période de latence (30-60 min) et aboutissent à une inhibition de la phospholipase A2. Il est également possible que les doses thérapeutiques efficaces de budésonide (comme d'autres glucocorticoïdes anti-inflammatoires) inhibent l'expression de la COX-2 induite par les cytokines. | Le mécanisme d'action exact du budésonide dans le traitement de la maladie de Crohn n'est pas entièrement élucidé. Les données des études pharmacologiques et des essais cliniques contrôlés suggèrent fortement que le mode d'action repose principalement sur un effet local au niveau de l'intestin.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Cortisolurie (diminution) | - Cortisolémie (diminution) | DERMATOLOGIE: | - Eczéma (Rare) | - Urticaire (Rare) | - Dermatite de contact (Rare) | - Prurit (Rare) | - Eruption cutanée (Rare) | - Erythème cutané (Rare) | - Erythème facial | - Irritation cutanée | - Atrophie cutanée | - Hématome sous-cutané | - Exanthème | DIVERS: | - Effets systémiques (Rare) | ENDOCRINOLOGIE: | - Freinage surrénalien (Rare) | - Hypercorticisme (Rare) | - Syndrome de Cushing (Rare) | - Insuffisance surrénale (Rare) | HÉMATOLOGIE: | - Ecchymose (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité retardée (Rare) | - Réaction anaphylactique (Rare) | - Hypersensibilité immédiate (Rare) | - Hypersensibilité | - Angioedème | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose oropharyngée (Fréquent) | INFECTIOLOGIE NON PRECISÉE: | - Infection | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | - Cataracte (Peu fréquent) | - Glaucome (Très rare) | ORL, STOMATOLOGIE: | - Irritation de la gorge (Fréquent) | - Irritation buccale (Fréquent) | - Dysphonie (Fréquent) | - Raucité de la voix (Fréquent) | PSYCHIATRIE: | - Trouble du comportement (Peu fréquent) | - Dépression (Peu fréquent) | - Anxiété (Peu fréquent) | - Agressivité (Peu fréquent) | - Trouble du sommeil (Peu fréquent) | - Nervosité (Rare) | - Agitation (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Contractures musculaires (Peu fréquent) | - Spasme musculaire (Peu fréquent) | - Retard de croissance (Rare) | - Ostéopénie (Rare) | SYSTÈME NERVEUX: | - Hyperactivité psychomotrice (Peu fréquent) | - Tremblement (Peu fréquent) | - Hyperactivité (Rare) | SYSTÈME RESPIRATOIRE: | - Toux (Fréquent) | - Bronchospasme paradoxal (Rare) | - Bronchospasme (Rare) | - Pneumopathie | - Pneumonie

@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_035
+DCI: Bleu De Methylene
+Brand Names: BLEU DE METHYLENE
+Pharmaceutical Forms: Sol. Externe
+Dosages: 0.01
+Packaging: FL/100ML
+Laboratories: RHUMEL PHARM
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: N/D
+ATC Classification: 26B035
+Registration Numbers: 234/26 B 035/00
+Drug Codes: 26 B 035
+
+------------------------------------------------------------
+
+## Indications
+
+DIVERS
+
+## Mechanism Of Action
+
+ASEPSIE & DESINFECTION

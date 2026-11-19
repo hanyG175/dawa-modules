@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_067
+DCI: Propofol | Protoxyle D'Azote / Oxygene Medicinal
+DrugBank ID: DB00818
+DrugBank Name: Propofol
+Brand Names: PROPOFOL FRESENIUS 1% | TITINOX
+Pharmaceutical Forms: Gaz Pour Inhalation | Sol. Inj.
+Dosages: 1% (OU 10MG/ML) ( OU 200MG/20ML) | 50.00+2.5% v/v n20
+Packaging: B/5AMP./20ML (200MG/20ML) | bouteille de 10l
+Laboratories: FRESENIUS KABI
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: N01AX10
+Registration Numbers: 332/02 B 067/23 | 590/02 B 067/23
+Drug Codes: 02 B 067
+
+------------------------------------------------------------
+
+## Description
+
+Propofol is an intravenous anaesthetic agent used for induction and maintenance of general anaesthesia. IV administration of propfol is used to induce unconsciousness after which anaesthesia may be maintained using a combination of medications. Recovery from propofol-induced anaesthesia is generally rapid and associated with less frequent side effects (e.g. drowsiness, nausea, vomiting) than with thiopental, methohexital, and etomidate. Propofol may be used prior to diagnostic procedures requiring anaesthesia, in the management of refractory status epilepticus, and for induction and/or maintenance of anaesthesia prior to and during surgeries.
+
+## Pharmacodynamics
+
+Propofol is a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation).
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit beta-2 Potentiator Gamma-aminobutyric acid receptor subunit beta-3 Potentiator GABA(A) Receptor Positive allosteric modulator
+
+## Absorption
+
+Rapid - time to onset of unconsciousness is 15-30 seconds, due to rapid distribution from plasma to the CNS. Distribution is so rapid that peak plasma concentrations cannot be readily measured. Duration of action is 5-10 minutes.
+
+## Volume Of Distribution
+
+60 L/kg [healthy adults]
+
+## Metabolism
+
+Hepatically metabolized mainly by glucuronidation at the C1-hydroxyl. Hydroxylation of the benzene ring to 4-hydroxypropofol may also occur via CYP2B6 and 2C9 with subsequent conjugation to sulfuric and/or glucuronic acid. Hydroxypropofol has approximately 1/3 of hypnotic activity of propofol. Hover over products below to view reaction partners Propofol 4-Hydroxypropofol 4-Quinol sulfate 1-Quinol glucuronide Propofol glucuronide 1-Quinol glucuronide 4-OH-propofol
+
+## Route Of Elimination
+
+It is chiefly eliminated by hepatic conjugation to inactive metabolites which are excreted by the kidney.
+
+## Half Life
+
+Initial distribution phase t 1/2α =1.8-9.5 minutes. Second redistirubtion phase t 1/2β =21-70 minutes. Terminal elimination phase t 1/2γ =1.5-31 hours.
+
+## Clearance
+
+23 - 50 mL/kg/min 1.6 - 3.4 L/min [70 Kg adults]
+
+## Toxicity
+
+Overdosage may increase pharmacologic and adverse effects or cause death. IV LD 50 =53 mg/kg (mice), 42 mg/kg (rats). Oral LD 50 (as a solution in soybean oil)=1230 mg/kg (mice), 600 mg/kg (rats)

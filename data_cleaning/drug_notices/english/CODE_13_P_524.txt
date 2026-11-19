@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_524
+DCI: Tenofovir Alafenamide
+DrugBank ID: DB09299
+DrugBank Name: Tenofovir alafenamide
+Brand Names: TAFEBRA
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/30
+Registration Numbers: 447/13 P 524/23
+Drug Codes: 13 P 524
+
+------------------------------------------------------------
+
+## Description
+
+Tenofovir alafenamide is a novel tenofovir prodrug developed in order to improve renal safety when compared to the counterpart tenofovir disoproxil . 1 Both of these prodrugs were first created to cover the polar phosphonic acid group on tenofovir by using a novel oxycarbonyloxymethyl linkers to improve the oral bioavailability and intestinal diffusion. 8 Tenofovir alafenamide is an alanine ester form characterized for presenting low systemic levels but high intracellular concentration. 2 It has been reported to produce a large antiviral efficacy at doses ten times lower than tenofovir disoproxil. 6 Tenofovir alafenamide is indicated to treat chronic hepatitis B, 9 treat HIV-1, 11 , 12 , 13 , 14 and prevent HIV-1 infections. 11 , 17 Tenofovir alafenamide was developed by Gilead Sciences Inc and granted FDA approval on 5 November 2015. 10
+
+## Pharmacodynamics
+
+Tenofovir alafenamide has been shown to be a potent inhibitor of hepatitis B viral replication. 4 Tenofovir alafenamide presents a better renal tolerance when compared with the counterpart tenofovir disoproxil . This improved safety profile seems to be related to a lower plasma concentration of tenofovir. 1 In clinical trials, tenofovir alafenamide was shown to present 5-fold more potent antiviral activity against HIV-1 when compared to tenofovir disoproxil. 1
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+As compared to the parent molecule, tenofovir , tenofovir alafenamide presents a lipophilic group that masks the negative charge of the parent moiety which improves its oral bioavailability. 1 Tenofovir alafenamide is highly stable in plasma and, after administration of this prodrug, there is a low concentration of tenofovir in plasma. After oral administration, tenofovir alafenamide is rapidly absorbed by the gut. When a single dose is administered, a peak concentration of 16 ng/ml of the parent compound, corresponding to about 73% of the dose, is observed after 2 hours with an AUC of 270 ng*h/mL. 1 , 5 Once inside the body, tenofovir alafenamide enters hepatocytes by passive diffusion regulated by the organic anion transporters 1B1 and 1B3 for its activation. 4 Administration of tenofovir alafenamide concomitantly with a high-fat meal results in an increase of about 65% in its internal exposure. 15
+
+## Volume Of Distribution
+
+In clinical trials, the reported volume of distribution of tenofovir alafenamide was higher than 100 L. 7
+
+## Metabolism
+
+To be activated, tenofovir alafenamide is required to be hydrolyzed to the parent compound tenofovir by the activity of cathepsin A or carboxylesterase 1. Tenofovir alafenamide presents significant plasma stability and hence, its activation is performed inside the target cells. 1 After activation, tenofovir is further processed and after 1-2 days, it is detected in plasma almost completely transformed to uric acid. 1 Hover over products below to view reaction partners Tenofovir alafenamide Tenofovir alanine Tenofovir Tenofovir Monophosphate Tenofovir Diphosphate
+
+## Route Of Elimination
+
+Tenofovir alafenamide has been registered to present a bile elimination that corresponds to 47% of the administered dose and a renal elimination the represents about 36%. From the recovered dose in urine, about 75% is represented as unchanged tenofovir followed by uric acid and a small dose of tenofovir alafenamide. On the other hand, in feces, 99% of the recovered dose corresponds to tenofovir. 1
+
+## Half Life
+
+The reported half-life for tenofovir alafenamide is of 0.51 hours. 3
+
+## Clearance
+
+The reported clearance rate of tenofovir alafenamide is 117 L/h. In patients with severe renal impairment, this value can be decreased by 50%, reporting a rate of 61.7 L/h. 16
+
+## Toxicity
+
+The LD 50 of tenofovir alafenamide has not been reported. In cases of overdose, continuous monitoring of vital signs is required as the adverse effects in high doses has not been evaluated. However, in case of overdose, tenofovir is efficiently removed by hemodialysis with an extraction coefficient of 54%. 15 Carcinogenic reports have only been performed with tenofovir disoproxil and it is important to consider that tenofovir alafenamide does not present a high systemic exposure. However, long-term exposure with 10-fold dosages of tenofovir disoproxil was reported to produce liver adenomas in females. Tenofovir alafenamide was not reported to present mutagenic potential and it did not present effects on fertility. 15

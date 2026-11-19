@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_C_104
+DCI: Mupirocine
+DrugBank ID: DB00410
+DrugBank Name: Mupirocin
+Brand Names: BACTROBAN | INFECTOBAN | MICROBAN | MUPIROCINE NOVAGENERICS 2%
+Pharmaceutical Forms: Pommademade
+Dosages: 2% (2g/100g)
+Packaging: t/15g
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: D06AX09
+Registration Numbers: 149/07 C 104/15 | 305/07 C 104/00/15 | 352/07 C 104/18/22 | 546/07 C 104/21
+Drug Codes: 07 C 104
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Mupirocin is reported to be active against susceptible aerobic gram-positive cocci, such as Staphylococcus aureus , Staphylococcus epidermidis , and other beta-hemolytic streptococci Streptococcus pyogenes . 4 It mediates its antibacterial activity by inhibiting the bacterial protein synthesis and formation of bacterial proteins essential for survival. The minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). 7 In one clinical study investigating the therapeutic effectiveness of topical mupirocin in impetigo, the therapeutic response rate was about 94 to 98% after one week following the end of therapy. 7 In clinical studies of patients with primary and secondary skin infections, both elimination of the bacterial pathogen and clinical cure or improvement hav been demonstrated in over 90% of patients receiving topical mupirocin. 3 Mupirocin resistance as high as 81% has been reported previously. 5 Resistance to mupirocin, which occurs more frequently in methicillin-resistant than methicillin-susceptible staphylococci, may occur with the production of a modified isoleucyl-tRNA synthetase, or the acquisition of, by genetic transfer, a plasmid mediating a new isoleucyl-tRNA synthetase. 7
+
+## Mechanism Of Action
+
+Isoleucine--tRNA ligase (Staphylococcus aureus) Inhibitor
+
+## Absorption
+
+Systemic or percutaneous absorption of mupirocin following dermal application is expected to be minimal in adults and children. 7 Occlusive dressings do not significantly enhance drug absorption, but damaged skin may allow enhanced penetration of the drug across the skin barrier. 2
+
+## Volume Of Distribution
+
+No information available.
+
+## Metabolism
+
+Following intravenous or oral administration, mupirocin undergoes rapid hepatic metabolism to form the principal metabolite monic acid, which has no antibacterial activity. 7 Hover over products below to view reaction partners Mupirocin Monic acid
+
+## Route Of Elimination
+
+Any mupirocin reaching the systemic circulation is rapidly metabolized to form the inactive monic acid, which is eliminated by renal excretion. Following the application of Centany (mupirocin ointment),2% to a 400 cm2 area on the back of 23 healthy volunteers once daily for 7 days, the mean (range) cumulative urinary excretion of monic acid over 24 hrs following the last administration was 1.25% (0.2% to 3.0%) of the administered dose of mupirocin. 7
+
+## Half Life
+
+In healthy male volunteers, the elimination half-life of mupirocin was about 20 to 40 minutes following intravenous administration. The elimination half-life of monic acid was about 30 to 80 minutes. 6
+
+## Clearance
+
+No information available.
+
+## Toxicity
+
+LD 50 and Nonclinical Toxicity The oral LD 50 value in rats is 5000 mg/kg. MSDS Studies evaluating the carcinogenic potential of mupirocin have not been performed. In various in vivo animal and in vitro bacterial assays, there was no evidence of genotoxicity caused by mupirocin. In reproduction studies using male and female rats, there were no signs of impaired fertility upon subcutaneous administration of mupirocin. 7 Use in special populations Mupirocin was found to be excreted in human milk. As there is limited data on the use of topical mupirocin in pregnant women, the use of this drug in these patients should be undertaken with caution. Based on the findings in clinical trials, topical mupirocin was shown to be safe and effective in pediatric patients aged 2 months to 16 years. 7

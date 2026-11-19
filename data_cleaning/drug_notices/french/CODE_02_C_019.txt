@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_C_019
+DCI: LIDOCAINE 150 mg/ml + PRILOCAINE 50 mg/ml sol p pulv cut (FORTACIN)
+Brand Names: LIDOCAINE BIOTHERA | LIDOCAINE RAZES 2% | VITACAINE 2% | XYCAINE
+Pharmaceutical Forms: Solution
+Dosages: 0.02
+Packaging: b/10 ampoule de 5 ml | b/10 ampoule et b/50 ampoule de 10ml | b/50 de 1.8ml
+ATC Classification: N - SYSTEME NERVEUX | N01 - ANESTHESIQUES | N01B - ANESTHESIQUES LOCAUX | N01BB - AMIDES | N01BB02 - LIDOCAÏNE
+Registration Numbers: 321/02 C 019/23 | 380/02 C 019/21 | 433/02 C 019/19/24 | 543/02 C 019/24
+Drug Codes: 02 C 019
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie
+
+## Precautions
+
+Acidose | Altération de l'état général | Anesthésie obstétricale | Anesthésie péridurale | Antécédent de porphyrie | Bloc auriculoventriculaire | Bradycardie | Cancer | Epilepsie | Grossesse | Hypovolémie | Hypoxie | Infection au site d'injection | Inflammation au site d'injection | Insuffisance cardiaque | Insuffisance circulatoire | Insuffisance hépatique | Insuffisance rénale | Insuffisance respiratoire | Nourrisson de moins de 1 an | Patient traité par voie intraveineuse | Porphyrie, antécédent familial (de) | Sujet âgé | Sujet débilité | Traitement concomitant avec une autre forme galénique de lidocaïne | Trouble de la coagulation | Trouble de la conduction cardiaque
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Lidocaïne : Mécanisme d'action | La lidocaïne est un anesthésique local du groupe des amino-amides, dont l'effet est rapide (au bout d'une minute) et de longue durée (environ une heure). | Le mécanisme d'action est basé sur l'inhibition de l'influx nerveux par fixation de la molécule activée sur un récepteur spécifique du canal sodique dans la membrane qui entoure la fibre nerveuse.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Rare) | - Eruption cutanée (Rare) | - Lésion cutanée | DIVERS: | - Oedème (Rare) | - Douleur des membres inférieurs | - Douleur fessière | - Frisson | HÉMATOLOGIE: | - Méthémoglobinémie | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique (Rare) | - Hypersensibilité (Rare) | - Angioedème (Rare) | - Réaction anaphylactique (Rare) | - Réaction anaphylactoïde (Rare) | OPHTALMOLOGIE: | - Trouble de la vision (Peu fréquent) | - Amaurose (Rare) | - Vision floue (Rare) | - Diplopie (Rare) | - Photophobie | - Nystagmus | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Acuité auditive (modification) | - Bourdonnement d'oreille | - Acouphène | - Engourdissement de la langue | - Sensation de vertige | PSYCHIATRIE: | - Agitation | - Logorrhée | - Désorientation temporospatiale | - Appréhension | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Fréquent) | - Hypotension artérielle (Fréquent) | - Hypertension artérielle (Fréquent) | - Etourdissement orthostatique (Fréquent) | - Arythmie (Rare) | - Arrêt cardiaque (Rare) | - Dépression myocardique (Rare) | - Dépression cardiovasculaire | - Tachycardie | - Atteinte cardiovasculaire | - Trouble de la conduction cardiaque | - Extrasystole ventriculaire | - Collapsus cardiovasculaire | - Fibrillation ventriculaire | - Bloc auriculoventriculaire | SYSTÈME DIGESTIF: | - Vomissement (Fréquent) | - Nausée (Très fréquent) | - Trouble digestif (Cas isolés) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Contractions musculaires | - Radiculopathie | - Douleur lombaire | SYSTÈME NERVEUX: | - Paresthésie péribuccale (Peu fréquent) | - Trouble neurologique (Fréquent) | - Perte de conscience (Fréquent) | - Paresthésie (Fréquent) | - Neuropathie (Rare) | - Altération de la conscience (Rare) | - Arachnoidite (Rare) | - Lésion nerveuse (Rare) | - Paraparésie (Cas isolés) | - Convulsions (Rare) | - Syndrome de la queue de cheval (Cas isolés) | - Céphalée (Rare) | - Dépression du système nerveux central | - Engourdissement des lèvres | - Paraplégie | - Tremblement des extrémités | - Somnolence | - Tremblement | - Crise tonicoclonique généralisée | - Hématome sous-dural | - Coma | - Dysarthrie | - Neuropathie périphérique | - Bâillement | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Rare) | - Dépression respiratoire (Rare) | - Dyspnée | - Apnée | - Arrêt respiratoire | - Tachypnée | UROLOGIE, NÉPHROLOGIE: | - Trouble urinaire (Cas isolés)

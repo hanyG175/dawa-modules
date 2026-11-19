@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_G_163
+DCI: Bromo-Galactogluconate De Calcium | CALCIUM BROMOGALACTOGLUCONATE 2 g cp efferv (CALCIBRONAT)
+Brand Names: CALBROLAXE | CALCIBRONAT
+Pharmaceutical Forms: Comprimé
+Dosages: 2g
+Packaging: boite de 01 tube de 20 comprime
+Laboratories: EQUILIBRE ATTITUDE | ZAC du Font de l’Orme | 1198, avenue du Docteur Maurice Donat | 06250 MOUGINS | Laboratoire des GRANIONS EA-PHARMA
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05C - HYPNOTIQUES ET SEDATIFS | N05CM - AUTRES HYPNOTIQUES ET SEDATIFS | N05CM11 - BROMURES
+Registration Numbers: 201/16 G 163/97/24 | 571/16 G 163/25
+Drug Codes: 16 G 163
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement d'appoint des troubles légers du sommeil, irritabilité, nervosité.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | calcium bromogalactogluconate : 2 g | Modalités d'administration | Voie orale | A dissoudre avant administration | Respecter un intervalle d'au moins 3 semaines entre 2 traitements | Posologie | Patient de 6 an(s) à 15 an(s) | Poids >= 30 kg | Irritabilité - Sommeil, troubles légers (du) | Posologie standard | 1 comprimé 1 fois par jour | Nombre d'unité de prise maximale: 1 comprimé par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Irritabilité - Sommeil, troubles légers (du) | Posologie standard | 1 comprimé 1 à 2 fois par jour | Nombre d'unité de prise maximale: 2 comprimés par jour | Durées absolues de traitement | Ne pas dépasser 3 semaines de traitement.
+
+## Precautions
+
+Sujet âgé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | III | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Calcium bromogalactogluconate : Mécanisme d'action | Le | calcium | bromogalactogluconate est une association réunissant l'action sédative du brome et l'action périphérique du | calcium | sur l'excitabilité neuromusculaire.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Bromide (Très rare) | NUTRITION, MÉTABOLISME: | - Anorexie | PSYCHIATRIE: | - Confusion mentale | - Irritabilité | - Hallucination | - Désorientation temporospatiale | SYSTÈME DIGESTIF: | - Constipation | SYSTÈME NERVEUX: | - Somnolence

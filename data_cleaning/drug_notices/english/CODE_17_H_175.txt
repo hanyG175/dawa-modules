@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_175
+DCI: Cyclopentolate Chlorhydrate
+DrugBank ID: DB00979
+DrugBank Name: Cyclopentolate
+Brand Names: CICLOPLEGICEDOL
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 10mg/ml (1%)
+Packaging: b/01 flacon 5ml
+Registration Numbers: 185/17 H 175/17/24
+Drug Codes: 17 H 175
+
+------------------------------------------------------------
+
+## Description
+
+A parasympatholytic anticholinergic used solely to obtain mydriasis or cycloplegia.
+
+## Pharmacodynamics
+
+Cyclopentolate is an anti-muscarinic in the same class as atropine and scopolamine. Cyclopentolate blocks the receptors in the muscles of the eye (muscarinic receptors). These receptors are involved controlling the pupil size and the shape of the lens. Cyclopentolate thus induces relaxation of the sphincter of the iris and the ciliary muscles. When applied topically to the eyes, it causes a rapid, intense cycloplegic and mydriatic effect that is maximal in 15 to 60 minutes; recovery usually occurs within 24 hours. The cycloplegic and mydriatic effects are slower in onset and longer in duration in patients who have dark pigmented irises.
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M1 Antagonist
+
+## Absorption
+
+Absorbed following ophthalmic administration.
+
+## Toxicity
+
+Oral LD 50 in the rat is 4000 mg/kg and 960 mg/kg in the mouse. Symptoms of overdose include tachycardia, dizziness, dry mouth, behavioral disturbances, uncoordination and drowsiness.

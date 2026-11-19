@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_071
+DCI: Parecoxib
+DrugBank ID: DB08439
+DrugBank Name: Parecoxib
+Brand Names: DYNASTAT
+Pharmaceutical Forms: Poudre
+Dosages: 40mg/flacon
+Packaging: b/10
+Registration Numbers: 045/04 B 071/15
+Drug Codes: 04 B 071
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Lactotransferrin Inhibitor
+
+## Metabolism
+
+Hepatic. Metabolized primarily via CYP3A4 and 2C9 to valdecoxib and propionic acid.
+
+## Half Life
+
+22 minutes (parecoxib); 8 hours (valdecoxib)

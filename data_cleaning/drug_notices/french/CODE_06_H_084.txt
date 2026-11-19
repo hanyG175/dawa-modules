@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_084
+DCI: ACETAZOLAMIDE 250 mg cp (DIAMOX)
+Brand Names: ACETAZOLAMIDE BR | LYNOX
+Pharmaceutical Forms: Comprimé
+Dosages: 250 mg | 250mg
+Packaging: b/20 | boite de 20
+Laboratories: COOPER
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EC - INHIBITEURS DE L'ANHYDRASE CARBONIQUE | S01EC01 - ACETAZOLAMIDE | A - VOIES DIGESTIVES ET METABOLISME
+Registration Numbers: 242/06 H 084/02/16 | 378/06 H 084/23
+Drug Codes: 06 H 084
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Comprimé : | Traitement des hypertonies oculaires non jugulables par un traitement topique. | Traitement de certaines alcaloses métaboliques, en particulier au cours des décompensations des insuffisances respiratoires chroniques, nécessitant le recours à la ventilation mécanique. | Traitement symptomatique du mal des montagnes. | Préparation injectable : | Traitement d'attaque des hypertonies oculaires élevées. | Traitement de certaines alcaloses métaboliques, en particulier au cours des décompensations des insuffisances respiratoires chroniques, nécessitant le recours à la ventilation mécanique.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | acétazolamide : 250 mg | Modalités d'administration | Voie orale | Administrer pendant le repas | Posologie | Patient de 6 an(s) à 15 an(s) | Patient quel que soit le poids | Alcalose métabolique - Hypertonie oculaire - Mal des montagnes | Posologie standard | 5 à 10 mg/kg en 2 à 3 prises par jour | Dose maximale par prise: 250 mg | Epilepsie | Posologie standard | 8 à 30 mg/kg en 2 à 3 prises par jour | Posologie maximale: 750 mg par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Alcalose métabolique - Hypertonie oculaire - Mal des montagnes | Posologie standard | 250 à 1 000 mg en 2 à 3 prises par jour | Dose maximale par prise: 250 mg | Epilepsie | Posologie standard | 250 à 1 000 mg en 2 à 3 prises par jour | Oedème d'étiologie diverse | Posologie standard | Administrer le matin | 250 mg 1 fois par 48 heures
+
+## Precautions
+
+Acidose | Allaitement | Antécédent de lithiase urinaire | Bronchopneumopathie chronique obstructive | Diabète | Emphysème | Enfant de moins de 6 ans | Exposition au soleil ou aux rayonnements UV | Femme susceptible d'être enceinte | Glaucome chronique à angle fermé | Insuffisance hépatique légère à modérée | Insuffisance rénale chronique | Insuffisance rénale légère à modérée | Intolérance au glucose | Patient traité à posologie élevée | Sportif | Sujet âgé | Sujet à risque de trouble hydroélectrolytique | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Acétazolamide : Mécanisme d'action | L’acétazolamide est un inhibiteur spécifique de l'anhydrase carbonique à différents niveaux : tubule rénal, corps ciliaire, plexus choroïde, système nerveux central et muqueuse digestive. | Au niveau du tubule rénal, l'acétazolamide est un diurétique entraînant, par substitution ionique : une augmentation de la diurèse aqueuse, une forte élimination des bicarbonates, une excrétion moindre du sodium et du | potassium | , une alcalinisation des urines. La réponse rénale à une dose de 5 à 10 mg est de 6 à 12 heures. | Au niveau de l'œil, l'acétazolamide, en cas d'hypertension oculaire préalable, provoque une chute rapide de la pression par action sur le corps ciliaire et élimination accélérée des bicarbonates et des autres électrolytes qui se trouvent normalement en concentration élevée dans les liquides intra-oculaires. Cette élimination accélérée diminue la pression osmotique des milieux liquidiens de l'oeil et, de ce fait, fait baisser la pression intra-oculaire. | Au niveau du système nerveux : effet antisécrétoire sur les plexus choroïdes réduisant la formation du liquide céphalorachidien. | Effet sur l'hématose : diminution de l'hypercapnie par acidose métabolique et élimination urinaire des bicarbonates.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie | - Hyperglycémie | - Glycosurie | - Cristallurie | - Hyperammoniémie | - Hypokaliémie | - Hyperuricémie | - Hyponatrémie | DERMATOLOGIE: | - Photosensibilisation | - Pustulose exanthémateuse aiguë généralisée | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Erythrodermie | - Dermatite exfoliative | - Urticaire | DIVERS: | - Asthénie (Rare) | - Fatigue | - Fièvre | ENDOCRINOLOGIE: | - Dysthyroïdie (Rare) | HÉMATOLOGIE: | - Purpura thrombopénique (Rare) | - Agranulocytose (Rare) | - Aplasie médullaire | - Leucopénie | - Anémie hémolytique | - Pancytopénie | - Thrombopénie | - Dyscrasie sanguine | HÉPATOLOGIE: | - Nécrose hépatique (Rare) | - Insuffisance hépatique | - Ictère cholestatique | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique (Cas isolés) | - Réaction anaphylactique | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Trouble du métabolisme calcique | - Diabète | - Appétit diminué | - Acidose métabolique | - Trouble hydroélectrolytique | - Métabolisme glucidique (perturbation) | - Métabolisme de l'ammoniaque (perturbation) | OPHTALMOLOGIE: | - Epanchement choroïdien | - Myopie | - Glaucome aigu (crise de) | - Décollement de la choroïde | ORL, STOMATOLOGIE: | - Acuité auditive (modification) | - Dysgueusie | - Acouphène | - Vertige | PSYCHIATRIE: | - Hallucination | - Dépression | - Agitation | - Irritabilité | - Confusion mentale | - Trouble de la libido | SYSTÈME CARDIOVASCULAIRE: | - Malaise | - Hypotension artérielle | SYSTÈME DIGESTIF: | - Trouble digestif (Rare) | - Vomissement | - Soif | - Fonction hépatique anormale | - Nausée | - Méléna | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Ostéomalacie | - Retard de croissance | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Dysesthésie (Rare) | - Somnolence (Rare) | - Paresthésie | - Coma hépatique | - Convulsions | - Paralysie flasque | - Ataxie | SYSTÈME RESPIRATOIRE: | - Oedème pulmonaire non cardiogénique | UROLOGIE, NÉPHROLOGIE: | - Polyurie | - Hématurie | - Colique néphrétique | - Lithiase urinaire | - Insuffisance rénale aiguë

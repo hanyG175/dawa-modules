@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_067
+DCI: ACEBUTOLOL (chlorhydrate) 200 mg cp (ACEBUTOLOL ARROW)
+Brand Names: ACEBUTOLOL IVAL | CARDITAL | CLOXTON | SEBUTOL
+Pharmaceutical Forms: Comprimé
+Dosages: 200 mg | 200mg
+Packaging: b/20 | b/30 | boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C07 - BETA-BLOQUANTS | C07A - BETA-BLOQUANTS | C07AB - BETA-BLOQUANTS SELECTIFS | C07AB04 - ACEBUTOLOL
+Registration Numbers: 003/06 F 067/23 | 235/06 F 067/10/25 | 268/06 F 067/06/25 | 521/06 F 067/10/18
+Drug Codes: 06 F 067
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | acébutolol (chlorhydrate) : 200 mg | Modalités d'administration | Voie orale | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Hypertension artérielle | Posologie standard | Administrer en 1 prise le matin ou en 2 prises matin et soir | 400 mg en 1 à 2 prises par jour | Angor d'effort, traitement préventif (de l') - Extrasystole ventriculaire - Fibrillation auriculaire - Flutter auriculaire - Tachycardie supraventriculaire - Tachycardie supraventriculaire paroxystique - Tachycardie ventriculaire | Posologie standard | Posologie à augmenter par palier jusqu'à la dose efficace | 400 à 800 mg en 1 prise par jour | Infarctus du myocarde, traitement préventif des récidives (de l') | Posologie standard | Traitement à instaurer de préférence entre le 3e et le 21e jour après l'épisode aigu de l'infarctus | 200 mg 2 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Anesthésie générale | Angor | Angor de Prinzmetal mineur | Artériopathie périphérique | Asthme | Bloc auriculoventriculaire du premier degré | Bronchopneumopathie chronique obstructive | Diabète | Grossesse | Hyperthyroïdie | Insuffisance cardiaque | Insuffisance rénale | Ischémie myocardique | Nouveau-né exposé in utero au médicament | Phéochromocytome | Psoriasis | Sportif | Sujet âgé | Syndrome de Raynaud | Terrain allergique | Traitement de désensibilisation en cours
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Acébutolol : Mécanisme d'action | L'acébutolol se caractérise par trois propriétés pharmacologiques : une activité bêtabloquante bêta-1 sélective, un effet antiarythmique et un pouvoir agoniste partiel (activité sympathomimétique intrinsèque modérée).
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Anticorps antinucléaire (augmentation) (Très fréquent) | - Enzymes hépatiques (augmentation) | DERMATOLOGIE: | - Eruption cutanée (Fréquent) | - Alopécie | - Psoriasis (aggravation) | DIVERS: | - Fatigue (Très fréquent) | HÉPATOLOGIE: | - Hépatopathie | - Insuffisance hépatique | IMMUNO-ALLERGOLOGIE: | - Syndrome lupique (Peu fréquent) | OPHTALMOLOGIE: | - Trouble de la vision (Fréquent) | - Hyposécrétion lacrymale | PSYCHIATRIE: | - Dépression (Fréquent) | - Cauchemar (Fréquent) | - Confusion mentale | - Hallucination | - Perte de la libido | - Trouble du sommeil | - Psychose | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Fréquent) | - Pause sinusale | - Angor (aggravation) | - Bloc auriculoventriculaire du premier degré | - Claudication intermittente (aggravation) | - Hypotension artérielle | - Syndrome de Raynaud | - Bloc auriculoventriculaire (aggravation) | - Bradycardie | - Claudication intermittente | - Insuffisance cardiaque | - Refroidissement des extrémités | SYSTÈME DIGESTIF: | - Trouble digestif (Très fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement | - Lésion hépatocellulaire | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Paresthésie | - Trouble du système nerveux central | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Pneumopathie (Exceptionnel) | - Infiltration pulmonaire | - Bronchospasme | - Cyanose | - Pneumonie | TOXICOLOGIE: | - Syndrome de sevrage

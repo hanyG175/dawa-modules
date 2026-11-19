@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_298
+DCI: Ezetimibe
+DrugBank ID: DB00973
+DrugBank Name: Ezetimibe
+Brand Names: EZETROL | METAZID
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/30
+Laboratories: arrow generiques | 26 avenue tony garnier | 69007 lyon
+ATC Classification: C10BA05
+Registration Numbers: 024/06 M 298/13/21 | 263/06 M 298/17/24
+Drug Codes: 06 M 298
+
+------------------------------------------------------------
+
+## Description
+
+Ezetimibe is a lipid-lowering compound that inhibits intestinal cholesterol and phytosterol absorption. The discovery and research of this drug began in the early 1990s, after the intravenous administration of radiolabelled ezetimibe in rats revealed that it was being localized within enterocytes of the intestinal villi - this prompted studies investigating the effect of ezetimibe on intestinal cholesterol absorption. 3 Ezetimibe is used as an adjunctive therapy to a healthy diet to lower cholesterol levels in primary hyperlipidemia, mixed hyperlipidemia, homozygous familial hypercholesterolemia (HoFH), and homozygous sitosterolemia (phytosterolemia). 5 Unlike other classes of cholesterol-reducing compounds including statins and bile acid sequestrants, ezetimibe has a distinct mechanism of action involving the sterol transporter Niemann-Pick C1-Like 1 (NPC1L1), and is unique in that it does not affect the absorption of fat-soluble nutrients such as fat-soluble vitamins, triglycerides, or bile acids. 4 In genetically NPC1L1-deficient mice, a 70% reduction in intestinal cholesterol absorption was seen, and these mice were insensitive to ezetimibe treatment - it was determined based on these findings that NPC1L1 plays an essential role in promoting intestinal cholesterol uptake via an ezetimibe-sensitive pathway. 3 By interfering with the intestinal uptake of cholesterol and phytosterols, ezetimibe reduces the delivery of intestinal cholesterol to the liver. 5
+
+## Pharmacodynamics
+
+Ezetimibe was shown to reduce the levels of total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apoprotein B (Apo B), non-high-density lipoprotein cholesterol (non-HDL-C), and triglycerides (TG), and increase high-density lipoprotein cholesterol (HDL-C) in patients with hyperlipidemia. 5 This therapeutic effect was more profound when ezetimibe was co-administered with a statin or fenofibrate compared to either treatment alone. 5 In clinical trials involving patients with homozygous and heterozygous familial hypercholesterolemia and in those with sitosterolemia, a recommended therapeutic dose of ezetimibe was effective in reducing the LDL levels by 15-20% while increasing HDL-C by 2.5-5%. 4 The effects of increased exposure to ezetimibe secondary to moderate-severe hepatic impairment have not been assessed - patients meeting these criteria should avoid the use of ezetimibe. 5 Post-marketing reports indicate the potential for myopathy and rhabdomyolysis in patients taking ezetimibe, and this risk appears to be exacerbated in patients concurrently receiving, or having recently received, statin therapy. 5
+
+## Mechanism Of Action
+
+NPC1-like intracellular cholesterol transporter 1 Inhibitor Sterol O-acyltransferase 1 Inhibitor
+
+## Absorption
+
+Administration of a single 10-mg dose of ezetimibe in fasted adults resulted in peak plasma concentrations (C max ) of 3.4-5.5 ng/mL within 4-12 hours (T max ). 5 The C max of the major pharmacologically-active metabolite, ezetimibe-glucuronide, was 45-71 ng/mL and its T max was 1-2 hours. 5 Food consumption has minimal effect on ezetimibe absorption, but the C max is increased by 38% when administered alongside a high-fat meal. 5 The true bioavailability of ezetimibe cannot be determined, as it is insoluble in aqueous media suitable for intravenous injection. 5
+
+## Volume Of Distribution
+
+The relative volume of distribution of ezetimibe is 107.5L. 12
+
+## Metabolism
+
+In humans, ezetimibe is rapidly and extensively metabolized via a phase II glucuronide conjugation reaction in the small intestine and liver to form its main phenolic metabolite, ezetimibe glucuronide. The main human liver and/or intestinal uridine 5′-diphosphate (UDP)-glucuronosyltransferase (UGT) enzymes responsible for the glucuronidation of ezetimibe were shown to be UGT1A1, 1A3, and 2B15 in vitro . 3 Minimal phase I reaction involving oxidation of ezetimibe also occurs to form SCH 57871, and human jejunum microsomes also produced trace levels of a benzylic glucuronide (SCH 488128). 3 Ezetimibe glucuronide accounts for 80-90% of the total circulating compound in plasma, and retains some pharmacological activity in inhibiting intestinal cholesterol uptake. 5 In humans, ezetimibe and ezetimibe-glucuronide constitutes approximately 93% of the total drug in plasma. 5 Plasma concentration-time profiles exhibit multiple peaks, suggestive of enterohepatic recycling 5 , and about 20% of the drug distributed is reabsorbed due to enterohepatic recirculation. 12 Hover over products below to view reaction partners Ezetimibe Ezetimibe glucuronide SCH 57871 SCH 57871-glucuronide SCH 488128
+
+## Route Of Elimination
+
+Approximately 78% and 11% of orally administered radiolabelled ezetimibe are recovered in the feces and urine, respectively. 5 Unchanged parent drug is the major component in feces and accounts for approximately 69% of an administered dose, while ezetimibe-glucuronide is the major component in urine and accounts for approximately 9% of an administered dose. 5 High recovery of unchanged parent drug in feces suggests low absorption and/or hydrolysis of ezetimibe-glucuronide secreted in the bile. 3
+
+## Half Life
+
+Both ezetimibe and ezetimibe-glucuronide display an approximate half-life of 22 hours. 5
+
+## Clearance
+
+There are no pharmacokinetic data available on the clearance of ezetimibe.
+
+## Toxicity
+
+Oral LD 50 and intraperitoneal LD 50 in rat were >2000 mg/kg. 9 Estimated oral LD50 values in mouse and dog are >5000 mg/kg and >3000 mg/kg, respectively. 9 One case of accidental overdose occurred in clinical studies in one female patient with homozygous sitosterolemia receiving 120 mg/day for 28 days with no reported clinical or laboratory adverse events. 5 In case of overdose, symptomatic treatment is recommended. 5

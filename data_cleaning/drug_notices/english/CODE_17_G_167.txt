@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_G_167
+DCI: DEXAMETHASONE 0,1 % + TOBRAMYCINE 0,3 % collyre susp (TOBRADEX)
+DrugBank ID: DB15566
+DrugBank Name: Prednisolone acetate
+Brand Names: OPTIPRED
+Pharmaceutical Forms: Collyree En Suspension
+Dosages: 0.01
+Packaging: flacon/5ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB02 - DEXAMETHASONE
+Registration Numbers: 608/17 G 167/12/24
+Drug Codes: 17 G 167
+
+------------------------------------------------------------
+
+## Description
+
+Prednisolone acetate is a prednisolone molecule bound to an acetate functional group by an ester bond. 5 Prednisolone acetate was granted FDA approval in 1955. 5
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals. 4 Prednisolone acetate has a short duration of action as the half life is 2-3 hours. 5 Corticosteroids have a wide therapeutic window as patients make require doses that are multiples of what the body naturally produces. 4 Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 4
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist Mineralocorticoid receptor Agonist
+
+## Absorption
+
+Prednisolone acetate oral suspension given at a dose equivalent to 15mg prednisolone has a C max of 321.1ng/hr, a T max of 1-2 hours, and an AUC of 1999.4ng*hr/mL. 5 The absorption pharmacokinetics of prednisolone acetate are not significantly different from a comparable dose of prednisolone. 5
+
+## Volume Of Distribution
+
+The volume of distribution of the active metabolite, prednisolone, is 0.22/0.7L/kg. 5
+
+## Metabolism
+
+Prednisolone acetate undergoes ester hydrolysis to prednisolone . 1 After this step, the drug undergoes the normal metabolism of prednisolone. Prednisolone can be reversibly metabolized to prednisone which is then metabolized to 17α,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII), 20α-dihydro-prednisone (M-V), 6βhydroxy-prednisone (M-XII), 6α-hydroxy-prednisone (M-XIII), or 20β-dihydro-prednisone (M-IV). 2 20β-dihydro-prednisone is metabolized to 17α,20ξ,21-trihydroxy-5ξ-pregn-1-en-3,11-dione(M-XVIII). 2 Prednisolone is metabolized to Δ6-prednisolone (M-XI), 20α-dihydro-prednisolone (M-III), 20β-dihydro-prednisolone (M-II), 6αhydroxy-prednisolone (M-VII), or 6βhydroxy-prednisolone(M-VI). 2 6αhydroxy-prednisolone is metabolized to 6α,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-X). 2 6βhydroxy-prednisolone is metabolized to 6β,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII), 6β,11β,17α,20α,21-pentahydroxypregnan-1,4-diene-3-one (M-IX), and 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV). 2 MVIII is metabolized to 6β,11β,17α,20β,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XV) and then to MXIV, while MIX is metabolized to 6β,11β,17α,20α,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XVI) and then to MXIV. 2 These metabolites and their glucuronide conjugates are excreted predominantly in the urine. 2 , 5 Hover over products below to view reaction partners Prednisolone acetate Prednisolone Prednisone 6βhydroxy-prednisone (M-XII) 6α-hydroxy-prednisone (M-XIII) 20β-dihydro-prednisone (M-IV) 17α,20ξ,21-trihydroxy-5ξ-pregn-1-en-3,11-dione(M-XVIII) 20α-dihydro-prednisone (M-V) 17α,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII) 6βhydroxy-prednisolone(M-VI) 6β,11β,17α,20α,21-pentahydroxypregnan-1,4-diene-3-one (M-IX) 6β,11β,17α,20α,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XVI) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6β,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII) 6β,11β,17α,20β,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XV) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6αhydroxy-prednisolone (M-VII) 6α,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-X) 20β-dihydro-prednisolone (M-II) 20α-dihydro-prednisolone (M-III) Δ6-prednisolone (M-XI)
+
+## Route Of Elimination
+
+Prednisolone acetate is predominantly excreted in the urine. 5
+
+## Half Life
+
+Oral prednisolone acetate has a plasma half life of 2-3 hours. 5
+
+## Clearance
+
+Data regarding the clearance of prednisolone acetate is not readily available. 6 , 7 , 8
+
+## Toxicity
+
+The oral LD 50 of prednisolone acetate in mice is 1680 mg/kg. 8 Patients experiencing an overdose of oral prednisolone acetate may experience an increased severity in the adverse effects of corticosteroids. 5 Overdose of oral prednisolone acetate may be treated by gastric lavage or inducing vomiting if the overdose was recent, as well as supportive and symptomatic therapy. 5 Chronic overdosage may be treated by dose reduction or treating patients on alternate days. 5 An overdose by the ophthalmic route is not expected to cause problems. 5

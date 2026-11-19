@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_207
+DCI: PHLOROGLUCINOL 160 mg cp orodispers (PHLOROGLUCINOL ARROW)
+Brand Names: LEVOSPASME | PHLOROGLUCINOL BGL | PHLOROGLUCINOL HUP | PHLOSPAM | SPACINOL | SPACYL 160 | SPASMODYL | SPASMOL
+Pharmaceutical Forms: Comprimé
+Dosages: 160 mg | 160mg
+Packaging: b/10 | b/10 et b/20 | b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX - AUTRES MEDICAMENTS CONTRE LES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX12 - PHLOROGLUCINOL
+Registration Numbers: 231/10 E 207/17/24 | 235/10 E 207/25 | 268/10 E 207/22 | 289/10 E 207/25 | 309/10 E 207/22 | 380/10 E 207/21 | 468/10 E 207/20 | 518/10 E 207/17/22
+Drug Codes: 10 E 207
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | phloroglucinol : 80 mg | Modalités d'administration | Voie orale | Administrer au moment des douleurs | Respecter un intervalle d'au moins 2 heures entre 2 prises | Posologie | Patient de 2 an(s) à 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Colique hépatique - Colique néphrétique - Douleur spasmodique des voies digestives | Posologie standard | A dissoudre avant administration | 1 comprimé 1 à 2 fois par 24 heures | Nombre d'unité de prise maximale: 2 comprimés par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Colique hépatique - Colique néphrétique - Douleur spasmodique des voies digestives | Posologie standard | A dissoudre dans un peu d'eau ou à laisser fondre sous la langue | 2 comprimés 1 à 3 fois par 24 heures | Nombre d'unité de prise maximale: 6 comprimés par 24 heures | Patient de sexe féminin | Contractions utérines au cours de la grossesse, traitement adjuvant (des) - Douleur spasmodique gynécologique | Posologie standard | A dissoudre dans un peu d'eau ou à laisser fondre sous la langue | 2 comprimés 1 à 3 fois par 24 heures | Nombre d'unité de prise maximale: 6 comprimés par 24 heures
+
+## Precautions
+
+Enfant entre 2 et 15 ans | Nourrisson de moins de 2 ans | Patient nécessitant un traitement antalgique
+
+## Mechanism Of Action
+
+Phloroglucinol : Mécanisme d'action | Le phloroglucinol est un antispasmodique musculotrope. Il lève le spasme des fibres musculaires lisses et calme la douleur.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Rare) | - Prurit | - Eruption cutanée | - Dermatite allergique | - Pustulose exanthémateuse aiguë généralisée | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique (Exceptionnel) | - Oedème de Quincke (Exceptionnel) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_226
+DCI: Venetoclax
+DrugBank ID: DB11581
+DrugBank Name: Venetoclax
+Brand Names: VENCLYXTO
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: b/14
+Registration Numbers: 458/05 C 226/22
+Drug Codes: 05 C 226
+
+------------------------------------------------------------
+
+## Description
+
+Venetoclax is a BCL-2 inhibitor that was initially approved by the FDA in April 2016 Label . Proteins in the B cell CLL/lymphoma 2 (BCL-2) family are important regulators of the apoptotic (programmed cell death) process 1 , 2 . Venetoclax is used to treat chronic lymphocytic leukemia (CLL) and certain types of small lymphocytic lymphoma Label . CLL is the most prevalent leukemia diagnosed in Western countries 7 . Venetoclax was developed through reverse engineering of the BCL-2 protein family inhibitor, navitoclax 7 . Venetoclax is approximately 10 times more potent than navitoclax with regard to induction of apoptosis in CLL cells 7 . A new indication was approved in 2018 for the treatment patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), with or without 17p deletion, who have received at least one prior therapy Label . Previously, this drug was indicated only for patients with 17p gene deletion 11 .
+
+## Pharmacodynamics
+
+Venetoclax induces rapid and potent onset apoptosis of CLL cells, powerful enough to act within 24h and to lead to tumor lysis syndrome 5 , Label , 2 . Selective targeting of BCL2 with venetoclax has demonstrated a manageable safety profile and has been shown to induce significant response in patients with relapsed CLL (chronic lymphocytic leukemia) or SLL (small lymphocytic leukemia), including patients with poor prognostic features 6 . This drug is not expected to have a significant impact on the cardiac QT interval Label . Venetoclax has demonstrated efficacy in various types of lymphoid malignancies, including relapsed/ refractory CLL harboring deletion 17p, with an overall response rate of approximately 80% 7 .
+
+## Mechanism Of Action
+
+Apoptosis regulator Bcl-2 Antagonist Inhibitor
+
+## Absorption
+
+Following several oral administrations after a meal, the maximum plasma concentration of venetoclax was reached 5-8 hours after the dose 3 . Venetoclax steady state AUC (area under the curve) increased proportionally over the dose range of 150-800 mg. After a low-fat meal, venetoclax mean (± standard deviation) steady-state Cmax was 2.1 ± 1.1 μg/mL and AUC0-24 was 32.8 ± 16.9 μg•h/mL at the 400 mg once daily dose Label . When compared with the fasted state, venetoclax exposure increased by 3.4 times when ingested with a low-fat meal and 5.2 times with a high-fat meal. When comparing low versus high fat, the Cmax and AUC were both increased by 50% when ingested with a high-fat meal. The FDA label indicataes that venetoclax should be taken with food 7 , Label .
+
+## Volume Of Distribution
+
+The population estimate for apparent volume of distribution (Vdss/F) of venetoclax ranged from 256-321 L Label .
+
+## Metabolism
+
+In vitro studies demonstrated that venetoclax is predominantly metabolized as a substrate of CYP3A4/5 Label , 4 , 10 . Hover over products below to view reaction partners Venetoclax M27
+
+## Route Of Elimination
+
+After single oral administration of 200 mg radiolabeled [14C]-venetoclax dose to healthy subjects, >99.9% of the dose was found in feces and <0.1% of the dose was excreted in urine within 9 days, suggesting that hepatic elimination is responsible for the clearance of venetoclax from systemic circulation. Unchanged venetoclax accounted for 20.8% of the radioactive dose excreted in feces Label .
+
+## Half Life
+
+The half-life of venetoclax is reported to be 19-26 hours, after administration of a single 50-mg dose 7 , Label .
+
+## Clearance
+
+Mainly hepatic Label .
+
+## Toxicity
+
+Acute toxicity : oral toxicity (LD50) >2001 mg/kg (mouse) 8 . Venetoclax may cause embryo-fetal harm when administered to a pregnant woman. Patients should avoid pregnancy during treatment. A risk to human male fertility exists based on the results of testicular toxicity (germ cell loss) seen in dogs at exposures as low as 0.5 times the human AUC exposure at the recommended dose Label . Carcinogenicity studies have not yet been performed with venetoclax Label . Venetoclax was not shown to be mutagenic in an in vitro bacterial mutagenicity (Ames) assay, did not induce aberrations in an in vitro chromosome aberration assay with human peripheral blood lymphocytes. It was not clastogenic in an in vivo mouse bone marrow micronucleus assay at doses up to 835 mg/kg. The M27 metabolite was negative for genotoxic activity during both in vitro Ames and chromosome aberration assays Label .

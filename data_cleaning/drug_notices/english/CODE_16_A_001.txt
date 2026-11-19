@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_001
+DCI: Amitriptyline Chlorhydrate Exprime En Amitriptyline
+DrugBank ID: DB00321
+DrugBank Name: Amitriptyline
+Brand Names: ATRYLINE | LAROXYLINE | MITRIL
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/60
+Registration Numbers: 065/16 A 001/04/13 | 242/16 A 001/03/16 | 380/16 A 001/16
+Drug Codes: 16 A 001
+
+------------------------------------------------------------
+
+## Description
+
+Amitriptyline is a tricyclic antidepressant that has been used to treat depression for decades. ELAVIL, a previously approved branded product of amitriptyline, was first approved by the FDA in 1961. 11 Amitriptyline has been investigated in the treatment of pain-related conditions, attributed to its analgesic properties. 6
+
+## Pharmacodynamics
+
+Effects in pain and depression Amitriptyline is a tricyclic antidepressant and an analgesic. It has anticholinergic and sedative properties Label .
+Clinical studies have shown that oral amitriptyline achieves, at a minimum, good to moderate response in up to 2/3 of patients diagnosed with post-herpetic neuralgia and 3/4 of patients diagnosed with diabetic neuropathic pain, and neurogenic pain syndromes that are frequently unresponsive to narcotic analgesics. Amitriptyline has also shown efficacy in diverse groups of patients with chronic non-malignant pain. There have also been some studies showing efficacy in managing fibromyalgia (an off-label use of this drug) 5 , 8 . Cardiovascular and Anticholinergic Effects Amitriptyline has strong anticholinergic properties and may cause ECG changes and quinidine-like effects on the heart 13 . Amitriptyline may inhibit ion channels, which are necessary for cardiac repolarization (hERG channels), in the upper micromolar range of therapeutic plasma concentrations. Therefore, amitriptyline may increase the risk for cardiac arrhythmia Label . Orthostatic hypotension and tachycardia can be a problem in elderly patients receiving this drug at normal doses for depression. There is evidence in the literature that these effects may occur, rarely, at the lower dosages utilized in the treatment of pain. As with any other tricyclic antidepressant agent, increased glucose levels can occur with amitriptyline 6 . Effects on seizure threshold This drug also decreases the convulsive threshold and causes alterations in EEG and sleep patterns 13 .
+
+## Mechanism Of Action
+
+Sodium-dependent noradrenaline transporter Inhibitor Sodium-dependent serotonin transporter Inhibitor 5-hydroxytryptamine receptor 2A Antagonist
+
+## Absorption
+
+Rapidly absorbed following oral administration (bioavailability is 30-60% due to first pass metabolism). Peak plasma concentrations are reached 2-12 hours after oral or intramuscular administration Label . Steady-state plasma concentrations vary greatly and this variation may be due to genetic differences 13 .
+
+## Volume Of Distribution
+
+The apparent volume of distribution (Vd)β estimated after intravenous administration is 1221 L±280 L; range 769-1702 L (16±3 L/kg) Label . It is found widely distributed throughout the body 6 . Amitriptyline and the main metabolite nortriptyline pass across the placental barrier and small amounts are present in breast milk Label .
+
+## Metabolism
+
+In vitro, the metabolism of amitriptyline occurs mainly by demethylation (CYP2C19, CYP3A4) as well as hydroxylation (CYP2D6) followed by conjugation with glucuronic acid. Other isozymes involved in amitriptyline metabolism are CYP1A2 and CYP2C9. The metabolism of this drug is subject to genetic polymorphisms. The main active metabolite is the secondary amine, nortriptyline Label . Nortriptyline is a stronger inhibitor of noradrenaline than of serotonin uptake, while amitriptyline inhibits the uptake of noradrenaline and serotonin with equal efficacy. Other metabolites such as cis- and trans-10-hydroxyamitriptyline and cis- and trans-10-hydroxynortriptyline have the same pharmacologic profile as nortriptyline but are significantly weaker. Demethylnortriptyline and amitriptyline N oxide are only present in plasma in negligible amounts; the latter is mostly inactive Label . Hover over products below to view reaction partners Amitriptyline Nortriptyline Desmethylnortriptyline E-10-Hydroxydesmethylnortriptyline E-10-Hydroxynortriptyline E-10-Hydroxyamitriptyline E-10-Hydroxynortriptyline E-10-Hydroxydesmethylnortriptyline E-10-Hydroxyamitriptyline
+
+## Route Of Elimination
+
+Amitriptyline and its metabolites are mainly excreted in the urine. Virtually the entire dose is excreted as glucuronide or sulfate conjugate of metabolites, with approximately 2% of unchanged drug appearing in the urine Label . 25-50% of a single orally administered dose is excreted in urine as inactive metabolites within 24 hours Label . Small amounts are excreted in feces via biliary elimination 13 .
+
+## Half Life
+
+The elimination half-life (t1⁄2 β) amitriptyline after peroral administration is about 25 hours (24.65 ± 6.31 hours; range 16.49-40.36 hours) Label .
+
+## Clearance
+
+The mean systemic clearance (Cls) is 39.24 ± 10.18 L/h (range: 24.53-53.73 L/h) Label . No clear effect of older age on the pharmacokinetics of amitriptyline has been determined, although it is possible that clearance may be decreased 6 .
+
+## Toxicity
+
+Toxicity Data : Oral TDLO (child): 4167 μg/kg; Oral TDLO (man): 714 μg/kg/1D (intermittent); Oral TDLO (woman): 10 mg/kg 13 . Ingestion of 750 mg or more by an adult may result in severe toxicity. The effects in overdose are further increased by simultaneous ingestion of alcohol and another psychotropic agent Label . Symptoms of overdose include abnormally low blood pressure, confusion, convulsions, dilated pupils and other eye problems, disturbed concentration, drowsiness, hallucinations, impaired heart function, rapid or irregular heartbeat, reduced body temperature, stupor, and unresponsiveness or coma, among others Label , 13 . Use in pregnancy For amitriptyline, only limited clinical data are available regarding its use in pregnancy.
+Amitriptyline is not recommended during pregnancy unless clearly required and only after careful consideration of both risks and benefits Label . Use in breastfeeding Amitriptyline and its metabolites are excreted into breast milk (corresponding to 0.6 % - 1 % of the maternal dose). A risk to the suckling child must be considered. A decision should be made as to whether it is appropriate to discontinue breastfeeding or to discontinue/abstain from the therapy of this medicinal product, considering the benefit of breastfeeding for the child and the benefit of therapy for the woman. Effects on fertility Animal studies have shown reproductive toxicity. No data on the effects of amitriptyline on human fertility are available Label . Mutagenesis and carcinogenesis The genotoxic potential of amitriptyline has been investigated in various in vitro and in vivo studies. Although these investigations showed
+some contradictory results, a potential of amitriptyline to lead to chromosome abnormalities cannot be excluded. Long-term carcinogenicity studies have not been performed to this date Label .

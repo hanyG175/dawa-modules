@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_115
+DCI: MEMANTINE CHLORHYDRATE 10 mg cp (MEMANTINE ARROW LAB)
+Brand Names: ALZHANTINE | MEMANTINE BEKER | MIRALE
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: b/28 | b/30 | b/60
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06D - MEDICAMENTS CONTRE LA DEMENCE | N06DX - AUTRES MEDICAMENTS CONTRE LA DEMENCE | N06DX01 - MEMANTINE
+Registration Numbers: 055/15 F 115/19 | 352/15 F 115/17/22 | 447/15 F 115/18/23
+Drug Codes: 15 F 115
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | mémantine chlorhydrate : 10 mg | Modalités d'administration | Voie orale | Administrer chaque jour à la même heure | Administrer indépendamment de la prise des repas | Traitement à poursuivre tant qu'il apporte des bénéfices au patient | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie d'Alzheimer, forme modérée à sévère, traitement symptomatique (de la) | Traitement phase 1 | 5 mg 1 fois par jour | Pendant 7 jours | Traitement phase 2 | 10 mg 1 fois par jour | Pendant 7 jours | Traitement phase 3 | 15 mg 1 fois par jour | Pendant 7 jours | Traitement d'entretien | Traitement à réévaluer de préférence dans les 3 mois suivant le début du trt puis régulièrement | 20 mg 1 fois par jour | Posologie maximale: 20 mg par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Acidose rénale hyperchlorémique | Allaitement | Antécédent de convulsions | Antécédent récent d'infarctus du myocarde | Epilepsie | Grossesse | Hypertension artérielle non contrôlée | Infection urinaire à Proteus | Insuffisance cardiaque congestive sévère | Insuffisance hépatique sévère | Insuffisance rénale : clairance de la créatinine < 50 ml/min | Sujet à risque de crise convulsive | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Mémantine : Mécanisme d'action | La mémantine est un antagoniste voltage-dépendant non compétitif des récepteurs NMDA d'affinité modérée. Elle module les effets de taux élevés pathologiques de glutamate qui pourraient aboutir à un dysfonctionnement neuronal. | Il apparaît de plus en plus clairement que le dysfonctionnement de la neurotransmission glutamatergique, en particulier au niveau des récepteurs NMDA, contribue à la fois à l'expression des symptômes et à la progression de la maladie dans la démence neurodégénérative.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Test hépatique augmenté (Fréquent) | DIVERS: | - Fatigue (Peu fréquent) | HÉPATOLOGIE: | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité médicamenteuse (Fréquent) | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Mycose (Peu fréquent) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | PSYCHIATRIE: | - Confusion mentale (Peu fréquent) | - Hallucination (Peu fréquent) | - Dépression | - Suicide | - Idée suicidaire | - Episode psychotique | SYSTÈME CARDIOVASCULAIRE: | - Accident thromboembolique (Peu fréquent) | - Insuffisance cardiaque (Peu fréquent) | - Thrombophlébite (Peu fréquent) | - Hypertension artérielle (Fréquent) | SYSTÈME DIGESTIF: | - Constipation (Fréquent) | - Vomissement (Peu fréquent) | - Pancréatite | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Trouble de l'équilibre (Fréquent) | - Trouble de la marche (Peu fréquent) | - Somnolence (Fréquent) | - Convulsions (Très rare) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent)

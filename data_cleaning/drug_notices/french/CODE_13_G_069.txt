@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_069
+DCI: OXACILLINE (sel de Na) 1 g pdre/solv p sol inj (ISTOPEN)
+Brand Names: OXACARE
+Pharmaceutical Forms: Poudre Et Solv. P. Sol. Inj/Iv
+Dosages: 1g/fl. de pdre.
+Packaging: b/01fl. de pdre. + 01amp. de 5ml de solv. (eppi) et b/50fl. de pdre.
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CF - PENICILLINES RESISTANTES AUX BETALACTAMASES | J01CF04 - OXACILLINE
+Registration Numbers: 293/13 G 069/10/16
+Drug Codes: 13 G 069
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | flacon | oxacilline (sel de Na) : 1 g | Modalités d'administration | Voie intraveineuse (en perfusion) | A reconstituer avant administration | Administrer par perfusion intraveineuse de 10 minutes | Posologie | Patient de 1 mois à 15 an(s) | Patient quel que soit le poids | Endocardite staphylococcique - Infection ORL staphylococcique - Infection dermatologique staphylococcique et/ou streptococcique - Infection neuro-méningée staphylococcique - Infection ostéoarticulaire staphylococcique - Infection respiratoire staphylococcique - Infection urogénitale staphylococcique | Posologie standard | 0,1 à 0,2 g/kg en 4 à 6 prises par jour | Posologie maximale: 12 g par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Endocardite staphylococcique - Infection ORL staphylococcique - Infection dermatologique staphylococcique et/ou streptococcique - Infection neuro-méningée staphylococcique - Infection ostéoarticulaire staphylococcique - Infection respiratoire staphylococcique - Infection urogénitale staphylococcique | Posologie standard | 8 à 12 g en 4 à 6 prises par jour | Infection en neurochirurgie, traitement préventif (de l') | Dose initiale | Dans le cas de : Induction de l'anesthésie | 2 g en 1 prise ce jour | Dose ultérieure | Durée du traitement limitée à la période peropératoire | 1 g toutes les 2 heures | Ne pas dépasser 48 heures de traitement.
+
+## Precautions
+
+Allaitement | Antécédent de convulsions | Epilepsie | Grossesse | Hypersensibilité aux céphalosporines | Insuffisance hépatique associée à une insuffisance rénale | Insuffisance rénale sévère | Nouveau-né de moins de 1 mois | Pathologie méningée | Patient traité à posologie élevée | Sujet âgé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Oxacilline : Mécanisme d'action | L'oxacilline est un antibiotique de la famille des bêtalactamines, du groupe des pénicillines du groupe M. | Les concentrations minimales inhibitrices (CMI) critiques sont : | Staphylococcus aureus | S 2 mg/l ; | Staphylococcus lugdunensis | S 2 mg/l ; | Staphylocoques coagulase négative S 0,25 mg/l. | Espèces habituellement sensibles : | aérobies à Gram + : | Streptococcus pyogenes | ; | anaérobies : | Clostridium perfringens | . | Espèces inconstamment sensibles : | aérobies à Gram + : | Staphylococcus aureus | , Staphylocoques coagulase négative.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Protéinurie | - Phosphatases alcalines (augmentation) | - Eosinophilie | - ASAT (augmentation) | - Transaminases (augmentation) | - Neutropénie | - ALAT (augmentation) | DERMATOLOGIE: | - Dermatose bulleuse (Exceptionnel) | - Eruption pustuleuse | - Eruption cutanée | - Prurit | - Eruption maculopapuleuse | - Urticaire | DIVERS: | - Fièvre | HÉMATOLOGIE: | - Dépression de la moelle osseuse | - Anémie hémolytique | - Leucopénie | - Agranulocytose | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique (Exceptionnel) | - Oedème de Quincke | ORL, STOMATOLOGIE: | - Langue pileuse | - Stomatite | PSYCHIATRIE: | - Confusion mentale | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Diarrhée | - Colite pseudomembraneuse | SYSTÈME NERVEUX: | - Altération de la conscience | - Mouvement anormal | - Myoclonie | - Encéphalopathie | - Epilepsie (crise) | SYSTÈME RESPIRATOIRE: | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Tubulopathie rénale proximale | - Néphropathie interstitielle | - Insuffisance rénale | - Hématurie

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_114
+DCI: Memantine Chlorhydrate
+DrugBank ID: DB01043
+DrugBank Name: Memantine
+Brand Names: ALZHANTINE
+Pharmaceutical Forms: Comprimé
+Dosages: 5 mg
+Packaging: b/60
+Registration Numbers: 352/15 F 114/17/22
+Drug Codes: 15 F 114
+
+------------------------------------------------------------
+
+## Description
+
+Initially approved by the FDA in 2013, memantine is an N-methyl-D-aspartate (NMDA) receptor antagonist used in the management of Alzheimer's Disease (AD). It is different from many other Alzheimer's Disease medications, as it works by a different mechanism than the cholinesterase enzyme inhibitors normally employed in the management of Alzheimer's disease 2 . Memantine blocks the effects of glutamate, a neurotransmitter in the brain that leads to neuronal excitability and excessive stimulation in Alzheimer's Disease 9 . In 2010, it was estimated that 36 million people worldwide live with Alzheimer's Disease. In 2013, this number increased to 44 million. Almost doubling every 20 years, the prevalence of Alzheimer's Disease is predicted to reach 66 million by 2030 and to 115 million by 2050 13 . In December 2013, the G8 dementia summit concluded that dementia should be considered a global priority with the objective of developing a cure or a disease-modifying therapy by the year 2025 10 , 13 .
+
+## Pharmacodynamics
+
+General effects This drug inhibits calcium influx into cells that is normally caused by chronic NMDA receptor activation by glutamate 3 . This leads to the improvement of Alzheimer's dementia symptoms, demonstrated by increased cognition and other beneficial central nervous system effects 3 . Effects on neuroplasticity Like other NMDA receptor antagonists, memantine at high doses can reduce neuronal synaptic plasticity that is involved in learning and memory processes. At lower concentrations, which are normally used in the clinical setting, memantine can enhance neuronal synaptic plasticity in the brain, improve memory, and act as a neuroprotectant against the destruction of neurons caused by excitatory neurotransmitters 2 . Effect on various receptors Memantine has demonstrated minimal activity for GABA, benzodiazepine, dopamine, adrenergic, histamine, and glycine receptors, as well as voltage-dependent Ca2+, Na+ or K+ channels. This drug has shown antagonist activity at the 5HT3 receptors. Laboratory studies suggest that memantine does not affect the reversible inhibition of the acetylcholinesterase normally caused by donepezil, galantamine, or tacrine Label .
+
+## Mechanism Of Action
+
+Glutamate (NMDA) receptor Antagonist
+
+## Absorption
+
+After an oral dose, memantine is well absorbed. Its peak drug concentrations are attained in about 3-7 hours. Memantine shows linear pharmacokinetics when given at normal therapeutic doses. This drug can be taken without regard to food, as there is no effect of food on memantine absorption Label .
+
+## Volume Of Distribution
+
+The mean volume of distribution of memantine is 9-11 L/kg Label .
+
+## Metabolism
+
+This drug is partially metabolized in the liver. The hepatic CYP450 enzyme system does not majorly contribute to the metabolism of this drug Label . Hover over products below to view reaction partners Memantine 6-hydroxy memantine 1-nitroso­ deaminated memantine N-glucuronide metabolite, memantine
+
+## Route Of Elimination
+
+This drug is mainly excreted in the urine. Approximately 48% of administered memantine is excreted unchanged in urine Label . The remainder of the drug is metabolized to three main metabolites. These metabolites are the N-glucuronide conjugate, 6-hydroxy memantine, and 1-nitroso-deaminated memantine, which show minimal NMDA receptor antagonist activity Label .
+
+## Half Life
+
+The terminal elimination half-life of memantine ranges from 60 to 80 hours in humans. 8 , 12 Following administration of a single oral dose of 10 mg/kg memantine in rats, the elimination half-life was 2.36 ± 0.20 hours. Following a single intravenous dose of 2 mg/kg in rats, the elimination half-life was 2.28 ± 0.48 hours. 7
+
+## Clearance
+
+This drug is cleared by active tubular secretion in the kidneys. Tubular reabsorption of this drug is pH dependent Label .
+
+## Toxicity
+
+LD50 Oral LD50, mouse 437-498 mg/kg 14 Oral LD50, rat 328-370 mg/kg 14 Carcinogenesis, Mutagenesis, Impairment of Fertility No evidence of carcinogenicity was seen in mouse and rat models administered memantine at doses equivalent to supratherapeutic human doses Label . Additionally, no genotoxic potential was noted when a battery of assays was performed. No effects on fertility or reproductive performance were noted in rats given to 18 mg/kg/day (equivalent to 9 times the maximum recommended human dose) orally from 14 days preceding mating through gestation and lactation in females, or for 60 preceding mating activity in males animals Label . Use in pregnancy This drug is considered a pregnancy category B drug, meaning no sufficiently controlled and adequate studies of memantine in pregnant women have been performed. This drug should be taken during pregnancy only if the potential benefit justifies the possible fetal risk Label . Use in nursing It is unknown whether memantine is excreted in human milk. Due to that fact that many drugs are found excreted in human milk, caution should be observed when this drug is taken by a nursing mother Label .

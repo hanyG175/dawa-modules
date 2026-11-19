@@ -1,0 +1,18 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_054
+DCI: AMPICILLINE (sodique) 1 g + SULBACTAM (sodique) 500 mg pdre/solv p sol inj (UNACIM INJECTABLE)
+Brand Names: AMPILINE | AMPINAX
+Pharmaceutical Forms: Poudre P. Susp. Inj. Im | Poudre Sol Inj Perf
+Dosages: 1g/flc
+Packaging: 1flc et 1 ampoule sol 5ml et b/50 flc sans solv | b/1 flc de poudre + 01 ampl de 5ml solv.
+Registration Numbers: 003/13 G 054/98/21 | 293/13 G 054/10
+Drug Codes: 13 G 054
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Sulbactam : Mécanisme d'action | Le sulbactam est un inhibiteur des pénicillinases : il inhibe rapidement et irréversiblement la plupart des pénicillinases produites par des bactéries Gram + et Gram -. | L' | ampicilline | est un antibiotique de la famille des bêtalactamines, du groupe A des pénicillines. | Ces deux substances ne sont disponibles qu’en association. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire, et ces dernières, des résistantes : S 16 mg/l. | Espèces sensibles : | aérobies à Gram + : | Corynebacterium diphtheriae | , | Enterococcus faecalis | , | Erysipelothrix rhusiopathiae | , | Listeria monocytogenes | , | Nocardia asteroides | , | staphylococcus | méti-S, | streptococcus | , | Streptococcus pneumoniae | ; | aérobies à Gram - : | Bordetella pertussis | , | Branhamella catarrhalis | , | Citrobacter koseri | , | eikenella | , | Escherichia coli | , | Haemophilus influenzae | , | Haemophilus para-influenzae | , | klebsiella | , | Neisseria gonorrhoeae | , | Neisseria meningitidis | , | Pasteurella multocida | , | Proteus mirabilis | , | salmonella | , | shigella | , | Streptobacillus moniliformis | , | Vibrio cholerae | ; | anaérobies : | actinomyces | , | Bacteroides fragilis | , | clostridium | , | fusobacterium | , | peptostreptococcus | , | porphyromonas | , | prevotella | , | Propionibacterium acnes | ; | autres : | bartonella | , | borrelia | , | leptospira | , | treponema | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram + : | Enterococcus faecium | . | Espèces résistantes : | aérobie à Gram + : | staphylococcus | méti-R ; | aérobies à Gram - : | acinetobacter | , | alcaligenes | , | campylobacter | sp., | Citrobacter freundii | , | enterobacter | , | klebsiella | , | legionella | , | Morganella morganii | , | Proteus rettgeri | , | Proteus vulgaris | , | providencia | , | pseudomonas | sp., | serratia | , | Yersinia enterocolitica | ; | autres : | chlamydia | , | coxiella | , | mycobacterium | , | mycoplasma | , | rickettsia | .

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_028
+DCI: Erythromycine
+DrugBank ID: DB00199
+DrugBank Name: Erythromycin
+Brand Names: ERYBESAN | ERYTHRODAR
+Pharmaceutical Forms: Granule Pour Suspension Buvable | Suspension
+Dosages: 200mg/5ml
+Packaging: flacon/100 ml | flacon/60 ml
+Registration Numbers: 050/13 E 028/98/16 | 055/13 E 028/99/14
+Drug Codes: 13 E 028
+
+------------------------------------------------------------
+
+## Description
+
+Erythromycin is a bacteriostatic antibiotic drug produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics which consists of Azithromycin , Clarithromycin , Spiramycin and others. It was originally discovered in 1952. 20 Erythromycin is widely used for treating a variety of infections, including those caused by gram-positive and gram-negative bacteria. 20 , 21 It is available for administration in various forms, including intravenous, topical, and eye drop preparations. 20
+
+## Pharmacodynamics
+
+Macrolides, such as erythromycin, stop bacterial growth by inhibiting protein synthesis and translation, treating bacterial infections. 8 Erythromycin does not exert effects on nucleic acid synthesis. 21 This drug has been shown to be active against most strains of the following microorganisms, effectively treating both in vitro and clinical infections. Despite this, it is important to perform bacterial susceptibility testing before administering this antibiotic, as resistance is a common issue that may affect treatment. 21 A note on antimicrobial resistance, pseudomembranous colitis, and hepatotoxicity Many strains of Haemophilus influenzae are resistant to erythromycin alone but are found to be susceptible to erythromycin and sulfonamides used in combination. It is important to note that Staphylococci that are resistant to erythromycin may emerge during erythromycin and/or sulfonamide therapy. 21 Pseudomembranous colitis has been reported with most antibacterial agents, including erythromycin, and may range in severity from mild to life-threatening. Therefore, the physician should consider this diagnosis in patients with diarrhea after the administration of antibacterial agents. 21 Erythromycin can cause hepatic dysfunction, cholestatic jaundice, and abnormal liver transaminases, particularly when erythromycin estolate is administered. 22
+
+## Mechanism Of Action
+
+23S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor
+
+## Absorption
+
+Orally administered erythromycin is readily absorbed. Food intake does not appear to exert effects on serum concentrations of erythromycin. 21 Some interindividual variation exists in terms of erythromycin absorption, which may impact absorption to varying degrees. 21 The Cmax of erythromycin is 1.8 mcg/L 15 and the Tmax is 1.2 hours. 19 The serum AUC of erythromycin after the administration of a 500mg oral dose was 7.3±3.9 mg.h/l in one pharmacokinetic study. 19 Erythromycin is well known for a bioavailability that is variable (18-45%) 6 , 14 after oral administration and its susceptibility to broken down under acidic conditions. 5
+
+## Volume Of Distribution
+
+Erythromycin is found in most body fluids and accumulates in leucocytes and inflammatory liquid. 21 , 5 , 19 Spinal fluid concentrations of erythromycin are low, however, the diffusion of erythromycin through the blood-brain barrier increases in meningitis, likely due to the presence of inflamed tissues which are easily penetrated. 22 Erythromycin crosses the placenta. 21
+
+## Metabolism
+
+Hepatic first-pass metabolism contributes significantly to erythromycin metabolism after an oral dose. 11 Erythromycin is partially metabolized by CYP3A4 enzyme to N-desmethylerythromycin. 21 , 8 Erythromycin is also hydrolyzed to anhydro forms (anhydroerythromycin [AHE] and other metabolites), and this process is promoted by acidic conditions. 5 AHE is inactive against microbes but inhibits hepatic drug oxidation and is therefore considered to be an important contributor to erythromycin drug-drug interactions. 5 Hover over products below to view reaction partners Erythromycin N-Desmethylerythromycin
+
+## Route Of Elimination
+
+In patients with normal liver function, erythromycin concentrates in the liver and is then excreted in the bile. 22 Under 5% of the orally administered dose of erythromycin is found excreted in the urine. 22 , 19 A high percentage of absorbed erythromycin is not accounted for, but is likely metabolized. 22
+
+## Half Life
+
+The elimination half-life of oral erythromycin was 3.5 hours according to one study 6 and ranged between 2.4-3.1 hours in another study. 15 Repetitive dosing of erythromycin leads to increased elimination half-life. 16
+
+## Clearance
+
+The clearance of erythromycin in healthy subjects was 0.53 ± 0.13 l/h/kg after a 125mg intravenous dose. 11 In a clinical study of healthy patients and patients with liver cirrhosis, clearance of erythromycin was significantly reduced in those with severe liver cirrhosis. 17 The clearance in cirrhotic patients was 42.2 ± 10.1 l h–1 versus 113.2 ± 44.2 l h-1 in healthy patients. 17
+
+## Toxicity
+
+LD50 The oral LD50 of erythromycin in rats is 9272 mg/kg. 23 Overdose information Symptoms of overdose may include diarrhea, nausea, stomach cramps, and vomiting. Erythromycin should immediately be discontinued in cases of overdose. Rapid elimination of unabsorbed drug should be attempted. Supportive measures should be initiated. Erythromycin is not adequately removed by peritoneal dialysis or hemodialysis. 21

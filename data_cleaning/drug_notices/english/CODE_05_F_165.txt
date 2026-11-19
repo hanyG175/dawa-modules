@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_F_165
+DCI: Acide Zoledronique Monohydrate Exprime En Acide Zoledronique | sodium chlorure
+DrugBank ID: DB00399
+DrugBank Name: Zoledronic acid
+Brand Names: ACLASTA | ZOLEDRIC | ZOLESTA | ZOLTONAR
+Pharmaceutical Forms: Solution
+Dosages: 5mg/100ml
+Packaging: b/01fl de 100ml | flacon/100ml
+Laboratories: SERB
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B05 - SUBSTITUTS DU SANG ET SOLUTIONS DE PERFUSION | B05X - ADDITIFS POUR SOLUTIONS INTRAVEINEUSES | B05XA - SOLUTIONS D'ELECTROLYTES | B05XA03 - SODIUM CHLORURE
+Registration Numbers: 068/05 F 165/14 | 380/05 F 165/21 | 433/05 F 165/20/25 | 521/05 F 165/18
+Drug Codes: 05 F 165
+
+------------------------------------------------------------
+
+## Description
+
+Zoledronic acid, or CGP 42'446, 8 is a third generation, nitrogen containing bisphosphonate similar to ibandronic acid , minodronic acid , and risedronic acid . 5 Zoledronic acid is used to treat and prevent multiple forms of osteoporosis, hypercalcemia of malignancy, multiple myeloma, bone metastases from solid tumors, and Paget’s disease of bone. 14 , 15 , 16 Zoledronic acid was first described in the literature in 1994. 8 Zoledronic acid was granted FDA approval on 20 August 2001. 14
+
+## Pharmacodynamics
+
+Zoledronic acid is a third generation, nitrogen containing bisphosphonate that inhibits osteoclast function and prevents bone resorption. 5 The therapeutic window is wide as patients are unlikely to suffer severe effects from overdoses and the duration of action is long. 14 , 15 , 16 Patients should be counselled regarding the risk of electrolyte deficiencies, renal impairment, osteonecrosis of the jaw, atypical femoral fractures, bronchoconstriction, hepatic impairment, hypocalcemia, and embryo-fetal toxicity. 14 , 15 , 16
+
+## Mechanism Of Action
+
+Geranylgeranyl pyrophosphate synthase Inhibitor Hydroxylapatite Antagonist Binder Farnesyl pyrophosphate synthase Inhibitor
+
+## Absorption
+
+A 4mg intravenous dose reaches a C max of 370±78.5ng/mL, with a T max of 0.317±0.014h, and an AUC of 788±181ng*h/mL. 4 A 5mg intravenous dose reaches a C max of 471±76.1ng/mL, with a T max of 0.368±0.005h, and an AUC of 917±226ng*h/mL. 4
+
+## Metabolism
+
+Zoledronic acid is not metabolized in vivio . 14 , 15 , 16
+
+## Route Of Elimination
+
+Zoledronic acid is 39 ± 16% eliminated in the urine as the unmetabolized parent drug. 14 , 15 , 16
+
+## Half Life
+
+Zoledronic acid has a terminal elimination half life of 146 hours. 14 , 15 , 16
+
+## Clearance
+
+Zoledronic acid has a renal clearance of 3.7 ± 2.0 L/h. 14 , 15 , 16
+
+## Toxicity
+
+Patients experiencing an overdose may present with renal impairment, hypocalcemia, hypophosphatemia, and hypomagnesemia. 14 , 15 , 16 Overdose should be managed through intravenous administration of the insufficient ions. 14 , 15 , 16

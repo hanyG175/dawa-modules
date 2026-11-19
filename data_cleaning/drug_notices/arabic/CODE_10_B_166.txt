@@ -1,0 +1,33 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_166
+DCI (Arabic): كربونات الكالسيوم و كربونات المغنيسيوم
+DCI: ACIDE FOLINIQUE (sel de calcium) 25 mg/10 ml sol inj (FOLINATE DE CALCIUM ZENTIVA)
+Brand Names: RENNIE
+Pharmaceutical Forms: Comprimé
+Dosages: 680mg/80mg
+Packaging: b/48
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AF - MEDICAMENTS DETOXIFIANTS DANS UN TRAITEMENT CYTOSTATIQUE | V03AF03 - CALCIUM FOLINATE
+Registration Numbers: 657/10 B 166/07/25
+Drug Codes: 10 B 166
+
+------------------------------------------------------------
+
+## Indications
+
+يستخدم كمضاد للحموضة لتخفيف أعراض : عسر الهضم القرحة المعديةِ مرض الجزر المعدي المريئي (الارتجاع المريئي ).
+
+## Contraindications
+
+يمنع استخدامه في المرضى الذين أظهروا فرط الحساسية للعلاج أو لأي مكون آخر من مكونات العلاج.
+يجب استشارة ب أو الصيدلاني قبل تناول العلاج في حالة وجود حمل او الرضاعة.
+
+## Interactions
+
+قد تؤثر مضادات الحموضة على عدد مِنْ الأدويةِ الأخرى التي تأَخذْ عن طريق الفَم، لتَفادي هذه المشكلة يفْضلَ ترك ساعتين على الأقل بين وقت تناول مضادات الحموضة و بين الأدويةِ الأخرى .
+
+## Mechanism Of Action
+
+من مضادات الحموضة، يعادل حمض حمض الهيدروكلوريك الذي تفرزه المعدة مما يخفف من أعراض فرط الحموضة المعدية.

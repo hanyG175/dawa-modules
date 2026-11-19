@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_P_346
+DCI: Liraglutide
+DrugBank ID: DB06655
+DrugBank Name: Liraglutide
+Brand Names: VICTOZA
+Pharmaceutical Forms: Solution
+Dosages: 6mg/ml
+Packaging: b/02 stylos de 3ml
+Laboratories: SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. | POLARISAVENUE 87 | 2132JH, HOOFDDORP | PAYS-BAS
+ATC Classification: A10BJ02
+Registration Numbers: 069/14 P 346/14/24
+Drug Codes: 14 P 346
+
+------------------------------------------------------------
+
+## Description
+
+Victoza contains liraglutide, a synthetic analog of human glucagon-like peptide-1(GLP-1) and acts as a GLP-1 receptor agonist. Label , 1 Liraglutide is 97% similar to native human GLP-1, differing primarily by substituting arginine for lysine at position 34. 1 Liraglutide is made by attaching a C-16 fatty acid (palmitic acid) with a glutamic acid spacer on the remaining lysine residue at position 26 of the peptide precursor. 1 Liraglutide was granted FDA approval on January 25, 2010. 4
+
+## Pharmacodynamics
+
+Liraglutide is a once-daily GLP-1 derivative for the treatment of type 2 diabetes Label , 2 . The prolonged action of liraglutide is achieved by attaching a fatty acid molecule at position 26 of the GLP-1 molecule, enabling it to bind reversibly to albumin within the subcutaneous tissue and bloodstream and be released slowly over time Label , 2 , 3 . Binding with albumin results in slower degradation and reduced elimination of liraglutide from the circulation by the kidneys compared to GLP-1 2 , 3 . The effect of liraglutide is the increased secretion of insulin and decreased secretion of glucagon in response to glucose as well as slower gastric emptying Label . Liraglutide also does not adversely affect glucagon secretion in response to low blood sugar Label , 2 .
+
+## Mechanism Of Action
+
+Glucagon-like peptide 1 receptor Agonist
+
+## Absorption
+
+Bioavailability of liraglutide after subcutaneous injection is approximately 55% Label and maximum concentrations are reached after 11.7 hours 1 .
+
+## Volume Of Distribution
+
+13L Label .
+
+## Metabolism
+
+Liraglutide is less sensitive to metabolism than the endogenous GLP-1 and so is more slowly metabolized by dipeptidyl peptidase-4 and neutral endopeptidase to various smaller polypeptides which have not all been structurally determined 1 . A portion of Liraglutide may be completely metabolized to carbon dioxide and water 1 .
+
+## Route Of Elimination
+
+6% excreted in urine and 5% excreted in feces 1 .
+
+## Half Life
+
+Terminal half life of 13 hours 1 .
+
+## Clearance
+
+1.2L/h Label .
+
+## Toxicity
+
+There is no clinical significance of race or ethnicity on the safety or efficacy of liraglutide Label . Geriatric patients do not experience clinically significant differences in pharmacokinetics though patients at an especially advanced age may be more susceptible to adverse effects Label . Female patients have reduced clearance of liraglutide but no dose adjustment is necessary Label . The risk and benefit of liraglutide in pregnancy must be weighed before prescribing Label . In animal studies, liraglutide is associated with an increased risk of embryonic death and fetal abnormalities though an HbA1c > 7 is also associated with a 20-25% risk of birth defects Label . In animal studies, liraglutide is present in the milk of lactating rats at half the plasma concentration of the mother but these results may not translate to humans Label . Because it is not known if liraglutide is present in breast milk and the effects on infants are also unknown, the risk and benefit of liraglutide in breastfeeding must be considered before prescribing Label . Liraglutide was shown to be safe and effective in patients up to 160kg in weight but has not been studied in patients at a higher weight Label . A patient's weight significantly affects the pharmacokinetics of liraglutide Label . Liraglutide has not been investigated for use in pediatric patients Label . No dosage adjustments are necessary in patients with renal impairment but studies have not been performed in patients with end stage renal disease Label . There are no recommendations on dosage adjustment in patients with hepatic impairment, though caution should still be exercised when prescribing to this population Label .

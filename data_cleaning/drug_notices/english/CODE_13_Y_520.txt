@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_Y_520
+DCI: Daptomycine
+DrugBank ID: DB00080
+DrugBank Name: Daptomycin
+Brand Names: DAPTOCIN
+Pharmaceutical Forms: Poudre
+Dosages: 350mg
+Packaging: flacon/15ml
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: J01XX09
+Registration Numbers: 176/13 Y 520/24
+Drug Codes: 13 Y 520
+
+------------------------------------------------------------
+
+## Indications
+
+Daptomycin is indicated for the treatment of complicated skin and skin structure infections (cSSSI) in patients one year of age and older. It is also indicated for the treatment of Staphylococcus aureus bloodstream infections (bacteremia) in patients one year of age and older, including in adult patients with right-sided infective endocarditis. 21 Daptomycin is not indicated for the treatment of pneumonia or left-sided infective endocarditis due to S. aureus . Use is not recommended in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/
+
+## Pharmacodynamics
+
+Daptomycin is a cyclic lipopeptide antibacterial agent produced as a fermentation product by the soil microbe Streptomyces roseosporus . The daptomycin core consists of 13 amino acids, including three D-amino acids, ornithine, 3-methyl-glutamic acid, and kynurenine, with the C-terminal 10 amino acids forming an ester-linked ring and the N-terminal tryptophan covalently bonded to decanoic acid. 6 , 21 Daptomycin is active against aerobic Gram-positive bacteria, including clinically relevant strains such as methicillin-susceptible and -resistant Staphylococcus aureus (MSSA/MRSA), vancomycin-resistant S. aureus , vancomycin-resistant Enterococci (VRE), Staphylococcus spp., Streptococcus spp., Clostridiodes difficile , Clostridium perfringens , Finegoldia magna , and Propionibacterium acnes , among others. 7 , 8 , 21 Although daptomycin is active against Streptococcus pneumoniae in vitro , it is inhibited by lung surfactant, and hence is not effective for the treatment of pneumonia or other similar lung infections. 7 , 9 , 21 Daptomycin exhibits rapid concentration-dependent bactericidal activity in vitro , which correlates best with the ratio of the area under the concentration-time curve to the minimum inhibitory concentration (AUC/MIC) in animal models of infection. 21 Like other antibacterial agents, daptomycin carries a risk of severe hypersensitivity reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). There have been reports of myopathy, rhabdomyolysis, and increased creatine phosphokinase (CPK) levels in patients taking daptomycin, which increased when daptomycin was given more than once per day. Patients should be monitored for CPK levels and, in those with renal impairment, renal function, at least once per week and should consider temporarily suspending the use of HMG-CoA reductase inhibitors. Daptomycin should not be administered more than once per day. Severe adverse reactions such as tubulointerstitial nephritis and peripheral neuropathy have been reported, which may require treatment discontinuation. Based on animal studies, patients less than one year of age may experience serious muscular, neuromuscular, and nervous system effects; daptomycin is not recommended for use in patients under one year of age. Patients undergoing daptomycin treatment may experience eosinophilic pneumonia and Clostridioides difficile -associated diarrhea, both of which may require the cessation of antibacterial treatment and initiation of symptomatic/supportive measures. Persisting or relapsing S. aureus bacteremia and endocarditis should be investigated for sequestered foci of infection and the possibility of daptomycin resistance; the dose or treatment regimen may require adjusting. Patients with moderate to severe renal impairment (creatine clearance < 50 mL/min) experienced reduced clinical benefit from daptomycin treatment based on limited data. Clinically relevant daptomycin plasma concentrations have significantly affected prothrombin time and International Normalized Ratio (INR) measurements. As with all antibiotics, daptomycin use may promote the overgrowth of non-susceptible organisms and the development of resistant organisms; daptomycin use should be limited to cases where it is proven or strongly suspected that an infection is caused by susceptible bacteria. 21
+
+## Mechanism Of Action
+
+Cytoplasmic membrane (Bacteria) Incorporation into and destabilization
+
+## Absorption
+
+Daptomycin administered as a 30 minute IV infusion to healthy volunteers in doses of 4, 6, 8, 10, and 12 mg/kg once daily resulted in a C max between 57.8 ± 3.0 and 183.7 ± 25.0 μg/mL and an AUC 0-24 of between 494 ± 75 and 1277 ± 253 μg*h/mL. 16 , 21 Daptomycin pharmacokinetics are generally linear, with some variation observed above 6 mg/kg, and the C max and AUC values are approximately 20% higher at steady-state, suggesting some accumulation. 16 Steady-state trough concentrations between 5.9 ± 1.6 and 13.7 ± 5.2 μg/mL are reached following the third once-daily dose. 21 The data for a single daptomycin dose of 6 mg/kg administered IV over 30 minutes was used to estimate steady-state C max values for both 4 and 6 mg/kg doses administered over two minutes, which were estimated at 77.7 ± 8.1 and 116.6 ± 12.2 μg/mL, respectively. Administration of IV daptomycin (4 or 6 mg/kg) over two minutes did not allow for measurement of the C max but resulted in steady-state AUC values of 475 ± 71 and 701 ± 82 μg*h/mL. 21 Patients with severe renal impairment and those on dialysis had mean steady-state AUC values approximately 2-3 times higher than those with normal renal function. No clinically significant differences in daptomycin pharmacokinetics were observed in patients with mild to moderate hepatic impairment. The mean AUC 0-∞ obtained in healthy elderly individuals (75 years of age and older) was approximately 58% higher than in healthy young adult controls, with no difference in C max . The AUC 0-∞ is also increased in obese patients by approximately 30%. No significant differences in body weight- and age-adjusted C max or AUC was observed in pediatric patients. 21
+
+## Volume Of Distribution
+
+Daptomycin has a very small volume of distribution, averaging ~0.1 L/kg in healthy adult subjects independent of dose. 16 , 21 The volume of distribution tends to increase with decreasing renal function, being estimated at ~0.2 L/kg in patients with severe renal impairment. 21
+
+## Metabolism
+
+Radiolabeled daptomycin administered to five healthy adults revealed the presence of inactive metabolites in the urine. A separate study using 6 mg/kg daptomycin in healthy adults revealed small amounts of three oxidative and one unidentified metabolite(s) in urine but not in plasma. 21 The site of metabolism is unclear, as studies using human hepatocytes suggest that daptomycin effectively does not interact at all with the various CYP450 enzymes present in the liver. 17 , 21
+
+## Route Of Elimination
+
+Daptomycin is excreted primarily by the kidneys, approximately 78% of an administered dose recovered in urine and only 5.7% recovered in feces. 16 , 21 Approximately 52% of the dose, recovered in urine, retains microbiological activity. 21
+
+## Half Life
+
+Daptomycin has a relatively long half-life, with ranges of 7.5-9 hours depending on dosing schemes and dose strength. 16 , 21 The half-life lengthens in patients with increasing renal impairment, being 27.83 ± 14.85 hours in patients with creatinine clearance <30 mL/min, 30.51 ± 6.51 hours in hemodialysis patients, and 27.56 ± 4.53 hours in continuous ambulatory peritoneal dialysis (CAPD) patients. Daptomycin half-life also tends to decrease with decreasing age. 21
+
+## Clearance
+
+Daptomycin administered as a 30 minute IV infusion to healthy volunteers in doses of 4, 6, 8, 10, and 12 mg/kg once daily resulted in total plasma clearance values between 7.2 ± 1.1 and 9.6 ± 1.3 mL/h/kg, with no clear dose association. 16 , 21 As daptomycin is primarily renally excreted, patients with mild, moderate, and severe renal impairment had reduced total plasma clearance 9, 22, and 46 percent lower than healthy controls, respectively. Daptomycin clearance was also lower in obese (15-23%) and geriatric (aged 75 and older, by 35%) patients, whereas it tended to be higher in pediatric patients, even when normalized for body weight. 21
+
+## Toxicity
+
+Toxicity information regarding daptomycin is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as myopathy, rhabdomyolysis, muscular/neurological system symptoms, eosinophilic pneumonia, tubulointerstitial nephritis, vomiting/diarrhea, abdominal pain, headache, dizziness, pyrexia, sweating, and pruritus. Symptomatic and supportive measures are recommended, including maintenance of glomerular filtration. Due to its high serum protein binding, daptomycin is not easily removed by hemodialysis (~15% of a dose over four hours) or peritoneal dialysis (~11% of a dose over 48 hours). High-flux membranes in hemodialysis may improve the quantity of daptomycin removed using this approach. 21

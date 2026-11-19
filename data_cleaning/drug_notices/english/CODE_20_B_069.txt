@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_B_069
+DCI: Codeine
+DrugBank ID: DB00318
+DrugBank Name: Codeine
+Brand Names: NEO-CODION
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/20
+Laboratories: biogaran | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: N02BE51
+Registration Numbers: 269/20 B 069/99/16
+Drug Codes: 20 B 069
+
+------------------------------------------------------------
+
+## Description
+
+The relief of pain (analgesia) is a primary goal for enhancing the quality of life of patients and for increasing the ability of patients to engage in day to day activities. Codeine, an opioid analgesic, was originally approved in the US in 1950 and is a drug used to decrease pain by increasing the threshold for pain without impairing consciousness or altering other sensory functions. Opiates such as codeine are derived from the poppy plant, Papaver somniferum (Papaveraceae). 4 Codeine is utilized as a central analgesic, sedative, hypnotic, antinociceptive, and antiperistaltic agent, and is also recommended in certain diseases with incessant coughing. Label , 4
+
+## Pharmacodynamics
+
+General effects Codeine is a weak narcotic pain reliever and cough suppressant that is similar to morphine and hydrocodone. A small amount of ingested codeine is converted to morphine in the body. Codeine increases tolerance to pain, reducing existing discomfort. In addition to decreasing pain, codeine also causes sedation, drowsiness, and respiratory depression 4 . Antitussive activity This drug has shown antitussive activity in clinical trials 6 and has been effective in cough secondary to tuberculosis and insomnia due to coughing 4 . Codeine suppresses the cough reflex through a direct effect on the cough center in the medulla 18 . Effects on intestinal motility Codeine may reduce intestinal motility through both a local and possibly central mechanism of action 19 . This may possibly lead to constipation 18 . The chronic use of opioids, including codeine sulfate, may lead to obstructive bowel disease, particularly in patients with underlying disorders of intestinal motility Label . Effects on the central nervous system Codeine phosphate is an opioid analgesic with uses similar to those of morphine, but is much less potent as an analgesic. Its primary site of action is at the mu opioid receptors distributed throughout the central nervous system. The sedative activities of codeine are less potent than those of morphine 18 . Codeine may cause respiratory system depression by the activation of μ-opioid receptors at specific sites in the central nervous system 8 . Effects on blood pressure This drug poses an increased risk of compromised ability to maintain blood pressure due to peripheral vasodilation and other mechanisms Label . Effects on chronic cancer pain and other types of pain Codeine is an opioid analgesic with similar indications to those of morphine, however, is much less potent in its pain alleviating properties. Its primary action takes place at the mu opioid receptors, which are distributed throughout the central nervous system. The average duration of action is about 4 hours 18 . Regular dosing of opioid analgesics such as codeine in patients with severe cancer pain has been well documented to improve symptoms 4 , 7 .
+
+## Mechanism Of Action
+
+Mu-type opioid receptor Agonist Regulator Kappa-type opioid receptor Agonist Delta-type opioid receptor Agonist
+
+## Absorption
+
+Absorption Codeine is absorbed from the gastrointestinal tract. The maximum plasma concentration occurs 60 minutes after administration Label . Food Effects When 60 mg codeine sulfate was given 30 minutes post-ingestion of a high high-calorie meal, there was no significant change in the absorption of codeine Label . Steady-state concentration The administration of 15 mg codeine sulfate every 4 hours for 5 days lead to steady-state concentrations of codeine, morphine, morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G) within 48 hours Label .
+
+## Volume Of Distribution
+
+Apparent volume of distribution: about 3-6 L/kg, showing an extensive distribution of the drug into tissues Label .
+
+## Metabolism
+
+Approximately 70 to 80% of the ingested dose of codeine is metabolized in the liver by conjugation with glucuronic acid to codeine-6­ glucuronide (C6G) and by O-demethylation to morphine (about 5-10%) and N-demethylation to norcodeine (about 10%) respectively. UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major metabolic enzymes mediating the glucurodination of codeine to the metabolite, codeine 6 glucuronide . Cytochrome P450 2D6 is the major enzyme responsible for the transformation of codeine to morphine and P450 3A4 is the main enzyme mediating the conversion of codeine to norcodeine . Morphine and norcodeine are then further metabolized by conjugation with glucuronic acid. The glucuronide metabolites of morphine are morphine-3-glucuronide (M3G) and_ morphine-6-glucuronide _(M6G). Morphine and M6G have been proven to have analgesic activity in humans. The analgesic activity of C6G in humans is not known at this time. Norcodeine and M3G are generally not considered to have analgesic properties Label . Hover over products below to view reaction partners Codeine norcodeine Codeine-6-glucuronide Morphine morphine 3 glucuronide + morphine 6 glucuronide
+
+## Route Of Elimination
+
+About 90% of the total dose of codeine is excreted by the kidneys. Approximately 10% of the drug excreted by the kidneys is unchanged codeine Label . The majority of the excretion products can be found in the urine within 6 hours of ingestion, and 40-60 % of the codeine is excreted free or conjugated, approximately 5 to 15 percent as free and conjugated morphine, and approximately 10-20% free and conjugated norcodeine 18 .
+
+## Half Life
+
+Plasma half-lives of codeine and its metabolites have been reported to be approximately 3 hours Label .
+
+## Clearance
+
+Renal clearance of codeine was 183 +/- 59 ml min-1 in a clinical study 5 . Renal impairment may decrease codeine clearance Label .
+
+## Toxicity
+
+Oral LD50 : 427 mg kg-1 (rat) MSDS . Overdose/toxicity Symptoms of opioid toxicity may include confusion, somnolence, shallow breathing, constricted pupils, nausea, vomiting, constipation and a lack of appetite. In severe cases, symptoms of circulatory and respiratory depression may ensue, which may be life-threatening or fatal 13 , Label . Teratogenic effects This drug is classified as a pregnancy Category C drug. There are no adequate and well-controlled studies completed in pregnant women. Codeine should only be used during pregnancy if the potential benefit outweighs the potential risk of the drug to the fetus Label . Codeine has shown embryolethal and fetotoxic effects in the hamster, rat as well as mouse models at about 2-4 times the maximum recommended human dose Label . Maternally toxic doses that were about 7 times the maximum recommended human dose of 360 mg/day, were associated with evidence of bone resorption and incomplete bone ossification. Codeine did not demonstrate evidence of embrytoxicity or fetotoxicity in the rabbit model at doses up to 2 times the maximum recommended human dose of 360 mg/day based on a body surface area comparison Label . Nonteratogenic effects Neonatal codeine withdrawal has been observed in infants born to addicted and non-addicted mothers who ingested codeine-containing medications in the days before delivery. Common symptoms of narcotic withdrawal include irritability, excessive crying, tremors, hyperreflexia, seizures, fever, vomiting, diarrhea, and poor feeding. These signs may be observed shortly following birth and may require specific treatment Label . Codeine (30 mg/kg) given subcutaneously to pregnant rats during gestation and for 25 days after delivery increased the rate of neonatal mortality at birth. The dose given was 0.8 times the maximum recommended human dose of 360 mg/day Label . The use in breastfeeding/nursing Codeine is secreted into human milk. The maternal use of codeine can potentially lead to serious adverse reactions, including death, in nursing infants Label .

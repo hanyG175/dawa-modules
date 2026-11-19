@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_216
+DCI: Ascorbate De Sodium/Glutamate De Sodium/Chlorhydrate De Lysine/Aspartate De Magnesium
+DrugBank ID: DB14482
+DrugBank Name: Sodium ascorbate
+Brand Names: TONI C 1000
+Pharmaceutical Forms: Amp.Buv.
+Dosages: 1g/250mg/100mg/100mg
+Packaging: b/20 ampoule. de 5ml
+Registration Numbers: 079/14 H 216/04
+Drug Codes: 14 H 216
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as butenolides. These are dihydrofurans with a carbonyl group at the C2 carbon atom.

@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_106
+DCI: TICLOPIDINE CHLORHYDRATE 250 mg cp (TICLOPIDINE ARROW)
+DrugBank ID: DB00208
+DrugBank Name: Ticlopidine
+Brand Names: TICLID
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/20
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AC - INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, HEPARINE EXCLUE | B01AC05 - TICLOPIDINE
+Registration Numbers: 376/06 J 106/97/16
+Drug Codes: 06 J 106
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Ticlopidine is a prodrug that is metabolised to an as yet undetermined metabolite that acts as a platelet aggregation inhibitor. Inhibition of platelet aggregation causes a prolongation of bleeding time. In its prodrug form, ticlopidine has no significant in vitro activity at the concentrations attained in vivo.
+
+## Mechanism Of Action
+
+P2Y purinoceptor 12 Antagonist
+
+## Absorption
+
+Absorption is greater than 80%. Food increases absorption by approximately 20%.
+
+## Volume Of Distribution
+
+The volume of distribution was not quantified.
+
+## Metabolism
+
+Ticlopidine is metabolized extensively by the liver with only trace amounts of intact drug detected. At least 20 metabolites have been identified. Hover over products below to view reaction partners Ticlopidine 2-Chloroticlopidine 2-Oxoticlopidine Active metabolite of Ticlopidine Thienodihydropyridinium Ticlopidine lactam analog (M8) Thienopyridinium Ticlopidine S-oxide Ticlopidine S-oxide dimer Dehydrogenated ticlopidine Ticlopidine N-oxide di-Hydroxyticlopidine 7-Hydroxyticlopidine
+
+## Route Of Elimination
+
+Ticlopidine is eliminated mostly in the urine (60%) and somewhat in the feces (23%).
+
+## Half Life
+
+Half-life following a single 250-mg dose is approximately 7.9 hours in subjects 20 to 43 years of age and 12.6 hours in subjects 65 to 76 years of age. With repeated dosing (250 mg twice a day), half-life is about 4 days in subjects 20 to 43 years of age and about 5 days in subjects 65 to 76 years of age.
+
+## Clearance
+
+Ticlopidine clearance was not quantified, but clearance decreases with age.
+
+## Toxicity
+
+Single oral doses of ticlopidine at 1600 mg/kg and 500 mg/kg were lethal to rats and mice, respectively. Symptoms of acute toxicity were GI hemorrhage, convulsions, hypothermia, dyspnea, loss of equilibrium and abnormal gait. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.

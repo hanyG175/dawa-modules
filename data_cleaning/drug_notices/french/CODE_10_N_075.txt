@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_N_075
+DCI: MESALAZINE 500 mg cp LP (PENTASA) | Mesalazine
+Brand Names: LANVASA | MELAZA | PENTASA
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 500mg
+Packaging: b/100 | b/90 | boite de 90
+Laboratories: FERRING S.A.S | 7, RUE JEAN BAPTISTE CLEMENT | 94 250 - GENTILLY
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07E - ANTIINFLAMMATOIRES INTESTINAUX | A07EC - ACIDE AMINOSALICYLIQUE ET ANALOGUES | A07EC02 - MESALAZINE
+Registration Numbers: 263/10 N 075/17 | 275/10 N 075/03/15 | 571/10 N 075/22
+Drug Codes: 10 N 075
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | suppositoire | mésalazine : 1 g | Modalités d'administration | Voie rectale | Administrer de préférence le soir au coucher | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Rectocolite hémorragique, traitement des poussées (de la) | Posologie standard | 1 suppositoire 1 fois par jour | Pendant 2 à 4 semaines
+
+## Precautions
+
+Allaitement | Asthme | Enfant de moins de 15 ans | Grossesse | Hypovolémie | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Pneumopathie | Réaction indésirable après administration de sulfasalazine, antécédent
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Mésalazine : Mécanisme d'action | Il a été montré que les patients atteints de RCH les plus à risque de développer un cancer colorectal sont ceux ayant une colite ancienne (plus de huit ans d'évolution), des lésions de colite étendue (atteignant ou dépassant le côlon gauche), une cholangite sclérosante primitive associée ou un antécédent familial au premier degré de cancer colique. | Une méta-analyse de 9 études d'observation (3 études de cohorte et 6 études cas-témoin), ayant inclus 334 cas de cancer colorectal et 140 cas de dysplasie pour un total de 1932 patients atteints de RCH, a montré que le risque de cancer colorectal était d'environ 50 % plus faible chez les patients prenant régulièrement de l'acide 5-aminosalicylique (5-ASA) que chez ceux prenant du 5-ASA de manière irrégulière ou n'en prenant pas. La réduction du risque de cancer colorectal par le 5-ASA, si elle est confirmée, mettrait en jeu à la fois des mécanismes liés aux propriétés anti-inflammatoires et aux propriétés antitumorales intrinsèques de la molécule.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Amylasémie (augmentation) (Rare) | - Transaminases (augmentation) (Très rare) | - Protéine C-réactive (augmentation) | - Neutropénie | - Phosphatases alcalines (augmentation) | - Eosinophilie | - Gamma GT (augmentation) | - Granulopénie | - Bilirubinémie (augmentation) | DERMATOLOGIE: | - Erythème cutané (Fréquent) | - Prurit (Peu fréquent) | - Eruption cutanée (Fréquent) | - Exanthème (Très rare) | - Dermatite allergique (Très rare) | - Erythème polymorphe (Très rare) | - Alopécie (Très rare) | - Photosensibilisation (Rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Rash érythémateux | - Eczéma | - Dermatite atopique | - Exanthème allergique | - Urticaire | DIVERS: | - Fièvre d'origine médicamenteuse | - Douleur thoracique | - Frisson | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Formule sanguine (anomalie) (Très rare) | - Aplasie médullaire | - Leucopénie | - Agranulocytose | - Pancytopénie | - Thrombopénie | - Atteinte hématologique | HÉPATOLOGIE: | - Hépatite cholestatique (Très rare) | - Hépatite (Très rare) | - Insuffisance hépatique (Très rare) | - Cholestase (Très rare) | IMMUNO-ALLERGOLOGIE: | - Lupus érythémateux (Très rare) | - Hypersensibilité (Très rare) | - Syndrome lupique | - Réaction anaphylactique | - Syndrome DRESS | ORL, STOMATOLOGIE: | - Acouphène (Peu fréquent) | - Vertige (Rare) | - Sensation de vertige (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Myocardite (Rare) | - Péricardite (Rare) | SYSTÈME DIGESTIF: | - Distension abdominale (Fréquent) | - Douleur abdominale (Fréquent) | - Gêne anale (Fréquent) | - Nausée (Fréquent) | - Prurit anal (Fréquent) | - Vomissement (Fréquent) | - Ténesme rectal (Fréquent) | - Dyspepsie (Fréquent) | - Irritation périanale (Fréquent) | - Diarrhée (Fréquent) | - Flatulence (Fréquent) | - Pancolite (Très rare) | - Pancréatite aiguë (Rare) | - Constipation (Rare) | - Intolérance rectale | - Rectocolite hémorragique (aggravation) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très rare) | - Douleur articulaire (Très rare) | SYSTÈME NERVEUX: | - Paresthésie (Peu fréquent) | - Neuropathie périphérique (Très rare) | - Céphalée (Rare) | - Hypertension intracrânienne | SYSTÈME RESPIRATOIRE: | - Alvéolite pulmonaire (Très rare) | - Pneumopathie d'hypersensibilité (Très rare) | - Pneumopathie (Très rare) | - Fibrose pulmonaire (Très rare) | - Toux | - Dyspnée | - Infiltration pulmonaire | - Bronchospasme | - Eosinophilie pulmonaire | - Pleurésie | - Alvéolite allergique | - Pneumopathie interstitielle | - Pneumonie | UROLOGIE, NÉPHROLOGIE: | - Couleur de l'urine (modification) (Très rare) | - Atteinte de la fonction rénale (Très rare) | - Syndrome néphrotique (Très rare) | - Oligospermie (Très rare) | - Néphropathie tubulo-interstitielle (Exceptionnel) | - Insuffisance rénale | - Néphropathie interstitielle chronique | - Néphropathie interstitielle aiguë | - Lithiase urinaire

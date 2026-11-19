@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_D_043
+DCI: LEFLUNOMIDE 20 mg cp (LEFLUNOMIDE BIOGARAN)
+Brand Names: ARAVA | BIORAVA
+Pharmaceutical Forms: Comprimé
+Dosages: 20mg
+Packaging: b/30
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AK - INHIBITEURS DE LA DIHYDROOROTATE DESHYDROGENASE | L04AK01 - LEFLUNOMIDE
+Registration Numbers: 230/21 D 043/03 | 293/21 D 043/19
+Drug Codes: 21 D 043
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | léflunomide : 20 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Polyarthrite rhumatoïde, traitement de fond (de la) | Traitement initial | Utiliser le dosage le plus adapté à la posologie | 100 mg 1 fois par jour | Pendant 3 jours | Traitement d'entretien | Tenir compte du délai d'action du traitement | Utiliser une forme sécable si nécessaire | 10 à 20 mg 1 fois par jour | Rhumatisme psoriasique | Traitement initial | Utiliser le dosage le plus adapté à la posologie | 100 mg 1 fois par jour | Pendant 3 jours | Traitement d'entretien | Tenir compte du délai d'action du traitement | 20 mg 1 fois par jour
+
+## Precautions
+
+Anémie | Femme susceptible d'être enceinte | Homme en âge de procréer | Hypoprotéinémie | Insuffisance médullaire | Intervention chirurgicale | Leucopénie | Partenaire enceinte ou susceptible de l'être | Pneumopathie interstitielle, antécédent (de) | Sujet de moins de 18 ans | Sujet présentant une réaction positive à la tuberculine | Thrombopénie | Tuberculose, antécédent
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Léflunomide : Mécanisme d'action | Le métabolite actif du léflunomide, l'A 77 1726, inhibe l'enzyme humaine dihydro-orotate déshydrogénase (DHODH) et a une action antiprolifératrice. | Le léflunomide est efficace dans les modèles animaux d'arthrite, ainsi que dans des maladies auto-immunes et en transplantation, principalement s'il est administré en phase de sensibilisation. Il présente des caractéristiques immunomodulatrices/immunosuppressives, se comporte comme un agent antiprolifératif et possède des propriétés anti-inflammatoires. Dans les modèles animaux, le léflunomide a montré les meilleurs effets protecteurs vis-à-vis des maladies auto-immunes quand il était administré à la phase précoce de progression de la maladie.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypophosphatémie (Peu fréquent) | - CPK (augmentation) (Fréquent) | - Hyperlipidémie (Peu fréquent) | - Test hépatique augmenté (Fréquent) | - Hypokaliémie (Peu fréquent) | - LDH (augmentation) (Rare) | - Eosinophilie (Rare) | - Uricémie (diminution) | - Phosphatases alcalines (augmentation) | - Gamma GT (augmentation) | - Mobilité des spermatozoïdes diminuée | - Bilirubinémie (augmentation) | - Transaminases (augmentation) | - ALAT (augmentation) | CANCEROLOGIE: | - Cancer | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Alopécie (Fréquent) | - Sécheresse cutanée (Fréquent) | - Prurit (Fréquent) | - Eczéma (Fréquent) | - Eruption cutanée (Fréquent) | - Syndrome de Stevens-Johnson (Très rare) | - Syndrome de Lyell (Très rare) | - Erythème polymorphe (Très rare) | - Eruption maculopapuleuse | - Psoriasis (aggravation) | - Ulcère cutané | - Psoriasis pustuleux | DIVERS: | - Asthénie (Fréquent) | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Leucopénie (Fréquent) | - Thrombopénie (Peu fréquent) | - Agranulocytose (Très rare) | - Pancytopénie (Rare) | - Syndrome lymphoprolifératif | - Atteinte hématologique | HÉPATOLOGIE: | - Cholestase (Rare) | - Hépatopathie sévère (Très rare) | - Ictère (Rare) | - Hépatite (Rare) | - Insuffisance hépatique aiguë | - Nécrose hépatique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde (Très rare) | - Lupus érythémateux cutané | - Résistance aux infections (diminution) | - Syndrome DRESS | INFECTIOLOGIE NON PRECISÉE: | - Infection (Rare) | - Sepsis sévère | - Infection opportuniste | - Susceptibilité aux infections augmentée | NUTRITION, MÉTABOLISME: | - Anorexie (Fréquent) | - Poids (diminution) (Fréquent) | ORL, STOMATOLOGIE: | - Dysgueusie (Peu fréquent) | - Sensation de vertige (Fréquent) | - Atteinte de la muqueuse buccale (Fréquent) | - Aphte (Fréquent) | - Stomatite aphteuse | - Rhinite | PSYCHIATRIE: | - Anxiété (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Pression artérielle (augmentation) (Fréquent) | - Vascularite (Très rare) | - Hypertension artérielle (Rare) | - Vascularite nécrosante | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Colite (Fréquent) | - Pancréatite (Très rare) | - Colite collagène | - Colite lymphocytaire | - Colite microscopique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Ténosynovite (Fréquent) | - Rupture de tendon (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Neuropathie périphérique (Fréquent) | - Paresthésie (Fréquent) | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle (Rare) | - Bronchite | - Hypertension pulmonaire | - Pneumonie | UROLOGIE, NÉPHROLOGIE: | - Oligospermie | - Azoospermie | - Insuffisance rénale

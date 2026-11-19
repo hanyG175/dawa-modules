@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_G_014
+DCI: Valerate D'Estradiol
+DrugBank ID: DB13956
+DrugBank Name: Estradiol valerate
+Brand Names: PROGYNOVA 21
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/21
+Registration Numbers: 627/09 G 014/97/24
+Drug Codes: 09 G 014
+
+------------------------------------------------------------
+
+## Description
+
+Estradiol Valerate (also known as E2V) is a pro-drug ester of Estradiol , a naturally occurring hormone that circulates endogenously within the human body. Estradiol is the most potent form of all mammalian estrogenic steroids and acts as the major female sex hormone. As a pro-drug of estradiol, estradiol acetate therefore has the same downstream effects within the body through binding to the Estrogen Receptor (ER) including ERα and ERβ subtypes, which are located in various tissues including in the breasts, uterus, ovaries, skin, prostate, bone, fat, and brain. Estradiol is commonly produced with an ester side-chain as endogenous estradiol has very low oral bioavailability on its own (2-10%). First-pass metabolism by the gut and the liver quickly degrades the estradiol molecule before it gets a chance to enter systemic circulation and exert its estrogenic effects 9 . Esterification of estradiol aims to improves absorption and bioavailability after oral administration (such as with Estradiol valerate) or to sustain release from depot intramuscular injections (such as with Estradiol Cypionate) through improved lipophilicity. Following absorption, the esters are cleaved, resulting in the release of endogenous estradiol, or 17β-estradiol. Ester pro-drugs of estradiol are therefore considered to be bioidentical forms of estrogen 12 . Estradiol valerate is commercially available as an intramuscular injection as the product Delestrogen and is indicated for the treatment of moderate to severe vasomotor symptoms and vulvovaginal atrophy due to menopause, for the treatment of hypoestrogenism due to hypogonadism, castration or primary ovarian failure, and for the treatment of advanced androgen-dependent carcinoma of the prostate (for palliation only). Estradiol valerate is also available in combination with Dienogest as the commercially available product Natazia used for the prevention of pregnancy and for the treatment of heavy menstrual bleeding. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle. However, after menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone by peripheral tissues. Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women Label . Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol at the receptor level. Because of the difference in potency between estradiol and estrone, menopause (and a change in primary hormone from estradiol to estrone) is associated with a number of symptoms associated with this reduction in potency and in estrogenic effects. These include hot flashes, vaginal dryness, mood changes, irregular menses, chills, and sleeping problems. Administration of synthetic and bioidentical forms of estrogen, such as estradiol valerate, has shown to improve these menopausal symptoms.
+
+## Pharmacodynamics
+
+Estrogen mediates its effects across the body through potent agonism of the Estrogen Receptor (ER), which is located in various tissues including in the breasts, uterus, ovaries, skin, prostate, bone, fat, and brain. Estradiol binds to both subtypes of the Estrogen Receptor: Estrogen Receptor Alpha (ERα) and Estrogen Receptor Beta (ERβ). Estradiol also acts as a potent agonist of G Protein-coupled Estrogen Receptor (GPER), which has recently been recognized as a major mediator of estradiol's rapid cellular effects 11 .
+
+## Mechanism Of Action
+
+Estrogen receptor Agonist Estrogen receptor beta Agonist Nuclear receptor subfamily 1 group I member 2 Agonist
+
+## Absorption
+
+IM Injection: When conjugated with aryl and alkyl groups for parenteral administration, the rate of absorption of oily preparations is slowed with a prolonged duration of action, such that a single intramuscular injection of estradiol valerate or estradiol cypionate is absorbed over several weeks Label . Natazia: After oral administration of estradiol valerate, cleavage to 17β-estradiol and valeric acid takes place during absorption by the intestinal mucosa or in the course of the first liver passage. This gives rise to estradiol and its metabolites, estrone and other metabolites. Maximum serum estradiol concentrations of 73.3 pg/mL are reached at a median of approximately 6 hours (range: 1.5–12 hours) and the area under the estradiol concentration curve [AUC(0–24h)] was 1301 pg·h/mL after single ingestion of a tablet containing 3 mg estradiol valerate under fasted condition on Day 1 of the 28-day sequential regimen.
+
+## Metabolism
+
+Exogenous estrogens are metabolized using the same mechanism as endogenous estrogens. Estrogens are partially metabolized by cytochrome P450. Hover over products below to view reaction partners Estradiol valerate Estradiol
+
+## Route Of Elimination
+
+Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.

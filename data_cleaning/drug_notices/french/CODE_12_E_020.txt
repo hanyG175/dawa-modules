@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_020
+DCI: Acide Folique
+Brand Names: ACIDE FOLIQUE - API
+Pharmaceutical Forms: Comprimé
+Dosages: 5MG
+Packaging: B/20
+Laboratories: API
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 170.00 DA
+Prescription List: N/D
+ATC Classification: B03BB01
+Registration Numbers: 003/12 E 020/97/25 | 077/12 E 020/17 | 235/12 E 020/20 | 242/12 E 020/04/17 | 320/12 E 020/20 | 348/12 E 020/15 | 380/12 E 020/14/21 | 418/12 E 020/14 | 462/12 E 020/19 | 470/12 E 020/13/25 | 578/12 E 020/21
+Drug Codes: 12 E 020
+
+------------------------------------------------------------
+
+## Indications
+
+Anémies macrocytaires par carence en acide folique. | Troubles chroniques de l'absorption intestinale quelle que soit leur origine. | Carences d'apport : malnutrition, éthylisme. | Grossesse, en cas de carence prouvée. Chez les femmes ayant déjà eu des enfants porteurs d'anomalies de la fermeture du tube neural (spina bifida), certains auteurs ont constaté qu'une supplémentation folique périconceptionnelle de 5 mg par jour dans le mois qui précède et les 3 mois qui suivent la conception diminuait la récurrence du risque malformatif pour les grossesses ultérieures. | Néanmoins, le diagnostic anté-natal à la recherche de ce type de malformation reste indispensable.
+
+## Posology
+
+Posologie | Adultes (y compris personnes âgées) | En cas d’anémie mégaloblastique par carence en acide folique | 5 mg par jour, pendant 4 mois ; la posologie peut être augmentée jusqu’à 15 mg par jour en cas de troubles chroniques de l’absorption intestinale. | Prévention des anomalies de la fermeture du tube neural du fœtus (spina bifida) chez les femmes planifiant une grossesse et connues pour être à risque | 5 mg par jour. Le traitement doit commencer au moins 3 mois avant la conception et se poursuivre tout au long du 1 er trimestre de grossesse. | Grossesse | En cas de carence prouvée | 5 mg par jour, jusqu’au terme de la grossesse. | Enfants | L’acide folique ne doit pas être utilisé chez l’enfant de moins de 6 ans puisque la forme « comprimé » ne convient pas à l’enfant de moins de 6 ans. | En cas d’anémie mégaloblastique par carence en acide folique | Chez les enfants et adolescents âgés de 6 à 18 ans : 5 mg par jour, pendant 4 mois ; traitement d’entretien : 5 mg tous les 1 à 7 jours. | En cas d’anémie hémolytique | Chez les enfants et adolescents âgés de 6 à 12 ans : 5 mg par jour. | Chez les enfants et adolescents âgés de 12 à 18 ans : 5 mg à 10 mg par jour. | Mode d’administration | Voie orale.
+
+## Contraindications
+
+· Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1. | · Anémie mégaloblastique non diagnostiquée, y compris celle de la petite enfance, anémie pernicieuse ou anémie macrocytaire d’étiologie inconnue, à moins que le traitement ne soit administré avec des quantités adéquates d’hydroxocobalamine.
+
+## Precautions
+
+Les patients présentant une déficience en vitamine B12 ne doivent pas être traités par l’acide folique, à moins que le traitement ne soit administré avec des quantités adéquates d’hydroxocobalamine. En effet, le traitement par acide folique seul peut masquer l’état du patient mais ne traite pas les dommages subaigus et irréversibles causés par la déficience en vitamine B12 sur le système nerveux. La déficience en vitamine B12 peut être due à une anémie mégaloblastique non diagnostiquée, y compris celle de la petite enfance, à une anémie pernicieuse, à une anémie macrocytaire d’étiologie inconnue, ou à toute autre cause de déficience en cobalamine, tel que le fait d’être végétarien depuis longtemps. | L’acide folique ne doit pas être utilisé en cas d’affection maligne, à moins que l’anémie mégaloblastique due à une déficience en acide folique ne représente une complication importante. | L’administration d’acide folique chez les patients présentant des tumeurs folate-dépendantes doit être considérée et surveillée avec la plus grande attention. | Ce médicament n’est pas destiné aux femmes enceintes en bonne santé à qui il est alors recommandé de prescrire des doses plus faibles. Ce médicament est destiné aux femmes enceintes présentant une déficience en acide folique et aux femmes enceintes ayant déjà eu des enfants porteurs d’anomalies de la fermeture du tube neural (spina bifida) et qui sont donc dites à risque. | Excipient à effet notoire | Ce médicament contient du lactose. Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament.
+
+## Interactions
+
++ Antiépileptiques | Si l’acide folique est prescrit pour traiter une déficience en folates causée par des antiépileptiques (phénytoïne, phénobarbital et primidone), les concentrations plasmatiques de ces anticonvulsivants risquent d’être diminuées. Ces taux peuvent être abaissés au point que les convulsions chez certains patients risquent de ne plus être bien contrôlées. | + Antibiotiques | Le chloramphénicol et le co-trimoxazole peuvent interférer avec le métabolisme de l’acide folique. | + Sulfasalazine | La sulfasalazine peut réduire l’absorption de l’acide folique.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n’y a pas de dangers connus à utiliser l’acide folique pendant la grossesse. La supplémentation en acide folique est souvent bénéfique. | Une déficience en folates, ou un métabolisme anormal des folates, induits par des produits non médicamenteux, sont liés à la survenue de défauts chez les nouveau-nés et de certaines anomalies de la fermeture du tube neural. | L’administration concomitante et en début de grossesse de certains médicaments induisant une perturbation du métabolisme de l’acide folique ou bien une déficience en folates (tels que les anticonvulsivants ou certains antinéoplasiques) peut engendrer des anomalies congénitales. | Un manque en acide folique (vitamine B9) ou en ses métabolites peut également être responsable de certains cas d’avortement spontané ou de retard de croissance intra-utérine. | Allaitement | L’acide folique est excrété dans le lait maternel. Il existe une accumulation en folates dans le lait maternel lorsque l’apport en acide folique au cours de la grossesse est supérieur aux besoins de la mère. | La concentration en acide folique est relativement basse dans le colostrum. La concentration en acide folique est plus élevée dans le lait maternel. | Il n’a été observé aucun effet indésirable chez les nourrissons qui ont été allaités par une mère ayant reçu une supplémentation en acide folique pendant la grossesse.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : préparation anti-anémique, code ATC : B03BB01. | L’acide folique est une des coenzymes impliquées dans certaines trans-méthylations, telles que la synthèse d’acide désoxyribonucléique et la synthèse d’acide ribonucléique. | L’acide folique est une vitamine du groupe B. L’acide folique est nécessaire à la production et à la maturation des cellules de la lignée rouge. Une déficience en acide folique est une des causes de l’anémie mégaloblastique.
+
+## Adverse Effects
+
+Les effets indésirables sont listés selon la classification MedDRA par système-organe. Au sein de chaque classe de systèmes d’organes, les événements indésirables sont présentés par ordre décroissant de fréquence selon la convention CIOMS III suivante : très fréquent (≥ 1/10), fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1 000 ; < 1/100) ; rare (≥ 1/10 000 ; < 1/1 000) ; très rare (< 1/10 000) et fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Affections du système immunitaire | · Fréquence indéterminée : réaction anaphylactique telle qu’urticaire et angioœdème. | · Très rare : réaction allergique cutanée. | Affections gastro-intestinales | · Fréquence indéterminée : trouble gastro-intestinal. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C. | A conserver dans l'emballage d'origine, à l'abri de la lumière.

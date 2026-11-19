@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_072
+DCI: Ibuprofene
+Brand Names: IBUPROFENE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 600MG
+Packaging: B/20
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 157 DA
+PPA (DA): 157.00 DA
+Prescription List: Liste II
+ATC Classification: 04B044
+Registration Numbers: 289/04 B 072/16
+Drug Codes: 04 B 072
+
+------------------------------------------------------------
+
+## Indications
+
+ANTI-INFLAMMATOIRES
+
+## Mechanism Of Action
+
+ANTI-INFLAMMATOIRES NON STEROIDIENS

@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_022
+DCI: PIROXICAM 20 mg/ml sol inj (PIROXICAM TEVA) | Piroxicam
+DrugBank ID: DB00554
+DrugBank Name: Piroxicam
+Brand Names: CYCLADOL | PIROXICAM PHYSIOPHARM
+Pharmaceutical Forms: Comp. Dispers. | Comprimé
+Dosages: 20MG | 20mg
+Packaging: B/10 | b/14
+Laboratories: PHYSIOPHARM SARL
+Countries: ALGERIE
+Reference Tariff (DA): 143 DA
+Prescription List: Liste I
+ATC Classification: 04B022 | M - MUSCLE ET SQUELETTE | M01 - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX | M01A - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AC - OXICAMS | M01AC01 - PIROXICAM | M01AC01
+Registration Numbers: 035/04 B 022/19 | 149/04 B 022/14 | 263/04 B 022/09/17 | 289/04 B 022/08/23 | 352/04 B 022/17/23 | 360/04 B 022/06/23 | 380/04 B 022/12/18 | 418/04 B 022/14 | 462/04 B 022/13
+Drug Codes: 04 B 022
+
+------------------------------------------------------------
+
+## Description
+
+A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily.
+
+## Pharmacodynamics
+
+Piroxicam is in a class of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). Piroxicam works by reducing hormones that cause inflammation and pain in the body. Piroxicam is used to reduce the pain, inflammation, and stiffness caused by rheumatoid arthritis and osteoarthritis.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor
+
+## Absorption
+
+Well absorbed following oral administration.
+
+## Metabolism
+
+Renal Hover over products below to view reaction partners Piroxicam 5'-Hydroxypiroxicam
+
+## Route Of Elimination
+
+Piroxicam and its biotransformation products are excreted in urine and feces, with about twice as much appearing in the urine as in the feces. Approximately 5% of a piroxicam dose is excreted unchanged. However, a substantial portion of piroxicam elimination occurs by hepatic metabolism. Piroxicam is excreted into human milk.
+
+## Half Life
+
+30 to 86 hours
+
+## Toxicity
+
+Symptoms of overdose include drowsiness, nausea, stomach pain, and/or vomiting.

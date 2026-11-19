@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_194
+DCI: Simeticone
+DrugBank ID: DB09512
+DrugBank Name: Simethicone
+Brand Names: FREEGAS
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg
+Packaging: b/24
+Registration Numbers: 447/10 B 194/12/23
+Drug Codes: 10 B 194
+
+------------------------------------------------------------
+
+## Description
+
+Simethicone is a silicon based surfactant that decreases the surface tension of gastrointestinal gas bubbles to facilitate their elimination. 2 It has a favourable safety profile as it is not systemically absorbed. 2 Simethicone has been in use since the 1940s 1 but was granted FDA approval in 1952. 2
+
+## Pharmacodynamics
+
+Simethicone decreases the surface tension of gas bubbles in the gastrointestinal tract, facilitating their expulsion. 2 It has a short duration of action as it is generally given as needed, and a wide therapeutic index as it is not systemically absorbed. 2
+
+## Mechanism Of Action
+
+Simethicone is a surfactant that decreases the surface tension of gas bubbles in the gastrointestinal tract, more easily allowing gas to exit the body. 2 Target Actions Organism U Coagulation factor X inhibitor Humans
+
+## Absorption
+
+Simethicone is not systemically absorbed and so these data are not readily available. 2
+
+## Volume Of Distribution
+
+Simethicone is not systemically absorbed and so these data are not readily available. 2
+
+## Metabolism
+
+Simethicone is not systemically absorbed and so it is not metabolised by the body. 2
+
+## Route Of Elimination
+
+Simethicone is eliminated in the feces. 2
+
+## Half Life
+
+Simethicone is not systemically absorbed and so these data are not readily available. 2
+
+## Clearance
+
+Simethicone is not systemically absorbed and so these data are not readily available. 2
+
+## Toxicity
+
+Data regarding overdoses with simethicone are rare due to the fact that it is not systemically absorbed. 2 . In the case of an overdose stop the drug 2 and initiate symptomatic and supportive care.

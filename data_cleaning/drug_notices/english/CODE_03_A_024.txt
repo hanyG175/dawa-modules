@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_A_024
+DCI: Acide Acetylsalicytique
+DrugBank ID: DB00945
+DrugBank Name: Aspirin
+Brand Names: ASPEGIC ENFANTS
+Pharmaceutical Forms: Poudre
+Dosages: 250mg
+Packaging: b/20
+Laboratories: SUBSTIPHARM | 24 rue erlanger | 75016 paris
+ATC Classification: N02BA01
+Registration Numbers: 201/03 A 024/03/24
+Drug Codes: 03 A 024
+
+------------------------------------------------------------
+
+## Description
+
+Also known as Aspirin , acetylsalicylic acid (ASA) is a commonly used drug for the treatment of pain and fever due to various causes. Acetylsalicylic acid has both anti-inflammatory and antipyretic effects. This drug also inhibits platelet aggregation and is used in the prevention of blood clots stroke, and myocardial infarction (MI) Label . Interestingly, the results of various studies have demonstrated that long-term use of acetylsalicylic acid may decrease the risk of various cancers, including colorectal, esophageal, breast, lung, prostate, liver and skin cancer 15 . Aspirin is classified as a non-selective cyclooxygenase (COX) inhibitor 11 , 14 and is available in many doses and forms, including chewable tablets, suppositories, extended release formulations, and others 19 . Acetylsalicylic acid is a very common cause of accidental poisoning in young children. It should be kept out of reach from young children, toddlers, and infants Label .
+
+## Pharmacodynamics
+
+Effects on pain and fever Acetylsalicylic acid disrupts the production of prostaglandins throughout the body by targeting cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) 9 , 10 , 11 . Prostaglandins are potent, irritating substances that have been shown to cause headaches and pain upon injection into humans. Prostaglandins increase the sensitivity of pain receptors and substances such as histamine and bradykinin. Through the disruption of the production and prevention of release of prostaglandins in inflammation, this drug may stop their action at pain receptors, preventing symptoms of pain. Acetylsalicylic acid is considered an antipyretic agent because of its ability to interfere with the production of brain prostaglandin E1. Prostaglandin E1 is known to be an extremely powerful fever-inducing agent Label . Effects on platelet aggregation The inhibition of platelet aggregation by ASA occurs because of its interference with thromboxane A2 in platelets, caused by COX-1 inhibition. Thromboxane A2 is an important lipid responsible for platelet aggregation, which can lead to clot formation and future risk of heart attack or stroke Label . A note on cancer prevention ASA has been studied in recent years to determine its effect on the prevention of various malignancies 15 . In general, acetylsalicylic acid is involved in the interference of various cancer signaling pathways, sometimes inducing or upregulating tumor suppressor genes 15 , 17 . Results of various studies suggest that there are beneficial effects of long-term ASA use in the prevention of several types of cancer, including stomach, colorectal, pancreatic, and liver cancers 16 . Research is ongoing.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 1 Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Absorption is generally rapid and complete following oral administration but absorption may be variable depending on the route, dosage form, and other factors including but not limited to the rate of tablet dissolution, gastric contents, gastric emptying time, and gastric pH Label . Detailed absorption information When ingested orally, acetylsalicylic acid is rapidly absorbed in both the stomach and proximal small intestine. The non-ionized acetylsalicylic acid passes through the stomach lining by passive diffusion. Ideal absorption of salicylate in the stomach occurs in the pH range of 2.15 - 4.10. Intestinal absorption of acetylsalicylic acid occurs at a much faster rate. At least half of the ingested dose is hydrolyzed to salicylic acid in the first-hour post-ingestion by esterases found in the gastrointestinal tract. Peak plasma salicylate concentrations occur between 1-2 hours post-administration Label .
+
+## Volume Of Distribution
+
+This drug is distributed to body tissues shortly after administration. It is known to cross the placenta. The plasma contains high levels of salicylate, as well as tissues such as spinal, peritoneal and synovial fluids, saliva and milk. The kidney, liver, heart, and lungs are also found to be rich in salicylate concentration after dosing. Low concentrations of salicylate are usually low, and minimal concentrations are found in feces, bile, and sweat Label .
+
+## Metabolism
+
+Acetylsalicylic acid is hydrolyzed in the plasma to salicylic acid. Plasma concentrations of aspirin following after administration of the extended-release form are mostly undetectable 4-8 hours after ingestion of a single dose. Salicylic acid was measured at 24 hours following a single dose of extended-release acetylsalicylic acid 22 . Salicylate is mainly metabolized in the liver, although other tissues may also be involved in this process Label . The major metabolites of acetylsalicylic acid are salicylic acid, salicyluric acid, the ether or phenolic glucuronide and the ester or acyl glucuronide. A small portion is converted to gentisic acid and other hydroxybenzoic acids Label . Hover over products below to view reaction partners Acetylsalicylic acid Phenolic glucuronide + Salicylic acid acyl glucuronide Salicylic acid Gentisic acid Salicyluric acid
+
+## Route Of Elimination
+
+Excretion of salicylates occurs mainly through the kidney, by the processes of glomerular filtration and tubular excretion, in the form of free salicylic acid, salicyluric acid, and, additionally, phenolic and acyl glucuronides Label . Salicylate can be found in the urine soon after administration, however, the entire dose takes about 48 hours to be completely eliminated. The rate of salicylate is often variable, ranging from 10% to 85% in the urine, and heavily depends on urinary pH. Acidic urine generally aids in reabsorption of salicylate by the renal tubules, while alkaline urine increases excretion Label . After the administration of a typical 325mg dose, the elimination of ASA is found to follow first order kinetics in a linear fashion. At high concentrations, the elimination half-life increases Label .
+
+## Half Life
+
+The half-life of ASA in the circulation ranges from 13 - 19 minutes. Blood concentrations drop rapidly after complete absorption. The half-life of the salicylate ranges between 3.5 and 4.5 hours Label .
+
+## Clearance
+
+The clearance rate of acetylsalicylic acid is extremely variable, depending on several factors 6 . Dosage adjustments may be required in patients with renal impairment Label . The extended-release tablet should not be administered to patients with eGFR of less than 10 mL/min 22 .
+
+## Toxicity
+
+Lethal doses Acute oral LD50 values have been reported as over 1.0 g/kg in humans, cats, and dogs, 0.92 g/kg - 1.48 g/kg in albino rats, 1.19 g/kg in guinea pigs, 1.1 g/kg in mice, and 1.8 g/kg in rabbit models Label . Acute toxicity Salicylate toxicity is a problem that may develop with both acute and chronic salicylate exposure 7 .
+Multiple organ systems may be affected by salicylate toxicity, including the central nervous system, the pulmonary system, and the gastrointestinal system. Severe bleeding may occur. In the majority of cases, patients suffering from salicylate toxicity are volume-depleted at the time of presentation for medical attention. Fluid resuscitation should occur immediately and volume status should be monitored closely. Disruptions in acid-base balance are frequent in ASA toxicity 7 . The acute toxicity of acetylsalicylic in animals has been widely studied. The signs of poisoning in rats from lethal doses are mild to severe gastroenteritis, hepatitis, nephritis, pulmonary edema, encephalopathy, shock and some toxic effects on other organs and tissues. Mortality has been observed following convulsions or cardiovascular shock. An important differentiating property between various animal species is the ability to vomit toxic doses. Humans, cats and dogs have this ability, but rodents or rabbits do not Label . Chronic toxicity and carcinogenesis Chronic ASA toxicity is frequently accompanied by atypical clinical presentations that may be similar to diabetic ketoacidosis, delirium, cerebrovascular accident (CVA), myocardial infarction (MI) or cardiac failure. Plasma salicylate concentrations should be measured if salicylate intoxication is suspected, even if there no documentation available to suggest ASA was ingested. In older age, nephrotoxicity from salicylates increases, and the risk of upper gastrointestinal hemorrhage is increased, with higher rates of mortality 8 . It is also important to note that ASA toxicity may occur even with close to normal serum concentrations. Prevention of chronic ASA includes the administration of smallest possible doses, avoidance of concurrent use of salicylate drugs, and therapeutic drug monitoring. Renal function should be regularly monitored and screening for gastrointestinal bleeding should be done at regular intervals 8 . Chronic toxicity studies were performed in rodents. ASA was administered at doses measured to be 2 to 20 times the maximum tolerated clinical dose to mice for up to one year. Negative dose-related effects were seen. These include decreased mean survival time, decreased number of births and progeny reaching an appropriate age for weaning. No evidence of carcinogenesis was found in 1-year studies Label . At daily doses of 0.24 g/kg/day given for 100 days to albino rats, ASA led to signs to excessive thirst, aciduria, diuresis, drowsiness, hyperreflexia, piloerection, changes in respiration, tachycardia, followed by soft stools, epistaxis, sialorrhea, dacryorrhea and mortality during hypothermic coma in the second study month Label . Use in pregnancy and lactation While teratogenic effects were observed in animals nearly lethal doses, no evidence suggests that this drug is teratogenic in humans Label . It is advisable, however, to avoid ASA use the first and second trimester of pregnancy, unless it is clearly required. If acetylsalicylic acid containing drugs are ingested by a patient attempting to conceive, or during the first and second trimester of pregnancy, the lowest possible dose at the shortest possible duration should be taken Label . This drug is contraindicated in the 3rd trimester of pregnancy Label .

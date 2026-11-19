@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_151
+DCI: FLUVASTATINE (sodique) 40 mg gél (FLUVASTATINE ARROW)
+Brand Names: COLESTOR | FLUVASTINE 40 MG | LUVASCOL
+Pharmaceutical Forms: Gélule
+Dosages: 40mg
+Packaging: b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA04 - FLUVASTATINE
+Registration Numbers: 309/06 M 151/14/24 | 418/06 M 151/21 | 447/06 M 151/13/24
+Drug Codes: 06 M 151
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | fluvastatine (sodique) : 20 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 9 an(s) à 18 an(s) | Patient quel que soit le poids | Hypercholestérolémie familiale hétérozygote | Traitement initial | Posologie à adapter en fonction de la réponse clinique | Tenir compte du délai d'action du traitement | 20 mg 1 fois par jour | Pendant 6 semaines | Traitement d'entretien | Administrer matin et soir en cas de posologie maximale | Posologie à adapter en fonction de la réponse clinique | Posologie à augmenter par palier à intervalles d'au moins 6 semaines | Tenir compte du délai d'action du traitement | 20 à 40 mg 1 à 2 fois par jour | Posologie maximale: 80 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypercholestérolémie de type II - Hypercholestérolémie familiale hétérozygote - Hyperlipidémie mixte | Traitement initial | Dans le cas de : Patient nécessitant une diminution du LDL = 25 % | Administrer le soir | Posologie à adapter en fonction de la réponse clinique | Tenir compte du délai d'action du traitement | 40 mg 1 fois par jour | Pendant 4 semaines | Traitement d'entretien | Dans le cas de : Patient nécessitant une diminution du LDL = 25 % | Administrer matin et soir en cas de posologie maximale | Posologie à adapter en fonction de la réponse clinique | Posologie à augmenter par palier à intervalles d'au moins 4 semaines | Tenir compte du délai d'action du traitement | 40 mg 1 à 2 fois par jour | Posologie maximale: 80 mg par jour | Angioplastie coronaire, traitement préventif des complications cardiaques majeures (lors d') | Posologie standard | 80 mg en 2 prises par jour | Posologie maximale: 80 mg par jour
+
+## Precautions
+
+Antécédent d'hépatopathie | Antécédent de myopathie | Antécédent de myopathie acquise due à une statine ou un fibrate | Antécédent familial de myopathie | Consommation d'alcool importante | CPK > 5 fois la limite supérieure normale | Enfant de moins de 9 ans | Hypotension artérielle | Hypothyroïdie | Insuffisance rénale | Intervention chirurgicale majeure | Myasthénie | Pathologie endocrinienne | Patient à risque de diabète | Sepsis | Sujet à risque de rhabdomyolyse | Sujet de plus de 70 ans | Sujet entre 9 et 18 ans | Sujet exerçant une activité sportive intense | Sujet prépubertaire | Traitement prolongé | Trouble hydroélectrolytique | Trouble métabolique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Fluvastatine : Mécanisme d'action | La fluvastatine, molécule de synthèse possédant des propriétés hypocholestérolémiantes, est un inhibiteur compétitif de la HMG-CoA réductase, enzyme responsable de la conversion de la HMG-CoA en mévalonate, un précurseur des stérols, incluant le | cholestérol | . La fluvastatine exerce son principal effet au niveau du foie et constitue principalement un racémique de deux érythro-énantiomères dont l'un est responsable de l'activité pharmacologique. L'inhibition de la biosynthèse du | cholestérol | diminue le taux de | cholestérol | dans les cellules hépatiques, ce qui stimule la synthèse de récepteurs des LDL et augmente ainsi la captation de particules de LDL. Le résultat final de ces mécanismes est une diminution du taux plasmatique du | cholestérol | . | La fluvastatine induit une réduction du | cholestérol | total, du LDL-C, de l'Apo B et des | triglycérides | , ainsi qu'une augmentation du HDL-C chez les patients présentant une hypercholestérolémie et une dyslipidémie mixte.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - CPK (augmentation) (Fréquent) | - Transaminases (augmentation) (Fréquent) | - Bilan hépatique (anomalie) | DERMATOLOGIE: | - Réaction cutanée (Très rare) | - Eczéma | - Dermatite | - Eruption cutanée | - Dermatose bulleuse | - Urticaire | - Exanthème | DIVERS: | - Oedème de la face (Très rare) | - Trouble sexuel | HÉMATOLOGIE: | - Thrombopénie (Très rare) | HÉPATOLOGIE: | - Hépatite (Très rare) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique (Très rare) | - Hypersensibilité (Rare) | - Angioedème (Très rare) | NUTRITION, MÉTABOLISME: | - Diabète | PSYCHIATRIE: | - Insomnie (Fréquent) | - Dépression | - Cauchemar | - Trouble du sommeil | SYSTÈME CARDIOVASCULAIRE: | - Vascularite (Très rare) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Dyspepsie (Fréquent) | - Pancréatite (Très rare) | - Trouble digestif | - Diarrhée | - Fonction hépatique anormale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Myopathie (Rare) | - Syndrome de type lupus (Très rare) | - Faiblesse musculaire (Rare) | - Rhabdomyolyse (Très rare) | - Myosite (Très rare) | - Douleur musculaire (Rare) | - Myopathie nécrosante à médiation immunitaire | - Tendinopathie | - Rupture de tendon | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Dysesthésie (Très rare) | - Hypoesthésie (Très rare) | - Paresthésie (Très rare) | - Myasthénie | - Myasthénie oculaire | - Perte de mémoire | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle

@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_B_139
+DCI: Anastrozole
+Brand Names: ANASTROZOLE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 1MG
+Packaging: B/28
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 6,512.56 DA
+PPA (DA): 6,512.56 DA
+Prescription List: Liste I
+Registration Numbers: 001/09 B 139/21 | 157/09 B 139/14 | 263/09 B 139/22 | 285/09 B 139/20 | 323/09 B 139/16 | 352/09 B 139/25 | 502/09 B 139/15 | 569/09 B 139/05/21 | 630/09 B 139/24
+Drug Codes: 09 B 139
+
+------------------------------------------------------------
+
+## Indications
+
+ENDOCRINOLOGIE ET HORMONES
+
+## Mechanism Of Action
+
+ANTI-OESTROGENES

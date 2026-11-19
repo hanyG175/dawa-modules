@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_281
+DCI: Ribavirine
+Brand Names: RIBAVIRINE BEKER
+Pharmaceutical Forms: Gles.
+Dosages: 200MG
+Packaging: B/170
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 13P281
+Registration Numbers: 024/13 P 281/12 | 447/13 P 281/17
+Drug Codes: 13 P 281
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+ANTIVIRAUX

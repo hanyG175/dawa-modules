@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_021
+DCI: Hydroxycarbamide
+DrugBank ID: DB01005
+DrugBank Name: Hydroxyurea
+Brand Names: HYDREA | HYDROCURE
+Pharmaceutical Forms: Gélule
+Dosages: 500mg
+Packaging: b/20
+Laboratories: EUGIA PHARMA (MALTA) LTD | VAULT 14, LEVEL 2 | VALLETTA WATERFRONT | FLORIANA, FRN 1914 | MALTE
+ATC Classification: L01XX05
+Registration Numbers: 001/05 A 021/20 | 017/05 A 021/99/15
+Drug Codes: 05 A 021
+
+------------------------------------------------------------
+
+## Description
+
+Hydroxyurea is a non-alkylating antineoplastic agent that was first synthesized in 1869 but was not characterized biologically until 1928. 5 It was first approved by the FDA in 1998 for the treatment of sickle cell anemia in adults. 6 Although clinical evidence on the efficacy of hydroxyurea in certain conditions exists, hydroxyurea is used sparingly in clinical settings, largely due to lack of knowledge and adherence, the need for therapeutic monitoring, and serious side effects of secondary cancer and birth defects. 7
+
+## Pharmacodynamics
+
+The correlation between hydroxyurea concentrations, reduction of crisis rate, and increase in HbF, is not known. 16
+
+## Mechanism Of Action
+
+Ribonucleoside-diphosphate reductase large subunit Inhibitor
+
+## Absorption
+
+After oral administration hydroxyurea is readily absorbed from the gastrointestinal tract. Peak plasma concentrations are reached within 2 hours and by 24 hours the serum concentrations are virtually zero. Bioavailability is complete or nearly complete in cancer patients. 11 After oral administration of 20 mg/kg of hydroxyurea, a rapid absorption is observed with peak plasma levels of about 30 mg/L occurring after 0.75 and 1.2 h in children and adult patients with sickle cell syndrome, respectively. The total exposure up to 24 h post-dose is 124 mg.h/L in children and adolescents and 135 mg.h/L in adult patients. The oral bioavailability of hydroxyurea is almost complete as assessed in indications other than sickle cell syndrome. 13 In a comparative bioavailability study in healthy adult volunteers (n=28), 500 mg of hydroxyurea oral solution was demonstrated to be bioequivalent to the reference 500 mg capsule, with respect to both the peak concentration and area under the curve. There was a statistically significant reduction in time to peak concentration with hydroxyurea oral solution compared to the reference 500 mg capsule (0.5 versus 0.75 hours, p = 0.0467), indicating a faster rate of absorption.[L47137 In a study of children with Sickle Cell Disease, liquid and capsule formulations resulted in similar area under the curve, peak concentrations, and half-life. The largest difference in the pharmacokinetic profile was a trend towards a shorter time to peak concentration following ingestion of the liquid compared with the capsule, but that difference did not reach statistical significance (0.74 versus 0.97 hours, p = 0.14). 11
+
+## Volume Of Distribution
+
+Hydroxyurea distributes rapidly throughout the human body, enters the cerebrospinal fluid, appears in peritoneal fluid and ascites, and concentrates in leukocytes and erythrocytes. The estimated volume of distribution of hydroxycarbamide approximates total body water. The volume of distribution following oral dosing of hydroxycarbamide is approximately equal to total body water: adult values of 0.48 – 0.90 L/kg have been reported, whilst in children a population estimate of 0.7 L/kg has been reported. 11
+
+## Metabolism
+
+Up to 60% of an oral dose undergoes conversion through saturable hepatic metabolism and a minor pathway of degradation to acetohydroxamic acid by urease found in intestinal bacteria. 9 , 12 Hover over products below to view reaction partners Hydroxyurea Ammonia + Carbon dioxide + Hydroxylamine
+
+## Route Of Elimination
+
+A significant fraction of hydroxycarbamide is eliminated by nonrenal (mainly hepatic) mechanisms. In adults, the urinary recovery of unchanged drug is reported to be approximately 37% of the oral dose when renal function is normal. In children, the fraction of hydroxyurea excreted unchanged into the urine comprised about 50%. 11
+
+## Half Life
+
+In adult cancer patients, hydroxyurea was eliminated with a half-life of approximately 2-3 hours. In a single-dose study in children with Sickle Cell Disease, the mean half-life was reported to be 1.7 hours. 11
+
+## Clearance
+
+The total body clearance of hydroxyurea in adult patients with Sickle Cell Disease is 0.17 L/h/kg. The respective value in children was similar, 0.22 L/h/kg. 11
+
+## Toxicity
+
+Oral, mouse: LD 50 = 7330 mg/kg; Oral, rat: LD 50 = 5760 mg/kg Hydroxyurea can cause fetal harm based on findings from animal studies and the drug’s mechanism of action. There are no studies on the use of Hydroxyurea in pregnant women and limited available data on SIKLOS use during pregnancy are insufficient to inform drug-associated risks. Drugs that affect DNA synthesis, such as hydroxyurea, may be potential mutagenic agents. In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m² basis. In rats and rabbits, fetal malformations were observed with partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, and missing lumbar vertebrae. Embryotoxicity was characterized by decreased fetal viability, reduced live
+litter sizes, and developmental delays. Advise pregnant women of the potential risk to a fetus. 16 Acute mucocutaneous toxicity has been reported in patients receiving hydroxyurea at doses several times above the therapeutic dose. Soreness, violet erythema, edema on palms and soles followed by scaling of hand and feet, severe generalized hyperpigmentation of the skin, and stomatitis have been observed. In patients with sickle cell anemia, neutropenia was reported in isolated cases of hydroxyurea overdose (1.43 times and 8.57 times the maximum recommended dose of 35 mg/kg b.w./day). Monitor blood counts weekly until recovery. Treatment of overdose consists of gastric lavage, followed by symptomatic treatment and control of bone marrow function. 16 Conventional long-term studies to evaluate the carcinogenic potential of hydroxyurea have not been performed. However, hydroxyurea is presumed to be a transspecies carcinogen. Intraperitoneal administration of 125 to 250 mg/kg hydroxyurea (about 0.6-1.2 times the maximum recommended human oral daily dose on a mg/m2 basis) thrice weekly for 6 months in female rats increased the incidence of mammary tumors in rats surviving to 18 months compared to control. Hydroxyurea is mutagenic in vitro to bacteria, fungi, protozoa, and mammalian cells. Hydroxyurea is clastogenic in vitro (hamster cells, human lymphoblasts) and in vivo (SCE assay in rodents, mouse micronucleus assay). Hydroxyurea causes the transformation of rodent embryo cells to a tumorigenic phenotype. 16 Hydroxyurea administered to male rats at 60 mg/kg /day (about 0.3 times the maximum recommended human daily dose on a mg/m2 basis) produced testicular atrophy, decreased spermatogenesis, and significantly reduced their ability to impregnate females. 16

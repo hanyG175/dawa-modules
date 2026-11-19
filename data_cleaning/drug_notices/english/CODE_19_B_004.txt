@@ -1,0 +1,24 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_B_004
+DCI: Flubendazole
+DrugBank ID: DB08974
+DrugBank Name: Flubendazole
+Brand Names: FLUBENE | FLUVERBIEN | FLUVERMAL | FUZOL
+Pharmaceutical Forms: Comprimé
+Dosages: 100 mg | 100mg
+Packaging: b/06
+Registration Numbers: 035/19 B 004/22 | 095/19 B 004/98/16 | 149/19 B 004/17/23 | 304/19 B 004/09/23
+Drug Codes: 19 B 004
+
+------------------------------------------------------------
+
+## Description
+
+Flubendazole is an anthelmintic that is used to treat worm infection in humans. It is available OTC in Europe.
+
+## Mechanism Of Action
+
+Tubulin Inhibitor

@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_103
+DCI: DONEPEZIL CHLORHYDRATE 5 mg cp orodispers (DONEPEZIL TEVA) | Donepezil
+DrugBank ID: DB00843
+DrugBank Name: Donepezil
+Brand Names: DONEPEZIL BEKER | DORICEPT | KYNCEPT
+Pharmaceutical Forms: Comp. Pelli. | Comprimé
+Dosages: 5 mg | 5MG
+Packaging: B/30 | b/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 4050.00 DA
+PPA (DA): 4050.00 DA
+Prescription List: Liste I
+ATC Classification: 15F074 | N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06D - MEDICAMENTS CONTRE LA DEMENCE | N06DA - ANTICHOLINESTERASIQUES | N06DA02 - DONEPEZIL
+Registration Numbers: 035/15 F 103/15 | 323/15 F 103/20 | 352/15 F 103/17/23
+Drug Codes: 15 F 103
+
+------------------------------------------------------------
+
+## Description
+
+In 2016, the global burden of dementia was estimated to be 43.8 million, demonstrating a significant increase from a global prevalence of 20.2 million in 1990. 16 Donepezil, also known as Aricept, is a piperidine derivative acetylcholinesterase inhibitor used in the management of the dementia of Alzheimer's Disease, and in some cases, is used to manage other types of dementia. Donepezil was first approved by the FDA in 1996, and its extended-release form was approved in combination with Memantine in 2014 to manage moderate and severe forms of Alzheimer's dementia. 19 , 22 A donepezil transdermal delivery system, Adlarity, was approved by the FDA in March 2022 for the treatment of Alzheimer's dementia. 24 Though it does not alter the progression of Alzheimer's disease, donepezil is effective in managing the symptoms of its associated dementia. 18
+
+## Pharmacodynamics
+
+By inhibiting the acetylcholinesterase enzyme, donepezil improves the cognitive and behavioral signs and symptoms of Alzheimer's Disease, which may include apathy, aggression, confusion, and psychosis. 8 , 15
+
+## Mechanism Of Action
+
+Acetylcholinesterase Inhibitor
+
+## Absorption
+
+Donepezil is slowly absorbed via the gastrointestinal tract after oral administration. Tmax is 3 to 4 hours with a bioavailability of 100% and steady-state concentrations are attained within 15 to 21 days of administration. 8 The Tmax in one pharmacokinetic study determined a Tmax of 4.1 ± 1.5 hours. 6 The Cmax of 5 mg donepezil tablets is estimated to be 8.34 ng/mL, according to the Canadian monograph. 23 The AUC of 5 mg donepezil tablets has been determined to be 221.90-225.36 ng.hr/mL. 23
+
+## Volume Of Distribution
+
+The volume of distribution of donepezil is 11.8 ± 1.7 L/kg for a 5-mg dose and 11.6 ± 1.91 L/kg for a 10-mg dose. It is largely distributed in the extravascular compartments. Donepezil crosses the blood-brain barrier and cerebrospinal fluid concentrations at the above doses have been measured at 15.7%. 8 The volume of distribution at steady-state according to the FDA label for donepezil ranges from 12 - 16 L/kg. 19
+
+## Metabolism
+
+Donepezil is metabolized by first pass metabolism in the liver, primarily by CYP3A4, in addition to CYP2D6. After this, O-dealkylation, hydroxylation, N-oxidation, hydrolysis, and O-glucuronidation occur, producing various metabolites with similar half-lives to the unchanged parent drug. A study of the pharmacokinetics of radiolabeled donepezil demonstrated that about 53% of plasma radioactivity appeared as donepezil in the unchanged form, and 11% was identified as the metabolite 6-O-desmethyl donepezil, which exerts similar potency inhibition of the acetylcholinesterase enzyme. 8 , 19 This drug is heavily metabolized to four primary metabolites, two of which are considered pharmacologically active, as well as to multiple inactive and unidentified metabolites. 19 Hover over products below to view reaction partners Donepezil 6-O-desmethyl donepezil M1 metabolite, Donepezil M11, Donepezil M2, Donepezil M12, Donepezil M4, Donepezil M6, Donepezil
+
+## Route Of Elimination
+
+In a study of radiolabeled administration donepezil in healthy adults, 57% of measured radioactivity was identified in the urine, and 5% was identified in the feces. 8
+
+## Half Life
+
+The average elimination half-life of donepezil is about 70 hours according to the results of various studies and the FDA label for donepezil. 8 , 19 . One pharmacokinetic study determined the average terminal half-life to be 81.5±22.0 h 6
+
+## Clearance
+
+According to the FDA label, the average apparent plasma clearance of this drug is 0.13 – 0.19 L/hr/kg. 19 A 5 mg dose of donepezil in healthy patients was shown to have a plasma clearance of 0.110±0.02 L/h/kg. 23 In 10 patients diagnosed with alcoholic cirrhosis, showed a mean decrease in clearance by 20% when compared to the clearance in 10 healthy subjects. In 4 patients with severe renal impairment compared to 4 healthy subjects, no significant change in clearance was noted. 23
+
+## Toxicity
+
+LD50 The rat oral LD50 of donepezil is 32.6 mg/kg. 21 Overdose information Signs and symptoms of overdose with cholinesterase inhibitors such as donepezil can include severe nausea and vomiting, bradycardia, hypotension, perspiration, seizures, muscle weakness respiratory depression, and collapse. Significant muscle weakness may result in death if the respiratory muscles are affected by donepezil overdose. To manage an overdose, anticholinergics can be employed as antidotes. Atropine at intravenous doses of 1.0 - 2.0 mg can be administered and titrated according to the clinical response. Consult the local poison control center for the most updated guidelines on the management of a donepezil overdose. Whether donepezil can be removed from the body with dialysis is unknown at this time. 19

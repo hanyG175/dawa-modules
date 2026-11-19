@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_052
+DCI: Lamotrigine
+DrugBank ID: DB00555
+DrugBank Name: Lamotrigine
+Brand Names: LAMOTRIGINE BEKER
+Pharmaceutical Forms: Comp. Dispers.
+Dosages: 25MG
+Packaging: B/56
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 1594.88 DA
+PPA (DA): 1383.70 DA
+Prescription List: Liste I
+ATC Classification: N03AX09
+Registration Numbers: 293/15 A 052/18/25 | 352/15 A 052/10/24 | 380/15 A 052/20 | 447/15 A 052/13/23 | 492/15 A 052/20/25
+Drug Codes: 15 A 052
+
+------------------------------------------------------------
+
+## Description
+
+Lamotrigine is an antiepileptic drug belonging in the phenyltriazine class. It is used in the treatment of both epilepsy and as a mood stabilizer in bipolar disorder. Lamotrigine is the first medication since lithium granted Food and Drug Administration (FDA) approval for the maintenance treatment of bipolar type I. It is approved for use in more than 30 countries. 10 Lamotrigine has relatively few side-effects and does not require laboratory monitoring. While it is indicated for epilepsy and bipolar disorders, there is evidence that lamotrigine could have some clinical efficacy in certain neuropathic pain states. 3 , 4
+
+## Pharmacodynamics
+
+Lamotrigine likely prevents seizures and prevents mood symptoms via stabilizing presynaptic neuronal membranes and preventing the release of excitatory neurotransmitters such as glutamate, which contribute to seizure activity. 10 , 14 A note on cardiovascular effects The metabolite of lamotrigine, 2-N-methyl metabolite (formed by glucuronidation), is reported to cause dose-dependent prolongations of the PR interval, widening of the QRS complex, and at higher doses, complete AV block. Although this harmful metabolite is only found in trace amounts in humans, plasma concentrations may increase in conditions that cause decreased drug glucuronidation, such as liver disease. 7 , 14 , 15
+
+## Mechanism Of Action
+
+Voltage-dependent R-type calcium channel subunit alpha-1E Inhibitor Voltage-gated sodium channel alpha subunit Inhibitor
+
+## Absorption
+
+Lamotrigine is rapidly and entirely absorbed with minimal first-pass metabolism effects, with a bioavailability estimated at 98%. Cmax is reached in the range of 1.4 to 4.8 hours post-dose, but this depends on the dose administered, concomitant medications, and epileptic status. The rate and extent of lamictal absorption is considered equivalent between the compressed tablet form taken with water to that of the chewable dispersible tablets, taken with or without water. 14 , 15
+
+## Volume Of Distribution
+
+The mean apparent volume of distribution (Vd/F) of lamotrigine following oral administration ranges from 0.9 to 1.3 L/kg and is independent of dose administered. Lamotrigine accumulated in the kidney of the male rat, and likely behaves in a similar fashion in humans. Lamotrigine also binds to tissues containing melanin, such as the eyes and pigmented skin. 14 , 15
+
+## Metabolism
+
+Lamotrigine is mainly glucuronidated, forming 2-N-glucuronide conjugate, a pharmacologically inactive metabolite. 12 The total radioactivity detected after a 240mg radiolabeled dose of lamotrigine during clinical trials were as follows: lamotrigine as unchanged drug(10%), a 2-N-glucuronide (76%), a 5-N-glucuronide (10%), a 2-N-methyl metabolite (0.14%), as well as various other minor metabolites (4%). 14 Hover over products below to view reaction partners Lamotrigine lamotrigine-2-N-glucuronide
+
+## Route Of Elimination
+
+Lamotrigine is excreted in both the urine and feces. 12 Following oral administration of 240 mg radiolabelled lamotrigine, about 94% of total drug and its metabolites administered is recovered in the urine and 2% is recovered in the feces. 14 One pharmacokinetic study recovered 43 to 87% of a lamotrigine dose in the urine mainly as glucuronidated metabolites. 11 2-N-glucuronide is mainly excreted in the urine. 12
+
+## Half Life
+
+The average elimination half-life of lamotrigine ranges from approximately 14-59 hours. The value is dependent on the dose administered, concomitant drug therapy, as well as disease status. 11 , 15 One pharmacokinetic study revealed a half-life of 22.8 to 37.4 hours in healthy volunteers. It also reported that enzyme-inducing antiepileptic drugs such as pheobarbital, phenytoin, or carbamazepine decrease the half-life of lamotrigine. On the other hand, valproic acid increases the half-life of lamotrigine (in the range of 48-59 hours). 11
+
+## Clearance
+
+The mean apparent plasma clearance (Cl/F) ranges from 0.18 to 1.21 mL/min/kg. The values vary depending on dosing regimen, concomitant antiepileptic medications, and disease state of the individual. 14 In one study, healthy volunteers on lamictal monotherapy showed a clearance of about 0.44 mL/min/kg after a single dose. 14
+
+## Toxicity
+
+The oral LD50 in mouse and rat is 205 mg/kg and 245 mg/kg, respectively. MSDS Fatal cases of overdose of up to 15g of lamotrigine have been reported. Overdose with lamotrigine has been manifested by ataxia, nystagmus, increased seizures, decreased level of consciousness, coma, and intraventricular conduction delay. Though no known antidote exists for lamotrigine, hospitalization and general supportive measures should be employed in the case of a suspected lamotrigine overdose. Gastric lavage and emesis may be warranted with simultaneous protection of the airway. It is uncertain at this time whether hemodialysis is an effective means of removing lamotrigine from the sytemic circulation. 15 , 14

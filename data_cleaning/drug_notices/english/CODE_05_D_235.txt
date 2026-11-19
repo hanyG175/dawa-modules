@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_235
+DCI: Atezolizumab
+DrugBank ID: DB11595
+DrugBank Name: Atezolizumab
+Brand Names: TECENTRIQ
+Pharmaceutical Forms: Solution
+Dosages: 1200 mg
+Packaging: boite de 1 flacon uni dose de 20ml
+Registration Numbers: 128/05 D 235/23
+Drug Codes: 05 D 235
+
+------------------------------------------------------------
+
+## Description
+
+Atezolizumab is a humanized monoclonal antibody used to prevent the interaction of PD-L1 and PD-1, removing inhibition of immune responses seen in some cancers. 2 , 7 This medication is reserved for patients whose tumors express PD-L1, cannot receive platinum-based chemotherapy, or whose tumors do not respond to platinum-based chemotherapy. 7 Atezolizumab was granted FDA approval on 18 October 2016. 7 In November 2022, the manufacturer (Genentech) voluntarily withdrew the use of atezolizumab for the treatment of urothelial carcinoma, previously approved under the FDA's Accelerated Approval Program. The rest of atezolizumab indications remain unaffected. 10
+
+## Pharmacodynamics
+
+Atezolizumab is a humanized monoclonal antibody used to prevent the interaction of PD-L1 and PD-1, removing inhibition of immune responses seen in some cancers. 2 , 7 This drug has a long duration of action as it is usually given every 3-4 weeks. 7 Atezolizumab should not be used in patients with immune mediated penumonitis, hepatitis, colitis, and some endocrinopathies. 7
+
+## Mechanism Of Action
+
+Programmed cell death 1 ligand 1 Inhibitor Antibody
+
+## Absorption
+
+Pharmacokinetic analysis was performed in patients with metastatic urothelial carcinoma. 3 In these patients, the AUC was 2.19-2.73day*µg/mL/mg, the C max was 0.27-0.35µg/mL/mg, and the C min was 0.004-0.008µg/mL/mg. 3
+
+## Volume Of Distribution
+
+The volume of distribution of atezolizumab is 6.91L. 1 , 3
+
+## Metabolism
+
+Monoclonal antibodies are broken down into smaller polypeptides and amino acids. 4
+
+## Route Of Elimination
+
+Atezolizumab is not renally excreted. 5
+
+## Half Life
+
+The half life of atezolizumab is 27 days. 1 , 3
+
+## Clearance
+
+The clearance of atezolizumab is 0.200L/day. 1 , 3
+
+## Toxicity
+
+Most common adverse reactions (≥ 20% of patients) included: fatigue, decreased appetite, nausea, urinary tract infection, pyrexia, and constipation. Overdose data for atezolizumab is scarce 6 but the most common adverse reactions are fatigue, nausea, cough, dyspnea, decreased appetite, alopecia, constipation, diarrhea, peripheral neuropathies, anemia, headache, neutropenia, and vomiting. 7

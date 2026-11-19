@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_H_062
+DCI: Ethinylestradiol/Gestodene
+DrugBank ID: DB00977
+DrugBank Name: Ethinylestradiol
+Brand Names: ELLEANE | MELIANE
+Pharmaceutical Forms: Comprimé
+Dosages: 20mcg/75mcg
+Packaging: b/21
+Registration Numbers: 285/11 H 062/18/23 | 424/11 H 062/01/16
+Drug Codes: 11 H 062
+
+------------------------------------------------------------
+
+## Description
+
+Ethinylestradiol was first synthesized in 1938 by Hans Herloff Inhoffen and Walter Hohlweg at Schering. 1 It was developed in an effort to create an estrogen with greater oral bioavailability. 1 These properties were achieved by the substitution of an ethinyl group at carbon 17 of estradiol . 1 Ethinylestradiol soon replaced mestranol in contraceptive pills. 1 Ethinylestradiol was granted FDA approval on 25 June 1943. 14
+
+## Pharmacodynamics
+
+Ethinylestradiol is a synthetic estrogen that decreases luteinizing hormone to decrease endometrial vascularization, and decreases gonadotrophic hormone to prevent ovulation. 13 , 12 , 15 It has a long duration of action as it is taken once daily, and a wide therapeutic index as overdoses are generally not associated with serious adverse effects. 15 Patients should be counselled regarding the risks of thrombotic events. 15
+
+## Mechanism Of Action
+
+Estrogen receptor Agonist
+
+## Absorption
+
+A 30µg oral dose of ethinylestradiol reaches a C max of 74.1±35.6pg/mL, with a T max of 1.5±0.5h, and an AUC of 487.4±166.6pg*h/mL. 10 A 1.2mg dose delivered via a patch reaches a C max of 28.8±10.3pg/mL, with a T max of 86±31h, and an AUC of3895±1423pg*h/mL. 10
+
+## Volume Of Distribution
+
+A 30µg oral dose has an apparent volume of distribution of 625.3±228.7L and a 1.2mg topical dose has an apparent volume of distribution of 11745.3±15934.8L. 10
+
+## Metabolism
+
+Ethinylestradiol can be glucuronidated by UGT1A1, UGT1A3, UGT1A4, UGT1A9, and UGT2B7. 3 , 7 Ethinylestradiol is also sulfated by SULT1A1, SULT1A3, and SULT1E1. 6 , 7 Ethinylestradiol can also be hydroxylated at positions 2, 4, 6, 7, and 16 5 , 7 by CYP3A4, CYP3A5, CYP2C8, CYP2C9, and CYP1A2. 4 , 7 These hydroxylated metabolites can be methylated by catechol-O-methyltransferase. 7 The methoxy metabolites can in turn be sulfated or glucuronidated. 7 Hover over products below to view reaction partners Ethinylestradiol Ethinylestradiol-3-sulfate Ethinylestradiol-glucuronide 2-hydroxyethinylestradiol 2-methoxyethinylestradiol 4-hydroxyethinylestradiol 4-methoxyethinylestradiol 6-hydroxyethinylestradiol 6-methoxyethinylestradiol 7-hydroxyethinylestradiol 7-methoxyethinylestradiol 16α-hydroxyethinylestradiol 16α-methoxyethinylestradiol
+
+## Route Of Elimination
+
+Ethinylestradiol is 59.2% eliminated in the urine and bile, while 2-3% is eliminated in the feces. 2 Over 90% of ethinylestradiol is eliminated as the unchanged parent drug. 2
+
+## Half Life
+
+A 30µg oral dose has a half life of 8.4±4.8h and a 1.2mg topical dose has a half life of 27.7±34.2h. 10
+
+## Clearance
+
+Ethinylestradiol has an intravenous clearance of 16.47L/h, and an estimated renal clearance of approximately 2.1L/h. 4 A 30µg oral dose has a clearance of 58.0±19.8L/h and a 1.2mg topical dose has a clearance of 303.5±100.5L/h. 10
+
+## Toxicity
+
+Female patients experiencing and overdose may present with withdrawal bleeding, nausea, vomiting, breast tenderness, abdominal pain, drowsiness, and fatigue. 15 , 25 , 16 , 17 , 24 , 18 , 19 , 20 , 21 , 22 , 23 Overdose should be treated with symptomatic and supportive care including monitoring for potassium concentrations, sodium concentrations, and signs of metabolic acidosis. 15 , 25 , 16 , 17 , 24 , 18 , 19 , 20 , 21 , 22 , 23

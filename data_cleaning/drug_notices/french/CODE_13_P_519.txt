@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_519
+DCI: Aciclovir
+Brand Names: ACICLOVIR GL
+Pharmaceutical Forms: Comprimé
+Dosages: 200MG
+Packaging: B/30
+Laboratories: N/D
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 472.59 DA
+Prescription List: Liste I
+Registration Numbers: 318/13 P 519/24
+Drug Codes: 13 P 519
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+ANTIVIRAUX

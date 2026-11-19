@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_277
+DCI: Ramipril/Hydrochlorothiazide
+DrugBank ID: DB00178
+DrugBank Name: Ramipril
+Brand Names: RAMITRIM PLUS | TANATRIL + | TRITAZIDE
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg/12.5mg
+Packaging: b/28 | b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: C09BA05
+Registration Numbers: 035/06 E 277/17/25 | 352/06 E 277/20 | 392/06 E 277/10/25
+Drug Codes: 06 E 277
+
+------------------------------------------------------------
+
+## Description
+
+Ramipril is a prodrug belonging to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to ramiprilat in the liver and, to a lesser extent, kidneys. Ramiprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Ramipril may be used in the treatment of hypertension, congestive heart failure, nephropathy, and to reduce the rate of death, myocardial infarction and stroke in individuals at high risk of cardiovascular events.
+
+## Pharmacodynamics
+
+Ramipril is an ACE inhibitor similar to benazepril, fosinopril and quinapril. 5 It is an inactive prodrug that is converted to ramiprilat in the liver, the main site of activation, and kidneys. Ramiprilat confers blood pressure lowing effects by antagonizing the effect of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure using a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may sustain the effects of ramiprilat by causing increased vasodilation and decreased blood pressure.
+
+## Mechanism Of Action
+
+Angiotensin-converting enzyme Inhibitor B1 bradykinin receptor Activator
+
+## Absorption
+
+The extent of absorption is at least 50-60%. Label . Food decreases the rate of absorption from the GI tract without affecting the extent of absorption. The absolute bioavailabilities of ramipril and ramiprilat were 28% and 44%, respectively, when oral administration was compared to intravenous administration. The serum concentration of ramiprilat was unchanged when capsules were opened and the contents dissolved in water, dissolved in apple juice, or suspended in apple sauce.
+
+## Metabolism
+
+Hepatic metabolism accounts for 75% of total ramipril metabolism. Label 25% of hepatic metabolism produces the active metabolite ramiprilat via liver esterase enzymes. 100% of renal metabolism converts ramipril to ramiprilat. Other metabolites, diketopiperazine ester, the diketopiperazine acid, and the glucuronides of ramipril and ramiprilat, are inactive. Hover over products below to view reaction partners Ramipril Diketopiperazine acid Diketopiperazine ester Ramiprilat
+
+## Route Of Elimination
+
+Following oral administration, about 60% of the dose is eliminated in the urine as unchanged ramipril (<2%) and its metabolites. About 40% of the dose is found in the feces, representing both unabsorbed drug and drugs and metabolites eliminated via biliary excretion. The urinary excretion of ramipril may be reduced in patients with impaired renal function. 6
+
+## Half Life
+
+Plasma concentrations of ramiprilat decline in a triphasic manner. Label Initial rapid decline represents distribution into tissues and has a half life of 2-4 hours. The half life of the apparent elimination phase is 9-18 hours, which is thought to represent clearance of free drug. The half-life of the terminal elimination phase is > 50 hours and thought to represent clearance of drug bound to ACE due to its slow dissociation. The half life of ramiprilat after multiple daily doses (MDDs) is dose-dependent, ranging from 13-17 hours with 5-10 mg MDDs to 27-36 hours for 2.5 mg MDDs.
+
+## Clearance
+
+The renal clearance of ramipril and ramiprilat was reported to be 7.2 and 77.4 mL/min/1.73m 2 . 4 The mean renal clearance of ramipril and ramiprilat is reported to be 10.7 and 126.8 mL/min in healthy elderly patients with normal renal function, additionally the Cmax of ramiprilat is approximately 20% higher in this population. While the pharmacokinetics of ramipril appear unaffected by reduced renal function, the plasma concentration and half-life of ramiprilat are increased. In patient's with hepatic failure the concentration of ramipril is initially increased while the tmax of ramiprilat is prolonged due to a reduced ability to metabolize the drug. However, steady state concentrations of ramiprilat are the same in hepatic failure as in healthy patients.
+
+## Toxicity
+
+Symptoms of overdose may include excessive peripheral vasodilation (with marked hypotension and shock), bradycardia, electrolyte disturbances, and renal failure. Cases of ACE inhibitor induced hepatotoxicity have been reported in humans and presented as acute jaundice and elevated liver enzymes. 3 Removal of the ACE inhbitor resulted in a decline in liver enzymes and re-challenge produced a subsequent increase. There were no observed tumerogenic effects at chronic doses up to 500mg/kg/day to rats for 24 months or at doses up to 1000mg/kg/day to mice for 18 months. For both species doses were administered by gavage and equivalent to 200 time the maximum recommended human exposure based on body surface area. No mutagenic activity was detected in the Ames test in bacteria, the micronucleus test in mice, unscheduled DNA synthesis in a human cell line, or a forward gene-mutation assay in a Chinese hamster ovary cell line. Several metabolites of ramipril also produced negative results in the Ames test. No effects on fertility were seen in rats at doses up to 500mg/kg/day. No teratogenicity was observed in rats and cynomolgus monkeys at doses 400 times the maximum recommended human exposure nor in rabbites at 2 times the maximum recommended human exposure. LD 50 10 g/kg (rat). MSDS LD 50 10.5 g/kg (mouse). MSDS LD 50 1 g/kg (dog). MSDS

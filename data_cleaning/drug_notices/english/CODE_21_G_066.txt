@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_G_066
+DCI: anatoxine diphtérique
+DrugBank ID: DB00630
+DrugBank Name: Alendronic acid
+Brand Names: POROSIMAX PLUS
+Pharmaceutical Forms: Comprimé
+Dosages: 70mg/5600ui
+Packaging: b/04
+Laboratories: Laboratoire GlaxoSmithKline
+Registration Numbers: 289/21 G 066/15/25
+Drug Codes: 21 G 066
+
+------------------------------------------------------------
+
+## Description
+
+Alendronic acid is a second generation bisphosphonate that is used for the treatment of some forms of osteoperosis and Paget's disease Label 1 , 5 . It functions by preventing resorption of bone Label 1 .
+
+## Pharmacodynamics
+
+Alendronic acid tablets have a very low oral bioavialability Label 2 . After administration it distributes into soft tissue and bone or is excreted in the urine Label . Alendronic acid does not undergo metabolism Label .
+
+## Mechanism Of Action
+
+Farnesyl pyrophosphate synthase Inhibitor Hydroxylapatite Antagonist
+
+## Absorption
+
+Mean oral bioavailability of alendronic acid in women is 0.64% and in men is 0.59% Label 2 . Bioavailability of alendronic acid decreases by up to 40% if it is taken within an hour of a meal Label .
+
+## Volume Of Distribution
+
+28L Label .
+
+## Metabolism
+
+Urinary excretion is the sole method of elimination of alendronic acid and no metabolites are detected upon urine collection 2 .
+
+## Route Of Elimination
+
+Administration of radiolabeled alendronic acid results in 50% recovery in urine within 72 hours Label 4 . No alendronic acid is recovered in the feces Label 2 , 3 . Men excrete less alendronic acid than women, though race and advanced age do not affect elimination Label .
+
+## Half Life
+
+Due to alendronic acid being incorporated into the skeleton, the terminal half life is estimated to be over 10 years Label .
+
+## Clearance
+
+71mL/min Label .
+
+## Toxicity
+
+In clinical studies, ≥3% of patients experience abdominal pain, acid regurgitation, constipation, diarrhea, dyspepsia, musculoskeletal pain, and nausea Label . No information for treatment of overdose is available, however patients should be given milk or antacids to bind alendronic acid and vomiting should not be induced Label . Patients may experience hypocalcemia, hypophosphatemia, and upper gastrointestinal events. Label . There are currently no studies for safety and efficacy in pregnancy, though studies in pregnant rats show fetal and maternal complications at 4 times the clinical dose and pregnant rabbits do not show complications at as high as 10 times the clincal dose Label . Excretion in breast milk, and therefore safety in lactation, is unknown Label . Alendronic acid has been studied for use in pediatric patients Label . The oral bioavailability is similar to that in adult patients, but an increase in the portion of patients experiencing vomiting Label . There is no significant difference in efficacy or safety of alendronic acid in geriatric populations, though there is potential for even greater sensitivity in patients at a further advanced age than those in the study Label . Alendronic acid is not recommended for patients with creatinine clearance <35mL/min, but no dosage adjustment is necessary in hepatic impairment Label .

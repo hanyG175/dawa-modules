@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_305
+DCI: Gliquidone
+DrugBank ID: DB01251
+DrugBank Name: Gliquidone
+Brand Names: GLURENOR
+Pharmaceutical Forms: Comprimé
+Dosages: 30mg
+Packaging: b/40
+Registration Numbers: 367/14 A 305/07/15
+Drug Codes: 14 A 305
+
+------------------------------------------------------------
+
+## Description
+
+Gliquidone is a sulfonylurea drug used to treat diabetes mellitus type 2. It is an ATP-dependent K+ (KATP) channel blocker. This block causes a depolarization which leads to activation of voltage-dependent Ca channels and Ca2+ influx, and eventually increases insulin release.
+
+## Pharmacodynamics
+
+Gliquidone is an anti-diabetic drug in the sulfonylurea class. In patients with diabetes mellitus, there is a deficiency or absence of a hormone manufactured by the pancreas called insulin. Insulin is the main hormone responsible for the control of sugar in the blood. Gliquidone is an antidiabetic medication which is used in those patients with adult maturity onset or non-insulin dependent diabetes (NIDDM). It works by lowering blood sugar levels by stimulating the production and release of insulin from the pancreas. It also promotes the movement of sugar from the blood into the cells in the body which need it.
+
+## Mechanism Of Action
+
+ATP-binding cassette sub-family C member 8 Inhibitor ATP-sensitive inward rectifier potassium channel 8 Inhibitor
+
+## Half Life
+
+The mean terminal half-life was approximately 8 hours (range 5.7-9.4 hours)

@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_046
+DCI: Domperidone
+Brand Names: DOMPERIDONE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 10MG
+Packaging: B/40
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 260 DA
+PPA (DA): DA
+Prescription List: Liste II
+ATC Classification: 10F046
+Registration Numbers: 065/10 F 046/03/10 | 077/10 F 046/16 | 095/10 F 046/98/12 | 235/10 F 046/20 | 380/10 F 046/14 | 400/10 F 046/21 | 447/10 F 046/17/22 | 457/10 F 046/13 | 518/10 F 046/17/23
+Drug Codes: 10 F 046
+
+------------------------------------------------------------
+
+## Indications
+
+GASTRO-ENTEROLOGIE
+
+## Mechanism Of Action
+
+MEDICAMENTS DE LA MOTRICITE DIGESTIVE

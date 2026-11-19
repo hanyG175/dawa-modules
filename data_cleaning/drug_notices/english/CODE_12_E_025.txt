@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_025
+DCI: FER (sodium ferédétate) 34 mg/5 ml sirop (FERROSTRANE Ad Enf)
+DrugBank ID: DB13381
+DrugBank Name: Sodium feredetate
+Brand Names: FEROLAM | FERROMEX
+Pharmaceutical Forms: Siropop
+Dosages: 4.75 g/100 ml | 4.75 g/100ml
+Packaging: boite d'un flacon de 125ml | flacon/125ml
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B03 - PREPARATIONS ANTIANEMIQUES | B03A - PREPARATIONS MARTIALES | B03AC - FER, PREPARATIONS PARENTERALES
+Registration Numbers: 077/12 E 025/98/23 | 400/12 E 025/23
+Drug Codes: 12 E 025
+
+------------------------------------------------------------
+
+## Description
+
+This compound belongs to the class of organic compounds known as tetracarboxylic acids and derivatives. These are carboxylic acids containing exactly four carboxyl groups.

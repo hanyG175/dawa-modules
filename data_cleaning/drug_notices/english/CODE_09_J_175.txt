@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_J_175
+DCI: Follitropine Beta (Hormone Folliculo-Stimulante- (Fsh) Recombinante)
+DrugBank ID: DB00066
+DrugBank Name: Follitropin
+Brand Names: PUREGON
+Pharmaceutical Forms: Solution
+Dosages: 300ui/0.36ml
+Packaging: b/01 cartouche avec 06 aiguilles
+Registration Numbers: 024/09 J 175/16
+Drug Codes: 09 J 175
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Used for the treatment of female infertility, Follitropin beta or follicle stimulating hormone (FSH) stimulates ovarian follicular growth in women who do not have primary ovarian failure. FSH, the active component of Follitropin beta is the primary hormone responsible for follicular recruitment and development.
+
+## Mechanism Of Action
+
+Follicle-stimulating hormone receptor Agonist
+
+## Absorption
+
+The absorption rate is the main driving force behind the pharmokinetics of Follitropin alpha as the rate of absorption was found to be slower than the elimination rate after administration subcutaneously and intramuscularly. The bioavailability is approximately 66-76%. The time to peak after subcutaneous injection in healthy volunteers was 8-16 hours in females and 11-20 hours in males.
+
+## Volume Of Distribution
+
+8 L [female subjects following intravenous administration of a 300 IU dose]
+
+## Route Of Elimination
+
+Via liver and kidneys.
+
+## Half Life
+
+Circulation half life of 3-4 hours, elimination half life of 35-40 hours
+
+## Clearance
+
+0.01 1*h-1kg-1 [European women with a single intramuscular dose of 300 IU] 0.01 1*h-1kg-1 [Japanese women with a single intramuscular dose of 300 IU]
+
+## Toxicity
+
+Headaches, ovarian cysts, nausea and upper respiratory tract infections occurred in more than 10% of women in clinical trials. In men, the most serious adverse events reported were testicular surgery for cryptorchidism which existed prestudy, hemoptysis, an infected pilonidal cyst, and lymphadenopathy associated with an Epstein-Barr viral infection. Other concerns include overstimulation of the ovaries, pulmonary and vascular complications and multiple births. Post-marketing reports revealed hypersensitivity reactions including anaphylactoid reactions and asthma. Follitropin is contraindicated in pregnant women. No studies have been done in nursing mothers.

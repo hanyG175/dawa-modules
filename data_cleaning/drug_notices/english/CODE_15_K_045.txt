@@ -1,0 +1,24 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_K_045
+DCI: Citicoline Sous Forme Sodique
+DrugBank ID: DB12153
+DrugBank Name: Citicoline
+Brand Names: CICOLINA | CICONA BGL | CITICOLINE GL | CITICOLINE PHARMAGHREB | CITICOLINE-ISO | SOMACOLINE | SOMAZINA
+Pharmaceutical Forms: Solution
+Dosages: 100mg/ml
+Packaging: b/01 flc de 30ml avec pipette graduee | b/01 flc de 30ml avec seringue doseuse | b/01 flc de 30ml avec seringue doseuse et b/01 flc de 60ml avec seringue graduee | b/01 flc de 40ml avec seringue graduee | b/01 flc de 50ml avec pipette graduee | b/01 flc de 60ml avec pipette graduee
+Registration Numbers: 065/15 K 045/16 | 073/15 K 045/09/24 | 088/15 K 045/10 | 207/15 K 045/00/18 | 235/15 K 045/23 | 317/15 K 045/09/24 | 352/15 K 045/09/24
+Drug Codes: 15 K 045
+
+------------------------------------------------------------
+
+## Description
+
+Citicoline is a donor of choline in biosynthesis of choline-containing phosphoglycerides. It has been investigated for the treatment, supportive care, and diagnosis of Mania, Stroke, Hypomania, Cocaine Abuse, and Bipolar Disorder, among others.
+
+## Mechanism Of Action
+
+Target Actions Organism U LicC protein Not Available Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)

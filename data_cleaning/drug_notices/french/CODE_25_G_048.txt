@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_G_048
+DCI: Chlorure De Sodium/Chlorure De Potassium/Chlorure De Calcium/Chlorure De Magnesium/Acide Acetique | Concentre Acide Pour Hemodialyse
+Brand Names: CONCENTRE ACIDE POUR HEMODIALYSE AU BICARBONATE | SOFACID A1
+Pharmaceutical Forms: Sol. Conc. Acide Pour Hemodialyse | Sol. Dialyse
+Dosages: 170.06g/5.49g/9.48g/5.62g/8.85g/l
+Packaging: BIDON/10L | bidon de 10l
+Laboratories: IMC ( INDUSTRIE MEDICO-CHIRURGICALES)
+Countries: ALGERIE
+Prescription List: N/D
+ATC Classification: 25G048
+Registration Numbers: 280/25 G 048/04 | 405/25 G 048/08
+Drug Codes: 25 G 048
+
+------------------------------------------------------------
+
+## Indications
+
+UROLOGIE ET NEPHROLOGIE
+
+## Mechanism Of Action
+
+EPURATION EXTRA-RENALE

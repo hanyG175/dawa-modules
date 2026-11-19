@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_047
+DCI: TAMSULOSINE CHLORHYDRATE 0,4 mg gél LP (TAMSULOSINE ARROW LP)
+Brand Names: GAMCET | OLSERAZ | PROSTALOZINE LP | PROSTAM LP | PROSTASIR LP | SULOZIR LP | TAMSIR LP | TAMSULIX LP | TAMSULOSINE BEKER LP | TAMSULOSINE MM LP | TAMSUMED LP | TAMSUPROST
+Pharmaceutical Forms: Comprimé | Gélule | Microgranule En Gellule Liberation Prolongee
+Dosages: 0.4 mg | 0.4mg
+Packaging: b/30 | b/30 et b/90
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G04 - MEDICAMENTS UROLOGIQUES | G04C - MEDICAMENTS UTILISES DANS L'HYPERTROPHIE BENIGNE DE LA PROSTATE | G04CA - ALPHA-BLOQUANTS | G04CA02 - TAMSULOSINE
+Registration Numbers: 035/25 B 047/14 | 055/25 B 047/19 | 088/25 B 047/11 | 149/25 B 047/14 | 286/25 B 047/15 | 289/25 B 047/12/23 | 320/25 B 047/10 | 352/25 B 047/12/22 | 426/25 B 047/12/22 | 447/25 B 047/15/23 | 470/25 B 047/12/23 | 544/25 B 047/23
+Drug Codes: 25 B 047
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | tamsulosine chlorhydrate : 0.4 mg | Modalités d'administration | Voie orale | Administrer après le repas du matin ou du midi | Administrer avec une quantité suffisante d'eau | Administrer en position assise ou debout | Administrer entier | Administrer toujours à la même heure | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Patient de sexe masculin | Hypertrophie bénigne de la prostate | Posologie standard | 1 gélule 1 fois par jour
+
+## Precautions
+
+Insuffisance coronarienne | Insuffisance rénale très sévère : clairance de la créatinine < 10 ml/min | Intervention chirurgicale de la cataracte | Intervention chirurgicale du glaucome | Jeune homme de moins de 18 ans | Sujet âgé | Sujet à risque d'hypotension artérielle
+
+## Mechanism Of Action
+
+Tamsulosine : Mécanisme d'action | La tamsulosine est un antagoniste des récepteurs alpha1-adrénergiques post-synaptiques sélectif des sous-types de récepteurs alpha | 1A | et alpha | 1D | . Ces propriétés se traduisent par une relaxation du muscle lisse de la prostate et de l'urètre. | La tamsulosine augmente le débit urinaire et améliore les syndromes obstructifs par la relaxation exercée sur les muscles lisses prostatiques et urétraux. | Les effets de Josir sur l'obstruction et la miction sont maintenus lors du traitement à long terme. | Les alpha-1-bloquants peuvent entraîner une diminution de la pression artérielle par un mécanisme de diminution des résistances vasculaires périphériques. Au cours des essais cliniques avec la tamsulosine, il n'a pas été rapporté de diminution de la pression artérielle cliniquement significative.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Syndrome de Stevens-Johnson (Très rare) | - Dermatite exfoliative | - Erythème polymorphe | DIVERS: | - Asthénie (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Angioedème (Rare) | OPHTALMOLOGIE: | - Syndrome de l'iris flasque per-opératoire | - Défauts visuels | - Acuité visuelle (diminution) | - Trouble de la vision | - Vision floue | ORL, STOMATOLOGIE: | - Congestion nasale (Peu fréquent) | - Vertige (Fréquent) | - Rhinite (Peu fréquent) | - Sensation de vertige (Fréquent) | - Epistaxis | - Sécheresse buccale | SYSTÈME CARDIOVASCULAIRE: | - Palpitation (Peu fréquent) | - Hypotension orthostatique (Peu fréquent) | - Syncope (Rare) | - Fibrillation auriculaire | - Tachycardie | - Arythmie | SYSTÈME DIGESTIF: | - Constipation (Peu fréquent) | - Nausée (Peu fréquent) | - Diarrhée (Peu fréquent) | - Vomissement (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | - Somnolence | SYSTÈME RESPIRATOIRE: | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Trouble de l'éjaculation (Fréquent) | - Priapisme (Très rare) | - Anéjaculation | - Ejaculat (diminution) | - Ejaculation rétrograde

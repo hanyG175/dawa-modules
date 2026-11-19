@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_D_037
+DCI: Miconazole
+DrugBank ID: DB01110
+DrugBank Name: Miconazole
+Brand Names: DAKTAZOL | MICONAZOLE NOVAGENERICS
+Pharmaceutical Forms: Gélule
+Dosages: 0.02 | 2g%
+Packaging: T/50G + CUILLIERE MESURE DE 5ML | t/40g+une cuill7re mesure
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 392,52 DA
+PPA (DA): 392,52 DA
+Prescription List: Liste I
+ATC Classification: 23D037
+Registration Numbers: 088/23 D 037/23 | 149/23 D 037/15/21 | 263/23 D 037/21 | 352/23 D 037/17 | 418/23 D 037/18/23
+Drug Codes: 23 D 037
+
+------------------------------------------------------------
+
+## Description
+
+Miconazole is a broad-spectrum azole antifungal with some activity against Gram-positive bacteria as well. 3 It is widely used to treat mucosal yeast infections, including both oral and vaginal infections; although intravenous miconazole is no longer available, a wide variety of suppositories, creams, gels, and tablet-based products are available. 13 , 14 , 15 , 16 , 17 Miconazole is thought to act primarily through the inhibition of fungal CYP450 14α-lanosterol demethylase activity. 3 , 4 Miconazole was first synthesized in 1969 and first granted FDA approval on January 8, 1974, for sale by INSIGHT Pharmaceuticals as a topical cream. 12 , 13 It is currently available as a variety of prescription and over the counter products. Despite having been in clinical use for an extended period, resistance to miconazole among susceptible organisms is relatively low. 3
+
+## Pharmacodynamics
+
+Miconazole is an azole antifungal that functions primarily through inhibition of a specific demethylase within the CYP450 complex. 3 As miconazole is typically applied topically and is minimally absorbed into the systemic circulation following application, the majority of patient reactions are limited to hypersensitivity and cases of anaphylaxis. 13 Patients using intravaginal miconazole products are advised not to rely on contraceptives to prevent pregnancy and sexually transmitted infections, as well as not to use tampons concurrently. 15
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Inhibitor
+
+## Absorption
+
+Miconazole given to healthy volunteers as a single 50 mg oral tablet produced a mean C max of 15.1 ± 16.2 mcg/mL, a mean AUC 0-24 of 55.2 ± 35.1 mcg*h/mL, and a median T max of 7 hours (range 2.0-24.1). In these patients measurable plasma concentrations ranged from 0.5 to 0.83 mcg/mL. 13 Topical miconazole is absorbed poorly into the systemic circulation. 3 In pediatric patients aged 1-21 months given multiple topical applications of miconazole ointment for seven days, the plasma miconazole concentration was less than 0.5 ng/mL in 88% of the patients, with the remaining patients having a concentration of 0.57 and 0.58 ng/mL, respectively. 14 Similarly, patients. administered with a vaginal 1200 mg ovule had a mean C max of 10.71 ng/mL, mean T max of 18.4 hours, and mean AUC 0-96 of 477.3 ng*h/mL. 9
+
+## Volume Of Distribution
+
+A 1200 mg miconazole vaginal suppository resulted in a calculated apparent volume of distribution of 95 546 L while a 100 mg vaginal cream yielded an apparent volume of distribution of 10 911L. 9
+
+## Metabolism
+
+Miconazole is metabolized in the liver and does not give rise to any active metabolites. 13
+
+## Route Of Elimination
+
+Miconazole is excreted through both urine and feces; less than 1% of unchanged miconazole is recovered in urine. 13
+
+## Half Life
+
+Miconazole has a terminal half-life of 24 hours. 13
+
+## Toxicity
+
+Miconazole overdose has not been reported. 13 Patients experiencing an overdose are at an increased risk of severe adverse effects such as headache, skin irritation, diarrhea, nausea, vomiting, abdominal pain, and dysgeusia. Symptomatic and supportive measures are recommended. Miconazole has an oral LD 50 of 500 mg/kg in rats. MSDS

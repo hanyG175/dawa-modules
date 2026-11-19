@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_266
+DCI: Telmisartan/Hydrochlorothiazide
+DrugBank ID: DB00966
+DrugBank Name: Telmisartan
+Brand Names: CARDOMYL PLUS | CO BEKERDIS | CO TENSOTEL | MICARDIS PLUS | MIZART PLUS | TELMED PLUS 80/12.5 | TELMIDIS PLUS | TELMISARTE+
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg/12.5mg
+Packaging: b/28 | b/30
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: C09DA07
+Registration Numbers: 035/06 E 266/17/25 | 152/06 E 266/08/23 | 268/06 E 266/24 | 285/06 E 266/24 | 289/06 E 266/24 | 321/06 E 266/20 | 352/06 E 266/22 | 447/06 E 266/19
+Drug Codes: 06 E 266
+
+------------------------------------------------------------
+
+## Description
+
+Telmisartan is an angiotensin II receptor antagonist (ARB) used in the management of hypertension. Generally, angiotensin II receptor blockers (ARBs) such as telmisartan bind to the angiotensin II type 1 (AT1) receptors with high affinity, causing inhibition of the action of angiotensin II on vascular smooth muscle, ultimately leading to a reduction in arterial blood pressure. 1 , 2 Recent studies suggest that telmisartan may also have PPAR-gamma agonistic properties that could potentially confer beneficial metabolic effects. 3
+
+## Pharmacodynamics
+
+Telmisartan is an orally active nonpeptide angiotensin II antagonist that acts on the AT 1 receptor subtype. It has the highest affinity for the AT 1 receptor among commercially available ARBs and has minimal affinity for the AT 2 receptor. 5 New studies suggest that telmisartan may also have PPARγ agonistic properties that could potentially confer beneficial metabolic effects, as PPARγ is a nuclear receptor that regulates specific gene transcription, and whose target genes are involved in the regulation of glucose and lipid metabolism, as well as anti-inflammatory responses. This observation is currently being explored in clinical trials. 3 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. Telmisartan works by blocking the vasoconstrictor and aldosterone secretory effects of angiotensin II. 2 , 5
+
+## Mechanism Of Action
+
+Peroxisome proliferator-activated receptor gamma Partial agonist Type-1 angiotensin II receptor Antagonist
+
+## Absorption
+
+Oral telmisartan follows nonlinear pharmacokinetics over the dose range of 20 mg to 160 mg. Both C max and AUC present greater than proportional increases at higher doses. With once-daily dosing, telmisartan has trough plasma concentrations of about 10% to 25% of peak plasma concentrations. The absolute bioavailability of telmisartan depends on the dosage. At 40 mg and 160 mg, the bioavailability was 42% and 58%, respectively. Food slightly decreases bioavailability. For instance, when the 40 mg dose is administered with food, a decrease of about 6% is seen, and with the 160 mg dose, there is a decrease of about 20%. 5
+
+## Volume Of Distribution
+
+Telmisartan has a volume of distribution of approximately 500 liters. 5
+
+## Metabolism
+
+Minimally metabolized by conjugation to form a pharmacologically inactive acyl-glucuronide, the glucuronide of the parent compound is the only metabolite that has been identified in human plasma and urine. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan. 5
+
+## Route Of Elimination
+
+Following either intravenous or oral administration of 14C-labeled telmisartan, most of the administered dose (>97%) was eliminated unchanged in feces via biliary excretion; only minute amounts were found in the urine (0.91% and 0.49% of total radioactivity, respectively). 5
+
+## Half Life
+
+Telmisartan displays bi-exponential decay kinetics with a terminal elimination half-life of approximately 24 hours. 5
+
+## Clearance
+
+Telmisartan has a total plasma clearance of >800 mL/min. 5
+
+## Toxicity
+
+Intravenous LD 50 in rats is 150-200 mg/kg in males and 200 to 250 mg/kg in females. Acute oral toxicity is low: no deaths and no changes occurred in rats or dogs at 2000 mg/kg, the highest dose tested. 6 Limited data are available with regard to overdosage in humans. The most likely manifestations of overdosage with telmisartan would be hypotension, dizziness and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation. Supportive treatment should be instituted if symptomatic hypotension occurs. Telmisartan is not removed by hemofiltration and is not dialyzable. 5

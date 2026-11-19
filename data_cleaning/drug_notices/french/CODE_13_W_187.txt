@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_W_187
+DCI: CILASTATINE (sodique) 500 mg + IMIPENEM 500 mg pdre p sol p perf (IMIPENEM/CILASTATINE ACS DOBFAR) | Imipenem**(Sous Forme Monohydratee)/Cilastatine**Acide (Sous Forme Sodique)
+Brand Names: CILANEM | IMECISTAL | SAMIPENEM
+Pharmaceutical Forms: Poudre
+Dosages: 500mg**/500mg**/fl. de pdre. | 500mg/500mg | 500mg/500mg/fl.
+Packaging: b/10fl. de pdre de 10ml | b/1fl. de pdre. | b/1fl. de pdre. de 20ml
+Registration Numbers: 039/13 W 187/09/20 | 216/13 W 187/10/16 | 556/13 W 187/21
+Drug Codes: 13 W 187
+
+------------------------------------------------------------
+
+## Conservation
+
+name: IMIPENEM/CILASTATINE ACS DOBFAR 500 mg/500 mg Pdr sol perf 10Fl/20ml
+conservation: Cip : 3400955031963 Modalités de conservation : Avant ouverture : durant 36 mois

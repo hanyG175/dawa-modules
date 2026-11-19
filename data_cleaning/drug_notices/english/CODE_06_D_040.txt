@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_D_040
+DCI: Amiodarone | Amiodarone Chlorhydrate
+DrugBank ID: DB01118
+DrugBank Name: Amiodarone
+Brand Names: AMIODARONE CLORIDRATO BIOINDUSTRIA L.I.M | CORDARONE
+Pharmaceutical Forms: Sol. Inj. | Solution
+Dosages: 50MG/ML (150MG/3ML) | 50mg/ml (150mg/3ml)
+Packaging: B/05 AMP. DE 3ML | b/05 ampoule. de 3ml | b/06 ampoule. de 3ml
+Laboratories: BIOINDUSTRIA L.I.M | SANOFI WINTHROP INDUSTRIE | 82 AVENUE RASPAIL | 94250 GENTILLY
+Countries: ITALIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste II
+ATC Classification: 06D040 | C01BD01
+Registration Numbers: 003/06 D 040/07/23 | 376/06 D 040/97/17 | 505/06 D 040/19
+Drug Codes: 06 D 040
+
+------------------------------------------------------------
+
+## Description
+
+Amiodarone is a benzofuran derivative, anti-arrhythmic drug used commonly in a variety of settings. 4 Most known for its approved indication in life-threatening ventricular arrhythmias, it is also used off-label in the outpatient and inpatient setting for atrial fibrillation. Because of its ability to cause serious toxicity and possibly death, amiodarone use should be reserved for its approved indications, according to prescribing information. 18 , 19 , 20
+
+## Pharmacodynamics
+
+After intravenous administration, amiodarone acts to relax smooth muscles that line vascular walls, decreases peripheral vascular resistance (afterload), and increases the cardiac index by a small amount. Administration by this route also decreases cardiac conduction, preventing and treating arrhythmias. 2 , 7 , 18 When it is given orally, however, amiodarone does not lead to significant changes in the left ventricular ejection fraction. Similar to other anti-arrhythmic agents, controlled clinical trials do not confirm that oral amiodarone increases survival. 18 Amiodarone prolongs the QRS duration and QT interval. In addition, a decreased SA (sinoatrial) node automaticity occurs with a decrease in AV node conduction velocity. Ectopic pacemaker automaticity is also inhibited. 19 Thyrotoxicosis or hypothyroidism may also result from the administration of amiodarone, which contains high levels of iodine, and interferes with normal thyroid function. 11
+
+## Mechanism Of Action
+
+HERG human cardiac K+ channel Inhibitor Beta adrenergic receptor Inhibitor Downregulator
+
+## Absorption
+
+The Cmax of amiodarone in the plasma is achieved about 3 to 7 hours after administration. 18 The general time to onset of action of amiodarone after one dose given by the intravenous route is between 1 and 30 minutes, with therapeutic effects lasting from 1-3 hours. Steady-state concentrations of amiodarone in the plasma ranges between 0.4 to 11.99 μg/ml; it is advisable that steady-state levels are generally maintained between 1.0 and 2.5 μg/ml in patients with arrhythmias. 4 , 5 Interestingly, its onset of action may sometimes begin after 2 to 3 days, but frequently takes 1 to 3 weeks, despite the administration of higher loading doses. 18 The bioavailability of amiodarone varies in clinical studies, averaging between 35 and 65%. 18 Effect of food In healthy subjects who were given a single 600-mg dose immediately after consuming a meal high in fat, the AUC of amiodarone increased by 2.3 and the Cmax by 3.8 times. 18 Food also enhances absorption, reducing the Tmax by about 37%. 18
+
+## Volume Of Distribution
+
+In a pharmacokinetic study of 3 healthy individuals and 3 patients diagnosed with supraventricular tachycardia (SVT), the volume of distribution was found to be 9.26-17.17 L/kg in healthy volunteers and 6.88-21.05 L/kg in the SVT patients. 6 Prescribing information mentions that the volume of distribution of amiodarone varies greatly, with a mean distribution of approximately 60 L/kg. It accumulates throughout the body, especially in adipose tissue 4 and highly vascular organs including the lung, liver, and spleen. One major metabolite of amiodarone, desethylamiodarone (DEA), is found in even higher proportions in the same tissues as amiodarone. 18
+
+## Metabolism
+
+This drug is metabolized to the main metabolite desethylamiodarone (DEA) 4 by the CYP3A4 and CYP2C8 enzymes. The CYP3A4 enzyme is found in the liver and intestines. 18 A hydroxyl metabolite of DEA has been identified in mammals, but its clinical significance is unknown. 12 Hover over products below to view reaction partners Amiodarone Desethylamiodarone 3'-hydroxylamiodarone
+
+## Route Of Elimination
+
+Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion. 4 A small amount of desethylamiodarone (DEA) is found in the urine. 18
+
+## Half Life
+
+The terminal half-life of amiodarone varies according to the patient, but is long nonetheless, and ranges from about 9-100 days. The half-life duration varies according to different sources. 3 , 7 According to the prescribing information for amiodarone, the average apparent plasma terminal elimination half-life of amiodarone is of 58 days (ranging from 15 to 142 days). The terminal half-life range was between 14 to 75 days for the active metabolite, (DEA). 18 The plasma half-life of amiodarone after one dose ranges from 3.2 to 79.7 hours, according to one source. 4
+
+## Clearance
+
+The clearance of amiodarone after intravenous administration in patients with ventricular fibrillation and ventricular tachycardia ranged from 220 to 440 ml/hr/kg in one clinically study. 18 Another study determined that the total body clearance of amiodarone varies from 0.10 to 0.77 L/min after one intravenous dose. 4 Renal impairment does not appear to affect the clearance of amiodarone, but hepatic impairment may reduce clearance. Patients with liver cirrhosis exhibited significantly lower Cmax and mean amiodarone concentration for DEA, but not for amiodarone. Severe left ventricular dysfunction prolongs the half-life of DEA. 18 A note on monitoring No guidelines have been developed for adjusting the dose of amiodarone in renal, hepatic, or cardiac abnormalities. In patients on chronic amiodarone treatment, close clinical monitoring is advisable, especially for elderly patients and those with severe left ventricular dysfunction. 18
+
+## Toxicity
+
+The LD50 of oral amiodarone in mice and rats exceeds 3,000 mg/kg. 18 An overdose with amiodarone can have a fatal outcome due to its potential to cause arrhythmia. Signs or symptoms of an overdose may include, hypotension, shock, bradycardia, AV block, and liver toxicity. In cases of an overdose, initiate supportive treatment and, if needed, use fluids, vasopressors, or positive inotropic agents. Temporary pacing may be required for heart block. Ensure to monitor liver function regularly. Amiodarone and its main metabolite, DEA, are not removable by dialysis. 17

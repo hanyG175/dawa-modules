@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_088
+DCI: Fluoxetine
+DrugBank ID: DB00472
+DrugBank Name: Fluoxetine
+Brand Names: FLUOXETINE MERINAL
+Pharmaceutical Forms: Gles.
+Dosages: 20MG
+Packaging: B/30
+Laboratories: MERINAL
+Countries: ALGERIE
+Reference Tariff (DA): 391 DA
+PPA (DA): 380.00 DA
+Prescription List: Liste I
+ATC Classification: N06AB03
+Registration Numbers: 285/16 A 088/06
+Drug Codes: 16 A 088
+
+------------------------------------------------------------
+
+## Description
+
+Fluoxetine is a 2nd generation antidepressant categorized as a selective serotonin reuptake inhibitor (SSRI). 2 It gained FDA approval in 1987 and although it was initially intended for the treatment of depression, today it is commonly prescribed to manage depression in addition to various other pathologies. 13
+
+## Pharmacodynamics
+
+Fluoxetine blocks the serotonin reuptake transporter in the presynaptic terminal, which ultimately results in sustained levels of 5-hydroxytryptamine (5-HT) in certain brain areas. 13 However, fluoxetine binds with relatively poor affinity to 5-HT, dopaminergic, adrenergic, cholinergic, muscarinic, and histamine receptors which explains why it has a far more desirable adverse effect profile compared to earlier developed classes of antidepressants such as tricyclic antidepressants. 13 2
+
+## Mechanism Of Action
+
+Sodium-dependent serotonin transporter Inhibitor
+
+## Absorption
+
+The oral bioavailability of fluoxetine is <90% as a result of hepatic first pass metabolism. 13 In a bioequivalence study, the Cmax of fluoxetine 20 mg for the established reference formulation was 11.754 ng/mL while the Cmax for the proposed generic formulation was 11.786 ng/ml. 11 Fluoxetine is very lipophilic and highly plasma protein bound, allowing the drug and it's active metabolite, norfluoxetine, to be distributed to the brain. 13
+
+## Volume Of Distribution
+
+The volume of distribution of fluoxetine and it's metabolite varies between 20 to 42 L/kg. 6
+
+## Metabolism
+
+Fluoxetine is metabolized to norfluoxetine by CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6, CYP3A4, and CYP3A5 upon ingestion. 13 8 Although all of the mentioned enzymes contribute to N-demethylation of fluoxetine, CYP2D6, CYP2C9 and CYP3A4 appear to be the major contributing enzymes for phase I metabolism. 8 In addition, there is evidence to suggest that CYP2C19 and CYP3A4 mediate O-dealkylation of fluoxetine and norfluoxetine to produce para-trifluoromethylphenol which is subsequently metabolized to hippuric acid. 9 10 Both fluoxetine and norfluoxetine undergo glucuronidation to facilitate excretion. 13 Notably, both the parent drug and active metabolite inhibit CYP2D6 isozymes, and as a result patients who are being treated with fluoxetine are susceptible to drug interactions. 13 16 Hover over products below to view reaction partners Fluoxetine Norfluoxetine 4-Trifluoromethylphenol Hippuric acid Norfluoxetine alcohol Norfluoxetine acid Norfluoxetine glucuronide 4-Trifluoromethylphenol Hippuric acid Fluoxetine glucuronide
+
+## Route Of Elimination
+
+Fluoxetine is primarily eliminated in the urine. 15
+
+## Half Life
+
+The half life of fluoxetine is significant with the elimination half-life of the parent drug averaging 1-3 days after acute administration, and 4-6 days after chronic administration. 12 Further, the elimination half life of it's active metabolite, norfluoxetine, ranges from 4-16 days after both acute and chronic administration. 12 The half-life of fluoxetine should be considered when switching patients from fluoxetine to another antidepressant since marked accumulation occurs after chronic use. 12 Fluoxetine's long half-life may even be beneficial when discontinuing the drug since the risk of withdrawal is minimized. 13
+
+## Clearance
+
+The clearance value of fluoxetine in healthy patients is reported to be 9.6 ml/min/kg. 7
+
+## Toxicity
+
+In a report that included 234 fluoxetine overdose cases, it was concluded that symptoms resulting from fluoxetine overdose were generally minor and short in duration. 5 The most common overdose adverse effects included drowsiness, tremor, tachycardia, nausea and vomiting, and providing the patient with aggressive supportive care was the recommended intervention. 4 5 Despite this evidence, more severe adverse effects have been linked to fluoxetine ingestion although most of these reports involved co-ingestion with other substances or drugs as well as other factors. 4 For example, there is a case report that details a patient who ingested 1400 mg of fluoxetine in a suicide attempt and as a result, experienced a generalized seizure three hours later. 4 In a separate case, a 14 year old patient ingested 1.2 g of fluoxetine and subsequently experienced tonic/clonic seizures, symptoms consistent with serotonin syndrome, and rhabdomyolysis, although the patient did not experience sustained renal injury. 6

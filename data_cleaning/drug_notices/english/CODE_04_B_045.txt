@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_045
+DCI: DIACEREINE 50 mg gél (DIACEREINE MYLAN)
+DrugBank ID: DB11994
+DrugBank Name: Diacerein
+Brand Names: ARTROPI | DIACENE 50
+Pharmaceutical Forms: Gélule
+Dosages: 50mg
+Packaging: b/20 | b/30
+ATC Classification: M - MUSCLE ET SQUELETTE | M01 - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX | M01A - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AX - AUTRES ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AX21 - DIACEREÏNE
+Registration Numbers: 097/04 B 045/17 | 348/04 B 045/17
+Drug Codes: 04 B 045
+
+------------------------------------------------------------
+
+## Description
+
+Diacerein is a prodrug which is metabolized to rhein. It is currently approved in France for the treatment of osteoarthritis although the use of diacerein is restricted due to the side effects including severe diarrhea 6 . Diacerein is under investigation for the treatment of Insulin Resistance, Diabetes Mellitus (Type 2), and Diabetes-Related Complications.
+
+## Pharmacodynamics
+
+Decreases inflammation and cartilage destruction and also corrects altered osteoblast acitivity 3 4 5 .
+
+## Mechanism Of Action
+
+Diacerein's active metabolite rhein Rhein reduces cartilage destruction by decreasing expression of matrix metalloproteinase (MMP)-1 and -3 as well as upregulating tissue inhibitor of matrix metalloproteinases which serve to reduce the activity of several MMPs 5 . The anti-inflammatory action of rhein reduces the level of interleukin-1beta activity which plays a large role in reduction of extracellular matrix production, MMP activity, and continued inflammation 4 . Rhein reduces abnormal osteoblast synthetic activity through an unknown mechanism 3 . Target Actions Organism U Interleukin-1 beta inhibitor Humans U Oxysterols receptor LXR-alpha inhibitor Humans U Oxysterols receptor LXR-beta inhibitor Humans U Arylamine N-acetyltransferase inhibitor Helicobacter pylori U Polyunsaturated fatty acid 5-lipoxygenase inhibitor Humans U Cytochrome P450 1A2 inhibitor Humans U Cytochrome P450 3A Subfamily inhibitor Humans U Cytochrome P450 2E1 inhibitor Humans U Cytochrome P450 2C9 inhibitor Humans U Cytochrome P450 2D6 inhibitor Humans
+
+## Absorption
+
+Bioavailability of 50-60% 1 . Entirely converted to the active metabolite rhein Rhein before reaching systemic circulation.
+
+## Metabolism
+
+Entirely converted to rhien Rhein through double deacetylation before reaching systemic circulation 1 . Rhein Rhein is further metabolized to rhein glucuronide and rhein sulfate. Hover over products below to view reaction partners Diacerein Rhein
+
+## Route Of Elimination
+
+37% excreted in urine and 53% in feces as estimated in rats 2 .
+
+## Clearance
+
+Total CL is 1.5L/h and renal CL is 0.1L/h 1 .
+
+## Toxicity
+
+Rhein Rhein has an oral LD50 of >5000mg/kg in mice. This is equivalent to a diacerein dose of >6476mg/kg.

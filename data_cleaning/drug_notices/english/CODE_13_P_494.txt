@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_494
+DCI: Darunavir | Darunavir Ethanolate Exprime En Darunavir
+DrugBank ID: DB01264
+DrugBank Name: Darunavir
+Brand Names: DANAVIR | PREZISTA
+Pharmaceutical Forms: Comprimé
+Dosages: 600mg
+Packaging: b/01 pilulier de 60 | b/60
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: J05AE10
+Registration Numbers: 095/13 P 494/19 | 524/13 P 494/20
+Drug Codes: 13 P 494
+
+------------------------------------------------------------
+
+## Description
+
+Darunavir is a protease inhibitor used with other HIV protease inhibitor drugs as well as ritonavir for the effective management of HIV-1 infection. 17 As a second-generation protease inhibitor, darunavir is designed to combat resistance to standard HIV therapy. 2 , 5 It was initially approved by the FDA in 2006. 17 Darunavir is being studied as a possible treatment for SARS-CoV-2, the coronavirus responsible for COVID-19, due to in vitro evidence supporting its ability to combat this infection. 14 Clinical trials are underway and are expected to conclude in August 2020. 19
+
+## Pharmacodynamics
+
+Darunavir is an inhibitor of the human immunodeficiency virus (HIV) protease, which prevents HIV viral replication. 17 When administered with ritonavir in combination antiretroviral therapy, darunavir significantly decreases viral load and increases CD4 cell counts, decreasing the morbidity and mortality of HIV infection. 2 , 5 , 8
+
+## Mechanism Of Action
+
+Pol polyprotein (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+The absolute oral bioavailability of one single 600 mg dose of darunavir alone and with 100 mg of ritonavir twice a day was 37% and 82%, respectively. 15 Exposure to darunavir in boosted patients has been found to be 11 times higher than in unboosted patients. 7 Tmax is achieved approximately 2.4 to 4 hours after oral administration. 15 , 17 When darunavir is taken with food, the Cmax and AUC of darunavir given with ritonavir increase by 30% when compared to the fasted state. 15
+
+## Volume Of Distribution
+
+The volume of distribution of darunavir in one pharmacokinetic study in conjunction with ritonavir was 206.5 L (with a range of 161.0–264.9) in healthy young adult volunteers. 10 Another pharmacokinetic study revealed a volume of distribution of 220 L. 11
+
+## Metabolism
+
+Darunavir is heavily oxidized and metabolized by hepatic cytochrome enzymes, mainly CYP3A. 17 Darunavir is extensively metabolized in subjects who do not receive a booster, primarily via carbamate hydrolysis, isobutyl aliphatic hydroxylation, and aniline aromatic hydroxylation, as well as both benzylic aromatic hydroxylation and glucuronidation. 7
+
+## Route Of Elimination
+
+A mass balance study in healthy volunteers demonstrated that after single dose administration of 400 mg 14C-darunavir, given with 100 mg ritonavir, approximately 79.5% and 13.9% of the administered dose of radiolabeled darunavir was obtained in the feces and urine, respectively. Excretion of unchanged drug accounted for 8.0% of the darunavir dose in volunteers who were unboosted. 7 In boosted darunavir administration, unchanged darunavir made up 48.8% of the excreted dose in boosted subjects due to inhibition of darunavir metabolism by ritonavir. Unchanged drug in the urine made up 1.2% of the administered dose in volunteers who where unboosted, and 7.7% in boosted volunteers. 7
+
+## Half Life
+
+The terminal elimination half-life of darunavir is approximately 15 hours when it is combined with ritonavir. 1 , 17
+
+## Clearance
+
+Darunavir has a low renal clearance. 7 After intravenous administration, the clearance darunavir administered alone and with 100 mg ritonavir twice daily, was 32.8 L/h and 5.9 L/h, respectively. 17
+
+## Toxicity
+
+LD50 information for darunavir is not readily available in the literature. 13 One-time doses of up to 3,200 mg of darunavir in an oral solution and up to 1,600 mg of the tablet formulation of darunavir with ritonavir have been given volunteers without significant symptoms. 18 Information about an overdose with darunavir with ritonavir is limited. No specific antidote exists for this drug. Treatment of In the case of an overdose, employ general supportive measures. Monitor vital signs and clinical status. It is unlikely that darunavir not amenable to removal by dialysis due to its high level of protein binding. 17

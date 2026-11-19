@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_199
+DCI: Crizotinib
+DrugBank ID: DB08865
+DrugBank Name: Crizotinib
+Brand Names: XALKORI
+Pharmaceutical Forms: Gélule
+Dosages: 200 mg
+Packaging: pilulier de 60
+Registration Numbers: 045/05 C 199/18
+Drug Codes: 05 C 199
+
+------------------------------------------------------------
+
+## Description
+
+Crizotinib is a tyrosine kinase receptor inhibitor used for the treatment of anaplastic lymphoma kinase (ALK) or ROS1-positive non-small cell lung cancer (NSCLC) tumors, as well as ALK-positive anaplastic large cell lymphoma (ALCL) and inflammatory myofibroblastic tumor (IMT). 4 By targeting the echinoderm microtubule-associated protein-like 4 (EML4)-ALK fusion protein, crizotinib offers robust effectiveness in treating NSCLC in patients with this type of rearrangement. 3 Crizotinib was the first-in-class drug used to treat ALK-positive tumors. Second- and third-generation ALK-tyrosine kinase-inhibitors have overcome many of the pharmacodynamic and genetic resistance mechanisms crizotinib is prone to. 3 Crizotinib was approved by the FDA in 2011, and its use is accompanied by FDA-approved tests used to detect ALK and ROS1 rearrangements. 4
+
+## Pharmacodynamics
+
+In a phase I study, 37 patients with a variety of solid-tumor cancers refractory to therapy received 50 to 300 mg of crizotinib daily or twice daily. In this group, two patients with non-small cell lung cancer (NSCLC) exhibiting echinoderm microtubule-associated protein-like 4 (EML4)-anaplastic lymphoma kinase (ALK) mutations responded to therapy; therefore, following studies focused on patients with advanced ALK-positive disease. 1 In this group of patients, the 6-month progression-free survival among crizotinib users was approximately 72%. When compared to ALK mutation-positive patients that did not receive crizotinib, ALK mutation-positive patients treated with crizotinib had a higher two-year overall survival rate (54% vs 36%). 1 The use of crizotinib may lead to hepatotoxicity, interstitial lung disease (ILD), pneumonitis, QT interval prolongation, bradycardia, severe visual loss, ​​embryo-fetal toxicity and gastrointestinal toxicity in pediatric and young adult patients with anaplastic large cell lymphoma (ALCL) or pediatric patients with inflammatory myofibroblastic tumor (IMT). 4
+
+## Mechanism Of Action
+
+ALK tyrosine kinase receptor Inhibitor Hepatocyte growth factor receptor Inhibitor Proto-oncogene tyrosine-protein kinase ROS Inhibitor + 1 more target
+
+## Absorption
+
+In patients with pancreatic, colorectal, sarcoma, anaplastic large-cell lymphoma and non-small cell lung cancer (NSCLC) treated with crizotinib doses ranging from 100 mg once a day to 300 mg twice a day, the mean AUC and C max increased in a dose-proportional manner. 2 A single crizotinib dose of crizotinib is absorbed with a median t max 4 to 6 hours. 4 In patients receiving multiple doses of crizotinib 250 mg twice daily (n=167), the mean AUC was is 2321.00 ng⋅hr/mL, the mean C max was 99.60 ng/mL, and the median t max was 5.0 hours. 1 The mean absolute bioavailability of crizotinib is 43%, ranging from 32% to 66%. High-fat meals reduce the AUC 0-INF and C max of crizotinib by approximately 14%. 4 Age, sex at birth, and ethnicity (Asian vs non-Asian patients) did not have a clinically significant effect on crizotinib pharmacokinetics. In patients less than 18 years old, higher body weight was associated with a lower crizotinib exposure. 4
+
+## Volume Of Distribution
+
+Following a single intravenous dose, the mean volume of distribution (Vss) of crizotinib was 1772 L. 4
+
+## Metabolism
+
+Crizotinib is mainly metabolized in the liver by CYP3A4 and CYP3A5, and undergoes an O-dealkylation, with subsequent phase 2 conjugation. 1 Non-metabolic elimination, such as biliary excretion, can not be excluded. 5 PF-06260182 (with two constituent diastereomers, PF-06270079 and PF-06270080) is the only active metabolite of crizotinib that has been identified. In vitro studies suggest that, compared to crizotinib, PF-06270079 and PF-06270080 are approximately 3- to 8-fold less potent against anaplastic lymphoma kinase (ALK) and 2.5- to 4-fold less potent against Hepatocyte Growth Factor Receptor (HGFR, c-Met). 5 Hover over products below to view reaction partners Crizotinib PF-06260182
+
+## Route Of Elimination
+
+After administering a single 250 mg radiolabeled crizotinib dose to healthy subjects, 63% and 22% of the administered dose were recovered in feces and urine. Unchanged crizotinib represented approximately 53% and 2.3% of the administered dose in feces and urine, respectively. 4
+
+## Half Life
+
+Following single doses of crizotinib, the plasma terminal half-life was 42 hours. 4
+
+## Clearance
+
+At steady-state (250 mg twice daily), crizotinib has a mean apparent clearance (CL/F) of 60 L/hr. This value is lower than the one detected after a single 250 mg oral dose (100 L/hr), 4 , possibly due to CYP3A auto-inhibition. 5
+
+## Toxicity
+
+The maximum tolerated dose of crizotinib is the same as the recommended dosing regimen (250 mg twice daily). This was defined based on a phase 1 dose-escalation study in patients with advanced solid tumors. The treatment of crizotinib overdoses should consist of symptomatic treatment and other supportive measures. There is no antidote for crizotinib. 6 In vitro and in vivo studies have shown that crizotinib is genotoxic, and the Ames test showed that crizotinib was not mutagenic. Carcinogenicity studies with crizotinib have not been performed. 4 In female rats, 500 mg/kg/day (approximately 10 times the recommended human dose based on body surface area) of crizotinib for 3 days induced single-cell necrosis of ovarian follicles. In male rats, 50 mg/kg/day of crizotinib (greater than 1.7 times the recommended human dose) for 28 days induced testicular pachytene spermatocyte degeneration. 4

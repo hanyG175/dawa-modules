@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_070
+DCI: Iodixanol
+DrugBank ID: DB01249
+DrugBank Name: Iodixanol
+Brand Names: VISIPAQUE
+Pharmaceutical Forms: Sol.Inj.
+Dosages: 270mg i/ml
+Packaging: b/1fl 50 ml et b/10fl 50ml et b/1fl 100ml et b/10 flacon 100ml
+Laboratories: GE HEALTHCARE SAS | 283 RUE DE LA MINIERE | 78530 BUC
+ATC Classification: V08AB09
+Registration Numbers: 212/08 C 070/25
+Drug Codes: 08 C 070
+
+------------------------------------------------------------
+
+## Description
+
+Iodixanol is a nonionic hydrophilic compound commonly used as a contrast agent during coronary angiography, particularly in individuals with renal dysfunction, as it is believed to be less toxic to the kidneys than most other intravascular contrast agents.
+
+## Pharmacodynamics
+
+Iodixanol is a contrast agent commonly used during coronary angiography, particularly in individuals with renal dysfunction, as it is believed to be less toxic to the kidneys than most other intravascular contrast agents. It is an imaging contrast agent with the same osmolality as blood (290mOsm/kg H20).
+
+## Mechanism Of Action
+
+Organic iodine compounds attenuate x-rays as they pass through the body, thereby allowing the body structures containing iodine to be delineated in contrast to those structures that do not contain iodine. The degree of opacity produced by these compounds is directly proportional to the total amount (concentration and volume) of the iodinated contrast agent in the path of the x-rays. After intravascular administration, iodixanol makes opaque those internal structures in its path of flow, allowing their visualization until significant hemodilution and elimination occur.
+
+## Metabolism
+
+Excreted unchanged
+
+## Route Of Elimination
+
+In adults, approximately 97% of the injected dose of iodixanol is excreted unchanged in urine within 24 hours, with less than 2% excreted in feces within five days post-injection.
+
+## Half Life
+
+2.1 hours. In patients with significantly impaired renal function (mean creatinine clearance rate, 9.91 [± 3.58] mL per minute), the plasma half-life is increased to 23 hours.
+
+## Toxicity
+
+Non-ionic radiocontrast agents like iodixanol are cytotoxic to renal cells. The toxic effects include apoptosis, cellular energy failure, disruption of calcium homeostasis, and disturbance of tubular cell polarity, and are thought to be linked to oxidative stress.

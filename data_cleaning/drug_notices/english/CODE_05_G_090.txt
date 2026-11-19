@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_090
+DCI: Oxaliplatine
+DrugBank ID: DB00526
+DrugBank Name: Oxaliplatin
+Brand Names: OXALIPLATINE MYLAN
+Pharmaceutical Forms: Lyoph. Sol. Inj.
+Dosages: 100MG/FL. DE PDRE. (5MG/ML DE SOL. RECONSTITUEE)
+Packaging: B/1FL. DE PDRE.
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 05G090
+Registration Numbers: 330/05 G 090/12 | 450/05 G 090/12
+Drug Codes: 05 G 090
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+In vivo studies have shown antitumor activities of oxaliplatin against colon carcinoma. In combination with fluorouracil, oxaliplatin exhibits in vitro and in vivo antiproliferative activity greater than either compound alone in several tumor models (HT29 [colon], GR [mammary], and L1210 [leukemia]). 4
+
+## Mechanism Of Action
+
+DNA Adduct Cross-linking/alkylation
+
+## Absorption
+
+The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate. After a single 2-hour intravenous infusion of oxaliplatin at a dose of 85 mg/m 2 , pharmacokinetic parameters expressed as ultrafiltrable platinum was C max of 0.814 mcg/mL. Interpatient and intrapatient variability in ultrafiltrable platinum exposure (AUC 0-48hr ) assessed over 3 cycles was 23% and 6%, respectively. 4
+
+## Volume Of Distribution
+
+After a single 2-hour intravenous infusion of oxaliplatin at a dose of 85 mg/m 2 , the volume of distribution is 440 L.At the end of a 2-hour infusion, approximately 15% of the administered platinum is present in the systemic circulation. The remaining 85% is rapidly distributed into tissues or eliminated in the urine. 4
+
+## Metabolism
+
+Oxaliplatin undergoes rapid and extensive nonenzymatic biotransformation. There is no evidence of cytochrome P450-mediated metabolism in vitro. Up to 17 platinum-containing derivatives have been observed in plasma ultrafiltrate samples from patients, including several cytotoxic species (monochloro DACH platinum, dichloro DACH platinum, and monoaquo and diaquo DACH platinum) and a number of noncytotoxic, conjugated species. 4 Hover over products below to view reaction partners Oxaliplatin Monochloro DACH platinum Dichloro DACH platinum DACH platinum bis(GSH) complex DACH platinum methionine DACH platinum bis(Met) complex DACH platinum cysteine DACH platinum bis(Cys) complex Monoaquo DACH platinum Diaquo DACH platinum
+
+## Route Of Elimination
+
+The major route of platinum elimination is renal excretion. At five days after a single 2-hour infusion of ELOXATIN, urinary elimination accounted for about 54% of the platinum eliminated, with fecal excretion accounting for only about 2%. 4
+
+## Half Life
+
+The decline of ultrafilterable platinum levels following oxaliplatin administration is triphasic with two distribution phases: t1/2α; 0.43 hours and t1/2β; 16.8 hours. This is followed by a long terminal elimination phase that lasts 391 hours (t1/2γ). 4
+
+## Clearance
+
+Platinum was cleared from plasma at a rate (10-17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h). The renal clearance of ultrafiltrable platinum is significantly correlated with GFR. 4
+
+## Toxicity
+
+The maximum dose of oxaliplatin that has been administered in a single infusion is 825 mg. Several cases of overdoses have been reported with oxaliplatin. Adverse reactions observed following an overdosage were grade 4 thrombocytopenia (less than 25,000/mm3) without bleeding, anemia, sensory neuropathy (including paresthesia, dysesthesia, laryngospasm, and facial muscle spasms), gastrointestinal disorders (including nausea, vomiting, stomatitis, flatulence, abdomen enlarged and grade 4 intestinal obstruction), grade 4 dehydration, dyspnea, wheezing, chest pain, respiratory failure, severe bradycardia, and death. Closely monitor patients suspected of receiving an overdose, including for the adverse reactions described above, and administer appropriate supportive treatment. 4 Based on its direct interaction with DNA, ELOXATIN can cause fetal harm when administered to a pregnant woman. The available human data do not establish the presence or absence of major birth defects or miscarriages related to the use of oxaliplatin. Reproductive toxicity studies demonstrated adverse effects on embryo-fetal development in rats at maternal doses that were below the recommended human dose based on body surface area. Advise a pregnant woman of the potential risk to a fetus. 4 In the adjuvant treatment trial, 400 patients who received oxaliplatin with fluorouracil/leucovorin were greater than or equal to 65 years. The effect of oxaliplatin in patients greater than or equal to 65 years was not conclusive. Patients greater than or equal to 65 years receiving ELOXATIN experienced more diarrhea and grade 3-4 neutropenia (45% vs 39%) compared to patients less than 65 years. 4 The AUC of unbound platinum in plasma ultrafiltrate was increased in patients with renal impairment. No dose reduction is recommended for patients with mild (creatinine clearance 50 to 79 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal impairment, calculated by Cockcroft-Gault equation. Reduce the dose of oxaliplatin in patients with severe renal impairment (creatinine clearance less than 30 mL/min). 4 Long-term animal studies have not been performed to evaluate the carcinogenic potential of oxaliplatin. Oxaliplatin was not mutagenic to bacteria (Ames test) but was mutagenic to mammalian cells in vitro (L5178Y mouse lymphoma assay). Oxaliplatin was clastogenic both in vitro (chromosome aberration in human lymphocytes) and in vivo (mouse bone marrow micronucleus assay). 4 In a fertility study, male rats were given oxaliplatin at 0, 0.5, 1, or 2 mg/kg/day for five days every 21 days for a total of three cycles prior to mating with females that received two cycles of oxaliplatin on the same schedule. A dose of 2 mg/kg/day (less than one-seventh the recommended human dose on a body surface area basis) did not affect the pregnancy rate but resulted in 97% postimplantation loss (increased early resorptions, decreased live fetuses, decreased live births), and delayed growth (decreased fetal weight). 4 Testicular damage, characterized by degeneration, hypoplasia, and atrophy, was observed in dogs administered oxaliplatin at 0.75 mg/kg/day (approximately one-sixth of the recommended human dose on a body surface area basis) × 5 days every 28 days for three cycles. A no-effect level was not identified. 4

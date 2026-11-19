@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_C_174
+DCI: MELATONINE 1 mg cp LP (SLENYTO)
+Brand Names: DORMINE
+Pharmaceutical Forms: Comprimé
+Dosages: 1mg
+Packaging: b/60
+Laboratories: BIOCODEX
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05C - HYPNOTIQUES ET SEDATIFS | N05CH - RECEPTEURS AGONISTES DE LA MELATONINE | N05CH01 - MELATONINE
+Registration Numbers: 293/16 C 174/22
+Drug Codes: 16 C 174
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Mar 17 00:00:00 CET 2025 | is_edited: False | title: INDICATIONS | text: Slenyto est indiqué pour : | le traitement de l'insomnie chez les enfants et les adolescents de 2 à 18 ans, présentant un trouble du spectre de l'autisme (TSA) et/ou des troubles neurogénétiques avec une sécrétion diurne atypique de mélatonine et/ou des réveils nocturnes, lorsque les mesures d'hygiène du sommeil ont été insuffisantes. | le traitement de l'insomnie chez les enfants et les adolescents de 6 à 17 ans, présentant un trouble déficit de l'attention avec hyperactivité (TDAH) lorsque les mesures d'hygiène du sommeil ont été insuffisantes. | lists: le traitement de l'insomnie chez les enfants et les adolescents de 2 à 18 ans, présentant un trouble du spectre de l'autisme (TSA) et/ou des troubles neurogénétiques avec une sécrétion diurne atypique de mélatonine et/ou des réveils nocturnes, lorsque les mesures d'hygiène du sommeil ont été insuffisantes. | le traitement de l'insomnie chez les enfants et les adolescents de 6 à 17 ans, présentant un trouble déficit de l'attention avec hyperactivité (TDAH) lorsque les mesures d'hygiène du sommeil ont été insuffisantes.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | mélatonine : 2 mg | Modalités d'administration | Voie orale | Administrer 1 à 2 heures avant le coucher | Administrer après le repas | Administrer entier | Posologie | Patient à partir de 55 an(s) | Patient quel que soit le poids | Insomnie d'endormissement chez le sujet de 55 ans ou plus | Posologie standard | 2 mg 1 fois par jour | Durées absolues de traitement | Ne pas dépasser 13 semaines de traitement.
+
+## Precautions
+
+Diabète | Epilepsie | Femme susceptible d'être enceinte | Insuffisance hépatique | Insuffisance rénale | Intolérance au glucose | Maladie auto-immune | Maladie cardiovasculaire
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Mélatonine : Mécanisme d'action | La mélatonine est une hormone naturelle produite par la glande pinéale. Sa structure est voisine de celle de la sérotonine. Au plan physiologique, la sécrétion de mélatonine augmente peu après la tombée de la nuit, est à son maximum entre 2 et 4 heures du matin et diminue durant la seconde moitié de la nuit. La mélatonine participe au contrôle des rythmes circadiens et à la régulation du rythme jour-nuit. Elle est aussi associée à un effet hypnotique et à une propension accrue au sommeil. | L'activité de la mélatonine sur les récepteurs MT1, MT2 et MT3 est réputée contribuer à ses propriétés de facilitation du sommeil, puisque ces récepteurs (principalement MT1 et MT2) sont impliqués dans la régulation des rythmes circadiens et du sommeil.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Peu fréquent) | - Glycosurie (Peu fréquent) | - Hyperbilirubinémie (Peu fréquent) | - Protéinurie (Peu fréquent) | - Enzymes hépatiques (augmentation) (Rare) | - Hypertriglycéridémie (Rare) | - Paramètres biologiques (anomalie) (Rare) | - Hyponatrémie (Rare) | - Hypocalcémie (Rare) | - Hyperglycémie | - Neutropénie | DERMATOLOGIE: | - Hypersudation nocturne (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Dermatite (Peu fréquent) | - Prurit (Peu fréquent) | - Prurit généralisé (Peu fréquent) | - Sécheresse cutanée (Peu fréquent) | - Dermatite de la main (Rare) | - Onychopathie (Rare) | - Eruption cutanée généralisée (Rare) | - Erythème cutané (Rare) | - Eruption prurigineuse (Rare) | - Eczéma (Rare) | - Psoriasis (Rare) | DIVERS: | - Douleur des extrémités (Peu fréquent) | - Douleur thoracique (Peu fréquent) | - Asthénie (Peu fréquent) | - Fatigue (Fréquent) | - Douleur (Rare) | - Sensation d'état anormal | - Gonflement du visage | ENDOCRINOLOGIE: | - Galactorrhée | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Symptômes de la ménopause (Peu fréquent) | HÉMATOLOGIE: | - Thrombopénie (Rare) | - Leucopénie (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Angioedème | INFECTIOLOGIE D'ORIGINE VIRALE: | - Zona (Rare) | NUTRITION, MÉTABOLISME: | - Poids (augmentation) (Peu fréquent) | - Trouble hydroélectrolytique (Rare) | - Anorexie | OPHTALMOLOGIE: | - Hypersécrétion lacrymale (Rare) | - Vision floue (Rare) | - Trouble de la vision (Rare) | - Acuité visuelle (diminution) (Rare) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Ulcération buccale (Peu fréquent) | - Sécheresse buccale (Peu fréquent) | - Sinusite (Fréquent) | - Sialorrhée (Rare) | - Ulcère de la langue (Rare) | - Bulles buccales (Rare) | - Vertige otolithique (Rare) | - Stomatite aphteuse (Rare) | - Glossite | - Epistaxis | - Oedème buccal | PSYCHIATRIE: | - Irritabilité (Fréquent) | - Obnubilation (Fréquent) | - Insomnie (Peu fréquent) | - Léthargie (Peu fréquent) | - Nervosité (Peu fréquent) | - Sautes d'humeur (Fréquent) | - Agitation (Peu fréquent) | - Dépression (Peu fréquent) | - Anxiété (Peu fréquent) | - Agressivité (Fréquent) | - Cauchemar (Peu fréquent) | - Rêves anormaux (Peu fréquent) | - Trouble de l'attention (Rare) | - Sommeil de mauvaise qualité (Rare) | - Désorientation temporospatiale (Rare) | - Humeur dépressive (Rare) | - Trouble de l'humeur (Rare) | - Trouble du sommeil (Rare) | - Libido (augmentation) (Rare) | - Pleurs (Rare) | - Stress (Rare) | - Hallucination | SYSTÈME CARDIOVASCULAIRE: | - Hypertension artérielle (Peu fréquent) | - Bouffée de chaleur (Rare) | - Syncope (Rare) | - Angor (Rare) | - Palpitation (Rare) | SYSTÈME DIGESTIF: | - Douleur abdominale haute (Peu fréquent) | - Nausée (Peu fréquent) | - Dyspepsie (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Gêne abdominale (Rare) | - Flatulence (Rare) | - Bruits intestinaux anormaux (Rare) | - Soif (Rare) | - Vomissement (Rare) | - Gastrite (Rare) | - Halitose (Rare) | - Reflux gastro-oesophagien (Rare) | - Trouble digestif (Rare) | - Oedème de la langue | - Constipation | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Rare) | - Spasme musculaire (Rare) | - Cervicalgie (Rare) | - Arthrite (Rare) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hyperactivité psychomotrice (Peu fréquent) | - Migraine (Peu fréquent) | - Somnolence (Fréquent) | - Endormissement soudain (Fréquent) | - Réveil précoce (Rare) | - Syndrome des jambes sans repos (Rare) | - Trouble de la mémoire (Rare) | - Paresthésie (Rare) | - Sédation | - Epilepsie | SYSTÈME RESPIRATOIRE: | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Prostatite (Rare) | - Polyurie (Rare) | - Hématurie (Rare) | - Nycturie (Rare) | - Priapisme (Rare)

@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_F_528
+DCI: Ornidazole
+DrugBank ID: DB13026
+DrugBank Name: Ornidazole
+Brand Names: ORNIVODA
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/10
+Registration Numbers: 001/13 F 528/25
+Drug Codes: 13 F 528
+
+------------------------------------------------------------
+
+## Description
+
+Ornidazole has been used in trials studying the prevention of Elective Colorectal Surgery.

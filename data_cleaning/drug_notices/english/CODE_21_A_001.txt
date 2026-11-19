@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_001
+DCI: éthinylestradiol
+DrugBank ID: DB04552
+DrugBank Name: Niflumic acid
+Brand Names: FLUCIDAL | NIFLURIC
+Pharmaceutical Forms: Pommademade
+Dosages: 0.03
+Packaging: tube/40g
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03C - ESTROGENES | G03CA - ESTROGENES NATURELS ET HEMISYNTHETIQUES NON ASSOCIES | G03CA01 - ETHINYLESTRADIOL
+Registration Numbers: 003/21 A 001/98/24 | 366/21 A 001/07/13
+Drug Codes: 21 A 001
+
+------------------------------------------------------------
+
+## Description
+
+Niflumic acid is an analgesic and anti-inflammatory agent used in the treatment of rheumatoid arthritis.
+
+## Pharmacodynamics
+
+Niflumic acid, a nonsteroidal anti-inflammatory fenamate, is a Ca 2+ -activated Cl - channel blocker.
+
+## Mechanism Of Action
+
+Phospholipase A2 Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Well absorbed following oral administration.
+
+## Metabolism
+
+Hepatic.
+
+## Half Life
+
+2.5 hours
+
+## Toxicity
+
+Oral, mouse: LD 50 = 350 mg/kg; Oral, rat: LD 50 = 250 mg/kg

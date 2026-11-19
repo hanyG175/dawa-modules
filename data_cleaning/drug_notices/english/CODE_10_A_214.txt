@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_214
+DCI: Dexlasoprazole
+DrugBank ID: DB05351
+DrugBank Name: Dexlansoprazole
+Brand Names: DEXILANT
+Pharmaceutical Forms: Gélule
+Dosages: 30mg
+Packaging: b/14
+Registration Numbers: 001/10 A 214/22
+Drug Codes: 10 A 214
+
+------------------------------------------------------------
+
+## Description
+
+Dexlansoprazole is a new-generation proton pump inhibitor (PPI) used for the management of symptoms associated with gastroesophageal reflux disease (GERD) and erosive esophagitis. Dexlansoprazole is the R-enantiomer of Lansoprazole , which is composed of a racemic mixture of the R- and S-enantiomers. Compared to the older generation of PPIs (which includes Pantoprazole , Omeprazole , and Lansoprazole ), 6 dexlansoprazole has a unique pharmacokinetic profile due to its delayed-release and dual-delivery release system: This aims to address some limitations of the older-generation PPIs, such as short plasma half-life and the need for meal-associated dosing. 1 , 3 , 6 , 9 Dexlansoprazole inhibits the final step in gastric acid production by blocking the (H+, K+)-ATPase enzyme. 10
+
+## Pharmacodynamics
+
+Dexlansoprazole is a proton pump inhibitor (PPI) that suppresses both basal and stimulated gastric acid secretion. 10 PPIs are associated with a risk for a rebound effect and a short-term increase in hypersecretion; thus, such risk cannot be excluded with dexlansoprazole. 8 With long-term use, PPIs are also associated with a risk of increased susceptibility to bacterial infections, vitamin B12 and iron deficiency, and hypomagnesemia and hypocalcemia, possibly leading to osteoporosis and bone fractures. 7 Dexlansoprazole is reported to interfere with the secretin stimulation test and create false positive urine screening tests for tetrahydrocannabinol. Dexlansoprazole can increase gastrin levels, which can cause enterochromaffin-like cell hyperplasia and increase serum CgA levels. Increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumours. 10
+
+## Mechanism Of Action
+
+Potassium-transporting ATPase alpha chain 1 Inhibitor Potassium-transporting ATPase subunit beta Inhibitor
+
+## Absorption
+
+The dual delayed-release formulation of dexlansoprazole results in a plasma concentration-time profile with two distinct peaks; the first peak occurs one to two hours after administration, followed by a second peak within four to five hours. About 25% of the dose is released at the pH level of 5.5 in the proximal duodenum, while the other 75% is released in the distal small intestine at the pH level of 6.75. 2 , 10 After oral administration of dexlansoprazole 30 or 60 mg to healthy subjects and symptomatic GERD patients, mean C max and AUC values of dexlansoprazole increased approximately dose-proportionally. Following administration of 30 mg in healthy adults, the mean (%CV) C max and AUC were 658 (40%) ng/mL and 3275 (47%) ng x h/mL, respectively. At a dose of 60 mg, the mean (%CV) C max and AUC were 1397 (51%) ng/mL and 6529 (60%) ng x h/mL, respectively. In healthy subjects, food increased C max by 12 to 55% and AUC by 9 to 37%. The effect of food on Tmax varied, as both an increase and a decrease was observed. 10
+
+## Volume Of Distribution
+
+The apparent volume of distribution (Vz/F) after multiple doses in symptomatic GERD patients was 40 L. 10
+
+## Metabolism
+
+Dexlansoprazole is extensively metabolized in the liver. It undergoes oxidation and reduction, followed by subsequent sulfation, glucuronidation, and glutathione conjugation to form inactive metabolites. Oxidative metabolites are formed from CYP2C19-mediated hydroxylation and CYP3A4-mediated oxidation to the sulfone. 5 , 10 CYP2C19 is a polymorphic liver enzyme which exhibits three phenotypes in the metabolism of CYP2C19 substrates: extensive metabolizers ( 1/ 1), intermediate metabolizers (*1/mutant) and poor metabolizers (mutant/mutant). Dexlansoprazole is the major circulating component in plasma regardless of CYP2C19 metabolizer status. In CYP2C19 intermediate and extensive metabolizers, the major plasma metabolites are 5-hydroxy dexlansoprazole and its glucuronide conjugate, while in CYP2C19 poor metabolizers dexlansoprazole sulfone is the major plasma metabolite. 10 Hover over products below to view reaction partners Dexlansoprazole 5-Hydroxy dexlansoprazole 5-hydroxy dexlansoprazole sulfone Dexlansoprazole sulfone 4-Sulfonyloxy dexlansoprazole 4-Sulfonyloxy dexlansoprazole sulfide 5-Glucuronyloxy dexlansoprazole 5-glucuronyloxy dexlansoprazole sulfide
+
+## Route Of Elimination
+
+Dexlansoprazole does not appear to be eliminated unchanged in the urine. 4 , 10 Following the administration of [14C] dexlansoprazole to six healthy male subjects, approximately 50.7% (standard deviation (SD): 9.0%) of the administered radioactivity was excreted in urine and 47.6% (SD: 7.3%) in the feces. 10
+
+## Half Life
+
+Dexlansoprazole is eliminated with a half-life of approximately one to two hours. 4 , 10
+
+## Clearance
+
+Apparent clearance (CL/F) in healthy subjects was 11.4 to 11.6 L/hour, respectively, after five days of 30 or 60 mg once daily administration. 10
+
+## Toxicity
+
+Oral LD 50 value in mice, rats and dogs is reported to be > 5000 mg/kg. 12 There have been no reports of significant overdose with dexlansoprazole. Multiple doses of 120 mg and a single dose of 300 mg did not result in death or other severe adverse events; however, serious adverse events of hypertension have been reported in association with twice daily doses of 60 mg. Nonserious adverse reactions observed with twice daily doses of 60 mg include hot flashes, contusion, oropharyngeal pain, and weight loss. Dexlansoprazole is not expected to be removed from the circulation by hemodialysis. In the event of over-exposure, treatment should be symptomatic and supportive. 10

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_G_134
+DCI: FLUOROMETHOLONE 0,1 % collyre susp (FLUCON)
+Brand Names: FLULIX | OPTIF JAM
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.001
+Packaging: flacon/5ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01B - ANTIINFLAMMATOIRES | S01BA - CORTICOIDES NON ASSOCIES | S01BA07 - FLUOROMETHOLONE
+Registration Numbers: 065/17 G 134/25 | 608/17 G 134/12/24
+Drug Codes: 17 G 134
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Affections allergiques conjonctivo-palpébrales. | Kératites. | Uvéites antérieures. | Réactions inflammatoires postopératoires. | État inflammatoire du globe oculaire associé à un glaucome en raison de la faible action glaucomatogène de la fluorométholone.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : agiter le flacon avant emploi | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Traitement à arrêter progressivement | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient à partir de 30 mois | Patient quel que soit le poids | Blépharite allergique - Conjonctivite allergique - Etat inflammatoire du globe oculaire chez un patient glaucomateux - Inflammation du segment antérieur de l'oeil - Inflammation post-opératoire en ophtalmologie - Kératite - Uvéite | Posologie standard | 1 gte 3 fois par jour
+
+## Precautions
+
+Allaitement | Amincissement de la cornée | Diabète | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Glaucome | Grossesse | Herpès oculaire | Nouveau-né exposé in utero au médicament | Patient traité à posologie élevée | Scléromalacie | Sujet porteur de lentilles de contact | Traitement concomitant par produits ophtalmiques | Traitement par AINS en cours | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Fluorométholone : Mécanisme d'action | La fluorométholone est un glucocorticoïde qui inhibe la réponse inflammatoire provoquée par des agents mécaniques, chimiques ou immunologiques.
+
+## Adverse Effects
+
+DIVERS: | - Retard de cicatrisation (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | INFECTIOLOGIE NON PRECISÉE: | - Infection secondaire | OPHTALMOLOGIE: | - Irritation oculaire (Peu fréquent) | - Hyperhémie oculaire (Peu fréquent) | - Vision floue (Peu fréquent) | - Pression intraoculaire augmentée (Peu fréquent) | - Cataracte sous-capsulaire (Rare) | - Défaut du champ visuel (Rare) | - Prurit oculaire (Rare) | - Perforation de la cornée (Très rare) | - Glaucome (Rare) | - Infection oculaire (Rare) | - Acuité visuelle (diminution) (Rare) | - Calcification cornéenne (Rare) | - Cataracte sous-capsulaire postérieure | - Gêne oculaire | - Lésion du nerf optique | - Hypersécrétion lacrymale | - Sensation de corps étranger dans l'oeil | - Douleur oculaire | ORL, STOMATOLOGIE: | - Dysgueusie

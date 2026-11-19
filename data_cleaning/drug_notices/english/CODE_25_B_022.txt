@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_022
+DCI: Alfuzosine Chlorhydrate
+DrugBank ID: DB00346
+DrugBank Name: Alfuzosin
+Brand Names: FRAXAL LP | XATRAL LP | ZAPRAL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/56 | b/60
+Registration Numbers: 289/25 B 022/18/24 | 376/25 B 022/98/10 | 571/25 B 022/22
+Drug Codes: 25 B 022
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+By selectively inhibiting alpha adrenergic receptors in the lower urinary tract, alfuzosin causes smooth muscle relaxation in the bladder neck and prostate, improving urine flow, thereby reducing BPH symptoms. 9 Additionally, alfuzosin reduces the vasoconstrictor effect of catecholamines (epinephrine and norepinephrine), leading to peripheral vasodilation. 11 This leads to a risk of postural hypotension/syncope, and prescribing information warns that caution should be exercised in patients who take nitrates, antihypertensives, or have experienced decreased blood pressure after using other medications. 9
+
+## Mechanism Of Action
+
+Alpha-1 adrenergic receptors Antagonist Alpha-1A adrenergic receptor Antagonist Alpha-1B adrenergic receptor Antagonist + 1 more target
+
+## Absorption
+
+Alfuzosin is readily absorbed in the gastrointestinal tract and the absolute bioavailability under fed conditions is 49%. 9 In patients over 75 years of age, alfuzosin is absorbed more rapidly and peak plasma levels are higher. 12 One source mentions a bioavailability of 64%. 12 After multiple doses under fed conditions, Cmax is achieved in 8 hours. Cmax and AUC0-24 values are about 13.6 ng/mL and 194 ng·h/mL, respectively. Steady-state plasma concentrations are achieved after the second dose and are 1.2 to 1.6 times higher than after a single dose. 9 With the extended-release formulation, alfuzosin release is sustained over 20 hours with a rate of dissolution ranging between 2 and 12 hours. 1
+
+## Volume Of Distribution
+
+The volume of distribution of alfuzosin after intravenous administration in healthy volunteers is about 3.2 L/kg. 9 Alfuzosin distributes heavily to the tissues of the prostate. 8
+
+## Metabolism
+
+Alfuzosin undergoes extensive hepatic metabolism; only 11% of the administered dose is detected unchanged in the urine. Alfuzosin is metabolism occurs via three metabolic pathways: oxidation, O-demethylations, and N-dealkylation. Metabolites of alfuzosin are not pharmacologically active and CYP3A4 is main hepatic cytochrome enzyme responsible for its metabolism. 9
+
+## Route Of Elimination
+
+It is partially metabolised and excreted mainly in the bile and faeces. Following oral administration of a radiolabeled alfuzosin solution, the detection of radioactivity after one week was 69% in the feces and 24% in the urine. 9
+
+## Half Life
+
+The apparent elimination half-life of alfuzosin after oral administration is about 10 hours. 9 The terminal half-life is 3-5 hours. 12
+
+## Clearance
+
+Exercise caution if renal clearance is < 30 mL/min. 9 The clearance of alfuzosin is increased in renal insufficiency (with or without dialysis), due to an increase in the free fraction. 12
+
+## Toxicity
+
+The oral LD50 of alfuzosin is 2300 mg/kg in male mice and 1950 mg/kg in female mice. 14 An overdose of alfuzosin can cause hypotension. Cardiovascular support should be initiated immediately. The patient should be kept in the supine position to aid in restoring pressure and managing heart rate. Fluid resuscitation should also be considered in severe cases; sometimes, vasopressors are required. Renal function should be monitored frequently. Dialysis may not be of benefit to alfuzosin protein binding of up to 90%. 9

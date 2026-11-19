@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_G_332
+DCI: Milrinone
+DrugBank ID: DB00235
+DrugBank Name: Milrinone
+Brand Names: MILRINONE STRAGEN
+Pharmaceutical Forms: Solution
+Dosages: 10mg/10 ml
+Packaging: b/10 ampoule de 10 ml
+Laboratories: CARINOPHARM GMBH | BAHNHOFSTRASSE 18 | D-31008 ELZE | ALLEMAGNE
+ATC Classification: C01CE02
+Registration Numbers: 589/06 G 332/21
+Drug Codes: 06 G 332
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Milrinone is a bipyridine derivative with positive inotropic and lusitropic effects that also results in peripheral vasodilation with minimal chronotropic effects over a therapeutic range of 100 to 300 ng/mL. 8 , 6 As such, milrinone is used in decompensated congestive heart failure. 8 Studies have demonstrated that milrinone exhibits sigmoidal effects, such that increasing milrinone plasma concentrations beyond a certain level results in no further hemodynamic changes. 6 Despite milrinone's benefits, both intravenous and oral use has been associated with increased frequency of ventricular arrhythmias, and long-term oral use has been associated with an increased risk of sudden death; in general, there are no data to support the safety or efficacy of milrinone use beyond 48 hours and patients should be monitored closely for cardiac dysfunction. 8 Also, as milrinone is primarily excreted renally, dose adjustments may be required in patients with impaired renal function. 8
+
+## Mechanism Of Action
+
+cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A Inhibitor
+
+## Absorption
+
+When administered as an IV bolus dose of 10-100 μg/kg, milrinone induces hemodynamic effects within 60 seconds reaching a peak effect by 2-5 minutes. 2 The plasma AUC is significantly dose-dependent. 8
+
+## Volume Of Distribution
+
+Milrinone administered intravenously to congestive heart failure patients had a volume of distribution of 0.38 L/kg (injections between 12.5-125 μg/kg) and 0.45 L/kg (infusions between 0.2-0.7 μg/kg/min. 8
+
+## Metabolism
+
+Animal studies suggest that two oxidative pathways are involved in milrinone metabolism, albeit only involving a small proportion of the administered dose. The major metabolite is the O-glucuronide metabolite. 2 , 8
+
+## Route Of Elimination
+
+Milrinone is primarily excreted in the urine, with 60% of a dose recovered after two hours and 90% within eight hours. Approximately 83% of milrinone recovered in urine is unchanged while 12% is present as the main O-glucuronide metabolite. 2 , 6 , 8
+
+## Half Life
+
+Milrinone administered intravenously to congestive heart failure patients had a mean terminal elimination half-life of 2.3 hours (injections between 12.5-125 μg/kg) and 2.4 hours (infusions between 0.2-0.7 μg/kg/min. 8
+
+## Clearance
+
+Milrinone administered intravenously to congestive heart failure patients had a clearance of 0.13 L/kg/hr (injections between 12.5-125 μg/kg) and 0.14 L/kg/hr (infusions between 0.2-0.7 μg/kg/min. 8
+
+## Toxicity
+
+Toxicity information regarding milrinone is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as hypotension and adverse cardiac events such as ventricular arrhythmias. Symptomatic and supportive measures are recommended. 8

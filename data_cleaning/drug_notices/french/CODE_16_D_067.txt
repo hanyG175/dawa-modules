@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_067
+DCI: Sulpiride
+Brand Names: G-SULPIRIDE | SULMATIL | SULPIRYL | SUNADIL
+Pharmaceutical Forms: Sol. Buv. | Solution
+Dosages: 0.005 | 0.5g/100 ml ou 0.5% | 0.5g/100ml | 25MG/5ML (OU 0,5G/100ML)
+Packaging: FL./200ML | flacon/180 ml | flacon/200ml
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 118 DA
+Prescription List: Liste I
+ATC Classification: 16D067
+Registration Numbers: 003/16 D 067/97/25 | 077/16 D 067/03/23 | 235/16 D 067/09/24 | 242/16 D 067/06 | 285/16 D 067/06/16 | 317/16 D 067/16/22 | 319/16 D 067/06/24 | 392/16 D 067/97/16 | 400/16 D 067/17 | 503/16 D 067/16
+Drug Codes: 16 D 067
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_A_063
+DCI: DOPAMINE CHLORHYDRATE 5 mg/ml sol p perf (DOPAMINE VIATRIS)
+Brand Names: REMIFENTANIL MYLAN
+Pharmaceutical Forms: Poudre
+Dosages: 5mg/flacon
+Packaging: boite de 10 flacons de 10 ml
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01C - STIMULANTS CARDIAQUES, GLUCOSIDES CARDIOTONIQUES EXCLUS | C01CA - ADRENERGIQUES ET DOPAMINERGIQUES | C01CA04 - DOPAMINE
+Registration Numbers: 450/02 A 063/15
+Drug Codes: 02 A 063
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | dopamine chlorhydrate : 40 mg | Modalités d'administration | Voie intraveineuse (en perfusion) | Administrer au moyen d'une seringue électrique | Posologie à adapter à l'état du patient | Posologie à augmenter progressivement si nécessaire | Traitement à arrêter progressivement | Posologie | Patient de 30 mois à 15 an(s) | Patient quel que soit le poids | Bas débit cardiaque - Choc cardiogénique - Choc septique - Hypotension au cours de l'anesthésie | Posologie standard | 0,002 à 0,02 mg/kg 1 fois par minute | Patient à partir de 15 an(s) | Patient quel que soit le poids | Bas débit cardiaque - Choc septique - Hypotension au cours de l'anesthésie | Posologie standard | 0,002 à 0,02 mg/kg 1 fois par minute | Posologie maximale: 0,05 mg/kg par minute
+
+## Precautions
+
+Acidose | Allaitement | Antécédent d'arythmie | Athérosclérose | Glaucome à angle étroit | Grossesse | Hypercapnie | Hyperthyroïdie | Hypovolémie | Hypoxie | Insuffisance hépatique | Insuffisance rénale | Post-charge élevée | Sujet âgé | Trouble circulatoire périphérique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Dopamine : Mécanisme d'action | Suivant les doses utilisées, on peut observer trois types d'effets de la dopamine : | A faibles doses ( 20 μg/kg/min) la dopamine possède un effet α-stimulant : | élévation des résistances périphériques ; | augmentation de la pression artérielle (PA), diminution de la différentielle et diminution de la diurèse. | A dose faible ou moyenne, la dopamine entraîne une augmentation du débit cardiaque par augmentation de la force contractile du myocarde, sans tachycardie. | A forte dose, la tachycardie, l'élévation de la PA, l'effet inotrope positif déterminent une augmentation de la consommation myocardique d' | oxygène | non compensée par une élévation du débit coronaire.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperglycémie | - Prolactinémie (diminution) | - Urémie (augmentation) | DERMATOLOGIE: | - Horripilation | ENDOCRINOLOGIE: | - Exploration fonctionnelle de la thyroïde anormale | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | INSTRUMENTATION: | - Nécrose au point d'injection | OPHTALMOLOGIE: | - Mydriase | PSYCHIATRIE: | - Anxiété | SYSTÈME CARDIOVASCULAIRE: | - Vasoconstriction périphérique | - Trouble de la conduction cardiaque | - Arythmie ventriculaire | - Palpitation | - Angor | - QRS (allongement) | - Tachycardie | - Hypotension artérielle | - Hypertension artérielle | - Gangrène | - Bradycardie | - Arythmie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | SYSTÈME NERVEUX: | - Céphalée | - Tremblement | SYSTÈME RESPIRATOIRE: | - Dyspnée | - Bronchospasme | - Cyanose | UROLOGIE, NÉPHROLOGIE: | - Polyurie

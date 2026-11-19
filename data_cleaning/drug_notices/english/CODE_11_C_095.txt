@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_C_095
+DCI: Dinoprostone
+DrugBank ID: DB00917
+DrugBank Name: Dinoprostone
+Brand Names: PROPESS
+Pharmaceutical Forms: Systeme D'Administration Vaginale
+Dosages: 10mg
+Packaging: boite de 5 systemes de diffusion vaginale
+Laboratories: FERRING S.A.S | 7, RUE JEAN-BAPTISTE CLEMENT | 94250 GENTILLY
+ATC Classification: G02AD02
+Registration Numbers: 275/11 C 095/23
+Drug Codes: 11 C 095
+
+------------------------------------------------------------
+
+## Description
+
+Dinoprostone is a naturally occurring prostaglandin E2 (PGE2). It has important effects in labour. It also stimulates osteoblasts to release factors which stimualtes bone resorption by osteoclasts. As a prescription drug it is used as a vaginal suppository, to prepare the cervix for labour and to induce labour.
+
+## Pharmacodynamics
+
+Dinoprostone is equivalent to prostaglandin E2 (PGE2). It stimulates labor and delivery by stimulating the uterine, and thus terminates pregnancy. Dinoprostone is also capable of stimulating the smooth muscle of the gastrointestinal tract of man. This activity may be responsible for the vomiting and/or diarrhea that is not uncommon when dinoprostone is used to terminate pregnancy.
+
+## Mechanism Of Action
+
+Prostaglandin E2 receptor EP2 subtype Agonist Prostaglandin E2 receptor EP1 subtype Agonist Prostaglandin E2 receptor EP3 subtype Agonist + 1 more target
+
+## Absorption
+
+Absorbed at a rate of 0.3 mg per hour over 12 hours while the vaginal system is in place.
+
+## Metabolism
+
+Rapid metabolism of dinoprostone occurs primarily in the local tissues; any systemic absorption of the medication is cleared mainly in the maternal lungs and, secondarily, at sites such as the liver and kidneys.
+
+## Route Of Elimination
+
+The major route of elimination of the products of PGE2 metabolism is the kidneys.
+
+## Half Life
+
+Less than 5 minutes.
+
+## Toxicity
+
+Oral, mouse: LD 50 = 750 mg/kg; Oral, rat: LD 50 = 500 mg/kg.

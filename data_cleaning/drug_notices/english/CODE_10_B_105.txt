@@ -1,0 +1,26 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_B_105
+DCI: Hydroxyde D'Aluminium/Hydroxyde De Magnesium
+DrugBank ID: DB01370
+DrugBank Name: Aluminium
+Brand Names: HYSALOX
+Pharmaceutical Forms: Suspension
+Dosages: 525mg/600mg/sachet
+Packaging: b/30 sachets
+Laboratories: OPELLA HEALTHCARE FRANCE SAS | 157 avenue Charles de Gaulle | 92200 Neuilly-sur-Seine
+ATC Classification: Classe pharmacothérapeutique : Anti-acides - code ATC : A02AD01 | (A : appareil digestif et métabolisme) . | Protecteur de la muqueuse œsogastroduodénale. | Transparent aux rayons X. | Etude in vitro d'une dose unitaire selon la méthode Vatier : | Capacité totale antiacide (titration à pH 1) : 44,9 mmol d'ions H+
+Registration Numbers: 388/10 B 105/15
+Drug Codes: 10 B 105
+
+------------------------------------------------------------
+
+## Description
+
+A metallic element that has the atomic number 13, atomic symbol Al, and atomic weight 26.98.
+
+## Mechanism Of Action
+
+Sodium/potassium-transporting ATPase subunit alpha-1 Binder

@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_L_179
+DCI: Romiplostim
+DrugBank ID: DB05332
+DrugBank Name: Romiplostim
+Brand Names: N PLATE
+Pharmaceutical Forms: Poudre P. Sol. Inj. Sc
+Dosages: 250mcg/fl. de pdre.
+Packaging: b/01 flacon. de pdre.
+Registration Numbers: 481/12 L 179/16/25
+Drug Codes: 12 L 179
+
+------------------------------------------------------------
+
+## Description
+
+Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+
+## Pharmacodynamics
+
+Responses to platelet increase varies between patients thus indicating a need for individualization of dose. However, a dose dependent-increase in platelet counts have been observed in clinical trials. Does not affect platelet destruction.
+
+## Mechanism Of Action
+
+Thrombopoietin receptor Agonist
+
+## Absorption
+
+Cmax, healthy volunteers, subQ = 24-36 hours;
+Cmax, immune thrombocytopenia patients, subQ = 7-50 hours (median = 14 hours).
+Not affected by age, weight, or gender. Accumulation does not occur after six weekly doses of 3 mcg/kg romiplostim.
+
+## Volume Of Distribution
+
+In healthy volunteers, non-linear decrease in Vd with increase IV dose of romiplostim which indicates saturation of c-Mpl receptors.
+Vd, 0.3 μg/kg = 122 mL/kg
+Vd, 10 μg/kg = 48.2 mL/kg
+
+## Route Of Elimination
+
+Renal clearance (more dominant mode of clearance as dose increases) and binding to c-Mpl receptors (dominant mode of clearance at low doses)
+
+## Half Life
+
+Immune thrombocytopenia patients, subQ = 3.5 days (median) (range 1-34 days)
+
+## Toxicity
+
+The most common adverse reactions (≥ 5% higher patient incidence in Nplate versus placebo) are arthralgia, dizziness, insomnia, myalgia, pain in extremity, abdominal pain, shoulder pain, dyspepsia, and paresthesia. Headache was the most commonly reported adverse reaction that did not occur at ≥ 5% higher patient incidence in Nplate versus placebo.
+LD50 = 980 mg/kg.

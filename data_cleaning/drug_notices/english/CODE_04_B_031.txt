@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_031
+DCI: Morniflumate
+DrugBank ID: DB09285
+DrugBank Name: Morniflumate
+Brand Names: NIFLUMATE | NIFLURIC
+Pharmaceutical Forms: Suppositoireositoire
+Dosages: 400mg
+Packaging: b/10
+Registration Numbers: 003/04 B 031/02/24 | 366/04 B 031/07/13
+Drug Codes: 04 B 031
+
+------------------------------------------------------------
+
+## Description
+
+Morniflumate is a non-steroidal anti-inflammatory drug with antipyretic properties. It is the morpholinoethyl ester of niflumic acid 7 . In one study, post morniflumate ingestion, physical examination and clinical symptoms of those with bronchitis showed improvement 1 .
+
+## Pharmacodynamics
+
+Morniflumate, given at therapeutic dosages to healthy human volunteers, on leukotriene B4 (LTB4) and thromboxane (TXB2) synthesis, both in purified PMNs (polymorphnuclear neutrophils) and in whole blood 1 . In whole blood experiments, morniflumate reduced blood leukotriene B4 (LTB4) synthesis induced by Ca-ionophore A23187 Bx approximately 50%, both after a single dose and at steady state; the level of inhibition showed a pattern similar to the plasma levels of the bioactive metabolite of morniflumate (M1). The inhibition of serum thromboxane B2 (TXB2) levels was higher than 85%. Hence, morniflumate is demonstrated to reduce arachidonic acid metabolism, by exerting its effects on cyclooxygenase and 5-lipoxygenase. This characteristic might provide a better approach for anti-inflammatory therapy 1 . In several animal models orally administered morniflumate, the beta-morpholinoethyl ester of niflumic acid, proved almost equal to the parent compound in anti-inflammatory, analgesic and antipyretic activity with the absence of gastric irritating/ulcerogenic effects of its acidic parent compound 7 .
+
+## Mechanism Of Action
+
+The primary mechanism of niflumic acid and its ester is action is inhibition of enzymes involved in the synthesis of inflammatory prostaglandins 5 . This medication inhibits cyclooxygenase and 5-lipoxygenase pathways, which lead to fever and inflammation 10 . Niflumic acid, a calcium-activated Cl- channel blocker, is an analgesic and anti-inflammatory agent used in the treatment of inflammatory conditions. Niflumic acid does directly inhibit calcium channels or activate potassium channels. Niflumic acid selectively reduces noradrenaline- and 5-HT-induced pressor responses by inhibiting a mechanism which leads to the opening of voltage-gated calcium channels 10 . Niflumic acid (NFA) produces biphasic behavior on human CLC-K channels that suggests the presence of two functionally different binding sites: an activating site and a blocking site 10 . Target Actions Organism U Prostaglandin G/H synthase 2 modulator Humans U Prostaglandin G/H synthase 1 modulator Humans U Polyunsaturated fatty acid 5-lipoxygenase antagonist Humans U Leukotriene B4 receptor 1 antagonist Humans U Thromboxane A2 receptor Not Available Humans
+
+## Metabolism
+
+The pharmacokinetic availability of niflumic acid in two different pharmaceutical preparations have been studied in 12 subjects after oral administration 9 . Bioavailability and pharmacokinetics studies after oral and intravenous (IV) administration demonstrate that morniflumate is absorbed as from the gastrointestinal tract, followed by rapid hydrolysis in the plasma, releasing the free acidic form, the molecule responsible for its anti-inflammatory effects. The ester displays gastroprotective effect against the ulcerogenic effects of niflumic acid 7 .
+
+## Route Of Elimination
+
+0.12 L /kg on average 9
+
+## Clearance
+
+45 ml/min 9
+
+## Toxicity
+
+As with other anti-inflammatory medications, adverse effects may include: agranulocytosis, bleeding, hepatotoxicity, acute renal failure, dermatoses, and rarely angioedema and urticaria 7 .

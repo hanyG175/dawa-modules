@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_134
+DCI: LACOSAMIDE 50 mg cp (LACOSAMIDE ACCORD)
+DrugBank ID: DB06218
+DrugBank Name: Lacosamide
+Brand Names: LOSAPIL | TREPADIO
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg
+Packaging: b/30 | b/60
+ATC Classification: N - SYSTEME NERVEUX | N03 - ANTIEPILEPTIQUES | N03A - ANTIEPILEPTIQUES | N03AX - AUTRES ANTIEPILEPTIQUES | N03AX18 - LACOSAMIDE
+Registration Numbers: 001/15 A 134/23 | 352/15 A 134/21
+Drug Codes: 15 A 134
+
+------------------------------------------------------------
+
+## Description
+
+Lacosamide is an antiepileptic drug used to treat seizures. As a chiral functionalized amino acid, it works by blocking slowly inactivating components of voltage-gated sodium currents. Lacosamide exhibits a stereoselective mode of interaction with sodium channels. 3 Lacosamide was first approved by the European Commission in August 2008 and was later approved by the FDA in October 2008. 3 It was granted approval by Health Canada in September 2010. 9
+
+## Pharmacodynamics
+
+Lacosamide is an antiepileptic drug with high oral potency, stereoselectivity, 4 and anticonvulsant effects. 2 By blocking sensory neuronal voltage-gated sodium channels that mediate neuropathic pain responses, lacosamide was shown to possess analgesic activity. 1 , 2 Lacosamide is a chiral functionalized amino acid. The S-stereoisomer does not exhibit antiepileptic activity. 2
+
+## Mechanism Of Action
+
+Caused by neuronal hyperexcitability, seizures in epilepsy involve sustained firing of sodium-dependent action potentials. The slow inactivation process, intrinsic to voltage-gated sodium channel functioning, has been implicated in the paroxysmal depolarizing shifts associated with epileptic activity. 2 The exact mechanism of action of lacosamide is not fully known; however, in vitro electrophysiological studies have shown that lacosamide selectively enhances the slow inactivation of voltage-gated sodium channels, shifting the slow inactivation curve to more hyperpolarized potentials and augmenting the maximal fraction of channels in the slow inactivated state. 4 This results in the stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing. 2 , 6 Lacosamide does not affect the fast component of voltage-gated sodium currents, unlike traditional sodium channel blockers. 2 Target Actions Organism U Sodium channel protein type 11 subunit alpha inhibitor Humans U Dihydropyrimidinase-related protein 2 modulator Humans U Sodium channel protein type 9 subunit alpha blocker Humans U Sodium channel protein type 3 subunit alpha blocker Humans U Sodium channel protein type 10 subunit alpha blocker Humans
+
+## Absorption
+
+Lacosamide is completely absorbed after oral administration with negligible first-pass effect. It has a high absolute bioavailability of approximately 100%. Food does not affect the rate and extent of absorption. The T max ranges from one to four hours. Steady-state plasma concentrations are achieved after three days of twice-daily repeated administration. The pharmacokinetics of lacosamide are dose-proportional over the dose range between 100 and 800 mg, and time-invariant, with low inter- and intra-subject variability. The major O-desmethyl metabolite of lacosamide has a longer T max that ranges from 0.5 to 12 hours. 6 After intravenous administration, C max is reached at the end of infusion. The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet. For the 15-minute intravenous infusion, bioequivalence was met for AUC 0-tz but not for C max . The point estimate of C max was 20% higher than C max for oral tablet and the 90% CI for C max exceeded the upper boundary of the bioequivalence range. In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown. A single loading dose of 200 mg approximates steady-state concentrations comparable to the 100 mg twice-daily oral administration. 6
+
+## Volume Of Distribution
+
+The volume of distribution is approximately 0.6 L/kg and thus close to the volume of total body water. 6
+
+## Metabolism
+
+Lacosamide is metabolized by CYP3A4, CYP2C9, and CYP2C19 to form O-desmethyl lacosamide, which is a major, pharmacologically inactive metabolite in humans. There is no enantiomeric interconversion of lacosamide. 6 Hover over products below to view reaction partners Lacosamide O-Desmethyl lacosamide
+
+## Route Of Elimination
+
+Lacosamide is primarily eliminated from the systemic circulation by renal excretion and biotransformation. After oral and intravenous administration of 100 mg radiolabeled lacosamide, approximately 95% of the radioactivity was recovered in the urine and less than 0.5 % in the feces. The major compounds excreted were unchanged lacosamide (approximately 40% of the dose), its O-desmethyl metabolite (approximately 30%), and a structurally unknown polar fraction (~20%). 6
+
+## Half Life
+
+The elimination half-life of the unchanged drug is approximately 13 hours and is not altered by different doses, multiple dosing or intravenous administration. The major O-desmethyl metabolite of lacosamide has an elimination half-life ranging from 15 to 23 hours). 6
+
+## Toxicity
+
+The oral LD 50 in rats is 253 mg/kg. 5 Dizziness, nausea, and seizures (generalized tonic-clonic seizures, status epilepticus) were observed at doses greater than 800 mg, which is twice the maximum recommended daily dose. Cardiac conduction disorders, confusion, decreased level of consciousness, cardiogenic shock, cardiac arrest, and coma have also been observed. 6 Fatal overdoses have occurred with lacosamide. As there is no specific antidote for overdose with lacosamide, standard decontamination procedures should be followed. General supportive care of the patient is indicated including monitoring of vital signs and observation of the clinical status of patient. Standard hemodialysis procedures result in significant clearance of lacosamide (reduction of systemic exposure by 50% in four hours). Hemodialysis may be indicated based on the patient's clinical state or in patients with significant renal impairment. 6

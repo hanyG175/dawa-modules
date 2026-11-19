@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_014
+DCI: DAUNORUBICINE (chlorhydrate) 20 mg pdre p sol p perf (CERUBIDINE) | Daunorubicine Chlorhydrate Exprime En Daunorubicine
+Brand Names: CERUBIDINE | DAUNOCIN | DAUNOTEC
+Pharmaceutical Forms: Poudresol.Pour Perfusion Iv
+Dosages: 20 mg/fl | 20mg | 20mg/fl. de lyophilisat
+Packaging: b/01 flacon de poudre | b/01 flacon. de lyophilisat + 01 flacon. de 10ml de solvant (nacl 0.9%) | b/10fl.
+Laboratories: SANOFI WINTHROP INDUSTRIE | 82 AVENUE RASPAIL | 94250 GENTILLY | Sanofi Winthrop Industrie
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01D - ANTIBIOTIQUES CYTOTOXIQUES ET APPARENTES | L01DB - ANTHRACYCLINES ET APPARENTES | L01DB02 - DAUNORUBICINE | L01DB02
+Registration Numbers: 182/05 G 014/14 | 376/05 G 014/96/17 | 516/05 G 014/17/24
+Drug Codes: 05 G 014
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Dec 16 00:00:00 CET 2024 | is_edited: False | title: INDICATIONS | text: Leucémies aiguës. | Leucémies myéloïdes chroniques en transformation aiguë. | Lymphomes hodgkiniens et non hodgkiniens. | Chez l'enfant, dans le cadre de polychimiothérapies : | Leucémie Aiguë Lymphoïde. | Leucémie Aiguë Myéloïde. | lists: Leucémies aiguës. | Leucémies myéloïdes chroniques en transformation aiguë. | Lymphomes hodgkiniens et non hodgkiniens. | Leucémie Aiguë Lymphoïde. | Leucémie Aiguë Myéloïde.
+
+## Posology
+
+Posologie | Unité de prise | flacon | daunorubicine (chlorhydrate) : 20 mg | Modalités d'administration | Voie intraveineuse (en perfusion) | A reconstituer et à diluer avant administration | Administrer strictement par perfusion IV rapide | Traitement à administrer par cure | Posologie | Patient jusqu'à 2 an(s) | Patient quel que soit le poids | Leucémie aiguë lymphoblastique - Leucémie aiguë myéloblastique | Posologie standard | La posologie est calculée en fonction de la surface corporelle et ajustée aux besoins individuels du patient, selon la réponse clinique et le statut hématologique des patients. Consulter les protocoles et les recommandations en cours pour les traitements et associations recommandés. Dose cumulée maximale : 10 mg/kg. | Patient de 2 an(s) à 15 an(s) | Patient quel que soit le poids | Leucémie aiguë lymphoblastique - Leucémie aiguë myéloblastique | Posologie standard | La posologie est calculée en fonction de la surface corporelle et ajustée aux besoins individuels du patient, selon la réponse clinique et le statut hématologique des patients. Consulter les protocoles et les recommandations en cours pour les traitements et associations recommandés. Dose cumulée maximale : 300 mg/m². | Patient à partir de 15 an(s) | Patient quel que soit le poids | Leucémie aiguë lymphoblastique - Leucémie aiguë myéloblastique - Leucémie myéloïde chronique en acutisation - Lymphome malin non hodgkinien - Maladie de Hodgkin | Posologie standard | Respecter un intervalle de 3 à 4 semaines entre 2 cures | 30 à 60 mg/m² 1 fois par jour | Pendant 3 à 5 jours | Dose cumulative totale: 600 mg/m² | Populations particulières | Insuffisance hépatique : Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Antécédent de traitement par anthracycline | Chimiothérapie cardiotoxique, antécédent | Femme susceptible d'être enceinte | Hypertension artérielle | Hypokaliémie | Infection | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Maladie cardiovasculaire | Neutropénie < 1500 neutrophiles/mm3 | Nourrisson de moins de 2 ans | Partenaire enceinte ou susceptible de l'être | Patient traité à posologie élevée | Radiothérapie médiastinale, antécédent | Sujet âgé | Thrombopénie | Vaccin à virus vivant, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Daunorubicine : Mécanisme d'action | La daunorubicine est un antinéoplasique cytostatique de la famille des anthracyclines (antibiotiques). Elle interagit avec l'ADN (acide désoxyribonucléique) en s'intercalant entre deux bases adjacentes, provoquant des changements de structure et de fonction des molécules d'ADN.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Très fréquent) | - ASAT (augmentation) | - Enzymes hépatiques (augmentation) | - Phosphatases alcalines (augmentation) | - Bilirubinémie (augmentation) | - Hyperuricémie | CANCEROLOGIE: | - Syndrome de lyse tumorale | - Leucémie secondaire | - Réaction sur site irradié | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Alopécie (Très fréquent) | - Hyperpigmentation cutanée | - Mélanonychie | - Prurit | - Erythème cutané | - Dermatite de contact | - Phénomène de rappel | DIVERS: | - Fièvre (Très fréquent) | - Décès | - Douleur | - Frisson | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Aménorrhée | HÉMATOLOGIE: | - Insuffisance de la moelle osseuse (Très fréquent) | - Leucopénie (Très fréquent) | - Aplasie médullaire (Très fréquent) | - Thrombopénie (Très fréquent) | - Anémie (Très fréquent) | - Neutropénie fébrile | - Leucémie aiguë myéloblastique | - Hémorragie | - Syndrome myélodysplasique | HÉPATOLOGIE: | - Hépatomégalie | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Angioedème | INFECTIOLOGIE NON PRECISÉE: | - Infection (Très fréquent) | - Infection opportuniste | - Septicémie | INSTRUMENTATION: | - Extravasation au point d'injection (Peu fréquent) | - Nécrose au point d'injection (Rare) | - Phlébite au site de perfusion | NUTRITION, MÉTABOLISME: | - Déshydratation | ORL, STOMATOLOGIE: | - Stomatite (Très fréquent) | - Glossite | - Ulcération buccale | SYSTÈME CARDIOVASCULAIRE: | - Cardiomyopathie (Peu fréquent) | - Insuffisance cardiaque congestive (Peu fréquent) | - Cardiopathie (Fréquent) | - Myopéricardite (Rare) | - Phlébosclérose | - Tachycardie sinusale | - Choc septique | - Contraction auriculaire prématurée | - Infarctus du myocarde | - Allongement de l'espace QT | - Tachyarythmie supraventriculaire | - Bloc cardiaque | - Ischémie myocardique | - Anomalie de l'électrocardiogramme | - Bouffée de chaleur | - Cardiomyopathie restrictive | - Choc | - Thrombophlébite | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Vomissement (Très fréquent) | - Colite neutropénique | - Colite | - Ascite | - Douleur abdominale | - Entérocolite | - Oesophagite | SYSTÈME NERVEUX: | - Syndrome d'encéphalopathie postérieure réversible | SYSTÈME RESPIRATOIRE: | - Epanchement pleural | - Hypoxie | - Dyspnée | - Pneumopathie | - Cyanose | UROLOGIE, NÉPHROLOGIE: | - Oligospermie | - Azoospermie | - Syndrome néphrotique | - Néphropathie | - Couleur de l'urine (modification)

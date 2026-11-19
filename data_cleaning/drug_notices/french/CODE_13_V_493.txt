@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_V_493
+DCI: immunoglobulines humaines normales
+Brand Names: HEPATECT CP
+Pharmaceutical Forms: Sol P/Perf
+Dosages: 50ui/ml
+Packaging: b/01 flacon de 2ml et de 100ml
+Laboratories: GRIFOLS France
+Registration Numbers: 370/13 V 493/19
+Drug Codes: 13 V 493
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Oct 30 00:00:00 CET 2023 | is_edited: True | title: INDICATIONS | text: Traitement substitutif chez les adultes, les enfants et les adolescents (âgés de 2 à 18 ans) atteints de : | Déficits immunitaires primitifs (DIP) avec altération de la production d'anticorps. | Déficits immunitaires secondaires (DIS) chez les patients souffrant d'infections sévères ou récurrentes, en échec d'un traitement antimicrobien et ayant, soit | un défaut de production d'anticorps spécifiques (DPAS)* avéré | , soit un taux d'IgG sériques < 4 g/l. | * DPAS = incapacité à augmenter d'au moins 2 fois le titre d'anticorps IgG dirigés contre les antigènes polysaccharidiques et polypeptidiques des vaccins anti-pneumococciques. | Prophylaxie de la rougeole pré- et post-exposition chez les adultes, les enfants et les adolescents (âgés de 2 à 18 ans) à risque chez lesquels l'immunisation active est contre-indiquée ou n'est pas recommandée. | Il convient également de tenir compte des recommandations officielles concernant l'utilisation des immunoglobulines humaines intraveineuses dans la prophylaxie de la rougeole pré- et post-exposition et l'immunisation active. | Traitement immunomodulateur chez les adultes, les enfants et les adolescents (2 à 18 ans) atteints de : | Thrombocytopénie immune primaire (TIP), chez les patients présentant un risque hémorragique important ou avant une intervention chirurgicale pour corriger le taux de plaquettes. | Syndrome de Guillain-Barré. | Maladie de Kawasaki (en association avec l'acide acétylsalicylique ; voir rubrique | Posologie et mode d'administration | ). | Polyradiculonévrite inflammatoire démyélinisante chronique (PIDC). | Neuropathie motrice multifocale (NMM). | lists: Déficits immunitaires primitifs (DIP) avec altération de la production d'anticorps. | Déficits immunitaires secondaires (DIS) chez les patients souffrant d'infections sévères ou récurrentes, en échec d'un traitement antimicrobien et ayant, soitun défaut de production d'anticorps spécifiques (DPAS)* avéré, soit un taux d'IgG sériques < 4 g/l. | Thrombocytopénie immune primaire (TIP), chez les patients présentant un risque hémorragique important ou avant une intervention chirurgicale pour corriger le taux de plaquettes. | Syndrome de Guillain-Barré. | Maladie de Kawasaki (en association avec l'acide acétylsalicylique ; voir rubriquePosologie et mode d'administration). | Polyradiculonévrite inflammatoire démyélinisante chronique (PIDC). | Neuropathie motrice multifocale (NMM).

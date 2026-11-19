@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_174
+DCI: FAMOTIDINE 20 mg cp (FAMOTIDINE EG)
+Brand Names: FAMOTIDINE MABO 20 | FAMOXINE
+Pharmaceutical Forms: Comprimé
+Dosages: 20mg
+Packaging: b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A02 - MEDICAMENTS DES TROUBLES DE L'ACIDITE | A02B - MEDICAMENTS DE L'ULCERE PEPTIQUE ET DU REFLUX GASTRO-OESOPHAGIEN (RGO) | A02BA - ANTAGONISTES DES RECEPTEURS H2 | A02BA03 - FAMOTIDINE
+Registration Numbers: 035/10 A 174/23 | 268/10 A 174/23
+Drug Codes: 10 A 174
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | famotidine : 20 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Ulcère duodénal évolutif - Ulcère gastrique évolutif | Posologie standard | Administrer le soir | 40 mg en 1 prise par jour | Pendant 4 à 8 semaines | Ulcère duodénal, traitement d'entretien (de l') | Posologie standard | Administrer le soir | 20 mg 1 fois par jour | Oesophagite due à un reflux gastro-oesophagien | Posologie standard | 20 à 40 mg 2 fois par jour | Pendant 6 à 12 semaines | Syndrome de Zollinger-Ellison | Posologie standard | Posologie à adapter en fonction de la réponse physiologique | 20 mg toutes les 6 heures | Posologie maximale: 80 mg par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Insuffisance rénale | Ulcère gastroduodénal évolutif
+
+## Mechanism Of Action
+
+Famotidine : Mécanisme d'action | La famotidine est un antagoniste compétitif des récepteurs H | 2 | de l' | histamine | , qui provoque l'inhibition de la sécrétion d'acide gastrique contrôlée par les récepteurs H | 2 | . En plus des taux d'acidité gastrique, elle diminue le taux de pepsine, et, dans une moindre mesure, le volume de la sécrétion gastrique basale et sous stimulation. Il n'a été observé aucun effet pharmacologique sur le SNC, sur les systèmes immunitaire, cardiovasculaire ou respiratoire. | Après administration orale, le début de l'effet antisécrétoire survient en moins d'1 heure, avec un maximum survenant entre 1 et 3 heures. | Des doses uniques orales de 20 et 40 mg inhibent la sécrétion acide basale nocturne de 86 % et 94 % respectivement, pendant une période d'au moins 10 heures. Les mêmes doses administrées le matin inhibent la sécrétion acide induite par la nourriture, 3-5 heures après l'administration de 76 % et 84 % respectivement, et de 25 % et 30 % 8-10 heures après administration. Chez certains sujets ayant reçu la dose de 20 mg, cependant, l'effet antisécrétoire n'a duré que 6-8 heures. L'administration répétée n'a pas entraîné d'accumulation du médicament. | Le pH intragastrique nocturne atteint, après doses vespérales de 20 et 40 mg de famotidine, des valeurs moyennes respectivement de 5 et 6,4. Lorsque la famotidine est administrée après le petit déjeuner, le pH atteint une valeur de 5 pour les 2 groupes, 3 et 8 heures après l'administration. | La famotidine n'a que peu ou pas d'effet sur les niveaux de gastrine sérique à jeun ou postprandiaux. La vidange gastrique et la fonction pancréatique exocrine ne sont pas affectées par la famotidine, de même que le flux sanguin hépatique et portal, et que les fonctions endocrines. Les niveaux des hormones prolactine, cortisol, thyroxine (T | 4 | ) et | testostérone | , ne sont pas modifiés par la famotidine.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Gamma GT (augmentation) (Rare) | - Transaminases (augmentation) (Rare) | - Phosphatases alcalines (augmentation) (Rare) | - Hyperbilirubinémie (Rare) | - Neutropénie (Très rare) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire (Rare) | - Alopécie (Très rare) | - Syndrome de Stevens-Johnson | - Réaction cutanée sévère | - Syndrome de Lyell | HÉMATOLOGIE: | - Agranulocytose (Très rare) | - Thrombopénie (Très rare) | - Pancytopénie (Très rare) | - Leucopénie (Très rare) | HÉPATOLOGIE: | - Cholestase (Rare) | - Ictère | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Réaction anaphylactique | - Angioedème | NUTRITION, MÉTABOLISME: | - Anorexie (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sécheresse buccale (Peu fréquent) | PSYCHIATRIE: | - Hallucination (Très rare) | - Agitation (Très rare) | - Trouble psychique (Très rare) | - Dépression (Très rare) | - Insomnie (Très rare) | - Désorientation temporospatiale (Très rare) | - Anxiété (Très rare) | - Libido (diminution) (Très rare) | - Confusion mentale (Très rare) | SYSTÈME DIGESTIF: | - Gêne abdominale (Peu fréquent) | - Constipation (Fréquent) | - Nausée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Diarrhée (Fréquent) | - Flatulence (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Rare) | - Crampe (Très rare) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Epilepsie (crise) (Très rare) | - Somnolence (Très rare) | - Paresthésie (Très rare) | SYSTÈME RESPIRATOIRE: | - Sensation d'oppression thoracique (Très rare) | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Impuissance (Très rare)

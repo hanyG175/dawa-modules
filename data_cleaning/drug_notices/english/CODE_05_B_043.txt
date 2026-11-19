@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_B_043
+DCI: Azathioprine
+DrugBank ID: DB00993
+DrugBank Name: Azathioprine
+Brand Names: AZATHIOPRINE MYLAN
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 50MG
+Packaging: B/100
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 05B043
+Registration Numbers: 450/05 B 043/06/15 | 467/05 B 043/18/24 | 609/05 B 043/06/24 | 660/05 B 043/25
+Drug Codes: 05 B 043
+
+------------------------------------------------------------
+
+## Description
+
+Azathioprine is a prodrug of 6-mercaptopurine, first synthesized in 1956 by Gertrude Elion, William Lange, and George Hitchings in an attempt to produce a derivative of 6-mercaptopurine with a better therapeutic index. 9 , 10 , 11 Azathioprine is used to treat inflammatory conditions like rheumatoid arthritis and as an immunosuppressant in the prevention of renal transplant rejection. 12 Azathiprine was granted FDA approval on 20 March 1968. 12
+
+## Pharmacodynamics
+
+Azathioprine is an immunosuppressive agent which functions through modulation of rac1 to induce T cell apoptosis, as well as other unknown immunosuppressive functions. 5 It has a long duration of action as it is given daily, and has a narrow therapeutic index. 12 Patients should be counselled regarding the risk of malignancies of the skin and lymphomas. 12
+
+## Mechanism Of Action
+
+Azathioprine's mechanism of action is not entirely understood but it may be related to inhibition of purine synthesis, along with inhibition of B and T cells. 5 6-thioguanine triphosphate, a metabolite of azathioprine, modulates activation of rac1 when costimulated with CD28, inducing T cell apoptosis. 5 This may be mediated through rac1's action on mitogen-activated protein kinase, NF-kappaB. 5 Target Actions Organism U Amidophosphoribosyltransferase inhibitor Humans U Ras-related C3 botulinum toxin substrate 1 modulator Humans
+
+## Absorption
+
+Oral azathioprine is well absorbed, with a T max of 1-2h. 12 Further data regarding the absorption of azathioprine is not readily available. 6 , 7
+
+## Volume Of Distribution
+
+Data regarding the volume of distribution of azathioprine is not readily available. 6 , 7
+
+## Metabolism
+
+Azathioprine is converted to 6-mercaptopurine nonenzymatically. 4 6-mercaptopurine is then metabolized to 6-methylmercaptopurine by thiopurine methyltransferase, 6-thiouric acid by xanthine oxidase, or 6-thiosine-5'-monophosphate by hypoxanthine phosphoribosyltransferase. 4 6-thiosine-5'-monophosphate is metabolized to 6-methylthiosine-5'-monophosphate by thiopurine methyltransferase or 6-thioxanthylic acid by inosine monophosphate dehydrogenase. 4 6-thioxanthylic acid is metabolized by guanosine monophosphate synthetase to 6-thioguanine monophosphate, the first of the 6-thioguanine nucleotides. 4 6-thioguanine monophosphate is phosphorylated to produce the remaining 6-thioguanine nucleotides, 6-thioguanine diphosphate and 6-thioguanine triphosphate. 4 Hover over products below to view reaction partners Azathioprine 6-Mercaptopurine 6-Thiosine 5'-monophosphate 6-thioxanthylic acid 6-thioguanine monophosphate Thioguanine diphosphate Thioguanine triphosphate 6-methylthiosine 5'-monophosphate 6-thioinosine triphosphate 6-methylthioinosine triphosphate 6-methylmercaptopurine 6-thiouric acid
+
+## Route Of Elimination
+
+Azathioprine and mercaptopurine are not detectable in urine after 8 hours. 12 Further data regarding the route of elimination of azathioprine are not available. 8
+
+## Half Life
+
+The half life of azathioprine is approximately 5 hours. 12
+
+## Clearance
+
+Data regarding the clearance of azathioprine is not readily available. 6 , 7
+
+## Toxicity
+
+The oral LD 50 in mice is 2500mg/kg and in rats is 400mg/kg. 12 Patients experiencing an overdose may present with bone marrow hypoplasia, bleeding, and infection, which may progress to death. 12 Patients should be treated with supportive and symptomatic treatments. 8 hour hemodialysis may remove 45% of a dose from serum. 12

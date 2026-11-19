@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_148
+DCI: Nilotinib
+DrugBank ID: DB04868
+DrugBank Name: Nilotinib
+Brand Names: NILODES | ORION NILOTINIB | TASIGNA | TASINIB
+Pharmaceutical Forms: Gélule
+Dosages: 200mg
+Packaging: b/28 | b/30
+Registration Numbers: 068/05 C 148/13 | 263/05 C 148/24 | 596/05 C 148/24 | 630/05 C 148/25
+Drug Codes: 05 C 148
+
+------------------------------------------------------------
+
+## Description
+
+Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). A Phase I clinical trial in 2006 showed that this drug was relatively safe and offered significant therapeutic benefits in cases of CML which were found to be resistant to treatment with imatinib (Gleevec), another tyrosine kinase inhibitor used as a first-line treatment for CML.
+
+## Pharmacodynamics
+
+Nilotinib is a transduction inhibitor that targets BCR-ABL, c-kit and PDGF, for the potential treatment of various leukemias, including chronic myeloid leukemia (CML).
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase ABL1 Inhibitor Mast/stem cell growth factor receptor Kit Inhibitor Platelet-derived growth factor receptor Inhibitor + 2 more targets
+
+## Absorption
+
+Orally available
+
+## Half Life
+
+15 hours

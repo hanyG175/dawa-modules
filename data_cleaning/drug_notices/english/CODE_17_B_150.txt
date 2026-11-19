@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_150
+DCI: OLOPATADINE (chlorhydrate) 1 mg/ml collyre sol (OPATANOL) | Olopatadine (Sous Forme De Chlorhydrate)
+DrugBank ID: DB00768
+DrugBank Name: Olopatadine
+Brand Names: OPATANOL | OPATEK | OPTICIS | PALLADA
+Pharmaceutical Forms: Collyree En Solution | Collyree En Solution Sterile
+Dosages: 1mg/ml (ou 5mg/5ml)
+Packaging: flacon/5ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01G - DECONGESTIONNANTS ET ANTIALLERGIQUES | S01GX - AUTRES ANTIALLERGIQUES | S01GX09 - OLOPATADINE
+Registration Numbers: 028/17 B 150/09/16 | 065/17 B 150/23 | 521/17 B 150/20 | 543/17 B 150/20
+Drug Codes: 17 B 150
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Inflammatory reactions in response to various stimuli are mediated by endogenous mediators and other pro-inflammatory factors. Histamine receptor activation and mast cell degranulation are primary mechanisms that cause inflammatory reactions such as ocular itching, hyperemia, chemosis, eyelid swelling, and tearing of seasonal allergic conjunctivitis. 3 Olopatadine is an anti-allergenic molecule and mast cell stabilizer that inhibits the in vivo type 1 immediate hypersensitivity reaction. 10 By blocking the effects of histamine, olopatadine works to reduce the symptoms of allergies and inflammation at various sites of administration, including the eyes and nose. It has shown to exert antihistaminic effects in isolated tissues, animal models, and humans. 8 Olopatadine also demonstrated dose-dependent inhibition of immunologically-stimulated release of histamine from rat basophilic leukemia cells and human conjunctival mast cells in vitro . 3 Olopatadine has a relatively rapid onset of action and prolonged duration, where it was shown to mediate anti-histaminic effects at 5 minutes to 24 hours post-administration. 3 While olopatadine is a non-sedating antihistamine agent, there have been reports of somnolence in some patients taking nasal olopatadine during clinical trials. 8 Temporary blurred vision or other visual disturbances were observed following ophthalmic administration. Olopatadine has negligible effects on alpha-adrenergic, dopamine, muscarinic type 1 and 2, and serotonin receptors. 10 In clinical trials, there was no evidence of any effect of olopatadine on QT prolongation was observed following intranasal administration. 8
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Ocular administration of olopatadine in healthy subjects resulted in the Cmax of 1.6 ± 0.9 ng/mL, which was reached after about 2.0 hours. The AUC was 9.7 ± 4.4 ngxh/mL. 7 The average absolute bioavaiability of intranasal olopatadine is about 57%. Following intranasal administration in healthy subjects, the Cmax of 6.0 ± 8.99 ng/mL at steady-state was reached between 30 minutes to 1 hour after twice daily intranasal administration. The average AUC was 66.0 ± 26.8 ng·h/mL. In patients with seasonal allergic rhinitis, the Cmax of 23.3 ± 6.2 ng/mL at steady-state was reached between 15 minutes and 2 hours post-dosing and the average AUC was 78.0 ± 13.9 ng·h/mL. 8
+
+## Volume Of Distribution
+
+In an open-label study consisting of healthy Chinese subjects receiving oral administration of olopatadine, the mean apparent volume of distribution was 133.83 L. 5
+
+## Metabolism
+
+Olopatadine undergoes hepatic metabolism in a non-extensive manner. 8 , 9 Based on oral pharmacokinetic studies, there are at least 6 circulating metabolites in human plasma. 8 Following topical ocular application of olopatadine, olopatadine N-oxide is formed by metabolism catalyzed by flavin-containing monooxygenase (FMO) 1 and 3 8 and was detected in the plasma after 4 hours post-dosing in less than 10% of the total plasma in half of the patients. 7 Mono-desmethyl olopatadine, or N-desmethyl olopatadine, is formed by CYP3A4 8 and may be detected in minimal levels. 7 Hover over products below to view reaction partners Olopatadine N-desmethyl olopatadine Olopatadine N-oxide
+
+## Route Of Elimination
+
+Olopatadine is mainly eliminated through urinary excretion. Following oral administration, about 70% and 17% of the total dose was recovered in the urine and feces, respectively. 8
+
+## Half Life
+
+Following ocular administration, the elimination half-life of olopatadine was 3.4 ± 1.2 hours. In oral pharmacokinetics study, the elimination half-life was reported to be 8 to 12 hours. 9
+
+## Clearance
+
+In an open-label study consisting of healthy Chinese subjects receiving oral administration of olopatadine, the mean apparent oral clearance (CL/F) was 23.45 L/h. 5
+
+## Toxicity
+
+Based on the findings of an acute toxicity study in animals, the oral LD 50 of olopatadine was >1150 mg/kg in mice and >3870 mg/kg in rats. 10 The Lowest published toxic dose via the oral route was 20 mg/kg in rat and 0.1 mg/kg in mouse. MSDS There are no known reports on overdosage following oral, ophthalmic, or intranasal administration of olopatadine. Likely symptoms of antihistamine overdose may include drowsiness in adults and, initially, agitation and restlessness, followed by drowsiness in children. In case of suspected overdose, supportive and symptomatic treatment is recommended. 8

@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_020
+DCI: iopamidol
+DrugBank ID: DB08947
+DrugBank Name: Iopamidol
+Brand Names: PAMIDOL 300
+Pharmaceutical Forms: Solution
+Dosages: i =300mg/ml
+Packaging: flacon./50ml - flacon./100ml
+ATC Classification: V08AB04
+Registration Numbers: 276/08 C 020/09/16
+Drug Codes: 08 C 020
+
+------------------------------------------------------------
+
+## Description
+
+Iopamidol is a contrast agent developed by Bracco with nonionic, low-osmolar properties.

@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_L_098
+DCI: Macrogol 4000 (Ou Peg=Polyethylene Glycol 4000)
+Brand Names: FORLAX | MACROLAX-ISO | OROLAX | PROLAX
+Pharmaceutical Forms: Poudre
+Dosages: 10g
+Packaging: b/20
+Laboratories: MAYOLY PHARMA FRANCE | 3 PLACE RENAULT | 92500 RUEIL-MALMAISON
+ATC Classification: A06AD15
+Registration Numbers: 073/10 L 098/25 | 235/10 L 098/19/25 | 289/10 L 098/21 | 662/10 L 098/98/24
+Drug Codes: 10 L 098
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement symptomatique de la constipation chez l'adulte et chez l’enfant à partir de 8 ans. | Une cause organique devra être écartée avant d’initier le traitement. FORLAX doit rester un traitement temporaire de la constipation, d’une durée n’excédant pas 3 mois chez l’enfant, en association aux mesures hygiéno-diététiques adaptées. La persistance des troubles malgré les mesures hygiéno-diététiques associées devra faire rechercher et traiter une pathologie sous-jacente.
+
+## Posology
+
+Voie orale. | Posologie | La posologie est de 1 à 2 sachets par jour (10 à 20 g) à prendre de préférence en une seule prise, le matin. | La dose journalière doit être adaptée en fonction des effets cliniques obtenus et peut aller de 1 sachet un jour sur deux (en particulier chez l’enfant) à 2 sachets par jour. L'effet de FORLAX se manifeste dans les 24 à 48 heures suivant son administration. | Population pédiatrique | Chez l’enfant, compte tenu de l’absence de donnée clinique au-delà de 3 mois, la durée du traitement ne devra pas dépasser 3 mois. | L’amélioration du transit intestinal induite par le traitement sera maintenue par les mesures hygiéno-diététiques. | Mode d’administration | Le contenu de chaque sachet doit être dissous dans environ 50 ml d’eau juste avant d’être administré et pris le matin. La solution résultante sera claire et transparente comme de l'eau.
+
+## Contraindications
+
+· Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1 ; | · Maladies inflammatoires sévères de l’intestin (rectocolite hémorragique, maladie de Crohn) ou mégacôlon toxique ; | · Perforation digestive ou risque de perforation digestive ; | · Ileus ou suspicion d’occlusion intestinale, sténose symptomatique ; | · Syndromes douloureux abdominaux de cause indéterminée.
+
+## Precautions
+
+Mises en garde spéciales | Le traitement médicamenteux de la constipation n'est qu'un adjuvant au traitement hygiéno-diététique tel que : | · Enrichissement de l'alimentation en fibres végétales et en boissons ; | · Conseils sur l’activité physique adaptée et rééducation de l'exonération. | Une cause organique devra être écartée avant d’initier le traitement. | Ce médicament contient du macrogol (polyéthylène glycol). Des réactions d’hypersensibilité (choc anaphylactique, angio-œdème, urticaire, éruption, prurit, érythème) ont été rapportées avec des spécialités contenant du macrogol, voir rubrique 4.8. | Ce médicament contient de l’anhydride sulfureux (E 220) qui peut, dans de rares cas, provoquer des réactions d’hypersensibilité sévères et des bronchospasmes. | Ce médicament contient 1,7 mg de sorbitol (E 420) par sachet. | Ce médicament contient moins de 1 mmol (23 mg) de sodium par sachet, c'est-à-dire qu'il est essentiellement « sans sodium ». | En cas de diarrhée, il convient de surveiller les patients à risque de déséquilibre hydro-électrolytique (par exemple sujet âgé ou patient avec insuffisance hépatique ou insuffisance rénale ou sous traitement diurétique) et d’envisager un contrôle des électrolytes. | A utiliser avec précaution chez les patients présentant une altération du réflexe nauséeux et les patients sujets aux régurgitations ou aux fausses routes. Des cas d’inhalation ont été rapportés lors de l’administration par sonde nasogastrique de volumes importants de polyéthylène glycol et d’électrolytes. Les enfants présentant une atteinte neurologique avec des troubles oromoteurs sont particulièrement exposés à ce risque d’inhalation. | Chez les patients ayant des problèmes de déglutition, qui ont besoin d'ajouter un épaississant aux solutions pour favoriser une prise appropriée, des interactions doivent être envisagées, voir section 4.5. | Précautions particulières d'emploi | FORLAX ne contenant pas de quantité significative de sucre ou de polyol, il peut être prescrit aux patients diabétiques ou aux patients soumis à un régime exempt de galactose.
+
+## Interactions
+
+Il est possible que l'absorption d'autres médicaments puisse être transitoirement réduite lors de l’utilisation de FORLAX, en particulier des médicaments ayant un index thérapeutique étroit ou une demi-vie courte comme la digoxine, les antiépileptiques, les coumarines et les immunosuppresseurs, entraînant une diminution de l'efficacité. | FORLAX peut potentiellement interagir avec les épaississants alimentaires à base d'amidon. La substance active macrogol neutralise l'effet épaississant de l'amidon, menant à la liquéfaction des préparations devant rester épaissies pour les personnes ayant des troubles de déglutition.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Les études chez l’animal n’ont pas mis en évidence d’effets délétères directs ou indirects sur la reproduction (voir rubrique 5.3). Il existe des données limitées (moins de 300 grossesses) sur l’utilisation de FORLAX chez la femme enceinte. | Aucun effet pendant la grossesse n’est attendu dans la mesure où l’exposition systémique à FORLAX est négligeable. FORLAX peut être utilisé pendant la grossesse. | Allaitement | Il n’y a pas de donnée concernant l’excrétion de FORLAX dans le lait maternel. | Aucun effet chez les nouveau-nés/nourrissons allaités n’est attendu dans la mesure où l’exposition systémique de la femme qui allaite à FORLAX est négligeable. FORLAX peut être utilisé pendant l’allaitement. | Fertilité | Aucune étude de fertilité n’a été réalisée avec FORLAX. Cependant, dans la mesure où le macrogol 4000 n’est pas absorbé de façon significative, aucun effet sur la fertilité n’est attendu.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : LAXATIF OSMOTIQUE, code ATC : A06AD15 (A : appareil digestif et métabolisme). | Les macrogols de haut poids moléculaire (4000) sont de longs polymères linéaires sur lesquels sont retenues les molécules d'eau par liaisons hydrogènes. Administrés par voie orale, ils entraînent un accroissement du volume des liquides intestinaux. | Le volume de liquide intestinal non absorbé est à l'origine des propriétés laxatives de la solution.
+
+## Adverse Effects
+
+La fréquence des effets indésirables peut être classée comme suit : | Très fréquent (≥ 1/10), fréquent (≥ 1/100 à < 1/10), peu fréquent (≥ 1/1 000 à < 1/100), rare (≥ 1/10 000 à <1/1 000), très rare (< 1/10 000), fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Chez l’adulte : | Les effets indésirables listés dans le tableau ci-dessous ont été rapportés au cours des études cliniques (incluant environ 600 patients) et lors de la commercialisation du produit. En général, ces effets indésirables ont toujours été légers et transitoires, et ont concerné principalement l’appareil digestif : | Système organe Effets indésirables Affections gastro-intestinales Fréquent Douleurs abdominales Distension abdominale Diarrhée* Nausées Peu fréquent Vomissements Défécation impérieuse Incontinence fécale Troubles du métabolisme et de la nutrition Fréquence indéterminée Troubles électrolytiques (hyponatrémie, hypokaliémie) et/ou déshydratation en particulier chez le sujet âgé Affections du système immunitaire Fréquence indéterminée Hypersensibilité :choc anaphylactique, angio-œdème, urticaire, éruption, prurit, érythème | Chez l’enfant : | Les effets indésirables listés dans le tableau ci-dessous ont été rapportés au cours des études cliniques incluant 147 enfants âgés de 6 mois à 15 ans et lors de la commercialisation du produit. Comme chez l’adulte, ces effets indésirables ont généralement été légers et transitoires et ont concerné principalement l’appareil digestif : | Système organe Effets indésirables Affections gastro-intestinales Fréquent Douleurs abdominales Diarrhée* Peu fréquent Vomissements Distension abdominale, Nausées Affections du système immunitaire Fréquence indéterminée Hypersensibilité (choc anaphylactique, angio-œdème, urticaire, éruption, prurit). | * La diarrhée peut entraîner une douleur périanale. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+Ce médicament ne nécessite pas de précautions particulières de conservation.

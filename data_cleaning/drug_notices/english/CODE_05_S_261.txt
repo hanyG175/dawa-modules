@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_S_261
+DCI: Ixazomib
+DrugBank ID: DB09570
+DrugBank Name: Ixazomib
+Brand Names: NINLARO
+Pharmaceutical Forms: Gélule
+Dosages: 2.3mg
+Packaging: b/03
+Registration Numbers: 411/05 S 261/25
+Drug Codes: 05 S 261
+
+------------------------------------------------------------
+
+## Description
+
+Ixazomib is a reversible proteasome inhibitor. Because it is a modified peptide boronic acid with one chiral center, 4 it is considered a boronate proteasome inhibitor. 1 More than 99% of the drug compound is the R-enantiomer. 4 Ixazomib was approved by the FDA on November 20, 2015, making it the first oral proteasome inhibitor approved in the US. 2 It was later approved by Health Canada on August 3, 2016, 6 and by the EMA on November 21, 2016. 7 It was also investigated in other hematological malignancies as well as other conditions, such as systemic light chain (AL) amyloidosis, graft-versus-host disease, and lupus nephritis. 3
+
+## Pharmacodynamics
+
+Ixazomib exerts antimyeloma effects with time-dependent reversible proteasome inhibition. 1 Ixazomib induced apoptosis of multiple myeloma cell lines in vitro. 2 Ixazomib demonstrated in vitro cytotoxicity against myeloma cells from patients who had relapsed after multiple prior therapies, including bortezomib, lenalidomide, and dexamethasone. The combination of ixazomib and lenalidomide demonstrated synergistic cytotoxic effects in multiple myeloma cell lines. In vivo, ixazomib demonstrated antitumour activity in a mouse multiple myeloma tumour xenograft model. 5 Studies show that ixazomib exhibits an antiangiogenic activity and blocks osteoclastogenesis and osteoclast reabsorption. 1
+
+## Mechanism Of Action
+
+Proteasome subunit beta type-5 Inhibitor
+
+## Absorption
+
+Upon oral administration, ixazomib is rapidly absorbed 4 with a T max of one hour. 5 Based on population pharmacokinetic (PK) analysis, the mean absolute oral bioavailability was 58%. Ixazomib area under the curve (AUC) increases in a dose-proportional manner over a dose range of 0.2 to 10.6 mg. A food effect study conducted in patients with a single 4 mg dose of ixazomib showed that a high-fat meal decreased ixazomib AUC by 28% and C max by 69%. 5
+
+## Volume Of Distribution
+
+The steady-state volume of distribution is 543 L. 5
+
+## Metabolism
+
+After the oral administration of a radiolabeled dose, ixazomib represented 70% of total drug-related material in plasma. 5 Ixazomib undergoes both CYP- and non-CYP-mediated metabolism, which is reported to be the major drug clearance mechanism. 4 The major biotransformation pathways include hydrolysis, deboronation, and N-dealkylation, with drug metabolites not expected to retain pharmacological activity. 4 At clinically relevant ixazomib concentrations, in vitro studies using human cDNA-expressed cytochrome P450 isozymes showed that no specific CYP isozyme predominantly contributes to ixazomib metabolism. At higher than clinical concentrations, ixazomib was metabolized by multiple CYP isoforms with estimated relative contributions of 3A4 (42%), 1A2 (26%), 2B6 (16%), 2C8 (6%), 2D6 (5%), 2C19 (5%) and 2C9 (< 1%). 5 Hover over products below to view reaction partners Ixazomib Ixazomib M6 metabolite Ixazomib M3 metabolite Ixazomib M1 metabolite Ixazomib M2 metabolite Ixazomib M1 metabolite Ixazomib M5 metabolite Ixazomib M6 metabolite Ixazomib M2 metabolite
+
+## Route Of Elimination
+
+After administration of a single oral dose of 14 C-ixazomib to 5 patients with advanced cancer, 62% of the administered radioactivity was excreted in urine and 22% in the feces. Unchanged ixazomib accounted for < 3.5% of the administered dose recovered in urine. 5 Following weekly oral dosing, the accumulation ratio was determined to be two-fold. 5
+
+## Half Life
+
+The terminal half-life (t1/2) of ixazomib was 9.5 days based on a population PK analysis. 5
+
+## Clearance
+
+Based on a population PK analysis, systemic clearance was approximately 1.9 L/hr with inter-individual variability of 44%. 5
+
+## Toxicity
+
+Overdosage, including fatal overdosage, has been reported in patients taking ixazomib. Manifestations of overdosage include adverse reactions reported at the recommended dosage, including severe nausea, vomiting, diarrhea, aspiration pneumonia, multiple organ failure and death. There is no known specific antidote for ixazomib overdose and ixazomib is not dialyzable. In the event of an overdose, monitor the patient closely for adverse reactions and provide appropriate supportive care. 5 , 6

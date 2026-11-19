@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_100
+DCI: Olanzapine
+Brand Names: OLANZAPINE MM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 10MG
+Packaging: B/07 ET B/28
+Laboratories: MM LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 1638 DA
+PPA (DA): 5716.00 DA
+Prescription List: Liste I
+ATC Classification: 16D100
+Registration Numbers: 268/16 D 100/09/22 | 317/16 D 100/10/22 | 352/16 D 100/12/22 | 426/16 D 100/21 | 447/16 D 100/10/21 | 468/16 D 100/14 | 470/16 D 100/13/24 | 492/16 D 100/19/24
+Drug Codes: 16 D 100
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

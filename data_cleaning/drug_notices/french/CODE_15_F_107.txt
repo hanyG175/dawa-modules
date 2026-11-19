@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_107
+DCI: RIVASTIGMINE (hydrogénotartrate) 3 mg gél (RIVASTIGMINE ARROW)
+Brand Names: RESTILON | RIVASTI
+Pharmaceutical Forms: Gélule
+Dosages: 3mg
+Packaging: b/30 | b/60
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06D - MEDICAMENTS CONTRE LA DEMENCE | N06DA - ANTICHOLINESTERASIQUES | N06DA03 - RIVASTIGMINE
+Registration Numbers: 263/15 F 107/16 | 352/15 F 107/17/22
+Drug Codes: 15 F 107
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | dispositif transdermique | rivastigmine : 9.5 mg/1 24 heures | Modalités d'administration | Voie transdermique | Administrer en variant le site d'application | Appliquer sur le dos, le haut du bras ou la poitrine | Appliquer sur une peau glabre | Appliquer sur une peau saine | Appliquer sur une peau sèche | Ne pas découper le patch | Ne pas utiliser ce dosage pour le traitement initial | Posologie à réinstaurer progressivement en cas d'interruption du traitement d'au moins 3 jours | Se laver les mains après chaque manipulation du médicament | Traitement à poursuivre tant qu'il apporte des bénéfices au patient | Traitement à renouveler en cas de décollement spontané du dispositif | Traitement à réévaluer régulièrement | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Maladie d'Alzheimer, forme légère à modérée, traitement symptomatique (de la) | Posologie standard | 1 dispositif transdermique 1 fois par jour | Durées absolues de traitement | Ne pas administrer moins de 6 mois. | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Allongement de l'espace QT, antécédent familial (d') | Antécédent d'asthme | Antécédent récent d'infarctus du myocarde | Bronchopneumopathie chronique obstructive, antécédent(de) | Enfant de moins de 15 ans | Femme | Grossesse | Insuffisance cardiaque congestive | Insuffisance hépatique | Maladie du sinus | Patient à risque d'ulcère digestif | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'hypokaliémie | Sujet à risque d'hypomagnésémie | Sujet à risque de crise convulsive | Sujet à risque de rétention urinaire | Sujet de moins de 50 kg | Syndrome extrapyramidal | Trouble de la conduction cardiaque | Ulcère gastroduodénal évolutif
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Rivastigmine : Mécanisme d'action | La rivastigmine est un inhibiteur de l'acétyl et de la butyrylcholinestérase, de type carbamate : on estime qu'elle facilite la neurotransmission cholinergique en ralentissant la dégradation de l'acétylcholine libérée par les neurones cholinergiques intacts sur le plan fonctionnel. La rivastigmine est donc susceptible d'avoir un effet favorable sur les déficits cognitifs dépendants de ces voies cholinergiques au cours de la maladie d'Alzheimer et d'une démence associée à la maladie de Parkinson. | La rivastigmine agit sur les enzymes cibles en formant un complexe lié par une liaison covalente qui entraîne une inactivation transitoire des enzymes. Chez le sujet sain jeune, une dose de 3 mg par voie orale entraîne une diminution d'environ 40 % de l'activité de l'acétylcholinestérase (AChE) dans le LCR dans l'heure et demie après administration. L'activité enzymatique revient à son niveau initial 9 heures environ après le pic d'activité inhibitrice.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) | DERMATOLOGIE: | - Hypersudation (Fréquent) | - Réaction cutanée au site d'application (Fréquent) | - Eruption cutanée (Fréquent) | - Irritation au site d'application | - Oedème au site d'application | - Prurit au site d'application | - Prurit | - Erythème cutané | - Erythème au site d'application | - Dermatite au site d'application | - Vésicule | - Urticaire | - Dermatite allergique | DIVERS: | - Fièvre (Fréquent) | - Asthénie (Fréquent) | - Chute (Rare) | - Fatigue | HÉPATOLOGIE: | - Hépatite | NUTRITION, MÉTABOLISME: | - Déshydratation (Peu fréquent) | - Anorexie (Fréquent) | - Poids (diminution) (Fréquent) | - Appétit diminué (Fréquent) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | PSYCHIATRIE: | - Dépression (Fréquent) | - Anxiété (Fréquent) | - Confusion mentale (Fréquent) | - Agressivité (Peu fréquent) | - Agitation (Fréquent) | - Hallucination | - Cauchemar | - Insomnie | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Peu fréquent) | - Malaise (Fréquent) | - Syncope (Fréquent) | - Angor (Rare) | - Tachycardie | - Maladie du sinus | - Fibrillation auriculaire | - Hypertension artérielle | - Bloc auriculoventriculaire | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Diarrhée (Fréquent) | - Ulcère gastrique (Peu fréquent) | - Hémorragie gastro-intestinale (Très rare) | - Ulcère duodénal (Rare) | - Pancréatite | - Rupture de l'oesophage | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hyperactivité psychomotrice (Peu fréquent) | - Syndrome extrapyramidal (Très rare) | - Somnolence | - Tremblement | - Convulsions | - Maladie de Parkinson (aggravation) | UROLOGIE, NÉPHROLOGIE: | - Incontinence urinaire (Fréquent) | - Infection urinaire (Fréquent)

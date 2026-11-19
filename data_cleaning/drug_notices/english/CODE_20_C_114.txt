@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_114
+DCI: Paracetamol/Huile Essentielle De Pin De Sylvestre
+DrugBank ID: DB00316
+DrugBank Name: Acetaminophen
+Brand Names: FEBRECTOL NOURRISSONS
+Pharmaceutical Forms: Suppositoireositoire
+Dosages: 150mg/20mg
+Packaging: b/06
+Registration Numbers: 255/20 C 114/05
+Drug Codes: 20 C 114
+
+------------------------------------------------------------
+
+## Description
+
+Acetaminophen (paracetamol), also commonly known as Tylenol , is the most commonly taken analgesic worldwide and is recommended as first-line therapy in pain conditions by the World Health Organization (WHO). 10 It is also used for its antipyretic effects, helping to reduce fever. 34 This drug was initially approved by the U.S. FDA in 1951 and is available in a variety of forms including syrup form, regular tablets, effervescent tablets, injection, suppository, and other forms. 20 , 21 , 34 Acetaminophen is often found combined with other drugs in more than 600 over the counter (OTC) allergy medications, cold medications, sleep medications, pain relievers, and other products. 24 Confusion about dosing of this drug may be caused by the availability of different formulas, strengths, and dosage instructions for children of different ages. 24 Due to the possibility of fatal overdose and liver failure associated with the incorrect use of acetaminophen, it is important to follow current and available national and manufacturer dosing guidelines while this drug is taken or prescribed. 25 , 26 , 27 On September 22, 2025, the US FDA initiated a labeling change for acetaminophen products suggesting that the use of acetaminophen by pregnant women may be associated with an increased risk of neurological conditions such as autism and ADHD in children. 28 While the FDA updated labeling to caution about potential risks, large studies, 14 , 15 , 18 national and international health authorities, 31 , 32 , 33 and professional organizations - including the Society of Obstetricians and Gynaecologists of Canada (SOGC) 29 and the American College of Obstetricians and Gynecologists (ACOG) 30 - maintain that acetaminophen use in pregnancy remains a first-line therapeutic option when used at the lowest effective dose for the shortest required duration.
+
+## Pharmacodynamics
+
+Animal and clinical studies have determined that acetaminophen has both antipyretic and analgesic effects. This drug has been shown to lack anti-inflammatory effects. As opposed to the salicylate drug class, acetaminophen does not disrupt tubular secretion of uric acid and does not affect acid-base balance if taken at the recommended doses. 34 Acetaminophen does not disrupt hemostasis and does not have inhibitory activities against platelet aggregation. 27 , 34 Allergic reactions are rare occurrences following acetaminophen use. 34
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor
+
+## Absorption
+
+Acetaminophen has 88% oral bioavailability and reaches its highest plasma concentration 90 minutes after ingestion. 9 Peak blood levels of free acetaminophen are not reached until 3 hours after rectal administration of the suppository form of acetaminophen and the peak blood concentration is approximately 50% of the observed concentration after the ingestion of an equivalent oral dose (10-20 mcg/mL). 34 The percentage of a systemically absorbed rectal dose of acetaminophen is inconsistent, demonstrated by major differences in the bioavailability of acetaminophen after a dose administered rectally. Higher rectal doses or an increased frequency of administration may be used to attain blood concentrations of acetaminophen similar to those attained after oral acetaminophen administration. 27
+
+## Volume Of Distribution
+
+Volume of distribution is about 0.9L/kg. 10 to 20% of the drug is bound to red blood cells. 11 Acetaminophen appears to be widely distributed throughout most body tissues except in fat. 27
+
+## Metabolism
+
+Acetaminophen is the major metabolite of phenacetin and acetanilid . 34 Acetaminophen is mainly metabolized in the liver by first-order kinetics and its metabolism of comprised of 3 pathways: conjugation with glucuronide, conjugation with sulfate, and oxidation through the cytochrome P450 enzyme pathway, mainly CYP2E1, to produce a reactive metabolite (N-acetyl-p-benzoquinone imine or NAPQI). At normal therapeutic doses, NAPQI undergoes fast conjugation with glutathione and is subsequently metabolized to produce both cysteine and mercapturic acid conjugates. 27 High doses of acetaminophen (overdoses) can lead to hepatic necrosis due to the depletion of glutathione and of binding of high levels of reactive metabolite (NAPQI) to important parts of liver cells. The abovementioned damage to the liver can be prevented by the early administration of sulfhydryl compounds, for example, methionine and N-acetylcysteine. 12 Hover over products below to view reaction partners Acetaminophen NAPQI Acetaminophen cysteine Acetaminophen glucuronide Acetaminophen sulfate
+
+## Route Of Elimination
+
+Acetaminophen metabolites are mainly excreted in the urine. Less than 5% is excreted in the urine as free (unconjugated) acetaminophen and at least 90% of the administered dose is excreted within 24 hours. 34
+
+## Half Life
+
+The half-life for adults is 2.5 h after an intravenous dose of 15 mg/kg. 27 After an overdose, the half-life can range from 4 to 8 hours depending on the severity of injury to the liver, as it heavily metabolizes acetaminophen. 9
+
+## Clearance
+
+Adults: 0.27 L/h/kg following a 15 mg/kg intravenous (IV) dose. 27 Children: 0.34 L/h/kg following a 15 mg/kg intravenous (IV dose). 27
+
+## Toxicity
+
+LD50 = 338 mg/kg (oral, mouse); LD50 = 1944 mg/kg (oral, rat) 35 Overdose and liver toxicity Acetaminophen overdose may be manifested by renal tubular necrosis, hypoglycemic coma, and thrombocytopenia. Sometimes, liver necrosis can occur as well as liver failure. Death and the requirement of a liver transplant may also occur. 27 Metabolism by the CYP2E1 pathway releases a toxic acetaminophen metabolite known as N-acetyl-p-benzoquinoneimine (NAPQI). The toxic effects caused by this drug are attributed to NAPQI, not acetaminophen alone. 35 Carcinogenesis Long-term studies in mice and rats have been completed by the National Toxicology Program to study the carcinogenic risk of acetaminophen. In 2-year feeding studies, F344/N rats and B6C3F1 mice consumed a diet containing acetaminophen up to 6,000 ppm. Female rats showed evidence of carcinogenic activity demonstrated by a higher incidence of mononuclear cell leukemia at doses 0.8 times the maximum human daily dose (MHDD). No evidence of carcinogenesis in male rats (0.7 times) or mice (1.2 to 1.4 times the MHDD) was noted. 27 The clinical relevance of this finding in humans is unknown. Mutagenesis Acetaminophen was not found to be mutagenic in the bacterial reverse mutation assay (Ames test). Despite this finding, acetaminophen tested positive in the in vitro mouse lymphoma assay as well as the in vitro chromosomal aberration assay using human lymphocytes. In published studies, acetaminophen has been reported to be clastogenic (disrupting chromosomes) when given a high dose of 1,500 mg/kg/day to the rat model (3.6 times the MHDD). No clastogenicity was observed at a dose of 750 mg/kg/day (1.8 times the MHDD), indicating that this drug has a threshold before it may cause mutagenesis. 27 The clinical relevance of this finding in humans is unknown. Impairment of Fertility In studies conducted by the National Toxicology Program, fertility assessments have been performed in Swiss mice in a continuous breeding study. No effects on fertility were seen. 27 Use in pregnancy and nursing The FDA label for acetaminophen considers it a pregnancy category C drug, meaning this drug has demonstrated adverse effects in animal studies. No human clinical studies in pregnancy have been done to this date for intravenous acetaminophen. 27 Use acetaminophen only when necessary during pregnancy. 27 Epidemiological data on oral acetaminophen use in pregnant women demonstrate no increase in the risk of major congenital malformations. 27 While prospective clinical studies examining the results of nursing with acetaminophen use have not been conducted, acetaminophen is found secreted in human milk at low concentrations after oral administration. Data from more than 15 nursing mothers taking acetaminophen was obtained, and the calculated daily dose of acetaminophen that reaches the infant is about 1 to 2% of the maternal dose. Caution should be observed when acetaminophen is taken by a nursing woman. 27

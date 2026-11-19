@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_F_252
+DCI: BECLOMETASONE DIPROPIONATE 100 µg/dose + FORMOTEROL FUMARATE 6 µg/dose sol p inhal en fl press (BECLOMETASONE/FORMOTEROL BIOGARAN)
+Brand Names: FOSTER NEXTHALER
+Pharmaceutical Forms: Poudre
+Dosages: 100mg/6mg
+Packaging: b/01 inhalateur multidose contenant 120 inhalations
+ATC Classification: R03BA01
+Registration Numbers: 092/20 F 252/24
+Drug Codes: 20 F 252
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | dose | béclométasone dipropionate : 250 µg | Modalités d'administration | Voie inhalée | Information du patient : laver l'embout après chaque utilisation | Information du patient : se rincer la bouche après chaque administration sans avaler l'eau | Information du patient : traitement de fond à prendre même en absence de symptômes | Rechercher la posologie minimale efficace | Posologie | Patient de 30 mois à 15 an(s) | Patient quel que soit le poids | Asthme persistant léger, traitement de fond (de l') - Asthme persistant modéré, traitement de fond (de l') | Posologie standard | 250 à 500 µg en 2 prises par jour | Asthme persistant sévère, traitement de fond (de l') | Posologie standard | 1 000 µg en 2 à 4 prises par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Asthme persistant léger, traitement de fond (de l') - Asthme persistant modéré, traitement de fond (de l') | Posologie standard | 500 à 1 000 µg en 2 prises par jour | Asthme persistant sévère, traitement de fond (de l') | Posologie standard | 2 000 µg en 2 à 4 prises par jour
+
+## Precautions
+
+Asthme | Asthme instable | Bronchopneumopathie chronique obstructive | Crise d'asthme | Dyspnée paroxystique | Enfant de moins de 15 ans | Exacerbation d'asthme | Hypersécrétion bronchique | Infection bronchique | Infection bronchopulmonaire | Infection oculaire | Infection oropharyngée | Mycose pulmonaire | Nouveau-né exposé in utero au médicament | Patient ayant des difficultés de synchronisation main/poumon | Patient traité en relais d'une corticothérapie par voie générale | Sifflement respiratoire | Sujet allergique | Sujet de moins de 18 ans | Traitement par fortes doses de corticoïde | Traitement prolongé à posologie élevée | Traitement prolongé par corticothérapie orale en cours | Tuberculose pulmonaire
+
+## Mechanism Of Action
+
+Béclométasone : Mécanisme d'action | La béclométasone est un glucocorticoïde. Administrée par voie inhalée, elle exerce une action anti-inflammatoire locale sur les muqueuses des voies respiratoires. | L'association de | formotérol | et de dipropionate de béclométasone a amélioré les symptômes d'asthme et la fonction respiratoire et a réduit les exacerbations.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Cortisolurie (diminution) | - Cortisolémie (diminution) | DERMATOLOGIE: | - Irritation cutanée | - Atrophie cutanée | - Eruption cutanée | - Prurit | - Erythème cutané | - Hématome sous-cutané | - Urticaire | DIVERS: | - Oedème de la face (Très rare) | - Asthénie (Rare) | - Effets systémiques | ENDOCRINOLOGIE: | - Freinage surrénalien (Très rare) | - Insuffisance surrénale (Très rare) | - Syndrome de Cushing (Très rare) | - Syndrome cushingoïde (Très rare) | - Hypercorticisme | - Atteinte endocrinienne | HÉMATOLOGIE: | - Ecchymose | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde (Très rare) | - Hypersensibilité | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose oropharyngée (Très fréquent) | - Candidose buccale (Très fréquent) | INFECTIOLOGIE D'ORIGINE VIRALE: | - Herpès (Rare) | OPHTALMOLOGIE: | - Oedème oculaire (Très rare) | - Cataracte (Très rare) | - Glaucome (Très rare) | - Oedème périorbitaire | - Oedème palpébral | - Vision floue | ORL, STOMATOLOGIE: | - Laryngite (Très fréquent) | - Irritation de la gorge (Fréquent) | - Enrouement (Peu fréquent) | - Pharyngite (Très fréquent) | - Oedème pharyngé (Très rare) | - Raucité de la voix | - Gêne pharyngée | - Oedème labial | - Oedème buccal | - Dysphonie | PSYCHIATRIE: | - Trouble du sommeil (Très rare) | - Irritabilité (Très rare) | - Trouble psychique | - Agressivité | - Dépression | - Agitation | - Trouble du comportement | - Anxiété | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Dyspepsie (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Retard de croissance (Très rare) | - Ostéopénie (Très rare) | - Ostéoporose | - Contractures musculaires | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | - Tremblement (Rare) | - Hyperactivité psychomotrice | - Hyperactivité | SYSTÈME RESPIRATOIRE: | - Dyspnée aiguë (Rare) | - Dyspnée (Rare) | - Sifflement respiratoire (Très rare) | - Bronchospasme (Rare) | - Bronchospasme paradoxal (Très rare) | - Toux (Très rare) | - Pneumopathie

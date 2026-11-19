@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_061
+DCI: Sugammadex Sodique Exprime En Sugammadex
+DrugBank ID: DB06206
+DrugBank Name: Sugammadex
+Brand Names: BRIDION
+Pharmaceutical Forms: Solution
+Dosages: 100mg/ml (200mg/2ml)(500mg/5ml)
+Packaging: b/10 flacon de 2ml et b/10 flacon de 5ml
+Registration Numbers: 005/02 B 061/14
+Drug Codes: 02 B 061
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Sugammadex is a modified gamma-cyclodextrin which forms very tight water soluble complexes at a 1:1 ratio with steroidal neuromuscular blocking drugs (rocuronium > vecuronium >> pancuronium). Sugammadex creates a concentration gradient which favors movement of rocurionium from the neuromuscular junction into the plasma, which quickly reverses rocuronium-induced neuromuscular blockade. The free rocuronium in the plasma are then bound tightly to sugammadex, assisting the diffusion of the remaining rocuronium molecules out of the neuromuscular junction and increasing bound and free rocuronium in the plasma.
+
+## Absorption
+
+Sugammadex is administered intravenously.
+
+## Volume Of Distribution
+
+At steady state, the volume of distribution is 11-14 L in adult patients with normal renal function.
+
+## Metabolism
+
+No metabolites of sugammadex were observed during clinical studies.
+
+## Route Of Elimination
+
+Renal excretion of unchanged product. >90 of dose is excreted within 24 hours. 0.02% is excreted in feces and air.
+
+## Half Life
+
+About 2 hours
+
+## Toxicity
+
+Patients with severe renal impairment (with creatinine clearance below 30 mL/min) should avoid use of drug as their clearance of the drug is reduced and there is inconsistent evidence about its safety in this subset of patients.

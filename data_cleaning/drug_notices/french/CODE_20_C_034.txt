@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_034
+DCI: OXELADINE CITRATE 10 mg/5 ml sirop (PAXELADINE)
+Brand Names: EUPNEX
+Pharmaceutical Forms: Siropop
+Dosages: 10 mg/5ml
+Packaging: flacon/180 ml+goblet doseur
+Laboratories: MAYOLY PHARMA FRANCE
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05D - ANTITUSSIFS, SAUF ASSOCIATIONS AUX EXPECTORANTS | R05DB - AUTRES ANTITUSSIFS | R05DB09 - OXELADINE
+Registration Numbers: 003/20 C 034/98/25
+Drug Codes: 20 C 034
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon May 05 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: Traitement symptomatique des toux non productives gênantes.
+
+## Posology
+
+Posologie | Unité de prise | ml | oxéladine citrate : 2 mg | Modalités d'administration | Voie orale | Administrer au moyen du matériel doseur fourni | Le traitement doit être de courte durée | Respecter un intervalle d'au moins 4 heures entre 2 prises | Posologie | Patient de 30 mois à 15 an(s) | 15 kg <= Poids < 20 kg | Toux sèche | Posologie standard | 2,5 ml 1 à 4 fois par jour | Dose maximale par prise: 2,5 ml | Posologie maximale: 10 ml par 24 heures | 20 kg <= Poids < 30 kg | Toux sèche | Posologie standard | 5 ml 1 à 3 fois par jour | Dose maximale par prise: 5 ml | Posologie maximale: 15 ml par 24 heures | 30 kg <= Poids < 50 kg | Toux sèche | Posologie standard | 5 ml 1 à 5 fois par jour | Dose maximale par prise: 5 ml | Posologie maximale: 25 ml par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 5 ml 1 à 5 fois par jour | Dose maximale par prise: 5 ml | Posologie maximale: 25 ml par 24 heures
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 kg | Grossesse | Nourrisson de moins de 30 mois
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Oxéladine : Mécanisme d'action | L’oxéladine est un antitussif central, non opiacé, non antihistaminique.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire | - Eruption cutanée | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Hypersensibilité

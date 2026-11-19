@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_039
+DCI: FEXOFENADINE CHLORHYDRATE 120 mg cp (FEXOFENADINE ARROW)
+DrugBank ID: DB00950
+DrugBank Name: Fexofenadine
+Brand Names: FASTOFEN 120 | FEXODINE | FEXOFENADINE BEKER | FEXOFENADINE IVAL | FEXONIDAL | RIFEX 120 | TELFADINE | TELFAST
+Pharmaceutical Forms: Comprimé
+Dosages: 120mg
+Packaging: b/15 | b/20
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX - AUTRES ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX26 - FEXOFENADINE
+Registration Numbers: 035/01 A 039/17 | 039/01 A 039/11/24 | 195/01 A 039/07/12 | 201/01 A 039/00/24 | 268/01 A 039/07/22 | 352/01 A 039/07/22 | 447/01 A 039/17/24 | 492/01 A 039/15/25
+Drug Codes: 01 A 039
+
+------------------------------------------------------------
+
+## Description
+
+Fexofenadine is an over-the-counter second-generation antihistamine used in the treatment of various allergic symptoms. 10 It is selective for the H 1 receptor, carries little-to-no activity at off-targets, and does not cross the blood-brain barrier 9 - this is in contrast to previous first-generation antihistamines, such as diphenhydramine , which readily bind to off-targets that contribute to side effects such as sedation. 1 Fexofenadine is the major active metabolite of terfenadine 7 and is administered as a racemic mixture in which both enantiomers display approximately equivalent antihistamine activity. 9
+
+## Pharmacodynamics
+
+Fexofenadine relieves allergy symptoms by antagonizing the actions of histamine, an endogenous compound predominantly responsible for allergic symptomatology. 10 The relatively long duration of action of fexofenadine (approximately 24 hours) 7 allows for once or twice daily dosing, and its rapid absorption allows for an onset of action within 1-3 hours. Fexofenadine should not be taken with fruit juice, as this may impair its absorption. 10
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Fexofenadine is rapidly absorbed following oral administration and its absolute bioavailability is approximately 33%. 9 The T max following oral administration is approximately 1-3 hours. 9 , 7 The steady-state AUC ss(0-12h) and C max following twice daily dosing of 60mg are 1367 ng/mL.h and 299 ng/mL, respectively. 9 Fexofenadine AUC is decreased by >20% when coadministered with fruit juices (e.g. apple, orange, grapefruit) due to their inhibition of OATP transporters - for this reason, prescribing information recommends administering fexofenadine only with water. 8 Similarly, coadministration of fexofenadine with a high-fat meal appears to decrease AUC and C max by >20%. 10
+
+## Volume Of Distribution
+
+The volume of distribution is approximately 5.4-5.8 L/kg. 7
+
+## Metabolism
+
+Fexofenadine is very minimally metabolized, with only 5% of an ingested dose undergoing hepatic metabolism. 10 , 7 The only identified metabolites are a methyl ester of fexofenadine (3.6% of the total dose) and MDL 4829 (1.5% of the total dose). 9 The enzymes responsible for this metabolism have not been elucidated. Hover over products below to view reaction partners Fexofenadine MDL 4829 (Azacyclonol)
+
+## Route Of Elimination
+
+Approximately 80% of an ingested dose is eliminated in the feces, likely largely unchanged due to fexofenadine's limited metabolism, and 11% is eliminated in the urine. 7 The principal pathways of fexofenadine elimination are biliary and renal. 9
+
+## Half Life
+
+The terminal elimination half-life is approximately 11-15 hours. 9 , 7
+
+## Clearance
+
+The oral clearance of fexofenadine is approximately 50.6 L/h and the renal clearance is approximately 4.32 L/h. 9
+
+## Toxicity
+
+No deaths were observed following the oral administration of up to 5000 mg/kg in both mice and rats (equivalent to approximately 100-200x the recommended human dose). Single doses of up to 800 mg and chronic exposure of up to 690 mg twice daily for 1 month in humans did not result in clinically significant adverse events. Symptoms of overdosage are consistent with fexofenadine's adverse effect profile and are likely to include dizziness, drowsiness, and dry mouth. 10 If overdosage occurs, employ symptomatic and supportive treatment. Hemodialysis does not effectively remove fexofenadine from the blood and is therefore of no benefit. 10

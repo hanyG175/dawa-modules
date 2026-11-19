@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_E_007
+DCI: Carbimazole
+Brand Names: CARBIMAZOLE GS
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 5MG
+Packaging: B/50
+Laboratories: GROUPE SANTE
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: N/D
+ATC Classification: 09E007
+Registration Numbers: 012/09 E 007/98/13 | 065/09 E 007/13/23 | 378/09 E 007/20 | 549/09 E 007/21
+Drug Codes: 09 E 007
+
+------------------------------------------------------------
+
+## Indications
+
+ENDOCRINOLOGIE ET HORMONES
+
+## Mechanism Of Action
+
+ANTI-THYROIDIENS

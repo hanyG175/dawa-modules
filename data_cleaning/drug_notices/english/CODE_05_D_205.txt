@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_205
+DCI: Nivolumab
+DrugBank ID: DB09035
+DrugBank Name: Nivolumab
+Brand Names: OPDIVO
+Pharmaceutical Forms: Solution
+Dosages: 10 mg/ml
+Packaging: b/01 flacon de 4 ml ( 40 mg/4ml) et b/01 flacon de 10 ml ( 100 mg/10 ml)
+Registration Numbers: 017/05 D 205/18
+Drug Codes: 05 D 205
+
+------------------------------------------------------------
+
+## Description
+
+Nivolumab is a fully human IgG4 antibody targeting the immune checkpoint programmed death receptor-1 (PD-1). 6 This antibody was produced entirely in mice and grafted onto human kappa and IgG4 Fc region with the mutation S228P for additional stability and reduced variability. 5 It was developed by Bristol Myers Squibb. 6 Nivolumab was granted FDA approval on 22 December 2014. 6 It is also available in combination with relatlimab under the brand name Opdualag. 11 , 13 , 14
+
+## Pharmacodynamics
+
+Nivolumab blocks PD-1 inhibitory signalling to T-cells. 6 It has a long duration of action as it is administered every 2-4 weeks. 6 Patients should be counselled regarding the risk of immune-mediated adverse effects, infusion-related adverse effects, complications of allogenic hematopoietic stem cell transplants, embryo-fetal toxicity. 6
+
+## Mechanism Of Action
+
+Programmed cell death protein 1 Inhibitor Antibody
+
+## Absorption
+
+Pharmacokinetic studies have suggested that nivolumab presents linear pharmacokinetics with a dose-proportional increase in peak concentration and AUC. The time to peak plasma concentration ranges between 1-4 hours. 1 The absorption pharmacokinetic properties respective to the administration of a dose of 10 mg/kg are reported to be Cmax, Tmax and AUC of 242 µg/kg, 2.99 hours and 68100 µg*h/mL respectively. 3
+
+## Volume Of Distribution
+
+The volume of distribution at steady state when a dose of 10 mg/kg of nivolumab is administered is reported to be 91.1 mL/kg. 3 At doses ranging from 0.1 to 20 mg/kg the volume of distribution is reported to be 8L. 4
+
+## Metabolism
+
+There have not been formal studies regarding the specific metabolism of nivolumab but as a human monoclonal antibody, it has been suggested to be degraded to small peptides and individual amino acids. 7
+
+## Route Of Elimination
+
+There have not been studies regarding the specific route of elimination of nivolumab. 7
+
+## Half Life
+
+The serum half life of nivolumab is approximately 20 days 1 with an elimination half life of 26.7 days. 4
+
+## Clearance
+
+The estimated clearance rate of nivolumab is 9.4 mL/h. 2 The clearance rate seems to be increased according to body weight. 4
+
+## Toxicity
+
+Data regarding overdoses of nivolumab are not readily available. 6 Common adverse effects include Rash, pruritus, cough, upper respiratory tract infection, and peripheral edema. 6

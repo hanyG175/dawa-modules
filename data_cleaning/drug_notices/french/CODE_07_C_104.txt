@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_C_104
+DCI: Mupirocine
+Brand Names: BACTROBAN | INFECTOBAN | MICROBAN | MUPIROCINE NOVAGENERICS 2%
+Pharmaceutical Forms: Pommademade
+Dosages: 2% (2g/100g)
+Packaging: t/15g
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: D06AX09
+Registration Numbers: 149/07 C 104/15 | 305/07 C 104/00/15 | 352/07 C 104/18/22 | 546/07 C 104/21
+Drug Codes: 07 C 104
+
+------------------------------------------------------------
+
+## Indications
+
+Infections de la peau dues à staphylocoque et streptocoque : | · impétigos et dermatoses impétiginisées : | o en traitement local uniquement dans les formes localisées à petit nombre de lésions, | o en traitement local d'appoint en association à une antibiothérapie générale adaptée dans les formes les plus étendues. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.
+
+## Posology
+
+Voie cutanée. | Adultes et enfants | Posologie | 2 à 3 applications par jour après nettoyage de la surface infectée. | Durée du traitement | Le traitement sera poursuivi pendant 5 à 10 jours à titre indicatif et selon la nature, la gravité de la lésion et l'efficacité obtenue. | Mode d'administration | La zone traitée peut être recouverte d'une gaze stérile ou de tout autre pansement occlusif.
+
+## Contraindications
+
+Ce médicament ne doit jamais être utilisé dans les cas suivants : | · hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1, | · en application sur le sein lors d'infections mammaires, en cas d'allaitement.
+
+## Precautions
+
+Cette pommade n'est pas destinée à l'usage ophtalmique ou intra-nasal. | Risque de sélection de bacilles à Gram négatif ( Pseudomonas ). | La pommade est inodore, s'enlève à l'eau et ne tache pas. | En cas d'application sur le visage, évitez tout contact avec les yeux. | En raison de la présence de polyéthylène-glycol (macrogol), qui est absorbé en cas de plaie ouverte puis éliminé par voie rénale, la pommade à la mupirocine devra être utilisée avec précaution chez les patients présentant de grandes plaies ou brûlures et souffrant d'une insuffisance rénale sévère ou modérée. | La mupirocine ne doit pas être utilisée sur les dermatoses étendues (plus de 20 pour cent de la surface corporelle) ou au long cours dans les dermatoses chroniques infectées en raison du risque potentiel d'émergence de souches résistantes à la mupirocine.
+
+## Interactions
+
+Ne pas incorporer à cette pommade d'autres substances actives, ni la mélanger avec d'autres pommades dermiques, au risque d'une dilution du produit entraînant une diminution de l'activité antibactérienne, d'une altération des caractéristiques de pénétration à travers la peau de cette pommade à la mupirocine, de l'autre produit ou des deux, et d'une perte de stabilité de la pommade.
+
+## Pregnancy Breastfeeding
+
+Grossesse | L'utilisation de mupirocine peut être envisagée si besoin au cours de la grossesse, quel qu'en soit le terme. En effet, bien que les données cliniques soient encore insuffisantes à ce jour, les données animales sont rassurantes. | Allaitement | Ce médicament peut être utilisé au cours de l'allaitement. | Eviter l'application sur les seins. | Fertilité | Sans objet.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : autres antibiotiques à usage topique, code ATC : D06AX09. | La mupirocine est un antibiotique d'origine naturelle produit par fermentation de Pseudomonas fluorescens . | Il possède une structure originale qui ne s'apparente à aucun des agents antibactériens actuellement disponibles en clinique. | Il inhibe la synthèse des protéines bactériennes par liaison réversible et spécifique de l'isoleucyl t-RNA synthétase. | En raison de ce mode d'action original, il n'y a pas de résistance croisée avec les autres familles d'antibiotiques. De plus, les tests in vitro ont montré un taux très lent d'émergence de souches résistantes. | La mupirocine aux concentrations que l'on peut atteindre en usage local est bactéricide sur les espèces sensibles à cet antibiotique. | SPECTRE D'ACTIVITE ANTIBACTERIENNE | La concentration critique sépare les souches sensibles des souches résistantes : | S ≤ 2 mg/L et R > 2 mg/L | La prévalence de la résistance acquise peut varier en fonction de la géographie et du temps pour certaines espèces. Il est donc utile de disposer d’informations sur la prévalence de la résistance locale. Ces données ne peuvent apporter qu’une orientation sur les probabilités de la sensibilité d’une souche bactérienne à cet antibiotique. | Lorsque la variabilité de la prévalence de la résistance en France est connue pour une espèce bactérienne, elle est indiquée dans le tableau ci-dessous : | Catégories Fréquence de résistance acquise en France (> 10 %) (valeurs extrêmes) ESPÈCES SENSIBLES Aérobies à Gram positif Staphylococcus aureus Streptocoques bêta-hémolytiques | L’émergence de souches mupirocine-R est possible. | Le risque potentiel d'un impact écologique naso-pharyngé avec sélection de flore, surtout vis-à-vis des bacilles à Gram négatif dont le Pseudomonas, n'a pas été évalué.
+
+## Adverse Effects
+
+Quelques rares cas de picotements et de brûlures ont été observés, toujours localisés au site d'application. | Dans de rares cas, des réactions d'hypersensibilité dues à la mupirocine ou à l'un de ses excipients à type d'éruption, urticaire ou d'œdème de Quincke, ont été rapportées. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C. | Ne pas conserver tout tube entamé au-delà de 15 jours.

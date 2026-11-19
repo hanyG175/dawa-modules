@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_506
+DCI: CEFALEXINE 500 mg cp (KEFORAL)
+Brand Names: LEXIN
+Pharmaceutical Forms: Poudre
+Dosages: 500mg
+Packaging: b/20 sachets
+Laboratories: Laboratoire SCIENCEX
+Registration Numbers: 001/13 B 506/22
+Drug Codes: 13 B 506
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Elles procèdent de l'activité antibactérienne et des caractéristiques pharmacocinétiques de la céfalexine. Elles tiennent compte à la fois des études cliniques auxquelles a donné lieu le médicament et de sa place dans l'éventail des produits antibactériens actuellement disponibles. | Elles sont limitées aux infections dues aux germes sensibles lorsque ces infections autorisent une antibiothérapie orale et à l'exclusion des localisations méningées, notamment : | les infections ORL : angines documentées à streptocoque A bêta-hémolytique, sinusites, otites ; | les infections respiratoires basses : | surinfections des bronchites aiguës, | exacerbations des bronchites chroniques, | pneumopathies communautaires chez des sujets : sans facteur de risques, sans signe de gravité clinique, en l'absence d'argument faisant craindre une résistance de | Streptococcus pneumoniae | à la pénicilline, en l'absence d'argument évocateur d'une pneumopathie atypique ; | les infections urinaires non compliquées, excepté les prostatites et pyélonéphrites. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.

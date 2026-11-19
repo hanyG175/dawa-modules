@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_397
+DCI: Canagliflozine | Dapagliflazine Propanediol/Chlorhydrate De Metformine
+DrugBank ID: DB08907
+DrugBank Name: Canagliflozin
+Brand Names: KANABEK | VALENSMET LP
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg | 10mg/1000mg
+Packaging: b/30
+Registration Numbers: 001/14 A 397/23 | 447/14 A 397/23
+Drug Codes: 14 A 397
+
+------------------------------------------------------------
+
+## Description
+
+Canagliflozin, also known as Invokana , is a sodium-glucose cotransporter 2 (SGLT2) inhibitor used in the management of type 2 diabetes mellitus along with lifestyle changes including diet and exercise Label . It was initially approved by the FDA in 2013 for the management of diabetes and later approved in 2018 for a second indication of reducing the risk of cardiovascular events in patients diagnosed with type 2 diabetes mellitus 8 , Label . Canagliflozin is the first oral antidiabetic drug approved for the prevention of cardiovascular events in patients with type 2 diabetes 8 . Cardiovascular disease is the most common cause of death in these patients 4 .
+
+## Pharmacodynamics
+
+This drug increases urinary glucose excretion and decreases the renal threshold for glucose (RTG) in a dose-dependent manner Label . The renal threshold is defined as the lowest level of blood glucose associated with the appearance of detectable glucose in the urine 2 , 7 . The end result of canagliflozin administration is increased urinary excretion of glucose and less renal absorption of glucose, decreasing glucose concentration in the blood and improving glycemic control. A note on type 2 diabetes and cardiovascular disease The risk of cardiovascular events in diabetes type 2 is increased due to the damaging effects of diabetes on blood vessels and nerves in the cardiovascular system. In particular, there is a tendency for hyperglycemia to create pro-atherogenic (plaque forming) lesions in blood vessels, leading to various fatal and non-fatal events including stroke and myocardial infarction 5 , 9 . Long-term glycemic control has been proven to be effective in the prevention of cardiovascular events such as myocardial infarction and stroke in patients with type 2 diabetes 6 .
+
+## Mechanism Of Action
+
+Sodium/glucose cotransporter 2 Inhibitor
+
+## Absorption
+
+Bioavailability and steady-state The absolute oral bioavailability of canagliflozin, on average, is approximately 65% Label . Steady-state concentrations are achieved after 4 to 5 days of daily dose administration between the range of 100mg to 300mg Label . Effect of food on absorption Co-administration of a high-fat meal with canagliflozin exerted no appreciable effect on the pharmacokinetic parameters of canagliflozin. This drug may be administered without regard to food. Despite this, because of the potential of canagliflozin to decrease postprandial plasma glucose excretion due to prolonged intestinal glucose absorption, it is advisable to take this drug before the first meal of the day Label .
+
+## Volume Of Distribution
+
+This drug is extensively distributed throughout the body. On average, the volume of distribution of canagliflozin at steady state following a single intravenous dose in healthy patients was measured to be 83.5 L Label .
+
+## Metabolism
+
+Canagliflozin is primarily metabolized by O-glucuronidation. It is mainly glucuronidated by UGT1A9 and UGT2B4 enzymes to two inactive O-glucuronide metabolites Label . The oxidative metabolism of canagliflozin by hepatic cytochrome enzyme CYP3A4 is negligible (about 7%) in humans Label . Hover over products below to view reaction partners Canagliflozin Glucuronidated metabolites, canafliglozin Hydroxylated metabolite, canagliflozin
+
+## Route Of Elimination
+
+After a single oral radiolabeled dose canagliflozin dose to healthy subjects, the following ratios of canagliflozin or metabolites were measured in the feces and urine Label : Feces 41.5% as the unchanged radiolabeled drug 7.0% as a hydroxylated metabolite 3.2% as an O-glucuronide metabolite Urine About 33% of the ingested radiolabled dose was measured in the urine, generally in the form of O-glucuronide metabolites. Less than 1% of the dose was found excreted as unchanged drug in urine.
+
+## Half Life
+
+In a clinical study, the terminal half-life of canagliflozin was 10.6 hours for the 100mg dose and 13.1 hours for the 300 mg dose Label .
+
+## Clearance
+
+In healthy subjects, canagliflozin clearance was approximately 192 mL/min after intravenous (IV) administration Label . The renal clearance of 100 mg and 300 mg doses of canagliflozin was measured to be in the range of 1.30 - 1.55 mL/min Label .
+
+## Toxicity
+
+Overdose information If an overdose occurs, contact the Poison Control Center. Normal supportive measures should be taken, including the removal unabsorbed drug from the gastrointestinal tract, initiating clinical monitoring of the patient, and providing supportive treatment as deemed necessary. Canagliflozin has been removed in very small quantities after a 4-hour hemodialysis session. This drug is likely not dialyzable by peritoneal dialysis Label . Pregnancy and lactation Animal data has demonstrated that canagliflozin may cause adverse renal effects in a growing fetus. Data are insufficient at this time in determining a potential canagliflozin related risk for major birth defects or possible miscarriage in humans Label . There are known risks, however, of uncontrolled diabetes in pregnancy Label . Inform female patients taking canagliflozin of the potential risk, which is increased during the second and third trimesters. This drug is not recommended during nursing Label . Mutagenesis and carcinogenicity Canagliflozin was not found to be mutagenic in both metabolically activated and inactivated states in the Ames assay. Canagliflozin showed mutagenicity in laboratory mouse lymphoma assay, but only in the activated state. Canagliflozin was not found to be mutagenic in several in vivo assays performed on rats Label . The carcinogenic risk of canagliflozin was assessed in 2-year studies completed in both CD1 mice and Sprague-Dawley rats. Canagliflozin was not shown to increase tumor incidence in mouse models given doses less than or equal to 14 times the exposure from a typical 300 mg dose in humans. Despite these negative findings in mice, the incidence of several tumors increased in mice, including Leydig cell tumors, renal tubular adenomas, and adrenal pheochromocytomas Label .

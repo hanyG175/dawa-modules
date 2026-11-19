@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_C_032
+DCI: Artesunate
+DrugBank ID: DB09274
+DrugBank Name: Artesunate
+Brand Names: FALCI CARE
+Pharmaceutical Forms: Poudre
+Dosages: 60 mg
+Packaging: b/01fl pdr de 5ml + 01 ampoule de 01ml de bicarbonate de sdium bp 5% (im) + 01 ampoule de 5ml de chloride de sodium bp 0.9% (iv)
+Registration Numbers: 538/19 C 032/18
+Drug Codes: 19 C 032
+
+------------------------------------------------------------
+
+## Description
+
+Artesunate is indicated for the initial treatment of severe malaria. 8 The World Health Organization recommends artesunate as first line treatment for severe malaria. 6 Artesunate was developed out of a need for a more hydrophilic derivative of artemisinin . 5 Artesunate was granted FDA approval on 26 May 2020. 8
+
+## Pharmacodynamics
+
+Artesunate is an artemisinin derivative that is metabolized to DHA, which generates free radicals to inhibit normal function of Plasmodium parasites. 1 , 7 , 8 It has a short duration of action due to its short half life, and a moderate therapeutic index. 7 , 8 Patients should be counselled regarding the risk of post treatment hemolytic anemia and hypersenstivity. 8
+
+## Mechanism Of Action
+
+Malaria protein EXP-1 (Plasmodium falciparum) Inhibitor
+
+## Absorption
+
+The C max of artesunate is 3.3µg/mL while the C max of the active metabolite DHA is 3.1µg/mL. 8 The AUC of artesunate is 0.7µg*h/mL while the AUC of DHA is 3.5µg*h/mL. 8 After intravenous artesunate, DHA has a T max of 0.5-15 minutes in adult patients and 21-64 minutes in pediatric patients. 7 Intramuscular artesunate has a T max of 8-12 minutes. 7 Infants less than 6 months old will have a higher AUC due to an undeveloped UGT metabolic pathway. 8
+
+## Volume Of Distribution
+
+The volume of distribution of artesunate is 68.5L while the volume of distribution of DHA is 59.7L. 8
+
+## Metabolism
+
+Artesunate is rapidly metabolized to dihydroartemisinin (DHA) by plasma esterases. 8 DHA is glucuronidated by UGT1A9 and UGT2B7 to DHA-glucuronide. 2 , 8 DHA-glucuronide can undergo a minor metabolic pathway to for a furano acetate derivative of DHA-glucuronide. 2 CYP2A6 may minorly contribute to the metabolism of artesunate. 7 Hover over products below to view reaction partners Artesunate Dihydroartemisinin (DHA) Dihydroartemisinin Glucuronide Furano Acetate of Dihydroartemisinin Glucuronide
+
+## Route Of Elimination
+
+The main route of elimination in humans is unknown. 8 In rats, a dose of artesunate is 56.1% eliminated in the urine and 38.5% in the feces. 3
+
+## Half Life
+
+The elimination half life of artesunate is 0.3h with a range of 0.1-1.8h. 8 The elimination half life of DHA is 1.3h with a range of 0.9-2.9h. 8 Half life after intramuscular administration is 48 min in children and 41 min in adults. 7
+
+## Clearance
+
+The clearance of artesunate is 180L/h while the clearance of DHA is 32.3L/h. 8
+
+## Toxicity
+
+Data regarding overdoses of artesunate are rare. 8 Patients experiencing an overdose may present with pancytopenia, melena, seizures, multiorgan failure, and death. 8 Treat overdose with symptomatic and supportive measures. 8

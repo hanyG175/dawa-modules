@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_062
+DCI: TROPICAMIDE 0,5 % collyre sol (MYDRIATICUM) | Tropicamide
+Brand Names: MYDRIATICUM | MYDRICOL | TROPEX | TROPITICUM
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.005
+Packaging: flacon./10ml | flacon./5ml
+Laboratories: LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | 63017 CLERMONT-FERRAND CEDEX 2 | THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01F - MYDRIATIQUES ET CYCLOPLEGIQUES | S01FA - ANTICHOLINERGIQUES | S01FA06 - TROPICAMIDE | S01FA06
+Registration Numbers: 022/17 H 062/99/15 | 023/17 H 062/07/14 | 065/17 H 062/23 | 543/17 H 062/25
+Drug Codes: 17 H 062
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Mydriase à visée diagnostique. | Mydriase thérapeutique.
+
+## Posology
+
+Posologie | Unité de prise | gte | tropicamide : 150 µg | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient quel que soit l'âge | Patient quel que soit le poids | Examen du fond de l'oeil | Posologie standard | Instiller 15 minutes environ avant l'examen | 1 à 2 gouttes 1 fois ce jour | Cycloplégie en vue d'un examen de la réfraction | Posologie standard | Débuter les instillations 45 minutes environ avant l'examen | 1 gte 4 à 6 fois ce jour toutes les 5 minutes | Dose maximale par prise: 1 gte | Dilatation préopératoire pour cataracte - Préparation à la photocoagulation rétinienne | Posologie standard | Instiller dans les 15 minutes précédant l'intervention chirurgicale | 1 à 2 gouttes 1 fois ce jour
+
+## Precautions
+
+Angle iridocornéen étroit | Enfant de moins de 15 ans | Fonctions du système nerveux central, trouble (des) | Glaucome à angle ouvert | Glaucome chronique | Grossesse | Hypertrophie bénigne de la prostate | Iris foncé | Sujet âgé | Traitement concomitant par un collyre
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Tropicamide : Mécanisme d'action | Le tropicamide, parasympathicolytique de synthèse, s'apparente à l' | atropine | par sa structure et par son action. | La mydriase apparaît 10 minutes après l'instillation d'une goutte de collyre, atteint son maximum après 15 minutes, et se maintient pendant environ 1 heure et demie. Elle diminue ensuite graduellement. La pupille reprend son diamètre initial après 5 à 8 heures. | La paralysie passagère de l'accommodation s'établit dans les 20 à 40 minutes qui suivent 4 à 6 instillations d'une goutte de tropicamide 0,5 % à 5 minutes d'intervalle. | Le moment le plus favorable pour déterminer la réfraction se situe donc vers la 30 | e | minute après la dernière instillation, l'accommodation redevenant normale dans les 4 à 5 heures.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Erythème facial | - Erythème cutané | DIVERS: | - Effets systémiques | - Fièvre | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | OPHTALMOLOGIE: | - Mydriase | - Irritation oculaire | - Douleur oculaire | - Réaction allergique oculaire | - Trouble de l'accommodation | - Glaucome aigu (crise de) | ORL, STOMATOLOGIE: | - Sécheresse buccale | PSYCHIATRIE: | - Confusion mentale | - Hallucination | - Agitation | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive | - Tachycardie | SYSTÈME DIGESTIF: | - Constipation | - Entérocolite nécrosante | - Iléus | - Occlusion intestinale | - Distension abdominale | SYSTÈME NERVEUX: | - Somnolence | - Convulsions | TOXICOLOGIE: | - Effet atropinique (Fréquent)

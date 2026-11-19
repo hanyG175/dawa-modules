@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_A_002
+DCI: Metronidazole
+DrugBank ID: DB00916
+DrugBank Name: Metronidazole
+Brand Names: METRONIDAZOLE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 500MG
+Packaging: B/20
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 160 DA
+PPA (DA): 160.00 DA
+Prescription List: Liste I
+ATC Classification: 13F199
+Registration Numbers: 035/11 A 002/16 | 263/11 A 002/96/13 | 366/11 A 002/07/13 | 400/11 A 002/18
+Drug Codes: 11 A 002
+
+------------------------------------------------------------
+
+## Description
+
+Metronidazole is a commonly used antibiotic, belonging to the nitroimidazole class of antibiotics. 14 It is frequently used to treat gastrointestinal infections as well as trichomoniasis and giardiasis, and amebiasis which are parasitic infections. 4 , 5 Metronidazole has been used as an antibiotic for several decades 15 , with added antiparasitic properties that set it apart from many other antibacterial drugs, allowing it to treat a wide variety of infections. It is available in capsule form, tablet form, and topical form, and suppository preparations for the treatment of various infections.
+
+## Pharmacodynamics
+
+Metronidazole treats amebiasis, trichomoniasis, and giardiasis, exerting both antibacterial and antiprotozoal activities. 16 Metronidazole is an effective treatment for some anaerobic bacterial infections. 11 Metronidazole has shown antibacterial activity against the majority of obligate anaerobes, however, during in vitro studies, it does not demonstrate significant action against facultative anaerobes or obligate aerobes. 14 The nitro group reduction of metronidazole by anaerobic organisms is likely responsible for the drug's antimicrobial cytotoxic effects, causing DNA strand damage to microbes. 5 , 7 A note on convulsions and neuropathy and carcinogenesis It is important to be aware of the risk of peripheral neuropathy and convulsions associated with metronidazole, especially at higher doses. If convulsions or numbness of an extremity occur, discontinue the drug immediately. 14 Metronidazole has been found to be carcinogenic in mice and rats. The relevance to this effect in humans is unknown. It is advisable to only administer metronidazole when clinically necessary and only for its approved indications. 17
+
+## Mechanism Of Action
+
+Oxygen-insensitive NADPH nitroreductase (Helicobacter pylori (strain ATCC 700392 / 26695)) Potentiator
+
+## Absorption
+
+After the intravenous infusion of a 1.5g dose, peak concentration was reached within 1 hour and was peak level of 30-40 mg/L. 16 When a multiple-dose regimen of 500mg three times a day administered intravenously, steady-state concentrations were achieved within about 3 days and peak concentration was measured at 26 mg/L. 16 When administered orally in the tablet form, metronidazole is absorbed entirely absorbed, showing a bioavailability of greater than 90%. 7 One resource indicates that Cmax after a single oral dose of 500mg metronidazole ranges from 8 to 13 mg/L, with a Tmax of 25 minutes to 4 hours. The AUC following a single 500mg oral dose of metronidazole was 122 ± 10.3 mg/L • h. 7 A note on the absorption of topical preparations Insignificant percutaneous absorption of metronidazole occurs after the application of 1% metronidazole cream topically. Healthy volunteers applied one 100 mg dose of 14C-labelled metronidazole 2% cream to unbroken skin. After 12 hours, metronidazole was not detected in the plasma. Approximately 0.1% to 1% of the administered metronidazole was measured in the urine and feces. 16
+
+## Volume Of Distribution
+
+Metronidazole is widely distributed throughout the body 5 and various body fluids. They include the bile, saliva, breastmilk, cerebrospinal fluid, and the placenta. 16 Steady-state volume distribution of metronidazole in adults ranges from 0.51 to 1.1 L/kg. It attains 60 to 100% of plasma concentrations in various tissues, such as the central nervous system, however, is not measured in high concentrations in the placental tissue. 7
+
+## Metabolism
+
+Metronidazole undergoes hepatic metabolism via hydroxylation, oxidation, and glucuronidation. The metabolism of metronidazole yields 5 metabolites. The hydroxy metabolite, 1-(2-hydroxy-ethyl)-2-hydroxy methyl-5-nitroimidazole, is considered the major active metabolite. 7 , 13 Unchanged metronidazole is found in the plasma along with small amounts of its 2- hydroxymethyl metabolite. Several metabolites of metronidazole are found in the urine. They are primarily a product of side-chain oxidation in addition to glucuronide conjugation. Only 20% of the dose found in the urine is accounted for by unchanged metronidazole. 16 The two main oxidative metabolites of metronidazole are hydroxy and acetic acid metabolites. 6 , 9 Hover over products below to view reaction partners Metronidazole 2-hydroxymetronidazole
+
+## Route Of Elimination
+
+Metronidazole and metabolites are 60 to 80% eliminated in the urine, and 6-15% excreted in the feces. 7 , 14
+
+## Half Life
+
+The elimination half-life of metronidazole is 7.3 ± 1.0 after a single 500mg IV dose in healthy subjects. 16 Another resource indicates that the elimination half-life for metronidazole ranges from 6 to 10 hours. 7
+
+## Clearance
+
+Dose adjustments may be required in patients with hepatic impairment, as clearance is impaired in these patients. 16 The clearance of metronidazole in the kidneys is estimated at 10 mL/min/1.73 m2. 14 The total clearance from serum is about 2.1 to 6.4 L/h/kg. 7
+
+## Toxicity
+
+LD50 information The oral LD50 of metronidazole in rats is 5000 mg/kg 16 Overdose information Adverse effects that may be exaggerated with an overdose include peripheral neuropathy, central nervous system toxicity, seizures, disulfiram-like effect (if combined with alcohol) dark urine, a metallic taste in the mouth, nausea, epigastric discomfort, and vertigo, in addition to neutropenia. 10 , 16 There is no specific antidote for metronidazole overdose. Symptomatic and supportive treatment should be employed in addition to the administration of activated charcoal to remove the unabsorbed drug from the gastrointestinal tract. In addition to the above measures, contact the local poison control center for updated information on the management of a metronidazole overdose. 16

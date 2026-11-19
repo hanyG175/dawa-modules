@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_137
+DCI: RIZATRIPTAN (benzoate) 10 mg cp (RIZATRIPTAN ARROW)
+DrugBank ID: DB00953
+DrugBank Name: Rizatriptan
+Brand Names: MITRIPTAN | ZORTAN
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: b/10 | boite d'un pilulier de 06 comprimes pilulier en hdpe avec bouchon en pp
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02C - ANTIMIGRAINEUX | N02CC - AGONISTES SELECTIFS DES RECEPTEURS 5HT1 | N02CC04 - RIZATRIPTAN
+Registration Numbers: 263/15 B 137/22 | 352/15 B 137/25
+Drug Codes: 15 B 137
+
+------------------------------------------------------------
+
+## Description
+
+Rizatriptan is a second-generation triptan 3 and a selective 5-HT 1B and 5-HT1D receptor agonist. 9 Used in the treatment of migraines, rizatriptan was first approved in the US in 1998. 9 Rizatriptan is available in oral tablets, orally disintegrating tablets (wafers), and oral film formulations.
+
+## Pharmacodynamics
+
+Rizatriptan relieves migraine-associated symptoms. 1 , 5 , 9 Rizatriptan is reported to reach the maximum plasma concentrations more quickly and produces a more rapid onset of pain relief than other triptans, such as sumatriptan ; 2 , 3 , 5 however, it has a relatively shorter elimination half-life than other triptans. 5 Rizatriptan causes transient increases in blood pressure to some extent. 1 In vitro , rizatriptan was shown to contract isolated human coronary arteries; however, since the EC 50 for this effect is high, rizatriptan is not expected to cause myocardial ischemia at therapeutic plasma concentrations in patients with normal coronary circulation. 3 Rizatriptan has a weak affinity for other 5-HT1 receptor subtypes (5-HT 1A , 5-HT 1E , 5-HT 1F ) and the 5-HT 7 receptor but has no significant activity at 5-HT 2 , 5-HT 3 , alpha- and beta-adrenergic, dopaminergic, histaminergic, muscarinic or benzodiazepine receptors. 12
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 1B Agonist 5-hydroxytryptamine receptor 1D Agonist 5-hydroxytryptamine receptor 1F Agonist + 1 more target
+
+## Absorption
+
+Rizatriptan is readily absorbed (approximately 90%) following oral administration; 1 however, the mean oral absolute bioavailability of the rizatriptan tablet is about 45%, owing to extensive first-pass metabolism. The T max is approximately one to 1.5 hours. The presence of a migraine headache did not appear to affect the absorption or pharmacokinetics of rizatriptan. Food has no significant effect on the bioavailability of rizatriptan but delays the time to reach peak concentration by an hour. In clinical trials, rizatriptan was administered without regard to food. 9 The bioavailability and C max of rizatriptan were similar following the administration of rizatriptan tablets and rizatriptan orally disintegrating tablets. Still, the absorption rate is somewhat slower with orally disintegrating tablets, with T max delayed by up to 0.7 hours. The AUC of rizatriptan is approximately 30% higher in females than males. No accumulation occurred on multiple dosing. 9
+
+## Volume Of Distribution
+
+The mean volume of distribution is approximately 140 L in male subjects and 110 L in female subjects. 9
+
+## Metabolism
+
+Rizatriptan primarily undergoes oxidative deamination mediated by monoamine oxidase-A (MAO-A) to form triazolomethyl-indole-3-acetic acid, which is not pharmacologically active. N-monodesmethyl-rizatriptan is a minor metabolite with a pharmacological activity comparable to the parent compound's. Plasma concentrations of N-monodesmethyl-rizatriptan are approximately 14% of those of the parent compound, which is eliminated at a similar rate. Other pharmacologically inactive minor metabolites include the N-oxide, the 6-hydroxy compound, and the sulfate conjugate of the 6-hydroxy metabolite. 1 , 6 , 9 Hover over products below to view reaction partners Rizatriptan N-Monodesmethyl Rizatriptan Triazolomethyl-indole-3-acetic acid Rizatriptan N10-oxide 6-Hydroxy rizatriptan 6-Hydroxy rizatriptan sulfate
+
+## Route Of Elimination
+
+Following oral administration of a single 10 mg of 14 C-rizatriptan, the total radioactivity of the administered dose recovered over 120 hours in urine and feces was 82% and 12%, respectively. Following oral administration of 14C-rizatriptan, rizatriptan accounted for about 17% of circulating plasma radioactivity. Approximately 14% of an oral dose is excreted in urine as unchanged rizatriptan, while 51% is excreted as indole acetic acid metabolite, indicating substantial first-pass metabolism. 9
+
+## Half Life
+
+The plasma half-life of rizatriptan in males and females ranges from two to three hours. 9
+
+## Clearance
+
+An early study involving healthy subject reported plasma clearance of 1042 mL/min in males and 821 mL/min in females; however, this difference in clearance rates is not thought to be clinically relevant. 3 , 4
+
+## Toxicity
+
+The acute oral toxicity (LD 50 ) was 2,227 mg/kg in rats and 700-1,631 mg/kg in mice. 11 No overdoses of rizatriptan were reported in clinical trials. Some adult patients who received 40 mg of rizatriptan either a single dose or as two doses with a two-hour interdose interval had dizziness and somnolence. Syncope, dizziness, bradycardia including third degree AV block, vomiting, and/or incontinence were experienced by two adults who received a total cumulative doses of 80 mg (given within four hours) in a clinical pharmacology study. Some adolescent patients (aged 12 to 17 years old) receiving two 10-mg doses of orally disintegrating tablets of rizatriptan experienced abdominal discomfort, fatigue, and dyspnea. 9 Based on the pharmacological properties of rizatriptan, hypertension and myocardial ischemia are possible after overdosage. Gastrointestinal decontamination, (i.e., gastric lavage followed by activated charcoal) should be considered in patients suspected of an overdose with rizatriptan. Clinical and electrocardiographic monitoring should be continued for at least 12 hours, even if clinical symptoms are not observed. The effects of hemo- or peritoneal dialysis on serum concentrations of rizatriptan are unknown. 9

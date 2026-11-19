@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_006
+DCI: Serenoa Repens | serenoa repens fruit extrait
+Brand Names: NOVOXON | PERMIXON | PROSTAMIXON | SEREXON
+Pharmaceutical Forms: Gélule
+Dosages: 160mg
+Packaging: b/60
+Laboratories: PIERRE FABRE MÉDICAMENT
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G04 - MEDICAMENTS UROLOGIQUES | G04C - MEDICAMENTS UTILISES DANS L'HYPERTROPHIE BENIGNE DE LA PROSTATE | G04CX - AUTRES MEDICAMENTS UTILISES DANS L'HYPERTROPHIE BENIGNE DE LA PROSTATE | G04CX02 - SABALIS SERRULATAE FRUCTUS
+Registration Numbers: 065/25 B 006/23 | 099/25 B 006/98 | 231/25 B 006/19/24 | 268/25 B 006/24
+Drug Codes: 25 B 006
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Wed Oct 01 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: Traitement des troubles mictionnels modérés liés à l'hypertrophie bénigne de la prostate chez l'homme adulte.
+
+## Posology
+
+Posologie | Unité de prise | gélule | serenoa repens fruit extrait : 160 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer pendant le repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin | Hypertrophie bénigne de la prostate, traitement phytothérapique (de l') | Posologie standard | 1 gélule 2 fois par jour | Durées absolues de traitement | Ne pas dépasser 6 mois de traitement.
+
+## Precautions
+
+Enfant de moins de 15 ans
+
+## Mechanism Of Action
+
+Serenoa repens : Mécanisme d'action | Des travaux expérimentaux réalisés chez l'animal ou | in vitro | sur des cellules prostatiques ont montré que l'extrait lipidostérolique de | Serenoa repens | présente des propriétés d'inhibition non compétitive de la 5 alpha-réductase (types 1 et 2), enzyme transformant la | testostérone | en son métabolite actif, la dihydrotestostérone. Il inhibe la formation de prostaglandines et de leucotriènes (mis en évidence sur des polynucléaires) et freine la prolifération de cellules provenant d'hyperplasie bénigne de la prostate, et stimulées par des facteurs de croissance.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Gamma GT (augmentation) (Peu fréquent) | - Transaminases (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | DIVERS: | - Oedème | ENDOCRINOLOGIE: | - Gynécomastie (Peu fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Peu fréquent) | - Trouble digestif | SYSTÈME NERVEUX: | - Céphalée (Fréquent)

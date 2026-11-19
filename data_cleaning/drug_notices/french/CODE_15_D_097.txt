@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_097
+DCI: ROPINIROLE (chlorhydrate) 0,25 mg cp (ROPINIROLE ARROW GENERIQUES) | Ropinirole
+Brand Names: KEPNIROL | STRICARE
+Pharmaceutical Forms: Comprimé
+Dosages: 0.25mg
+Packaging: b/20
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: N - SYSTEME NERVEUX | N04 - ANTIPARKINSONIENS | N04B - DOPAMINERGIQUES | N04BC - AGONISTES DOPAMINERGIQUES | N04BC04 - ROPINIROLE | N04BC04
+Registration Numbers: 293/15 D 097/21 | 352/15 D 097/11
+Drug Codes: 15 D 097
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | ropinirole (chlorhydrate) : 2 mg | Modalités d'administration | Voie orale | Administrer chaque jour à la même heure | Administrer entier | Administrer indépendamment de la prise des repas | Posologie à réinitialiser en cas d'interruption du traitement >= 1 jour | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie de Parkinson - Parkinson, maladie (de), traitement associé à la dopathérapie (de la) | Traitement initial | Posologie à instaurer progressivement | 2 mg en 1 prise par jour | Pendant 1 semaine | Traitement ultérieur | Posologie à augmenter par palier de 2 mg par semaine jusqu'à la dose efficace | Rechercher la posologie minimale efficace | Traitement à arrêter progressivement | Utiliser le dosage le plus adapté à la posologie | 4 à 8 mg en 1 prise par jour | Traitement ultérieur éventuel | Posologie à augmenter par palier de 2 à 4 mg toutes les 2 semaines | Rechercher la posologie minimale efficace | Traitement à arrêter progressivement | Utiliser le dosage le plus adapté à la posologie | 8 à 24 mg en 1 prise par jour | Posologie maximale: 24 mg par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Antécédent de maladie psychiatrique sévère | Antécédent de psychose | Comportement compulsif, antécédent (de) | Hypermotilité intestinale | Insuffisance coronarienne | Maladie cardiovasculaire sévère | Maladie de Parkinson | Maladie psychiatrique sévère | Patient en hémodialyse | Patient traité à posologie élevée | Patient traité en relais d'une forme à libération immédiate | Psychose | Sujet âgé | Sujet de moins de 18 ans | Tabagisme | Trouble du contrôle des impulsions
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | II | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Ropinirole : Mécanisme d'action | Le ropinirole est un agoniste dopaminergique non ergoté des récepteurs D2/D3 qui stimule les récepteurs dopaminergiques du striatum.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) | DERMATOLOGIE: | - Eruption cutanée | - Prurit | - Hypersudation | - Urticaire | DIVERS: | - Oedème périphérique (Fréquent) | - Affection aggravée (Fréquent) | - Hypersexualité | - Oedème des membres inférieurs | - Douleur | - Fatigue | HÉPATOLOGIE: | - Trouble hépatique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Angioedème | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | - Vertige | PSYCHIATRIE: | - Nervosité (Fréquent) | - Confusion mentale (Fréquent) | - Hallucination (Fréquent) | - Phénomène de rebond (Fréquent) | - Jeu pathologique | - Agressivité | - Compulsions | - Dépression | - Compulsion alimentaire | - Syndrome de dysrégulation dopaminergique | - Illusion | - Idée délirante | - Hyperphagie boulimique | - Dépendance du jeu | - Trouble du contrôle des impulsions | - Episode psychotique | - Manie | - Achat compulsif | - Paranoïa | - Accès maniaque | - Délire | - Libido (augmentation) | - Anxiété | SYSTÈME CARDIOVASCULAIRE: | - Syncope (Très fréquent) | - Hypotension orthostatique | - Hypotension artérielle | - Hypotension sévère | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Hoquet (Peu fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Pyrosis (Fréquent) | - Nausée (Très fréquent) | - Brûlure épigastrique (Fréquent) | SYSTÈME NERVEUX: | - Dyskinésie (Très fréquent) | - Somnolence excessive diurne (Peu fréquent) | - Somnolence (Très fréquent) | - Endormissement soudain (Peu fréquent) | - Syndrome des jambes sans repos (aggravation) | - Narcolepsie | TOXICOLOGIE: | - Syndrome de sevrage | UROLOGIE, NÉPHROLOGIE: | - Erection spontanée

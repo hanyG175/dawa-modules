@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_054
+DCI: Octocog Alfa
+DrugBank ID: DB00025
+DrugBank Name: Antihemophilic factor, human recombinant
+Brand Names: KOVALTRY
+Pharmaceutical Forms: Poudre
+Dosages: 250ui
+Packaging: 1 flc/10 ml et 1 sering 2.5ml
+Registration Numbers: 424/12 J 054/21
+Drug Codes: 12 J 054
+
+------------------------------------------------------------
+
+## Description
+
+Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells
+
+## Pharmacodynamics
+
+Antihemophilic Factor binds factor IXa along with calcium and phospholipid, This complex converts factor X to factor Xa to facilitate clotting cascade.
+
+## Mechanism Of Action
+
+Coagulation factor X Activator Coagulation factor IX Cofactor von Willebrand factor Binder + 5 more targets
+
+## Clearance
+
+4.1 mL/h•kg [Previously treated pediatric patients]

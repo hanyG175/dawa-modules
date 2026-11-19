@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_188
+DCI: CHLORAMBUCIL 2 mg gél (CHLORAMINOPHENE)
+Brand Names: LEUKERAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2 mg
+Packaging: b/25
+Laboratories: Laboratoires TECHNI-PHARMA
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01A - AGENTS ALKYLANTS | L01AA - MOUTARDES A L'AZOTE | L01AA02 - CHLORAMBUCIL | G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES
+Registration Numbers: 467/05 G 188/17/25
+Drug Codes: 05 G 188
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | CHLORAMINOPHENE 2 mg, gélule est indiqué chez les adultes dans : | Leucémie lymphoïde chronique. | Lymphomes hodgkiniens et non hodgkiniens. | Néphropathies membraneuses avec syndrome néphrotique idiopathique (protéinurie ≥ 3,5 g par jour ou ratio protéine/créatinine > 2) en association avec les corticostéroïdes.
+
+## Posology
+
+Posologie | Unité de prise | gélule | chlorambucil : 2 mg | Modalités d'administration | Voie orale | Administrer à jeun | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Maladie de Hodgkin | Posologie standard | 0,2 mg/kg 1 fois par jour | Pendant 4 à 8 semaines | Lymphome malin non hodgkinien | Traitement d'attaque | 0,1 à 0,2 mg/kg 1 fois par jour | Pendant 4 à 8 semaines | Leucémie lymphoïde chronique | Traitement initial | 0,15 mg/kg 1 fois par jour | Traitement d'entretien | Respecter un intervalle de 4 semaines avec la phase précédente | 0,1 mg/kg 1 fois par jour | Néphropathie membraneuse avec syndrome néphrotique idiopathique, traitement associé (de la) | Posologie standard | Traitement à renouveler 2 fois en respectant un intervalle d'1 mois | 0,2 mg/kg 1 fois par jour | Pendant 1 mois | Macroglobulinémie de Waldenström | Posologie standard | Dans le cas de : Schéma posologique 1 | 0,1 mg/kg 1 fois par jour | Dans le cas de : Schéma posologique 2 | Respecter un intervalle de 6 semaines entre 2 cures | 0,3 mg/kg 1 fois par jour | Pendant 7 jours | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Antécédent de convulsions | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Homme en âge de procréer | Infiltration cellulaire tumorale de la moelle osseuse | Insuffisance hépatique | Insuffisance médullaire | Insuffisance rénale | Patient traité à posologie élevée | Patient traité en relais d'une corticothérapie par voie générale | Radiothérapie, antécédent récent (de) | Sujet âgé | Traitement cytotoxique, antécédent (de) | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Chlorambucil : Mécanisme d'action | Le chlorambucil est un antinéoplasique cytostatique alkylant du groupe des moutardes à l'azote. Immunodépresseur, il déprime sélectivement la lignée lymphoïde. Il pénètre dans la cellule par simple diffusion.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Très fréquent) | - Hyperuricémie | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Syndrome de Stevens-Johnson (Rare) | - Urticaire (Rare) | - Syndrome de Lyell (Rare) | DIVERS: | - Fièvre (Rare) | ENDOCRINOLOGIE: | - Stérilité (Fréquent) | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Aménorrhée (Fréquent) | HÉMATOLOGIE: | - Pancytopénie (Très fréquent) | - Hémopathie maligne (Fréquent) | - Anémie (Fréquent) | - Leucopénie (Très fréquent) | - Insuffisance de la moelle osseuse (Fréquent) | - Dépression de la moelle osseuse (Très fréquent) | - Thrombopénie (Très fréquent) | - Lymphopénie | - Aplasie médullaire | - Syndrome myélodysplasique | - Atteinte hématologique | - Leucémie | HÉPATOLOGIE: | - Hépatotoxicité (Rare) | - Ictère (Rare) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Hypersensibilité (Rare) | INFECTIOLOGIE D'ORIGINE VIRALE: | - Infection à herpès-virus | - Infection à cytomégalovirus | ORL, STOMATOLOGIE: | - Ulcération buccale | PSYCHIATRIE: | - Confusion mentale | - Agitation | SYSTÈME DIGESTIF: | - Trouble digestif (Fréquent) | - Vomissement | - Nausée | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Fasciculation musculaire (Très rare) | SYSTÈME NERVEUX: | - Convulsions (Fréquent) | - Epilepsie (Rare) | - Myoclonie (Très rare) | - Neurotoxicité (Rare) | - Neuropathie périphérique (Très rare) | - Trouble neuromoteur (Très rare) | - Coma | - Epilepsie (crise) | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle (Très rare) | - Fibrose pulmonaire interstitielle (Très rare) | - Fibrose pulmonaire | - Pneumonie | UROLOGIE, NÉPHROLOGIE: | - Azoospermie (Fréquent)

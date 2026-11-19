@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_104
+DCI: PINAVERIUM BROMURE 100 mg cp (PINAVERIUM SANDOZ)
+Brand Names: DICETEL | PINATEL | PINAVERIUM GL | PINAVERIUM NOVAGENERICS
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/20 | b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX - AUTRES MEDICAMENTS CONTRE LES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX04 - PINAVERIUM
+Registration Numbers: 065/10 E 104/14 | 147/10 E 104/99/15 | 149/10 E 104/13/18 | 447/10 E 104/13/24
+Drug Codes: 10 E 104
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | pinavérium bromure : 100 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer matin et soir | Administrer pendant le repas | Ne pas administrer au coucher | Ne pas administrer en position allongée | Ne pas s'allonger au cours des 30 minutes suivant l'administration | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Douleur spasmodique des voies digestives | Posologie standard | 1 comprimé 2 fois par jour | Posologies maximales | Posologie maximale: 3 comprimés par jour
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 ans | Grossesse | Hernie hiatale | Maladie de l'oesophage
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit | - Erythème cutané | - Urticaire | - Eruption cutanée | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Dysphagie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Diarrhée | - Ulcère oesophagien | - Ulcère gastro-intestinal haut | - Oesophagite | - Douleur abdominale | - Trouble digestif

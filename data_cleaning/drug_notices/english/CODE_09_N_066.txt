@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_N_066
+DCI: LANREOTIDE (acétate) 30 mg pdre/solv p susp inj LP (SOMATULINE LP)
+DrugBank ID: DB13981
+DrugBank Name: Nomegestrol acetate
+Brand Names: LUTEROL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: boite de 10
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H01 - HORMONES HYPOPHYSAIRES, HYPOTHALAMIQUES ET ANALOGUES | H01C - HORMONES HYPOTHALAMIQUES | H01CB - SOMATOSTATINE ET ANALOGUES | H01CB03 - LANREOTIDE
+Registration Numbers: 285/09 N 066/18/23
+Drug Codes: 09 N 066
+
+------------------------------------------------------------
+
+## Description
+
+Nomegestrol acetate, also known as NOMAC, is a progestin used in oral contraceptives, menopausal hormone therapy, and for the treatment of gynecological disorders.
+
+## Mechanism Of Action
+
+Target Actions Organism U Estrogen receptor modulator Humans

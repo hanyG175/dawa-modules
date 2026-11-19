@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_080
+DCI: Prazepam
+Brand Names: PRAZEPAM GS
+Pharmaceutical Forms: Sol. Buv. Gttes.
+Dosages: 15MG/ML
+Packaging: FL/20ML
+Laboratories: GROUPE SANTE
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16B080
+Registration Numbers: 235/16 B 080/23 | 242/16 B 080/16
+Drug Codes: 16 B 080
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+ANXIOLYTIQUES

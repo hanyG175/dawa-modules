@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_340
+DCI: rétinol synthétique concentré huileux
+Brand Names: FRUBIAL FAIBLE
+Pharmaceutical Forms: Solution
+Dosages: 1500ui/125.5mg/20.45mg/5ml
+Packaging: b/20amp. de 5ml
+Laboratories: PHARMA DEVELOPPEMENT SA
+Registration Numbers: 003/14 H 340/97/16
+Drug Codes: 14 H 340
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Prévention ou correction de troubles en rapport avec un régime alimentaire carencé ou déséquilibré.

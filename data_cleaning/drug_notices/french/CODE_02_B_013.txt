@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_013
+DCI: THIOPENTAL SODIQUE 0,94 g pdre p sol inj (THIOPENTAL PANPHARMA)
+Brand Names: THIOPENTAL VUAB INJ.PLV.SOL.1.0 G
+Pharmaceutical Forms: Poudre
+Dosages: 1g
+Packaging: b/01fl
+ATC Classification: N - SYSTEME NERVEUX | N01 - ANESTHESIQUES | N01A - ANESTHESIQUES GENERAUX | N01AF - BARBITURIQUES NON ASSOCIES | N01AF03 - THIOPENTAL
+Registration Numbers: 542/02 B 013/18
+Drug Codes: 02 B 013
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | flacon | thiopental sodique : 940 mg | Modalités d'administration | Voie intraveineuse | A reconstituer immédiatement avant administration | Administrer le produit lentement | Administrer par voie intraveineuse stricte | Débuter le traitement par une dose test | Posologie à adapter à l'état du patient | Rechercher la posologie minimale efficace | Respecter les conditions de dilution du médicament | Traitement à administrer en service spécialisé | Posologie | Patient jusqu'à 28 jours | Patient quel que soit le poids | Anesthésie générale de courte durée - Induction de l'anesthésie générale | Posologie standard | 3 à 4 mg/kg 1 fois ce jour | Patient de 28 jours à 24 mois | Patient quel que soit le poids | Anesthésie générale de courte durée - Induction de l'anesthésie générale | Posologie standard | 5 à 8 mg/kg 1 fois ce jour | Patient de 24 mois à 18 an(s) | Patient quel que soit le poids | Induction de l'anesthésie générale | Posologie standard | 5 mg/kg 1 fois ce jour | Anesthésie générale de courte durée | Posologie standard | 5 mg/kg 1 fois ce jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Induction de l'anesthésie générale | Posologie standard | 5 mg/kg 1 fois ce jour | Anesthésie générale de courte durée | Posologie standard | 100 à 200 mg 1 à 2 fois ce jour | Dose maximale par prise: 200 mg | Posologie maximale: 400 mg ce jour | Sédation en anesthésie, traitement associé (de la) | Posologie standard | 210 à 280 mg 1 fois ce jour | Convulsion, traitement adjuvant (de) | Posologie standard | Administrer le plus tôt possible | 75 à 250 mg 1 fois ce jour | Hypertension intracrânienne | Posologie standard | 1,5 à 3 mg/kg 1 à 2 fois ce jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Alcoolisme chronique | Allaitement | Anémie sévère | Antécédent d'alcoolisme | Antécédent d'asthme | Antécédent de toxicomanie | Bronchopneumopathie chronique obstructive, antécédent(de) | Cachexie | Déshydratation | Diabète | Dystrophie musculaire de Duchenne | Enfant de moins de 15 ans | Grand brûlé | Grossesse | Hémorragie sévère | Hyperkaliémie | Hypertension artérielle | Hypertension intracrânienne | Hyperuricémie | Hypotension artérielle | Hypovolémie | Infarctus du myocarde | Insuffisance corticotrope | Insuffisance hépatique | Insuffisance rénale | Insuffisance respiratoire | Maladie cardiovasculaire | Myasthénie sévère | Nourrisson de moins de 30 mois | Nouveau-né exposé in utero au médicament | Pathologie respiratoire | Péricardite constrictive | Sujet âgé | Sujet sous régime hyposodé ou désodé | Toxicomanie | Traitement répété | Trouble métabolique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Thiopental sodique : Mécanisme d'action | Le thiopental est un barbiturique soufré d'action brève qui, par voie intraveineuse, permet l'induction anesthésique, ou une anesthésie générale de courte durée. | L'action initiale prédominante est une dépression de la substance réticulée mésencéphalique. | Le thiopental ne possède ni propriétés analgésiques, ni myorelaxantes, mais il possède des propriétés anti-convulsivantes.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperkaliémie | - Hypokaliémie | DERMATOLOGIE: | - Erythème cutané (Fréquent) | - Oedème cutané (Fréquent) | - Urticaire | DIVERS: | - Fièvre | - Fatigue | - Hypothermie | - Frisson | HÉMATOLOGIE: | - Anémie hémolytique | HÉPATOLOGIE: | - Hépatite (Exceptionnel) | - Hépatopathie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Réaction anaphylactoïde | - Choc anaphylactique | - Réaction anaphylactique | INSTRUMENTATION: | - Infection au site d'injection | - Extravasation au point d'injection | NUTRITION, MÉTABOLISME: | - Appétit diminué | ORL, STOMATOLOGIE: | - Laryngospasme (Fréquent) | - Eternuement | - Vertige | PSYCHIATRIE: | - Episode psychotique (Fréquent) | - Euphorie (Fréquent) | - Cauchemar (Fréquent) | - Rêves anormaux (Fréquent) | - Confusion mentale | - Délire | SYSTÈME CARDIOVASCULAIRE: | - Tachycardie | - Dépression myocardique | - Arythmie | - Malaise | - Collapsus cardiovasculaire | - Thrombose | - Phlébite | - Hypotension artérielle | - Douleur veineuse | - Bradycardie | - Vasodilatation | SYSTÈME DIGESTIF: | - Hoquet (Fréquent) | - Vomissement | - Nausée | SYSTÈME NERVEUX: | - Mouvement anormal | - Céphalée | - Somnolence | - Amnésie | - Insuffisance circulatoire cérébrale | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Fréquent) | - Hypoventilation (Fréquent) | - Apnée (Fréquent) | - Toux | - Dépression respiratoire | UROLOGIE, NÉPHROLOGIE: | - Néphropathie

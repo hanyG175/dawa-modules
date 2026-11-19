@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_214
+DCI: Fenofibrate
+Brand Names: FENOFIBRATE MM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 160MG
+Packaging: B/30
+Laboratories: MM LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 903.9 DA
+Prescription List: Liste II
+ATC Classification: 06M214
+Registration Numbers: 019/06 M 214/07/23 | 320/06 M 214/16 | 352/06 M 214/16/22 | 462/06 M 214/21 | 470/06 M 214/13/23
+Drug Codes: 06 M 214
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+HYPOLIPIDEMIANTS

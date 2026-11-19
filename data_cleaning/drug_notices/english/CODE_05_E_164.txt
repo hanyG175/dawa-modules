@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_E_164
+DCI: FULVESTRANT 250 mg/5 ml sol inj ser préremplie (FULVESTRANT EG) | Fluvestrant
+DrugBank ID: DB00947
+DrugBank Name: Fulvestrant
+Brand Names: ERANFU | FASLODEX | FULVESTRANT EVER PHARMA
+Pharmaceutical Forms: Solution
+Dosages: 250mg/5ml | 250mg/sering. de 5ml
+Packaging: b/2 seringue pre-remplies de 5ml
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L02 - THERAPEUTIQUE ENDOCRINE | L02B - ANTIHORMONES ET APPARENTES | L02BA - ANTIESTROGENES | L02BA03 - FULVESTRANT
+Registration Numbers: 256/05 E 164/13 | 536/05 E 164/21 | 579/05 E 164/21
+Drug Codes: 05 E 164
+
+------------------------------------------------------------
+
+## Description
+
+Fulvestrant is a drug treatment of hormone receptor (HR)-positive metastatic breast cancer in post-menopausal women with disease progression following anti-estrogen therapy. It is an estrogen receptor antagonist with no agonist effects, which works both by down-regulating and by degrading the estrogen receptor. While it is used as monotherapy for the treatment of breast cancers, it is also used in combination with alpelisib for the treatment of HR-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer
+
+## Pharmacodynamics
+
+Fulvestrant for intramuscular administration is an estrogen receptor antagonist without known agonist effects.
+
+## Mechanism Of Action
+
+Estrogen receptor Antagonist
+
+## Volume Of Distribution
+
+3 to 5 L/kg
+
+## Metabolism
+
+Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide. Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models. Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.
+
+## Route Of Elimination
+
+Fulvestrant was rapidly cleared by the hepatobiliary route with excretion primarily via the feces (approximately 90%).
+Renal elimination was negligible (less than 1%).
+
+## Toxicity
+
+There is no clinical experience with overdosage in humans.

@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_533
+DCI: Isavuconazole
+DrugBank ID: DB11633
+DrugBank Name: Isavuconazole
+Brand Names: CRESEMBA
+Pharmaceutical Forms: Gélule
+Dosages: 100mg
+Packaging: b/14
+Registration Numbers: 001/13 R 533/25
+Drug Codes: 13 R 533
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Isavucoanzole exhibits antifungal activity against most strains of Aspergillus flavus, Aspergillus fumigatus, Aspergillus niger , and Mucorales such as Rhizopus oryzae and Mucormycetes species in vivo and in vitro Label . In a cardiac electrophysiology study involving healthy subjects, isavuconazole induced dose-related shortening of the QTc interval but the additive effect of isavuconazole with other QTc-prolonging drug is unknown Label .
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase Inhibitor
+
+## Absorption
+
+Following oral administration of 200 mg isavuconazole, the mean peak plasma concentration (Cmax) at steady state was 7499 ng/mL. Cmax following oral administration of 600 mg isavuconazole was 20028 ng/mL Label . It is proposed that the Cmax at steady state is reached approximately 2–3 hours after single and multiple dosing of isavuconazole Label . Administration of 400 mg of oral and intravenous isavuconazole resulted in mean AUC of 189462.8 h ng/mL and 193906.8 h ng/mL, respectively 4 . While isavuconazole can be administered with or without food, concurrent consumption of a high-fat meal reduced oral isavuconazole Cmax by 9% and increased AUC by 9% Label . The absolute bioavailability of isavuconazole following oral administration of a single dose of isavuconazole is 98% Label .
+
+## Volume Of Distribution
+
+The mean steady state volume of distribution (Vss) was approximately 450 L following intravenous administration Label .
+
+## Metabolism
+
+Following rapid conversion of the prodrug isavuconazonium to isavuconazole via esterase-mediated hydrolysis, a number of minor metabolites were identified in addition to the active moiety itself and the inactive cleavage product of isavuconazonium. However, no individual metabolite was observed with an AUC greater than 10% of total radio-labeled material Label .
+The main enzymes involved in the metabolism of isavuconazole are CYP3A4, CYP3A5, and subsequently uridine diphosphate- glucuronosyltransferases (UGT) according to the findings of in vivo and in vitro studies Label .
+
+## Route Of Elimination
+
+Following oral administration, 46.1% of total radiolabelled isavuconzaole was detected in the feces, and about 45.5% was recovered in urine Label . Unchanged isavuconazole in the urine was less than 1% of the total dose administered Label .
+
+## Half Life
+
+Based on a population pharmacokinetics analysis of healthy subjects and patients, the mean plasma half-life of isavuconazole was 130 hours Label . The mean half life following oral and intravenous administration of 400 mg isavuconazole was 110 and 115 hours, respectively 4 .
+
+## Clearance
+
+The clearance (CL) rate was 2.5 ± 1.6 L/h in patients receiving 200 mg isavuconazole orally or intravenously 2 .
+
+## Toxicity
+
+At three times the recommended maintenance dose of isavuconazole, treatment-emergent adverse reactions included headache, dizziness, paresthesia, somnolence, disturbance in attention, dysgeusia, dry mouth, diarrhea, oral hypoesthesia, vomiting, hot flush, anxiety, restlessness, palpitations, tachycardia, photophobia and arthralgia. As there is no specific antidote or effective method of hemodialysis for isavuconazole, supportive treatment with appropriate monitoring is recommended in case of overdose Label . No mutagenic or clastogenic effects were detected in the in vitro bacterial reverse mutation assay and the in vivo bone marrow micronucleus assay in rats Label . However, isavuconazole was weakly clastogenic at cytotoxic concentrations in the L5178Y tk+/- mouse lymphoma chromosome aberration assay without any significant evidence of increased frequency of micronuclei in an in vivo rat micronucleus test 4 . While carcinogenicity studies isavuconazole have not been performed, other drugs in the azole class at near human recommended doses were associated with the development of hepatocellular adenomas and carcinomas in mice and rat carcinogenicity studies Label . At doses up to 90 mg/kg/day, oral isavuconazole did not affect the fertility in male or female rats. Isavuconazole at systemic exposures of subtherapeutic levels was associated with dose-related increases in the incidence of skeletal anomalies in rat and rabbit offsprings 4 . In rats, a dose-related increase in the incidence of zygomatic arch fusion was also noted in offspring 4 .

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_019
+DCI: CEFTRIAXONE (sodique) 1 g pdre p sol inj (CEFTRIAXONE PANPHARMA) | CEFTRIAXONE (sodique) 1 g/10 ml pdre/solv p sol inj (CEFTRIAXONE ARROW)
+DrugBank ID: DB01212
+DrugBank Name: Ceftriaxone
+Brand Names: CETRIAL | CETRIAXONE HUP | ZAFOTRIAXONE
+Pharmaceutical Forms: Poudre | Poudre Et Solv. P. Sol. Inj. Iv | Poudre P.Preparation Inj Iv
+Dosages: 1g/fl | 1g/fl. de pdre.
+Packaging: b/01 flacon et b/50 flacon de poudre | b/10 flacon | b/50 flacon de 10 ml
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01D - AUTRES BETALACTAMINES | J01DD - CEPHALOSPORINES DE TROISIEME GENERATION | J01DD04 - CEFTRIAXONE
+Registration Numbers: 039/13 B 019/20 | 380/13 B 019/02/19 | 556/13 B 019/21
+Drug Codes: 13 B 019
+
+------------------------------------------------------------
+
+## Description
+
+Ceftriaxone is a broad-spectrum third-generation cephalosporin antibiotic. 1 It has a very long half-life compared to other cephalosporins and is high penetrable into the meninges 1 , eyes 9 , and inner ear 6 . Ceftriaxone has broader and stronger gram-negative coverage then first or second-generation cephalosporins, but worse activity against methicillin-susceptible S.aureus. Ceftriaxone is a commonly used antimicrobial due to its good activity against multi-drug resistant Enterobacteriaceae, its relatively safe adverse effect profile, and its long half-life which allows for the convenience of daily or twice-daily dosing. 1
+
+## Pharmacodynamics
+
+Ceftriaxone is a cephalosporin/cephamycin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. 11 Ceftriaxone has in vitro activity against gram-positive aerobic, gram-negative aerobic, and anaerobic bacteria. 12 The bactericidal activity of ceftriaxone results from the inhibition of cell wall synthesis and is mediated through ceftriaxone binding to penicillin-binding proteins (PBPs). 10 Ceftriaxone is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended-spectrum beta-lactamases. 11 However, resistance to ceftriaxone usually occurs through beta-lactamase hydrolysis, altered PBPs, or reduced bacterial cell permeability. 10 Ceftriaxone should not be mixed with or giving in the same IV line as diluents/products containing calcium as they may cause ceftriaxone to precipitate. 11 Ceftriaxone use may also cause biliary sludge or gallbladder pseudolithiasis. 11 , 2
+
+## Mechanism Of Action
+
+Penicillin-binding protein 2B (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor
+
+## Absorption
+
+Ceftriaxone is only given as an injection, either intramuscularly or intravenously. 11 Ceftriaxone is less than 1% bioavailable if given orally. 3
+
+## Volume Of Distribution
+
+The apparent volume of distribution of an intravenous or intramuscular dose in healthy patients is 5.78 to 13.5 L. 11 The volume of distribution of an intravenous or intramuscular dose in septic patients is 6.48 to 35.2 L. 4 Ceftriaxone has good enough CSF penetration to be used as an effective treatment of bacterial meningitis. 5
+
+## Metabolism
+
+Metabolism of ceftriaxone is negligible.
+
+## Route Of Elimination
+
+Ceftriaxone is primarily eliminated in the urine (33-67%). 11 The remainder is eliminated through secretion in the bile and removed from the body via the feces.
+
+## Half Life
+
+The elimination half-life of ceftriaxone is 5.8-8.7 hours. 11 The half-life of ceftriaxone in the middle ear fluid has been estimated to be 25 hours. 11 , 6
+
+## Clearance
+
+The plasma clearance of ceftriaxone in healthy adults receiving a 0.15-3g dose is 0.58 to 1.45 L/hour. 11 The renal clearance of ceftriaxone is 0.32 to 0.73 L/hour. 11 In intensive care unit patients, ceftriaxone's total drug clearance was 0.96L/h (0.55-1.28 L/h), and unbound drug clearance was 1.91 L/h (1.46-6.20 L/h). 7
+
+## Toxicity
+
+Ceftriaxone overdose may increase the risk of urolithiasis and subsequent post-renal acute renal failure (PARF). 8 Other symptoms of overdose unavailable in the literature. However, they are likely similar to the adverse effects of the medication. If overdose of ceftriaxone occurs, treat with symptomatic and supportive treatment, as ceftriaxone levels will not be reduced by dialysis. 11

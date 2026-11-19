@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_486
+DCI: Daclatasvir Dichlorhydrate
+DrugBank ID: DB09102
+DrugBank Name: Daclatasvir
+Brand Names: DACLA
+Pharmaceutical Forms: Comprimé
+Dosages: 60mg
+Packaging: b/28
+Registration Numbers: 447/13 P 486/17/24
+Drug Codes: 13 P 486
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Daclatasvir is a direct-acting antiviral agent that targets the NS5A and causes a decrease in serum HCV RNA levels. It disrupts HCV replication by specifically inhibiting the critical functions of an NS5A protein in the replication complex 3 . It is shown to cause downregulation of the hyperphosphorylation of NS5A. It does not appear to prolong the QT interval even when given at 3 times the maximum recommended dose.
+
+## Mechanism Of Action
+
+Nonstructural protein 5A (Hepatitis C Virus) Inhibitor
+
+## Absorption
+
+Studies demonstrated that peak plasma concentrations typically occurred within 2 hours after administration of multiple oral doses ranging from 1 - 100 mg once daily. Steady state is reached after approximately 4 days of once-daily daclatasvir administration. The absolute bioavailability of the tablet formulation is 67%.
+
+## Volume Of Distribution
+
+The approximate volume of distribution of daclatasvir is 47 L in patients who was orally administered 60 mg tablet followed by 100 µg [13C,15N]-daclatasvir intravenously.
+
+## Metabolism
+
+Daclastavir is a substrate of CYP3A enzymes where its metabolism is predominantly mediated by CYP3A4 isoform. Oxidative pathways included δ-oxidation of the pyrrolidine moiety, resulting in ring opening to an aminoaldehyde intermediate followed by an intramolecular reaction between the aldehyde and the proximal imidazole nitrogen atom 7 . High proportion of the drug in the plasma (greater than 97%) is in the unchanged form.
+
+## Route Of Elimination
+
+Approximately 88% of total dose of daclatasvir is eliminated into bile and feces in which 53% remains as unchanged form, while 6.6% of the total dose is eliminated primarily unchanged in the urine.
+
+## Half Life
+
+Following multiple dose administration of daclatasvir in HCV-infected subjects, with doses ranging from 1 mg to 100 mg once daily, the terminal elimination half-life of daclatasvir ranged from approximately 12 to 15 hours.
+
+## Clearance
+
+In subjects who received daclatasvir 60 mg tablet orally followed by 100 µg radiolabeled daclatasvir intravenously, the total clearance was 4.2 L/h.
+
+## Toxicity
+
+The most common adverse effects experienced in patients undergoing daclatasvir and sofosbuvir therapy include headache, fatigue, nausea and diarrhea. Similar side effects are seen when ribavirin is added, in addition to rash, insomnia, anemia, dizziness and somnolence. There are postmarketing cases that link serious symptomatic bradycardia with Daklinza when used in conjunction with sofosbuvir and amiodarone. Coadministration of these three drugs is not recommended unless there are no other alternatives.

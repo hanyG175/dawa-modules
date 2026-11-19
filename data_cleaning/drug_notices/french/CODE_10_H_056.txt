@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_H_056
+DCI: LOPERAMIDE CHLORHYDRATE 2 mg lyoph oral (LOPERAMIDE LYOC)
+Brand Names: DIARYL | DIMEPRA | DYAREX | EVOPERAMIDE | LOPERAMIDE NS | LOPEREX | LOPERIDAL | LOPESTIN
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 2mg
+Packaging: b/20
+Laboratories: TEVA SANTÉ
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07D - RALENTISSEURS DE LA MOTRICITE INTESTINALE | A07DA - RALENTISSEURS DE LA MOTRICITE INTESTINALE | A07DA03 - LOPERAMIDE
+Registration Numbers: 003/10 H 056/06/23 | 035/10 H 056/07/25 | 039/10 H 056/00/24 | 077/10 H 056/18 | 268/10 H 056/05/25 | 318/10 H 056/17/23 | 418/10 H 056/08/25 | 549/10 H 056/21
+Drug Codes: 10 H 056
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Apr 11 00:00:00 CEST 2022 | is_edited: False | title: INDICATIONS | text: Traitement symptomatique des diarrhées aiguës et chroniques. | Le traitement ne dispense pas de mesures diététiques et d'une réhydratation si elle est nécessaire. | L'importance de la réhydratation par soluté de réhydratation orale ou par voie intraveineuse doit être adaptée en fonction de l'intensité de la diarrhée, de l'âge et des particularités du patient (maladies associées, ...).
+
+## Posology
+
+Posologie | Unité de prise | gélule | lopéramide chlorhydrate : 2 mg | Modalités d'administration | Voie orale | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient de 8 an(s) à 15 an(s) | Patient quel que soit le poids | Diarrhée aiguë, traitement symptomatique (de la) | Posologie standard | Administrer après chaque selle non moulée | Traitement à instaurer aussi rapidement que possible | 1 gélule 1 à 6 fois par jour | Nombre d'unité de prise maximale: 6 gélules par 24 heures | Diarrhée chronique, traitement symptomatique (de la) | Posologie standard | 1 gélule 1 à 2 fois par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Diarrhée aiguë, traitement symptomatique (de la) | Dose initiale | Traitement à instaurer aussi rapidement que possible | 2 gélules 1 fois ce jour | Dose ultérieure | Administrer après chaque selle non moulée | 1 gélule 1 à 8 fois ce jour | Nombre d'unité de prise maximale: 8 gélules par 24 heures | Diarrhée chronique, traitement symptomatique (de la) | Posologie standard | 1 gélule 1 à 3 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Infection par le VIH | Insuffisance hépatique | Maladie inflammatoire de l'intestin | Patient traité à posologie élevée
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lopéramide : Mécanisme d'action | Le lopéramide est un antidiarrhéique analogue structurel des opiacés. Il possède une activité antisécrétoire par augmentation du flux hydro-électrolytique de la lumière intestinale vers le pôle plasmatique de l'entérocyte et réduction du flux inverse. Il provoque un ralentissement du transit colique avec augmentation des contractions segmentaires. Ses effets sont rapides et durables. Il respecte les caractères bactériologiques et parasitologiques des selles.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Prurit | - Dermatose bulleuse | - Urticaire | - Erythème polymorphe | DIVERS: | - Fatigue | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactoïde | - Choc anaphylactique | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | OPHTALMOLOGIE: | - Myosis | ORL, STOMATOLOGIE: | - Sécheresse buccale (Peu fréquent) | - Sensation de vertige (Fréquent) | - Glossodynie | PSYCHIATRIE: | - Stupeur | SYSTÈME DIGESTIF: | - Gêne abdominale (Peu fréquent) | - Dyspepsie (Peu fréquent) | - Nausée (Fréquent) | - Constipation (Fréquent) | - Flatulence (Fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Distension abdominale (Rare) | - Iléus paralytique | - Colectasie | - Dilatation du côlon | - Iléus | - Mégacôlon | - Pancréatite aiguë | - Ballonnement | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Hypertonie | - Altération de la conscience | - Perte de conscience | - Somnolence | - Ataxie | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire

@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_365
+DCI: Nitisinone
+DrugBank ID: DB00348
+DrugBank Name: Nitisinone
+Brand Names: MDK-NITISONE | ORFADIN
+Pharmaceutical Forms: Gélule
+Dosages: 5mg
+Packaging: b/01 flacon de 60 | b/60
+Laboratories: DIPHARMA ARZNEIMITTEL GMBH | OFFHEIMER WEG 33 | 65549, LIMBURG A.D. LAHN | ALLEMAGNE
+ATC Classification: A16AX04
+Registration Numbers: 533/14 N 365/17 | 550/14 N 365/20
+Drug Codes: 14 N 365
+
+------------------------------------------------------------
+
+## Description
+
+Nitisinone is a synthetic reversible inhibitor of 4-hydroxyphenylpyruvate dioxygenase. It is used in the treatment of hereditary tyrosinemia type 1 and Alkaptonuria. It is sold under the brand names Orfadin and Harliku. 1 , 2
+
+## Indications
+
+Nitisinone under the brand name ORFADIN is indicated as an adjunct to dietary restriction of tyrosine and phenylalanine in the treatment of hereditary tyrosinemia type 1. 1 Under the name HARLIKU, nitisinone is indicated for the reduction of urine homogentisic acid (HGA) in adult patients
+
+## Pharmacodynamics
+
+Hereditary tyrosinemia type 1 occurs due to a deficiency in fumarylacetoacetase (FAH), the final enzyme in the tyrosine catabolic pathway. Nitisinone inhibits catabolism of tyrosine by preventing the catabolic intermediates. In patients with HT-1, these catabolic intermediates are converted to the toxic metabolites succinylacetone and succinylacetoacetate, which are responsible for the observed liver and kidney toxicity. Succinylacetone can also inhibit the porphyrin synthesis pathway leading to the accumulation of 5-aminolevulinate, a neurotoxin responsible for the porphyric crises characteristic of HT-1.
+
+## Mechanism Of Action
+
+4-hydroxyphenylpyruvate dioxygenase Inhibitor
+
+## Absorption
+
+The capsule and liquid formulations are bioequivalent in both the plasma concentration-time curve and maximum plasma concentration (Cmax).
+
+## Volume Of Distribution
+
+The arithmetic mean (SD) apparent volume of distribution of nitisinone is 8.2 (1.6) L in healthy subjects. 2
+
+## Route Of Elimination
+
+Nitisinone is excreted primarily through urine. 2
+
+## Half Life
+
+The arithmetic mean (SD) terminal half-life of nitisinone is 59.3 (±8.9) hours in healthy subjects.
+
+## Clearance
+
+The estimated mean (CV%) renal clearance of nitisinone is 0.003 L/h (25%). 2
+
+## Toxicity
+
+Side effects include elevated plasma levels of this amino acid, hepatic and liver failure.

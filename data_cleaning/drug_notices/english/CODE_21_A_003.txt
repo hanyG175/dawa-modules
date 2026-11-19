@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_003
+DCI: Dexamethasone Acetate/Salicylamide/Salicylate D'Hydroxyethyle
+DrugBank ID: DB14649
+DrugBank Name: Dexamethasone acetate
+Brand Names: PERCUTALGINE
+Pharmaceutical Forms: Gélule
+Dosages: 0.005%/2%/10%
+Packaging: t/30g
+Registration Numbers: 169/21 A 003/99
+Drug Codes: 21 A 003
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Target Actions Organism A Glucocorticoid receptor agonist Humans U Annexin A1 agonist Humans U Nitric oxide synthase, inducible negative modulator Humans U Nuclear receptor subfamily 0 group B member 1 stimulator Humans U Nuclear receptor subfamily 1 group I member 2 agonist Humans

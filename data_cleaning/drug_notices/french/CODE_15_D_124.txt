@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_124
+DCI: RASAGILINE (tartrate) 1 mg cp (RASAGILINE ACCORD)
+Brand Names: BIOLECT | RALZYO
+Pharmaceutical Forms: Comprimé
+Dosages: 1mg
+Packaging: b/30
+ATC Classification: N - SYSTEME NERVEUX | N04 - ANTIPARKINSONIENS | N04B - DOPAMINERGIQUES | N04BD - INHIBITEURS DE LA MONOAMINE OXYDASE TYPE B | N04BD02 - RASAGILINE
+Registration Numbers: 263/15 D 124/19/24 | 352/15 D 124/24
+Drug Codes: 15 D 124
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | rasagiline (tartrate) : 1 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie de Parkinson - Parkinson, maladie (de), traitement associé à la dopathérapie (de la) | Posologie standard | 1 comprimé 1 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Insuffisance hépatique légère à modérée | Patient traité en association à la lévodopa | Sujet de moins de 18 ans | Tabagisme
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Rasagiline : Mécanisme d'action | Il a été montré que la rasagiline est un inhibiteur sélectif puissant et irréversible de la MAO-B qui pourrait provoquer une augmentation des concentrations extracellulaires de | dopamine | dans le striatum. L'augmentation de la concentration de | dopamine | et l'accroissement consécutif de l'activité dopaminergique sont vraisemblablement responsables des effets bénéfiques de la rasagiline observés dans des modèles de dysfonctionnement moteur dopaminergique. | Le 1-amino-indane, principal métabolite actif, n'est pas un inhibiteur de la MAO-B.
+
+## Adverse Effects
+
+CANCEROLOGIE: | - Tumeur bénigne (Peu fréquent) | - Cancer de la peau (Fréquent) | - Mélanome (Peu fréquent) | - Cancer (Peu fréquent) | DERMATOLOGIE: | - Eruption vésiculo-bulleuse (Peu fréquent) | - Dermatite (Fréquent) | - Eruption cutanée (Fréquent) | DIVERS: | - Syndrome pseudogrippal (Fréquent) | - Chute (Fréquent) | - Fièvre (Fréquent) | - Hypersexualité | - Polype | - Kyste | - Trouble sexuel | HÉMATOLOGIE: | - Leucopénie (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | NUTRITION, MÉTABOLISME: | - Poids (diminution) (Fréquent) | - Appétit diminué (Fréquent) | OPHTALMOLOGIE: | - Conjonctivite (Fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sécheresse buccale (Fréquent) | - Rhinite (Fréquent) | PSYCHIATRIE: | - Dépression (Fréquent) | - Confusion mentale (Peu fréquent) | - Rêves anormaux (Fréquent) | - Hallucination (Fréquent) | - Compulsions | - Agitation | - Syndrome de dysrégulation dopaminergique | - Léthargie | - Trouble psychosexuel | - Pensées obsessionnelles | - Comportement impulsif | - Trouble obsessionnel compulsif | - Vol | - Dépendance du jeu | - Trouble du contrôle des impulsions | - Stéréotypie | - Attaques de sommeil | - Achat compulsif | - Kleptomanie | - Dermatillomanie | - Libido (augmentation) | SYSTÈME CARDIOVASCULAIRE: | - Hypertension orthostatique (Fréquent) | - Angor (Fréquent) | - Malaise (Fréquent) | - Hypotension orthostatique (Fréquent) | - Infarctus du myocarde (Peu fréquent) | - Crise hypertensive (Rare) | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Flatulence (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Arthrite (Fréquent) | - Douleur musculo-squelettique (Fréquent) | - Douleur de la nuque (Fréquent) | - Cervicalgie (Fréquent) | - Syndrome du canal carpien (Fréquent) | - Dorsalgie | - Rigidité | SYSTÈME NERVEUX: | - Dyskinésie (Très fréquent) | - Céphalée (Très fréquent) | - Accident vasculaire cérébral (Peu fréquent) | - Trouble de l'équilibre (Fréquent) | - Dystonie (Fréquent) | - Somnolence excessive diurne | - Myoclonie | - Endormissement | - Somnolence | - Sédation | - Endormissement soudain | - Hypersomnie | TOXICOLOGIE: | - Syndrome sérotoninergique | UROLOGIE, NÉPHROLOGIE: | - Miction impérieuse (Fréquent)

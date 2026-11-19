@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_W_216
+DCI: Risankizumab
+DrugBank ID: DB14762
+DrugBank Name: Risankizumab
+Brand Names: SKYRIZI
+Pharmaceutical Forms: Solution
+Dosages: 150 mg/1ml
+Packaging: b/01 seringue preremplie en stylo
+Registration Numbers: 458/10 W 216/23
+Drug Codes: 10 W 216
+
+------------------------------------------------------------
+
+## Description
+
+Risankizumab is a fully humanized IgG1 monoclonal antibody (mAb) directed against interleukin 23 (IL-23). 7 It gained its first global approval in Japan in March 2019, followed by approval in Canada, the US, and Europe in April 2019. 5 Risankizumab is used to treat plaque psoriasis, psoriatic arthritis, and Crohn's disease. 7 , 9 , 10 Risankizumab is being investigated for atopic dermatitis. 5
+
+## Pharmacodynamics
+
+Risankizumab works to suppress the inflammatory effects of interleukin (IL)-23. It inhibits the release of pro-inflammatory cytokines and chemokines. 7 In vitro , risankizumab blocked IL-17 production; 5 however, risankizumab does not actually bind to IL-17. 1
+
+## Mechanism Of Action
+
+Interleukin-23 Inhibitor
+
+## Absorption
+
+Drug plasma concentrations increased dose-proportionally after subcutaneous administration of a single dose over the dose range from 18 mg to 360 mg and intravenous administration over a dose range from 200 mg to 1800 mg via a 3-hour infusion. In patients with plaque psoriasis who received a subcutaneous dose of 150 mg risankizumab, steady-state peak concentration (C max ) and trough concentration (C trough ) were 12 mcg/mL and 2 mcg/mL, respectively. 7 In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 14.0 mcg/mL and 4.1 mcg/mL, respectively for 180 mg or 28.0 mcg/mL and 8.1 mcg/mL, respectively, for 360 mg, during Weeks 40-48. 7 The absolute bioavailability of risankizumab was approximately 74 to 89% following subcutaneous injection. In healthy subjects, following administration of a single subcutaneous dose, C max was reached by 3 to 14 days. 7
+
+## Volume Of Distribution
+
+The estimated steady-state volume of distribution (inter-subject CV%) was 11.2 L (34%) in subjects with plaque psoriasis, and 7.68 L (64%) in subjects with Crohn’s disease. 7
+
+## Metabolism
+
+The metabolic pathway of risankizumab has not been fully characterized. As a humanized IgG1 monoclonal antibody, it is likely to be catabolized into small peptides and amino acids in the same way as endogenous IgG. 7 , 4
+
+## Route Of Elimination
+
+As an IgG1 monoclonal antibody, risankizumab is not expected to be filtered by glomerular filtration in the kidneys or to be excreted as an intact molecule in the urine. 10
+
+## Half Life
+
+The terminal elimination half-life was approximately 28 days in patients with plaque psoriasis and 21 days in patients with Crohn’s disease. 7
+
+## Clearance
+
+The estimated systemic clearance (inter-subject CV%) was 0.31 L/day (24%) in patients with plaque psoriasis and 0.30 L/day (34%) in patients with Crohn’s disease. 7
+
+## Toxicity
+
+The NOAEL was 50 mg/kg in monkeys following intravenous or subcutaneous administration. 8 There is no information available regarding the overdose of risankizumab.

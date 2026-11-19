@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_041
+DCI: BETAMETHASONE (dipropionate) 0,05 % crème (BETAMETHASONE BIOGARAN)
+DrugBank ID: DB00443
+DrugBank Name: Betamethasone
+Brand Names: BETACYL | BETAMETHASONE-ACIDE SALICYLIQUE NOVAGENERICS | DAPROSAL
+Pharmaceutical Forms: Pommademade
+Dosages: 0.05g%/3g%
+Packaging: t/15g
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB01 - BETAMETHASONE
+Registration Numbers: 003/07 H 041/09/24 | 149/07 H 041/13 | 462/07 H 041/21
+Drug Codes: 07 H 041
+
+------------------------------------------------------------
+
+## Description
+
+Betamethasone is a long-acting corticosteroid with immunosuppressive and antiinflammatory properties. 11 It can be used topically to manage inflammatory skin conditions such as eczema, and parenterally to manage several disease states including autoimmune disorders. 11 Betamethasone has potent glucocorticoid activity and negligible mineralocorticoid activity. 11
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor inhibiting pro-inflammatory signals, while promoting anti-inflammatory signals. 1 Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces. 1 Patients who require long-term treatment with a corticosteroid should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 1
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+The absorption and potency of any topical corticosteroid including betamethasone depends on the vehicle in which the steroid is delivered. For example, betamethasone dipropionate 0.05% ointment is classified as a highly potent topical steroid, while betamethasone dipropionate 0.05% cream or lotion is considered to be moderately potent. 4 There are several structural modifications that can determine the potency of a topical corticosteroid. For example, corticosteroids containing a halogen at specific carbons, or that contain esters are more potent due to enhanced lipophilicity. 5 As such, there is a marked difference between topical products containing betamethasone dipropionate vs. betamethasone valerate. Betamethasone dipropionate contains 2 esters which enhances its potency, while betamethasone valerate has only one ester and is less potent. 5 It should be noted that the use of occlusive dressings with topical steroids significantly increases the absorption, increasing the risk for adverse effects. 14
+
+## Volume Of Distribution
+
+In a study that included Indian women of reproductive age, the volume of distribution following a single intramuscular dose of betamethasone phosphate was 94,584±23,539 mL(s). 9
+
+## Metabolism
+
+The metabolism of betamethasone yields 6 metabolites. 10 The metabolic processes include 6β hydroxylation, 11β-hydroxyl oxidation, and reduction of the C-20 carbonyl group followed by removal of the side chain. 10
+
+## Route Of Elimination
+
+Corticosteroids are eliminated predominantly in the urine. 2
+
+## Half Life
+
+In a study that included Indian women of reproductive age, the half-life following a single intramuscular dose of betamethasone phosphate was 10.2 ± 2.5 hours. 9
+
+## Clearance
+
+In a study that included Indian women of reproductive age, the CL/F following a single intramuscular dose of betamethasone phosphate was 6,466 ± 805 mL/hour. 9
+
+## Toxicity
+
+Chronic high doses of glucocorticoids can lead to the development of cataracts, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency. 6 Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment. 6

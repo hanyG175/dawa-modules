@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_214
+DCI: Fenofibrate
+DrugBank ID: DB01039
+DrugBank Name: Fenofibrate
+Brand Names: FENOFIBRATE MM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 160MG
+Packaging: B/30
+Laboratories: MM LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 903.9 DA
+Prescription List: Liste II
+ATC Classification: 06M214
+Registration Numbers: 019/06 M 214/07/23 | 320/06 M 214/16 | 352/06 M 214/16/22 | 462/06 M 214/21 | 470/06 M 214/13/23
+Drug Codes: 06 M 214
+
+------------------------------------------------------------
+
+## Description
+
+Fenofibrate is a fibric acid derivative like clofibrate and gemfibrozil . 4 Fenofibrate is used to treat primary hypercholesterolemia, mixed dyslipidemia, severe hypertriglyceridemia. 11 , 12 Fenofibrate was granted FDA approval on 31 December 1993. 10
+
+## Pharmacodynamics
+
+Fenofibrate is a fibrate that activates peroxisome proliferator activated receptor alpha (PPARα) to alter lipid metabolism and treat primary hypercholesterolemia, mixed dyslipidemia, and severe hypertriglyceridemia. 8 , 11 , 12 Fenofibrate requires once daily dosing and has a half life of 19-27 hours so its duration of action is long. 3 , 11 , 12 Fenofibrate capsules are given at a dose of 50-150mg daily so the therapeutic index is wide. 12 Patients should be counselled about the risk of rhabdomyolysis, myopathy, and cholelithiasis when taking fibrates. 11 , 12
+
+## Mechanism Of Action
+
+Peroxisome proliferator-activated receptor alpha Agonist
+
+## Absorption
+
+A single 300mg oral dose of fenofibrate reaches a C max of 6-9.5mg/L with a T max of 4-6h in healthy, fasting volunteers. 4
+
+## Volume Of Distribution
+
+The volume of distribution of fenofibrate is 0.89L/kg, 4 and can be as high as 60L. 3
+
+## Metabolism
+
+Fenofibrate is completely hydrolyzed by liver carboxylesterase 1 to fenofibric acid. 6 , 11 , 12 Fenofibric acid is either glucuronidated or has its carbonyl group reduced to a benzhydrol that is then glucuronidated. 11 , 12 Glucuronidation of fenofibrate metabolites is mediated by UGT1A9. 5 Reduction of the carbonyl group is primarily mediated by CBR1 and minorly by AKR1C1, AKR1C2, AKR1C3, and AKR1B1. 7 Hover over products below to view reaction partners Fenofibrate Fenofibric acid Reduced Fenofibric Acid Reduced Fenofibric Acid Glucuronide Fenofibryl Glucuronide
+
+## Route Of Elimination
+
+5-25% of a dose of fenofibrate is eliminated in the feces, while 60-88% is eliminated in the urine. 2 , 11 , 12 70-75% of the dose recovered in the urine is in the form of fenofibryl glucuronide and 16% as fenofibric acid. 2
+
+## Half Life
+
+Fenofibric acid, the active metabolite of fenofibrate, has a half life of 23 hours. 11 , 12 Fenofibrate has a half life of 19-27 hours in healthy subjects and up to 143 hours in patients with renal failure. 3
+
+## Clearance
+
+The oral clearance of fenofibrate is 1.1L/h in young adults and 1.2L/h in the elderly. 11 , 12
+
+## Toxicity
+
+The oral LD 50 in rats is >2g/kg and in mice is 1600mg/kg. 13 The oral TDLO in rats is 9mg/kg. 13 Treat patients with supportive care including monitoring of vital signs and observing clinical status. 11 , 12 Recent overdose may be treated with inducing vomiting or gastric lavage. 11 , 12 Due to fenofibrate's extensive protein binding, hemodialysis is not expected to be useful. 2 , 11 , 12

@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_G_079
+DCI: Digoxine
+DrugBank ID: DB00390
+DrugBank Name: Digoxin
+Brand Names: DIGOXINE CPCM
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 0,25MG
+Packaging: B/30
+Laboratories: CPCM
+Countries: ALGERIE
+Reference Tariff (DA): 156.6 DA
+PPA (DA): 156.00 DA
+Prescription List: Liste I
+ATC Classification: C01AA05
+Registration Numbers: 065/06 G 079/98/22 | 286/06 G 079/08/23
+Drug Codes: 06 G 079
+
+------------------------------------------------------------
+
+## Description
+
+Digoxin is one of the oldest cardiovascular medications used today. 5 It is a common agent used to manage atrial fibrillation and the symptoms of heart failure. 7 Digoxin is classified as a cardiac glycoside and was initially approved by the FDA in 1954. 25 This drug originates from the foxglove plant, also known as the Digitalis plant 21 , studied by William Withering, an English physician and botanist in the 1780s. 8 , 9 Prior to this, a Welsh family, historically referred to as the Physicians of Myddvai , formulated drugs from this plant. They were one of the first to prescribe cardiac glycosides, according to ancient literature dating as early as the 1250s. 9
+
+## Pharmacodynamics
+
+Digoxin is a positive inotropic and negative chronotropic drug 7 , meaning that it increases the force of the heartbeat and decreases the heart rate. 23 The decrease in heart rate is particularly useful in cases of atrial fibrillation, a condition characterized by a fast and irregular heartbeat. 13 The relief of heart failure symptoms during digoxin therapy has been demonstrated in clinical studies by increased exercise capacity and reduced hospitalization due to heart failure and reduced heart failure-related emergency medical visits. 25 Digoxin has a narrow therapeutic window. 25 A note on cardiovascular risk Digoxin poses a risk of rapid ventricular response that can cause ventricular fibrillation in patients with an accessory atrioventricular (AV) pathway. Cardiac arrest as a result of ventricular fibrillation is fatal. 25 An increased risk of fatal severe or complete heart block is present in individuals with pre-existing sinus node disease and AV block who take digoxin. 25
+
+## Mechanism Of Action
+
+Sodium/potassium-transporting ATPase subunit alpha-1 Inhibitor
+
+## Absorption
+
+Digoxin is approximately 70-80% absorbed in the first part of the small bowel. 6 The bioavailability of an oral dose varies from 50-90%, however, oral gelatinized capsules of digoxin are reported to have a bioavailability of 100%. 10 Tmax, or the time to reach the maximum concentration of digoxin was measured to be 1.0 h in one clinical study of healthy patients taking 0.25 mg of digoxin with a placebo. 19 Cmax, or maximum concentration, was 1.32 ± 0.18 ng/ml−1 in the same study, and AUC (area under the curve) was 12.5 ± 2.38 ng/ml−1. 19 If digoxin is ingested after a meal, absorption is slowed but this does not change the total amount of absorbed drug. If digoxin is taken with meals that are in fiber, absorption may be decreased. 24 A note on gut bacteria An oral dose of digoxin may be transformed into pharmacologically inactive products by bacteria in the colon. Studies have indicated that 10% of patients receiving digoxin tablets will experience the degradation of at least 40% of an ingested dose of digoxin by gut bacteria. Several antibiotics may increase the absorption of digoxin in these patients, due to the elimination of gut bacteria, which normally cause digoxin degradation. 25 A note on malabsorption Patients with malabsorption due to a variety of causes may have a decreased ability to absorb digoxin. 25 P-glycoprotein, located on cells in the intestine, may interfere with digoxin pharmacokinetics, as it is a substrate of this efflux transporter. P-glycoprotein can be induced by other drugs, therefore reducing the effects of digoxin by increasing its efflux in the intestine. 25
+
+## Volume Of Distribution
+
+This drug is widely distributed in the body, and is known to cross the blood-brain barrier and the placenta. 25 , 6 The apparent volume of distribution of digoxin is 475-500 L. 25 A large portion of digoxin is distributed in the skeletal muscle followed by the heart and kidneys. 6 It is important to note that the elderly population, generally having a decreased muscle mass, may show a lower volume of digoxin distribution. 25
+
+## Metabolism
+
+About 13% of a digoxin dose is found to be metabolized in healthy subjects. Several urinary metabolites of digoxin exist, including dihydrodigoxin and digoxigenin bisdigitoxoside . Their glucuronidated and sulfated conjugates are thought to be produced through the process of hydrolysis, oxidation, and additionally, conjugation. The cytochrome P-450 system does not play a major role in digoxin metabolism, nor does this drug induce or inhibit the enzymes in this system. 25 Hover over products below to view reaction partners Digoxin Dihydrodigoxin Digoxigenin bisdigitoxoside
+
+## Route Of Elimination
+
+The elimination of digoxin is proportional to the total dose, following first order kinetics. After intravenous (IV) administration to healthy subjects, 50-70% of the dose is measured excreted as unchanged digoxin in the urine. Approximately 25 to 28% of digoxin is eliminated outside of the kidney. Biliary excretion appears to be of much less importance than renal excretion. 6 Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues. 25
+
+## Half Life
+
+Digoxin has a half-life of 1.5-2 days in healthy subjects. 25 The half-life in patients who do not pass urine, usually due to renal failure, is prolonged to 3.5-5 days. Since most of the drug is distributed extravascularly, dialysis and exchange transfusion are not optimal methods for the removal of digoxin. 25
+
+## Clearance
+
+The clearance of digoxin closely correlates to creatinine clearance, and does not depend on urinary flow. Individuals with renal impairment or failure may exhibit extensively prolonged half-lives. It is therefore important to titrate the dose accordingly and regularly monitor serum digoxin levels. 25 One pharmacokinetic study measured the mean body clearance of intravenous digoxin to be 88 ± 44ml/min/l.73 m². 16 Another study provided mean clearance values of 53 ml/min/1.73 m² in men aged 73-81 and 83 ml/min/1.73 m² in men aged 20-33 years old after an intravenous digoxin dose. 15
+
+## Toxicity
+
+Oral TDLO (human female): 100 ug/kg, Oral TDLO (human male): 75 ug/kg, Oral LD50 (rat): 28270 ug/kg MSDS Digoxin toxicity can occur in cases of supratherapeutic dose ingestion or as a result of chronic overexposure. 20 Digoxin toxicity may be manifested by symptoms of nausea, vomiting, visual changes, in addition to arrhythmia. Older age, lower body weight, and decreased renal function or electrolyte abnormalities lead to an increased risk of digoxin toxicity. 25

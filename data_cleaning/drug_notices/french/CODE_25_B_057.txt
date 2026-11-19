@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_057
+DCI: ALFUZOSINE CHLORHYDRATE 10 mg cp LP (ALFUZOSINE ARROW LP) | Alfuzosine Chlorhydrate
+Brand Names: ALFUZOX LP | FRAXAL | FRAXAL LP | PROSTAX LP | PROSTAZINE | XAPROST LP | ZAPRAL LP
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg | 1omg
+Packaging: b/30
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G04 - MEDICAMENTS UROLOGIQUES | G04C - MEDICAMENTS UTILISES DANS L'HYPERTROPHIE BENIGNE DE LA PROSTATE | G04CA - ALPHA-BLOQUANTS | G04CA01 - ALFUZOSINE
+Registration Numbers: 235/25 B 057/22 | 285/25 B 057/20 | 289/25 B 057/18/23 | 352/25 B 057/10/22 | 380/25 B 057/19 | 433/25 B 057/18 | 571/25 B 057/22
+Drug Codes: 25 B 057
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | alfuzosine chlorhydrate : 10 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer immédiatement après le repas du soir | Info patient : avaler le comprimé entier sans le mâcher ni le croquer | Posologie | Patient à partir de 16 an(s) | Patient quel que soit le poids | Patient de sexe masculin | Hypertrophie bénigne de la prostate | Posologie standard | 1 comprimé 1 fois par jour | Sondage vésical dans la rétention aiguë d'urine liée à l'HBP, traitement adjuvant (du) | Posologie standard | Débuter le traitement le 1er jour de cathétérisme urétral | 1 comprimé 1 fois par jour | Pendant 3 à 4 jours
+
+## Precautions
+
+Allongement de l'espace QT, antécédent (de l') | Cardiopathie | Hypotension due à un alphabloquant, antécédent (d') | Insuffisance cardiaque aiguë | Insuffisance coronarienne | Intervention chirurgicale de la cataracte | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'hypotension artérielle | Sujet de moins de 16 ans | Syndrome du QT long congénital
+
+## Mechanism Of Action
+
+Alfuzosine : Mécanisme d'action | L'alfuzosine est un dérivé de la quinazoline, actif par voie orale. C'est un antagoniste sélectif des récepteurs alpha-1-adrénergiques post-synaptiques. Les études de pharmacologie réalisées | in vitro | ont confirmé la sélectivité de l'alfuzosine pour les récepteurs alpha-1-adrénergiques situés au niveau de la prostate, du trigone vésical et de l'urètre. | Les alphabloquants, par une action directe sur le muscle lisse du tissu prostatique, diminuent l'obstruction infravésicale. Les études | in vivo | chez l'animal ont montré que l'alfuzosine diminuait la pression urétrale et donc la résistance au flux urinaire lors de la miction. Une étude chez le rat vigile montre un effet sur la pression urétrale d'amplitude supérieure à l'effet sur la pression artérielle. | Ces effets conduisent à une amélioration des symptômes urinaires irritatifs et obstructifs. Ils n'entraînent pas d'effet délétère sur les fonctions sexuelles.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Urticaire (Très rare) | DIVERS: | - Asthénie (Fréquent) | - Oedème (Peu fréquent) | - Douleur thoracique (Peu fréquent) | HÉMATOLOGIE: | - Thrombopénie | HÉPATOLOGIE: | - Hépatite cholestatique | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | OPHTALMOLOGIE: | - Trouble de la vision (Peu fréquent) | - Syndrome de l'iris flasque per-opératoire | ORL, STOMATOLOGIE: | - Congestion nasale (Peu fréquent) | - Vertige (Fréquent) | - Sécheresse buccale (Fréquent) | - Sensation de vertige (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Peu fréquent) | - Palpitation (Peu fréquent) | - Syncope (Peu fréquent) | - Malaise (Fréquent) | - Hypotension orthostatique (Fréquent) | - Tachycardie (Peu fréquent) | - Angor (aggravation) (Très rare) | - Angor (Très rare) | - Fibrillation auriculaire | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement (Peu fréquent) | - Lésion hépatocellulaire | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Peu fréquent) | - Accident vasculaire cérébral ischémique | UROLOGIE, NÉPHROLOGIE: | - Priapisme

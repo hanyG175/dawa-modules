@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_151
+DCI: Ciprofloxacine Chlorhydrate Exprime En Ciprofloxacine
+DrugBank ID: DB00537
+DrugBank Name: Ciprofloxacin
+Brand Names: CILOXAN
+Pharmaceutical Forms: Pommademade
+Dosages: 0.003
+Packaging: t/3.5g
+Laboratories: NOVARTIS PHARMA S.A.S. | 8-10 RUE HENRI SAINTE-CLAIRE DEVILLE | 92500 RUEIL-MALMAISON
+ATC Classification: J01MA02
+Registration Numbers: 028/17 D 151/08/16
+Drug Codes: 17 D 151
+
+------------------------------------------------------------
+
+## Description
+
+Ciprofloxacin is a second generation fluoroquinolone that has spawned many derivative antibiotics. 9 It is formulated for oral, intravenous, intratympanic, ophthalmic, and otic administration for a number of bacterial infections. 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 The first ciprofloxacin containing product was FDA approved on 22 October 1987. 17
+
+## Pharmacodynamics
+
+Ciprofloxacin is a second generation fluoroquinolone that is active against many Gram negative and Gram positive bacteria. 9 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 It produces its action through inhibition of bacterial DNA gyrase and topoisomerase IV. 12 Ciprofloxacin binds to bacterial DNA gyrase with 100 times the affinity of mammalian DNA gyrase. 13 There is no cross resistance between fluoroquinolones and other classes of antibiotics, so it may be of clinical value when other antibiotics are no longer effective. 13 Ciprofloxain and its derivatives are also being investigated for its action against malaria, cancers, and AIDS. 12
+
+## Mechanism Of Action
+
+DNA topoisomerase 4 subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor DNA gyrase subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor DNA gyrase subunit A (Staphylococcus aureus) Modulator
+
+## Absorption
+
+A 250mg oral dose of ciprofloxacin reaches an average maximum concentration of 0.94mg/L in 0.81 hours with an average area under the curve of 1.013L/h*kg. 8 The FDA reports an oral bioavailability of 70-80% Label , 1 while other studies report it to be approximately 60%. 8 An early review of ciprofloxacin reported an oral bioavailability of 64-85% but recommends 70% for all practical uses. 10
+
+## Volume Of Distribution
+
+Cirpofloxacin follws a 3 compartment distribution model with a central compartment volume of 0.161L/kg 8 and a total volume of distribution of 2.00-3.04L/kg. 10
+
+## Metabolism
+
+Ciprofloxacin is primarily metabolized by CYP1A2. 22 The primary metabolites oxociprofloxacin and sulfociprofloxacin make up 3-8% of the total dose each. 24 Ciprofloxacin is also converted to the minor metabolites desethylene ciprofloxacin and formylciprofloxacin. 24 These 4 metabolites account for 15% of a total oral dose. 22 There is a lack of available data on the enzymes and types of reactions involved in forming these metabolites. 2 , 3 , 4 , 5 Hover over products below to view reaction partners Ciprofloxacin Formylciprofloxacin oxociprofloxacin Desethylene ciprofloxacin Sulfociprofloxacin
+
+## Route Of Elimination
+
+27% of an oral dose was recovered unmetabolized in urine compared to 46% of an intravenous dose. 8 Collection of radiolabelled ciprofloxacin resulted in 45% recovery in urine and 62% recovery in feces. 10
+
+## Half Life
+
+The average half life following a 250mg oral dose was 4.71 hours and 3.65 hours following a 100mg intravenous dose. 8 Generally the half life is reported as 4 hours. Label , 8
+
+## Clearance
+
+The average renal clearance after a 250mg oral dose is 5.08mL/min*kg. 8 Following a 100mg intravenous dose, the average total clearance is 9.62mL/min*kg, average renal clearance is 4.42mL/min*kg, and average non renal clearance is 5.21mL/min*kg. 8
+
+## Toxicity
+
+Patients experiencing an overdose may present with nausea, vomiting, abdominal pain, crystalluria, nephrotoxicity, and oliguria. 14 , 15 , 16 Ciprofloxacin overdose typically leads to acute renal failure. 16 An overdose may progress over the next 6 days with rising serum creatinine and BUN, as well as anuria. 15 Patients may require prednisone therapy, urgent hemodialysis, or supportive therapy. 14 , 16 Depending on the degree of overdose, patients may recover normal kidney function or progress to chronic kidney failure. 16 The oral LD50 in rats is >2000mg/kg. 27 Ciprofloxacin for intratympanic injection or otic use has low systemic absorption and so it unlikely to be a risk in pregnancy or lactation. 26 There is generally no harm to the fetus in animal studies, however high doses may lead to gastrointestinal disturbances in the mother which may increase the incidence of abortion. 25 , 19 , 23 , 20 In human studies there was no increase in fetal malformations above background rates. 21 , 22 The risk and benefit of ciprofloxacin should be weighed in pregnancy and breast feeding. 25 , 19 , 23 , 21 , 22 , 24 , 20 , 18 2/8 in vitro tests and 0/3 in vivo tests of mutagenicity of ciprofloxacin have yielded a positive result. 26 , 25 , 19 , 23 , 21 , 22 , 24 , 20 , 18 Oral doses of 200 and 300 times the maximum recommended clinical dose in rats and mice have shown no carcinogenicity or tumorigenicity. 26 , 19 , 23 , 21 , 22 , 24 , 20 , 18 Oral doses above the maximum recommended clinical dose have shown no effects on fertility in rats. 26 , 23 , 21 , 22 , 24 , 20 , 18

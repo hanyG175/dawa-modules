@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_J_077
+DCI: Levonorgestrel
+DrugBank ID: DB00367
+DrugBank Name: Levonorgestrel
+Brand Names: MIRENA 20µG/24H
+Pharmaceutical Forms: Systeme De Diffusion Intra-Uterin
+Dosages: 52mg/dispositif
+Packaging: b/01 système de diffusion intra-uterin muni d'inserteur (evo-inserteur)
+Laboratories: cristers | 22 quai gallieni | 92150 suresnes
+ATC Classification: G03AD01
+Registration Numbers: 424/11 J 077/08/19
+Drug Codes: 11 J 077
+
+------------------------------------------------------------
+
+## Description
+
+Levonorgestrel (LNG) is a synthetic progestogen similar to Progesterone used in contraception and hormone therapy. 7 , 18 Also known as Plan B, it is used as a single agent in emergency contraception, and as a hormonal contraceptive released from an intrauterine device, commonly referred to as an IUD. Some of these devices are known as Jaydess, Kyleena, and Mirena. A subdermal implant of levonorgestrel that slowly releases the hormone over a long-term period is also available. 29 In addition to the above uses, levonorgestrel is used as a component of long-term combination contraceptives. 8 , 19 , 21 Globally, levonorgestrel is the most commonly used emergency contraceptive. It was initially granted FDA approval in 1982 and was the first emergency contraceptive containing only progesterone, showing high levels of efficacy and a lack of estrogenic adverse effects when compared to older emergency contraceptive regimens. 3 , 9 , 19
+
+## Pharmacodynamics
+
+Levonorgestrel prevents pregnancy by interfering with ovulation, fertilization, and implantation. The levonorgestrel-only containing emergency contraceptive tablet is 89% effective if it is used according to prescribing information within 72 hours after intercourse. 3 , 7 The intrauterine and implantable devices releasing levonorgestrel are more than 99% in preventing pregnancy. 14 , 21 , 22 Levonorgestrel utilized as a component of hormonal therapy helps to prevent endometrial carcinoma associated with unopposed estrogen administration. 13
+
+## Mechanism Of Action
+
+Progesterone receptor Modulator 3-oxo-5-alpha-steroid 4-dehydrogenase 1 Inhibitor Estrogen receptor Other/unknown
+
+## Absorption
+
+Orally administered levonorgestrel is absorbed in the gastrointestinal tract while levonorgestrel administered through an IUD device is absorbed in the endometrium. Levonorgestrel is absorbed immediately in the interstitial fluids when it is inserted as a subdermal implant. 29 After insertion of the subdermal implant, the Cmax of levonorgestrel is attained within 2-3 days. 29 The Cmax following one dose of 0.75 mg of oral levonorgestrel is reached within the hour after administration, according to one reference. 3 In a pharmacokinetic study of 1.5 mg of levonorgestrel in women with a normal BMI and those considered to be obese (BMI>30), mean Cmax was found to be 16.2 ng/mL and 10.5 ng/mL respectively. Tmax was found to be 2 hours for those with normal BMI and 2.5 hours for patients with increased BMI. 6 The bioavailability of levonorgestrel approaches 100%. 25 Mean AUC has been shown to be higher in patients with a normal BMI, measuring at 360.1 h × ng/mL versus a range of 197.28 to 208.1 h × ng/mL in an obese group of patients. Obesity may contribute to decreased efficacy of levonorgestrel in contraception. 6
+
+## Volume Of Distribution
+
+One pharmacokinetic study determined a mean steady-state volume of distribution of 1.5 mg of levonorgestrel to be 162.2 L in those with normal BMI and in the range of 404.7 L to 466.4 L in obese patients with a body mass index of at least 30. 6 Mean volume of distribution in 16 patients receiving 0.75 mg of levonorgestrel in another pharmacokinetic study was 260 L. 4 The Plan B one-step FDA label reports an apparent volume of distribution of 1.8 L/kg. 19
+
+## Metabolism
+
+After absorption of the oral emergency contraceptive preparation, levonorgestrel is conjugated and forms a large number of sulfate conjugates. In addition, glucuronide conjugates have been identified in the plasma. 12 High levels of conjugated and unconjugated 3α, 5β-tetrahydrolevonorgestrel are found in the plasma. The entire metabolic pathway for levonorgestrel has not been studied, however, 16β-hydroxylation is one pathway that has been identified. 29 Small quantities of 3α, 5α­ tetrahydrolevonorgestrel and 16βhydroxylevonorgestrel are also formed. 19 No active metabolites have been identified. 25 The rate of metabolism may be considerably different according to the patient and may explain a wide variation in levonorgestrel clearance. 19 Liver CYP3A4 and CYP3A5 hepatic enzymes are reported to be involved in the metabolism of levonorgestrel. 17 , 19 Hover over products below to view reaction partners Levonorgestrel Glucuronide conjugates, levonorgestrel + Sulfate conjugates, levonorgestrel 16βhydroxylevonorgestrel + 3α, 5β-tetrahydrolevonorgestrel
+
+## Route Of Elimination
+
+Approximately 45% of an oral levonorgestrel dose and its conjugated or sulfate metabolites are found to be excreted in the urine. Approximately 32% of an orally ingested dose is found excreted in feces, primarily in the form of glucuronide conjugates of levonorgestrel. 19
+
+## Half Life
+
+The elimination half-life of a 0.75 mg dose of 1.5 mg of levonorgestrel ranges between 20-60 hours post-administration. 3 A pharmacokinetic study of women with a normal BMI and BMI over revealed an elimination half-life of 29.7 h and 41.0-46.4 hours, respectively. 6 Another pharmacokinetic study revealed a mean elimination half-life of 24.4 hours after a 0.75 mg dose of levonorgestrel was administered to 16 patients. 4
+
+## Clearance
+
+Clearance was found to 4.8 L/h in healthy female volunteers with a normal BMI, and 7.70-8.51 L/h in obese patients after a single 1.5 mg dose. 6 After a 0.75 mg dose of levonorgestrel in 16 patients in another pharmacokinetic study, mean clearance was calculated at 7.06 L/h. 4 Following levonorgestrel implant removal, the serum concentration falls below 100 pg/mL within the first 96 hours and further falls below the sensitivity of detection within the range of 5 days to 2 weeks. 29
+
+## Toxicity
+
+The oral LD50 in rats is greater than 5000 mg/kg. 24 An overdose of this drug, like other contraceptives, may cause nausea and withdrawal bleeding. Provide symptomatic treatment in the case of a levonorgestrel overdose and contact the local poison control center. There is no specific antidote for a levonorgestrel overdose. 19 , 25 , 26

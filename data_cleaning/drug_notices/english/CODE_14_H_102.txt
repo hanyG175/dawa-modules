@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_102
+DCI: PYRIDOXINE CHLORHYDRATE 250 mg/5 ml sol inj (PYRIDOXINE RENAUDIN)
+DrugBank ID: DB00165
+DrugBank Name: Pyridoxine
+Brand Names: PYRIDOXINE API
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A11 - VITAMINES | A11H - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA02 - PYRIDOXINE (VIT B6)
+Registration Numbers: 348/14 H 102/08
+Drug Codes: 14 H 102
+
+------------------------------------------------------------
+
+## Description
+
+Pyridoxine is the 4-methanol form of vitamin B6, an important water-soluble vitamin that is naturally present in many foods. As its classification as a vitamin implies, Vitamin B6 (and pyridoxine) are essential nutrients required for normal functioning of many biological systems within the body. While many plants and microorganisms are able to synthesize pyridoxine through endogenous biological processes, animals must obtain it through their diet. More specifically, pyridoxine is converted to pyridoxal 5-phosphate in the body, which is an important coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, and aminolevulinic acid. It's important to note that Vitamin B6 is the collective term for a group of three related compounds, pyridoxine, pyridoxal, and pyridoxamine, and their phosphorylated derivatives, pyridoxine 5'-phosphate, pyridoxal 5'-phosphate and pyridoxamine 5'-phosphate. Although all six of these compounds should technically be referred to as vitamin B6, the term vitamin B6 is commonly used interchangeably with just one of them, pyridoxine 1 . Vitamin B6, principally in its biologically active coenzyme form pyridoxal 5'-phosphate, is involved in a wide range of biochemical reactions, including the metabolism of amino acids and glycogen, the synthesis of nucleic acids, hemogloblin, sphingomyelin and other sphingolipids, and the synthesis of the neurotransmitters serotonin, dopamine, norepinephrine and gamma-aminobutyric acid (GABA) 2 . Pyridoxine is used medically for the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy (due to Isoniazid 's mechanism of action which competitively inhibits the action of pyridoxine in the above-mentioned metabolic functions). It is also used in combination with Doxylamine (as the commercially available product Diclectin) for the treatment of nausea and vomiting in pregnancy.
+
+## Pharmacodynamics
+
+Vitamin B6 (pyridoxine) is a water-soluble vitamin used in the prophylaxis and treatment of vitamin B6 deficiency and peripheral neuropathy in those receiving isoniazid (isonicotinic acid hydrazide, INH). Vitamin B6 has been found to lower systolic and diastolic blood pressure in a small group of subjects with essential hypertension. Hypertension is another risk factor for atherosclerosis and coronary heart disease. Another study showed pyridoxine hydrochloride to inhibit ADP- or epinephrine-induced platelet aggregation and to lower total cholesterol levels and increase HDL-cholesterol levels, again in a small group of subjects. Vitamin B6, in the form of pyridoxal 5'-phosphate, was found to protect vascular endothelial cells in culture from injury by activated platelets. Endothelial injury and dysfunction are critical initiating events in the pathogenesis of atherosclerosis. Human studies have demonstrated that vitamin B6 deficiency affects cellular and humoral responses of the immune system. Vitamin B6 deficiency results in altered lymphocyte differentiation and maturation, reduced delayed-type hypersensitivity (DTH) responses, impaired antibody production, decreased lymphocyte proliferation and decreased interleukin (IL)-2 production, among other immunologic activities.
+
+## Mechanism Of Action
+
+Pyridoxal kinase Ligand
+
+## Absorption
+
+The B vitamins are readily absorbed from the gastrointestinal tract, except in malabsorption syndromes. Pyridoxine is absorbed mainly in the jejunum. The Cmax of pyridoxine is achieved within 5.5 hours.
+
+## Volume Of Distribution
+
+Pyridoxine main active metabolite, pyridoxal 5’-phosphate, is released into the circulation (accounting for at least 60% of circulating vitamin B6) and is highly protein bound, primarily to albumin.
+
+## Metabolism
+
+Pyridoxine is a prodrug primarily metabolized in the liver. The metabolic scheme for pyridoxine is complex, with formation of primary and secondary metabolites along with interconversion back to pyridoxine. Pyridoxine's major metabolite is 4-pyridoxic acid.
+
+## Route Of Elimination
+
+The major metabolite of pyridoxine, 4-pyridoxic acid, is inactive and is excreted in urine
+
+## Half Life
+
+The total adult body pool consists of 16 to 25 mg of pyridoxine. Its half-life appears to be 15 to 20 days.
+
+## Toxicity
+
+Oral Rat LD50 = 4 gm/kg. Toxic effects include convulsions, dyspnea, hypermotility, diarrhea, ataxia and muscle weakness.

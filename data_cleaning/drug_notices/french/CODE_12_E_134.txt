@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_134
+DCI: Hydroxyde Ferrique Polymaltose Exprime En Fer Ferrique | nux vomica [H]
+Brand Names: CAREFER | FERRUM HAUSMANN GOUTTES
+Pharmaceutical Forms: Solution
+Dosages: 50mg/ml
+Packaging: b/01fl.compt. gttes de 30ml
+Registration Numbers: 177/12 E 134/14/23 | 235/12 E 134/23
+Drug Codes: 12 E 134
+
+------------------------------------------------------------
+
+## Conservation
+
+name: NUX VOMICA COMPLEXE N°49 S buv en gouttes Fl/30ml
+conservation: Cip : 3400930174432 Modalités de conservation : Avant ouverture : durant 5 ans Après ouverture : durant 24 mois

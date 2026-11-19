@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_183
+DCI: Eau Pour Preparations Injectables
+Brand Names: EAU POUR PREPARATIONS INJECTABLES RAZES | EAU POUR PREPARATIONSINJECTABLES GEO | EAU PPI BIOTHERA | EPPI-SAIDAL
+Pharmaceutical Forms: Solution
+Dosages: 1 amp de 2ml
+Packaging: b/50 ampoule. de 2ml
+Laboratories: B. BRAUN MEDICAL | 26 RUE ARMENGAUD | 92210 SAINT-CLOUD
+ATC Classification: Classe pharmacothérapeutique : SOLVANT ET DILUANTS, SOLUTIONS D’IRRIGATION INCLUSES code ATC : V07AB.
+Registration Numbers: 003/14 G 183/25 | 304/14 G 183/21 | 433/14 G 183/15/25 | 543/14 G 183/22
+Drug Codes: 14 G 183
+
+------------------------------------------------------------
+
+## Indications
+
+Dilution ou reconstitution extemporanée de préparations destinées à être administrées par voie parentérale.
+
+## Posology
+
+Posologie | L'eau pour préparations injectables étant destinée à la préparation de solutions pour administration parentérale, la posologie et le mode d'administration sont fonction des spécialités à reconstituer ou à diluer. | Population pédiatrique | La posologie doit être établie sur la base des instructions données pour le médicament à reconstituer ou à diluer. | Mode d’administration | Voie injectable : intraveineuse, intramusculaire ou sous-cutanée (en fonction de la spécialité pharmaceutique ajoutée).
+
+## Contraindications
+
+L'eau pour préparations injectables ne doit jamais être injectée seule par la voie intraveineuse (voir rubriques 4.4 et 4.8). | Les contre-indications liées à la spécialité pharmaceutique ajoutée doivent être prises en compte.
+
+## Precautions
+
+Mises en garde | Solution hypotonique à ne pas injecter seule. | Vérifier avant l'emploi que la solution est limpide et le récipient intact. | Eliminer tout récipient duquel du liquide a déjà été extrait. | Précautions d'emploi | La préparation du mélange à injecter doit être effectuée extemporanément avec du matériel stérile et dans des conditions d'asepsie rigoureuse. | Avant dissolution d'un médicament, vérifier la solubilité et/ou stabilité dans l'eau pour préparations injectables ainsi que la compatibilité des substances actives à dissoudre entre elles.
+
+## Interactions
+
+Les interactions possibles sont celles de la/des substance (s) active (s) à reconstituer ou à diluer.
+
+## Pregnancy Breastfeeding
+
+La possibilité d'utiliser l'eau pour préparations injectables pendant la grossesse ou l'allaitement est liée au (x) substance (s) active (s) à reconstituer ou à diluer.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : SOLVANT ET DILUANTS, SOLUTIONS D’IRRIGATION INCLUSES code ATC : V07AB.
+
+## Adverse Effects
+
+L’injection intraveineuse de l’eau pour préparations injectables provoque une hémolyse si elle est injectée seule (voir rubriques 4.3 et 4.4). | La nature du médicament ajouté déterminera la survenue éventuelle d’effets indésirables. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/
+
+## Conservation
+
+Ce médicament ne nécessite pas de précautions particulières de conservation. | Pour les conditions de conservation du médicament après ouverture, voir rubrique 6.3.

@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_033
+DCI: TRIHEXYPHENIDYLE CHLORHYDRATE 2 mg cp (TRIHEXY RICHARD)
+DrugBank ID: DB00376
+DrugBank Name: Trihexyphenidyl
+Brand Names: PARKINANE LP
+Pharmaceutical Forms: Gélule
+Dosages: 2mg
+Packaging: boite de 50
+ATC Classification: N - SYSTEME NERVEUX | N04 - ANTIPARKINSONIENS | N04A - ANTICHOLINERGIQUES | N04AA - AMINES TERTIAIRES | N04AA01 - TRIHEXYPHENIDYL
+Registration Numbers: 285/15 D 033/98/23
+Drug Codes: 15 D 033
+
+------------------------------------------------------------
+
+## Description
+
+Trihexyphenidyl is a centrally acting muscarinic antagonist used for treatment of parkinsonism and drug-induced extrapyramidal disorders. 11 , 12 Its discovery was published in 1949 in a study looking for drugs with antispasmodic activity. 9 Trihexyphenidyl is rarely used in the treatment of parkinsonism, and is not a first line treatment due to significant adverse effects. 15 It has largely been replaced by drugs such as levodopa . 15 Trihexyphenidyl was granted FDA approval on 13 May 1949. 10
+
+## Pharmacodynamics
+
+Trihexyphenidyl is an antimuscarinic indicated as an adjunct in the treatment of parkinsonism or as a treatment for drug-induced extrapyramidal symptoms. 11 , 12 It has a long duration of action as it does not need to be given every day. 13 It has a wide therapeutic window, with acute toxicity being non fatal in doses as high as 300 mg. 13 Patients should have their iridocorneal angle examined before and intraocular pressure monitored during therapy. 13 Patients should be counselled regarding the risk of anhidrosis and hyperthermia. 13
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M1 Antagonist Muscarinic acetylcholine receptor M2 Antagonist Muscarinic acetylcholine receptor M3 Antagonist + 2 more targets
+
+## Absorption
+
+Trihexyphenidyl is absorbed from the gastrointestinal tract. Trihexyphenidyl reaches a C max of 7.2 ng/mL, with a T max of 1.3 hours, and an AUC of 201 ng*h/mL. 7 , 8
+
+## Metabolism
+
+Data regarding the metabolism of trihexyphenidyl are not readily available. 1 However, it is likely not heavily metabolized. 1
+
+## Route Of Elimination
+
+Data regarding the route of elimination of trihexyphenidyl are not readily available. 1 However, it is likely eliminated predominantly in the urine. 1
+
+## Half Life
+
+The mean elimination half life of trihexyphenidyl is 3.2 ± 0.3 hours. 7
+
+## Toxicity
+
+Symptoms of overdose include mydriasis, dryness of mucous membranes, red face, atonic states of bowels and bladder, and hyperthermia in high doses. Trihexyphenidyl causes agitation, confusion, and hallucinations due to its effects on the central nervous system. Untreated overdose may result in death, especially in children. Respiratory depression and cardiac arrest may be seen as premortal signs. Patients experiencing an overdose of trihexyphenidyl may experience dry mouth, anhidrosis, mydriasis, nausea, vomiting, tachycardia, hyperpyrexia, reduced gastrointestinal motility, urinary hesitancy or retention, rash, hyperthermia, confusion, restlessness, agitation, poor coordination, paranoia, psychosis, delirium, hallucinations, coma, respiratory failure, circulatory failure, and death. 1 Patients should be treated with symptomatic and supportive care which may include airway maintenance and the use of physostigmine . 1

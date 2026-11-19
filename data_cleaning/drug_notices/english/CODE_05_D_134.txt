@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_134
+DCI: BEVACIZUMAB 25 mg/ml sol diluer p perf (ZIRABEV) | Bevacizumab
+DrugBank ID: DB00112
+DrugBank Name: Bevacizumab
+Brand Names: ACURA | AVEGRA BIOCAD | BEVACIZUMAB-SAIDAL | SIMBIVA | VERSAVO | ZIRABEV
+Pharmaceutical Forms: Solution
+Dosages: 25mg/ml
+Packaging: boite de 1 flacon en verre type 1 de 4ml/ et boite de 1 flacon en verre type 1 de 16 ml
+ATC Classification: L01FG01
+Registration Numbers: 003/05 D 134/21 | 045/05 D 134/23 | 352/05 D 134/24 | 494/05 D 134/21 | 583/05 D 134/21 | 596/05 D 134/23
+Drug Codes: 05 D 134
+
+------------------------------------------------------------
+
+## Description
+
+There is a great deal of evidence indicating that vascular endothelial growth factor (VEGF) is important for the survival and proliferation of cancer cells. 14 , 6 , 8 , 24 VEGF plays an important role in angiogenesis, lymphangiogenesis, and tumor growth, which are all factors that contribute to its attractiveness as a therapeutic target for anti-cancer therapies. 5 , 7 , 6 , 8 , 9 In 2004, bevacizumab (Avastin) gained FDA approval for specific types of cancer, and became the first antiangiogenic agent introduced to the market. 23 , 24 It is a humanized monoclonal IgG antibody, and inhibits angiogenesis by binding and neutralizing VEGF-A. 7 , 14 Bevacizumab is generally indicated for use in combination with different chemotherapy regimens which are specific to the type, severity, and stage of cancer. 25 Bevacizumab was approved by Health Canada on March 24, 2010 and by the European Commission on April 21, 2021. 32 , 29 There are several biosimilars of bevacizumab, such as bevacizumab-awwb, bevacizumab-maly, bevacizumab-adcd, and bevacizumab-tnjn. Interestingly, researchers have identified higher VEGF expression in patients with COVID-19, which may contribute to lung pathologies including acute respiratory syndrome (ARDS) and acute lung injury (ALI). 26 As such, bevacizumab is being investigated for the treatment of lung complications associated with severe cases of COVID-19. 26 Avzivi® (bevacizumab), a biosimilar of Avastin®, was approved by the EMA in July 2024 to treat several types of cancer, including colorectal, breast, lung, kidney, ovarian, and cervical cancer. 34
+
+## Pharmacodynamics
+
+Bevacizumab binds circulating vascular endothelial-derived growth factor (VEGF) and blocks it from binding to its associated receptors, effectively blunting downstream signaling. 19 The effects of bevacizumab have been shown to re-establish normal vasculature at the tumor site resulting in increased nutrient and oxygen supply, while also improving the delivery of chemotherapeutic drugs to the target area. 14 , 18 On the other hand, VEGF signaling is a vital component of several processes including angiogenesis, lymphangiogenesis, blood pressure regulation, wound healing, coagulation, and renal filtration. 5 , 7 , 19 Although blocking VEGF may inhibit metastatic disease progression, it may also result in unintended effects due to the role of VEGF in several other physiologic processes. 25
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor A, long form Inhibitor
+
+## Absorption
+
+Monoclonal antibodies (mAbs) are large in size, do not readily cross cell membranes, and are unable to withstand proteolysis in the gastrointestinal tract. 16 , 21 , 22 Given these characteristics, mAbs are poorly absorbed via the oral route and are instead administered intravenously, intramuscularly or subcutaneously. 16 , 22 In a single dose (1mg/kg) pharmacokinetic study assessing the bioequivalence of bevacizumab and TAB008 (a biosimilar product), the pharmacokinetic parameters of Avastin (bevacizumab) were as follows 20 :
+Geometric mean Cmax = 17.38 ug/mL
+Geometric mean AUCinf = 5,358 ugxh/mL
+Geometric mean Tmax = 2.50 hrs
+
+## Volume Of Distribution
+
+The volume of distribution of bevacizumab is approximately 3.29 L and 2.39 L for the average male and female, respectively. 14
+
+## Metabolism
+
+There are several pathways through which monoclonal antibodies (mAbs) may be cleared. 15 Non-specific clearance of mAbs refers to target independent pinocytosis, and proteolysis of the protein into small amino acids and peptides in the reticuloendothelial system (RES) and the liver. 15 , 16 Target-mediated clearance is a result of specific interactions between the mAb and its target antigen. 15 Once bound, the antibody-antigen complex may be cleared via lysosomal degradation. 15 , 16 Additionally, the production of anti-drug antibodies (ADA), which are a result of an immunogenic response to mAb-based treatment, can form complexes with mAb’s and may impact the rate of mAb clearance. 15
+
+## Route Of Elimination
+
+Due to their size, monoclonal antibodies are not renally eliminated under normal physiological conditions. 16 Catabolism or excretion are the primary processes of elimination. 16
+
+## Half Life
+
+The half-life of bevacizumab is estimated to be 20 days (range of 11-50 days). 25 , 13
+
+## Clearance
+
+The clearance (CL) of bevacizumab is approximately 0.207 L/day. 14 The CL of bevacizumab can increase or decrease by 30% in patients who weigh >114 kg or <49 kg respectively. 14 Males tend to clear bevacizumab at a faster rate than females (26% faster on average). 14 Other factors including alkaline phosphatase (ALP), serum aspartate aminotransferase (AST), serum albumin, and tumor burden may cause the CL to fluctuate. 14
+
+## Toxicity
+
+Bevacizumab toxicities are distinct from the effects of cytotoxic agents used in chemotherapy, and are normally linked to impaired VEGF function. 18 , 19 Common toxicities associated with bevacizumab include hypertension, gastrointestinal perforation, arterial thromboembolism, reversible posterior leukoencephalopathy syndrome (RPLS), venous thromboembolism, proteinuria, bleeding/hemorrhage, and wound-healing complications. 18

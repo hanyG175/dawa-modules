@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_042
+DCI: METOCLOPRAMIDE CHLORHYDRATE 10 mg/2 ml sol inj (CHLORHYDRATE DE METOCLOPRAMIDE RENAUDIN) | Metoclopramide Chlorhydrate
+Brand Names: CLOPRAMID | METOPERAN | MODENUM | PRIMPERENE
+Pharmaceutical Forms: Solution
+Dosages: 10mg/2ml
+Packaging: b/05 et b/50 | b/10 et b/50
+Laboratories: LABORATOIRE RENAUDIN | Zone Artisanale Errobi | 64250 ITXASSOU
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03F - STIMULANTS DE LA MOTRICITE INTESTINALE | A03FA - STIMULANTS DE LA MOTRICITE INTESTINALE | A03FA01 - METOCLOPRAMIDE | A03FA01
+Registration Numbers: 003/10 F 042/03/25 | 304/10 F 042/23 | 380/10 F 042/18 | 433/10 F 042/15/25
+Drug Codes: 10 F 042
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | métoclopramide chlorhydrate : 10 mg | Modalités d'administration | Voie orale | Respecter un intervalle d'au moins 6 heures entre 2 prises | Posologie | Patient de 6 an(s) à 18 an(s) | 30 kg = 60 kg | Nausées et vomissements retardés induits par chimio du sujet de 1 à 18 ans, trt prév de 2e intention | Posologie standard | 10 mg 1 à 3 fois par jour | Posologie maximale: 30 mg par jour | Patient à partir de 18 an(s) | Poids >= 30 kg | Nausées et vomissements chez l'adulte - Nausées et vomissements induits par la crise migraineuse chez l'adulte - Nausées et vomissements induits par la radiothérapie chez l'adulte, traitement préventif (des) - Nausées et vomissements retardés induits par la chimiothérapie chez l'adulte, trt préventif (des) | Posologie standard | 10 mg 1 à 3 fois par jour | Posologie maximale: 30 mg par jour | Durées absolues de traitement | Ne pas dépasser 5 jours de traitement. | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Bradycardie | Enfant de moins de 30 kg | Fonctions du système nerveux central, trouble (des) | Grossesse, fin (de la) | Insuffisance hépatique sévère | Insuffisance rénale : clairance de la créatinine < 60 ml/min | Nouveau-né exposé in utero au médicament | Patient traité à posologie élevée | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Trouble de la conduction cardiaque | Trouble hydroélectrolytique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Métoclopramide : Mécanisme d'action | Le métoclopramide est un neuroleptique antagoniste de la | dopamine | . Il prévient les vomissements par blocage des sites dopaminergiques. Il augmente l'amplitude des ondes de contractions œsophagiennes, le tonus du sphincter inférieur de l'œsophage, la vitesse de vidange gastrique. Il normalise le péristaltisme gastroduodénal et augmente le péristaltisme du grêle.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperprolactinémie (Peu fréquent) | DIVERS: | - Asthénie (Fréquent) | ENDOCRINOLOGIE: | - Galactorrhée (Peu fréquent) | - Gynécomastie | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Aménorrhée (Peu fréquent) | HÉMATOLOGIE: | - Méthémoglobinémie | - Sulfhémoglobinémie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Choc anaphylactique | - Réaction anaphylactique | OPHTALMOLOGIE: | - Trouble de la vision (Peu fréquent) | PSYCHIATRIE: | - Dépression (Fréquent) | - Hallucination (Peu fréquent) | - Confusion mentale (Rare) | - Idée suicidaire | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Peu fréquent) | - Hypotension artérielle (Fréquent) | - Pause sinusale | - Torsades de pointes | - Crise hypertensive | - Syncope | - Allongement de l'espace QT | - Arrêt cardiaque | - Hypertension artérielle | - Choc | - Bloc auriculoventriculaire | SYSTÈME DIGESTIF: | - Diarrhée (Fréquent) | SYSTÈME NERVEUX: | - Altération de la conscience (Peu fréquent) | - Syndrome extrapyramidal (Fréquent) | - Crise oculogyre (Peu fréquent) | - Syndrome parkinsonien (Fréquent) | - Akathisie (Fréquent) | - Dystonie (Peu fréquent) | - Dyskinésie (Peu fréquent) | - Somnolence (Très fréquent) | - Dystonie aiguë | - Dyskinésie tardive | - Convulsions | TOXICOLOGIE: | - Syndrome malin des neuroleptiques (Exceptionnel)

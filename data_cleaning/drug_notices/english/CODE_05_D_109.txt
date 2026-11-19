@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_109
+DCI: Rituximab
+DrugBank ID: DB00073
+DrugBank Name: Rituximab
+Brand Names: MABTHERA | REDDITUX | RITUXIMAB-SAIDAL | RIXATHON | RUXIENCE | TRUXIMA
+Pharmaceutical Forms: Solution
+Dosages: 10 mg/ml | 10mg/ml | 10mg/ml (100mg/10ml et 500mg/50ml)
+Packaging: 1 flacon de 10ml (100mg/10ml) et 1 flacon de 50ml (500mg/50ml) | b/2 flc 10 ml (100mg/10ml) et b/1 flc de 50ml (500mg/50ml) | b/2fl. de 10ml et b/1fl. de 50ml | boite de 01 flacon de 50ml (500mg/50ml) . boite de 02 flacon de 10ml (100mg/10ml) | boite de 1 flacon de 50 ml ( 500mg/50ml) et boite de 2 flacons de 10 ml (100mg/10ml)
+Registration Numbers: 001/05 D 109/21 | 003/05 D 109/22 | 045/05 D 109/21 | 080/05 D 109/21 | 128/05 D 109/06/17 | 596/05 D 109/21
+Drug Codes: 05 D 109
+
+------------------------------------------------------------
+
+## Description
+
+Rituximab is a genetically engineered chimeric murine/human monoclonal antibody directed against the CD20 antigen found on the surface of normal and malignant B lymphocytes. The antibody is an IgG1 kappa immunoglobulin containing murine light and heavy-chain variable region sequences and human constant region sequences 6 , Label . It was originally approved by the U.S. FDA in 1997 as a single agent to treat patients with B-cell Non-Hodgkin's Lymphoma (NHL) 10 , however, has now been approved for a variety of conditions Label . On November 28, 2018, the US FDA approved Truxima , the first biosimilar to Rituxan (Rituximab) 9 .
+
+## Pharmacodynamics
+
+Rituximab is a chimeric murine/human monoclonal antibody that binds to the CD20 antigen. CD20 is predominantly expressed on the surface of pre-B and mature B-lymphocytes, allowing rituximab to target and promote lysis in this specific type of cells. 6 , 7 , 12 . In Non-Hodgkin's Lymphoma patients, rituximab treatment depleted circulating and tissue-based B-cells. In a study that included 166 patients, CD19-positive B-cells were depleted within three weeks, and in 83% of patients, cell depletion lasted up to 6-9 months. B-cell levels started to recover at approximately 6 months and returned to normal 12 months after treatment was completed. Approximately 14% of Non-Hodgkin's Lymphoma patients had IgM or IgG serum levels below the normal range 12 . Most rheumatoid arthritis (RA) patients treated with rituximab showed a near-complete depletion of peripheral B lymphocytes within 2 weeks after the first dose. Peripheral B-cell depletion was sustained for at least 6 months, and in approximately 4% of RA patients, peripheral B-cell depletion was sustained
+
+## Mechanism Of Action
+
+B-lymphocyte antigen CD20 Antibody Regulator
+
+## Absorption
+
+Rituximab follows a linear pharmacokinetic model. 5 In patients with non-Hodgkin’s lymphoma (NHL) administered 4 doses of 375 mg/m 2 of rituximab (IV) weekly, detectable levels were observed 3-6 months after treatment completion. The pharmacokinetic profile of rituximab administered in combination with 6 cycles of CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisone) chemotherapy was similar to the one observed when administered alone. 12 In patients with rheumatoid arthritis (RA) administered 2 doses of 500 mg of rituximab, the C max of the first and second infusions were 157 (SD ± 46) and 183 (SD ± 55) mcg/mL. In patients administered 2 doses of 1,000 mg of rituximab, the C max of the first and second infusions were 318 (SD ± 86) and 381 (SD ± 98) mcg/mL. 12 In pediatric patients (6-17 years old) with granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA) given four doses of 375 mg/m 2 of rituximab intravenously once a week, the AUC 0-180 was 9787 µg/mL⋅day (range from 4838 to 20446 µg/mL⋅day). In adult patients given the same dose, the AUC 0-180 of rituximab was 10302 µg/mL⋅day (range from 3653 to 21874 µg/mL⋅day). 12 The bioavailability of rituximab administered intravenously is expected to be close to 100%. Compared to rituximab administered intravenously, the bioavailability of RITUXAN HYCELA, a combination product of rituximab and hyaluronidase (human recombinant), is 64.6% in patients with follicular lymphoma and 63.4% in patients with chronic lymphocytic leukemia (CLL). 16
+
+## Volume Of Distribution
+
+Based on a pharmacokinetic analysis that included 2005 patients with rheumatoid arthritis (RA), the volume of distribution of rituximab is 3.1 L. 12 In pediatric patients (6-17 years old) with granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA) given four doses of 375 mg/m 2 of rituximab intravenously once a week, the volume of distribution was 2.28 L (range from 1.43 to 3.17 L). In adult patients given the same dose, the volume of distribution was 3.12 L (range from 2.42 to 3.91 L). 12 In patients with pemphigus vulgaris given an intravenous infusion of 1000 mg of rituximab on days 1, 15, 168, and 182, the volume of distribution was 3.49 L (range from 2.48 to 5.22 L). 12
+
+## Metabolism
+
+As a monoclonal antibody, rituximab is expected to be metabolized by proteases throughout the body.
+
+## Route Of Elimination
+
+Monoclonal antibodies (mAb) such as rituximab trigger the formation of antidrug antibodies (ADAs) that form ADA-mAb immune complexes. The endogenous elimination of these immune complexes is mediated by the reticuloendothelial system, most likely via fragment crystallizable-gamma (Fcγ)-mediated endocytosis 5 .
+
+## Half Life
+
+In patients with non-Hodgkin's lymphoma (NHL) treated with rituximab once a week or once every three weeks (n=298), the median terminal elimination half-life was 22 days (range of 6.1-52 days). 12 In patients with chronic lymphocytic leukemia (CLL) treated with rituximab (n=21), the estimated median terminal half-life was 32 days (range of 14-62 days). 12 Based on a pharmacokinetic analysis that included 2005 patients with rheumatoid arthritis (RA), the mean terminal elimination half-life of rituximab is 18.0 days. 12 In pediatric patients (6-17 years old) with granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA) given four doses of 375 mg/m 2 of rituximab intravenously once a week, the terminal half-life was 22 days (range from 11 to 42 days). In adult patients given the same dose, the terminal half-life was 25 days (range from 11 to 52 days). 12 In patients with pemphigus vulgaris given an intravenous infusion of 1000 mg of rituximab, the terminal half-life was 21.1 days (range from 9.3 to 36.2 days) in the first infusion cycle (days 1 and 15), and 26.2 days (range from 16.4 to 42.8 days) in the second infusion cycle (days 168 and 182). 12
+
+## Clearance
+
+In patients with non-Hodgkin’s lymphoma (NHL), those with higher CD19-positive cell counts or larger measurable tumor lesions at pretreatment had higher rituximab clearance 12 . Based on a pharmacokinetic analysis that included 2005 patients with rheumatoid arthritis (RA), the clearance of rituximab is 0.335 L/day. 12 In pediatric patients (6-17 years old) with granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA) given four doses of 375 mg/m 2 of rituximab intravenously once a week, clearance was 0.222 L/day (range from 0.0996 to 0.381 L/day). In adult patients given the same dose, clearance was 0.279 L/day (range from 0.113 to 0.653 L/day). 12 In patients with pemphigus vulgaris given an intravenous infusion of 1000 mg of rituximab, clearance was 0.30 L/day (range from 0.16 to 1.51 L/day) in the first infusion cycle (days 1 and 15), and 0.24 L/day (range from 0.13 to 0.45 L/day) in the second infusion cycle (days 168 and 182). 12
+
+## Toxicity
+
+Toxicity information regarding rituximab is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as fatal infusion-related reactions and severe mucocutaneous reactions. Symptomatic and supportive measures are recommended. No long-term animal studies have been performed to establish the carcinogenic or mutagenic potential of rituximab or to determine potential effects on fertility in males or females 12 . The maximum tolerated dose of rituximab in mice administered intraperitoneally is higher than 100 mg/kg. 17

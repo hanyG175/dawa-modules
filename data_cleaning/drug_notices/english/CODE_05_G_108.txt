@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_108
+DCI: CAPECITABINE 500 mg cp (CAPECITABINE ACCORD)
+DrugBank ID: DB01101
+DrugBank Name: Capecitabine
+Brand Names: CAPECITABINE PHARMACARE | CAPTIB
+Pharmaceutical Forms: Comprimé
+Dosages: 500 mg | 500mg
+Packaging: boite de 120
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01B - ANTIMETABOLITES | L01BC - ANALOGUES DE LA PYRIMIDINE | L01BC06 - CAPECITABINE
+Registration Numbers: 001/05 G 108/20 | 619/05 G 108/23
+Drug Codes: 05 G 108
+
+------------------------------------------------------------
+
+## Description
+
+Capecitabine is an orally-administered chemotherapeutic agent used in the treatment of metastatic breast and colorectal cancers. Capecitabine is a prodrug, that is enzymatically converted to fluorouracil (antimetabolite) in the tumor, where it inhibits DNA synthesis and slows growth of tumor tissue.
+
+## Pharmacodynamics
+
+Capecitabine is a fluoropyrimidine carbamate belonging to a group of antineoplastic agents called antimetabolites, which kill cancerous cells by interfering with DNA synthesis. 39 , 26 It is an orally administered systemic prodrug that has little pharmacologic activity until it is converted to 5-fluorouracil (5-FU) by enzymes that are expressed in higher concentrations in many tumors. 40 Capecitabine was designed specifically to overcome the disadvantages of 5-FU and to mimic the infusional pharmacokinetics of 5-FU without the associated complexity and complications of central venous access and infusion pumps. 39 Particularly, since the enzymes converting 5-FU into active metabolites exist in the gastrointestinal tract, infusion of 5-FU can have gastrointestinal toxicity while also losing efficacy. 41 Since capecitabine can be transported intact across the intestinal mucosa, it can be selectively delivered 5-FU to tumor tissues through enzymatic conversion preferentially inside tumor cells. 41 5-FU exerts its pharmacological action through the inhibition and interference of 3 main targets: thymidylate synthase, DNA, and RNA, leading through protein synthesis disruption and apoptosis. 26 , 20 Population-based exposure-effect analyses demonstrated a positive association between AUC of 5-FU and grade 3-4 hyperbilirubinemia. 42
+
+## Mechanism Of Action
+
+DNA Incorporation into and destabilization Inhibition of synthesis RNA Incorporation into and destabilization Thymidylate synthase Inhibitor
+
+## Absorption
+
+The AUC of capecitabine and its metabolite 5’-DFCR increases proportionally over a dosage range of 500 mg/m2/day to 3,500 mg/m2/day (0.2 to 1.4 times the approved recommended dosage). The AUC of capecitabine’s metabolites 5’-DFUR and fluorouracil increased greater than proportional to the dose. The interpatient variability in the Cmax and AUC of fluorouracil was greater than 85%. 42 Following oral administration of capecitabine 1,255 mg/m 2 orally twice daily (the recommended dosage when used as a single agent), the median Tmax of capecitabine and its metabolite fluorouracil was approximately 1.5 hours and 2 hours, respectively. 42
+
+## Volume Of Distribution
+
+In colorectal cancer patients with a mean age of 58 ± 9.5 years and ECOG Performance Status of 0–1, the volume of distribution is calculated to be 186 ± 28 L. 7
+
+## Metabolism
+
+Capecitabine undergoes metabolism by carboxylesterase and is hydrolyzed to 5’-DFCR. 5’-DFCR is subsequently converted to 5’-DFUR by cytidine deaminase. 5’-DFUR is then hydrolyzed by thymidine phosphorylase (dThdPase) enzymes to the active metabolite
+fluorouracil. 42 Fluorouracil is subsequently metabolized by dihydropyrimidine dehydrogenase to 5-fluoro-5, 6-dihydro-fluorouracil (FUH2). The pyrimidine ring of FUH2 is cleaved by dihydropyrimidinase to yield 5-fluoro-ureido-propionic acid (FUPA). Finally, FUPA is cleaved by β-ureido-propionase to α-fluoro-β-alanine (FBAL). 42 Hover over products below to view reaction partners Capecitabine 5’-Deoxy-5-fluorocytidine (5'-DFCR) 5’-Deoxy-5-fluorouridine (5'DFUR) 5-fluorouracil 5-fluouridine (5-FUR) 5-fluorouridine monophosphate (5-FUMP) 5-fluorouridine diphosphate (5-FUDP) 5-fluorouridine triphosphate (5-FUTP) 5-FUDP-hexose 5-fluorouridine monophosphate (5-FUMP) 5-fluorouridine diphosphate (5-FUDP) 5-fluorodeoxyuridine diphosphate (5-FdUDP) 5-fluorodeoxyuridine monophosphate (5-FdUMP) 5-fluorodeoxyuridine triphosphate (5-FdUTP) 5-fluorodeoxyuridine monophosphate (5-FdUMP) 5-fluorouridine triphosphate (5-FUTP) 5-FUDP-hexose 5-fluorodeoxyuridine (5-FUdR) 5-fluorodeoxyuridine monophosphate (5-FdUMP) 5-fluorodeoxyuridine diphosphate (5-FdUDP) 5-fluorodeoxyuridine triphosphate (5-FdUTP) 5-fluorodeoxyuridine monophosphate (5-FdUMP) dihydrofluorouracil (DHFU) β-ureidopropionic acid (FUPA) Urea + fluoro-β-alanine (FBAL)
+
+## Route Of Elimination
+
+Following administration of radiolabeled capecitabine, 96% of the administered capecitabine dose was recovered in urine (3% unchanged and 57% as metabolite FBAL) and 2.6% in feces. 42
+
+## Half Life
+
+The elimination half-lives of capecitabine and fluorouracil were approximately 0.75 hour. 42
+
+## Clearance
+
+In colorectal cancer patients with a mean age of 58 ± 9.5 years and ECOG Performance Status of 0–1, the clearance of capecitabine is calculated to be 775 ± 213 mL/min. 7
+
+## Toxicity
+
+Adequate studies investigating the carcinogenic potential of capecitabine have not been conducted. Capecitabine was not mutagenic in vitro to bacteria (Ames test) or mammalian cells (Chinese hamster V79/HPRT gene mutation assay). Capecitabine was clastogenic in vitro to human peripheral blood lymphocytes but not clastogenic in vivo to mouse bone marrow (micronucleus test). Fluorouracil causes mutations in bacteria and yeast. Fluorouracil also causes chromosomal abnormalities in the mouse micronucleus test in vivo. 42 In studies of fertility and general reproductive performance in female mice, oral capecitabine doses of 760 mg/kg/day (about 2,300 mg/m2/day) disturbed estrus and consequently caused a decrease in fertility. In mice that became pregnant, no fetuses survived this dose. The disturbance in estrus was reversible. In males, this dose caused degenerative changes in the testes, including decreases in the number of spermatocytes and spermatids. In separate pharmacokinetic studies, this dose in mice produced 5’-DFUR AUC values about 0.7 times the corresponding values in patients administered the recommended daily dose. 42 Based on findings in animal reproduction studies and its mechanism of action [see Clinical Pharmacology (12.1)], XELODA can cause fetal harm when administered to a pregnant woman. Available human data on XELODA use in pregnant women is not sufficient to inform the drug-associated risk. In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryo lethality and teratogenicity in mice and embryo lethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose of 1,250 mg/m2 twice daily, respectively. Advise pregnant women of the potential risk to a fetus. 42 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. 42 Administer uridine triacetate within 96 hours for management of XELODA overdose. Although no clinical experience using dialysis as a treatment for XELODA overdose has been reported, dialysis may be of benefit in reducing circulating concentrations of 5’-DFUR, a low–molecular-weight metabolite of the parent compound. 42

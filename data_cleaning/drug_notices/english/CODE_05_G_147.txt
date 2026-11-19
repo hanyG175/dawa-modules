@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_147
+DCI: BORTEZOMIB 3,5 mg pdre p sol inj (BORTEZOMIB TEVA) | Bortezomib Sous Forme De Bortezomib Trimeric Boroxine
+DrugBank ID: DB00188
+DrugBank Name: Bortezomib
+Brand Names: BORTERO | BORTEZOMIB INTAS | BORTEZOMIB-SAIDAL | ORIONZOMIB | VELCADE
+Pharmaceutical Forms: Poudre
+Dosages: 3.5mg/fl.
+Packaging: b/1fl.
+Registration Numbers: 003/05 G 147/21 | 095/05 G 147/09/18 | 478/05 G 147/19 | 524/05 G 147/17 | 596/05 G 147/24
+Drug Codes: 05 G 147
+
+------------------------------------------------------------
+
+## Description
+
+Bortezomib is a dipeptide boronic acid derivative and proteasome inhibitor used to treat multiple myeloma and mantle cell lymphoma. 4 The 26S proteasome is a protein complex that degrades ubiquitinated proteins in the ubiquitin-proteasome pathway: reversible inhibition of the 26S proteasome, leading to cell cycle arrest and apoptosis of cancer cells, is thought to be the main mechanism of action of bortezomib. 10 However, multiple mechanisms may be involved in the anticancer activity of bortezomib. 4 Bortezomib was first synthesized in 1995. 4 In May 2003, bortezomib became the first anticancer proteasome inhibitor that was approved by the FDA under the trade name VELCADE. 5 Phase I, II, III, and IV clinical trials are undergoing to investigate the therapeutic efficacy of bortezomib in leukemia, myasthenia gravis, systemic lupus erythematosus, rheumatoid arthritis, and solid tumours. 6
+
+## Pharmacodynamics
+
+Bortezomib works to target the ubiquitin-proteasome pathway, an essential molecular pathway that regulates intracellular concentrations of proteins and promotes protein degradation. 1 The ubiquitin-proteasome pathway is often dysregulated in pathological conditions, leading to aberrant pathway signalling and the formation of malignant cells. In one study, patient-derived chronic lymphocytic leukemia (CLL) cells contained 3-fold higher levels of chymotrypsin-like proteasome activity than normal lymphocytes. 1 By reversibly inhibiting proteasome, bortezomib prevents proteasome-mediated proteolysis. Bortezomib exerts a cytotoxic effect on various cancer cell types in vitro and delays tumour growth in vivo in nonclinical tumour models. 7 Bortezomib inhibits the proteasome activity in a dose-dependent manner. In one pharmacodynamic study, more than 75% of proteasome inhibition was observed in whole blood samples within one hour after dosing of bortezomib. 4
+
+## Mechanism Of Action
+
+Proteasome subunit beta type-5 Inhibitor Proteasome subunit beta type-1 Inhibitor
+
+## Absorption
+
+Following intravenous administration of 1 mg/m 2 and 1.3 mg/m 2 doses, the mean C max of bortezomib were 57 and 112 ng/mL, respectively. In a twice-weekly dosing regimen, the C max ranged from 67 to 106 ng/mL at the dose of 1 mg/m 2 and 89 to 120 ng/mL for the 1.3 mg/m 2 dose. In patients with multiple myeloma, the C max of bortezomib followig subcutaneous administration was lower than that of intravenously-administered dose; however, the total systemic exposure of the drug was equivalent for both routes of administration. 7 There is a wide interpatient variability in drug plasma concentrations. 10
+
+## Volume Of Distribution
+
+The mean distribution volume of bortezomib ranged from approximately 498 to 1884 L/m 2 in patients with multiple myeloma receiving a single- or repeat-dose of 1 mg/m 2 or 1.3 mg/m 2 . 7 Bortezomib distributes into nearly all tissues, except for the adipose and brain tissue. 4
+
+## Metabolism
+
+Bortezomib is primarily metabolized by CYP3A4, CYP2C19, and CYP1A2. CYP2D6 and CYP2C9 are also involved in drug metabolism, but to a smaller extent. 7 Oxidative deboronation, which involves the removal of boronic acid from the parent compound, is the main metabolic pathway. Metabolites of bortezomib are pharmacologically inactive and more than 30 metabolites have been identified in human and animal studies. 5 Hover over products below to view reaction partners Bortezomib Bortezomib metabolite M1 Bortezomib metabolite M26 Bortezomib metabolite M25 Bortezomib metabolite M5 Bortezomib metabolite M3 Bortezomib metabolite M4 Bortezomib metabolite M2 Bortezomib metabolite M28 Bortezomib metabolite M27 Bortezomib metabolite M8 Bortezomib metabolite M33 Bortezomib metabolite M6 Bortezomib metabolite M3 Bortezomib metabolite M34 Bortezomib metabolite M23 or M24 (1) Bortezomib metabolite M23 or M24 (2)
+
+## Route Of Elimination
+
+Bortezomib is eliminated by both renal and hepatic routes. 5
+
+## Half Life
+
+The mean elimination half-life of bortezomib ranged from 40 to 193 hours following a multiple dosing regimen at a 1 mg/m 2 dose. The half-life ranged from 76 to 108 hours after multiple dosing of 1.3 mg/m 2 bortezomib. 7
+
+## Clearance
+
+Following the administration of a first dose of 1 mg/m 2 and 1.3 mg/m 2 , the mean mean total body clearances were 102 and 112 L/h, respectively. The clearances were 15 and 32 L/h after the subsequent dose of 1 and 1.3 mg/m 2 , respectively. 7
+
+## Toxicity
+
+The Lowest published toxic dose (TD Lo ) in mouse was 5 mg/kg/14D following intraperitoneal administration of an intermittent dose and 1.6 mg/kg/12D following subcutaneous administration of a continuous dose. 9 The therapeutic dose of bortezomib is individualized in each patient to prevent overdose. Fatal outcomes occurred in humans following the administration of more than twice the recommended therapeutic dose of bortezomib. The symptoms from overdose included the acute onset of symptomatic hypotension and thrombocytopenia. As there is no known antidote for bortezomib overdosage, monitoring of vital signs and appropriate supportive care should be initiated when drug overdosage is suspected. In monkeys and dogs, increased heart rate, decreased contractility, hypotension, and death were observed with the intravenous dose as low as two times the recommended clinical dose on a mg/m2 basis. A case of a slight increase in the corrected QT interval leading to death occurred in dog studies. 7

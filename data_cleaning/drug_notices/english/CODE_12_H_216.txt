@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_H_216
+DCI: Emicizumab
+DrugBank ID: DB13923
+DrugBank Name: Emicizumab
+Brand Names: HEMLIBRA
+Pharmaceutical Forms: Solution
+Dosages: 30mg/ml
+Packaging: boite de 01 flacon de 1ml (30mg emicizumab)
+Registration Numbers: 128/12 H 216/22
+Drug Codes: 12 H 216
+
+------------------------------------------------------------
+
+## Description
+
+Emicizumab is a humanized recombinant monoclonal antibody that mimics the function of the coagulation Factor VIII and it has the capacity to bind simultaneously to activated Factor IX and Factor X. The ability of Emicizumab to bind to all these three different factors allows it to overcome immunogenicity and unstable hemostatic efficacy produced by previous Factor VII agents. Emicizumab was originated as an improved form of hBS23 and it was approved on November 16, 2017. 1 , 8 It was created by Chugai Pharmaceuticals Co. Ltd. and co-developed with Roche and Genentech. 7
+
+## Pharmacodynamics
+
+Emicizumab mimics the function of coagulation factor VIII, therefore it binds to the activated form of Factor IX (Factor IXa). This binding forms a complex that will later bind to the X factor of the coagulation factor. 4 The ability of Emicizumab to interact with both factors (Factor IXa and Factor X) activates the coagulation cascade that will subsequently lead to the segmentation of fibrinogen into fibrin and the formation of blood clots. 3 The effect of Emicizumab is translated into the restoration of the blood coagulation process and, therefore, in the reduction of hemorrhagic episodes. 8 The activity of emicizumab can also produce changes in activated clotting time (ACT), activated partial thromboplastin time (aPTT) and one-step Factor VIII activity. 10 In addition, the unique bispecific structure of Emicizumab prevents the formation of Factor VIII inhibitors or their effect. 2 In the first clinical trials, emicizumab was tried on previously treated adult and pediatric patients of hemophilia A with FVIII inhibitors. In this trials, the annualized bleeding rate requiring treatment with coagulation factors was reduced by 87% when compared to untreated patients. 12 Those clinical trials were followed by a second round on previously treated patients of severe hemophilia A without FVIII inhibitors. In this trial, the annualized bleed rate was reduced by 96% when compared to untreated patients. 12
+
+## Mechanism Of Action
+
+Coagulation factor IX Cofactor Coagulation factor X Activator
+
+## Absorption
+
+Subcutaneous administration of Emicizumab presents a very high bioavailability ranging from 80.4% to 93.1% when administered subcutaneously in a dose of 1 mg/kg. 6 In clinical trials, at the same dose, Emicizumab presented a linear exposure which concentration peaked 1-2 weeks after administration and presented a profile framed by a Cmax of 5.92 mcg/ml and an AUC of 304 mcg day/ml. 1 After subcutaneous administration, the absorption half-life was 1.7 days and the pharmacokinetic profile seemed to be shared when the medication was administered in the abdomen, upper arm, and thigh. 13
+
+## Volume Of Distribution
+
+The apparent volume of distribution is 11.4 L when administered subcutaneously and there are reports indicating that this value can increase with increasing body weight. 6 When emicizumab is administered intravenously, the volume of distribution at steady state is 106 ml/kg. 13
+
+## Metabolism
+
+Emicizumab is a monoclonal antibody and thus, it is thought to be internalized in endothelial cells bound to Fc receptor and rescued from metabolism by recycling. Later, they are degraded in the reticuloendothelial system to small peptides and amino acids which can be used for de-novo protein synthesis. 5
+
+## Route Of Elimination
+
+The elimination of Emicizumab was monophasic in clinical trials. 1
+
+## Half Life
+
+Emcicizumab presents a long half-life ranging from 27.8 to 34.4 days. Label , 1
+
+## Clearance
+
+The apparent clearance is 0.24 L/day when administered in multiple subcutaneous injections and there are reports indicating that this value can increase with increasing body weight. 6
+
+## Toxicity
+
+The administration of Emicizumab has reported cases of microangiopathy and thrombotic events with concomitant use of activated prothrombin complex concentrate at doses higher of 100 U/kg/24 hours. There are also reports of injection site reaction, headaches and arthralgia. 10 Genotoxicity and carcinogenicity studies have not been performed as it is not expected that emicizumab can have any interaction with DNA, or chromosomal material. 13

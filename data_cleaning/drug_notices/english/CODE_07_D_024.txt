@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_024
+DCI: Clotrimazole
+DrugBank ID: DB00257
+DrugBank Name: Clotrimazole
+Brand Names: CLOTERMEX | MYCOTEN
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.01
+Packaging: t/20g | t/30g
+Registration Numbers: 400/07 D 024/16 | 406/07 D 024/13
+Drug Codes: 07 D 024
+
+------------------------------------------------------------
+
+## Description
+
+This drug is a broad spectrum antimycotic or antifungal agent. Clotrimazole's antimycotic properties were discovered in the late 1960s 2 . Clotrimazole falls under the imidazole category of azole antifungals, possessing broad-spectrum antimycotic activity 2 . It is available in various preparations, including creams, pessaries, and troche formulations (slowly dissolving tablets). As well as its antifungal activity, clotrimazole has become a drug of interest in treating several other diseases such as sickle cell disease, malaria and some cancers 2 . The minimal side effect profile of this drug and its uncomplicated metabolic profile have led it to gain widespread acceptance for the treatment of mycotic outbreaks such as vaginal yeast infections as well as athlete's foot 3 .
+
+## Pharmacodynamics
+
+Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by changing the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations Label . Unfortunately, resistance to clotrimazole, which was rare in the past, is now common in various patient populations 2 . Clotrimazole is generally considered to be a fungistatic, and not a fungicidal drug, although this contrast is not absolute, as clotrimazole shows fungicidal properties at higher concentrations 2 .
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Antagonist Inhibitor Intermediate conductance calcium-activated potassium channel protein 4 Inhibitor Ergosterol (Candida albicans) Inhibitor
+
+## Absorption
+
+Because clotrimazole is generally not significantly absorbed, drug interactions are not a major issue with its use 2 .
+
+## Volume Of Distribution
+
+The topical form is minimally absorbed in the serum and tissues 12 . Clotrimazole is a lipophilic drug 4 , and has been shown to be secreted in breastmilk in animal studies 12 . There are limited data available regarding the volume of distribution following oral troche administration.
+
+## Metabolism
+
+Hepatic (metabolized to inactive metabolites) 8 .
+
+## Route Of Elimination
+
+Mainly hepatic 8 .
+
+## Toxicity
+
+Symptoms of overdose include erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin, and cramps. As with all topical agents, skin sensitization may result 12 . Oral LD50 (rat) : 708 mg/kg; Intraperitoneal LD50 (rat) : 445 mg/kg; Subcutaneous LDLO (rat) : 10 g/kg; Oral LD50 (mouse) : 761 mg/kg; Subcutaneous LDLO (mouse) : 10 g/kg; Intraperitoneal LD50 (mouse) : 108 mg/kg; 16 Overdose This drug poses no risk of acute intoxication, as it is unlikely to occur following a single vaginal or dermal application of an overdose (application over a large area under conditions favorable to absorption) or accidental oral ingestion. There is no specific antidote 13 . Effects on Fertility No human studies of the effects of clotrimazole on fertility have been conducted; however, animal studies have not shown any effects on the drug on fertility 12 . Use in Pregnancy There are limited data regarding the use of clotrimazole in pregnant women. Animal studies do not show direct or indirect harmful effects on reproduction. Although the topical application of clotrimazole may result in very low serum and tissue levels, the use of clotrimazole topical cream by pregnant women is not recommended unless it is advised by the prescribing physician. Clotrimazole topical cream should not be used in the first trimester of pregnancy unless it is considered by the physician to be essential to patient well-being 12 . Use in Breastfeeding Available pharmacodynamic/toxicological studies in animals have shown excretion of clotrimazole/metabolites in breastmilk. Clotrimazole should not be administered during breastfeeding. Although the topical application of clotrimazole has resulted in very low serum and tissue levels, the use of clotrimazole topical cream by lactating women is not recommended unless it recommended by the prescribing physician 12 .

@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_106
+DCI: Amphotericine B
+DrugBank ID: DB00681
+DrugBank Name: Amphotericin B
+Brand Names: FUNGIZONE | MYTRICINE
+Pharmaceutical Forms: Solution | Suspension
+Dosages: 10% (10g/100ml)
+Packaging: flacon/40ml
+Registration Numbers: 017/13 R 106/96/15 | 304/13 R 106/21
+Drug Codes: 13 R 106
+
+------------------------------------------------------------
+
+## Description
+
+Amphotericin B shows a high order of in vitro activity against many species of fungi. Histoplasma capsulatum, Coccidioides immitis, Candida species, Blastomyces dermatitidis, Rhodotorula, Cryptococcus neoformans, Sporothrix schenckii, Mucor mucedo, and Aspergillus fumigatus are all inhibited by concentrations of amphotericin B ranging from 0.03 to 1.0 mcg/mL in vitro. While Candida albicans is generally quite susceptible to amphotericin B, non-albicans species may be less susceptible. Pseudallescheria boydii and Fusarium sp. are often resistant to amphotericin B. The antibiotic is without effect on bacteria, rickettsiae, and viruses.
+
+## Pharmacodynamics
+
+Amphotericin B shows a high order of in vitro activity against many species of fungi. Histoplasma capsulatum , Coccidioides immitis , Candida species , Blastomyces dermatitidis , Rhodotorula , Cryptococcus neoformans , Sporothrix schenckii , Mucor mucedo , and Aspergillus fumigatus are all inhibited by concentrations of amphotericin B ranging from 0.03 to 1.0 mcg/mL in vitro . While Candida albicans is generally quite susceptible to amphotericin B, non- albicans species may be less susceptible. Pseudallescheria boydii and Fusarium sp. are often resistant to amphotericin B. The antibiotic is without effect on bacteria, rickettsiae, and viruses.
+
+## Mechanism Of Action
+
+Ergosterol (Candida albicans) Binder
+
+## Absorption
+
+Bioavailability is 100% for intravenous infusion.
+
+## Metabolism
+
+Exclusively renal
+
+## Half Life
+
+An elimination half-life of approximately 15 days follows an initial plasma half-life of about 24 hours.
+
+## Clearance
+
+39 +/- 22 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 1 mg/kg/day at Day 1] 17 +/- 6 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 1 mg/kg/day 3-20 days later] 51 +/- 44 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 2.5 mg/kg/day at Day 1] 22 +/- 15 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 2.5 mg/kg/day 3-20 days later] 21 +/- 14 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 5 mg/kg/day at Day 1] 11 +/- 6 mL/hr/kg [febrile neutropenic cancer and bone marrow transplant patients receiving infusion of 5 mg/kg/day 3-20 days later]
+
+## Toxicity
+
+Oral, rat: LD 50 = >5 gm/kg. Amphotericin B overdoses can result in cardio-respiratory arrest.

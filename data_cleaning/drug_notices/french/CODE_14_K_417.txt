@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_K_417
+DCI: ZUCLOPENTHIXOL ACETATE 50 mg/ml sol inj (CLOPIXOL ACTION SEMI-PROLONGEE)
+Brand Names: NUMETZAH G13% E
+Pharmaceutical Forms: Emulsion Pour Perfeusion
+Dosages: 50%/5.9%/12.5%
+Packaging: 10 poches de 300ml de 3 compartiments (80ml + 160ml + 60ml)
+Laboratories: LUNDBECK SAS
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05A - ANTIPSYCHOTIQUES | N05AF - DERIVES DU THIOXANTHENE | N05AF05 - ZUCLOPENTHIXOL
+Registration Numbers: 298/14 K 417/25
+Drug Codes: 14 K 417
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Tue Feb 10 00:00:00 CET 2026 | is_edited: False | title: INDICATIONS | text: Traitement initial des états psychotiques aigus. | Traitement initial des états psychotiques chroniques (schizophrénies, délires chroniques non schizophréniques : délires paranoïaques, psychoses hallucinatoires chroniques). | CLOPIXOL A ACTION SEMI-PROLONGEE est indiqué chez les adultes uniquement
+
+## Posology
+
+Posologie | Unité de prise | ml | zuclopenthixol décanoate : 200 mg | Modalités d'administration | Voie intramusculaire | Administrer dans le muscle fessier | Administrer par voie intramusculaire profonde | Posologie | Patient de 30 mois à 15 an(s) | Patient quel que soit le poids | Trouble sévère du comportement chez l'enfant avec agitation et agressivité | Traitement initial | 100 mg 1 fois ce jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | Respecter un intervalle d'une semaine entre 2 injections | 100 à 200 mg 1 fois ce jour | Traitement ultérieur éventuel | Posologie à adapter en fonction de la réponse clinique | Répartir la dose sur 2 sites si le volume d'injection > 2 ml | 200 à 400 mg en 1 prise ce jour toutes les 2 à 4 semaines | Patient à partir de 15 an(s) | Patient quel que soit le poids | Etat psychotique chronique | Traitement initial | 100 mg 1 fois ce jour | Traitement ultérieur | Posologie à adapter en fonction de la réponse clinique | Respecter un intervalle d'une semaine entre 2 injections | 100 à 200 mg 1 fois ce jour | Traitement ultérieur éventuel | Posologie à adapter en fonction de la réponse clinique | Répartir la dose sur 2 sites si le volume d'injection > 2 ml | 200 à 400 mg en 1 prise ce jour toutes les 2 à 4 semaines
+
+## Precautions
+
+Alcoolisme chronique | Antécédent d'hépatopathie sévère | Bradycardie | Démence sénile | Déshydratation | Diabète | Epilepsie | Grossesse | Hypokaliémie | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Maladie cardiovasculaire sévère | Maladie de Parkinson | Nouveau-né exposé in utero au médicament | Pathologie cérébrale | Patient à risque de diabète | Sujet âgé | Sujet à risque d'accident thromboembolique veineux | Sujet à risque d'accident vasculaire cérébral | Syndrome du QT long congénital | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | III | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Zuclopenthixol : Mécanisme d'action | Le zuclopenthixol est un neuroleptique issu de la famille des thioxanthènes. | Il agit en bloquant les récepteurs dopaminergiques D1 et D2. Il possède en outre des effets atropiniques et sympatholytiques alpha. | Cliniquement, le zuclopenthixol est un neuroleptique qui se caractérise par un effet antipsychotique et antihallucinatoire, ainsi qu'un effet sédatif.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperglycémie | - Neutropénie | - Hyperlipidémie | - Bilan hépatique (anomalie) | - CPK (augmentation) | - Hyperprolactinémie | DERMATOLOGIE: | - Eruption cutanée | - Hyperhidrose | - Prurit | - Erythème cutané | DIVERS: | - Asthénie | - Fièvre | - Hypothermie | ENDOCRINOLOGIE: | - Gynécomastie | - Galactorrhée | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Frigidité | - Aménorrhée | HÉMATOLOGIE: | - Leucopénie | - Agranulocytose | - Thrombopénie | HÉPATOLOGIE: | - Ictère | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | INSTRUMENTATION: | - Réaction au point d'injection | NUTRITION, MÉTABOLISME: | - Poids (variation) | - Anorexie | - Intolérance au glucose | - Trouble de l'appétit | OPHTALMOLOGIE: | - Trouble de l'accommodation | - Trouble de la vision | ORL, STOMATOLOGIE: | - Vertige | - Hyposialie | - Sialorrhée | PSYCHIATRIE: | - Dépression | - Agitation | - Indifférence | - Rêves anormaux | - Trouble orgasmique féminin | - Confusion mentale | - Libido (diminution) | - Insomnie | - Anxiété | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Mort subite | - Allongement de l'espace QT | - Accident thromboembolique veineux | - Tachycardie ventriculaire | - Torsades de pointes | - Malaise | - Syncope | - Hypotension artérielle | - Arrêt cardiaque | SYSTÈME DIGESTIF: | - Vomissement | - Constipation | - Constipation opiniâtre | - Nausée | - Douleur abdominale | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Trismus | - Douleur musculaire | - Torticolis | - Hypertonie musculaire | - Hypotonie musculaire | - Rigidité musculaire | SYSTÈME NERVEUX: | - Hyperréflexie | - Hypertonie | - Crise oculogyre | - Syndrome parkinsonien | - Dyskinésie | - Somnolence | - Tremblement | - Akathisie | - Dyskinésie tardive | - Convulsions | - Hyperkinésie | - Trouble de la marche | - Trouble de l'élocution | - Dystonie | - Syndrome extrapyramidal | - Ataxie | - Hypokinésie | SYSTÈME RESPIRATOIRE: | - Dyspnée | TOXICOLOGIE: | - Syndrome malin des neuroleptiques | - Syndrome de sevrage | - Syndrome de sevrage néonatal | UROLOGIE, NÉPHROLOGIE: | - Priapisme | - Rétention urinaire | - Dysurie | - Trouble de l'érection | - Trouble de l'éjaculation

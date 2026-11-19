@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_110
+DCI: AMOROLFINE (chlorhydrate) 5 % vernis ongl médic (AMOROLFINE ARROW) | Amorolfine Chlorhydrate Exprime En Amorolfine | Amorolfine Hydrochloride
+DrugBank ID: DB09056
+DrugBank Name: Amorolfine
+Brand Names: BIOFERYL | LOCERYL | NOCIRINE
+Pharmaceutical Forms: Vernis A Ongles Medicamenteux
+Dosages: 0.05 | 5%
+Packaging: b/01fl de 2.5ml + 10 spatules | flacon de 2.5 ml | flc 2.5ml avec 10 spatules
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D01 - ANTIFONGIQUES A USAGE DERMATOLOGIQUE | D01A - ANTIFONGIQUES A USAGE TOPIQUE | D01AE - AUTRES ANTIFONGIQUES A USAGE TOPIQUE | D01AE16 - AMOROLFINE
+Registration Numbers: 123/07 D 110/00/15 | 149/07 D 110/20 | 378/07 D 110/23
+Drug Codes: 07 D 110
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Amorolfine is an antifungal agent with fungistatic and fungicidal activity in vitro. 1
+
+## Mechanism Of Action
+
+Amorolfine mediates its antifungal effects by interfering with ergosterol biosynthesis in the fungal cell membrane by inhibiting delta(14)-sterol reductase and cholestenol delta-isomerase. 4 It alters the membrane sterol content, thereby changing the membrane permeability and disrupting metabolic processes. 2 , 3 Target Actions Organism A Delta(14)-sterol reductase ERG24 inhibitor Baker's yeast A C-8 sterol isomerase ERG2 inhibitor Baker's yeast U Sodium channel protein type 7 subunit alpha blocker Humans

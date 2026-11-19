@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_G_048
+DCI: Azelastine Chlorhydrate/Qte Correspondant En Azelastine Base
+DrugBank ID: DB00972
+DrugBank Name: Azelastine
+Brand Names: NASALAST
+Pharmaceutical Forms: Sol. Inj (I.M/I.V)
+Dosages: 0.1000g/0.0910 pour 100ml de solution/une dose de 0.14ml delivre 0.127mg d'azelastine base
+Packaging: flacon/120ml
+Registration Numbers: 263/22 G 048/20
+Drug Codes: 22 G 048
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Azelastine antagonizes the actions of histamine, resulting in the relief of histamine-mediated allergy symptoms. 2 , 10 , 11 Onset of action occurs within 15 minutes with intranasal formulations and as quickly as 3 minutes with ophthalmic solutions. 1 Intranasal formulations have a relatively long-duration of action, with peak effects observed 4-6 hours after the initial dose and efficacy maintained over the entirety of the standard 12 hour dosing interval. 2
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Systemic bioavailability of azelastine hydrochloride following intranasal administration is approximately 40%, reaching Cmax within 2-3 hours. 2 When administered at doses greater than the recommended maximum, greater than proportional increases in both Cmax and AUC were observed.
+
+## Volume Of Distribution
+
+After intravenous and oral administration, the steady-state volume of distribution is 14.5 L/kg. 2 , 10 , 11
+
+## Metabolism
+
+Azelastine hydrochloride is oxidatively metabolized to its main, and biologically active, metabolite desmethylazelastine by the cytochrome P450 enzyme system. 10 , 11 Though labels for azelastine state that specific CYP enzyme involvement has not been elucidated, it has been suggested that the N-demethylation of azelastine is primarily catalyzed by CYP3A4, CYP2D6, and CYP1A2. 4 Hover over products below to view reaction partners Azelastine Desmethylazelastine
+
+## Route Of Elimination
+
+After an oral dose of radio-labeled azelastine hydrochloride, approximately 75% was excreted in the feces, with less than 10% as unchanged azelastine hydrochloride. 2 , 10 , 11
+
+## Half Life
+
+Based on intravenous and oral administration, azelastine demonstrated an elimination half-life of 22 hours. 10 , 11 Its primary active metabolite, desmethylazelastine, has an elimination half-life of 54 hours. 2
+
+## Clearance
+
+Based on intravenous and oral administration, azelastine demonstrated a plasma clearance of 0.5 L/h/kg. 10 , 11 , 6
+
+## Toxicity
+
+Overdosage of intranasal or ophthalmic azelastine is unlikely to result in clinically significant adverse effects aside from increased drowsiness. 10 , 11 If overdose does occur, employ general supportive measures. Oral ingestion of antihistamines, including non-oral formulations of azelastine, can cause serious adverse effects in children - for this reason, these products should be kept out of the reach of children. The oral LD 50 in rats is 580 mg/kg. 12

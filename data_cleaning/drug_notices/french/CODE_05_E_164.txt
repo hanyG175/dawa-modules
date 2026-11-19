@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_E_164
+DCI: FULVESTRANT 250 mg/5 ml sol inj ser préremplie (FULVESTRANT EG) | Fluvestrant
+Brand Names: ERANFU | FASLODEX | FULVESTRANT EVER PHARMA
+Pharmaceutical Forms: Solution
+Dosages: 250mg/5ml | 250mg/sering. de 5ml
+Packaging: b/2 seringue pre-remplies de 5ml
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L02 - THERAPEUTIQUE ENDOCRINE | L02B - ANTIHORMONES ET APPARENTES | L02BA - ANTIESTROGENES | L02BA03 - FULVESTRANT
+Registration Numbers: 256/05 E 164/13 | 536/05 E 164/21 | 579/05 E 164/21
+Drug Codes: 05 E 164
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | seringue | fulvestrant : 250 mg/5 ml | Modalités d'administration | Voie intramusculaire | Administrer en 2 injections dans le muscle fessier, une dans chaque fesse | Administrer par voie intramusculaire lente | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Patient de sexe féminin | Cancer du sein localement avancé HER2 négatif avec récepteurs hormonaux positifs - Cancer du sein localement avancé avec récepteurs hormonaux positifs chez la femme ménopausée - Cancer du sein métastasique HER2 négatif avec récepteurs hormonaux positifs - Cancer du sein métastatique avec récepteurs hormonaux positifs chez la femme ménopausée | Traitement initial | Traitement à renouveler après 2 semaines | 500 mg 1 fois ce jour | Traitement d'entretien | 500 mg 1 fois par mois
+
+## Precautions
+
+Antécédent de thrombopénie | Femme ménopausée | Femme susceptible d'être enceinte | Hémorragie, antécédent (d') | Insuffisance hépatique légère à modérée | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Jeune fille de moins de 18 ans | Maladie viscérale sévère | Préménopause | Sportif | Sujet à risque d'accident thromboembolique | Traitement par anticoagulant en cours
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Fulvestrant : Mécanisme d'action | Le fulvestrant est un antagoniste compétitif des récepteurs aux estrogènes (RE) avec une affinité comparable à l' | estradiol | . Il bloque les actions trophiques des estrogènes sans posséder une quelconque activité agoniste partielle (de type estrogène). | Son mécanisme d'action est associé à une diminution des taux d'expression de la protéine du récepteur aux estrogènes.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Très fréquent) | - Hématocrite (diminution) (Très fréquent) | - Neutrophiles diminués (Très fréquent) | - Enzymes hépatiques (augmentation) (Très fréquent) | - Hémoglobinémie (diminution) (Très fréquent) | - Gamma GT (augmentation) (Peu fréquent) | - Numération plaquettaire diminuée (Fréquent) | - Globules blancs diminués (Très fréquent) | - Bilirubinémie (augmentation) (Fréquent) | - ASAT (augmentation) | - Phosphatases alcalines (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Eruption cutanée toxique (Très fréquent) | - Sécheresse cutanée (Fréquent) | - Rash érythémateux (Très fréquent) | - Dermatite (Très fréquent) | - Eruption acnéiforme (Très fréquent) | - Eruption cutanée (Très fréquent) | - Eruption papuleuse (Très fréquent) | - Eruption maculopapuleuse (Très fréquent) | - Eruption prurigineuse (Très fréquent) | - Alopécie (Très fréquent) | DIVERS: | - Asthénie (Très fréquent) | - Fièvre (Très fréquent) | - Fatigue (Très fréquent) | - Douleur des extrémités | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Leucorrhée (Peu fréquent) | - Hémorragie vaginale (Fréquent) | HÉMATOLOGIE: | - Leucopénie (Très fréquent) | - Thrombopénie (Très fréquent) | - Neutropénie fébrile (Peu fréquent) | - Anémie (Très fréquent) | HÉPATOLOGIE: | - Insuffisance hépatique (Peu fréquent) | - Hépatite (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très fréquent) | - Réaction anaphylactique (Peu fréquent) | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose vaginale (Peu fréquent) | INFECTIOLOGIE NON PRECISÉE: | - Infection (Très fréquent) | INSTRUMENTATION: | - Hématome au site d'injection (Peu fréquent) | - Réaction au point d'injection (Très fréquent) | - Hémorragie au point d'injection (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Appétit diminué (Très fréquent) | - Anorexie (Fréquent) | OPHTALMOLOGIE: | - Vision floue (Fréquent) | - Hypersécrétion lacrymale (Fréquent) | - Hyposécrétion lacrymale (Fréquent) | ORL, STOMATOLOGIE: | - Glossodynie (Très fréquent) | - Dysgueusie (Fréquent) | - Stomatite aphteuse (Très fréquent) | - Glossite (Très fréquent) | - Ulcération buccale (Très fréquent) | - Epistaxis (Fréquent) | - Douleur buccale (Très fréquent) | - Chéilite (Très fréquent) | - Douleur oropharyngée (Très fréquent) | - Stomatite (Très fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Accident thromboembolique veineux (Fréquent) | - Bouffée de chaleur (Très fréquent) | SYSTÈME DIGESTIF: | - Vomissement (Fréquent) | - Nausée (Très fréquent) | - Diarrhée (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Dorsalgie (Fréquent) | - Douleur musculo-squelettique (Très fréquent) | - Douleur articulaire (Très fréquent) | - Sciatique (Fréquent) | - Douleur musculaire | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Névralgie (Peu fréquent) | - Neuropathie périphérique (Fréquent) | SYSTÈME RESPIRATOIRE: | - Gêne oropharyngée (Très fréquent) | UROLOGIE, NÉPHROLOGIE: | - Infection des voies urinaires (Fréquent)

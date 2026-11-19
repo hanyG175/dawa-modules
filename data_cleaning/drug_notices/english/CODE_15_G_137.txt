@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_137
+DCI: CLADRIBINE 10 mg cp (MAVENCLAD) | Cladribine
+DrugBank ID: DB00242
+DrugBank Name: Cladribine
+Brand Names: MARVYL | MAVENCLAD
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: b/01 b/04 b/06
+Laboratories: MERCK SERONO
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01B - ANTIMETABOLITES | L01BB - ANALOGUES DE LA PURINE | L01BB04 - CLADRIBINE
+Registration Numbers: 001/15 G 137/25 | 557/15 G 137/23
+Drug Codes: 15 G 137
+
+------------------------------------------------------------
+
+## Description
+
+Cladribine is a purine analogue or a chlorinated derivative of adenine 6 that causes apoptosis of B and T lymphocytes. 1 Cladribine was first approved in the United States in 1993 2 initially as a treatment for a number of hematological malignancies; currently, it is approved for the treatment of hairy cell leukemia. 6 In 2017 in Europe and in 2019 in the United States, cladribine was also approved for the treatment multiple sclerosis. 3
+
+## Pharmacodynamics
+
+Cladribine is an antineoplastic agent with cytotoxic effects on actively dividing and quiescent B and T lymphocytes and monocytes. 7 , 8 It produces a dose-dependent reduction in lymphocyte count. 7 Because cladribine is resistant to deamination by adenosine deaminase (ADA), a purine-degrading enzyme, it is reported to have a prolonged intracellular residence time. 1 , 4 Following oral administration, the lowest absolute lymphocyte counts occurred approximately 2 to 3 months after the start of each treatment cycle and were lower with each additional treatment cycle. At the end of Year 2, 2% of patients continued to have absolute lymphocyte counts less than 500 cells per microliter. The median time to recovery from lymphocyte counts less than 500 cells per microliter to at least 800 cells per microliter was approximately 28 weeks. 7
+
+## Mechanism Of Action
+
+Ribonucleoside-diphosphate reductase large subunit Inhibitor Ribonucleoside-diphosphate reductase subunit M2 Inhibitor Ribonucleoside-diphosphate reductase subunit M2 B Inhibitor + 7 more targets
+
+## Absorption
+
+Oral bioavailability is approximately 40%. 7 Following the oral administration of 10 mg cladribine, the mean maximum concentration (C max ) was in the range of 22 to 29 ng/ mL, and the corresponding mean AUC was in the range of 80 to 101 ng x h/mL. 7 The C max and AUC of cladribine increased proportionally across a dose range from 3 to 20 mg. 7 Under fasted conditions, the median time to maximum concentration (T max ) was 0.5 h (range 0.5 to 1.5 hours). 7 A high-fat meal decreased C max by 29% and delayed T max to 1.5 hours (range one to three hours), but this difference is not expected to be clinically significant. 7 Following a cladribine injection given by continuous infusion over seven days, the mean steady-state serum concentration was estimated to be 5.7 ng/mL. 8
+
+## Volume Of Distribution
+
+In general, the apparent volume of distribution of cladribine is approximately 9 L/kg, indicating an extensive distribution in body tissues. 8 In patients with hematologic malignancies who received a two-hour infusion of cladribine injection at a dose of 0.12 mg/kg, the mean steady-state volume of distribution was 4.5 ± 2.8 L/kg. 8 Following oral administration, the mean apparent volume of distribution ranges from 480 to 490 L. 7 Cladribine penetrates into cerebrospinal fluid. One report indicates that concentrations are approximately 25% of those in plasma. 8 A cerebrospinal fluid:plasma concentration ratio of approximately 0.25 was observed in cancer patients. 7
+
+## Metabolism
+
+Cladribine is a prodrug that is phosphorylated to cladribine monophosphate (Cd-AMP, 2-chlorodeoxyadenosine monophosphate) by deoxycytidine kinase and mitochondrial deoxyguanosine kinase in lymphocytes. Cd-AMP is further phosphorylated to cladribine diphosphate (Cd-ADP, 2-chlorodeoxyadenosine diphosphate) and the active moiety Cd-ATP. The dephosphorylation and deactivation of Cd-AMP is catalyzed by cytoplasmic 5’-nucleotidase (5’-NTase). The metabolism of cladribine in whole blood has not been fully characterized; however, extensive whole blood and negligible hepatic enzyme metabolism was observed, in vitro. 7 Hover over products below to view reaction partners Cladribine Cladribine 5'-monophosphate Cladribine diphosphate Cladribine triphosphate
+
+## Route Of Elimination
+
+An average of 18% of the administered dose has been reported to be excreted in the urine of patients with solid tumours during a five-day continuous intravenous infusion of 3.5 to 8.1 mg/m 2 /day of cladribine injection. 8 Following oral administration of 10 mg cladribine in patients with MS, about 28.5% of the dose was excreted unchanged via the renal route. Renal clearance exceeded the glomerular filtration rate, indicating active renal secretion of cladribine. 7
+
+## Half Life
+
+Cladribine plasma concentration after intravenous administration declines multi-exponentially with an average half-life of 6.7 +/- 2.5 hours. 8 Following oral administration, the terminal half-life is approximately one day. 7 The intracellular half-life is 15 hours for Cd-AMP and 10 hours for Cd-ATP. 7
+
+## Clearance
+
+In patients with hematologic malignancies who received a two-hour infusion of cladribine injection at a dose of 0.12 mg/kg, the mean clearance was 978 ± 422 mL/h/kg. 8
+
+## Toxicity
+
+Intraperitoneal LD 50 is 150 mg/kg in mice. 9 High doses of cladribine have been associated with irreversible neurologic toxicity (paraparesis/quadriparesis), acute nephrotoxicity, and severe bone marrow suppression resulting in neutropenia, anemia, and thrombocytopenia. 8 Lymphopenia may also occur, which is known to be dose-dependent. 7 There is no known antidote to cladribine overdosage; thus, treatment of overdosage consists of drug discontinuation, careful observation, and appropriate supportive measures. 8 Although it is not known whether cladribine can be removed from the circulation by dialysis or hemofiltration, because of its rapid and extensive intracellular and tissue distribution, hemodialysis is unlikely to eliminate cladribine to a significant extent. 7

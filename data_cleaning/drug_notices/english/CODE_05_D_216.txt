@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_216
+DCI: Blinatumomab
+DrugBank ID: DB09052
+DrugBank Name: Blinatumomab
+Brand Names: BLINCYTO
+Pharmaceutical Forms: Poudre
+Dosages: 35mcg
+Packaging: b/01 flc a dose unique de blinatumomab 35 mcg pour injection et un flac en verre a dose unique de 10ml de stabilisant
+Registration Numbers: 481/05 D 216/19/24
+Drug Codes: 05 D 216
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Blinatumomab promoted peripheral T-cell redistribution at the start of infusion or dose escalation. In most patients, T-cell counts were lower in the first 1-2 days of treatment and returned to baseline levels within 7-14 days. An increase in T-cell levels, also known as T-cell expansion, was observed in a few patients. In the first treatment cycle, blinatumomab doses higher than ≥ 5 mcg/m2/day or ≥ 9 mcg/day decreased peripheral B-cell counts to 10 cells/microliter or less. During the blinatumomab-free period between treatment cycles (2 weeks), peripheral B-cell counts did not recover. The use of blinatumomab may lead to an elevation of IL-6, IL-10, and IFN-γ; however, cytokine levels return to baseline within 24 to 48 hours. 6 Blinatumomab may lead to the development of cytokine release syndrome, neurological toxicities, infections, tumor lysis syndrome, neutropenia and febrile neutropenia, pancreatitis, leukoencephalopathy and transient elevations in liver enzymes. The use of blinatumomab can also affect a patient’s ability to drive and use machines. 6
+
+## Mechanism Of Action
+
+B-lymphocyte antigen CD19 Antibody Activator Regulator T-cell surface glycoprotein CD3 delta chain Antibody Activator
+
+## Absorption
+
+In adult patients, the pharmacokinetic profile of blinatumomab appears to be linear between 5 to 90 mcg/m 2 /day (equivalent to 9 to 162 mcg/day). The steady-state serum concentration (C ss ) of blinatumomab was achieved within a day of continuous intravenous infusion, and in the range tested, the mean C ss was approximately dose-proportional. At the clinical doses for the treatment of relapsed or refractory acute lymphoblastic leukemia (9 mcg/day and 28 mcg/day), the C ss was 228 (356) pg/mL and 616 (537) pg/mL, respectively. 6
+
+## Volume Of Distribution
+
+Blinatumomab has a volume of distribution based on terminal phase of 4.35 L. 6
+
+## Metabolism
+
+The metabolic pathway of blinatumomab has not been characterized. As a monoclonal antibody, blinatumomab is expected to be metabolized into small peptides and amino acids via catabolic pathways. 6
+
+## Route Of Elimination
+
+At clinical doses, negligible amounts of blinatumomab were excreted in the urine. 6
+
+## Half Life
+
+Blinatumomab has a half-life of 2.10 hours. In pediatric patients, the half-life was 2.19 hours in the first cycle of blinatumomab at the recommended dose. 6
+
+## Clearance
+
+Blinatumomab has an estimated systemic clearance of 3.11 L/hour in patients receiving blinatumomab with continuous intravenous infusion. There is a 2-fold difference in clearance values between patients with normal renal function and those with moderate renal impairment. Pediatric patients had an estimated clearance of 1.88 L/hour/m 2 in the first cycle of blinatumomab at the recommended dose. 6
+
+## Toxicity
+
+Blinatumomab overdose cases have been reported, including a patient that received 133-fold the recommended therapeutic dose over a short period of time. In a study that included pediatric and adolescent patients with relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL), a patient receiving 30 mcg/m2/day of blinatumomab (higher than the maximum tolerated dose) experienced a fatal cardiac failure event in the setting of life-threatening cytokine release syndrome (CRS). 6 The adverse reactions observed during blinatumomab overdoses included fever, tremors, and headache, consistent with those observed at the recommended dose. If a patient is experiencing an overdose, the blinatumomab product label recommends to interrupt the infusion, monitor the patient for signs of adverse reactions, and provide supportive care. Re-initiating blinatumomab at the recommended dose should be considered after all adverse reactions have been resolved and no earlier than 12 hours after the infusion is interrupted. 6 The carcinogenic, genotoxic, and fertility effects of blinatumomab have not been evaluated. 6

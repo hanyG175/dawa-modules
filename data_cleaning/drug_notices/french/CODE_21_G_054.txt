@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_G_054
+DCI: RALOXIFENE CHLORHYDRATE 60 mg cp (RALOXIFENE ARROW)
+Brand Names: EVIFEN
+Pharmaceutical Forms: Comprimé
+Dosages: 60mg
+Packaging: b/30
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03X - AUTRES HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03XC - MODULATEURS SELECTIFS DES RECEPTEURS AUX ESTROGENES | G03XC01 - RALOXIFENE
+Registration Numbers: 352/21 G 054/15
+Drug Codes: 21 G 054
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | raloxifène chlorhydrate : 60 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Assurer une supplémentation en calcium et en vitamine D en cas d'apports alimentaires insuffisants | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe féminin | Ostéoporose post-ménopausique avérée, traitement préventif des fractures (de l') | Posologie standard | 1 comprimé 1 fois par jour
+
+## Precautions
+
+Accident vasculaire cérébral ischémique | Antécédent d'accident vasculaire cérébral | Cancer du sein | Enfant de moins de 15 ans | Fibrillation auriculaire | Hypertriglycéridémie, antécédent | Immobilisation prolongée | Insuffisance rénale légère à modérée | Sportif | Sujet à risque d'accident thromboembolique veineux | Sujet à risque d'accident vasculaire cérébral
+
+## Mechanism Of Action
+
+Raloxifène : Mécanisme d'action | En tant que modulateur sélectif de l'activation des récepteurs aux oestrogènes (MoSARE/SERM), le raloxifène possède des activités agonistes ou antagonistes sélectives sur les tissus sensibles aux oestrogènes. Il agit comme un agoniste sur l'os, partiellement sur le métabolisme du | cholestérol | (réduction du | cholestérol | total et du LDL- | cholestérol | ), mais pas sur l'hypothalamus ou l'utérus ou le sein. | Les effets biologiques du raloxifène, comme ceux des oestrogènes, résultent d'une liaison de haute affinité aux récepteurs aux oestrogènes et d'une régulation de l'expression génique. Cette liaison entraîne des expressions différentes des nombreux gènes régulés par les oestrogènes dans différents tissus. Des données récentes suggèrent que le récepteur aux oestrogènes peut réguler l'expression génique par au moins deux voies distinctes qui sont spécifiques au ligand, au tissu et/ou au gène.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ASAT (augmentation) | - Numération plaquettaire diminuée | - ALAT (augmentation) | DERMATOLOGIE: | - Eruption cutanée (Fréquent) | DIVERS: | - Syndrome pseudogrippal (Très fréquent) | - Oedème périphérique (Fréquent) | - Décès | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Affection mammaire (Fréquent) | - Volume mammaire (augmentation) | - Hémorragie utérine | - Mastodynie | - Douleur mammaire | HÉMATOLOGIE: | - Thrombopénie (Peu fréquent) | HÉPATOLOGIE: | - Lithiase biliaire | - Cholécystectomie | OPHTALMOLOGIE: | - Thrombose de la veine rétinienne | SYSTÈME CARDIOVASCULAIRE: | - Pression artérielle (augmentation) (Très fréquent) | - Accident thromboembolique veineux (Peu fréquent) | - Vasodilatation (Très fréquent) | - Accident thromboembolique artériel (Peu fréquent) | - Thrombophlébite superficielle | - Bouffée de chaleur | - Thrombophlébite profonde | - Embolie pulmonaire | SYSTÈME DIGESTIF: | - Trouble digestif (Très fréquent) | - Vomissement | - Nausée | - Douleur abdominale | - Dyspepsie | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampes des membres inférieurs (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Accident vasculaire cérébral (Peu fréquent) | - Migraine

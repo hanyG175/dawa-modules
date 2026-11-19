@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_023
+DCI: Piroxicam
+Brand Names: PIROXICAM PHYSIOPHARM
+Pharmaceutical Forms: Comp. Dispers.
+Dosages: 20MG
+Packaging: B/10
+Laboratories: PHYSIOPHARM SARL
+Countries: ALGERIE
+Reference Tariff (DA): 143 DA
+Prescription List: Liste I
+ATC Classification: 04B022
+Registration Numbers: 263/04 B 023/06/24 | 400/04 B 023/17
+Drug Codes: 04 B 023
+
+------------------------------------------------------------
+
+## Indications
+
+ANTI-INFLAMMATOIRES
+
+## Mechanism Of Action
+
+ANTI-INFLAMMATOIRES NON STEROIDIENS

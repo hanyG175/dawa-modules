@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_209
+DCI: Carvedilol
+Brand Names: CARVEDILOL LDM
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 25MG
+Packaging: B/30
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: ALGERIE
+Reference Tariff (DA): 1210 DA
+PPA (DA): 1204.00 DA
+Prescription List: Liste I
+ATC Classification: 06F209
+Registration Numbers: 309/06 F 209/07/22 | 352/06 F 209/10/25 | 380/06 F 209/23
+Drug Codes: 06 F 209
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+BETA-BLOQUANTS

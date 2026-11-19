@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_012
+DCI: Phenobarbital** (Sous Forme Sodique)
+DrugBank ID: DB01174
+DrugBank Name: Phenobarbital
+Brand Names: GARDENAL
+Pharmaceutical Forms: Lyoph. Et Solv.Pour .Sol.Inj
+Dosages: 40mg/fl. de lyoph.**
+Packaging: b/1fl. de lyoph. + 1amp. de 2ml de solv. (eppi)
+Registration Numbers: 666/15 A 012/96/25
+Drug Codes: 15 A 012
+
+------------------------------------------------------------
+
+## Description
+
+A barbituric acid derivative that acts as a nonselective central nervous system depressant. It promotes binding to inhibitory gamma-aminobutyric acid subtype receptors, and modulates chloride currents through receptor channels. It also inhibits glutamate induced depolarizations.
+
+## Pharmacodynamics
+
+Phenobarbital, the longest-acting barbiturate, is used for its anticonvulsant and sedative-hypnotic properties in the management of all seizure disorders except absence (petit mal).
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit alpha-1 Potentiator
+
+## Absorption
+
+Absorbed in varying degrees following oral, rectal or parenteral administration. The salts are more rapidly absorbed than are the acids. The rate of absorption is increased if the sodium salt is ingested as a dilute solution or taken on an empty stomach.
+
+## Metabolism
+
+Hepatic (mostly via CYP2C19). Hover over products below to view reaction partners Phenobarbital p-Hydroxyphenobarbital Phenobarbital O-glucuronide Phenobarbital O-sulfate
+
+## Half Life
+
+53 to 118 hours (mean 79 hours)
+
+## Toxicity
+
+CNS and respiratory depression which may progress to Cheyne-Stokes respiration, areflexia, constriction of the pupils to a slight degree (though in severe poisoning they may wshow paralytic dilation), oliguria, tachycardia, hypotension, lowered body temperature, and coma. Typical shock syndrome (apnea, circulatory collapse, respiratory arrest, and death) may occur.

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_507
+DCI: Dolutegravir/Abacavir/Lamivudine
+DrugBank ID: DB08930
+DrugBank Name: Dolutegravir
+Brand Names: TRIUMEQ
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg/600mg/300mg
+Packaging: flacon de 30
+Registration Numbers: 305/13 P 507/22
+Drug Codes: 13 P 507
+
+------------------------------------------------------------
+
+## Description
+
+Dolutegravir is an HIV-1 integrase inhibitor that blocks the strand transfer step of the integration of the viral genome into the host cell (INSTI). 1 The effect of this drug has no homology in human host cells, which gives it excellent tolerability and minimal toxicity. 11 Dolutegravir was developed by ViiV Healthcare and FDA-approved on August 12, 2013. 16 On November 21, 2017, dolutegravir, in combination with rilpivirine, was approved as part of the first complete treatment regimen with only two drugs for the treatment of adults with HIV-1 named Juluca. 17
+
+## Pharmacodynamics
+
+HIV-1 infected subjects on dolutegravir monotherapy demonstrated rapid and dose-dependent reduction of antiviral activity with declines of HIV-1 RNA copies per ml. The antiviral response was maintained for 3 to 4 days after the last dose. 3 The sustained response obtained in clinical trials indicates that dolutegravir has a tight binding and longer dissociative half-life providing it a high barrier to resistance. 15 The combination therapy (ripivirine and dolutegravir) presented the same viral suppression found in previous three-drug therapies without integrase strand transfer inhibitor mutations or rilpivirine resistance. 18
+
+## Mechanism Of Action
+
+Gag-Pol polyprotein (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+When 50 mg of dolutegravir once daily was orally administered to HIV-1 infected adults, the AUC, Cmax, and Cmin is 53.6 mcg h/mL, 3.67 mcg/mL, and 1.11 mcg/mL, respectively. The peak plasma concentration was observed 2 to 3 hours post-dose. Steady state is achieved within approximately 5 days with average accumulation ratios for AUC, Cmax, and C24h ranging from 1.2 to 1.5. When 50 mg once daily is given to pediatric patients (12 to < 18 years and weighing ≥40 kg) the Cmax, AUC, and C24 is 3.49 mcg/mL, 46 mcg.h/mL, and 0.90 mcg/mL respectively. 1
+
+## Volume Of Distribution
+
+The administration of a dose of 50 mg of dolutegravir presents an apparent volume of distribution of 17.4 L. The median dolutegravir concentration in CSF was 18 ng/mL after 2 weeks of treatment. 1
+
+## Metabolism
+
+Dolutegravir is highly metabolized through three main pathways and it forms no long-lived metabolites. The first pathway is defined by the glucuronidation by UGT1A1, the second pathway by carbon oxidation by CYP3A4 and the third pathway is what appears to be a sequential oxidative defluorination and glutathione conjugation. The main metabolite found in blood plasma is the ether glucuronide form (M2) and its chemical properties disrupt its ability to bind metal ions, therefore, it is inactive. 12 Hover over products below to view reaction partners Dolutegravir ether glucuronide dolutegravir (M2) hydroxilated form of dolutegravir (M3) 2,4- difluorobenzaldehyde (M5 dolutegravir) + hydrolized form of dolutegravir (M1) defluorinated and gutathione conjugated form of dolutegravir (M4.1) defluorinated and gutathione conjugated form of dolutegravir (M4.2)
+
+## Route Of Elimination
+
+When a single oral dose of dolutegravir is given, nearly all complete dose is recovered in a proportion of 53% excreted unchanged in the feces and 31% excreted in urine. The renal eliminated recovered dose consists of ether glucuronide of dolutegravir (18.9%), a metabolite formed by oxidation at the benzylic carbon (3.0%), a hydrolytic N-dealkylation product (3.6%) and unchanged drug (< 1%). 12
+
+## Half Life
+
+The half-life of dolutegravir is 14 hours. 1
+
+## Clearance
+
+The apparent clearance rate of dultegravir is 1.0 L/h. Label
+
+## Toxicity
+
+Data from an ongoing birth outcome surveillance study has identified an increased risk of neural tube defects when dolutegravir is administered at the time of conception. As defects related to the closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk. Advise adolescents and adults of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with the use of TIVICAY and TIVICAY PD. Assess the risks and benefits of TIVICAY and TIVICAY PD and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester. A benefit-risk assessment should consider factors such as the feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in-utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precautions (5.3)]. There are insufficient human data on the use of dolutegravir during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage. The background risk for major birth defects for the indicated population is unknown. In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD) of TIVICAY (see Data). There is no known specific treatment for an overdose with TIVICAY or TIVICAY PD. If an overdose occurs, the patient should be monitored, and standard supportive treatment applied as required. As dolutegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by dialysis.

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_226
+DCI: TRIMETAZIDINE DICHLORHYDRATE 35 mg cp LP (TRIMETAZIDINE MYLAN)
+DrugBank ID: DB09069
+DrugBank Name: Trimetazidine
+Brand Names: RIMETAZE LM | VASTAREL
+Pharmaceutical Forms: Comprimé
+Dosages: 35mg
+Packaging: b/60
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01E - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB15 - TRIMETAZIDINE
+Registration Numbers: 040/06 J 226/07/24 | 235/06 J 226/11/24
+Drug Codes: 06 J 226
+
+------------------------------------------------------------
+
+## Description
+
+Trimetazidine is a piperazine derivative indicated for the symptomatic treatment of stable angina pectoris in patients inadequately controlled or intolerant to first line therapies. 9 Trimetazidine has been studied as a treatment for angina pectoris since the late 1960s. 7 , 8 Acidic conditions, caused by anaerobic metabolism and fatty acid oxidation, in response to myocardial ischemia, activate sodium-hydrogen and sodium-calcium antiport systems. 5 The increased intracellular calcium decreases contractility. 5 It is hypothesized that trimetazidine inhibits 3-ketoacyl coenzyme A thiolase, which decreases fatty acid oxidation but not glucose metabolism, preventing the acidic conditions that exacerbate ischemic injury. 1 , 10 However, evidence for this mechanism is controversial. 5 Trimetazidine is not FDA approved. However, it has been approved in France since 1978. 10
+
+## Pharmacodynamics
+
+Trimetazidine is indicated for the symptomatic treatment of stable angina pectoris in patients inadequately controlled or intolerant to first line therapies. 9 Patients should be counselled regarding the risk of use with reduced renal or hepatic function, worsening of extrapyramidal symptoms or other movement disorders, and risk of falls. 10
+
+## Mechanism Of Action
+
+During myocardial ischemia, anaerobic metabolism takes over, increasing levels of lactic acid. 5 The decreased intracellular pH and increased concentration of protons activates sodium-hydrogen and sodium-calcium antiport systems, raising intracellular calcium concentrations, finally leading to decreased contractility. 5 This injury to the myocardium raises concentrations of catecholamines, which activate hormone sensitive lipase, and increasing fatty acid concentrations in plasma. 5 When the myocardium is repurfused, fatty acid oxidation becomes the dominant form of ATP production, maintaining an acidic pH, and further exacerbating the injury. 5 The mechanism of action of trimetazidine is not fully understood. 5 Trimetazidine may inhibit mitochondrial 3-ketoacyl coenzyme A thiolase, decreasing long chain fatty acid β-oxidation but not glycolysis in the myocardium. 1 , 10 The decreased long chain fatty acid β-oxidation is compensated for by increased use of glucose, preventing a lowered myocardial pH, and further decreases in contractility. 1 , 10 However, another study suggests that 3-ketoacyl coenzyme A thiolase may not be trimetazidine's target, and that this mechanism may be incorrect. 5 Target Actions Organism U 3-ketoacyl-CoA thiolase, mitochondrial inhibitor Humans
+
+## Absorption
+
+In elderly patients, a 35 mg oral modified release tablet reaches a mean C max of 115 µg/L, with a T max of 2.0-5.0 hours, and a mean AUC 0-12 of 1104 h*µg/L. 3 In young, healthy patients, the same dose reaches a mean C max of 91.2 µg/L, with a T max of 2.0-6.0 hours, and an AUC 0-12h 720 h*µg/L. 3
+
+## Volume Of Distribution
+
+The volume of distribution of trimetazidine is 4.8 L/kg. 9
+
+## Metabolism
+
+Trimetazidine can be oxidized at the piperazine ring to form trimetazidine ketopiperazine. 6 Trimetazidine can also be N-formylated, N-acetylated, or N-methylated at the piperazine ring to form N-formyltrimetazidine, N-acetyltrimetazidine, and N-methyltrimetazidine respectively. 6 Alternatively, trimetazidine can be demethylated at the 2, 3, or 4 position of the 2,3,4-trimethoxybenzyl moiety to form 2-desmethyltrimetazidine, 3-desmethyltrimetazidine, or 4-desmethyltrimetazidine. 6 The desmethyltrimetazidine metabolites can undergo sulfate conjugation or glucuronidation prior to elimination. 6 Hover over products below to view reaction partners Trimetazidine Trimetazidine Ketopiperazine N-formyl Trimetazidine N-acetyltrimetazidine N-methyltrimetazidine 2-desmethyltrimetazidine + 3-desmethyltrimetazidine + 4-desmethyltrimetazidine 4-desmethyltrimetazidine O-glucuronide 4-desmethyltrimetazidine O-sulphate 3-desmethyltrimetazidine O-glucuronide 3-desmethyltrimetazidine O-sulphate 2-desmethyltrimetazidine O-glucuronide 2-desmethyltrimetazidine O-sulphate
+
+## Route Of Elimination
+
+Trimetazidine is 79-84% eliminated in the urine, with 60% as the unchanged parent compound. 3 , 9 In a study of 4 healthy subjects, individual metabolites made up 0.01-1.4% of the dose recovered in urine. 6 In the urine, 2-desmethyltrimetazidine made up 0-1.4% of the recovered dose, 3- and 4-desmethyltrimetazidine made up 0.039-0.071% each, N-methyltrimetazidine made up 0.015-0.11%, trimetazidine ketopiperazine made up 0.011-0.4%, N-formyltrimetazidine made up 0.035-0.42%, N-acetyltrimetazidine made up 0.016-0.19%, desmethyl trimetazidine O-sulphate made up 0.01-0.65%, and an unknown metabolite made up0.026-0.67%. 6
+
+## Half Life
+
+In young, healthy subjects, the half life of trimetazidine is 7.81 hours. 3 , 9 In patients over 65, the half life increases to 11.7 hours. 3 , 9
+
+## Clearance
+
+Trimetazidine clearance is strongly correlated with creatinine clearance. 9 In eldery patients with a creatinine clearance of 72 ± 8 mL/min, trimetazidine clearance was 15.69 L/h. 3 In young, healthy patients with a creatinine clearance of 134 ± 18 mL/min, trimetazidine clearance was 25.2 L/h. 3
+
+## Toxicity
+
+Data regarding overdoses of trimetazidine are not readily available. 9 Treat overdoses with symptomatic and supportive therapy. 9 The oral LD 50 in rats is 1700 mg/kg, and in mice is 1550 mg/kg. 11 The subcutaneous LD 50 in rats is 1500 mg/kg, and in mice is 410 mg/kg. 11

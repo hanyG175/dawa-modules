@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_E_158
+DCI: Hexamidine (Sous Forme De Di-Isethionate)**
+Brand Names: DESOMEDINE
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.1%**
+Packaging: flacon/10ml
+Laboratories: LABORATOIRE CHAUVIN | 416 RUE SAMUEL MORSE – CS 99535 | 34961 MONTPELLIER
+ATC Classification: S01AX08
+Registration Numbers: 096/17 E 158/08/16
+Drug Codes: 17 E 158
+
+------------------------------------------------------------
+
+## Indications
+
+Infections bactériennes de l'œil et de ses annexes à germes sensibles telles que : conjonctivites, kératoconjonctivites, blépharites, dacryocystites.
+
+## Posology
+
+Posologie | Instillations oculaires : 1 goutte 4 à 6 fois par jour, en fonction des exigences thérapeutiques. | Le passage systémique peut être réduit par une occlusion nasolacrymale ou par la fermeture des paupières pendant 2 minutes. Cette méthode peut contribuer à diminuer les effets indésirables systémiques et à augmenter l’efficacité locale. | Population pédiatrique | Les données de sécurité et d’efficacité de DESOMEDINE 0,1 %, collyre en solution dans la population pédiatrique sont limitées (voir rubrique 5.1). | Mode d’administration | Voie ophtalmique. Ce médicament doit être appliqué dans le sac conjonctival. | La durée totale du traitement ne doit pas dépasser 8 jours (voir rubrique 4.4). | En cas d’utilisation concomitante de plusieurs collyres, les instillations de chacun des collyres doivent être espacées d'au moins 15 minutes.
+
+## Contraindications
+
+Hypersensibilité à la substance active, aux diamidines ou à l’un des excipients mentionnés à la rubrique 6.1.
+
+## Precautions
+
+Mises en garde spéciales | Risque d'allergie. | Eviter les traitements de longue durée ou fréquemment répétés en raison du risque d’apparition de souches résistantes. | L'hexamidine, comme tout cationique, est incompatible avec les anioniques (voir rubrique 4.5). | Le port de lentilles de contact est contre-indiqué pendant toute la durée du traitement | Population pédiatrique | DESOMEDINE 0,1%, collyre en solution ne doit pas être considéré comme traitement prophylactique de la conjonctive chez le nouveau-né. | Compte-tenu de la présence de borax et d'acide borique, ce médicament ne doit pas être administré à un enfant de moins de 2 ans, à une posologie supérieure à 5 gouttes/œil/jour, car il peut nuire à sa fertilité future.
+
+## Interactions
+
+Associations déconseillées | Compte tenu des interférences médicamenteuses possibles (antagonisme, inactivation) notamment avec les composés anioniques, l’emploi simultané ou successif d’autres antiseptiques est déconseillé.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n’existe pas de données cliniques concernant l’utilisation de l’hexamidine chez la femme enceinte. Les données chez l’animal sont insuffisantes pour permettre de conclure sur la toxicité de la reproduction (voir rubrique 5.3). Compte-tenu de l’utilisation de ce médicament par voie ophtalmique, une exposition négligeable à l’hexamidine est attendue. Par conséquent, DESOMEDINE 0,1%, collyre en solution peut être utilisé pendant la grossesse si nécessaire. | Allaitement | Compte-tenu de l’utilisation de ce médicament par voie ophtalmique, une exposition négligeable à l’hexamidine est attendue. Par conséquent, DESOMEDINE 0,1%, collyre en solution peut être utilisé pendant l’allaitement si nécessaire. | Fertilité | Il n’existe pas d’études non cliniques suffisantes pour évaluer un impact de l’hexamidine sur la fertilité chez l’animal. Il n’y a pas de données sur les effets de l’hexamidine sur la fertilité chez l’Homme.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : Antiseptique, code ATC : S01AX08 | L'hexamidine (appartenant à la famille des diamidines) est un agent antibactérien cationique et présente des propriétés tensioactives. | In vitro , son activité s'exerce sur les bactéries Gram + et n’est pas inhibée par le pus, le sérum et les débris organiques, ainsi que sur les deux formes (trophozoïtes et kystes) des amibes de type Acanthamoeba. | DESOMEDINE est un collyre sans conservateur, en solution conditionné dans un récipient multidose. | Population pédiatrique | Un large spectre d’organismes pathogènes est associé à la conjonctivite bactérienne chez les adultes et les enfants. Les données de la littérature existantes montrent que, comme chez les adultes, les agents pathogènes les plus fréquemment associés à la conjonctivite bactérienne chez les enfants sont des bactéries Gram-positives ( i.e, Staphylococci et Streptococci spp).
+
+## Adverse Effects
+
+· Résumé du profil de sécurité : | L'hexamidine peut provoquer des réactions d'hypersensibilité. | · Liste des effets indésirables : | Les événements indésirables sont classés selon les catégories de fréquence suivantes : très fréquent (≥ 1/10) ; fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1 000, < 1/100) ; rare (≥ 1/10 000, < 1/1 000) ; très rare (< 1/10 000) ; fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Affections du système immunitaire | Fréquence indéterminée (ne peut être estimée sur la base des données disponibles) : | Réactions d’hypersensibilité (irritation ou sensibilisation). | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C. | Ce médicament ne doit pas être conservé plus de 30 jours après ouverture du flacon. | Noter la date d’ouverture en clair sur l’emballage.

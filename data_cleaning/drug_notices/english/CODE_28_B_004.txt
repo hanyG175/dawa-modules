@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_28_B_004
+DCI: Olipudase Alfa
+DrugBank ID: DB12835
+DrugBank Name: Olipudase alfa
+Brand Names: XENPOZYME
+Pharmaceutical Forms: Poudre
+Dosages: 20mg
+Packaging: boite de 1 flacon flacon en verre de type i avec un bouchon en elastomere chlorobutyle silicone
+Registration Numbers: 376/28 B 004/24
+Drug Codes: 28 B 004
+
+------------------------------------------------------------
+
+## Description
+
+Olipudase alfa is recombinant human acid sphingomyelinase. 1 It is the first and only enzyme replacement therapy in the world for the treatment of Acid Sphingomyelinase Deficiency (ASMD), also known as Niemann–Pick disease. 6 ASMD is a rare lysosomal storage disease caused by mutations in the SMPD1 gene, leading to a deficiency in acid sphingomyelinase and the abnormal accumulation of the primary ASM substrate, sphingomyelin. 3 Olipudase alfa works to hydrolyze sphingomyelin accumulated in body tissues, such as the lungs, liver, spleen, kidneys, and bone marrow. 1 Olipudase alfa gained its first global approval in Japan on March 28, 2022. 1 It was later approved by the European Commission on June 28, 2022 6 and by the FDA on August 31, 2022. 8
+
+## Pharmacodynamics
+
+Olipudase alfa is an enzyme replacement therapy that works to ameliorate the signs and symptoms of ASMD by reducing the amount of sphingomyelin that accumulates in organs and causes tissue damage in patients with ASMD. 5 It works to reduce the extent of non-neurological manifestations of ASMD, such as splenomegaly and hepatomegaly. 4 Ceramide is elevated in plasma of adult and pediatric patients with ASMD. Plasma ceramide levels showed a transient increase after each administration (post infusion) of olipudase alfa. In the dose escalation phase, plasma ceramide levels were substantially increased compared to the baseline level. Plasma ceramide levels gradually decreased following repeated administration of olipudase alfa and the pre-infusion levels were generally lower than the baseline level during the maintenance phase of treatment. 9 • In adult patients with ASMD in Trial 1, the mean (standard deviation, SD) pre-infusion plasma ceramide concentration was 3.7 (1.4) mg/L at baseline and decreased to 2.2 (0.6) mg/L at Week 52 following treatment with olipudase alfa. 9 • In pediatric patients with ASMD in Trial 2, the mean (SD) pre-infusion plasma ceramide concentration was 4.7 (0.9) mg/L at baseline and decreased
+to 1.8 (0.3) mg/L at Week 52 following treatment with olipudase alfa. 9 Lysosphingomyelin is substantially elevated in plasma of adult and pediatric patients with ASMD. Plasma lysosphingomyelin levels decreased after repeated administration of olipudase alfa. 9 • In adult patients with ASMD in Trial 1, the mean (SD) pre-infusion plasma lysosphingomyelin concentration was 379 (204) mcg/L at baseline and decreased to 99 (118) mcg/L at Week 52 following treatment with olipudase alfa. 9 • In pediatric patients with ASMD in Trial 2, the mean (SD) pre-infusion plasma lysosphingomyelin concentration was 625 (339) mcg/L at baseline and decreased to 80 (47) mcg/L at Week 52 following treatment with olipudase alfa. 9 In adult patients, the liver sphingomyelin content, as assessed by histopathology, decreased from baseline to Week 52 in the olipudase alfa treatment group compared to an increase in the placebo group. 9
+
+## Mechanism Of Action
+
+ASMD is an autosomal recessive genetic disorder caused by different mutations in the SMPD1 gene that encodes acid sphingomyelinase. Historically, ASMD has been called Niemann-Pick disease (NPD), with different classifications based on disease onset and severity. 3 NPD type A (NPD-A) refers to the severe early-onset form, infantile neurovisceral ASMD and NPD type B (NPD-B) is referred to as the later-onset, chronic visceral form of ASMD. Chronic neurovisceral ASMD (NPD-A/B) is a phenotype with intermediate severity. 2 ASMD has a broad spectrum of disease severity and neurological and non-neurological manifestations; thus, it is difficult to classify different types of ASMD using the former classification system of ASMD (A, B, A/B). 3 Acid sphingomyelinase typically breaks down metabolically-related lipids such as sphingomyelin in various cell types, such as the monocytes, macrophages, and hepatocytes. 3 The deficiency of acid sphingomyelinase thus leads to the accumulation of these lipids in body tissues, causing progressive cell and tissue damage and impairing organ functioning. 3 Olipudase alfa is recombinant human acid sphingomyelinase that hydrolyzes sphingomyelin (SM), preventing its accumulation in body organs. As an enzyme replacement therapy, it is an exogenous source of acid sphingomyelinase. 5 Target Actions Organism U Pyruvate kinase PKLR activator Humans
+
+## Absorption
+
+In adult patients with ASMD, the mean (SD) maximum plasma olipudase alfa-rpcp concentration (C max ) and area under the concentration-time curve (AUC) at steady state were 30 (5) mcg/mL and 607 (120) mcg∙h/mL, respectively, at the recommended maintenance dose of 3 mg/kg administered once every 2 weeks. Olipudase alfa-rpcp Cmax and AUC increase proportionally
+over a dose range of 0.1 to 3 mg/kg (0.03 to 1 times the approved recommended maintenance dose). 9
+
+## Volume Of Distribution
+
+After administration of 3 mg/kg olipudase alfa once every two weeks in adults with ASMD, the estimated mean (CV%) volume of distribution of olipudase alfa is 13.1 L (18%). Olipudase alfa is not expected to cross the blood-brain barrier or modulate the CNS manifestations of the disease. 5
+
+## Metabolism
+
+Olipudase alfa is a recombinant human enzyme and is expected to be eliminated via proteolytic degradation into small peptides and amino acids. 5
+
+## Route Of Elimination
+
+There is no information available.
+
+## Half Life
+
+After administration of 3 mg/kg olipudase alfa once every two weeks in adults with ASMD, the mean terminal half-life (t1/2) ranged from 31.9 to 37.6 hours. 5
+
+## Clearance
+
+After administration of 3 mg/kg olipudase alfa once every two weeks in adults with ASMD, the mean (CV%) clearance of olipudase alfa is 0.331 L/h (22%). 5
+
+## Toxicity
+
+Based on findings from animal reproduction studies, XENPOZYME may cause embryo-fetal harm when administered to a pregnant female. olipudase alfa-rpcp dosage initiation or escalation, at any time during pregnancy, is not recommended as it may lead to elevated sphingomyelin metabolite levels that may increase the risk of fetal malformations. However, the decision to continue or discontinue olipudase alfa-rpcp maintenance dosing in pregnancy should consider the female’s need for XENPOZYME, the potential drug-related risks to the fetus, and the potential adverse outcomes from untreated maternal ASMD disease. 9 In an embryo-fetal toxicity study in pregnant mice, a rare malformation (exencephaly) was observed in offspring at an exposure less than the exposure at the maximum recommended human dose (MRHD) of olipudase alfa-rpcp. There are no available data on olipudase alfa-rpcp use in pregnant females to evaluate for a drug associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes. Advise the pregnant female of the potential risk to the fetus. 9 Cases of overdosage with XENPOZYME have been reported in pediatric patients during dose escalation. Some patients experienced serious adverse reactions including death within 24 hours
+of initial dose. The clinical findings included fever, hypotension, gastrointestinal bleeding, marked elevation in liver tests, metabolic acidosis, respiratory failure, and vomiting. There is no known specific antidote for olipudase alfa-rpcp overdosage. In the event of overdosage, immediately stop the infusion, and monitor the patient closely in a hospital setting for the development of hypersensitivity reactions and IARs including acute phase reactions. 9 Studies to evaluate the carcinogenic potential of olipudase alfa-rpcp have not been conducted. 9 Studies to evaluate the mutagenic potential of olipudase alfa-rpcp have not been conducted. 9 Intravenous administration of olipudase alfa-rpcp every other day at doses up to 30 mg/kg had no adverse effects in a combined study of fertility in male and female mice. Exposures at this dose, based on the embryo-fetal development study, were estimated to be approximately 1.5-fold those of the MRHD of olipudase alfa-rpcp. 9

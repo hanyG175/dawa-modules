@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_N_163
+DCI: Hypromellose
+DrugBank ID: DB11075
+DrugBank Name: Hypromellose
+Brand Names: ARTELAC
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 3.20mg/ml
+Packaging: flacon./10ml
+Registration Numbers: 445/17 N 163/09
+Drug Codes: 17 N 163
+
+------------------------------------------------------------
+
+## Description
+
+Hypromellose, or hydroxypropyl methylcellulose (HPMC) 8 , is a semisynthetic, inert, and viscoelastic polymer that forms a colloid solution when dissolved in water. It acts as a thickening agent, coating polymer, bioadhesive, solubility enhancer in solid dispersions, and binder in the process of granulation and in modified release formulations 2 . It is a commonly used as a delivery component in oral pharmaceutical products that provides the release of a drug in a controlled fashion, effectively increasing the duration of release of a drug to prolong its therapeutic effects 1 . Hypromellose is also found in eye drops as a lubricant 3 .
+
+## Pharmacodynamics
+
+Hypromellose is the most commonly used in hydrophilic matrix fabrication. It allows for controlled release of drug substances, increasing duration of therapeutic effects 3 . The physical characteristics of this drug resemble natural tears, providing lubrication to the ocular surface and maintaining corneal hydration in dry eye syndromes 7 . Hypromellose is considered an inert substance as it has no direct pharmacological activity. The viscosity promoting properties of hypromellose prolong the retention time and improve adhesion of synthetic tears to the cornea and conjunctiva. As a result, the tear film breakdown time is prolonged and/or the tear film stability is enhanced. A stable tear film protects the cornea from dryness and epithelial cells 6 . Hypromellose is a methyl and hydroxypropyl mixed ether of cellulose. It is utilized as artificial tears to prevent conjunctival and corneal damage due to impaired lacrimal secretions. It is also used as a visco-elastic promoting agent by maintaining a deep, viscous chamber and allowing for easier manipulation, helping the vitreous surface to be pushed back, thus preventing the formation of a postoperative flat chamber 5 .
+
+## Mechanism Of Action
+
+Promotes corneal wetting by the stabilization and thickening the precorneal tear film and prolonging the tear film breakdown time, which is usually shortened in dry eye conditions. Hypromellose also acts to lubricate and protect the eye 6 . The surface active properties of the vehicles found in artificial tears solutions act to stabilize the tear film and increase tear viscosity to prevent delay tear evaporation and delay tear drainage 4 . In the intact eye, the corneal surface is moistened primarily by the mucin that is produced in the conjunctiva. Mucin is adsorbed on the corneal surface and forms a hydrophilic surface. This creates a moisture barrier. In the typical dry eye, and particularly in case of mucin deficiency, the application of artificial tear fluid is highly recommended. Both its surface activity and its adsorptive capacity make hypromellose optimal for this use. Hypromellose has a physical-chemical action and leads to, in an aqueous solution, a reduced surface tension as well as an increased level of viscosity. Hypromellose adheres well to the cornea and conjunctiva and provides ample moisture. Irritation symptoms caused by blinking, which occur in the case of tear fluid deficiency, are therefore decreased and symptoms of epithelial desiccation are also alleviated 6 . Target Actions Organism U Epithelial cell adhesion molecule Not Available Humans
+
+## Absorption
+
+Not systemically absorbed 6 .
+
+## Toxicity
+
+LD 50 (Rat): > 5 g/kg MSDS . Hypromellose is considered low toxicity to non-toxic 8 . Adverse events may include blurred vision and contact dermatitis 4 . Hypersensitivity and intolerance reactions may occur (for example, eye burning, pain, increased lacrimation, a sensation of foreign body, conjunctival hyperemia, eyelid swelling, pruritus). The stickiness sensation of the eyelids, the decreased sense of smell, photosensitivity 6 .

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_093
+DCI: ETIFOXINE CHLORHYDRATE 50 mg gél (ETIFOXINE EG)
+Brand Names: STRESAM
+Pharmaceutical Forms: Gélule
+Dosages: 50mg
+Packaging: b/24 et b/60
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05B - ANXIOLYTIQUES | N05BX - AUTRES ANXIOLYTIQUES | N05BX03 - ETIFOXINE
+Registration Numbers: 101/16 B 093/04
+Drug Codes: 16 B 093
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | étifoxine chlorhydrate : 50 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Anxiété | Posologie standard | 1 à 4 gélules en 1 à 3 prises par jour | Durées absolues de traitement | Ne pas dépasser 12 semaines de traitement. | Posologies maximales | Dose maximale par prise: 2 gélules
+
+## Precautions
+
+Antécédent d'hépatite | Contraception orale | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Grossesse | Sujet âgé | Sujet à risque d'hépatopathie
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | III | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+étifoxine : Mécanisme d'action | Le chlorhydrate d'étifoxine appartient à la classe chimique des benzoxazines. C’est un anxiolytique. Il exerce une action régulatrice neurovégétative.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Rare) | - Prurit | - Eruption maculopapuleuse | - Urticaire | - Erythème polymorphe | - Syndrome de Stevens-Johnson | - Dermite exfoliative généralisée | DIVERS: | - Oedème de la face | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Métrorragie (Très rare) | HÉPATOLOGIE: | - Hépatite cytolytique (Très rare) | - Hépatite (Très rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Réaction de type maladie sérique | - Choc anaphylactique | - Oedème de Quincke | - Syndrome DRESS | SYSTÈME CARDIOVASCULAIRE: | - Vascularite | SYSTÈME DIGESTIF: | - Colite lymphocytaire (Très rare) | SYSTÈME NERVEUX: | - Somnolence (Rare)

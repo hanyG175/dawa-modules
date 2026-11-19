@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_E_012
+DCI: Secukinumab
+DrugBank ID: DB09029
+DrugBank Name: Secukinumab
+Brand Names: COSENTYX
+Pharmaceutical Forms: Solution
+Dosages: 150mg/ml
+Packaging: b/02 seringues preremplis
+Registration Numbers: 068/27 E 012/25
+Drug Codes: 27 E 012
+
+------------------------------------------------------------
+
+## Description
+
+Secukinumab is a fully human monoclonal IgG1/κ antibody against interleukin-17A (IL-17A), a proinflammatory cytokine implicated in various chronic immune-mediated inflammatory disorders, such as plaque psoriasis. 6 By blocking the actions of IL-17A, secukinumab works to inhibit the pro-inflammatory pathways that drive immune-mediated inflammatory disorders. 5 Following its first global approval in Japan in December 2014, secukinumab was approved by the European Commission on January 15, 2015, and by the FDA a few days after (January 21, 2015). 3 It is currently approved to treat a number of chronic inflammatory conditions, such as plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and hidradenitis suppurativa. 6 , 7 , 10
+
+## Pharmacodynamics
+
+Secukinumab works to ameliorate inflammation in chronic inflammatory disorders by attenuating the release of proinflammatory cytokines and chemokines. 6 Total serum IL-17A levels, representing free IL-17A and secukinumab-IL-17A complex, were increased to a plateau during drug treatment, then gradually decreased at the end of the treatment as the secukinumab-IL-17A complex was cleared from the body. 3 In patients with plaque psoriasis, secukinumab reduced erythema, induration, and desquamation in plaque psoriasis lesions. 7 Secukinumab also reduced acanthosis, parakeratosis, keratinocyte proliferation, and decrease in keratinocyte markers - all clinical manifestations of psoriasis. 1 As the formation of CYP450 enzymes can be altered by increased levels of certain cytokines (e.g., IL-1, IL-6, IL-10, TNFα, IFN) during chronic inflammation, secukinumab can potentially alter the concentrations of CYP substrate drugs with a narrow therapeutic index. 6
+
+## Mechanism Of Action
+
+Interleukin-17A Inhibitor
+
+## Absorption
+
+Following a single subcutaneous dose of either 150 mg - which is one-half the recommended dose - in patients with plaque psoriasis, the mean C max and serum trough concentrations were 13.7 ± 4.8 mcg/mL and 22.8 ± 10.2 mcg/mL, respectively. Following administration of 300 mg, the mean C max and serum trough concentrations were 27.3 ± 9.5 mcg/mL and 45.4 ± 21.2 mcg/mL, respectively. 6 Following subcutaneous injection, the C max is reached in five to six days. 3 Steady-state concentrations were achieved by week 24 following the every 4-week dosing regimens. In healthy subjects and subjects with plaque psoriasis, bioavailability ranged from 55% to 77% following subcutaneous administration. 6
+
+## Volume Of Distribution
+
+The mean volume of distribution during the terminal phase (V z ) ranged from 7.10 to 8.60 L in plaque psoriasis subjects who received secukinumab intravenously. 6 These values suggest that secukinumab undergoes limited distribution to peripheral compartments. 7 The volume of distribution increases with body weight. Following subcutaneous administration of a single 300 mg dose, drug concentrations in interstitial fluid in lesional and non-lesional skin of plaque psoriasis subjects ranged from 27% to 40% of those in serum at one and two weeks. 6
+
+## Metabolism
+
+Secukinumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. 6
+
+## Half Life
+
+The half-life ranged from 22 to 31 days in plaque psoriasis subjects following intravenous and subcutaneous administration across all psoriasis trials. 6 The mean elimination half-life was 27 days. 7
+
+## Clearance
+
+The mean systemic clearance (CL) ranged from 0.14 L/day to 0.22 L/day. 6 Clearance of secukinumab is dose- and time-independent, 3 , 7 and is expected to increase with body weight. 6
+
+## Toxicity
+
+There is no information available regarding the LD50 of secukinumab. In clinical trials, doses up to 30 mg/kg intravenously have been administered without dose-limiting toxicity. In the event of overdosage, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately. 6

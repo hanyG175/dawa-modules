@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_085
+DCI: Haloperidol
+Brand Names: HALOPERIDOL
+Pharmaceutical Forms: Sol. Buv. Gttes.
+Dosages: 2MG/ML OU 0,2%
+Packaging: FL/20ML
+Laboratories: PHARMAGHREB
+Countries: ALGERIE
+Reference Tariff (DA): 120.4 DA
+Prescription List: Liste I
+ATC Classification: 16D085
+Registration Numbers: 065/16 D 085/08/24 | 073/16 D 085/99/09 | 079/16 D 085/00/08 | 088/16 D 085/03 | 235/16 D 085/14/24 | 242/16 D 085/06 | 263/16 D 085/13/24 | 319/16 D 085/07 | 400/16 D 085/16 | 457/16 D 085/11 | 462/16 D 085/24
+Drug Codes: 16 D 085
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

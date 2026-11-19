@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_172
+DCI: Oxytetracycline Chlorhydrate/Dexamethasone
+DrugBank ID: DB00595
+DrugBank Name: Oxytetracycline
+Brand Names: OXYDEX
+Pharmaceutical Forms: Pommademade
+Dosages: 0.5%/0.1%
+Packaging: tube/3g
+Registration Numbers: 003/17 D 172/13
+Drug Codes: 17 D 172
+
+------------------------------------------------------------
+
+## Description
+
+A tetracycline analog isolated from the actinomycete streptomyces rimosus and used in a wide variety of clinical conditions.
+
+## Pharmacodynamics
+
+Oxytetracycline is known as a broad-spectrum antibiotic due to its activity against such a wide range of infections. It was the second of the tetracyclines to be discovered. Oxytetracycline, like other tetracyclines, is used to treat many infections common and rare. Its better absorption profile makes it preferable to tetracycline for moderately severe acne, but alternatives sould be sought if no improvement occurs by 3 months.
+
+## Mechanism Of Action
+
+Small ribosomal subunit protein uS9 (Escherichia coli (strain K12)) Inhibitor Small ribosomal subunit protein uS4 (Escherichia coli (strain K12)) Inhibitor
+
+## Absorption
+
+Readily absorbed following oral administration.
+
+## Toxicity
+
+Adverse effects may include stomach or bowel upsets and rarely allergic reactions. Very rarely severe headache and vision problems may be signs of dangerous intracranial hypertenion.

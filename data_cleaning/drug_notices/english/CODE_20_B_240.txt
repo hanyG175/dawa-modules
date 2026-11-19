@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_B_240
+DCI: DEXTROMETHORPHANE BROMHYDRATE 1,5 mg/ml sirop (DEXTROMETHORPHANE ELERTE)
+DrugBank ID: DB00514
+DrugBank Name: Dextromethorphan
+Brand Names: HUMEX TOUX SECHE ADULTE
+Pharmaceutical Forms: Siropop
+Dosages: 0.133g/100ml (ou 20mg/15ml)
+Packaging: flacon./125ml + gobelet doseur gradue
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05D - ANTITUSSIFS, SAUF ASSOCIATIONS AUX EXPECTORANTS | R05DA - ALCALOÏDES DE L'OPIUM ET DERIVES | R05DA09 - DEXTROMETHORPHANE
+Registration Numbers: 296/20 B 240/09
+Drug Codes: 20 B 240
+
+------------------------------------------------------------
+
+## Description
+
+Dextromethorphan is a levorphanol derivative and codeine analog commonly used as a cough suppressant and also a drug of abuse. 11 Although similar in structure to other opioids, it has minimal interaction with opioid receptors. 11 Dextromethorphan was granted FDA approval before 3 December 1957. 11 , 17
+
+## Pharmacodynamics
+
+Dextromethorphan is an opioid-like molecule indicated in combination with other medication in the treatment of coughs and pseudobulbar affect. 14 , 15 , 13 It has a moderate therapeutic window, as intoxication can occur at higher doses. 10 Dextromethorphan has a moderate duration of action. 13 Patients should be counselled regarding the risk of intoxication. 10
+
+## Mechanism Of Action
+
+Sigma non-opioid intracellular receptor 1 Agonist Glutamate receptor ionotropic, NMDA 3A Antagonist
+
+## Absorption
+
+A 30mg oral dose of dextromethorphan reaches a C max of 2.9 ng/mL, with a T max of 2.86 h, and an AUC of 17.8 ng*h/mL. 7
+
+## Volume Of Distribution
+
+The volume of distribution of dextromethorphan is 5-6.7L/kg. 8
+
+## Metabolism
+
+Dextromethorphan can be N-demethylated to 3-methoxymorphinan by CYP3A4, CYP2D6, and CYP2C9 or O-demethylated to dextrorphan by CYP2D6 and CYP2C9. 6 Dextrorphan is N-demethylated by CYP3A4 and CYP2D6, while 3-methoxymorphinan is O-demethylated by CYP2D6. 6 Both are metabolized to form 3-hydroxymorphinan. 6 Dextrorphan and 3-hydroxymorphinan are both O-glucuronidated or O-sulfated. 6 Hover over products below to view reaction partners Dextromethorphan Dextrorphan 3-Hydroxymorphinan 3-Hydroxymorphinan sulfate 3-Hydroxymorphinan O-glucuronide Dextrorphan sulfate Dextrorphan O-glucuronide (+)-3-Methoxymorphinan 3-Hydroxymorphinan
+
+## Half Life
+
+Dextromethorphan has a half life of 3-30 hours. 8
+
+## Toxicity
+
+A dextromethorphan overdose may present as nausea, vomiting, stupor, coma, respiratory depression, seizures, tachycardia, hyperexcitability, toxic psychosis, ataxia, nystagmus, dystonia, blurred vision, changes in muscle reflexes, and serotonin syndrome. 13 Overdose should be managed through symptomatic and supportive measures. 13

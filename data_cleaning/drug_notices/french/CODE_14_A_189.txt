@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_189
+DCI: Glimepiride
+Brand Names: GLIMEPIRIDE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 3MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 720 DA
+PPA (DA): 720.00 DA
+Prescription List: Liste I
+ATC Classification: 14A189
+Registration Numbers: 001/14 A 189/07/16 | 003/14 A 189/05/25 | 293/14 A 189/07/24 | 309/14 A 189/17 | 317/14 A 189/10/22 | 352/14 A 189/08/24 | 447/14 A 189/13/23 | 492/14 A 189/17
+Drug Codes: 14 A 189
+
+------------------------------------------------------------
+
+## Indications
+
+METABOLISME NUTRITION DIABETE
+
+## Mechanism Of Action
+
+ANTIDIABETIQUES ORAUX

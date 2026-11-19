@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_169
+DCI: Panitumumab
+DrugBank ID: DB01269
+DrugBank Name: Panitumumab
+Brand Names: VECTIBIX
+Pharmaceutical Forms: Sol. A Diluer P. Perf. Iv
+Dosages: 20mg/ml (100mg/5ml)(400mg/20ml)
+Packaging: b/01 flacon. de 5ml ; b/01 flacon. de 20ml
+Registration Numbers: 481/05 D 169/15
+Drug Codes: 05 D 169
+
+------------------------------------------------------------
+
+## Description
+
+Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent. Panitumumab was granted FDA approval on 27 September 2006. 6
+
+## Pharmacodynamics
+
+Panitumumab is a recombinant, human IgG2 kappa monoclonal antibody that binds specifically to the human Epidermal Growth Factor Receptor (EGFR). EGFR is a transmembrane glycoprotein that belongs to the subfamily of type I receptor tyrosine kinases. Although EGFR is expressed in normal cells, the overexpression of EGFR is detected in many human cancers, including those of the colon and rectum. Interaction of EGFR with its normal ligands causes phosphorylation and activation of a series of intracellular proteins that will in turn regulate the transcription of genes involved with cellular growth and survival, motility, and prolieration. Signal transduction through EGFR leads to the activation of the wild type KRAS gene, but the presence of an activating somatic mutation of the KRAS gene within a cancer cell can result in the dysregulation of signaling pathways and resistance to EGFR inhibitor therapy.
+
+## Mechanism Of Action
+
+Epidermal growth factor receptor Suppressor
+
+## Half Life
+
+7.5 days (range: 4-11 days)
+
+## Clearance
+
+4.9+/- 1.4 mL/kg/day [Following single-dose administrations of panitumumab as 1-hour infusions]
+
+## Toxicity
+
+Panitumumab was shown to cause skin, ocular and mucosal related toxicities in 90% of patients receiving panitumumab. Subsequent to the development of severe dermatologic toxicities, infectious complications, including sepsis, septic death, and abscesses requiring incisions and drainage, were reported.

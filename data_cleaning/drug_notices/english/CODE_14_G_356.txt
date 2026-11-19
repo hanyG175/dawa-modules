@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_356
+DCI: CALCIUM (carbonate) 500 mg + COLECALCIFEROL 400 UI cp à croquer/sucer (DENSICAL VITAMINE D3)
+DrugBank ID: DB14513
+DrugBank Name: Magnesium
+Brand Names: KINADYN MG
+Pharmaceutical Forms: Poudre
+Dosages: 3mg/sachet
+Packaging: b/20
+Laboratories: ZAMBON FRANCE
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA05 - ATORVASTATINE
+Registration Numbers: 263/14 G 356/16
+Drug Codes: 14 G 356
+
+------------------------------------------------------------
+
+## Description
+
+Magnesium is classified as an alkaline earth metal and has 2 hydration shells. 1 The element can be found in abundance in the hydrosphere and in mineral salts such as dolomite and magnesium carbonate. 1 Common dietary sources of magnesium include nuts (cashews, peanuts, almonds), beans, bananas, apples, carrots, broccoli, and leafy greens. 8 , 11 Magnesium is an important enzyme cofactor and is essential to several metabolic processes. 3 Further, the mineral helps regulate blood pressure and is necessary for RNA, DNA and protein synthesis among several other functions. 3 Despite the importance of magnesium and its availability via several food sources, an estimated 56 to 68% of adults who live in developed, western countries do not meet the recommended daily intake (RDI) of magnesium. 5 Several factors and common behaviours reduce the availability of magnesium in the diet such as food processing and cooking vegetables (which are normally a rich source of magnesium). 5
+
+## Pharmacodynamics
+
+Magnesium is important for many biochemical processes and is therefore quite common in humans. 5 The majority of magnesium is stored in the bones (>50%), while the remainder is stored in muscle, soft tissue, red blood cells and serum. 1 This is functionally important since the bones behave as a magnesium exchange reservoir and help maintain healthy levels of magnesium. 1 Magnesium plays an important role in the regulation of several bodily processes including blood pressure, insulin metabolism, muscular contraction, vasomotor tone, cardiac excitability, nerve transmission and neuromuscular conduction. 3 Disruptions in homeostatic levels of magnesium (often times hypomagnesemia) can impact the nervous system, muscles, or can lead to cardiac abnormalities. 3
+
+## Mechanism Of Action
+
+Magnesium is a cofactor for at least 300 enzymes and is important for several functions in the body with some key processes identified below. 3 Enzymes that rely on magnesium to operate help produce energy through oxidative phosphorylation, glycolysis and ATP metabolism. 5 They are also involved in nerve function, muscle contraction, blood glucose control, hormone receptor binding, protein synthesis, cardiac excitability, blood pressure control, gating of calcium channels and transmembrane ion flux. 5 The mitochondrial intracellular space is rich in magnesium, since it is required to produce the active form of ATP (adenosine triphosphate) from ADP (adenosine diphosphate) and inorganic phosphate, and behaves as a counter ion for the energy rich molecule. 1 , 5 Additionally, magnesium is essential for ATP metabolism. 3
+
+## Absorption
+
+Approximately 24-76% of ingested magnesium is absorbed in the gastrointestinal tract, primarily via passive paracellular absorption in the small intestine. 3
+
+## Volume Of Distribution
+
+According to a pharmacokinetic review, the volume of distribution of magnesium sulphate when used to manage patients with pre-eclampsia and eclampsia ranged from 13.65 to 49.00 L. 4
+
+## Metabolism
+
+Magnesium does not appear to be metabolized. 7
+
+## Route Of Elimination
+
+The majority of magnesium is excreted renally. 3 , 10
+
+## Half Life
+
+Magnesiums biologic half-life is reported to be approximately 1000 hours or 42 days. 5
+
+## Toxicity
+
+The recommended dietary allowance of magnesium ranges from 30 mg for infants to 420 mg for males between the age of 31 and 50. 11 According to the institute of Medicine (IOM), the majority of adults can tolerate 350 mg of magnesium per day without experiencing adverse effects. 5 Symptoms of magnesium toxicity include diarrhea and other gastrointestinal effects, thirst, muscle weakness, drowsiness, severe back and pelvic pain, hypotension, dizziness, confusion, difficulty breathing, lethargy, and deterioration of kidney function. 3 , 5 Other more severe symptoms associated with magnesium overdose include loss of consciousness, respiratory arrest, cardiac arrhythmias and cardiac arrest. 5 Regular use of laxatives containing magnesium may lead to severe and even fatal hypermagnesemia. 2 Discontinuation of magnesium products including supplements, laxatives, and antacids is usually sufficient to manage mild cases of magnesium overdose; however, patients should also be screened for renal impairment. 5 In severe cases of magnesium overdose, patients may require supportive care and interventions including intravenous fluids and furosemide, IV calcium chloride or calcium gluconate, renal dialysis and artificial respiratory support. 5

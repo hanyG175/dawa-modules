@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_091
+DCI: Granisetron Chlorhydrate
+DrugBank ID: DB00889
+DrugBank Name: Granisetron
+Brand Names: GRANI DENK
+Pharmaceutical Forms: Concentre Pour Solution Injectable Ou Pour Perfusion
+Dosages: 1mg/ml
+Packaging: b/5 ampoule de 1ml et 3 ml
+Registration Numbers: 663/10 F 091/25
+Drug Codes: 10 F 091
+
+------------------------------------------------------------
+
+## Description
+
+A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients.
+
+## Pharmacodynamics
+
+Granisetron is a selective inhibitor of type 3 serotonergic (5-HT 3 ) receptors. Granisetron has little or no affinity for other serotonin receptors, including 5-HT 1 , 5-HT 1A , 5-HT 1B/C , or 5-HT 2 ; for alpha 1 -, alpha 2 -, or beta-adrenoreceptors; for dopamine D 2 receptors; for histamine H 1 receptors; for benzodiazepine receptors; for picrotoxin receptors; or for opioid receptors. In most human studies, granisetron has had little effect on blood pressure, heart rate, or electrocardiogram (ECG). The drug is structurally and pharmacologically related to ondansetron, another selective inhibitor of 5-HT 3 receptors. The serontonin 5-HT 3 receptors are located on the nerve terminals of the vagus in the periphery, and centrally in the chemoreceptor trigger zone of the area postrema. The temporal relationship between the emetogenic action of emetogenic drugs and the release of serotonin, as well as the efficacy of antiemetic agents suggest that chemotherapeutic agents release serotonin from the enterochromaffin cells of the small intestine by causing degenerative changes in the GI tract. The serotonin then stimulates the vagal and splanchnic nerve receptors that project to the medullary vomiting center, as well as the 5-HT3 receptors in the area postrema, thus initiating the vomiting reflex, causing nausea and vomiting.
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 3A Antagonist
+
+## Absorption
+
+Absorption of is rapid and complete, though oral bioavailability is reduced to about 60% as a result of first pass metabolism.
+
+## Metabolism
+
+Primarily hepatic; undergoes N -demethylation and aromatic ring oxidation followed by conjugation. Animal studies suggest that some of the metabolites may have 5-HT 3 receptor antagonist activity. Hover over products below to view reaction partners Granisetron 9'-desmethylgranisetron 7-hydroxygranisetron
+
+## Route Of Elimination
+
+The remainder of the dose is excreted as metabolites, 48% in the urine and 38% in the feces.
+
+## Half Life
+
+4-6 hours in healthy patients, 9-12 hours in cancer patients
+
+## Clearance
+
+0.52 L/h/kg [Cancer Patients with 1 mg bid for 7 days] 0.41 L/h/kg [Healthy subject with a single 1 mg dose]
+
+## Toxicity
+
+LD 50 >2000 mg/kg (rat, oral)

@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_024
+DCI: MELPHALAN 2 mg cp (ALKERAN)
+DrugBank ID: DB01042
+DrugBank Name: Melphalan
+Brand Names: ALKERAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/25
+Laboratories: H.A.C. Pharma
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01A - AGENTS ALKYLANTS | L01AA - MOUTARDES A L'AZOTE | L01AA03 - MELPHALAN
+Registration Numbers: 467/05 A 024/99/19
+Drug Codes: 05 A 024
+
+------------------------------------------------------------
+
+## Description
+
+Melphalan is a nitrogen mustard or bischloroethylamine type alkylating agent. 7 It was first synthesized in the early 1950s by substituting L-phenylalanine for the methyl group on nitrogen mustard. 4 , 5 Melphalan is used in the treatment of multiple myeloma and ovarian carcinoma. 7 It is also used for high-conditioning before hematopoietic stem cell transplant. 8 It is also used to treat uveal melanoma with unresectable hepatic metastases. 9
+
+## Pharmacodynamics
+
+Melphalan possesses cytotoxic, immunosuppressive, and myeloablative activities. 4 , 7 Melphalan produces chromosomal aberrations in vitro and in vivo ; thus, it is considered to be potentially leukemogenic in humans. It also causes dose-limiting bone marrow suppression. The peak mean heart rate increased by 20 bpm from baseline following melphalan 100 mg/m 2 for two consecutive days in multiple myeloma patients undergoing autologous stem cell transplantation. 8
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Absorption
+
+The absorption of oral melphalan is highly variable concerning both the time to the first appearance of the drug in plasma (range: 0 to 6 hours) and peak plasma concentration (C max ). The average absolute bioavailability of melphalan ranges from 56% to 93%. High variability in bioavailability may be due to incomplete intestinal absorption, variable first-pass hepatic metabolism, or rapid hydrolysis. T max was one hour in patients who received single oral doses of 0.2 mg/kg to 0.25 mg/kg of melphalan. Oral administration of melphalan with a high-fat meal may reduce melphalan exposure (AUC) by 36% to 54%. 7 Mean (± SD) C max and AUC 0-inf were 5.8 ± 1.5 mcg/mL and 451 ± 109 mcg x min/mL, respectively, following intravenous administration of 100 mg/m 2 in multiple myeloma patients. 8
+
+## Volume Of Distribution
+
+The volume of distribution of melphalan ranges from approximately 35.5 to 185.7 L/m 2 . 8 Penetration into cerebrospinal fluid is low. 7
+
+## Metabolism
+
+Melphalan primarily undergoes chemical hydrolysis to inactive metabolites, monohydroxymelphalan and dihydroxymelphalan. 7 , 8 No other melphalan metabolites have been observed in humans. 7 Hover over products below to view reaction partners Melphalan Monohydroxymelphalan Dihydroxymelphalan
+
+## Route Of Elimination
+
+About 5.8% to 21.3% of melphalan is excreted in urine. 8
+
+## Half Life
+
+In patients given a single oral dose of 0.6 mg/kg of melphalan, the terminal elimination plasma half-life (± SD) was 1.5 ± 0.83 hours. 7 Following intravenous administration, the terminal elimination half-life is approximately 75 minutes. 8
+
+## Clearance
+
+Average total body clearance (CL) ranges from approximately 250 to 325 mL/min/m 2 . 8
+
+## Toxicity
+
+The oral and intraperitoneal LD 50 in rats is 4484 µg/kg and 11200 µg/kg, respectively. The subcutaneous LD 50 in mice is 32 mg/kg. 10 Overdoses resulting in death have been reported with melphalan. Overdoses, including intravenous doses up to 290 mg/m 2 and oral doses up to 50 mg/day for 16 days, have been reported. Symptoms of overdose include severe nausea and vomiting, decreased consciousness, convulsions, muscular paralysis, cholinomimetic effects, mucositis, stomatitis, colitis, diarrhea, and hemorrhage of the gastrointestinal tract. Elevations in liver enzymes and veno-occlusive disease occur infrequently. Significant hyponatremia, caused by an associated inappropriate secretion of ADH syndrome, has been observed. Nephrotoxicity and adult respiratory distress syndrome have been reported rarely. The principal toxic effect is bone marrow suppression. Melphalan is not removed from plasma via hemodialysis, and overdose is typically managed by general supportive measures, with appropriate blood transfusions and antibiotics. 7 , 8

@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_P_187
+DCI: Faricimab
+DrugBank ID: DB15303
+DrugBank Name: Faricimab
+Brand Names: VABYSMO
+Pharmaceutical Forms: Solution
+Dosages: 120mg/ml
+Packaging: b/01 flacon de 28.8mg de faricimab dans une solution de 0.24ml incluant une aiguille a filtre
+Registration Numbers: 128/17 P 187/25
+Drug Codes: 17 P 187
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Faricimab is a bispecific antibody (bsAb) based on human IgG 1 comprising two different heavy and two different light chains capable of simultaneously binding to both VEGF-A and Ang-2. 3 , 5 , 6 Faricimab suppresses endothelial proliferation, neovascularization, and vascular permeability, which are associated with the increased retinal thickness observed in nAMD and DME. In four phase 3 studies in nAMD and DME, faricimab reduced central subfield thickness through the first year in all treatment arms. 7 As with other medications administered intravitreally, faricimab carries a risk of transient increases in intraocular pressure, endophthalmitis, and retinal detachment. Proper injection techniques should always be observed, and patients monitored carefully following injection. Low risk of arterial thromboembolic events, defined as nonfatal stroke or myocardial infarction and vascular death, has been documented with faricimab. 7
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor A, long form Antagonist Angiopoietin-2 Antagonist
+
+## Absorption
+
+Faricimab unbound plasma C max are estimated to be 0.23 ± 0.07 and 0.22 ± 0.07 μg/mL in nAMD and DME patients, respectively; these plasma levels are achieved approximately two days post-dose (T max ). Following repeated intravitreal administration on a q8w schedule, mean plasma trough free faricimab concentrations are predicted to be 0.002-0.003 μg/mL. No accumulation is expected in either the vitreal fluid or plasma. 7
+
+## Metabolism
+
+Faricimab metabolism has not been fully characterized; as an antibody, faricimab is expected to be catabolized like endogenous immunoglobulins. 7
+
+## Route Of Elimination
+
+Faricimab elimination has not been fully characterized; faricimab may be excreted renally following its breakdown into smaller peptides and amino acids through cellular catabolism. 7
+
+## Half Life
+
+Faricimab has an estimated mean apparent systemic half-life of 7.5 days. 7
+
+## Toxicity
+
+Toxicity information regarding faricimab is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as conjunctival hemorrhage. Symptomatic and supportive measures are recommended. Due to its mechanism of action, faricimab may pose a risk to reproductive capacity. 7

@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_C_034
+DCI: Pamidronate Sodium
+DrugBank ID: DB00282
+DrugBank Name: Pamidronic acid
+Brand Names: PAMIDRIA
+Pharmaceutical Forms: Poudre Lyophilisee P/Inj En Perf Iv
+Dosages: 90mg/fl.
+Packaging: b/01 flacon. de lyophilisat+ 01 ampoule. de solvant de 10ml (eppi)
+Registration Numbers: 182/21 C 034/14
+Drug Codes: 21 C 034
+
+------------------------------------------------------------
+
+## Description
+
+Pamidronic acid is a second generation, nitrogen containing bisphosphonate similar to neridronic acid and alendronic acid . 2 Pamidronic acid was first described in the literature in 1977. 9 The second generation bisphosphonates are less common as third generation bisphosphonates, such as ibandronic acid , zoledronic acid , minodronic acid , and risedronic acid are becoming more popular. 2 Pamidronic acid was granted FDA approval on 31 October 1991. 10
+
+## Pharmacodynamics
+
+Pamidronic acid is a second generation, nitrogen containing bisphosphonate that inhibits osteoclast mediated bone loss 2 , 3 , 11 It has a wide therapeutic index and a long duration of action as it can be given every 3-4 weeks for certain indications. 11 Patients should be counselled regarding the risk of elevated blood urea nitrogen, renal tubular necrosis, and nephrotoxicity. 11
+
+## Mechanism Of Action
+
+Farnesyl pyrophosphate synthase Inhibitor Hydroxylapatite Antagonist
+
+## Absorption
+
+In patients with a creatinine clearance >90mL/min, a 90mg intravenous dose reached a C max of 1.92±1.08µg/mL, with a T max of 4h, and an AUC of 10.2±6.95µg*h/mL. 8 In patients with a creatinine clearance 61-90mL/min, a 90mg intravenous dose reached a C max of 1.86±0.50µg/mL, with a T max of 4h, and an AUC of 10.7—3.91µg*h/mL.[A203264 In patients with a creatinine clearance 30-60mL/min, a 90mg intravenous dose reached a C max of 1.84±0.58µg/mL, with a T max of 4h, and an AUC of 10.1±3.38µg*h/mL. 8 In patients with a creatinine clearance <30mL/min, a 90mg intravenous dose reached a C max of 1.93±0.53µg/mL, with a T max of 4h, and an AUC of 34.0±8.37µg*h/mL. 8
+
+## Metabolism
+
+Pamidronate is not metabolized in vivo . 11
+
+## Route Of Elimination
+
+Pamidronate is exclusively eliminated in the urine. 11 By 120 hours after administration, 46±16% of the dose has been eliminated in the urine. 11
+
+## Half Life
+
+The mean elimination half life of pamidronate is 28±7 hours. 11
+
+## Clearance
+
+The mean total clearance of pamidronate is 107±50mL/min and the mean renal clearance is 49±28mL/min. 11
+
+## Toxicity
+
+Patients experiencing and overdose may present with hypocalcemia, fever, hypotension, and taste perversion. 11 Overdose can be managed by symptomatic and supportive treatment which may include the administration of steroids and intravenous calcium. 11

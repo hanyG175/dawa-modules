@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_020
+DCI: Mercurochrome
+Brand Names: MERCUROCHROME
+Pharmaceutical Forms: Sol. Externe
+Dosages: 0.02
+Packaging: FL/100L
+Laboratories: PHARMAGHREB
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: N/D
+ATC Classification: 26B020
+Registration Numbers: 088/26 B 020/03
+Drug Codes: 26 B 020
+
+------------------------------------------------------------
+
+## Indications
+
+DIVERS
+
+## Mechanism Of Action
+
+ASEPSIE & DESINFECTION

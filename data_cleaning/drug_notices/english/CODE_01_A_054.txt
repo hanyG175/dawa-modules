@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_054
+DCI: LEVOCETIRIZINE DICHLORHYDRATE 5 mg cp (LEVOCETIRIZINE ARROW)
+DrugBank ID: DB06282
+DrugBank Name: Levocetirizine
+Brand Names: HISTADINE | LEVORGICA | LEVOXINE | LEVOZEN | RIZINAL 5 | TYRIZAL | XYCARE | XYRIZINE | ZOLIX | ZYRAL
+Pharmaceutical Forms: Comprimé
+Dosages: 05 mg
+Packaging: b/14 | b/14 et b/28 | b/20 | b/30
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AE - DERIVES DE LA PIPERAZINE | R06AE09 - LEVOCETIRIZINE
+Registration Numbers: 173/01 A 054/24 | 231/01 A 054/18 | 263/01 A 054/23 | 293/01 A 054/15 | 304/01 A 054/22 | 309/01 A 054/21 | 317/01 A 054/25 | 352/01 A 054/19/24 | 380/01 A 054/20 | 418/01 A 054/17
+Drug Codes: 01 A 054
+
+------------------------------------------------------------
+
+## Description
+
+Levocetirizine is a selective histamine H 1 antagonist used to treat a variety of allergic symptoms. 2 , 3 , 4 It is the R enantiomer of cetirizine . 4 Levocetirizine has greater affinity for the histamine H 1 receptor than cetirizine. 4 Levocetirizine was granted FDA approval in 1995. 4
+
+## Pharmacodynamics
+
+Levocetirizine is a second generation histamine H 1 antagonist used to treat various allergic symptoms. 2 , 3 , 4 It has a long duration of action as it is generally taken once daily, and a wide therapeutic window as animal studies show the maximal nonlethal dose is over 100x a normal dose. 4 Patients are cautioned to avoid tasks that require complete alertness, avoid alertness, and use caution in patients with factors predisposing urinary retention. 4
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist Inhibitor
+
+## Absorption
+
+Following a 5mg oral dose of levocetirizine, a C max of 0.27±0.04µg/mL with a T max of 0.75±0.50h. 1 The AUC of levocetirizine is 2.31±0.50µg*h/mL. 1 Taking levocetirizine with food does not affect the AUC but delays T max by 1.25 hours and lowers C max by 36%. 4
+
+## Volume Of Distribution
+
+The volume of distribution of levocetirizine is 0.33±0.02L/kg. 1
+
+## Metabolism
+
+Levocetirizine is poorly metabolized with 85.8% of an oral dose being excreted as the unchanged drug. 1 Levocetirizine can be metabolized to a dihydrodiol (M2), an N-oxide (M3), a hydroxymethoxy derivative (M4), a hydroxy derivative (M5), an O-dealkylated derivative (M6), a taurine conjugate (M8), and an N-dealkylated and aromatic hydroxylated derivative (M9). 1 The M5 metabolite can be glucuronidated to form the M1 metabolite and the M9 metabolite can form 4-chloro-4'-hydroxybenzhydryl mercapturates (M10a and M10b). 1 Hover over products below to view reaction partners Levocetirizine Levocetirizine Dihydrodiol Metabolite (M2) Levocetirizine Hydroxy Metabolite (M5) + Levocetirizine Hydroxymethoxy Metabolite (M4) Levocetirizine N-oxide Metabolite (M3) Levocetirizine Hydroxy Metabolite (M5) Levocetirizine O-glucuronidated Metabolite (M1) Levocetirizine O-dealkylated Metabolite (M6) Levocetirizine Taurine Conjugated Metabolite (M8) Levocetirizine N-dealkylated and Aromatic Hydroxylated Metabolite (M9) Levocetirizine 4-chloro-4'-hydroxybenzhydryl Mercapturate Metabolites (M10a and M10b)
+
+## Route Of Elimination
+
+168 hours post dose an average of 85.4% of a radiolabeled dose was recovered with an average of 80.8% in the urine and 9.5% in the feces. 1 In the urine, 77% of the dose was recovered as unchanged drug, 0.5% as the M8 and M9 metabolites, 0.4% as the M10a metabolite, 0.4% as the M10b metabolite, 0.3% as the M3 metabolite, 0.3% as the M4 and M5 metabolite, 0.2% as the M2 metabolite, and 0.1% as the M1 metabolite. 1 In the feces, 9.0% of the dose was recovered as unchanged drug, 1.0% as the M4 and M5 metabolite, and 0.1% as the M1 metabolite. 1
+
+## Half Life
+
+The average half life of levocetirizine is 7.05±1.54 hours. 1
+
+## Clearance
+
+The average clearance of levocetirizine is 0.57±0.18mL/min/kg. 1
+
+## Toxicity
+
+Patients experiencing an overdose may present with drowsiness. 4 Children may become agitated and restless before drowsiness. 4 Patients should be treated with supportive measures. 4 Dialysis will not assist in removing the drug from the body. 4 The maximal nonlethal dose in mice and rats is 240mg/kg. 4

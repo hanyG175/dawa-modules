@@ -1,0 +1,47 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_E_095
+DCI: ULIPRISTAL ACETATE 30 mg cp (ULIPRISTAL ACETATE BIOGARAN)
+DrugBank ID: DB08867
+DrugBank Name: Ulipristal
+Brand Names: ECINQ
+Pharmaceutical Forms: Comprimé
+Dosages: 30mg
+Packaging: b/01
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03A - CONTRACEPTIFS HORMONAUX A USAGE SYSTEMIQUE | G03AD - CONTRACEPTION D'URGENCE | G03AD02 - ULIPRISTAL
+Registration Numbers: 635/11 E 095/24
+Drug Codes: 11 E 095
+
+------------------------------------------------------------
+
+## Description
+
+Ulipristal is a selective progesterone receptor modulator used for the purposes of emergency contraception (Ella) and for the treatment of uterine fibroids (Fibristal). It is a derivative of 19-norprogesterone and has both antagonistic and partial agonist activity at the progesterone receptor. It also binds to glucocorticoid receptor, however compared to mifepristone (a progesterone receptor antagonist), ulipristal is more tolerable and has lower glucocorticoid activity and better binding affinity. Ulipristal is currently recommended as first line therapy for emergency contraception, due to improved efficacy and similar side effect profile as compared to the traditional use of levonorgestrel or the Yuzpe regimen. The exact mechanism of action for ulipristal is still currently debated, though there is evidence that it functions by inhibiting ovulation. A recent systematic review proclaimed that the majority of available evidence demonstrates an inhibitory effect on ovulation rather than a post-fertilization effect on the endometrium, which has been heavily debated due to ethical concerns related to abortion (Rosato et al, 2016). Nevertheless, current and ongoing research into the agent's mechanism of action as an emergency contraceptive continue to provide potentially plausible evidence that ulipristal may, in fact, elicit activity on the endometrium that prevents embryo implantation 10 , 11 , 12 .
+
+## Pharmacodynamics
+
+Ulipristal is a selective, reversible progestin receptor modulator and its tissue targets include the uterus, cervix, ovaries, and hypothalamus. Ulipristal may act as an agonist or antagonist in the presence or absence of progesterone based on the tissue target. If given mid-follicular phase, development of the follicle growth is delayed and estradiol concentrations decrease. If given at the time when luteinizing hormone peaks, follicular rapture is delayed by several days. If given early-luteal phase, a decrease in endometrial thickness can be observed.
+
+## Mechanism Of Action
+
+Progesterone receptor Modulator Glucocorticoid receptor Antagonist
+
+## Absorption
+
+Tmax, healthy subjects, single oral dose = 60-90 minutes;
+Cmax, healthy subjects, single oral dose = 176 ± 89 ng/mL;
+AUC(0-∞), healthy subjects, single oral dose = 556 ± 260 ng·h/mL;
+
+## Metabolism
+
+Ulipristal is metabolized by CYP3A4 and to a lesser extent by CYP1A2 into mono-demethylated (active) and di-methylated (inactive) metabolites.
+
+## Half Life
+
+Mean elimination half-life, single oral dose, healthy subject = 32.4 ± 6.3 hours
+
+## Clearance
+
+Mean oral clearance, single oral dose, healthy subject (CL/F) = 76.8 ± 64.0L/h

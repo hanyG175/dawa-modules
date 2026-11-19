@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_24_D_017
+DCI: Deferasirox
+DrugBank ID: DB01609
+DrugBank Name: Deferasirox
+Brand Names: CAPTAFER | DEFEROX | EXJADE | KAPTIRON | KELOSIROX
+Pharmaceutical Forms: Comprimé
+Dosages: 125mg
+Packaging: b/28 | b/30 | b/30 et b/90
+Registration Numbers: 001/24 D 017/15/25 | 068/24 D 017/08 | 317/24 D 017/16/23 | 352/24 D 017/16/22 | 447/24 D 017/17/22
+Drug Codes: 24 D 017
+
+------------------------------------------------------------
+
+## Description
+
+Deferasirox is an iron chelator and the first oral medication FDA approved for chronic iron overload in patients receiving long term blood transfusions.
+
+## Pharmacodynamics
+
+Deferasirox is an orally active chelator that is selective for iron (as Fe3+). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox. The clinical significance of these decreases is uncertain.
+
+## Mechanism Of Action
+
+Iron Chelator
+
+## Absorption
+
+The absolute bioavailability (AUC) of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
+
+## Metabolism
+
+Hepatic. CYP450-catalyzed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%). Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.
+
+## Route Of Elimination
+
+Deferasirox and metabolites are primarily (84% of the dose) excreted in the feces.
+Renal excretion of deferasirox and metabolites is minimal (8% of the administered dose).
+
+## Half Life
+
+The mean elimination half-life ranged from 8 to 16 hours following oral administration.

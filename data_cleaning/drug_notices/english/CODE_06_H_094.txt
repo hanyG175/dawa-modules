@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_094
+DCI: AMILORIDE CHLORHYDRATE 5 mg + HYDROCHLOROTHIAZIDE 50 mg cp (AMILORIDE HYDROCHLOROTHIAZIDE TEVA)
+DrugBank ID: DB00594
+DrugBank Name: Amiloride
+Brand Names: AMURETIC | DUDREX
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg/50mg
+Packaging: b/30
+Registration Numbers: 055/06 H 094/98/12 | 065/06 H 094/03/22
+Drug Codes: 06 H 094
+
+------------------------------------------------------------
+
+## Description
+
+A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+
+## Pharmacodynamics
+
+Amiloride, an antikaliuretic-diuretic agent, is a pyrazine-carbonyl-guanidine that is unrelated chemically to other known antikaliuretic or diuretic agents. It is an antihypertensive, potassium-sparing diuretic that was first approved for use in 1967 and helps to treat hypertension and congestive heart failure. The drug is often used in conjunction with thiazide or loop diuretics. Due to its potassium-sparing capacities, hyperkalemia (high blood potassium levels) are occasionally observed in patients taking amiloride. The risk is high in concurrent use of ACE inhibitors or spironolactone. Patients are also advised not to use potassium-containing salt replacements.
+
+## Mechanism Of Action
+
+Epithelial sodium channel subunit alpha Inhibitor Epithelial sodium channel subunit beta Inhibitor Epithelial sodium channel subunit gamma Inhibitor + 1 more target
+
+## Absorption
+
+Readily absorbed following oral administration.
+
+## Metabolism
+
+Amiloride is not metabolized by the liver but is excreted unchanged by the kidneys.
+
+## Route Of Elimination
+
+Amiloride HCl is not metabolized by the liver but is excreted unchanged by the kidneys. About 50 percent of a 20 mg dose of amiloride HCl is excreted in the urine and 40 percent in the stool within 72 hours.
+
+## Half Life
+
+Plasma half-life varies from 6 to 9 hours.
+
+## Toxicity
+
+No data are available in regard to overdosage in humans. The oral LD 50 of amiloride hydrochloride (calculated as the base) is 56 mg/kg in mice and 36 to 85 mg/kg in rats, depending on the strain. The most likely signs and symptoms to be expected with overdosage are dehydration and electrolyte imbalance.

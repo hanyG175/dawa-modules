@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_032
+DCI: CARBIDOPA 25 mg + LEVODOPA 250 mg cp (LEVODOPA CARBIDOPA TEVA)
+DrugBank ID: DB01235
+DrugBank Name: Levodopa
+Brand Names: LEVOCARB | LEVODOZ | LEVOMED
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg/25mg | 250mg/25mg**
+Packaging: b/100
+Registration Numbers: 149/15 D 032/21 | 178/15 D 032/99 | 235/15 D 032/11/24
+Drug Codes: 15 D 032
+
+------------------------------------------------------------
+
+## Description
+
+Levodopa is a prodrug of dopamine that is administered to patients with Parkinson's due to its ability to cross the blood-brain barrier Label . Levodopa can be metabolised to dopamine on either side of the blood-brain barrier and so it is generally administered with a dopa decarboxylase inhibitor like carbidopa to prevent metabolism until after it has crossed the blood-brain barrier Label , 1 . Once past the blood-brain barrier, levodopa is metabolized to dopamine and supplements the low endogenous levels of dopamine to treat symptoms of Parkinson's Label . The first developed drug product that was approved by the FDA was a levodopa and carbidopa combined product called Sinemet that was approved on May 2, 1975 1 , 7 .
+
+## Pharmacodynamics
+
+Levodopa is able to cross the blood-brain barrier while dopamine is not Label , 8 . The addition of a peripheral dopa decarboxylase inhibitor prevents the conversion of levodopa to dopamine in the periphery so that more levodopa can reach the blood-brain barrier Label , 8 . Once past the blood-brain barrier, levodopa is converted to dopamine by aromatic-L-amino-acid decarboxylase Label , 8 .
+
+## Mechanism Of Action
+
+D(1A) dopamine receptor Agonist D(1B) dopamine receptor Agonist D(2) dopamine receptor Agonist + 2 more targets
+
+## Absorption
+
+Orally inhaled levodopa reaches a peak concentration in 0.5 hours with a bioavailability than is 70% that of the immediate release levodopa tablets with a peripheral dopa decarboxylase inhibitor like carbidopa or benserazide Label , 1 .
+
+## Volume Of Distribution
+
+168L for orally inhaled levodopa Label .
+
+## Metabolism
+
+Levodopa is either converted to dopamine by aromatic-L-amino-acid decarboxylase or O-methylated to 3-O-methyldopa by catechol-O-methyltransferase Label , 2 , 3 . 3-O-methyldopa cannot be metabolized to dopamine 3 . Once levodopa is converted to dopamine, it is converted to sulfated or glucuronidated metabolites, epinephrine E, or homovanillic acid through various metabolic processes 2 . The primary metabolites are 3,4-dihydroxyphenylacetic acid (13-47%) and homovanillic acid (23-39%) 3 , 5 . Hover over products below to view reaction partners Levodopa Dopamine Dopamine-3-O-glucuronide + Dopamine-4-O-glucuronide Dopamine-3-O-sulfate + Dopamine-4-O-sulfate 3,4-Dihydroxyphenylacetaldehyde (DOPAL) 3,4-dihydroxyphenylethanol (DOPET) 3,4-dihydroxyphenylacetic acid (DOPAC) Homovanillic acid Norepinephrine Epinephrine E 3-Methoxytyramine 3-methoxy-4-hydroxyacetaldehyde Homovanillic acid Levodopa Methylated Metabolite
+
+## Route Of Elimination
+
+After 48 hours, 0.17% of an orally administered dose is recovered in stool, 0.28% is exhaled, and 78.4% is recovered in urine 5
+
+## Half Life
+
+2.3 hours for orally inhaled levodopa Label . Oral levodopa has a half life of 50 minutes but when combined with a peripheral dopa decarboxylase inhibitor, the half life is increased to 1.5 hours 8 .
+
+## Clearance
+
+Intravenously administered levodopa is cleared at a rate of 14.2mL/min/kg in elderly patients and 23.4mL/min/kg in younger patients 4 . When given carbidopa, the clearance of levodopa was 5.8mL/min/kg in elderyly patients and 9.3mL/min/kg in younger patients 4 .
+
+## Toxicity
+
+There is no readily available data for the use of levodopa in pregnancy Label . Rabbits treated with levodopa and carbidopa produced smaller litters and their offspring developed visceral and skeletal deformities Label . Levodopa may lower prolactin and interfere with lactation but there is limited human data to demonstrate this effect Label . Levodopa is present in human breast milk and so the potential effects of nursing while taking levodopa should be considered before prescribing levodopa to nursing mothers Label . There is currently a lack of data on the safety and effectiveness of using levodopa in pediatric patients Label . Patients over 65 years of age are more likely to experience adverse effects associated with taking levodopa, however this generally is not sufficient to exclude this patient group from treatment Label .

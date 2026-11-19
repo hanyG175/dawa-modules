@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_A_142
+DCI: Exemestane
+DrugBank ID: DB00990
+DrugBank Name: Exemestane
+Brand Names: AROMEX
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: boite de 30
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: L02BG06
+Registration Numbers: 285/09 A 142/22
+Drug Codes: 09 A 142
+
+------------------------------------------------------------
+
+## Description
+
+Exemestane is an oral steroidal aromatase inhibitor used in the adjuvant treatment of hormonally-responsive (also called hormone-receptor-positive, estrogen-responsive) breast cancer in postmenopausal women. It irreversibly binds to the active site of the enzyme resulting in permanent inhibition.
+
+## Pharmacodynamics
+
+Aromatase is an enzyme that converts hormones to estrogen in the body's adrenal glands. The aromatase inhibitors (AIs) are drugs that reduce estrogen levels by blocking the action of aromatase in the adrenal glands. The selective AIs (SAIs) selectively reduce levels of estrogen without interfering with levels of other steroid hormones that are produced by the adrenal gland. Drugs in this class include anastrozole (Arimidex ™), letrozole (Femara ™) and exemestane (Aromasin ™).
+
+## Mechanism Of Action
+
+Aromatase Inhibitor
+
+## Metabolism
+
+Hepatic
+
+## Half Life
+
+24 hours
+
+## Toxicity
+
+Convulsions

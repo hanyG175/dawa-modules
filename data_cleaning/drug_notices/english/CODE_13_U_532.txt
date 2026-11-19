@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_U_532
+DCI: virus vivants atténués du chikungunya
+DrugBank ID: DB13889
+DrugBank Name: Meningococcal polysaccharide vaccine group A
+Brand Names: MENQUADFI
+Pharmaceutical Forms: Solution
+Dosages: 10mcg polyoside de neisseria meningitidis de groupe a+10mcg polyoside de neisseria meningitidis de groupe c+10mcg polyoside de neisseria meningitidis de groupe w +10mcg polyoside de neisseria meningitidis de groupe y
+Packaging: b/01 et b/05
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J07 - VACCINS | J07B - VACCINS VIRAUX | J07BP - VACCINS CONTRE LE CHIKUNGUNYA | J07BP01 - CHIKUNGUNYA, VIRUS VIVANT ATTENUE
+Registration Numbers: 345/13 U 532/25
+Drug Codes: 13 U 532
+
+------------------------------------------------------------
+
+## Description
+
+Meningococcal group A polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup A. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup A.

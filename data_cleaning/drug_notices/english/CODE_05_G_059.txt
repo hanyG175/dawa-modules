@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_059
+DCI: Fluorouracile
+DrugBank ID: DB00544
+DrugBank Name: Fluorouracil
+Brand Names: UTORAL
+Pharmaceutical Forms: Solution
+Dosages: 50mg/ml
+Packaging: b/10 ampoules de 5 ml (250 mg/5ml) .b/10 flacon de 10 ml (500 mg/ml) .b/10 flacon de 20ml (1g/20ml)
+Laboratories: P FIZER HOLDING F R A NC E | 2 3-25 AVE N U E D U DOCT E UR L A N N E L O N G U E | 7 5 0 1 4 PARIS
+Registration Numbers: 516/05 G 059/16
+Drug Codes: 05 G 059
+
+------------------------------------------------------------
+
+## Description
+
+A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid.
+
+## Pharmacodynamics
+
+Fluorouracil is an antineoplastic anti-metabolite. Anti-metabolites masquerade as purine or pyrimidine - which become the building blocks of DNA. They prevent these substances from becoming incorporated into DNA during the "S" phase (of the cell cycle), stopping normal development and division. Fluorouracil blocks an enzyme which converts the cytosine nucleotide into the deoxy derivative. In addition, DNA synthesis is further inhibited because Fluorouracil blocks the incorporation of the thymidine nucleotide into the DNA strand.
+
+## Mechanism Of Action
+
+DNA Incorporation into and destabilization RNA Incorporation into and destabilization Thymidylate synthase Other/unknown
+
+## Metabolism
+
+Hepatic. The catabolic metabolism of fluorouracil results in degradation products ( e.g., CO2, urea and α-fluoro-ß-alanine) which are inactive.
+
+## Route Of Elimination
+
+Seven percent to 20% of the parent drug is excreted unchanged in the urine in 6 hours; of this over 90% is excreted in the first hour.
+The remaining percentage of the administered dose is metabolized, primarily in the liver.
+
+## Half Life
+
+10-20 minutes
+
+## Toxicity
+
+LD 50 =230mg/kg (orally in mice)

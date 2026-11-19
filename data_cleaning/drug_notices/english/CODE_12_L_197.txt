@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_L_197
+DCI: PEGFILGRASTIM 6 mg/0,6 ml sol inj ser préremplie (GRASUSTEK) | Pegfilgrastim
+DrugBank ID: DB00019
+DrugBank Name: Pegfilgrastim
+Brand Names: FULPHILA | GRASUSTEK | NEULASTIM | PELGRAZ
+Pharmaceutical Forms: Sol Pour Inj | Solution
+Dosages: 6 mg
+Packaging: boite de 01 seringue pre remplie de 0.6ml
+Laboratories: ZENTIVA FRANCE
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L03 - IMMUNOSTIMULANTS | L03A - IMMUNOSTIMULANTS | L03AA - FACTEURS DE CROISSANCE | L03AA13 - PEGFILGRASTIM
+Registration Numbers: 001/12 L 197/23 | 481/12 L 197/18 | 534/12 L 197/23 | 613/12 L 197/23
+Drug Codes: 12 L 197
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Pegfilgrastim is a recombinant human granulocyte colony-stimulating factor (G-CSF) that promotes the production, proliferation, and maturation of neutrophils, which are white blood cells involved in both innate and adaptive immune responses. 4 , 7 The safety and efficacy of pegfilgrastim in reducing the risk of febrile neutropenia and infections have been demonstrated in various tumor types and settings. 4 During chemotherapy-induced neutropenia, the clearance of pegfilgrastim is significantly reduced and the concentration of pegfilgrastim is sustained until the onset of neutrophil recovery. 1 Serum concentrations of pegfilgrastim decline as the neutrophil count increases as neutrophil and neutrophil precursors are involved in cell-mediated clearance of the drug. 2 Due the addition of polyethylene glycol group to its structure, Pegfilgrastim is a long-acting form of filgrastim with an extended serum half-life and reduced renal clearance. 3 Although it is more slowly absorbed than filgrastim, self-regulation of pegfilgrastim is more efficient and the drug effects are maintained during one chemotherapy cycle (2-3 weeks). 1
+
+## Mechanism Of Action
+
+Granulocyte colony-stimulating factor receptor Agonist
+
+## Absorption
+
+Pegfilgrastim has a lower absolute bioavailability than filgrastim following subcutaneous administration. The absorption of pegfilgrastim is largely dependent on the lymphatic system due to the attached PEG group contributing to the large size of the drug. It is slowly absorbed following subcutaneous administration with a time to peak concentration (T max ) of about one to two days. 1
+
+## Volume Of Distribution
+
+Pegfilgrastim appears to have a volume of distribution of approximately 170 L. 6
+
+## Metabolism
+
+It is not know whether pegfilgrastim is metabolized into major metabolites. 13 Once it binds to the therapeutic target, pegfilgrastim is internalized by the neutrophil and undergoes nonspecific degradation. 1
+
+## Route Of Elimination
+
+The polyethylene glycol moiety limits the renal clearance by glomerular filtration of pegfilgrastim, making neutrophil-mediated clearance as the predominant route of elimination. 3 This elimination pathway is initiated by the binding of pegfilgrastim to the G-CSF receptor on the neutrophil cell surface, leading to the internalization of the pegfilgrastim-receptor complex via endocytosis and subsequent degradation inside the cell. While hepatic clearance has not been well characterized for pegfilgrastim, its non-PEGylated precursor filgrastim is known to be unaffected by changes in hepatic clearance. 1
+
+## Half Life
+
+The serum half-life of Pegfilgrastim is highly variable depending on the absolute neutrophil count, with the range of 15 to 80 hours following subcutaneous administration. The median serum half-life of 42 hours. 3 , 8
+
+## Clearance
+
+Pegfilgrastim has a self-regulating clearance that involves neutrophil-induced clearance. 1 , 4 The clearance is dependent on the number of neutrophils and body weight of the patient: the clearance increases with increasing number of granulocytes and lower body weights. 8 Pegfilgrastim is not eliminated from the circulation until neutrophils start to recover following chemotherapy-induced neutropenia and its clearance is increased as neutrophil counts also increase. 4 The apparent serum clearance is 14 mL/h/kg. 13
+
+## Toxicity
+
+The maximum safe dose of pegfilgrastim has not been established; however, the highest dose used in clinical trials was 300 mcg/kg. 7 Overdosage of pegfilgrastim may result in leukocytosis and bone pain. Events of edema, dyspnea, and pleural effusion have been reported in a single patient who self-administered pegfilgrastim on 8 consecutive days in error. In the event of overdose, the patient should be monitored for signs and symptoms of toxicity and responded with appropriate general supportive care. 8 , 7

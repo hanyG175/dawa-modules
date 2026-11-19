@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_251
+DCI: Bosutinib
+DrugBank ID: DB06616
+DrugBank Name: Bosutinib
+Brand Names: XORIAN
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/28
+Laboratories: BIOGARAN | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: L01EA04
+Registration Numbers: 001/05 C 251/25
+Drug Codes: 05 C 251
+
+------------------------------------------------------------
+
+## Description
+
+Bosutinib is a 7-alkoxy-3-quinolinecarbonitrile that functions as a potent, dual SRC and ABL tyrosine kinase inhibitor indicated for chronic myelogenous leukemia (CML), specifically Philadelphia chromosome-positive (Ph+) CML. Philadelphia chromosome is a hallmark of CML due to the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR-ABL fusion protein. 2 , 3 , 5 The first BCR-ABL inhibitor, imatinib , was introduced over a decade ago as a breakthrough in CML management; however, emerging resistance to imatinib poses challenges in achieving remission. 4 Second-generation BCR-ABL inhibitors like bosutinib inhibit most resistance-conferring BCR-ABL mutations except V299L and T315, thus providing more therapeutic options for patients. 1 , 4 Bosutinib was first approved by the FDA in 2012 for the treatment of adult chronic, accelerated, or blast-phase Ph+ CML with resistance or intolerance to prior therapy. 10 On September 26, 2023, bosutinib was also approved by the FDA for the treatment of pediatric CML that is newly diagnosed or resistant/intolerant to prior therapy. This approval was based on favorable results obtained from the open-label, randomized, multicenter trial BFORE that showed a significant improvement in major molecular response, defined as a ≤0.1% BCR ABL ratio on an international scale, with bosutinib treatment. 11
+
+## Pharmacodynamics
+
+A greater likelihood of response and a greater likelihood of safety events were observed with higher bosutinib exposure in clinical studies. The time course of bosutinib pharmacodynamic response has not been fully characterized. 6 At a single oral dose of 500 mg bosutinib with ketoconazole (a strong CYP3A inhibitor), bosutinib does not prolong the QT interval to any clinically relevant extent. 6
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase Lyn Inhibitor Dual specificity mitogen-activated protein kinase kinase 1 Inhibitor Dual specificity mitogen-activated protein kinase kinase 2 Inhibitor + 6 more targets
+
+## Absorption
+
+Bosutinib exhibits dose-proportional increases in C max and AUC over the oral dose range of 200 to 800 mg (0.33 to 1.3 times the maximum approved recommended dosage of 600 mg). Bosutinib steady-state C max was 127 ng/mL (31%), C trough was 68 ng/mL (39%) and AUC was 2370 ng•h/mL (34%) following multiple oral doses of bosutinib 400 mg. Bosutinib steady-state C max was 171 ng/mL (38%), C trough was 91 ng/mL (42%) and AUC was 3150 ng•h/mL (38%) following multiple oral doses of bosutinib 500 mg. No clinically significant differences in the pharmacokinetics of bosutinib were observed following administration of either the tablet or capsule dosage forms of bosutinib at the same dose, under fed conditions. 6 The median bosutinib (minimum, maximum) t max was 6.0 (6.0, 6.0) hours following oral administration of a single oral dose of bosutinib 500 mg with food. The absolute bioavailability was 34% in healthy subjects. 6 Bosutinib C max increased 1.8-fold and AUC increased 1.7-fold when bosutinib tablets were given with a high-fat meal to healthy subjects compared to administration under fasted conditions. Bosutinib C max increased 1.6-fold and AUC increased 1.5-fold when bosutinib capsules were given with a high-fat meal to healthy subjects compared to administration under fasted conditions. The high-fat meal (800-1000 total calories) consisted of approximately 150 protein calories, 250 carbohydrate calories, and 500-600 fat calories. 6
+
+## Volume Of Distribution
+
+The mean (SD) apparent bosutinib volume of distribution is 6080 ± 1230 L after an oral dose of 500 mg of bosutinib. 6
+
+## Metabolism
+
+Bosutinib is primarily metabolized by CYP3A4. The major circulating metabolites identified in plasma are oxydechlorinated (M2) bosutinib (19% of parent exposure) and N-desmethylated (M5) bosutinib (25% of parent exposure), with bosutinib N-oxide (M6) as a minor circulating metabolite. All the metabolites were deemed inactive. Hover over products below to view reaction partners Bosutinib N-desmethylbosutinib Oxydechlorinated bosutinib
+
+## Route Of Elimination
+
+Following a single oral dose of [ 14 C] radiolabeled bosutinib without food, 91.3% of the dose was recovered in feces and 3.3% of the dose was recovered in urine. 6
+
+## Half Life
+
+The mean (SD) bosutinib terminal phase elimination half-life (t 1/2 ) was 22.5 ± 1.7 hours following a single oral dose of bosutinib. 6
+
+## Clearance
+
+The mean (SD) apparent clearance was 189 ± 48 L/h following a single oral dose of bosutinib. 6
+
+## Toxicity
+
+In a rat fertility and early embryonic development study, bosutinib was administered orally to female rats for approximately 3 to 6 weeks, depending on the day of mating (2 weeks prior to cohabitation with untreated breeder males until gestation day GD 7). Increased embryonic resorptions occurred at greater than or equal to 10 mg/kg/day of bosutinib (1.6 and 1.2 times the human exposure at the recommended doses of 400 or 500 mg/day, respectively), and decreased implantations and reduced number of viable embryos at 30 mg/kg/day of bosutinib (3.4 and 2.5 times the human exposure at the recommended doses of 400 or 500 mg/day, respectively). 6 In an embryo-fetal development study conducted in rabbits, bosutinib was administered orally to pregnant animals during organogenesis at doses of 3, 10, and 30 mg/kg/day. At the maternally-toxic dose of 30 mg/kg/day of bosutinib, there were fetal anomalies (fused sternebrae and 2 fetuses had various visceral observations), and an approximate 6% decrease in fetal body weight. The dose of 30 mg/kg/day resulted in exposures (AUC) approximately 5.1 and 3.8 times the human exposures at the recommended doses of 400 and 500 mg/day, respectively. 6 Fetal exposure to bosutinib-derived radioactivity during pregnancy was demonstrated in a placental-transfer study in pregnant rats. In a rat pre-and postnatal development study, bosutinib was administered orally to pregnant animals during the period of organogenesis through lactation day 20 at doses of 10, 30, and 70 mg/kg/day. Reduced number of pups born occurred at greater than or equal to 30 mg/kg/day bosutinib (3.4 and 2.5 times the human exposure at the recommended doses of 400 or 500 mg/day, respectively), and increased incidence of total litter loss and decreased growth of offspring after birth occurred at 70 mg/kg/day bosutinib (6.9 and 5.1 times the human exposure at the recommended doses of 400 or 500 mg/day, respectively). 6 Experience with bosutinib overdose in clinical studies was limited to isolated cases. There were no reports of any serious adverse events associated with the overdoses. Patients who take an overdose of BOSULIF should be observed and given appropriate supportive treatment. 6 Bosutinib was not carcinogenic in rats or transgenic mice. The rat 2-year carcinogenicity study was conducted at bosutinib oral doses up to 25 mg/kg in males and 15 mg/kg in females. Exposures at these doses were approximately 1.5 times (males) and 3.1 times (females) the human exposure at the 400 mg dose and 1.2 times (males) and 2.4 times (females) exposure in humans at the 500 mg dose. The 6-month RasH2 transgenic mouse carcinogenicity study was conducted at bosutinib oral doses up to 60 mg/kg. 6 Bosutinib was not mutagenic or clastogenic in a battery of tests, including the bacteria reverse mutation assay (Ames Test), the in vitro assay using human peripheral blood lymphocytes and the micronucleus test in orally treated male mice. 6 In a rat fertility study, drug-treated males were mated with untreated females or untreated males were mated with drug-treated females. Females were administered the drug from pre-mating through early embryonic development. The dose of 70 mg/kg/day of bosutinib resulted in reduced fertility in males as demonstrated by 16% reduction in the number of pregnancies. There were no lesions in the male reproductive organs at this dose. This dose of 70 mg/kg/day resulted in exposure (AUC) in male rats approximately 1.5 times and equal to human exposure at the recommended doses of 400 and 500 mg/day, respectively. Fertility (number of pregnancies) was not affected when female rats were treated with bosutinib. However, there were increased embryonic resorptions at greater than or equal to 10 mg/kg/day of bosutinib (1.6 and 1.2 times the human exposure at the recommended doses of 400 and 500 mg/day, respectively), and decreased implantations and reduced number of viable embryos at 30 mg/kg/day of bosutinib (3.4 and 2.5 times the human exposure at the recommended doses of 400 or 500 mg/day, respectively). 6

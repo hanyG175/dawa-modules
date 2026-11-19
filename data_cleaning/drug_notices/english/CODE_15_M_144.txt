@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_M_144
+DCI: Nusinersen
+DrugBank ID: DB13161
+DrugBank Name: Nusinersen
+Brand Names: SPINRAZA
+Pharmaceutical Forms: Sol Pour Inj Intrathecale
+Dosages: 12mg/5ml
+Packaging: flacon/5ml
+Registration Numbers: 628/15 M 144/24
+Drug Codes: 15 M 144
+
+------------------------------------------------------------
+
+## Description
+
+An antisense oligonucleotide that induces survival motor neuron (SMN) protein expression, it was approved by the U.S. FDA in December, 2016 as Spinraza for the treatment of children and adults with spinal muscular atrophy (SMA). It is adminstrated as direct intrathecal injection.
+
+## Pharmacodynamics
+
+Autopsy samples from patients (n=3) had higher levels of SMN2 messenger ribonucleic acid (mRNA) containing exon 7 in the thoracic spinal cord compared to untreated SMA infants.
+Cardiac Electrophysiology: In 121 patients with spinal muscular atrophy who received either nusinersen or sham-control, QTcF values >500 ms and change from baseline values >60 ms were observed in 5% of patients receiving nusinersen. Compared to the sham-control, there was no increase in the incidence of cardiac adverse reactions associated with delayed ventricular repolarization in patients treated with nusinersen.
+
+## Mechanism Of Action
+
+Survival of motor neuron 1, telomeric Antisense oligonucleotide
+
+## Absorption
+
+Intrathecal injection of nusinersen into the cerebrospinal fluid (CSF) allows it to be distributed from the CSF to the target central nervous system (CNS) tissues. Following intrathecal administration, trough plasma concentrations of nusinersen were relatively low, compared to the trough CSF concentration. Median plasma Tmax values ranged from 1.7 to 6.0 hours. Mean plasma Cmax and AUC values increased approximately dose-proportionally up to a dose of 12 mg.
+
+## Volume Of Distribution
+
+CSF: 0.4 L
+Plasma: 29 L
+
+## Metabolism
+
+Nusinersen is metabolized via exonuclease (3’- and 5’)-mediated hydrolysis primarily at the 3' end of the oligonucleotide. It is not a substrate for, or inhibitor or inducer of CYP450 enzymes. N-1 metabolites of the drug can be detected in the cerebrospinal fluid while N-1,2,3 metabolites can be predominantly detected in the plasma 2 .
+
+## Route Of Elimination
+
+Excreted by the kidney as chain-shortened oligonucleotides, which are not considered pharmacologically active.
+
+## Half Life
+
+The mean terminal elimination half-life is estimated to be 135 to 177 days in CSF, and 63 to 87 days in plasma Label .
+
+## Clearance
+
+Slow clearance is observed
+
+## Toxicity
+
+Single injection to adult monkeys produced apparent acute neurological impairment.

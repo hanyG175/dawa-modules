@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_033
+DCI: Flurbiprofene
+DrugBank ID: DB00712
+DrugBank Name: Flurbiprofen
+Brand Names: ANTADINE | ANTALFEN-GYN | FLUBIFENE | FLUDIS | FLURBINAD | FLURBIPROFAL | HUPTADYS | MENODIS | XYDOL GYN
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/16 | b/20
+Registration Numbers: 035/04 B 033/15/21 | 039/04 B 033/13/23 | 097/04 B 033/07/15 | 235/04 B 033/16/24 | 268/04 B 033/15/25 | 304/04 B 033/06/24 | 317/04 B 033/16/24 | 380/04 B 033/15/21 | 468/04 B 033/14
+Drug Codes: 04 B 033
+
+------------------------------------------------------------
+
+## Description
+
+Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+
+## Pharmacodynamics
+
+Flurbiprofen, a nonsteroidal anti-inflammatory agent (NSAIA) of the propionic acid class, is structually and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen, and has similar pharmacological actions to other prototypica NSAIAs. Flurbiprofen exhibits antiinflammatory, analgesic, and antipyretic activities. The commercially available flurbiprofen is a racemic mixture of (+)S- and (-) R-enantiomers. The S-enantiomer appears to possess most of the anti-inflammatory, while both enantiomers may possess analgesic activity.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Fluribiprofen is rapidly and almost completely absorbed following oral administration. Peak plasma concentrations are reached 0.5 - 4 hours after oral administration.
+
+## Volume Of Distribution
+
+14 L [Normal Healthy Adults] 12 L [Geriatric Arthritis Patients] 10 L [End Stage Renal Disease Patients] 14 L [Alcoholic Cirrhosis Patients] 0.12 L/kg
+
+## Metabolism
+
+Hepatic. Cytochrome P450 2C9 plays an important role in the metabolism of flurbiprofen to its major metabolite, 4’-hydroxy-flurbiprofen. The 4’-hydroxy-flurbiprofen metabolite showed little anti-inflammatory activity in animal models of inflammation. Hover over products below to view reaction partners Flurbiprofen 4'-Hydroxyflurbiprofen Flurbiprofen glucuronide
+
+## Route Of Elimination
+
+Flurbiprofen is poorly excreted into human milk. Following dosing with flurbiprofen, less than 3% of flurbiprofen is excreted unchanged in the urine, with about 70% of the dose eliminated in the urine as parent drug and metabolites. Renal elimination is a significant pathway of elimination of flurbiprofen metabolites.
+
+## Half Life
+
+R-flurbiprofen, 4.7 hours; S-flurbiprofen, 5.7 hours
+
+## Toxicity
+
+LD 50 =10 mg/kg (orally in dogs). Selective COX-2 inhibitors have been associated with increased risk of serious cardiovascular events (e.g. myocardial infarction, stroke) in some patients. Current data is insufficient to assess the cardiovascular risk of flurbiprofen. Flurbiprofen may increase blood pressure and/or cause fluid retention and edema. Use caution in patients with fluid retention or heart failure. Risk of GI toxicity including bleeding, ulceration and perforation. Risk of direct renal injury, including renal papillary necrosis. Anaphylactoid and serious skin reactions (e.g. exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis) may occur. Common adverse events include abdominal pain, constipation, diarrhea, dyspepsia, flatulence, GI bleeding, GI perforation, nausea, peptic ulcer, vomiting, renal function abnormalities, anemia, dizziness, edema, liver function test abnormalities, headache, prolonged bleeding time, pruritus, rash, tinnitus. Although rarely documented in the case of flurbiprofen, oral propionic acid derivatives have been associated with a relatively high frequency of allergic reactions.

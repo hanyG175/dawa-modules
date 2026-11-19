@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_B_163
+DCI: Dalteparine Sodique
+DrugBank ID: DB06779
+DrugBank Name: Dalteparin
+Brand Names: FRAGMINE
+Pharmaceutical Forms: Solution
+Dosages: 2500ui anti-xa/0.2ml
+Packaging: b/02sering. prerempl. de 0.2ml avec système de securite de l'aiguille
+Laboratories: PFIZER HOLDING FRANCE | 23-25, AVENUE DU DOCTEUR LANNELONGUE | 75014 PARIS
+ATC Classification: B01AB04
+Registration Numbers: 045/12 B 163/13
+Drug Codes: 12 B 163
+
+------------------------------------------------------------
+
+## Description
+
+Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+
+## Pharmacodynamics
+
+Dalteparin has an antithrombin binding site that is essential for high affinity binding to the plasma protein antithrombin (ATIII). Anti-Xa activity of plasma is used as both as an estimate of clotting activity, and as a basis to determine dosage. Its use should be avoided in patients with a creatinine clearance less than 20mL/min. In these patients, unfractionated heparin should only be used. As for monitoring, active partial thromboplastin time (aPTT) will only increase at high doses of low molecular weight heparins (LMWH). Therefore, monitoring aPTT is not recommended. However, anti-Xa activity can be measured to monitor the efficacy of the LMWH.
+
+## Mechanism Of Action
+
+Antithrombin-III Potentiator Vascular endothelial growth factor A, long form Inhibitor
+
+## Absorption
+
+Almost completely absorbed after subcutaneous (sc) doses, with a bioavialability of about 87%.
+
+## Volume Of Distribution
+
+3 litres
+
+## Metabolism
+
+Liver and the reticulo-endothelial system are the sites of biotransformation. They are partially metabolized by desulphatation and depolymerization.
+
+## Route Of Elimination
+
+After 4 hours, about 20% is seen in urine. Most of the remainder is found in the liver, gastrointestinal tract and kidney. The kidneys are the major site of dalteparin excretion (approximately 70% based on animal studies).
+
+## Half Life
+
+Terminal Half life:
+Intravenous - 2 hours. Subcutaneous - 3-5hours
+
+## Clearance
+
+Excreted via kidneys. The plasma clearance rate is 33 mL/min.
+
+## Toxicity
+
+Overdosage: hemorrhagic complications.
+Adverse Drug Reaction:
+(common) osteopenia with extended use; mild, reversible non-immunological thrombocytopenia; transient elevation of liver transaminases; alopecia.
+(uncommon): severe immunologically-mediated heparin-induced thrombocytopenia; anaphylactic reactions; skin rash, skin necrosis; retroperitoneal hemorrhage; angioedema

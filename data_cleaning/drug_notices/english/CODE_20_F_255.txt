@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_F_255
+DCI: BUDESONIDE 160 µg/dose + FORMOTEROL FUMARATE 5 µg/dose + GLYCOPYRRONIUM (bromure) 7,2 µg/dose susp p inhal en fl press (TRIXEO AEROSPHERE)
+DrugBank ID: DB00983
+DrugBank Name: Formoterol
+Brand Names: BREZTRI AEROSPHERE
+Pharmaceutical Forms: Suspension
+Dosages: 5mcg/7.2mcg/160mcg
+Packaging: etui 120 doses
+Laboratories: AstraZeneca
+Registration Numbers: 256/20 A 255/25
+Drug Codes: 20 F 255
+
+------------------------------------------------------------
+
+## Description
+
+Formoterol is an inhaled beta 2 -agonist used in the management of COPD and asthma that was first approved for use in the United States in 2001. 10 It acts on bronchial smooth muscle to dilate and relax airways, and is administered as a racemic mixture of its active (R;R)- and inactive (S;S)-enantiomers. 2 A major clinical advantage of formoterol over other inhaled beta-agonists is its rapid onset of action (2-3 minutes), which is at least as fast as salbutamol , combined with a long duration of action (12 hours) - for this reason, treatment guidelines for asthma recommend its use as both a reliever and maintenance medication. 18 It is available as a single-entity product 10 , 16 and in several formulations in combination with both inhaled corticosteroids 13 , 15 and long-acting muscarinic antagonists. 12 , 11
+
+## Pharmacodynamics
+
+Formoterol works locally in the lungs as a bronchodilator, relaxing smooth muscle and opening up the airways. It possesses both a rapid onset of action (approximately 2-3 minutes) 8 and a long duration of action (up to 12 hours). 16 The use of long-acting beta-agonists (LABAs), such as formoterol, without concomitant inhaled corticosteroids in asthmatic patients should be avoided, as LABA monotherapy has been associated with an increased risk of asthma-related death. 16
+
+## Mechanism Of Action
+
+Beta-2 adrenergic receptor Agonist
+
+## Absorption
+
+The pulmonary bioavailability of formoterol has been estimated to be about 43% of the delivered dose, while the total systemic bioavailability is approximately 60% of the delivered dose (as systemic bioavailability accounts for absorption in the gut). 16 Formoterol is rapidly absorbed into plasma following inhalation. In healthy adults, formoterol T max ranged from 0.167 to 0.5 hours. 13 Following a single dose of 10 mcg, C max and AUC were 22 pmol/L and 81 pmol.h/L, respectively. In asthmatic adult patients, T max ranged from 0.58 to 1.97 hours. 13 Following single-dose administration of 10mcg, C max and AUC 0-12h were 22 pmol/L and 125 pmol.h/L, respectively; following multiple-dose administration of 10 mcg, C max and AUC 0-12h were 41 pmol/L and 226 pmol.h/L, respectively. Absorption appears to be proportional to dose across standard dosing ranges. 13 , 10
+
+## Metabolism
+
+Formoterol is metabolized primarily via direct glucuronidation of the parent drug and via O-demethylation of the parent drug followed by glucuronidation. 10 , 7 Minor pathways include sulfate conjugation of the parent drug and deformylation of the parent drug followed by sulfate conjugation, though these minor pathways have not been fully characterized. The major pathway of formoterol metabolism is a direct glucuronidation of the parent drug at its phenolic hydroxyl group, while the second most prominent pathway involves O-demethylation following by glucuronidation at the phenolic hydroxyl group. 10 , 7 In vitro studies of formoterol disposition indicate that O-demethylation of formoterol involves a number of cytochrome P450 isoenzymes (CYP2D6, CYP2C19, CYP2C9, and CYP2A6) and glucuronidation involves a number of UDP-glucuronosyltransferase isoenzymes (UGT1A1, UGT1A8, UGT1A9, UGT2B7, and UGT2B15), though specific roles for individual enzymes have not been elucidated. 10 Hover over products below to view reaction partners Formoterol O-demethylated formoterol (M1) O-demethylated formoterol (M1) glucuronide 2 O-demethylated formoterol (M1) glucuronide 1 Formoterol glucuronide 1 Formoterol glucuronide 2 Formoterol deformylated metabolite Deformylated formoterol metabolite sulfate conjugate Formoterol sulfate conjugate
+
+## Route Of Elimination
+
+Elimination differs depending on the route and formulation administered. Following oral administration in 2 healthy subjects, approximately 59-62% and 32-34% of an administered dose was eliminated in the urine and feces, respectively. 14 Another study which attempted to mimic inhalation via combined intravenous/oral administration noted approximately 62% of the administered dose in the urine and 24% in the feces. 7 Following inhalation in patients with asthma, approximately 10% and 15-18% of the administered dose was excreted in urine as unchanged parent drug and direct formoterol glucuronides, respectively, and corresponding values in patients with COPD were 7% and 6-9%, respectively. 14
+
+## Half Life
+
+The average terminal elimination half-life of formoterol following inhalation is 7-10 hours, depending on the formulation given. 10 , 16 , 4 The plasma half-life of formoterol has been estimated to be 3.4 hours following oral administration and 1.7-2.3 hours following inhalation. 1
+
+## Clearance
+
+Renal clearance of formoterol following inhalation is approximately 157 mL/min. 10
+
+## Toxicity
+
+The oral LD 50 in rats is 3130 mg/kg. 17 Symptoms of overdose are likely consistent with formoterol's adverse effect profile (i.e. consistent with excessive beta-adrenergic stimulation) and may include angina, hyper or hypotension, tachycardia, arrhythmia, nervousness, headache, tremor, seizures, dry mouth, etc. Patients may experience laboratory abnormalities including hypokalemia, hyperglycemia, and metabolic acidosis. 10 Treatment of overdosage should consist of symptomatic and supportive therapy, with a particular focus on cardiac monitoring. Consider the use of a cardioselective beta-adrenergic blocker to oppose excessive adrenergic stimulation if clinically appropriate. 10

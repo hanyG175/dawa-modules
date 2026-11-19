@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_E_070
+DCI: THIOCOLCHICOSIDE 4 mg cp (THIOCOLCHICOSIDE ALMUS)
+Brand Names: MIOCED | RELAXAN
+Pharmaceutical Forms: Comprimé | Microgranule En Gellule
+Dosages: 4mg
+Packaging: b/10 | b/24
+ATC Classification: M - MUSCLE ET SQUELETTE | M03 - MYORELAXANTS | M03B - MYORELAXANTS A ACTION CENTRALE | M03BX - AUTRES MEDICAMENTS A ACTION CENTRALE | M03BX05 - THIOCOLCHICOSIDE
+Registration Numbers: 231/21 E 070/16/25 | 268/21 E 070/17/22
+Drug Codes: 21 E 070
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | thiocolchicoside : 4 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Posologie à diminuer en cas de diarrhée | Posologie | Patient à partir de 16 an(s) | Patient quel que soit le poids | Contracture en pathologie rachidienne, traitement adjuvant (de la) | Posologie standard | 2 comprimés toutes les 12 heures | Durées absolues de traitement | Ne pas dépasser 7 jours de traitement. | Posologies maximales | Dose maximale par prise: 2 comprimés | Nombre d'unité de prise maximale: 4 comprimés par jour
+
+## Precautions
+
+Epilepsie | Sujet à risque de crise convulsive | Sujet de moins de 16 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Thiocolchicoside : Mécanisme d'action | Analogue soufré, de synthèse, d'un glucoside naturel du colchique, le thiocolchicoside se comporte pharmacologiquement comme un myorelaxant, aussi bien chez l'homme que chez l'animal. Il supprime ou atténue considérablement la contracture d'origine centrale : dans l'hypertonie spastique, il diminue la résistance passive du muscle à l'étirement et réduit ou efface la contracture résiduelle. Son action myorelaxante se manifeste également sur les muscles viscéraux : elle a été mise en évidence notamment sur l'utérus. | Par contre, le thiocolchicoside est dépourvu de tout effet curarisant : c'est en effet par l'intermédiaire du système nerveux central et non par une paralysie de la plaque motrice qu'il agit. Le mode d'action pharmacologique du thiocolchicoside est partiellement élucidé : de récents travaux (2003 et 2007) ont montré que l'activité myorelaxante résulterait d'une action agoniste sur les récepteurs glycinergiques situés principalement au niveau du tronc cérébral et de la moelle épinière. Il n'altère donc pas la motilité volontaire, ne provoque pas de paralysie et évite, de ce fait, tout risque respiratoire. | Le thiocolchicoside est sans influence sur le système cardiovasculaire. | Enfin, le thiocolchicoside agit également comme un antagoniste des récepteurs de type GABA A (principalement situés au niveau du cortex cérébral), cette action pharmacologique étant connue pour avoir des propriétés convulsivantes ou proconvulsivantes.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Réaction cutanée (Peu fréquent) | - Prurit | - Eruption maculopapuleuse | - Erythème cutané | - Eruption vésiculo-bulleuse | - Urticaire | HÉPATOLOGIE: | - Hépatite cholestatique | - Hépatite cytolytique | - Hépatopathie | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Choc anaphylactique (Exceptionnel) | - Réaction anaphylactique | - Oedème de Quincke | SYSTÈME DIGESTIF: | - Douleur épigastrique (Fréquent) | - Nausée (Peu fréquent) | - Diarrhée (Fréquent) | - Vomissement (Peu fréquent) | SYSTÈME NERVEUX: | - Somnolence (Fréquent) | - Epilepsie (crise) | - Convulsions

@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_480
+DCI: RALTEGRAVIR (potassique) 400 mg cp (ISENTRESS)
+DrugBank ID: DB06817
+DrugBank Name: Raltegravir
+Brand Names: ISENTRESS | RALTEGRAVIR 400MG TABLETS
+Pharmaceutical Forms: Comprimé
+Dosages: 400mg
+Packaging: b/01 flacon de 60
+Laboratories: MSD France
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J05 - ANTIVIRAUX A USAGE SYSTEMIQUE | J05A - ANTIVIRAUX A ACTION DIRECTE | J05AJ - INHIBITEURS D'INTEGRASE | J05AJ01 - RALTEGRAVIR
+Registration Numbers: 024/13 P 480/17/25 | 634/13 P 480/24
+Drug Codes: 13 P 480
+
+------------------------------------------------------------
+
+## Description
+
+Raltegravir is an antiretroviral drug produced by Merck & Co., used to treat HIV infection. It received approval by the U.S. Food and Drug Administration (FDA) on 12 October 2007, the first of a new class of HIV drugs, the integrase inhibitors, to receive such approval.
+
+## Mechanism Of Action
+
+Gag-Pol polyprotein (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+Absorbed from the gastrointestinal tract.
+
+## Volume Of Distribution
+
+Approximately 83% bound to human plasma protein and is minimally distributed into red blood cells (blood-to-plasma partitioning ratio of 0.6).
+
+## Metabolism
+
+Hepatic (UGT1A1)
+
+## Route Of Elimination
+
+Feces and urine
+
+## Half Life
+
+9 hours
+
+## Clearance
+
+The major mechanism of clearance of raltegravir in humans is glucuronidation mediated by UGT1A1, the renal clearance of unchanged drug is a minor pathway of elimination of raltegravir (9% of total dose).

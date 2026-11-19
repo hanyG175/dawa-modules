@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_136
+DCI: Simvastatine
+Brand Names: SIMVASTATINE BIOCARE
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 20MG
+Packaging: B/28
+Laboratories: BIOCARE LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 1164.24 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 06M136
+Registration Numbers: 001/06 M 136/00/22 | 293/06 M 136/11 | 309/06 M 136/07/23 | 447/06 M 136/09/24 | 605/06 M 136/07/23
+Drug Codes: 06 M 136
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+HYPOLIPIDEMIANTS

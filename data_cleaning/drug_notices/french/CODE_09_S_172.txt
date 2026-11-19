@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_S_172
+DCI: CINACALCET (chlorhydrate) 60 mg cp (CINACALCET SANDOZ)
+Brand Names: CINACARE | ENDOLET
+Pharmaceutical Forms: Comprimé
+Dosages: 60mg
+Packaging: b/28
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H05 - MEDICAMENTS DE L'EQUILIBRE CALCIQUE | H05B - MEDICAMENTS ANTIPARATHYROÏDIENS | H05BX - AUTRES MEDICAMENTS ANTIPARATHYROÏDIENS | H05BX01 - CINACALCET
+Registration Numbers: 173/09 S 172/16/22 | 293/09 S 172/20/26
+Drug Codes: 09 S 172
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | cinacalcet (chlorhydrate) : 30 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer pendant ou juste après le repas | Utiliser la forme la plus adaptée au patient | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 18 an(s) | 12,5 kg 3 ans IRC terminal dialysé, trt de 2e intention (de l') | Traitement initial | 2,5 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle d'au moins 4 semaines en fonction du taux de PTH | 2,5 à 30 mg 1 fois par jour | Posologie maximale: 2,5 mg/kg par jour | 25 kg 3 ans IRC terminal dialysé, trt de 2e intention (de l') | Traitement initial | 5 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle d'au moins 4 semaines en fonction du taux de PTH | 5 à 60 mg 1 fois par jour | Posologie maximale: 2,5 mg/kg par jour | 36 kg 3 ans IRC terminal dialysé, trt de 2e intention (de l') | Traitement initial | 5 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle d'au moins 4 semaines en fonction du taux de PTH | 5 à 90 mg 1 fois par jour | Posologie maximale: 2,5 mg/kg par jour | 50 kg 3 ans IRC terminal dialysé, trt de 2e intention (de l') | Traitement initial | 10 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle d'au moins 4 semaines en fonction du taux de PTH | 10 à 120 mg 1 fois par jour | Dose maximale par prise: 180 mg | Posologie maximale: 2,5 mg/kg par jour | Poids >= 75 kg | Hyperparathyroïdie secondaire chez l'enfant >3 ans IRC terminal dialysé, trt de 2e intention (de l') | Traitement initial | 15 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle d'au moins 4 semaines en fonction du taux de PTH | 15 à 180 mg 1 fois par jour | Posologie maximale: 180 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hyperparathyroïdie secondaire chez l'insuffisant rénal chronique terminal dialysé | Traitement initial | 30 mg 1 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle de 2 à 4 semaines en fonction du taux de PTH | 30 à 180 mg 1 fois par jour | Posologie maximale: 180 mg par jour | Hypercalcémie due à un cancer de la parathyroïde - Hypercalcémie due à une hyperparathyroïdie primaire | Traitement initial | 30 mg 2 fois par jour | Traitement ultérieur | Posologie à augmenter par palier à intervalle de 2 à 4 semaines en fonction de la calcémie | 30 à 90 mg 2 à 4 fois par jour | Dose maximale par prise: 90 mg | Posologie maximale: 360 mg par jour
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT, antécédent (de l') | Antécédent de convulsions | Enfant de moins de 12,5 kg | Enfant de moins de 6 ans | Enfant entre 6 et 18 ans | Grossesse | Insuffisance cardiaque | Insuffisance hépatique modérée à sévère | Insuffisance rénale chronique terminale | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'hémorragie digestive | Tabagisme | Traitement par un médicament hypocalcémiant
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cinacalcet : Mécanisme d'action | Le récepteur sensible au | calcium | présent à la surface de la cellule principale de la glande parathyroïde est le principal régulateur de la sécrétion de PTH. Le cinacalcet est un agent calcimimétique qui abaisse directement le taux de PTH en augmentant la sensibilité du récepteur sensible au | calcium | extracellulaire. La diminution du taux de PTH est associée à une réduction concomitante de la calcémie. | La réduction du taux de PTH est corrélée à la concentration du cinacalcet. | A l'état d'équilibre, la calcémie reste stable entre deux prises.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperkaliémie (Fréquent) | - Testostéronémie (diminution) (Fréquent) | - Hypocalcémie (Fréquent) | DERMATOLOGIE: | - Eruption cutanée (Fréquent) | - Urticaire | DIVERS: | - Asthénie (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Angioedème | NUTRITION, MÉTABOLISME: | - Appétit diminué (Fréquent) | - Anorexie (Fréquent) | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle (Fréquent) | - Insuffisance cardiaque (aggravation) | - Arythmie ventriculaire | - Allongement de l'espace QT | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Douleur abdominale (Fréquent) | - Diarrhée (Fréquent) | - Constipation (Fréquent) | - Douleur épigastrique (Fréquent) | - Vomissement (Très fréquent) | - Dyspepsie (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Spasme musculaire (Fréquent) | - Douleur musculaire (Fréquent) | - Dorsalgie (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Epilepsie (Fréquent) | - Convulsions (Fréquent) | - Paresthésie (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée (Fréquent) | - Toux (Fréquent) | - Infection des voies respiratoires supérieures (Fréquent)

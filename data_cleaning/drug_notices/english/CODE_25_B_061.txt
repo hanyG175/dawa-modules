@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_061
+DCI: Doxazosine
+DrugBank ID: DB00590
+DrugBank Name: Doxazosin
+Brand Names: DOXAZOSINE BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 4MG
+Packaging: B/30
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 1493 DA
+PPA (DA): 1493.40 DA
+Prescription List: Liste I
+ATC Classification: G04CA05
+Registration Numbers: 045/25 B 061/13 | 289/25 B 061/24 | 400/25 B 061/09
+Drug Codes: 25 B 061
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Doxazosin decreases standing and supine blood pressure 5 and relieves the symptoms of benign prostatic hypertrophy through the inhibition of alpha-1 receptors.
+Doxazosin may cause hypotension due to its pharmacological actions. This frequently occurs in the upright position, leading to a feeling of dizziness or lightheadedness. The first dose of doxazosin may lead to such effects, however, subsequent doses may also cause them. The risk of these effects is particularly high when dose adjustments occur or there are long intervals between doxazosin doses. Treatment should be started with the 1 mg dose of doxazosin, followed by slow titration to the appropriate dose. 19 Patients must be advised of this risk and to avoid situations in which syncope and dizziness could be hazardous following the ingestion of doxazosin. 19 Interestingly doxazosin exerts beneficial effects on plasma lipids. It reduces LDL (low-density lipoprotein) cholesterol and triglyceride levels and increases HDL (high-density lipoprotein) cholesterol levels. 5 A note on priapism risk In rare cases, doxazosin and other alpha-1 blockers may cause priapism, a painful occurrence of persistent and unrelievable penile erection that can lead to impotence if medical attention is not sought as soon as possible. Patients must be advised of the priapism risk associated with doxazosin and to seek medical attention immediately if it is suspected. 9 , 19
+
+## Mechanism Of Action
+
+Alpha-1A adrenergic receptor Antagonist Alpha-1D adrenergic receptor Antagonist
+
+## Absorption
+
+Doxazosin is rapidly absorbed in the gastrointestinal tract and peak concentrations are achieved within 2-3 hours after administration. 11 The bioavailability is about 60%-70%. 7 , 19 The intake of food with doxazosin is not expected to cause clinically significant effects. 19
+
+## Volume Of Distribution
+
+The volume of distribution of doxazosin is 1.0-1.9 L/kg. 7 , 11 In a study of radiolabeled doxazosin administered to pregnant rats, doxazosin was found to cross the placenta. 19
+
+## Metabolism
+
+Hepatic metabolism of doxazosin produces inactive O-demethylated and C-hydroxylated metabolites. Metabolism occurs via O-demethylation of the quinazoline nucleus of doxazosin or via hydroxylation of its benzodioxan portion. 19 The enzymes involved in the metabolism of doxazosin include CYP2C19 23 , CYP2D6, CYP2C19, and CYP3A4, which is the primary metabolizing enzyme. 22 Doxazosin itself is considered to be mainly responsible for its pharmacological action 7 , however, some active metabolites have been identified whose pharmacokinetics have not been adequately characterized. 19 Hover over products below to view reaction partners Doxazosin Demethylated metabolite, Doxazosin Hydroxylated metabolite, Doxazosin
+
+## Route Of Elimination
+
+In a pharmacokinetic study using a 1 mg IV radiolabeled dose and a 2 mg oral dose, 63% of the ingested doxazosin was found to be excreted in the feces and about 9% of the dose was found to be excreted in the urine. 7 , 19 Traces of radiolabeled unchanged drug were found in the urine and about 5% of the administered drug was found as unchanged drug excreted in the feces. 19
+
+## Half Life
+
+The terminal elimination half-life of doxazosin has been estimated at 9-12 hours according to some resources. 4 , 7 The FDA label indicates the elimination half-life of doxazosin is 22 hours. 19
+
+## Clearance
+
+The clearance of doxazosin is low and ranges from approximately 1-2 ml/min/kg. 4 , 11
+
+## Toxicity
+
+LD50 information The oral LD50 of doxazosin in mice is >1000 mg/kg. 21 Overdose information Symptoms of overdose include hypotension, changes in heart rate, and drowsiness. 10 Administer supportive treatment in case of an overdose with doxazosin. Remove unabsorbed doxazosin from the gastrointestinal tract, correct hypotension, and closely monitor vital signs. 10

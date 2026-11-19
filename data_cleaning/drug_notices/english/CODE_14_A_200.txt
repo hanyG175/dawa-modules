@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_200
+DCI: Repaglinide
+DrugBank ID: DB00912
+DrugBank Name: Repaglinide
+Brand Names: REPAGLINIDE BEKER
+Pharmaceutical Forms: Comprimé
+Dosages: 0,5MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 356 DA
+PPA (DA): 355.80 DA
+Prescription List: Liste I
+ATC Classification: 14A200
+Registration Numbers: 001/14 A 200/14/24 | 035/14 A 200/24 | 149/14 A 200/17 | 263/14 A 200/18 | 293/14 A 200/14/24 | 317/14 A 200/15 | 447/14 A 200/17/22
+Drug Codes: 14 A 200
+
+------------------------------------------------------------
+
+## Description
+
+Repaglinide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the meglitinide class of short-acting insulin secretagogues, which act by binding to β cells of the pancreas to stimulate insulin release. Repaglinide induces an early insulin response to meals decreasing postprandial blood glucose levels. It should only be taken with meals and meal-time doses should be skipped with any skipped meal. Approximately one month of therapy is required before a decrease in fasting blood glucose is seen. Meglitnides may have a neutral effect on weight or cause a slight increase in weight. The average weight gain caused by meglitinides appears to be lower than that caused by sulfonylureas and insulin and appears to occur only in those naïve to oral antidiabetic agents. Due to their mechanism of action, meglitinides may cause hypoglycemia although the risk is thought to be lower than that of sulfonylureas since their action is dependent on the presence of glucose. In addition to reducing postprandial and fasting blood glucose, meglitnides have been shown to decrease glycosylated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Meglitinides appear to be more effective at lowering postprandial blood glucose than metformin, sulfonylureas and thiazolidinediones. Repaglinide is extensively metabolized in the liver and excreted in bile. Repaglinide metabolites do not possess appreciable hypoglycemic activity. Approximately 90% of a single orally administered dose is eliminated in feces and 8% in urine.
+
+## Pharmacodynamics
+
+Insulin secretion by pancreatic β cells is partly controlled by cellular membrane potential. Membrane potential is regulated through an inverse relationship between the activity of cell membrane ATP-sensitive potassium channels (ABCC8) and extracellular glucose concentrations. Extracellular glucose enters the cell via GLUT2 (SLC2A2) transporters. Once inside the cell, glucose is metabolized to produce ATP. High concentrations of ATP inhibit ATP-sensitive potassium channels causing membrane depolarization. When extracellular glucose concentrations are low, ATP-sensitive potassium channels open causing membrane repolarization. High glucose concentrations cause ATP-sensitive potassium channels to close resulting in membrane depolarization and opening of L-type calcium channels. The influx of calcium ions stimulates calcium-dependent exocytosis of insulin granules. Repaglinide increases insulin release by inhibiting ATP-sensitive potassium channels in a glucose-dependent manner.
+
+## Mechanism Of Action
+
+ATP-binding cassette sub-family C member 8 Inhibitor Histamine H1 receptor Antagonist
+
+## Absorption
+
+Rapidly and completely absorbed following oral administration. Peak plasma concentrations are observed within 1 hour (range 0.5-1.4 hours). The absolute bioavailability is approximately 56%. Maximal biological effect is observed within 3-3.5 hours and plasma insulin levels remain elevated for 4-6 hours. When a single 2 mg dose of repaglinide is given to healthy subjects, the area under the curve (AUC) is 18.0 - 18.7 (ng/mL/h)^3.
+
+## Volume Of Distribution
+
+31 L following IV administration in healthy individuals
+
+## Metabolism
+
+Repaglinide is rapidly metabolized via oxidation and dealkylation by cytochrome P450 3A4 and 2C9 to form the major dicarboxylic acid derivative (M2). Further oxidation produces the aromatic amine derivative (M1). Glucuronidation of the carboxylic acid group of repaglinide yields an acyl glucuronide (M7). Several other unidentified metabolites have been detected. Repaglinide metabolites to not possess appreciable hypoglycemic activity. Hover over products below to view reaction partners Repaglinide hydroxyrepaglinide repaglinide aromatic amine
+
+## Route Of Elimination
+
+90% eliminated in feces (<2% as unchanged drug), 8% in urine (0.1% as unchanged drug)
+
+## Clearance
+
+33-38 L/hour following IV administration
+
+## Toxicity
+
+LD 50 >1 g/kg (rat) (W. Grell)

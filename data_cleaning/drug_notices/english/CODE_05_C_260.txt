@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_260
+DCI: Acalabrutinib
+DrugBank ID: DB11703
+DrugBank Name: Acalabrutinib
+Brand Names: CALQUENCE
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/56
+Registration Numbers: 256/05 C 260/25
+Drug Codes: 05 C 260
+
+------------------------------------------------------------
+
+## Description
+
+To date, acalabrutinib has been used in trials studying the treatment of B-All, myelofibrosis, ovarian cancer, multiple myeloma, and Hodgkin lymphoma, among others. As of October 31, 2017 the FDA approved Astra Zeneca's orally administered Calquence (acalabrutinib, capsules). This Bruton tyrosine kinase (BTK) inhibitor indicated for the treatment of chronic lymphocytic leukemia, small lymphocytic lymphoma, and in adult patients with Mantle cell lymphoma (MCL) who have already received at least one prior therapy. 6 In August 2022, the FDA approved a new tablet formulation of Calquence, enabling the co-administration of this drug with proton pump inhibitors (PPIs). 7 , 8 Unlike Calquence capsules, the co-administration of Calquence tablets and PPIs does not have an effect in the pharmacokinetics of acalabrutinib. 6 , 7 Also known as ACP-196, acalabrutinib is also considered a second generation BTK inhibitor because it was rationally designed to be more potent and selective than ibrutinib, theoretically expected to demonstrate fewer adverse effects owing to minimized bystander effects on targets other than BTK. Nevertheless, acalabrutinib was approved under the FDA's accelerated approval pathway, which is based upon overall response rate and faciliates earlier approval of medicines that treat serious conditions or/and that fill an unmet medical need based on a surrogate endpoint. Continued approval for acalabrutinib's currently accepted indication may subsequently be contingent upon ongoing verification and description of clinical benefit in confimatory trials. Furthermore, the FDA granted this medication Priority Review and Breakthrough Therapy designations. It also received Orphan Drug designation, which provides incentives to assist and encourage the development of drugs for rare diseases. At this time, more than 35 clinical trials across 40 countries with more than 2500 patients are underway or have been completed with regards to further research into better understanding and expanding the therapeutic uses of acalabrutinib 5 .
+
+## Pharmacodynamics
+
+Acalabrutinib is a Bruton Tyrosine Kinase inhibitor that prevents the proliferation, trafficking, chemotaxis, and adhesion of B cells. 6 It is taken every 12 hours and can cause other effects such as atrial fibrillation, other malignancies, cytopenia, hemorrhage, and infection. 6
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase BTK Inhibitor
+
+## Absorption
+
+The geometric mean absolute bioavailability of acalabrutinib is 25% with a median time to peak plasma concentrations (Tmax) of 0.75 hours. 6
+
+## Volume Of Distribution
+
+The mean steady-state volume of distribution is approximately 34 L. 6
+
+## Metabolism
+
+Acalabrutinib is mainly metabolized by CYP3A enzymes. ACP-5862 is identified to be the major active metabolite in plasma with a geometric mean exposure (AUC) that is about 2-3 times greater than the exposure of acalabrutinib. ACP-5862 is about 50% less potent than acalabrutinib in regards to the inhibition of BTK. 6 Hover over products below to view reaction partners Acalabrutinib Acalabrutinib M27 Metabolite (ACP-5862) Acalabrutinib M2 Metabolite Acalabrutinib M3 Metabolite Acalabrutinib M16 Metabolite Acalabrutinib M2 Metabolite Acalabrutinib M23 Metabolite (ACP-5134) Acalabrutinib M24 Metabolite Acalabrutinib M45 Metabolite Acalabrutinib M5 Metabolite (ACP-5530) Acalabrutinib M7 Metabolite (ACP-5531) Acalabrutinib M10 Metabolite (ACP-5461) Acalabrutinib M25 Metabolite Acalabrutinib M37 Metabolite Acalabrutinib M14 Metabolite (ACP-5825)
+
+## Route Of Elimination
+
+After administration of a single 100 mg radiolabelled acalabrutinib dose in healthy subjects, 84% of the dose was recovered in the feces and 12% of the dose was recovered in the urine. 6 An irradiated dose of acalabrutinib was 34.7% recovered as the metabolite ACP-5862; 8.6% was recovered as unchanged acalabrutinub; 10.8 was recovered as a mixture of the M7, M8, M9, M10, and M11 metabolites; 5.9% was the M25 metabolite; 2.5% was recovered as the M3 metabolite. 3
+
+## Half Life
+
+After administering a single oral dose of 100 mg acalabrutinib, the median terminal elimination half-life of the drug was found to be 0.9 (with a range of 0.6 to 2.8) hours. 6 The half-life of the active metabolite, ACP-5862, is about 6.9 hours. 6
+
+## Clearance
+
+Acalabrutinib's mean apparent oral clearance (CL/F) is observed to be 159 L/hr with similar PK between patients and healthy subjects, based on population PK analysis. 6
+
+## Toxicity
+
+Data regarding the toxicity of acalabrutinib is not readily available. 6

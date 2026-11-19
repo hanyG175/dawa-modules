@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_044
+DCI: Budesonide
+DrugBank ID: DB01222
+DrugBank Name: Budesonide
+Brand Names: BUDECORT- 200
+Pharmaceutical Forms: Aérosol
+Dosages: 200mcg/dose
+Packaging: flacon/200doses
+Registration Numbers: 182/20 A 044/00/09
+Drug Codes: 20 A 044
+
+------------------------------------------------------------
+
+## Description
+
+Budesonide is a glucocorticoid that is a mix of the 22R and 22S epimer used to treat inflammatory conditions of the lungs and intestines such as asthma, COPD, Crohn's disease, and ulcerative colitis. 5 , 6 Budesonide was granted FDA approval on 14 February 1994. 8 It is also available in a combination product with formoterol . 14
+
+## Pharmacodynamics
+
+Budesonide is a glucocorticoid used to treat respiratory and digestive conditions by reducing inflammation. 9 , 10 , 11 , 12 , 14 , 15 , 16 It has a wide therapeutic index, as dosing varies highly from patient to patient. 9 , 10 , 11 , 12 , 14 , 15 , 16 Patients should be counselled regarding the risk of hypercorticism and adrenal axis suppression. 9 , 10 , 11 , 12 , 14 , 15 , 16
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Extended release oral capsules are 9-21% bioavailable. 9 , 10 A 9mg dose reaches a C max of 1.50±0.79ng/mL with a T max of 2-8h and an AUC of 7.33ng*hr/mL. 9 , 10 A high fat meal increases the T max by 2.3h but otherwise does not affect the pharmacokinetics of budesonide. 9 , 10 180-360µg metered inhaled doses of budesonide are 34% deposited in the lungs, 39% bioavailable, and reach a C max of 0.6-1.6nmol/L with a T max of 10 minutes. 11 A 1mg nebulized dose is 6% bioavailable, reaching a C max of 2.6nmol/L with a T max of 20 minutes. 12 A 9mg oral extended release tablet reaches a C max of 1.35±0.96ng/mL with a T max of 13.3±5.9h and an AUC of 16.43±10.52ng*hr/mL. 15 Budesonide rectal foam 2mg twice daily has an AUC of 4.31ng*hr/mL. 16
+
+## Volume Of Distribution
+
+The volume of distribution of budesonide is 2.2-3.9L/kg. 9 , 10 , 11 , 12 , 15 , 16
+
+## Metabolism
+
+Budesonide is 80-90% metabolized at first pass. 4 Budesonide is metabolized by CYP3A to its 2 major metabolites, 6beta-hydroxybudesonide and 16alpha-hydroxyprednisolone. 4 , 7 The glucocorticoid activity of these metabolites is negligible (<1/100) in relation to that of the parent compound. 4 CYP3A4 is the strongest metabolizer of budesonide, followed by CYP3A5, and CYP3A7. 7 Hover over products below to view reaction partners Budesonide 6-beta-hydroxybudesonide 22-hydroxy Intermediate Metabolite of Budesonide 16alpha-butyrloxyprednisolone 16-alpha-hydroxyprednisolone delta6-budesonide 23-hydroxybudesonide
+
+## Route Of Elimination
+
+Approximately 60% of a budesonide dose is recovered in the urine as the major metabolites 6beta-hydroxybudesonide, 16alpha-hydroxyprednisolone, and their conjugates. 9 , 10 , 11 , 12 , 14 , 15 , 16 No unchanged budesonide is recovered in urine. 9 , 10 , 11 , 12 , 14 , 15 , 16
+
+## Half Life
+
+Budesonide has a plasma elimination half life of 2-3.6h. 9 , 10 , 11 , 15 The terminal elimination half life in asthmatic children 4-6 years old is 2.3h. 12
+
+## Clearance
+
+Budesonide has a plasma clearance of 0.9-1.8L/min. 9 , 10 , 15 , 16 The 22R form has a clearance of 1.4L/min while the 22S form has a clearance of 1.0L/min. 11 The clearance in asthmatic children 4-6 years old is 0.5L/min. 12 , 14
+
+## Toxicity
+
+Acute overdose of corticosteroids is rare, however prolonged high dosing of corticosteroids can lead to hypercorticism and adrenal axis suppression. 9 , 10 , 11 , 12 , 14 , 15 , 16 In the case of overdose, reduce the dosage of corticosteroids temporarily. 9 , 10 , 11 , 12 , 14 , 15 , 16 A 200mg oral dose is lethal to female mice while a 400mg oral dose is lethal to male mice. 9 , 10 , 15

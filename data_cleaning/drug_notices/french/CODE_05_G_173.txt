@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_173
+DCI: BENDAMUSTINE CHLORHYDRATE 2,5 mg/ml pdre p sol diluer p perf (BENDAMUSTINE FRESENIUS KABI)
+Brand Names: BENDAMUSTINE HYDROCHLORIDE ACCORD | RIBOMUSTIN
+Pharmaceutical Forms: Poudre P. Sol. A Dilier P. Perf. Iv.
+Dosages: 2.5mg/ml (apres reconstitution)
+Packaging: b/05 flacon. de 25mg -b/01 flacon. de 100mg - b/05 flacon. de 100mg
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01A - AGENTS ALKYLANTS | L01AA - MOUTARDES A L'AZOTE | L01AA09 - BENDAMUSTINE
+Registration Numbers: 374/05 G 173/14 | 534/05 G 173/17
+Drug Codes: 05 G 173
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | bendamustine chlorhydrate : 2.5 mg | Modalités d'administration | Voie intraveineuse (en perfusion) | A reconstituer et à diluer avant administration | A reconstituer immédiatement avant administration | Administrer par perfusion intraveineuse de 30 à 60 minutes | Posologie à adapter en fonction de la tolérance | Posologie | Patient de 18 an(s) à 65 an(s) | Patient quel que soit le poids | Leucémie lymphoïde chronique | Posologie standard | Dans le cas de : Monothérapie | Administrer à J1 et J2 toutes les 4 semaines | Durée du traitement limitée à 6 cycles | 100 mg/m² 1 fois par jour | Pendant 2 jours | Lymphome malin non hodgkinien, traitement de 2e intention (du) | Posologie standard | Dans le cas de : Monothérapie | Administrer à J1 et J2 toutes les 3 semaines | Durée du traitement d'au moins 6 cycles | 120 mg/m² 1 fois par jour | Pendant 2 jours | Patient à partir de 65 an(s) | Patient quel que soit le poids | Leucémie lymphoïde chronique | Posologie standard | Dans le cas de : Monothérapie | Administrer à J1 et J2 toutes les 4 semaines | Durée du traitement limitée à 6 cycles | 100 mg/m² 1 fois par jour | Pendant 2 jours | Lymphome malin non hodgkinien, traitement de 2e intention (du) | Posologie standard | Dans le cas de : Monothérapie | Administrer à J1 et J2 toutes les 3 semaines | Durée du traitement d'au moins 6 cycles | 120 mg/m² 1 fois par jour | Pendant 2 jours | Myélome multiple avec neuropathie chez le sujet > 65 ans | Posologie standard | Administrer à J1 et J2 toutes les 4 semaines | Durée du traitement d'au moins 3 cycles | Traitement corticoïde à associer | 120 à 150 mg/m² 1 fois par jour | Pendant 2 jours | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Antécédent de cardiopathie | Cardiopathie | Femme susceptible d'être enceinte | Hépatite B | Hépatite B chronique | Homme en âge de procréer | Insuffisance hépatique modérée | Insuffisance rénale sévère | Lymphopénie < 200 lymphocytes/mm3 | Patient traité en association au rituximab | Réactions liées à la perfusion, antécédent (de) | Sujet à risque de cancer cutané | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | X | X | Contre-indication absolue | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Bendamustine : Mécanisme d'action | Le chlorhydrate de bendamustine est un agent alkylant antitumoral possédant une action antinéoplasique et cytocide essentiellement basée sur l'établissement de liaisons covalentes croisées par alkylation de l'ADN (acide désoxyribonucléique) simple brin ou double brin. Les fonctions de matrice de l'ADN, sa synthèse et sa réparation sont par conséquent rendues déficientes.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Créatininémie (augmentation) (Très fréquent) | - Neutropénie (Fréquent) | - Urémie (augmentation) (Très fréquent) | - Phosphatases alcalines (augmentation) (Fréquent) | - ALAT (augmentation) (Fréquent) | - Hypokaliémie (Fréquent) | - ASAT (augmentation) (Fréquent) | - Hémoglobinémie (diminution) (Très fréquent) | - Bilirubinémie (augmentation) (Fréquent) | CANCEROLOGIE: | - Syndrome de lyse tumorale (Fréquent) | - Cancer secondaire | DERMATOLOGIE: | - Alopécie (Fréquent) | - Urticaire (Fréquent) | - Dermatose (Fréquent) | - Mucite (Très fréquent) | - Dermatite (Rare) | - Prurit (Rare) | - Eruption cutanée (Rare) | - Hyperhidrose (Rare) | - Eruption maculopapuleuse (Rare) | - Erythème cutané (Rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | DIVERS: | - Frisson (Fréquent) | - Douleur (Fréquent) | - Fièvre (Très fréquent) | - Fatigue (Très fréquent) | - Défaillance multiviscérale (Très rare) | ENDOCRINOLOGIE: | - Stérilité (Très rare) | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Aménorrhée (Fréquent) | HÉMATOLOGIE: | - Leucémie aiguë myéloblastique (Peu fréquent) | - Anémie (Fréquent) | - Hémorragie (Fréquent) | - Leucopénie (Très fréquent) | - Thrombopénie (Très fréquent) | - Syndrome myélodysplasique (Peu fréquent) | - Lymphopénie (Très fréquent) | - Pancytopénie (Peu fréquent) | - Hémolyse (Très rare) | - Insuffisance de la moelle osseuse (Rare) | HÉPATOLOGIE: | - Insuffisance hépatique | - Hépatite B | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Réaction anaphylactique (Rare) | - Réaction anaphylactoïde (Rare) | - Choc anaphylactique (Très rare) | - Syndrome DRESS | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Pneumonie à Pneumocystis jirovecii (Peu fréquent) | INFECTIOLOGIE D'ORIGINE VIRALE: | - Infection à cytomégalovirus | - Zona | INFECTIOLOGIE NON PRECISÉE: | - Infection (Très fréquent) | - Septicémie (Rare) | - Infection opportuniste | INSTRUMENTATION: | - Nécrose tissulaire post-extravasation | NUTRITION, MÉTABOLISME: | - Anorexie (Fréquent) | - Déshydratation (Fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Stomatite (Fréquent) | - Dysgueusie (Très rare) | - Aphonie (Rare) | PSYCHIATRIE: | - Insomnie (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Insuffisance cardiaque (Peu fréquent) | - Hypotension artérielle (Fréquent) | - Hypertension artérielle (Fréquent) | - Infarctus du myocarde (Peu fréquent) | - Epanchement péricardique (Peu fréquent) | - Cardiopathie (Fréquent) | - Tachycardie (Très rare) | - Insuffisance circulatoire (Rare) | - Phlébite (Très rare) | - Palpitation | - Arythmie | - Fibrillation auriculaire | - Angor | SYSTÈME DIGESTIF: | - Constipation (Fréquent) | - Nausée (Très fréquent) | - Diarrhée (Fréquent) | - Vomissement (Très fréquent) | - Hémorragie oesophagienne (Très rare) | - Hémorragie digestive (Très rare) | - Oesophagite (Très rare) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Encéphalite (Très rare) | - Ataxie (Très rare) | - Trouble neurologique (Très rare) | - Somnolence (Rare) | - Paresthésie (Très rare) | - Neuropathie périphérique sensitive (Très rare) | SYSTÈME RESPIRATOIRE: | - Insuffisance respiratoire (Fréquent) | - Pneumonie atypique (Très rare) | - Fibrose pulmonaire (Très rare) | - Hémorragie alvéolaire | - Pneumonie | TOXICOLOGIE: | - Effet atropinique (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale | - Diabète insipide néphrogénique

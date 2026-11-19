@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_C_003
+DCI: Dupilumab | upadacitinib hémihydrate
+DrugBank ID: DB12159
+DrugBank Name: Dupilumab
+Brand Names: DUPIXENT | RINVOQ
+Pharmaceutical Forms: Comprimé | Solution
+Dosages: 200mg | 30mg
+Packaging: b/02 seringues preremplie en verre avec disposif de protection d'aiguille | boite d'un flacon de 30 comprimes
+Registration Numbers: 376/27 C 003/23 | 618/27 C 003/23
+Drug Codes: 27 C 003
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Dupilumab is an recombinant human IgG4 antibody to the IL-4 receptor that works by inhibiting the activation of certain pro-inflammatory cytokines that are implicated in the pathophysiology of several allergic and atopic conditions, including asthma, chronic rhinosinusitis with nasal polyps, and food and environmental allergies. In vivo , dupilumab was shown to reduce the levels of type 2 inflammatory biomarkers associated with atopic dermatitis, such as thymus and activation-regulated chemokine (TARC/CCL17), total serum IgE, allergen-specific IgE, and lactate dehydrogenase (LDH). A decrease in the levels of biomarkers of asthma, such as FeNO, eotaxin-3, IgE, periostin, and eotaxin-3 (CCL26) was also observed. 8 , 9 Since dupilumab works to suppress the immune response, it is proposed that it may influence the immune response against some infections, such as helminth infections, by inhibiting IL-4/IL-13 signaling. It is advised that infections are appropriately treated until resolved before initiating dupilumab therapy. 8 While findings of some in vitro and in vivo studies suggest that some cytokine modulators may influence the expression and activity of specific cytochrome P450 (CYP450) enzymes, an open-label drug-drug interaction study demonstrated that dupilumab displays no significant effect on the activity of CYP450 enzymes studied (CYP3A, CYP2C19, CYP2C9, CYP1A2, and CYP2D6). 5
+
+## Mechanism Of Action
+
+Interleukin-4 receptor subunit alpha Inhibitor Antibody Interleukin-13 Inhibitor Antibody Interleukin-4 Inhibitor Antibody
+
+## Absorption
+
+The Cmax following administration of a single subcutaneous dose of 600 mg or 400 mg of dupilumab were 70.1 ± 24.1 mcg/mL or 41.8 ± 12.4 mcg/mL, respectively. The Tmax ranged from 3 to 7 days following administration of a single subcutaneous dose ranging from 75 to 600 mg. 7 Following a subcutaneous dose, the absolute bioavailability of dupilumab ranged between 61% and 64% in patients with atopic dermatitis or asthma. 8 In clinical trials, the steady-state concentrations were reached by week 16 following the administration of 600 mg starting dose and 300 mg dose every other week. At these concentrations, the mean trough concentrations ranged from 60.3 ± 35.1 mcg/mL to 79.9 ± 41.4 mcg/mL for 300 mg dose and from 29.2 ± 18.7 to 36.5 ± 22.2 mcg/mL for 200 mg dose administered every other week. 7
+
+## Volume Of Distribution
+
+The estimated volume of distribution is 4.8 ± 1.3 L. 3
+
+## Metabolism
+
+Being a monoclonal antibody, dupilumab is not expected to undergo significant hepatic metabolism. 8 While the metabolism of dupilumab has not been characterized, it is speculated that dupilumab undergoes nonspecific degradation into smaller peptides and amino acids, as often observed with endogenous IgG. 3
+
+## Route Of Elimination
+
+Being a monoclonal antibody, dupilumab is not expected to undergo significant renal elimination. It is proposed that dupilumab is eliminated via parallel linear and nonlinear pathways. At higher concentrations, dupilumab is primarily cleared through a non-saturable proteolytic pathway. At lower concentrations, it undergoes a non-linear saturable IL-4R α target-mediated elimination. 8
+
+## Half Life
+
+There is limited human data on the half-life of dupilumab. 8 In single-dose pharmacokinetic studies, the mean half-life of dupilumab following intravenous or subcutaneous administration ranged from 4.8 to 7 days in rats and 11.7 to 20.5 days in cynomolgus monkeys. 11 , 12 In these studies, the mean half-life was comparable was comparable following intravenous and subcutaneous administration. 11
+
+## Clearance
+
+There is limited data on the clearance of dupilumab. 8
+
+## Toxicity
+
+There is limited data on the overdose of dupilumab. As there is no specific treatment for dupilumab, close monitoring of the patient with appropriate symptomatic treatment is advised in case of suspected overdosage.[]

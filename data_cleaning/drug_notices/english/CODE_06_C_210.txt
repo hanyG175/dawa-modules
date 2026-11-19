@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_C_210
+DCI: Tirofiban | Tirofiban Chlorhydrate Monohydrate Exprime En Tirofiban
+DrugBank ID: DB00775
+DrugBank Name: Tirofiban
+Brand Names: AGRASTAT | AGRIPLAT | RIBOFAN
+Pharmaceutical Forms: Sol A Dil Pour Perf Intr | Sol. A Diluer P. Perf. Iv
+Dosages: 0.25 mg/ml | 0.25mg/ml | 12.5mg (0.25mg/ml)
+Packaging: b/01fl. de 50ml | boite 1 flacon de 50ml | boite de 1 flacon de 50ml
+Registration Numbers: 173/06 C 210/23 | 473/06 C 210/06/19 | 551/06 C 210/23
+Drug Codes: 06 C 210
+
+------------------------------------------------------------
+
+## Description
+
+Tirofiban prevents the blood from clotting during episodes of chest pain or a heart attack, or while the patient is undergoing a procedure to treat a blocked coronary artery. It is a non-peptide reversible antagonist of the platelet glycoprotein (GP) IIb/IIIa receptor, and inhibits platelet aggregation.
+
+## Pharmacodynamics
+
+Tirofiban prevents the blood from clotting during episodes of chest pain or a heart attack, or while the patient is undergoing a procedure to treat a blocked coronary artery. It is a non-peptide antagonist of the platelet glycoprotein (GP) IIb/IIIa receptor, and inhibits platelet aggregation. When administered intravenously, tirofiban inhibits ex vivo platelet aggregation in a dose- and concentration-dependent manner. When given according to the recommended regimen, >90% inhibition is attained by the end of the 30-minute infusion. Tirofiban has been recently shown in patients with unstable angina to reduce ischemic events at 48 hours following infusion when compared to standard heparin therapy.
+
+## Mechanism Of Action
+
+Integrin alpha-IIb Antagonist Integrin beta-3 Antagonist
+
+## Metabolism
+
+Metabolism appears to be limited.
+
+## Route Of Elimination
+
+It is cleared from the plasma largely by renal excretion, with about 65% of an administered dose appearing in urine and about 25% in feces, both largely as unchanged tirofiban.
+
+## Half Life
+
+2 hours
+
+## Clearance
+
+213 - 314 mL/min [Healthy subjects] 152 - 267 mL/min [patients with coronary artery disease]

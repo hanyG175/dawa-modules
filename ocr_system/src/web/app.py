@@ -8,7 +8,7 @@ project_root = Path(__file__).resolve().parent.parent.parent
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
-from src.engines.google_drive.service import GoogleDriveOCRModule
+from src.google_ocr.service import GoogleDriveOCRModule
 from src.core.parsing import FrenchDrugNoticeParser, PrescriptionParser, DrugBoxParser
 from src.core.ddi_checker import DDIChecker
 from src.core.llm_engine import LLMEngine

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_28_A_002
+DCI: ACIDE ACETYLSALICYLIQUE (sel de lysine) 500 mg pdre p sol inj (ACIDE ACETYLSALICYLIQUE PANPHARMA)
+Brand Names: BERINERT 1500
+Pharmaceutical Forms: Poudre
+Dosages: 500 UI/ml
+Packaging: boite de 1flacon de poudre 1500ui+1 flacon de solvant 3ml + un dispositif de transfert avec filtre 20/20
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AC - INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, HEPARINE EXCLUE | B01AC06 - ACIDE ACETYLSALICYLIQUE
+Registration Numbers: 485/28 A 002/23
+Drug Codes: 28 A 002
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | acide acétylsalicylique : 100 mg | Modalités d'administration | Voie orale | Administrer au moins 30 minutes avant le repas | Administrer avec une quantité suffisante d'eau | Administrer entier | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Accident thromboembolique en chirurgie vasculaire, traitement préventif (d') - Accident vasculaire cérébral en cas de fibrillation atriale, trt préventif de 2e intention (de l') - Maladie athéromateuse ischémique, trt prév. de complication secondaire cérébro et cardio-vasculaire - Réduction de l'occlusion des greffons après pontage aortocoronarien | Posologie standard | 75 à 330 mg en 1 prise par jour
+
+## Precautions
+
+Allaitement | Antécédent d'insuffisance cardiaque | Antécédent de maladie de Crohn | Antécédent de rectocolite hémorragique | Asthme | Déficit en glucose-6-phosphate-déshydrogénase | Déshydratation | Femme susceptible d'être enceinte | Gastrite, antécédent | Grossesse, 5 premiers mois (de la) | Hémorragie digestive, antécédent | Hypertension artérielle | Hypertension artérielle, antécédent | Infection virale | Insuffisance cardiaque | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Maladie cardiovasculaire | Métrorragie | Nouveau-né exposé in utero au médicament | Pathologie respiratoire chronique | Patient traité à posologie élevée | Sujet âgé | Sujet allergique | Sujet à risque d'hyperuricémie | Sujet de faible poids | Sujet de moins de 18 ans | Sujet porteur de dispositif intra-utérin | Traitement prolongé | Ulcère gastroduodénal, antécédent (d') | Vaccination contre la varicelle
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Acide acétylsalicylique : Mécanisme d'action | L'acide acétylsalicylique appartient au groupe des anti-inflammatoires non stéroïdiens (AINS) ayant des propriétés antalgiques, antipyrétiques et anti-inflammatoires. Son mécanisme d'action repose sur l'inhibition irréversible des enzymes cyclo-oxygénase impliquées dans la synthèse des prostaglandines. | L'acide acétylsalicylique inhibe également l'agrégation plaquettaire en bloquant la synthèse plaquettaire du thromboxane A2.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Globules blancs augmentés (Rare) | - Hypoglycémie | - Bicytopénie | - Enzymes hépatiques (augmentation) | - Allongement du temps de saignement | - Neutropénie | - Hyperuricémie | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Purpura (Rare) | - Syndrome de Lyell (Rare) | - Erythème polymorphe (Rare) | - Dermatose bulleuse (Très rare) | - Syndrome de Stevens-Johnson (Rare) | - Erythème noueux (Rare) | - Erythème pigmenté fixe | - Eruption cutanée | - Erythème polymorphe exsudatif | - Dermatose | DIVERS: | - Oedème | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Ménorragie (Rare) | HÉMATOLOGIE: | - Hémorragie (Fréquent) | - Diathèse hémorragique (Fréquent) | - Thrombopénie (Rare) | - Aplasie médullaire (Rare) | - Agranulocytose (Rare) | - Insuffisance de la moelle osseuse | - Anémie hémolytique | - Pancytopénie | - Syndrome hémorragique | - Hémolyse | - Anémie par déficience en fer | - Leucopénie | - Hématome | - Anémie | HÉPATOLOGIE: | - Hépatite chronique | - Hépatopathie | - Insuffisance hépatique | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Angioedème (Rare) | - Oedème allergique (Rare) | - Réaction anaphylactique (Rare) | - Choc anaphylactique | - Syndrome DRESS | NUTRITION, MÉTABOLISME: | - Goutte | - Crise de goutte | ORL, STOMATOLOGIE: | - Rhinite (Peu fréquent) | - Acuité auditive (modification) | - Acouphène | - Sensation de vertige | - Gingivorragie | - Bourdonnement d'oreille | - Vertige | - Hypoacousie | - Ulcération buccale | - Epistaxis | SYSTÈME CARDIOVASCULAIRE: | - Vascularite hémorragique (Rare) | - Choc (Rare) | - Vascularite | - Hypertension artérielle | - Insuffisance cardiaque | - Syndrome de Kounis | SYSTÈME DIGESTIF: | - Dyspepsie (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Fréquent) | - Hémorragie gastro-intestinale (Rare) | - Ulcère de l'intestin grêle | - Maladie de Crohn (aggravation) | - Ulcère gastroduodénal (aggravation) | - Sténose en diaphragme | - Colite | - Ulcère du gros intestin | - Ulcère duodénal | - Perforation digestive | - Ulcère gastroduodénal | - Sténose intestinale | - Méléna | - Pancréatite aiguë | - Constipation | - Gastrite érosive | - Hémorragie digestive occulte | - Ulcère gastrique | - Flatulence | - Perforation gastro-intestinale | - Rectocolite hémorragique (aggravation) | - Hémorragie digestive | - Douleur abdominale | - Perforation intestinale | - Duodénite érosive | - Gastrite | - Hyperchlorhydrie | - Ulcère oesophagien | - Hématémèse | - Oesophagite | - Perforation gastroduodénale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Purpura rhumatoïde | SYSTÈME NERVEUX: | - Hémorragie intracrânienne (Rare) | - Syndrome de Reye (Rare) | - Céphalée | - Hémorragie cérébrale | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent) | - Crise d'asthme (Rare) | - Bronchospasme (Rare) | - Asthme (Rare) | - Syndrome de détresse respiratoire aiguë | - Oedème pulmonaire non cardiogénique | UROLOGIE, NÉPHROLOGIE: | - Hémospermie | - Insuffisance rénale | - Hémorragie urogénitale | - Insuffisance rénale aiguë

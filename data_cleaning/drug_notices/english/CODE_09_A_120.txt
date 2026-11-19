@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_A_120
+DCI: Letrozole
+DrugBank ID: DB01006
+DrugBank Name: Letrozole
+Brand Names: LETROZOLE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 2,5MG
+Packaging: B/30
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+Registration Numbers: 001/09 A 120/21 | 157/09 A 120/15 | 263/09 A 120/22 | 285/09 A 120/20 | 323/09 A 120/16 | 352/09 A 120/25 | 630/09 A 120/25
+Drug Codes: 09 A 120
+
+------------------------------------------------------------
+
+## Description
+
+Letrozole, or CGS 20267, is an oral non-steroidal type II aromatase inhibitor first described in the literature in 1990. 1 , 5 , 9 , 10 It is a third generation aromatase inhibitor like exemestane and anastrozole , meaning it does not significantly affect cortisol, aldosterone, and thyroxine. 2 Letrozole was granted FDA approval on 25 July 1997. 9
+
+## Pharmacodynamics
+
+Letrozole is an aromatase inhibitor used in the treatment of breast cancer. Aromatase inhibitors work by inhibiting the action of the enzyme aromatase, which converts androgens into estrogens by a process called aromatization. As breast tissue is stimulated by estrogens, decreasing their production is a way of suppressing recurrence of the breast tumor tissue. Letrozole is a third generation type II aromatase inhibitor used to treat estrogen dependant breast cancers. 9 It has a long duration of action as it has a half life of over 42 hours in breast cancer patients. 2 , 4 , 9 Patients should be counselled regarding the risk of interstitial lung disease, pneumonitis, QT prolongation, elevated transaminase levels, neutropenia, and embryo-fetal toxicity. 9
+
+## Mechanism Of Action
+
+Aromatase Antagonist
+
+## Absorption
+
+Letrozole is 99.9% orally bioavailable. 2 A 2.5mg oral dose reaches a C max of 104nmol/L with a T max of 8.10h, and an AUC of 7387nmol*h/L. 4
+
+## Volume Of Distribution
+
+The volume of distribution of letrozole is 1.87L/kg. 2
+
+## Metabolism
+
+Letrozole is metabolized by CYP2A6 to a ketone analog metabolite, which is further metabolized by CYP3A4 and CYP2A6 to 4,4'-(hydroxymethylene)dibenzonitrile. 8 4,4'-(hydroxymethylene)dibenzonitrile is glucuronidated by UGT2B7. 3 Hover over products below to view reaction partners Letrozole Letrozole ketone analog metabolite 4,4'-methanol-bisbenzonitrile Letrozole carbinol glucuronide metabolite
+
+## Route Of Elimination
+
+Letrozole is 90% eliminated in the urine. 9 75% of the dose is recovered as a glucuronide metabolite, 9% is in the form of the ketone and carbinol metabolites, and 6% is recovered in urine as unchanged letrozole. 8 , 9
+
+## Half Life
+
+The terminal elimination half life of letrozole is approximately 42h in healthy volunteers, but longer in breast cancer patients. 2 , 4 , 9
+
+## Clearance
+
+The average clearance after a single dose of letrozole was 1.52L/h and at steady state was 1.20L/h. 4
+
+## Toxicity
+
+Overdose data in humans is not readily available, however 1 reported case was not associated with serious adverse reactions. 9 Animal studies do not report serious adverse effects with high dose treatment. 6 Patients experiencing and overdose should be treated with symptomatic and supportive measures. 9 Oral doses over 2000mg/kg were associated with reduced motor activity, ataxia, dyspnea, and death in mice and rats. 9

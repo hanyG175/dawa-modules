@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_B_006
+DCI: Mebendazole
+DrugBank ID: DB00643
+DrugBank Name: Mebendazole
+Brand Names: VERMAZOL | WORMAZOL
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/6
+Registration Numbers: 173/19 B 006/98 | 174/19 B 006/99
+Drug Codes: 19 B 006
+
+------------------------------------------------------------
+
+## Description
+
+A benzimidazole that acts by interfering with carbohydrate metabolism and inhibiting polymerization of microtubules. [PubChem]
+
+## Pharmacodynamics
+
+Mebendazole is a (synthetic) broad-spectrum anthelmintic. The principal mode of action for Mebendazole is by its inhibitory effect on tubulin polymerization which results in the loss of cytoplasmic microtubules.
+
+## Mechanism Of Action
+
+Tubulin alpha-1A chain Inhibitor Tubulin beta-4B chain Inhibitor
+
+## Absorption
+
+Poorly absorbed (approximately 5 to 10%) from gastrointestinal tract. Fatty food increases absorption.
+
+## Metabolism
+
+Primarily hepatic. Primary metabolite is 2-amino-5-benzoylbenzimidazole, but also metabolized to inactive hydroxy and hydroxyamino metabolites. All metabolites are devoid of anthelmintic activity. Hover over products below to view reaction partners Mebendazole 2-amino-5-benzoylbenzimidazole
+
+## Route Of Elimination
+
+In man, approximately 2% of administered mebendazole is excreted in urine and the remainder in the feces as unchanged drug or a primary metabolite.
+
+## Half Life
+
+2.5 to 5.5 hours (range 2.5 to 9 hours) in patients with normal hepatic function. Approximately 35 hours in patients with impaired hepatic function (cholestasis).
+
+## Toxicity
+
+Acute oral toxicity (LD 50 ): 620 mg/kg [Mouse]. Symptoms of overdose include elevated liver enzymes, headaches, hair loss, low levels of white blood cells (neutropenia), fever, and itching.

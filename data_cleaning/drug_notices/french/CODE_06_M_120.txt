@@ -1,0 +1,39 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_120
+DCI: FENOFIBRATE 200 mg gél (FENOFIBRATE ARROW LAB) | Fenofibrate
+Brand Names: FENOFIBRATE HUP | FENOFIBRATE IVAL | LIPOCARD
+Pharmaceutical Forms: Gles. | Gélule
+Dosages: 200MG | 200mg
+Packaging: B/30 | b/30
+Laboratories: PHARMA IVAL
+Countries: ALGERIE
+Reference Tariff (DA): 903.9 DA
+Prescription List: Liste II
+ATC Classification: 06M120 | C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AB - FIBRATES | C10AB05 - FENOFIBRATE
+Registration Numbers: 003/06 M 120/09/16 | 289/06 M 120/07/23 | 380/06 M 120/12
+Drug Codes: 06 M 120
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | fénofibrate : 160 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer pendant le repas | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hyperlipidémie mixte chez le sujet à haut risque cardiovasculaire, traitement associé (de l') - Hyperlipidémie mixte, traitement de 2e intention (de l') - Hypertriglycéridémie sévère | Posologie standard | 160 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Antécédent de myopathie | Antécédent familial de myopathie | Consommation d'alcool importante | Grossesse | Hypercholestérolémie secondaire | Hypoalbuminémie | Hypothyroïdie | Insuffisance rénale légère à modérée | Sujet à risque de myopathie | Sujet à risque de rhabdomyolyse | Sujet de moins de 18 ans | Sujet de plus de 70 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Fénofibrate : Mécanisme d'action | Le fénofibrate est un dérivé de l'acide fénofibrique dont les effets rapportés sur les paramètres lipidiques chez l'homme sont expliqués par l'activation du Peroxisome Proliferator Activated Receptor de type alpha (PPAR alpha). | Par l'activation du PPAR alpha, le fénofibrate augmente la lipolyse et l'élimination du plasma des particules athérogènes riches en | triglycérides | par activation de la lipoprotéine lipase et la réduction de la production d'apoprotéine CIII. L'activation du PPAR alpha conduit également à une augmentation de la synthèse des apoprotéines AI et AII. | Le fénofibrate peut abaisser la | cholestérol | émie de 20 à 25 % et la triglycéridémie de 40 à 50 %. La réduction de la | cholestérol | émie est due à l'abaissement des fractions athérogènes de faible densité (VLDL et LDL). Elle améliore la répartition du | cholestérol | plasmatique en réduisant le rapport | cholestérol | total/ | cholestérol | HDL, accru au cours des hyperlipidémies athérogènes. La relation entre hypercholestérolémie et athérosclérose est établie, de même que la relation entre athérosclérose et risque coronarien. Des taux bas de HDL sont associés à un risque coronarien accru. Des taux élevés de | triglycérides | sont associés à une augmentation du risque vasculaire, mais l'on ne peut affirmer que cette relation soit indépendante. De plus, les | triglycérides | pourraient être impliqués dans le processus d'athérogenèse mais aussi de thrombogenèse. | Les dépôts de | cholestérol | extravasculaires (xanthomes tendineux et tubéreux) peuvent subir, sous traitement prolongé efficace (réduction importante de la | cholestérol | émie), une régression importante, voire une disparition totale. | Sous fénofibrate, l'augmentation des apoprotéines A1 et la diminution des apoprotéines B améliorent le rapport apo A1/apo B, qui peut être considéré comme un marqueur du risque athérogène.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Taux d'homocystéine sanguine (augmentation) (Fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Transaminases (augmentation) (Fréquent) | - Hémoglobinémie (diminution) (Rare) | - Globules blancs diminués (Rare) | - Urémie (augmentation) (Rare) | - Bilan hépatique (anomalie) | DERMATOLOGIE: | - Dermatite allergique (Peu fréquent) | - Photosensibilisation (Rare) | - Alopécie (Rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Réaction cutanée sévère | - Urticaire | - Erythème polymorphe | DIVERS: | - Trouble sexuel (Peu fréquent) | - Fatigue | HÉPATOLOGIE: | - Lithiase biliaire (Peu fréquent) | - Hépatite (Rare) | - Cholécystite | - Cholangite | - Ictère | - Colique biliaire | - Lithiase biliaire (complication) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Accident thromboembolique (Peu fréquent) | - Thrombophlébite profonde | - Embolie pulmonaire | SYSTÈME DIGESTIF: | - Trouble digestif (Fréquent) | - Pancréatite (Peu fréquent) | - Vomissement | - Nausée | - Douleur abdominale | - Trouble gastrique | - Diarrhée | - Flatulence | SYSTÈME MUSCULO-SQUELETTIQUE: | - Trouble musculaire (Peu fréquent) | - Crampe | - Douleur musculaire | - Faiblesse musculaire | - Myosite | - Rhabdomyolyse | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle

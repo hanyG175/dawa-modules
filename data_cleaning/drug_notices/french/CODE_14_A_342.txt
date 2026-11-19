@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_342
+DCI: SITAGLIPTINE (chlorhydrate) 100 mg cp (SITAGLIPTINE ALMUS)
+Brand Names: DALVEX | DIATAG | GLIPTINE | GLYSAVIA | JANUVIA | JEGA | SITAGLIPTINE | SITANORM
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/28 | b/30 | b/30 et b/90
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BH - INHIBITEURS DE LA DIPEPTIDYL PEPTIDASE 4 (DPP-4) | A10BH01 - SITAGLIPTINE
+Registration Numbers: 001/14 A 342/15 | 024/14 A 342/12 | 235/14 A 342/16/24 | 263/14 A 342/15/25 | 352/14 A 342/16/22 | 447/14 A 342/16 | 462/14 A 342/17 | 591/14 A 342/22
+Drug Codes: 14 A 342
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | sitagliptine (chlorhydrate) : 100 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | En cas d'oubli : prendre la dose dès que possible mais ne pas doubler la dose | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Diabète insulinonécessitant, traitement associé de 2e intention (du) - Diabète non insulinodépendant, traitement associé de 2e intention (du) - Diabète non insulinodépendant, traitement de 2e intention (du) | Posologie standard | 100 mg 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Antécédent de pancréatite | Association à l'insuline | Association à un autre antidiabétique oral | Grossesse | Insuffisance hépatique sévère | Insuffisance rénale : clairance de la créatinine < 50 ml/min | Patient en dialyse péritonéale | Patient en hémodialyse | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Sitagliptine : Mécanisme d'action | La sitagliptine appartient à une classe d'hypoglycémiants oraux appelés inhibiteurs de la dipeptidylpeptidase-4 (DPP-4). L'amélioration du contrôle glycémique observée avec cette substance pourrait s'expliquer par l'augmentation des taux des hormones incrétines actives. Les hormones incrétines, notamment le | glucagon | -like peptide-1 (GLP-1) et le | glucose | -dependent insulinotropic polypeptide (GIP), sont libérées par l'intestin tout au long de la journée et leurs taux augmentent en réponse à un repas. Les incrétines font partie d'un système endogène impliqué dans la régulation physiologique de l'homéostasie du | glucose | . Lorsque la glycémie est normale ou élevée, le GLP-1 et le GIP augmentent la synthèse et la libération d'insuline par les cellules bêta du pancréas par des voies de signalisation intracellulaire faisant intervenir l'AMP cyclique. | L'activité du GLP-1 et du GIP est limitée par l'enzyme DPP-4, qui hydrolyse rapidement les hormones incrétines en produits inactifs. La sitagliptine empêche l'hydrolyse des hormones incrétines par la DPP-4, d'où une augmentation des concentrations plasmatiques des formes actives du GLP-1 et du GIP. En augmentant les taux d'incrétines actives, la sitagliptine augmente la libération d'insuline et diminue les taux de | glucagon | d'une manière | glucose | -dépendante. | Le mécanisme d'action | glucose | -dépendant de la sitagliptine se distingue de celui des sulfamides hypoglycémiants qui augmentent la sécrétion d'insuline même lorsque la glycémie est basse et qui peuvent entraîner une hypoglycémie chez les patients diabétiques de type 2 et chez les sujets normaux. La sitagliptine est un inhibiteur puissant et hautement sélectif de l'enzyme DPP-4. | L’association de la sitagliptine à la | metformine | , deux antihyperglycémiants ayant des mécanismes d'action complémentaires, améliore le contrôle glycémique chez les patients diabétiques de type 2.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Fréquent) | DERMATOLOGIE: | - Prurit (Peu fréquent) | - Dermatite exfoliative | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Urticaire | - Pemphigoïde bulleuse | DIVERS: | - Douleur des extrémités | HÉMATOLOGIE: | - Thrombopénie (Rare) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | ORL, STOMATOLOGIE: | - Sensation de vertige (Peu fréquent) | - Rhinopharyngite | SYSTÈME CARDIOVASCULAIRE: | - Vascularite cutanée | SYSTÈME DIGESTIF: | - Constipation (Peu fréquent) | - Vomissement | - Pancréatite nécrosante | - Pancréatite aiguë | - Pancréatite hémorragique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire | - Arthropathie | - Dorsalgie | - Douleur musculaire | - Arthrose | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Infection des voies respiratoires supérieures | - Pneumopathie interstitielle | UROLOGIE, NÉPHROLOGIE: | - Atteinte de la fonction rénale | - Insuffisance rénale aiguë

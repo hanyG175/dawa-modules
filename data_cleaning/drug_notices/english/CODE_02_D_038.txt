@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_D_038
+DCI: Vecuronium Bromure
+DrugBank ID: DB01339
+DrugBank Name: Vecuronium
+Brand Names: NEOVEC | VECURON
+Pharmaceutical Forms: Lyoph. Et Solv. P. Sol. Inj. Iv | Lyoph. Et Solv. Sol. Inj. Iv
+Dosages: 4mg/fl. de lyoph.
+Packaging: b/01fl. de pdre. + 01amp. de 2ml de solv.(eppi) | b/10fl. de lyoph.+ 10amp. de 2ml de solv. (eppi)
+Registration Numbers: 330/02 D 038/12 | 463/02 D 038/10/16
+Drug Codes: 02 D 038
+
+------------------------------------------------------------
+
+## Description
+
+Monoquaternary homolog of pancuronium. A non-depolarizing neuromuscular blocking agent with shorter duration of action than pancuronium. Its lack of significant cardiovascular effects and lack of dependence on good kidney function for elimination as well as its short duration of action and easy reversibility provide advantages over, or alternatives to, other established neuromuscular blocking agents.
+
+## Pharmacodynamics
+
+The principal pharmacologic effects demonstrated by vecuronium revolve around its competitive binding of cholinergic receptors located at motor end plates. This competitive binding results in muscle relaxant effects that are typically employed as an adjunct to general anesthesia.
+
+## Mechanism Of Action
+
+Neuronal acetylcholine receptor subunit alpha-2 Antagonist
+
+## Route Of Elimination
+
+Fecal (40-75%) and renal (30% as unchanged drug and metabolites)
+
+## Half Life
+
+51–80 minutes

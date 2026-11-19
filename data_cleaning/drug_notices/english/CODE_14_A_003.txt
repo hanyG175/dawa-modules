@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_003
+DCI: Glibenclamide
+DrugBank ID: DB01016
+DrugBank Name: Glyburide
+Brand Names: DIABENIL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/60 et b/100
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: A10BB01
+Registration Numbers: 003/14 A 003/01/24
+Drug Codes: 14 A 003
+
+------------------------------------------------------------
+
+## Description
+
+Glyburide is a second generation sulfonylurea used to treat patients with diabetes mellitus type II. 12 It is typically given to patients who cannot be managed with the standard first line therapy, metformin . 12 Glyburide stimulates insulin secretion through the closure of ATP-sensitive potassium channels on beta cells, raising intracellular potassium and calcium ion concentrations. 7 Glyburide was granted FDA approval on 1 May 1984. 10 A formulation with metformin was granted FDA approval on on 31 July 2000. 11
+
+## Pharmacodynamics
+
+Glyburide is a second generation sulfonylurea 8 that stimulates insulin secretion through the closure of ATP-sensitive potassium channels on beta cells, raising intracellular potassium and calcium ion concentrations. 7 Glibenclamide has a long duration of action as it is given once daily, and a wide therapeutic index as patients are started at doses as low as 0.75mg but that can increase as high as 10mg or more. 9 , 12 Patients taking glyburide should be cautioned regarding an increased risk of cardiovascular mortality as seen with tolbutamide, another sulfonylurea. 12
+
+## Mechanism Of Action
+
+Sulfonylurea receptor 1, Kir6.2 Blocker
+
+## Absorption
+
+Elderly patients taking glyburide reached a C max of 211-315ng/mL with a T max of 0.9-1.0h, while younger patients reached a C max of 144-302ng/mL with a T max of 1.3-3.0h. 1 Patients taking glyburide have and AUC of 348ng*h/mL. 6
+
+## Volume Of Distribution
+
+Elderly patients have a volume of distribution of 19.3-52.6L, while younger patients have a volume of distribution of 21.5-49.3L. 1
+
+## Metabolism
+
+Glyburide is metabolized mainly by CYP3A4, followed by CYP2C9, CYP2C19, CYP3A7, and CYP3A5. 3 , 2 These enzymes metabolize glyburide to 4-trans-hydroxycyclohexyl glyburide (M1), 4-cis-hydroxycyclohexyl glyburide (M2a), 3-cis-hydroxycyclohexyl glyburide (M2b), 3-trans-hydroxycyclohexyl glyburide (M3), 2-trans-hydroxycyclohexyl glyburide (M4), and ethylhydroxycyclohexyl glyburide (M5). 2 The M1 and M2b metabolites are considered active, along with the parent molecule. 2 Hover over products below to view reaction partners Glyburide 2-trans-hydroxycyclohexyl glyburide 4-cis-hydroxycyclohexyl glyburide 4-trans-hydroxycyclohexyl glyburide 3-trans-Hydroxycyclohexyl glyburide 3-cis-Hydroxycyclohexyl glyburide
+
+## Route Of Elimination
+
+Unlike other sulfonylureas, glyburide is 50% excreted in the urine and 50% in the feces. 12 Glyburide is mainly excreted as the metabolite 4-trans-hydroxyglyburide. 12
+
+## Half Life
+
+Elderly patients have a terminal elimination half life of 4.0-13.4h, while younger patients have a terminal elimination half life of 4.0-13.9h. 1
+
+## Clearance
+
+Elderly patients have a clearance of 2.70-3.55L/h, while younger patients have a clearance of 2.47-4.11L/h. 1
+
+## Toxicity
+
+The oral LD 50 in rats is >3200mg/kg, in mice is >1500mg/kg, in rabbits is >10,000mg/kg, and in guinea pigs is >1500mg/kg. 13 Patients experiencing an overdose may present with hypoglycemia. 12 Mild hypoglycemia should be treated with oral glucose and adjustments to drug doses or meal schedules. 12 Severe hypoglycemia may present with coma, seizure, and neurological impairment. 12 This should be treated immediately in hospital with intravenous glucose and monitoring for 24-48 hours. 12

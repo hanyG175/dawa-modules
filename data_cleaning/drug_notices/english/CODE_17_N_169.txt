@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_N_169
+DCI: POVIDONE IODEE 5 % collyre sol récip unidose (POVIDONE IODEE CHAUVIN Unidose) | Povidone
+DrugBank ID: DB11061
+DrugBank Name: Povidone
+Brand Names: FLUIDABAK | VIBAC
+Pharmaceutical Forms: Collyree | Collyree En Solution
+Dosages: 0.015
+Packaging: flacon multidose de 10ml | flacon./10ml
+Laboratories: LABORATOIRE CHAUVIN | 416 RUE SAMUEL MORSE - CS 99535 | 34961 MONTPELLIER CEDEX 2
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D09 - PANSEMENTS MEDICAMENTEUX | D09A - PANSEMENTS MEDICAMENTEUX | D09AA - PANSEMENTS AVEC ANTI-INFECTIEUX | D09AA09 - POVIDONE IODEE | S01AX18
+Registration Numbers: 022/17 N 169/13 | 065/17 N 169/23
+Drug Codes: 17 N 169
+
+------------------------------------------------------------
+
+## Description
+
+Povidone, also known as polyvinylpyrrolidone (PVP) or polyvidone, is a synthetic water-soluble polymer made from the monomer N-vinylpyrrolidone used as a binder in many pharmaceutical tablets and lubricant in eye drops. It is also used in many technical applications with various roles as an adhesive, additive, and emulsifier. When in complex with iodine, Povidone-iodine displays antiseptic properties where the iodine, a bactericidal component, mainly contributes to this effect, and povidone acts as a carrier 1 . Povidone-iodine can be found in over-the-counter topical solutions, ointment, pessaries, liquid soaps and surgical scrubs. The clinical effectiveness of Povidone-iodine on wound healing remains somewhat controversial, as it was demonstrated in a few clinical studies that the application of the compound in wounds was associated with impaired wound healing, reduced wound strength, or infection in open wounds 1 . The FDA withdrew its approval for the use of all intravenous drug products containing povidone. 5 Other formulations of povidone continue to be available.
+
+## Pharmacodynamics
+
+Povidone itself has no microbicidal activity. Povidone-iodine exhibits rapid, potent, broad-spectrum antimicrobial properties 2 . The clinical effectiveness of povidon-iodine on wound healing remains somewhat controversial; in few clinical studies investigating the effects of povidone-iodine on wound healing, topical administration of the complex was associated with no significant infections, but slower healing and mild to moderate discomfort on application 1 .
+
+## Mechanism Of Action
+
+Povidone-iodine is a water-soluble complex that mediates a bactericidal or virucidal action following the gradual liberation of free iodine from the complex at the application site to react with the pathogen 1 . Please refer to the drug entry for Povidone-iodine for the full mechanism of action of the complex.
+
+## Absorption
+
+This pharmacokinetic data does not apply to povidone.
+
+## Volume Of Distribution
+
+This pharmacokinetic data does not apply to povidone.
+
+## Metabolism
+
+This pharmacokinetic data does not apply to povidone.
+
+## Route Of Elimination
+
+This pharmacokinetic data does not apply to povidone.
+
+## Half Life
+
+This pharmacokinetic data does not apply to povidone.
+
+## Clearance
+
+This pharmacokinetic data does not apply to povidone.
+
+## Toxicity
+
+Oral LD50 in mouse, rat, and rabbit are >40 mg/kg, 100 mg/kg, and 1040 mg/kg, respectively MSDS . No cases of overdose in humans have been reported.

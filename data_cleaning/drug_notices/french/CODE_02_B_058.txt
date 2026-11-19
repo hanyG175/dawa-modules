@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_058
+DCI: ETOMIDATE 2 mg/ml sol inj (HYPNOMIDATE)
+Brand Names: HYPNOMIDATE
+Pharmaceutical Forms: Solution
+Dosages: 2mg/ml
+Packaging: b/05 ampoule de 10ml
+ATC Classification: N - SYSTEME NERVEUX | N01 - ANESTHESIQUES | N01A - ANESTHESIQUES GENERAUX | N01AX - AUTRES ANESTHESIQUES GENERAUX | N01AX07 - ETOMIDATE
+Registration Numbers: 616/02 B 058/08/24
+Drug Codes: 02 B 058
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | étomidate : 2 mg/1 ml | Modalités d'administration | Voie intraveineuse | Administrer par voie intraveineuse lente | Posologie à adapter en fonction de la réponse clinique | Posologie | Patient de 6 mois à 15 an(s) | Patient quel que soit le poids | Induction de l'anesthésie générale | Posologie standard | 0,25 à 0,52 mg/kg 1 fois ce jour | Anesthésie générale - Anesthésie générale, potentialisation (de l') | Posologie standard | 0,25 à 2,34 mg/kg 1 fois par heure | Patient de 15 an(s) à 65 an(s) | Patient quel que soit le poids | Induction de l'anesthésie générale | Posologie standard | 0,25 à 0,4 mg/kg 1 fois ce jour | Anesthésie générale - Anesthésie générale, potentialisation (de l') | Posologie standard | 0,25 à 1,8 mg/kg 1 fois par heure | Patient à partir de 65 an(s) | Patient quel que soit le poids | Anesthésie générale - Anesthésie générale, potentialisation (de l') | Posologie standard | 0,15 à 0,2 mg/kg 1 fois ce jour | Posologies maximales | Posologie maximale: 30 ml ce jour | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Cirrhose | Dysfonctionnement surrénalien | Etat critique aigu | Etat de stress | Grossesse | Insuffisance hépatique | Intervention chirurgicale | Patient traité par perfusion continue | Porphyrie | Prémédication avant anesthésie | Sepsis | Sujet âgé | Sujet à risque d'insuffisance cardiaque | Sujet débilité | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+étomidate : Mécanisme d'action | L’étomidate est un hypnotique intraveineux à brève durée d'action, dénué de propriétés analgésiques. L'effet hypnotique dépend de la dose administrée. | La durée du sommeil peut être entretenue par des injections répétées d'étomidate 2 mg/ml. | L'étomidate se caractérise par une bonne tolérance cardiovasculaire, une dépression respiratoire minime, un effet protecteur cérébral accompagné d'une réduction de la pression intracrânienne, une action dépressive sur la tension intra-oculaire, l'absence de libération d' | histamine | , et une inactivation rapide par métabolisation dans l'organisme, de sorte qu'il n'a pas d'effet différé. | Il n'exerce aucune influence sur la fonction hépatique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Cortisolémie (diminution) (Très fréquent) | DERMATOLOGIE: | - Erythème cutané (Peu fréquent) | - Eruption cutanée (Fréquent) | - Syndrome de Stevens-Johnson | - Urticaire | DIVERS: | - Analgésie inadaptée (Peu fréquent) | ENDOCRINOLOGIE: | - Insuffisance surrénale | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactoïde | - Choc anaphylactique | - Réaction anaphylactique | - Hypersensibilité | INSTRUMENTATION: | - Douleur au point d'injection (Peu fréquent) | - Nausée liée à une intervention (Peu fréquent) | OPHTALMOLOGIE: | - Nystagmus (Peu fréquent) | ORL, STOMATOLOGIE: | - Sialorrhée (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Hypertension artérielle (Peu fréquent) | - Bradycardie (Peu fréquent) | - Extrasystole ventriculaire (Peu fréquent) | - Extrasystole (Peu fréquent) | - Phlébite (Peu fréquent) | - Hypotension artérielle (Fréquent) | - Collapsus cardiovasculaire | - Bloc auriculoventriculaire complet | - Thrombophlébite superficielle | - Arrêt cardiaque | - Thrombophlébite profonde | - Thrombophlébite | SYSTÈME DIGESTIF: | - Hoquet (Peu fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Rigidité musculaire (Peu fréquent) | - Trismus | SYSTÈME NERVEUX: | - Contractions musculaires involontaires (Peu fréquent) | - Retard du réveil postanesthésie (Peu fréquent) | - Dyskinésie (Très fréquent) | - Myoclonie (Fréquent) | - Complication liée à l'anesthésie (Peu fréquent) | - Hypertonie (Peu fréquent) | - Mouvement tonico-clonique | - Convulsions | SYSTÈME RESPIRATOIRE: | - Toux (Peu fréquent) | - Inspiration striduleuse (Fréquent) | - Apnée (Fréquent) | - Hyperventilation (Fréquent) | - Hypoventilation (Peu fréquent) | - Bronchospasme | - Dépression respiratoire

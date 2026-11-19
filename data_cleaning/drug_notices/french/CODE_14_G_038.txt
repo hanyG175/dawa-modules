@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_G_038
+DCI: LEVOCARNITINE 100 mg/ml sol buv (LEVOCARNIL)
+Brand Names: METACARTIN
+Pharmaceutical Forms: Solution
+Dosages: 100 mg/ml
+Packaging: boite d'un flacon de 100ml
+Laboratories: ALFASIGMA FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A16 - AUTRES MEDICAMENTS DES VOIES DIGESTIVES ET DU METABOLISME | A16A - AUTRES MEDICAMENTS DES VOIES DIGESTIVES ET DU METABOLISME | A16AA - ACIDES AMINES ET DERIVES | A16AA01 - LEVOCARNITINE
+Registration Numbers: 544/14 G 038/23
+Drug Codes: 14 G 038
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Solution buvable et solution injectable : | Déficits primaires systémiques ou musculaires en carnitine. | Déficits secondaires aux aciduries organiques. | Déficits de la bêta-oxydation des acides gras. | Solution injectable : | Lorsque la voie orale est peu adaptée, impossible ou contre-indiquée (décompensation aiguë, contraintes de réanimation, intolérance alimentaire totale, diarrhée grave rebelle, mise au repos digestif en période pré, per et post-opératoire).
+
+## Posology
+
+Posologie | Unité de prise | ml | lévocarnitine : 200 mg | Modalités d'administration | Voie intramusculaire, voie intraveineuse | Posologie à adapter à l'état du patient | Respecter la posologie maximale recommandée | S'assurer de la compatibilité des excipients avec la voie d'administration | Posologie | Patient jusqu'à 15 an(s) | Patient quel que soit le poids | Déficit de la bêta-oxydation des acides gras, traitement alternatif à la voie orale (du) - Déficit en carnitine secondaire aux aciduries organiques, traitement alternatif à la voie orale (du) - Déficit primaire en carnitine, traitement alternatif à la voie orale (du) - Déficit secondaire en carnitine | Posologie standard | Voie intramusculaire | 25 à 75 mg/kg en 2 à 4 prises par 24 heures | Posologie maximale: 300 mg/kg par 24 heures | Voie intraveineuse | Administrer par voie intraveineuse lente | 25 à 75 mg/kg en 2 à 4 prises par 24 heures | Posologie maximale: 300 mg/kg par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Encéphalopathie hyperammoniémique induite par un traitement par l'acide valproïque - Hépatotoxicité induite par un traitement par l'acide valproïque - Hépatotoxicité induite par un traitement par l'acide valproïque, traitement préventif (de l') | Posologie standard | Voie intraveineuse | Administrer par voie intraveineuse lente | 25 à 100 mg/kg en 2 à 4 prises par 24 heures | Posologie maximale: 6 000 mg par 24 heures | Déficit secondaire en carnitine | Posologie standard | Dans le cas de : Patient hémodialysé | Voie intraveineuse | Administrer en fin de séance d'hémodialyse | Administrer par voie intraveineuse lente | Rechercher la posologie minimale efficace | Traitement à arrêter en cas d'absence de réponse après 9 à 12 mois de traitement | Traitement à réévaluer après 3 mois de traitement | 10 à 20 mg/kg en 1 prise par 24 heures | Déficit de la bêta-oxydation des acides gras, traitement alternatif à la voie orale (du) - Déficit en carnitine secondaire aux aciduries organiques, traitement alternatif à la voie orale (du) - Déficit primaire en carnitine, traitement alternatif à la voie orale (du) - Déficit secondaire en carnitine | Posologie standard | Voie intramusculaire | 25 à 75 mg/kg en 2 à 4 prises par 24 heures | Posologie maximale: 300 mg/kg par 24 heures | Voie intraveineuse | Administrer par voie intraveineuse lente | 25 à 75 mg/kg en 2 à 4 prises par jour | Posologie maximale: 300 mg/kg par 24 heures
+
+## Precautions
+
+Allaitement | Antécédent de convulsions | Diabète | Epilepsie | Grossesse | Insuffisance rénale | Patient dialysé | Traitement par un dérivé de la coumarine
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lévocarnitine : Mécanisme d'action | La lévocarnitine est un constituant naturel de l'organisme et joue un rôle fondamental dans l'utilisation des lipides ; c'est, en effet, l'unique transporteur utilisable par les acides gras à longue chaîne pour traverser la membrane mitochondriale interne et se diriger vers la bêta-oxydation. | En plus de ce rôle de transport des acides gras, la carnitine intervient dans le métabolisme intermédiaire, en transportant des fragments acétylés issus de la bêta-oxydation, favorisant l'épargne du coenzyme A intramitochondrial et augmentant ainsi la disponibilité énergétique de la cellule ; en stimulant l'utilisation oxydative du pyruvate ; en stimulant la décarboxylation d'acides aminés à chaînes ramifiées ; en intervenant dans la cétogenèse hépatique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - INR (augmentation) | DERMATOLOGIE: | - Odeur anormale de la peau | - Eruption cutanée | - Hyperhidrose | - Prurit | - Erythème cutané | - Urticaire | DIVERS: | - Douleur thoracique | - Fièvre | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | INSTRUMENTATION: | - Réaction au point d'injection | ORL, STOMATOLOGIE: | - Dysgueusie | - Sensation de vertige | - Hyposialie | SYSTÈME CARDIOVASCULAIRE: | - Malaise | - Palpitation | - Pression artérielle (augmentation) | - Hypotension artérielle | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Douleur abdominale | - Diarrhée | - Dyspepsie | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe | - Douleur musculaire | - Tension musculaire | - Spasme musculaire | SYSTÈME NERVEUX: | - Céphalée | - Convulsions | SYSTÈME RESPIRATOIRE: | - Dyspnée

@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_A_044
+DCI: PARACETAMOL 500 mg + PSEUDOEPHEDRINE CHLORHYDRATE 30 mg cp (DOLIRHUME PARACETAMOL ET PSEUDOEPHEDRINE)
+Brand Names: TRIPARACETAL
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg/60mg**/2.5mg**
+Packaging: b/20
+Laboratories: OPELLA HEALTHCARE France SAS
+Registration Numbers: 039/22 A 044/13
+Drug Codes: 22 A 044
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Fri Jun 20 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: Traitement au cours des rhumes de l'adulte et l'adolescent de plus de 15 ans : | des sensations de nez bouché, | des maux de tête et/ou fièvre. | lists: des sensations de nez bouché, | des maux de tête et/ou fièvre.

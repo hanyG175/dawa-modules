@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_054
+DCI: AMPICILLINE (sodique) 1 g + SULBACTAM (sodique) 500 mg pdre/solv p sol inj (UNACIM INJECTABLE)
+DrugBank ID: DB00415
+DrugBank Name: Ampicillin
+Brand Names: AMPILINE | AMPINAX
+Pharmaceutical Forms: Poudre P. Susp. Inj. Im | Poudre Sol Inj Perf
+Dosages: 1g/flc
+Packaging: 1flc et 1 ampoule sol 5ml et b/50 flc sans solv | b/1 flc de poudre + 01 ampl de 5ml solv.
+Registration Numbers: 003/13 G 054/98/21 | 293/13 G 054/10
+Drug Codes: 13 G 054
+
+------------------------------------------------------------
+
+## Description
+
+Ampicillin is a semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.
+
+## Pharmacodynamics
+
+Ampicillin is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name "penicillin" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Ampicillin has in vitro activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of Ampicillin results from the inhibition of cell wall synthesis and is mediated through Ampicillin binding to penicillin binding proteins (PBPs). Ampicillin is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
+
+## Mechanism Of Action
+
+Penicillin-binding protein 2a (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor Penicillin-binding protein 1b (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor serine-type D-Ala-D-Ala carboxypeptidase (Streptococcus pneumoniae) Inhibitor + 2 more targets
+
+## Route Of Elimination
+
+Ampicillin is excreted largely unchanged in the urine.

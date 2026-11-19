@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_D_015
+DCI: Phytomenadione
+DrugBank ID: DB01022
+DrugBank Name: Vitamin K1
+Brand Names: RAZIDIONE K1
+Pharmaceutical Forms: Sol Buv Et Inj Iv Ou Im
+Dosages: 10 mg/ml
+Packaging: boite de 5 ampoules et boite de 50 ampoule de 01ml
+Registration Numbers: 433/12 D 015/23
+Drug Codes: 12 D 015
+
+------------------------------------------------------------
+
+## Description
+
+Vitamin K1, also called phylloquinone or phytonadione, is a fat soluble vitamin. 17 , 18 Phylloquinone is a cofactor of the enzyme γ-carboxylase, which modifies and activates precursors to coagulation factors II, VII, IX, and X. 7 , 8 , 6 It is indicated in the treatment of coagulation disorders due to faulty formation of coagulation factors II, VII, IX, and X caused by deficiency or interference in the activity of vitamin K. 17 Phylloquinone has been synthesized since at least 1939, 16 and was approved by the FDA prior to 1955. 19
+
+## Pharmacodynamics
+
+Phylloquinone is a vitamin K indicated in the treatment of coagulation disorders due to faulty formation of coagulation factors II, VII, IX, and X caused by deficiency or interference in the activity of vitamin K. 17 It has a long duration of action as vitamin K is cycled in the body, 6 and a wide therapeutic index as large doses can be tolerated. 9 , 18 Patients should have their prothrombin time monitored during therapy and healthcare professionals should be aware of the increased risk of hypersensitivity reactions with parenteral administration. 18
+
+## Mechanism Of Action
+
+Vitamin K-dependent gamma-carboxylase Substrate Inducer Cofactor
+
+## Absorption
+
+A 4 µg oral dose of phylloquinone is 13% ± 9% bioavailable, with a T max of 4.7 ± 0.8 hours. 7 1.5 ± 0.8 nmol is found in the plasma compartment, and 3.6 ± 3.4 nmol is found in the second compartment. 7 A 10 mg intramuscular phylloquinone dose is 89.2% ± 25.4% bioavailable. 14 The same dose reaches a mean C max of 67 ± 30 ng/mL, with a mean T max of 9.2 ± 6.6 hours, and an AUC of 1700 ± 500 h*ng/mL. 14 A 10 mg intravenous phylloquinone dose has a mean AUC of 1950 ± 450 h*ng/mL. 14
+
+## Volume Of Distribution
+
+The steady state volume of distribution of phylloquinone is 20 ± 6 L in subjects who are also taking phenprocoumon therapy. 15
+
+## Metabolism
+
+Phylloquinone's phytyl side chain is omega hydroxylated by CYP4F2. 5 The side chain is then cleaved to 5 or 7 carbons long, and then glucuronidated prior to elimination. 1 , 2 , 3 , 4 Vitamin Ks in general undergo a cycle of reduction to vitamin K hydroquinone by vitamin K epoxide reductase (VKOR), oxidation to vitamin K epoxide by gamma-glutamyl carboxylase, and converted back to vitamin K by VKOR. 6 Hover over products below to view reaction partners Phylloquinone Hydroxyvitamin K1 Phylloquinone carboxylic acid metabolite Vitamin K 5 Carbon Metabolite + Vitamin K 7 Carbon Metabolite Menatetrenone
+
+## Route Of Elimination
+
+Intravenous phylloquinone is 36% eliminated in the feces in 5 days and 22% recovered in urine in 3 days. 1 , 13
+
+## Half Life
+
+Intravenous phylloquinone has an initial half life of 22 minutes, followed by a half life of 125 minutes. 1
+
+## Clearance
+
+Intravenous phylloquinone is 90% cleared in 2 hours, and 99% cleared in 8 hours. 1 , 13 A 10 mg intravenous dose of phylloquinone has a mean clearance of 91 ± 24 mL/min. 14
+
+## Toxicity
+
+High doses of vitamin K1 are not associated with toxicity. 6 Intravenous administration has been associated with an increased risk of toxicity. 9 These patients should be treated with symptomatic and supportive measures. The intravenous LD 50 in mice is 1170 mg/kg and the oral LD 50 is >24180 mg/kg. 18

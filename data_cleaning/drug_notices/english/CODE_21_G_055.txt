@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_G_055
+DCI: Teriparatide
+DrugBank ID: DB06285
+DrugBank Name: Teriparatide
+Brand Names: FORTEO
+Pharmaceutical Forms: Solution
+Dosages: 20mcg/80ul
+Packaging: b/01 stylo prerempli de 28 doses de 20ug(par 80ul)
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: H05AA02
+Registration Numbers: 263/21 G 055/08/23
+Drug Codes: 21 G 055
+
+------------------------------------------------------------
+
+## Description
+
+Teriparatide is a recombinant parathyroid hormone (PTH) analog and a potent osteoanabolic agent. 2 It is made up of the first amino(N)-terminal 34 amino acids of the human PTH. 2 First approved in the United States in November 2002 and in Europe in April 2003, 3 teriparatide makes the first approved drug in a new category of osteoporosis therapy called anabolic therapy. 2 Teriparatide is used in the treatment of osteoporosis in men and women. 4 , 5
+
+## Pharmacodynamics
+
+Teriparatide is a PTH analog that works to stimulate bone formation in both men and women. It increases skeletal mass, increases markers of bone formation such as bone-specific alkaline phosphatase (BSAP) and procollagen I carboxy-terminal propeptide (PICP), and increases bone strength. 4 Like endogenous PTH, teriparatide affects calcium and phosphate homeostasis. It causes a transient increase in serum calcium levels and increases urinary calcium excretion. In clinical trials, it also produced transient phosphaturia and mild transient reductions in serum phosphorus concentration. 4
+
+## Mechanism Of Action
+
+Parathyroid hormone (PTH) is an endogenous hormone that regulates calcium and phosphate metabolism in bone and kidney. It regulates bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. It mediates its physiological actions by binding to the PTH receptors. 4 Excess PTH - such as in certain disease states like hyperparathyroidism - can cause increased osteoclast activity and accelerated bone resorption. Interestingly, the effects of PTH depend on the dose and pattern of exposure of PTH to the bone. Continuous exposure to PTH promotes bone resorption, whereas intermittent exposure to low-dose PTH can induce bone formation more favourably than bone resorption. 2 Similarly, teriparatide's skeletal effects depend upon the systemic exposure pattern. Once-daily administration of teriparatide stimulates new bone formation on trabecular and cortical (periosteal and/or endosteal) bone surfaces by preferential stimulation of osteoblastic activity over osteoclastic activity. 4 Teriparatide mediates its osteoanabolic actions by binding to the N-terminal moiety to PTH type 1 receptors (PTH type 1R), which are G-protein coupled receptors expressed on various cells, including osteoblasts, osteocytes, and renal tubular cells. 2 Binding of teriparatide to PTH receptors on osteoblasts activates the downstream PKA- and PKC-dependent signaling pathways that promotes anabolic effects on bone. 1 , 2 For example, teriparatide increases expression of pro-osteoclastogenic cytokines like receptor activator of nuclear factor kappa-B ligand (RANKL) and macrophage colony-stimulating factor. It also upregulates transcriptional expression of pro-osteoblastogenic growth factors like insulin-like growth factor 1 (IGF1) and fibroblast growth factor 2 (FGF2). Teriparatide also downregulates the synthesis of sclerostin, which is a negative regulator of bone formation. It also promotes the differentiation of osteoblasts. 2 Target Actions Organism U Parathyroid hormone modulator Humans U Parathyroid hormone/parathyroid hormone-related peptide receptor ligand Humans
+
+## Absorption
+
+The absolute bioavailability is approximately 95%. The peptide reaches peak serum concentrations about 30 minutes after subcutaneous injection of a 20 mcg dose and declines to non-quantifiable concentrations within three hours. 4
+
+## Volume Of Distribution
+
+The volume of distribution following intravenous injection is approximately 0.12 L/kg. Teriparatide is not expected to accumulate in bone or other tissues. 4
+
+## Metabolism
+
+No metabolism studies have been performed with teriparatide. Peripheral metabolism of PTH is believed to occur by non-specific enzymatic mechanisms in the liver. 4
+
+## Route Of Elimination
+
+No excretion studies have been performed with teriparatide. It is believed to be excreted via the kidneys. 4
+
+## Half Life
+
+The half-life of teriparatide in serum was approximately one hour following subcutaneous administration. 4
+
+## Clearance
+
+Systemic clearance of teriparatide is approximately 62 L/hour in women and 94 L/hour in men. It exceeds the rate of normal liver plasma flow, consistent with both hepatic and extra-hepatic clearance. 4
+
+## Toxicity
+
+The subcutaneous and intravenous lethal dose (LD) in rats are 1000 µg/m 3 and 300 µg/m 3 , respectively. 6 Few post-marketing reports illustrate cases of medication errors where patients accidentally received up to a single 800 mcg dose of teriparatide, which is 40 times the recommended dose. Patients experienced nausea, weakness or lethargy, and hypotension. No deaths have been reported from teriparatide overdose. Additional signs, symptoms, and complications of overdosage may include a delayed hypercalcemic effect, vomiting, dizziness, and headache. 4 There is no specific antidote for a teriparatide overdosage. Treatment of suspected overdosage should include discontinuation of teriparatide, monitoring of serum calcium and phosphorus, and implementation of appropriate supportive measures, such as hydration. 4

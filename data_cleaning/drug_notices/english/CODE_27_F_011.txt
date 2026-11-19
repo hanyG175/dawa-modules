@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_F_011
+DCI: Guselkumab
+DrugBank ID: DB11834
+DrugBank Name: Guselkumab
+Brand Names: TREMFYA
+Pharmaceutical Forms: Solution
+Dosages: 100mg
+Packaging: b/01
+Registration Numbers: 095/27 F 011/25
+Drug Codes: 27 F 011
+
+------------------------------------------------------------
+
+## Description
+
+Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation 2 . In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+
+## Pharmacodynamics
+
+Guselkumab is shown to reduce serum levels of IL-17A, IL-17F and IL-22 5 .
+
+## Mechanism Of Action
+
+Interleukin-23 subunit alpha Antagonist
+
+## Absorption
+
+Following a 100mg subcutaneous administration, the peak plasma concentration (Cmax) of guselkumab is 8.09 ± 3.68 mcg/mL which is reached after approximately 5.5 days 5 .
+
+## Volume Of Distribution
+
+The apparent volume of distribution is 13.5 L 5 .
+
+## Metabolism
+
+Like other human IgG monoclonal antibodies, guselkumab is expected to be degraded into small peptides and amino acids via catabolic pathways 5 .
+
+## Route Of Elimination
+
+Like other human IgG monoclonal antibodies, guselkumab is expected to be both renally and fecally excreted as smaller peptide units.
+
+## Half Life
+
+Mean half-life of guselkumab is approximately 15 to 18 days in subjects with plaque psoriasis 5 .
+
+## Clearance
+
+Apparent clearance in subjects with plaque psoriasis is 0.516 L/day 5 .
+
+## Toxicity
+
+Animal studies to assess the effect of guselkumab on carcinogenesis, mutagenesis and impairment on fertility have not been conducted. When subcutaneously injected into guinea pigs, the doses of guselkumab up to 100mg/kg twice-weekly demonstrated no effects on fertility parameters 5 .

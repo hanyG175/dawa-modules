@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_B_009
+DCI: COLCHICINE 1 mg cp (COLCHICINE OPOCALCIUM) | Colchicine
+DrugBank ID: DB01394
+DrugBank Name: Colchicine
+Brand Names: COLCHICINE OPOCALCIUM | COLCHIMED | COLCHIMEX
+Pharmaceutical Forms: Comprimé
+Dosages: 1MG | 1mg
+Packaging: B/20 | b/20
+Laboratories: GALENIQUES VERNIN
+Countries: FRANCE
+Reference Tariff (DA): 266 DA
+Prescription List: Liste I
+ATC Classification: M04AC01
+Registration Numbers: 067/21 B 009/98/19 | 317/27 A 005/14 | 400/21 B 009/15
+Drug Codes: 21 B 009
+
+------------------------------------------------------------
+
+## Description
+
+Colchicine is an alkaloid drug derived from a plant belonging to the Lily family, known as Colchicum autumnale , or "autumn crocus." 4 Its use was first approved by the FDA in 1961. 11 Colchicine is used in the treatment of gout flares and Familial Mediterranean fever, 9 and prevention of major cardiovascular events. 12 It has also been investigated in other inflammatory and fibrotic conditions. 1
+
+## Pharmacodynamics
+
+Colchicine ameliorates the symptoms of gout and Familial Mediterranean fever. 1 , 9 It possesses anti-inflammatory, anti-fibrotic, and cardiovascular protective effects. Colchicine was shown to exhibit anticancer properties, such as the inhibition of cancer cell migration and angiogenesis. Colchicine has a narrow therapeutic window. 1
+
+## Mechanism Of Action
+
+Tubulin beta chain Inhibitor Binder
+
+## Absorption
+
+Colchicine is rapidly absorbed after oral administration from the gastrointestinal tract. 9 The bioavailability of colchicine is about 45%: 9 , 12 one study suggests that colchicine bioavailability is highly variable, ranging from 24 to 88%. 3 In healthy adults, the mean C max of 2.5 ng/mL (range 1.1 to 4.4 ng/mL) was achieved in one to two hours (range 0.5 to 3 hours) after a single dose administered under fasting conditions. 9 In a multiple-dose study of colchicine administration at a dose of 1 mg per day, steady-state concentrations were achieved by day 8 following administration. 3 Administration of colchicine with food does not affect the colchicine absorption rate but decreases the extent of colchicine by approximately 15%. 9
+
+## Volume Of Distribution
+
+The mean apparent volume of distribution in young and healthy patients is about 5-8 L/kg. It is known to cross the placenta and distribute into the breast milk. 9 Colchicine has been found to distribute to various tissues, mainly into the bile, liver, and kidney tissues. Smaller amounts have been detected in the heart, lungs, intestinal tissue, and stomach. 11
+
+## Metabolism
+
+Colchicine is metabolized in the liver. It undergoes CYP3A4-mediated demethylation into major metabolites, 2-O-demethylcolchicine and 3-O-demethylcolchicine. It also forms one minor metabolite, 10-O-demethylcolchicine ( colchiceine ). 9 , 11 Plasma levels of these metabolites are less than 5% of parent drug. 12 Hover over products below to view reaction partners Colchicine 2-Demethylcolchicine 3-Desmethylchochicine Colchiceine
+
+## Route Of Elimination
+
+In a pharmacokinetic study of healthy research subjects who received 1 mg of oral colchicine, about 40% to 65% of the dose was recovered in the urine in the form of an unchanged drug. Colchicine undergoes enterohepatic recirculation and biliary excretion. 7 , 9
+
+## Half Life
+
+After several doses of 0.6 mg twice daily, the average elimination half-life of colchicine ranges from 26.6 to 31.2 hours. 9 Another study reported the elimination half-life ranging to be 20 to 40 hours. 3
+
+## Clearance
+
+In one pharmacokinetic study involving patients who received a single oral dose of 0.6 mg colchicine, the clearance was 0.0321 ± 0.0091 mL/min in young, healthy adults and 0.0292 ± 0.0071 mL/min in adults between the ages of 60 and 70 years. Patients with end-stage renal impairment showed a 75% lower clearance of colchicine. 9 In a pharmacokinetic study of patients with Familial Mediterranean Fever (FMF), the apparent mean clearance was calculated at 0.726 ± 0.110 L/h/kg. 8
+
+## Toxicity
+
+The oral LD 50 of colchicine in mice is 5.87 mg/kg. 10 Acute overdose exceeding 0.5 mg/kg (35 mg for a 70 kg average adult) is usually fatal. Fatalities have been reported with as little as 7 mg. 12 Colchicine poisoning presents in three sequential and usually overlapping phases. The first stage of acute colchicine toxicity typically occurs within 24 hours of ingestion and includes gastrointestinal symptoms such as abdominal pain, nausea, vomiting, diarrhea, and significant fluid loss, leading to volume depletion. Peripheral leukocytosis may also be seen. The second stage develops 24 to 72 hours after ingestion and is characterized by multi-organ failure. Death is usually a result of respiratory depression and cardiovascular collapse. Recovery may be accompanied by rebound leukocytosis about one week after ingestion. 9 , 12 No specific antidote is known. Elimination of toxins by gastric lavage followed by activated charcoal should be attempted within 1-2 hours of ingestion. Colchicine is not effectively removed by hemodialysis. 9 , 12

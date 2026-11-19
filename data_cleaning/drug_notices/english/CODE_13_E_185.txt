@@ -1,0 +1,41 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_185
+DCI: ROXITHROMYCINE 150 mg cp (ROXITHROMYCINE ARROW)
+DrugBank ID: DB00778
+DrugBank Name: Roxithromycin
+Brand Names: ROXAMED | ROXIBACT ALEMBIC MAMI | ROXITHROMYCINE HUP
+Pharmaceutical Forms: Comprimé
+Dosages: 150mg
+Packaging: b/10
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01F - MACROLIDES, LINCOSAMIDES ET STREPTOGRAMINES | J01FA - MACROLIDES | J01FA06 - ROXITHROMYCINE
+Registration Numbers: 055/13 E 185/01/13 | 380/13 E 185/12 | 510/13 E 185/17
+Drug Codes: 13 E 185
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Roxithromycin has the following antibacterial spectrum in vitro : Streptococcus agalactiae , Streptococcus pneumoniae (Pneumococcus), Neisseria meningitides (Meningococcus), Listeria monocytogenes , Mycoplasma pneumoniae , Chlamydia trachomatis , Ureaplasma urealyticum , Legionella pneumophila , Helicobacter (Campylobacter), Gardnerella vaginalis , Bordetella pertussis , Moraxella catarrhalis ( Branhamella Catarrhalis ), and Haemophilus ducreyi . Roxithromycin is highly concentrated in polymorphonuclear leukocytes and macrophages, achieving intracellular concentrations greater than those outside the cell. Roxithromycin enhances the adhesive and chemotactic functions of these cells which in the presence of infection produce phagocytosis and bacterial lysis. Roxithromycin also possesses intracellular bactericidal activity.
+
+## Mechanism Of Action
+
+Large ribosomal subunit protein uL10 (Shigella flexneri) Inhibitor
+
+## Absorption
+
+Very rapidly absorbed and diffused into most tissues and phagocytes.
+
+## Metabolism
+
+Hepatic. Roxithromycin is only partially metabolised, more than half the parent compound being excreted unchanged. Three metabolites have been identified in urine and faeces: the major metabolite is descladinose roxithromycin, with N-mono and N-di-demethyl roxithromycin as minor metabolites. The respective percentage of roxithromycin and these three metabolites is similar in urine and faeces. Hover over products below to view reaction partners Roxithromycin descladinose roxithromycin N-di-demethyl roxithromycin N-mono roxithromycin
+
+## Half Life
+
+12 hours
+
+## Toxicity
+
+Roxithromycin primarily causes gastrointestinal adverse events, such as diarrhoea, nausea, abdominal pain and vomiting. Less common adverse events include headaches, rashes, abnormal liver function values and alteration in senses of smell and taste.

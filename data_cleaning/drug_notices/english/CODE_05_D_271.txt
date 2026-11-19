@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_271
+DCI: Ipilimumab
+DrugBank ID: DB06186
+DrugBank Name: Ipilimumab
+Brand Names: YERVOY
+Pharmaceutical Forms: Solution
+Dosages: 5mg/ml
+Packaging: flacon/10ml
+Registration Numbers: 017/05 D 271/25
+Drug Codes: 05 D 271
+
+------------------------------------------------------------
+
+## Description
+
+Ipilimumab is a fully humanized IgG1 monoclonal antibody that blocks cytotoxic T lymphocyte antigen-4 (CTLA-4). 5 Blocking CTLA-4 removes an inhibitory signal from reducing the activity of T lymphocytes. 1 , 2 , 5 Ipilimumab was developed by Bristol-Myers Squibb and Medarex. 5 Ipilimumab was granted FDA approval on 25 March 2011. 5
+
+## Pharmacodynamics
+
+Ipilimumab is a human IgG1 that binds CTLA-4, preventing 1 T-cell inhibition signal pathway. 3 It has a long duration of action as it is given every 3 to 4 weeks. 5 Patients should be counselled regarding the risk of immune-mediated adverse effects, infusion related reactions, and embryo-fetal toxicity. 5
+
+## Mechanism Of Action
+
+Cytotoxic T-lymphocyte protein 4 Inhibitor Antibody
+
+## Absorption
+
+C max was 65.8µg/mL for 2-6 year olds, 70.1µg/mL for 6-<12 year olds, and 73.3µg/mL in patients 12 years and older. 5 Data regarding the AUC and T max of ipilumumab are not readily available. 3 , 5
+
+## Volume Of Distribution
+
+The volume of distribution at steady-state of ipilimumab is 7.21L. 3
+
+## Metabolism
+
+The metabolism of ipilimumab does not involve the cytochrome P450 enzyme system. 5 , 6 Because ipilimumab is a protein, it is expected to be degraded into small peptides and amino acids by proteolytic enzymes. 4
+
+## Route Of Elimination
+
+Data regarding the route of elimination of ipilimumab is not readily available. 5
+
+## Half Life
+
+Ipilimumab has a half life of 14.7 days. 3
+
+## Clearance
+
+Ipilimumab has a clearance of 15.3 mL/hr. 3 Systemic clearance increases proportionally with body weight. 6
+
+## Toxicity
+
+Data regarding ipilumumab overdose is not readily available. 5 However, the most common adverse reactions to ipilumumab are fatigue, diarrhea, pruritus, rash, and colitis. 5

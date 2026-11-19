@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_N_063
+DCI: Lynestrenol
+DrugBank ID: DB12474
+DrugBank Name: Lynestrenol
+Brand Names: ORGAMETRIL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/30
+Registration Numbers: 005/09 N 063/96/16
+Drug Codes: 09 N 063
+
+------------------------------------------------------------
+
+## Description
+
+Lynestrenol is a progestin and prodrug of norethisterone .

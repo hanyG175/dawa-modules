@@ -1,0 +1,23 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_G_206
+DCI: BICARBONATE DE SODIUM 267 mg + SODIUM ALGINATE 500 mg susp buv sach (MAALOX REFLUX ALGINATE DE SODIUM/BICARBONATE DE SODIUM Ment Ss sucre)
+Brand Names: NOBAC
+Pharmaceutical Forms: Comprimé
+Dosages: 500 mg/267 mg/160 mg
+Packaging: b/16
+Laboratories: OPELLA HEALTHCARE France SAS
+Registration Numbers: 263/10 G 206/17
+Drug Codes: 10 G 206
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement des symptômes du reflux gastro-œsophagien tels que régurgitations acides, pyrosis et digestion difficile (liée au reflux), comme, par exemple, après les repas ou au cours de la grossesse, ou lors d'une œsophagite.
+
+## Mechanism Of Action
+
+Sodium alginate : Mécanisme d'action | Les alginates sont dotés de propriétés hydrophiles élevées. Ils forment dans l'estomac une masse de consistance gélatineuse, assurent par leur volume la réplétion du tube digestif et diminuent la sensation de faim.

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_F_224
+DCI: PRASUGREL (bromhydrate) 10 mg cp (PRASUGREL ARROW)
+Brand Names: PERGUS
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/30
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AC - INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, HEPARINE EXCLUE | B01AC22 - PRASUGREL
+Registration Numbers: 352/12 F 224/24
+Drug Codes: 12 F 224
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | prasugrel (bromhydrate) : 10 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Poids = 60 kg | Athérothrombose en cas d'angor instable, trt préventif associé à l'aspirine (de l') - Athérothrombose en cas d'infarctus avec sus-décalage ST, trt préventif associé à l'aspirine (de l') - Athérothrombose en cas d'infarctus sans sus-décalage ST, trt préventif associé à l'aspirine (de l') | Dose de charge | 60 mg en 1 prise ce jour | Dose ultérieure | 10 mg 1 fois par jour | Pendant 12 mois | Patient à partir de 75 an(s) | Poids >= 60 kg | Athérothrombose en cas d'angor instable, trt préventif associé à l'aspirine (de l') - Athérothrombose en cas d'infarctus avec sus-décalage ST, trt préventif associé à l'aspirine (de l') - Athérothrombose en cas d'infarctus sans sus-décalage ST, trt préventif associé à l'aspirine (de l') | Dose de charge | 60 mg en 1 prise ce jour | Dose ultérieure | 5 mg 1 fois par jour | Pendant 12 mois
+
+## Precautions
+
+Allaitement | Grossesse | Hémorragie gastro-intestinale, antécédent récent (d') | Hémorragie gastro-intestinale récidivante | Infarctus du myocarde sans sus-décalage du segment ST | Insuffisance hépatique modérée | Insuffisance rénale | Intervention chirurgicale | Sujet à risque hémorragique | Sujet de moins de 18 ans | Sujet de moins de 60 kg | Sujet de plus de 75 ans | Traumatisme, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Prasugrel : Mécanisme d'action | Le prasugrel est un inhibiteur de l'activation et de l'agrégation plaquettaires par l'intermédiaire de la liaison irréversible de son métabolite actif aux récepteurs à l'ADP de type P2Y12 sur les plaquettes. Étant donné que les plaquettes participent à l'apparition et/ou à l'évolution des complications thrombotiques de la maladie athérosclérotique, l'inhibition de la fonction plaquettaire peut permettre de réduire le taux d'événements cardiovasculaires tels que le décès, l'infarctus du myocarde ou l'accident vasculaire cérébral.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Fréquent) | - Hématome sous-cutané (Rare) | HÉMATOLOGIE: | - Contusion (Fréquent) | - Ecchymose (Fréquent) | - Anémie (Fréquent) | - Hémorragie post-intervention (Peu fréquent) | - Hématome (Fréquent) | - Hématome au site de ponction (Fréquent) | - Thrombopénie (Rare) | - Purpura thrombopénique thrombotique | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Angioedème | INSTRUMENTATION: | - Hémorragie au site de ponction (Fréquent) | OPHTALMOLOGIE: | - Hémorragie oculaire (Peu fréquent) | ORL, STOMATOLOGIE: | - Gingivorragie (Peu fréquent) | - Epistaxis (Fréquent) | SYSTÈME DIGESTIF: | - Rectorragie (Peu fréquent) | - Hémorragie gastro-intestinale (Fréquent) | - Hémorragie rétropéritonéale (Peu fréquent) | - Hématochésie (Peu fréquent) | SYSTÈME NERVEUX: | - Hémorragie intracrânienne | SYSTÈME RESPIRATOIRE: | - Hémoptysie (Peu fréquent) | UROLOGIE, NÉPHROLOGIE: | - Hématurie (Fréquent)

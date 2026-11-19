@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_071
+DCI: HEXAMIDINE DI-ISETIONATE 0,1 % gel (HEXOMEDINE)
+Brand Names: ISOMEDINE
+Pharmaceutical Forms: Sol Dermique
+Dosages: 0.1%
+Packaging: flacon de 50ml
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01A - ANTI-INFECTIEUX | S01AX - AUTRES ANTI-INFECTIEUX | S01AX08 - HEXAMIDINE
+Registration Numbers: 073/07 P 071/99/25
+Drug Codes: 07 P 071
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : reboucher le flacon après utilisation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Antisepsie oculaire en chirurgie ophtalmique - Blépharite bactérienne - Conjonctivite présumée bactérienne - Dacryocystite - Infection bactérienne de l'oeil ou de ses annexes - Kératoconjonctivite bactérienne | Posologie standard | 1 à 2 gouttes 4 à 6 fois par jour | Durées absolues de traitement | Ne pas dépasser 10 jours de traitement.
+
+## Precautions
+
+Traitement concomitant par un collyre
+
+## Mechanism Of Action
+
+Hexamidine : Mécanisme d'action | L'hexamidine (appartenant à la famille des diamidines) est un agent antibactérien cationique et présente des propriétés tensioactives. | In vitro | , son activité s'exerce sur les bactéries Gram + et n'est pas inhibée par le pus, le sérum, les débris organiques.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatite | - Dermatite allergique | DIVERS: | - Réaction locale | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Sensibilisation | OPHTALMOLOGIE: | - Irritation oculaire

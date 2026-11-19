@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_B_007
+DCI: Heparine Sodique
+DrugBank ID: DB01109
+DrugBank Name: Heparin
+Brand Names: HEPARINE SODIQUE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 25 000 UI/5ML
+Packaging: B/50 FL. DE 5ML
+Laboratories: LEO
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: B01AB01
+Registration Numbers: 076/12 B 007/23
+Drug Codes: 12 B 007
+
+------------------------------------------------------------
+
+## Description
+
+Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+
+## Pharmacodynamics
+
+Unfractionated heparin is a highly acidic mucopolysaccharide formed of equal parts of sulfated D-glucosamine and D-glucuronic acid with sulfaminic bridges. The molecular weight ranges from 3000 to 30,000 daltons. Heparin is obtained from liver, lung, mast cells, and other cells of vertebrates. Heparin is a well-known and commonly used anticoagulant which has antithrombotic properties. Heparin inhibits reactions that lead to the clotting of blood and the formation of fibrin clots both in vitro and in vivo. Small amounts of heparin in combination with antithrombin III, a heparin cofactor,) can inhibit thrombosis by inactivating Factor Xa and thrombin. Once active thrombosis has developed, larger amounts of heparin can inhibit further coagulation by inactivating thrombin and preventing the conversion of fibrinogen to fibrin. Heparin also prevents the formation of a stable fibrin clot by inhibiting the activation of the fibrin stabilizing factor. Heparin prolongs several coagulation tests. Of all the coagulation tests, activated partial prothrombin time (aPTT) is the most clinically important value.
+
+## Mechanism Of Action
+
+Antithrombin-III Potentiator Coagulation factor X Inhibitor
+
+## Absorption
+
+Heparin is not absorbed through the gastrointestinal tract and is therefore administered via a parenteral route. Peak plasma concentration and the onset of action are achieved immediately after intravenous administration. 11 Plasma heparin concentrations may be increased and activated partial thromboplastin times (aPTTs) may be more prolonged in geriatric adults (older than 60 years of age) compared with younger adults. 11
+
+## Volume Of Distribution
+
+The volume of distribution is 0.07 L/kg. 11 Although heparin does not distribute into adipose tissues, clinicians should use actual body weight in obese patients to account for extra vasculature. 6
+
+## Metabolism
+
+Heparin does not undergo enzymatic degradation. 11
+
+## Route Of Elimination
+
+Heparin undergoes biphasic clearance, a) rapid saturable clearance (zero-order process due to binding to proteins, endothelial cells, and macrophages), and b) slower first-order elimination. Low doses of heparin are cleared mostly by a saturable, rapid, zero-order process. Slower first-order elimination usually occurs with very high doses of heparin and is dependent on renal function. 11 High-molecular-weight moieties are cleared more rapidly than lower molecular-weight moieties. 4
+
+## Half Life
+
+The plasma half-life is dose-dependent, and it ranges from 0.5 to 2 h. 11 For the purpose of choosing a protamine dose, heparin can be assumed to have a half-life of about 30 minutes after intravenous injection. 11 The plasma half-life of heparin increases from about 30 min after an IV bolus of 25 units/kg to 60 minutes with a 100 unit/kg dose or to about 150 minutes with a 400 unit/kg dose. 4
+
+## Clearance
+
+The clearance in adults receiving a bolus dose of 75 units/kg and preterm newborns receiving a bolus dose of 100 units/kg were calculated to be 0.43 ml/kg/min and 1.49 ml/kg/min respectively. 7
+
+## Toxicity
+
+In mouse, the median lethal dose is greater than 5000 mg/kg. Another side effect is heparin-induced thrombocytopenia (HIT syndrome). Platelet counts usually do not fall until between days 5 and 12 of heparin therapy. HIT is caused by an immunological reaction that makes platelets form clots within the blood vessels, thereby using up coagulation factors. It can progress to thrombotic complications such as arterial thrombosis, gangrene, stroke, myocardial infarction and disseminated intravascular coagulation. Symptoms of overdose may show excessive prolongation of aPTT or by bleeding, which may be internal or external, major or minor. Therapeutic doses of heparin give for at least 4 months have been associated with osteoporosis and spontaneous vertebral fractures. Osteoporosis may be reversible once heparin is discontinued. Although a causal relationship has not been established, administration of injections preserved with benzyl alcohol has been associated with toxicity in neonates. Toxicity appears to have resulted from administration of large amounts (i.e., about 100–400 mg/kg daily) of benzyl alcohol in these neonates. Its use is principally associated with the use of bacteriostatic 0.9% sodium chloride intravascular flush or endotracheal tube lavage solutions.

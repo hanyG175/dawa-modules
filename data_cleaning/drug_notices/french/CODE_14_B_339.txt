@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_B_339
+DCI: INSULINE GLARGINE 100 UI/ml sol inj stylo prérempli (ABASAGLAR KWIKPEN)
+Brand Names: HUMALOG MIX 50 KwikPen
+Pharmaceutical Forms: Sol Inj S/C En Stylo Prerempli
+Dosages: 100ui/ml (3.5mg/ml)
+Packaging: boite de 05 stylos preremplis de 3ml
+Laboratories: LILLY FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10A - INSULINES ET ANALOGUES | A10AE - INSULINES ET ANALOGUES D'ACTION LENTE PAR VOIE INJECTABLE | A10AE04 - INSULINE GLARGINE
+Registration Numbers: 263/14 B 339/12/23
+Drug Codes: 14 B 339
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement du diabète sucré de l'adulte, de l'adolescent et de l'enfant à partir de 2 ans.
+
+## Posology
+
+Posologie | Unité de prise | stylo prérempli | insuline glargine : 100 UI/1 ml | Modalités d'administration | Voie sous-cutanée | Administrer chaque jour à la même heure | Administrer dans le haut du bras, dans l'abdomen ou dans la cuisse | Administrer en une prise quotidienne | Administrer en variant le site d'injection | Amener à température ambiante avant utilisation | Posologie à adapter à la glycémie | Posologie | Patient à partir de 2 an(s) | Patient quel que soit le poids | Diabète insulinodépendant - Diabète insulinonécessitant | Posologie standard | La posologie de l?insuline dépend de chaque individu et est déterminée en fonction des besoins du patient. Un contrôle glycémique et un ajustement de la dose de l'insuline sont recommandés afin d'obtenir un équilibre glycémique optimal. | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Acidocétose diabétique | Allaitement | Cécité | Consommation d'alcool | Diabète de longue date | Diabète insulinodépendant | Grossesse | Hypopituitarisme | Hypothyroïdie | Insuffisance coronarienne | Insuffisance hépatique | Insuffisance rénale | Insuffisance surrénale | Interchangeabilité | Maladie psychiatrique | Neuropathie végétative | Nourrisson de moins de 2 ans | Pathologie endocrinienne | Pathologie intercurrente | Patient traité en association avec la pioglitazone | Patient traité en relais d'une insuline animale | Poids (variation) | Rétinopathie diabétique proliférante | Sportif | Sténose carotidienne | Sujet âgé | Sujet exerçant une activité physique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Insuline glargine : Mécanisme d'action | L'insuline glargine est un analogue de l'insuline humaine peu soluble à pH neutre, totalement soluble au pH acide. Après injection dans le tissu sous-cutané, la solution acide est neutralisée, ce qui induit la formation de microprécipités à partir desquels de petites quantités d'insuline glargine sont libérées de façon continue. De ce fait, la courbe concentration/temps est régulière, sans pics, prévisible, et la durée d'action est prolongée. | Le principal effet de l'insuline, y compris l'insuline glargine, est de réguler le métabolisme du | glucose | . L'insuline et ses analogues diminuent la glycémie en stimulant la captation périphérique du | glucose | , en particulier dans les muscles squelettiques et le tissu adipeux, et en inhibant la production hépatique de | glucose | . L'insuline inhibe la lipolyse dans l'adipocyte, inhibe la protéolyse et stimule la synthèse des protéines. | Des études de pharmacologie clinique ont montré que des doses identiques d'insuline glargine et d'insuline humaine, administrées par voie intraveineuse, étaient équipotentes. Comme pour toutes les insulines, l'activité physique et d'autres paramètres peuvent affecter le profil d'action en fonction du temps de l'insuline glargine.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Très fréquent) | - Hypernatrémie | DERMATOLOGIE: | - Lipohypertrophie (Fréquent) | - Lipoatrophie (Peu fréquent) | - Eruption cutanée | - Urticaire | - Réaction cutanée | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Hypersensibilité immédiate (Rare) | - Oedème de Quincke | INSTRUMENTATION: | - Réaction au point d'injection (Fréquent) | - Oedème au point d'injection (Rare) | - Amyloïdose cutanée au site d'injection | - Inflammation au site d'injection | - Erythème au point d'injection | - Prurit au point d'injection | - Douleur au point d'injection | - Lipodystrophie au point d'injection | - Tuméfaction au site d'injection | - Urticaire au point d'injection | OPHTALMOLOGIE: | - Défauts visuels (Rare) | - Rétinopathie (Rare) | - Amaurose | - Rétinopathie diabétique (complication) | - Altération du cristallin | ORL, STOMATOLOGIE: | - Dysgueusie (Très rare) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle | - Choc | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très rare) | SYSTÈME NERVEUX: | - Trouble neurologique | SYSTÈME RESPIRATOIRE: | - Bronchospasme | TOXICOLOGIE: | - Effet adrénergique

@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_015
+DCI: Protoxyde D'Azote Medicinal
+DrugBank ID: DB00435
+DrugBank Name: Nitric Oxide
+Brand Names: PROTOXYDE D'AZOTE | PROTOXYDE D'AZOTE MEDICINAL | RAYANOX N2O
+Pharmaceutical Forms: Gaz Pour Inhalation
+Dosages: gaz liquefie sous pression (purete ≥ 98% v/v n2o) | gaz liquefie ss une pression de 44 bar a 15 °c (purete ≥ 98.50% v/v n2o)
+Packaging: bouteille de 50 l | bouteille en acier de 30 kg
+Registration Numbers: 054/12 B 015/99/24 | 577/02 B 015/23 | 590/02 B 015/22
+Drug Codes: 02 B 015
+
+------------------------------------------------------------
+
+## Description
+
+Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants. Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant. The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+
+## Pharmacodynamics
+
+Persistent pulmonary hypertension of the newborn (PPHN) occurs as a primary developmental defect or as a condition secondary to other diseases such as meconium aspiration syndrome (MAS), pneumonia, sepsis, hyaline membrane disease, congenital diaphragmatic hernia (CDH), and pulmonary hypoplasia. In these states, pulmonary vascular resistance (PVR) is high, which results in hypoxemia secondary to right-to-left shunting of blood through the patent ductus arteriosus and foramen ovale. In neonates with PPHN, Nitric oxide improves oxygenation (as indicated by significant increases in PaO2). Nitric oxide appears to increase the partial pressure of arterial oxygen (PaO2) by dilating pulmonary vessels in better entilated areas of the lung, redistributing pulmonary blood flow away from lung regions with low ventilation/perfusion (V/Q) ratios toward regions with normal ratios.
+
+## Mechanism Of Action
+
+Guanylate cyclase soluble subunit alpha-2 Inducer Indoleamine 2,3-dioxygenase 1 Inhibitor
+
+## Absorption
+
+Nitric oxide is absorbed systemically after inhalation.
+
+## Metabolism
+
+via pulmonary capillary bed
+
+## Route Of Elimination
+
+Nitrate has been identified as the predominant nitric oxide metabolite excreted in the urine, accounting for >70% of the nitric oxide dose inhaled.
+
+## Half Life
+
+2–6 seconds

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_134
+DCI: PRAVASTATINE SODIQUE 20 mg cp (PRAVASTATINE SUN)
+DrugBank ID: DB00175
+DrugBank Name: Pravastatin
+Brand Names: ELISOR | PRASIVAST
+Pharmaceutical Forms: Comprimé
+Dosages: 20 mg
+Packaging: boite de 01 pilulier de 30 | boite de 28
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA03 - PRAVASTATINE
+Registration Numbers: 285/06 M 134/01/22 | 352/06 M 134/12/22
+Drug Codes: 06 M 134
+
+------------------------------------------------------------
+
+## Description
+
+Pravastatin is the 6-alpha-hydroxy acid form of mevastatin . 11 Pravastatin was firstly approved in 1991 becoming the second available statin in the United States. It was the first statin administered as the active form and not as a prodrug. 10 This drug was developed by Sankyo Co. Ltd.; however, the first approved pravastatin product was developed by Bristol Myers Squibb and FDA approved in 1991. 14 Pravastatin is made through a fermentation process in which mevastatin is first obtained. The manufacturing process is followed by the hydrolysis of the lactone group and the biological hydroxylation with Streptomyces carbophilus to introduce the allylic 6-alcohol group. 12
+
+## Pharmacodynamics
+
+The action of pravastatin on the 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase produces an increase in the expression of hepatic LDL receptors which in order decreases the plasma levels of LDL cholesterol. 10 The effect of pravastatin has been shown to significantly reduce the circulating total cholesterol, LDL cholesterol, and apolipoprotein B. As well, it modestly reduces very low-density-lipoproteins (VLDL) cholesterol and triglycerides while increasing the level of high-density lipoprotein (HDL) cholesterol and apolipoprotein A. 17 In clinical trials with patients with a history of myocardial infarction or angina with high total cholesterol, pravastatin decreased the level of total cholesterol by 18%, decreased of LDL by 27%, decreased of triglycerides by 6% and increased of high-density lipoprotein (HDL) by 4%. As well, there was reported a decrease in risk of death due to coronary disease of 24%. 1 When coadministered with cholestyramine , pravastatin can reduce by 50% the levels of LDL and slow the progression of atherosclerosis and the risk of myocardial infarction and death. 10
+
+## Mechanism Of Action
+
+3-hydroxy-3-methylglutaryl-coenzyme A reductase Inhibitor
+
+## Absorption
+
+Pravastatin is absorbed 60-90 min after oral administration and it presents a low bioavailability of 17%. 2 This low bioavailability can be presented due to the polar nature of pravastatin which produces a high range of first-pass metabolism and incomplete absorption. 12 Pravastatin is rapidly absorbed from the upper part of the small intestine via proton-coupled carrier-mediated transport to be later taken up in the livery by the sodium-independent bile acid transporter. 4 The reported time to reach the peak serum concentration in the range of 30-55 mcg/L is of 1-1.5 hours with an AUC ranging from 60-90 mcg.h/L. 8
+
+## Volume Of Distribution
+
+The reported steady-state volume of distribution of pravastatin is reported to be of 0.5 L/kg. 9 This pharmacokinetic parameter in children was found to range from 31-37 ml/kg. 8
+
+## Metabolism
+
+After initial administration, pravastatin undergoes extensive first-pass extraction in the liver. 2 However, pravastatin's metabolism is not related to the activity of the cytochrome P-450 isoenzymes and its processing is performed in a minor extent in the liver. Therefore, this drug is highly exposed to peripheral tissues. 1 The metabolism of pravastatin is ruled mainly by the presence of glucuronidation reactions with very minimal intervention of CYP3A enzymes. After metabolism, pravastatin does not produce active metabolites. 2 This metabolism is mainly done in the stomach followed by a minor portion of renal and hepatic processing. 4 The major metabolite formed as part of pravastatin metabolism is the 3-alpha-hydroxy isomer. The activity of this metabolite is very clinically negligible. 17 Hover over products below to view reaction partners Pravastatin 3-alpha-isopravastatin 5,6-epoxy-3-alpha-isopravastatin + 7-hydroxy-3-alpha-isopravastatin 6-epi-pravastatin Triol pravastatin 3-keto-5,6-diol pravastatin pravastatin glucuronide 3'(S)-hydroxy-pravastatin-tetranor 3'(S)-hydroxy-pravastatin-tetranor glucuronide 3'(S)-hydroxy-pravastatin 3'(S)-hydroxy-pravastatin-tetranor Desacylpravastatin
+
+## Route Of Elimination
+
+From the administered dose of pravastatin, about 70% is eliminated in the feces while about 20% is obtained in the urine. 13 When pravastatin is administered intravenously, approximately 47% of the administered dose is eliminated via the urine with 53% of the dose eliminated either via biotransformation of biliary. 17
+
+## Half Life
+
+The reported elimination half-life of pravastatin is reported to be of 1.8 hours. 2
+
+## Clearance
+
+The reported clearance rate of pravastatin ranges from 6.3-13.5 ml.min/kg in adults 9 while in children it has been reported to be of 4-11 L/min. 8
+
+## Toxicity
+
+The reported oral LD50 of pravastatin in mice is of 8939 mg/kg. MSDS There haven't been significant overdosage reports however, in the case of overdosage, symptomatic treatment is recommended along with laboratory monitoring and supportive measures. Label In carcinogenic studies, high dose administration of pravastatin has been reported to increase the incidence of hepatocellular carcinomas in males and lung carcinomas in females. There is no evidence relating the administration of pravastatin with mutagenicity in different assays not to produce effects in fertility or reproductive potential. Label

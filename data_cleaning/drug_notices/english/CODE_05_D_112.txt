@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_112
+DCI: TRASTUZUMAB 150 mg pdre p sol diluer p perf (ONTRUZANT) | Trastuzumab
+DrugBank ID: DB00072
+DrugBank Name: Trastuzumab
+Brand Names: CANMAB 150 | HERCEPTIN | HERVYCTA | HERZUMA | TRASTUZUMAB-SAIDAL | TRAZIMERA
+Pharmaceutical Forms: Lyoph. Sol. Inj. | Lyophilisat Et Solvant Pour Sol. Inj. | Poudre | Poudre Et Solv. P. Sol. A Diluer P. Perf. Iv
+Dosages: 150mg
+Packaging: 1 flacon de 15 ml | b/01 flacon. de pdre. + b/01 flacon. de solv. de 10ml (eau bacteriostatique pour injection) | b/01fl. de lyoph. | b/1 flc de 20ml | boite d'un flacon de lyophilisat 15ml et un flacon d'eau bacteriostatique pour injection 10 ml | boite de 01 flacon de poudre de 20ml
+ATC Classification: L01FD01
+Registration Numbers: 001/05 D 112/21 | 003/05 D 112/22 | 045/05 D 112/21 | 128/05 D 112/06/14 | 494/05 D 112/15 | 596/05 D 112/23
+Drug Codes: 05 D 112
+
+------------------------------------------------------------
+
+## Description
+
+Produced in CHO cell cultures, trastuzumab is a recombinant IgG1 kappa, humanized monoclonal antibody 6 that selectively binds with high affinity in a cell-based assay (Kd = 5 nM) to the extracellular domain of the human epidermal growth factor receptor protein (HER2). 12 It is used as a treatment of human epidermal growth factor receptor (HER)-2+ metastatic breast cancer, where there is a proven amplification of the HER-2 oncogene or over-expression of the HER-2 protein in tumours. It is suggested that the overexpression or gene amplification of HER2 has been found in about 20–30% of breast cancers and elevated activation of HER2 triggers multiple downstream pathways leading to abnormal proliferation of cancer cells 4 . Trastuzumab binds to HER2 and suppresses cancer cell growth, proliferation, and survival directly and indirectly 4 . In December 2017, FDA approved OGIVRI (trastuzumab-dkst) as a biosimilar to Herceptin (trastuzumab) for the treatment of patients with breast or metastatic stomach cancer (gastric or gastroesophageal junction adenocarcinoma) whose tumors overexpress the HER2 gene (HER2+). It displays biosimilar properties as Herceptin according to clinical data. While Ogivri is the first biosimilar approved in the U.S. for the treatment of breast cancer or stomach cancer, it is the second biosimilar approved in the U.S. for the treatment of cancer. Herzuma (trastuzumab-pkrb) is a biosimilar drug approved in December 2018 for the treatment of HER2-overexpressing breast cancer. Kanjinti (trastuzumab-anns) 16 and Hercessi 27 are other biosimilars approved by the FDA.
+In Canada, biosimilars ONTRUZANT[ 22 , 23 and Adheroza 26 are approved. In November 2023, trastuzumab was also approved by the EMA under the brand name Herwenda. 25
+
+## Pharmacodynamics
+
+Trastuzumab exerts an antitumour activity and is used in the treatment of HER2-positive breast cancer. HER2 protein overexpression is observed in 20%-30% of primary breast cancers 7 thus HER2 presents as a useful therapeutic target for the treatment of breast cancers. Trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2. It works as a mediator of antibody-dependent cellular cytotoxicity, where it binds as an antibody to cells over-expressing HER2, leading to preferential cell death. Trastuzumab was also shown to inhibit angiogenesis of tumor cells in vivo 4 . Higher doses and longer dosing intervals show no significant benefit over standard dose schedules 6 . In patients with HER2 positive solid tumours, trastuzumab did not exert any clinically significant QTc interval duration. 12
+
+## Mechanism Of Action
+
+Receptor tyrosine-protein kinase erbB-2 Binder Antibody
+
+## Absorption
+
+Peak and trough plasma concentrations at steady state (between weeks 16 and 32) were approximately 123 and 79 mcg/mL, respectively. At the highest weekly dose studied (500 mg), mean peak serum concentration was 377 mcg/mL. 12
+
+## Metabolism
+
+After it binds to HER2, trastuzumab is metabolized intracellularly into smaller peptides and amino acids. 6
+
+## Route Of Elimination
+
+Following metabolism, the complex elimination of trastuzumab in humans is mediated by epithelial cells in a dose-dependent (nonlinear) fashion. 6 The renal excretion of trastuzumab is very low. 6
+
+## Half Life
+
+The terminal half-life is approximately 28 days, 6 but may decrease with lower doses - at the 10mg and 500mg doses, half-lives averaged approximately 1.7 and 12 days, respectively. 11
+
+## Clearance
+
+The predicted steady-state clearance of trastuzumab is 0.173 - 0.337 L/day, dependent primarily on the dosing regimen. 12 The clearance rate for subcutaneously administered trastuzumab, formulated with hyaluronidase for improved subcutaneous absorption, is 0.11 L/day. 15
+
+## Toxicity
+
+There is no experience with overdosage of trastuzumab in clinical trials - single doses >8 mg/kg have not been tested in humans. 12 Trastuzumab can contribute to the development of ventricular dysfunction and congestive heart failure, particularly when used in combination (or temporally adjacent) to other cardiotoxic chemotherapies such as anthracyclines. 12

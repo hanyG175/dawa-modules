@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_231
+DCI: CANDESARTAN CILEXETIL 16 mg + HYDROCHLOROTHIAZIDE 12,5 mg cp (CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW LAB)
+DrugBank ID: DB00796
+DrugBank Name: Candesartan cilexetil
+Brand Names: BLOPRESS 16 PLUS | CANDERAX PLUS | CARDAXEL PLUS | CO SARCAND | CO-ATABEK | HYTACAND | SARTACAND PLUS
+Pharmaceutical Forms: Comprimé
+Dosages: 16mg/12.5mg
+Packaging: b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA06 - CANDESARTAN
+Registration Numbers: 001/06 E 231/09/26 | 035/06 E 231/15 | 235/06 E 231/15/26 | 256/06 E 231/06/23 | 289/06 E 231/24 | 352/06 E 231/14/19 | 447/06 E 231/12/23
+Drug Codes: 06 E 231
+
+------------------------------------------------------------
+
+## Description
+
+Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is administered orally as the prodrug, candesartan cilexetil, which is rapidly converted to its active metabolite, candesartan, during absorption in the gastrointestinal tract. Candesartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Candesartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+
+## Pharmacodynamics
+
+Candesartan cilexetil is an ARB prodrug that is rapidly converted to candesartan, its active metabolite, during absorption from the gastrointestinal tract. Candesartan confers blood pressure lowering effects by antagonizing the hypertensive effects of angiotensin II via the RAAS. RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from granular cells of the juxtaglomerular apparatus in the kidneys. Renin cleaves circulating angiotensinogen to angiotensin I, which is cleaved by angiotensin converting enzyme (ACE) to angiotensin II. Angiotensin II increases blood pressure by increasing total peripheral resistance, increasing sodium and water reabsorption in the kidneys via aldosterone secretion, and altering cardiovascular structure. Angiotensin II binds to two receptors: type-1 angiotensin II receptor (AT1) and type-2 angiotensin II receptor (AT2). AT1 is a G-protein coupled receptor (GPCR) that mediates the vasoconstrictive and aldosterone-secreting effects of angiotensin II. Studies performed in recent years suggest that AT2 antagonizes AT1-mediated effects and directly affects long-term blood pressure control by inducing vasorelaxation and increasing urinary sodium excretion. Angiotensin receptor blockers (ARBs) are non-peptide competitive inhibitors of AT1. ARBs block the ability of angiotensin II to stimulate pressor and cell proliferative effects. Unlike ACE inhibitors, ARBs do not affect bradykinin-induced vasodilation. The overall effect of ARBs is a decrease in blood pressure.
+
+## Mechanism Of Action
+
+Type-1 angiotensin II receptor Antagonist
+
+## Absorption
+
+Following administration of the candesartan cilexetil prodrug, the absolute bioavailability of candesartan was estimated to be 15%. Food with a high fat content has no effect on the bioavailability of candesartan from candesartan cilexetil.
+
+## Metabolism
+
+The prodrug candesartan cilexetil undergoes rapid and complete ester hydrolysis in the intestinal wall to form the active drug, candesartan. Elimination of candesartan is primarily as unchanged drug in the urine and, by the biliary route, in the feces. Minor hepatic metabolism of candesartan (<20%) occurs by O-deethylation via cytochrome P450 2C9 to form an inactive metabolite. Candesartan undergoes N-glucuronidation in the tetrazole ring by uridine diphosphate glucuronosyltransferase 1A3 (UGT1A3). O-glucuronidation may also occur. 75% of candesartan is excreted as unchanged drug in urine and feces. Hover over products below to view reaction partners Candesartan cilexetil Candesartan Candesartan O-glucuronide Candesartan N2-glucuronide O-Deethylated candesartan
+
+## Route Of Elimination
+
+When candesartan is administered orally, about 26% of the dose is excreted unchanged in urine. Candesartan is mainly excreted unchanged in urine and feces (via bile).
+
+## Half Life
+
+Approximately 9 hours.
+
+## Clearance
+
+0.37 mL/min/kg
+
+## Toxicity
+
+No lethality was observed in acute toxicity studies in mice, rats and dogs given single oral doses of up to 2000 mg/kg of candesartan cilexetil or in rats given single oral doses of up to 2000 mg/kg of candesartan cilexetil in combination with 1000 mg/kg of hydrochlorothiazide. In mice given single oral doses of the primary metabolite, candesartan, the minimum lethal dose was greater than 1000 mg/kg but less than 2000 mg/kg.

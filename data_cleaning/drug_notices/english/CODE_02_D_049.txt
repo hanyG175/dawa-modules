@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_D_049
+DCI: ROCURONIUM BROMURE 10 mg/ml sol inj ser préremplie (ROCURONIUM AGUETTANT) | Rocuronium Bromure
+DrugBank ID: DB00728
+DrugBank Name: Rocuronium
+Brand Names: RIMEXA | RONIUM
+Pharmaceutical Forms: Solution
+Dosages: 10 mg/ml
+Packaging: b/10
+Laboratories: LABORATOIRE AGUETTANT | 1 RUE ALEXANDER FLEMMING | 69007 LYON
+ATC Classification: M - MUSCLE ET SQUELETTE | M03 - MYORELAXANTS | M03A - MYORELAXANTS A ACTION PERIPHERIQUE | M03AC - AUTRES AMMONIUMS QUATERNAIRES | M03AC09 - ROCURONIUM BROMURE | M03AC09
+Registration Numbers: 001/02 D 049/17/25 | 551/02 D 049/23
+Drug Codes: 02 D 049
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Neuromuscular blocking agents are drugs that cause skeletal muscle relaxation primarily by causing a decreased response to the neurotransmitter acetylcholine (ACh) at the myoneural (neuromuscular) junction of skeletal muscle. At that site, ACh normally produces electrical depolarization of the postjunctional membrane of motor end-plate, which leads to conduction of muscle action potential and subsequently induces skeletal muscle contraction. Neuromuscular agents are classified as depolarizing or nondepolarizing. Rocuronium is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration. Rocuronium, like vecuronium is longer acting in infants than in children. However, unlike vecuronium, rocuronium retains the characteristics of an intermediate-acting NMBD in infants.
+
+## Mechanism Of Action
+
+Neuronal acetylcholine receptor subunit alpha-2 Antagonist Muscarinic acetylcholine receptor M2 Antagonist
+
+## Absorption
+
+Poorly absorbed from the GI tract.
+
+## Volume Of Distribution
+
+0.3 L/kg [3 to <12 mos] 0.26 L/kg [1 to <3 yrs] 0.21 L/kg [3 to <8 yrs]
+
+## Metabolism
+
+Rocuronium is metabolized to a less active metabolite, 17-desacetyl-rocuronium, and is eliminated primarily by the liver. Hover over products below to view reaction partners Rocuronium 17-desacetyl-rocuronium
+
+## Route Of Elimination
+
+Studies of distribution, metabolism, and excretion in cats and dogs indicate that rocuronium is eliminated primarily by the liver.
+
+## Half Life
+
+The rapid distribution half-life is 1-2 minutes and the slower distribution half-life is 14-18 minutes. Renal impairment has no net effect on half-life, however, half-life is almost doubled in patients with impaired liver function.
+
+## Clearance
+
+0.25 L/kg/hr [Adults (Ages 27 to 58 years)] 0.21 L/kg/hr [Geriatrics (>=65 yrs)] 0.16 L/kg/hr [Normal ewnal and hepatice function] 0.13 L/kg/hr [Renal transplant patients] 0.13 L/kg/hr [Hepatic dysfunction patients] 0.35 +/- 0.08 L/kg/hr [Pediatric Patients 3 to <12 mos] 0.32 +/- 0.07 L/kg/hr [Pediatric Patients 1 to 3 yrs] 0.44 +/- 0.16 L/kg/hr [Pediatric Patients 3 to 8 yrs]
+
+## Toxicity
+
+No cases of significant accidental or intentional overdose have been reported. Overdosage with neuromuscular blocking agents may result in neuromuscular block beyond the time needed for surgery and anesthesia.

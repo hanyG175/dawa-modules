@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_G_254
+DCI: Poractant Alfa
+DrugBank ID: DB09113
+DrugBank Name: Poractant alfa
+Brand Names: CUROSURF
+Pharmaceutical Forms: Suspension
+Dosages: 80mg/ml
+Packaging: b/1 flacon de 1.5ml(120mg)/b/1 flacon de 3ml(240mg)
+Registration Numbers: 092/20 G 254/25
+Drug Codes: 20 G 254
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Poractant alfa improved lung compliance, pulmonary gas exchange and survival in preterm rabbits.
+
+## Mechanism Of Action
+
+Endogenous pulmonary surfactant reduces surface tension at the air-liquid interface of the alveoli in the lungs, thus stabilizing them against collapse under transpulmonary pressures. A deficiency of pulmonary surfactant in premature infants allows surface tension to increase to the point where sections of lung collapse and respiratory distress syndrome (RDS) develops. Poractant alfa lowers minimum surface tension to less than or equal to 4 mN/m. This compensates for the lack of endogenous surfactant and restores adequate surface activity to the lungs.
+
+## Absorption
+
+Poractant alfa is administered directly to the site of action in the lungs via endotracheal tube. It very rapidly adsorbs to the air-liquid interface to form a stable surfactant monolayer. No studies on absorption of poractant alfa have been performed in humans.
+
+## Volume Of Distribution
+
+No studies on the distribution of poractant alfa have been performed in humans.
+
+## Metabolism
+
+No studies on the metabolism of poractant alfa have been performed in humans. One small study in rabbits did find that poractant alfa may be degraded by macrophages and that it may, in part, be recycled in the alveoli in a similar manner to endogenous lung surfactant.
+
+## Route Of Elimination
+
+No studies on elimination of poractant alfa have been performed in humans.
+
+## Half Life
+
+The half-life of poractant alfa has only been evaluated in animal studies. When studied in adult and newborn rabbits, the half-life in the lungs was found to be 25 and 67 respectively.
+
+## Clearance
+
+No studies on clearance of poractant alfa have been performed in humans.
+
+## Toxicity
+
+Studies on the carcinogenicity or reproductive effects of poractant alfa have not been conducted. Mutagenicity assays were negative.
+In the case of an overdose with poractant alfa where there are clear clinical effects on the infant's respiration, ventilation, or oxygenation, it is recommended that as much of the solution be aspirated as possible and the infant be managed with supportive measures. Fluid and electrolyte balances should be monitored closely in this case.

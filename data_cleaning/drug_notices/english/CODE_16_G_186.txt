@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_G_186
+DCI: Esketamine
+DrugBank ID: DB11823
+DrugBank Name: Esketamine
+Brand Names: SPRAVATO
+Pharmaceutical Forms: Solution
+Dosages: 28mg
+Packaging: b/03 dispositifs pour pulverisation nasale
+Laboratories: LABORATOIRE RENAUDIN | ZONE ARTISANALE ERROBI | 64250 ITXASSOU
+ATC Classification: N01AX14
+Registration Numbers: 095/16 G 186/25
+Drug Codes: 16 G 186
+
+------------------------------------------------------------
+
+## Description
+
+Major depressive disorder (MDD) is a significant cause of disability worldwide and the most common illness preceding suicide. 5 , 3 On March 5, 2019, the nasal spray drug, esketamine , also known as Spravato (by Janssen Pharmaceuticals), was approved by the FDA for treatment-resistant major depression. Esketamine is the s-enantiomer of Ketamine . Ketamine is a mixture of two enantiomers (mirror image molecules). This is the first time that the FDA has approved esketamine for any use. The FDA approved ketamine (Ketalar) in 1970. 4 Esketamine may prove to be a promising treatment for patients diagnosed with major depressive disorder who have not experienced an improvement in symptoms despite treatment with various medications and therapies. The intranasal route of administration for this drug allows for easy administration and a fast onset of action, which sets it apart from many other antidepressant agents that may take several weeks to take effect.
+
+## Pharmacodynamics
+
+General effects Esketamine is considered a central nervous system (CNS) depressant agent. It may cause sedation, dizziness, and lethargy, among other symptoms. 6 This drug has dissociative and antidepressant properties. 6 Acutely, esketamine may impair attention, judgment, thinking, reaction speed, and motor skills. Two placebo-controlled studies were performed to evaluate the effects of ketamine on the ability to drive. The effects of esketamine 84 mg were comparable to placebo at 6 hours and 18 hours post-ingestion. 6 Effects on cardiac electrophysiology The effect of esketamine (84 mg nasal spray and 0.8 mg/kg esketamine intravenously infused over 40 minutes) on the QTc interval was studied in a randomized, double-blind, placebo-, and positive-controlled (moxifloxacin 400 mg), 4-period, crossover study in 60 healthy volunteers. A marked increase in heart rate (higher than 10 bpm) was measured in subjects receiving intranasal and intravenous esketamine. Summative evidence from both nonclinical and clinical data suggests a lack of clinically relevant QTc prolongation at the normal therapeutic dose of esketamine. 6 Effects on blood pressure Eskestamine causes increases in systolic and/or diastolic blood pressure at all therapeutic doses. Peak blood pressure elevation after esketamine administration occurs about 40 minutes after administration and lasts approximately 4 hours. 6 Cognitive effects In a study of healthy volunteers, one dose of this agent caused decline in cognitive performance 40 minutes after administration. Compared to subjects ingesting a placebo, esketamine-treated subjects required a higher level of effort to complete assigned cognitive tests at 40 minutes after administration. Cognitive performance and mental effort were found to be similar between esketamine and placebo at 2 hours after administration. 6 Reports of long-term memory or cognitive impairment have been made following repeated ketamine misuse or abuse. No adverse effects of esketamine nasal spray on cognitive function were seen in a one-year open-label safety study. The long-term cognitive effects of esketamine have not been studied
+
+## Mechanism Of Action
+
+NMDA receptor Antagonist Glutamate receptor ionotropic, NMDA 2B Antagonist Neurotrophic factor BDNF precursor form Agonist
+
+## Absorption
+
+Due to the fact that this drug is administered via nasal spray, absorption is rapid. The mean absolute bioavailability is approximately 48% after esketamine nasal spray administration. The time to achieve peak esketamine plasma concentration is 20 to 40 minutes after the last nasal spray of esketamine. Inter-subject variability of esketamine ranges from 27% to 66% for Cmax (maximum concentration) and 18% to 45% for AUC (area under the curve). The intra-subject variability of esketamine is about 15% for Cmax and 10% for AUC. 6
+
+## Volume Of Distribution
+
+The average steady-state volume of distribution of esketamine administered by the intravenous route is 709 L. 6
+
+## Metabolism
+
+Esketamine is mainly metabolized to the noresketamine metabolite by cytochrome P450 (CYP) enzymes, CYP2B6 and CYP3A4, and to a lesser extent, CYP2C9 and CYP2C19. Noresketamine is metabolized by cytochrome-dependent metabolic pathways followed by subsequent glucuronidation of metabolites. 6 Hover over products below to view reaction partners Esketamine Noresketamine
+
+## Route Of Elimination
+
+Less than 1% of a dose of nasal esketamine is measured as unchanged drug, excreted in the urine. Following intravenous (IV) or oral (PO) administration, esketamine-derived metabolites were mainly recovered in urine (≥ 78% of a radiolabeled dose), and a smaller percentage was measured in the feces (≤ 2% of a radiolabeled dose). 6
+
+## Half Life
+
+The mean terminal half-life (t1/2) ranges from 7 to 12 hours. 6
+
+## Clearance
+
+The average clearance of esketamine is approximately 89 L/hour following intravenous administration. 6 Elimination of the major esketamine metabolite, noresketamine , from plasma is slower than esketamine. The decrease of noresketamine plasma concentrations occurs in a biphasic fashion, with a more rapid decline for the first 4 hours post-administration, and an average terminal t1/2 of approximately 8 hours. 6
+
+## Toxicity
+
+Ketamine hydrochloride LD50 : 447 mg/kg, Rat (oral) MSDS Neurotoxicity In a one-dose neuronal toxicity study with esketamine intranasal administration to adult female rats, no finding of neuronal vacuolation in the brain occurred with doses up to the equivalent of the maximum recommended human dose of 84 mg/day. In a second single dose neurotoxicity study performed with intranasal esketamine administration in adult female rats, no observation of neuronal necrosis up to a dose equivalent to the maximum recommended human dose was made. Neuronal vacuolation was not evaluated in this study. 6 The relevance of these findings in humans is unknown at this time. 6 A note on dependence and tolerance Reports of physical dependence have been made following prolonged use of ketamine. Withdrawal signs and symptoms after abrupt discontinuation or significant dosage reduction of a drug is a common manifestation of drug dependence. There were no withdrawal symptoms observed up to 4 weeks in subjects after stopping esketamine treatment. Withdrawal symptoms have been observed after the discontinuation of frequently used (more than weekly) high doses of ketamine for a longer duration. These symptoms of withdrawal have a higher chance of occurring if esketamine was similarly abused. 6 Symptoms of withdrawal reported to be associated with daily intake of high ketamine doses include craving, fatigue, poor appetite, and anxiety. Therefore, monitor esketamine-treated patients for symptoms and signs of physical dependence upon the discontinuation of the drug. Tolerance has been reported with prolonged use of ketamine. Tolerance is characterized by a decreased response to a drug following repeated doses (i.e., a higher dose of a drug is required to produce the same effect that was previously achieved at a lower dose). Comparable tolerance would be expected to occur with long-term use of esketamine. 6 Use in pregnancy This drug may cause fetal harm, based on the findings of animal studies. Pregnancy planning and prevention in females of reproductive potential should occur before the initiation of esketamine treatment. 6 There is a pregnancy registry for women who exposed to esketamine during pregnancy. The goal of the registry is to gather data about the health of women and infants exposed to esketamine. Use in lactation Esketamine is present in human milk. No safety data on the effects of esketamine on the breastfed infant or on milk production are available. Studies in young animals report neurotoxicity. Due to the risk of neurotoxicity, advise patients that breastfeeding is not recommended during treatment with this drug. 6

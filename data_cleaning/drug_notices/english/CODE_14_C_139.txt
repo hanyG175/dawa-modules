@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_C_139
+DCI: GLUCAGON (chlorhydrate) 1 mg/ml pdre/solv p sol inj (GLUCAGEN KIT)
+DrugBank ID: DB00040
+DrugBank Name: Glucagon
+Brand Names: GLUCAGEN HYPOKIT
+Pharmaceutical Forms: Poudre Et Solvant Pr Sol Inj
+Dosages: 1mg/ml
+Packaging: b/1fl. de pdr + 1 sering. de 1ml de solv.
+Laboratories: NOVO NORDISK
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H04 - HORMONES PANCREATIQUES | H04A - HORMONES GLYCOGENOLYTIQUES | H04AA - HORMONES GLYCOGENOLYTIQUES | H04AA01 - GLUCAGON
+Registration Numbers: 069/14 C 139/98/17
+Drug Codes: 14 C 139
+
+------------------------------------------------------------
+
+## Description
+
+Glucagon is a 29 amino acid hormone used as a diagnostic aid in radiologic exams to temporarily inhibit the movement of the gastrointestinal tract and to treat severe hypoglycemia. 5 , 6 , 7 , 8 , 10 Glucagon raises blood sugar through activation of hepatic glucagon receptors, stimulating glycogenolysis and the release of glucose. 7 , 8 Glucagon was granted FDA approval on 14 November 1960. 4
+
+## Pharmacodynamics
+
+Glucagon is indicated as a diagnostic aid in radiologic exams to temporarily inhibit the movement of the gastrointestinal tract and severe hypoglycemia. 1 , 5 , 6 , 7 , 8 , 10 Glucagon raises blood sugar through activation of hepatic glucagon receptors, stimulating glycogenolysis and the release of glucose. 7 , 8 Glucagon has a short duration of action. 5 , 6 , 7 , 8 Glucagon may cause hyperglycemia in diabetic patients. 5 , 6 , 7 , 8
+
+## Mechanism Of Action
+
+Glucagon receptor Agonist
+
+## Absorption
+
+A 1mg intravenous dose of glucagon reaches a C max of 7.9ng/mL with a T max of 20 minutes. 6 An intramuscular dose reaches a C max of 6.9ng/mL with a T max of 13 minutes. 6 A 3mg dose of glucagon nasal powder reaches a C max of 6130pg/mL with a T max of 15 minutes. 8
+
+## Volume Of Distribution
+
+The volume of distribution of glucagon is 0.25L/kg. 6 The apparent volume of distribution is 885L. 8
+
+## Metabolism
+
+Glucagon is a protein and so it is metabolized into smaller polypeptides and amino acids in the liver, kidney, and plasma. 5 , 8
+
+## Route Of Elimination
+
+Elimination of glucagon is not fully characterized in literature, however the kidney and liver appear to contribute significantly in animal models. 2 The liver and kidney are responsible for approximately 30% of glucagon elimination each. 9
+
+## Half Life
+
+The half life of glucagon is 26 minutes for an intramuscular dose. 5 The half life of glucagon nasal powder is approximately 35 minutes. 8 The half life of glucagon by a subcutaneous auto-injector or pre-filled syringe is 32 minutes. 10
+
+## Clearance
+
+A 1mg intravenous dose of glucagon has a clearance of 13.5mL/min/kg. 6
+
+## Toxicity
+
+Patients experiencing an overdose may present with nausea, vomiting, inhibition of GI tract motility, increased blood pressure and heart rate, and decreased serum potassium. 5 , 6 , 7 , 8 Phentolamine may be given to control blood pressure. 5 , 6 , 7 , 8 Treatment of glucagon overdose is largely symptomatic for nausea, vomiting, and hypokalemia. 6 The LD 50 for intravenous glucagon in mice is 300mg/kg and in rats is 38.6mg/kg. 6

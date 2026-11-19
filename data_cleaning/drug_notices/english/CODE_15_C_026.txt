@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_C_026
+DCI: Pyridostigmine Bromure
+DrugBank ID: DB00545
+DrugBank Name: Pyridostigmine
+Brand Names: MESTINON
+Pharmaceutical Forms: Drg.
+Dosages: 60mg
+Packaging: b/20 et b/150
+Laboratories: VIATRIS MEDICAL | 1 BIS PLACE DE LA DEFENSE – TOUR TRINITY | 92400 COURBEVOIE
+ATC Classification: N07AA02
+Registration Numbers: 465/15 C 026/05/17
+Drug Codes: 15 C 026
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Pyridostigmine bromide, designated as 3-hydroxy-1-methyl-pyridinium bromide dimethyl-carbamate, is an orally active reversible cholinesterase inhibitor similar to neostigmine but with a milder adverse effect profile and a longer duration of action. Pyridostigmine may, specifically in the case of excessive administration, result in a cholinergic crisis, with symptoms mimicking a myasthenic crisis. Administration of atropine is recommended in the case of a true cholinergic crisis or to counteract muscarinic/nicotinic effects such as bradycardia and excessive bronchial secretions. 10 , 11
+
+## Mechanism Of Action
+
+Coagulation factor X Inhibitor Cholinesterase Inhibitor Acetylcholinesterase Inhibitor
+
+## Absorption
+
+Pyridostigmine administered orally is poorly absorbed in the GI tract, with an oral bioavailability of only 10-20%. However, this may in part be due to some metabolism by both the blood and liver. 5 , 12 Approximately 1-2 hours following a single oral dose of 60 mg, the C max was determined to be 40-60 μg/L. 5 Pyridostigmine follows approximately linear kinetics, with a direct correlation between the dose and plasma AUC. 5 Pyridostigmine taken orally with food results in a flatter peak to the plasma concentration vs. time curve. The peak plasma concentrations are reached ~90 minutes later than in fasted subjects but with no change in bioavailability or AUC. 6
+
+## Volume Of Distribution
+
+Pyridostigmine administered intravenously in healthy, myasthenic, and surgical patients has a range of distribution volumes, between 0.53 and 1.76 L/kg. 5
+
+## Metabolism
+
+Pyridostigmine is hydrolyzed by cholinesterases systemically, including in the blood, and by microsomal enzymes in the liver, though this remains poorly defined. The primary hydrolysis product is 3-hydroxy-N-methyl-pyridinium (HNM), which can be glucuronidated. 5 , 12 One study suggested the existence of as many as eight metabolites in the urine of patients receiving radiolabeled pyridostigmine intravenously, including various glucuronidated, demethylated, and oxidized (quinone) metabolites. 7 , 12 Another study confirmed that HNM is the main metabolite, and suggested additional possible metabolites such as a 3,4- or 3,6-dihydroxy-N-methyl-pyridinium or a methoxy- or acetoxy-N-methyl-pyridinium. 8 The exact products formed, apart from HNM, require further validation. Hover over products below to view reaction partners Pyridostigmine 3-hydroxy-N-methyl-pyridinium
+
+## Route Of Elimination
+
+Pyridostigmine is primarily renally eliminated. 11 Roughly 90% of an intravenous dose is recovered in the urine within 24 hours, with unchanged pyridostigmine and its main metabolite HNM recovered in an approximately 4:1 ratio. 5 , 8 , 12
+
+## Half Life
+
+Pyridostigmine administered intravenously in healthy, myasthenic, and surgical patients has a range of elimination half-lives, between 0.38 and 1.86 hours. 5
+
+## Clearance
+
+Pyridostigmine administered intravenously in healthy, myasthenic, and surgical patients has a range of clearance values, between 0.29 and 1.0 L/h/kg. 5
+
+## Toxicity
+
+Toxicity information regarding pyridostigmine is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as bradycardia, excessive bronchial secretions, and cholinergic crisis. Symptomatic and supportive measures are recommended. 10 , 11

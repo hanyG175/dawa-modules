@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_B_075
+DCI: Tamoxifene
+DrugBank ID: DB00675
+DrugBank Name: Tamoxifen
+Brand Names: TAMOXIFENE MYLAN
+Pharmaceutical Forms: Comprimé
+Dosages: 20MG
+Packaging: B/30
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 646 DA
+Prescription List: Liste I
+ATC Classification: L02BA01
+Registration Numbers: 141/09 B 075/98/16
+Drug Codes: 09 B 075
+
+------------------------------------------------------------
+
+## Description
+
+Tamoxifen is a non-steroidal antiestrogen used to treat estrogen receptor positive breast cancers as well as prevent the incidence of breast cancer in high risk populations. 1 , 15 , 16 Tamoxifen is used alone or as an adjuvant in these treatments. 15 , 16 Tamoxifen may no longer be the preferred treatment for these types of cancers as patients generally have better survival, side effect profiles, and compliance with anastrozole . 2 Tamoxifen was granted FDA approval on 30 December 1977. 15
+
+## Pharmacodynamics
+
+Tamoxifen is a selective estrogen receptor modulator that inhibits growth and promotes apoptosis in estrogen receptor positive tumors. 1 , 8 It has a long duration of action as the active metabolite N-desmethyltamoxifen has a half life of approximately 2 weeks. 15 , 16 It has a narrow therapeutic index as higher doses can lead to breathing difficulty or convulsions. 15 , 16 Tamoxifen administration is also associated with an increased incidence of uterine malignancies. 15 , 16
+
+## Mechanism Of Action
+
+Estrogen receptor Antagonist Agonist Estrogen receptor beta Antagonist Agonist Protein kinase C Inhibitor + 1 more target
+
+## Absorption
+
+An oral dose of 20mg reaches a C max of 40ng/mL with a T max of 5 hours. 15 , 16 The metabolite N-desmethyltamoxifen reaches a C max of 15ng/mL. 15 , 16 10mg of tamoxifen orally twice daily for 3 months results in a C ss of 120ng/mL and a C ss of 336ng/mL. 15 , 16
+
+## Volume Of Distribution
+
+The volume of distribution of tamoxifen is approximately 50-60L/kg. 11
+
+## Metabolism
+
+Tamoxifen can by hydroxylated to α-hydroxytamoxifen which is then glucuronidated or undergoes sulfate conjugation by sulfotransferase 2A1. 4 , 6 Tamoxifen can also undergo N-oxidation by flavin monooxygenases 1 and 3 to tamoxifen N-oxide. 4 , 6 , 7 Tamoxifen is N-dealkylated to N-desmethyltamoxifen by CYP2D6, CYP1A1, CYP1A2, CYP3A4, CYP1B1, CYP2C9, CYP2C19, and CYP3A5. 3 , 4 , 5 , 6 , 7 N-desmethyltamoxifen can be sulfate conjugated to form N-desmethyltamoxifen sulfate, 4-hydroxylated by CYP2D6 to form endoxifen, or N-dealkylated again by CYP3A4 and CYP3A5 to N,N-didesmethyltamoxifen. 4 , 5 , 13 N,N-didesmethyltamoxifen undergoes a substitution reaction to form tamoxifen metabolite Y, followed by ether cleavage to metabolite E, which can then be sulfate conjugated by sulfotransferase 1A1 and 1E1 or O-glucuronidated. 13 , 14 Tamoxifen can also by 4-hydroxylated by CYP2D6, CYP2B6, CYP3A4, CYP2C9, and CYP2C19 to form 4-hydroxytamoxifen. 3 , 4 , 5 , 6 4-hydroxytamoxifen can undergo glucuronidation by UGT1A8, UGT1A10, UGT2B7, and UGT2B17 to tamoxifen glucuronides, sulfate conjugation by sulfotransferase 1A1 and 1E1 to 4-hydroxytamoxifen sulfate, or N-dealkylation by CYP3A4 and CYP3A5 to endoxifen. 4 , 5 Endoxifen undergoes demethylation to norendoxifen, a reversible sulfate conjugation reaction via sulfotransferase 1A1 and 1E1 to 4-hydroxytamoxifen sulfate, sulfate conjugation via sulfotransferase 2A1 to 4-endoxifen sulfate, or glucuronidation via UGT1A8, UGT1A10, UGT2B7, or UGT2B15 to tamoxifen glucuronides. 13 , 4 , 5 Hover over products below to view reaction partners Tamoxifen N-Desmethyltamoxifen N,N-didesmethyltamoxifen Tamoxifen Metabolite Y Tamoxifen Metabolite E Tamoxifen Metabolite E Sulfate Conjugate Tamoxifen Metabolite E Glucuronide Endoxifen (4-hydroxy-N-desmethyltamoxifen) Norendoxifen (4-hydroxy-N,N-didesmethyltamoxifen) 4-hydroxytamoxifen sulfate 4-endoxifen Sulfate Tamoxifen Glucuronides N-desmethyltamoxifen Sulfate α-hydroxytamoxifen α-tamoxifen Sulfate α-hydroxytamoxifen Glucuronide Tamoxifen N-oxide 4-Hydroxytamoxifen Tamoxifen Glucuronides 4-hydroxytamoxifen sulfate Endoxifen (4-hydroxy-N-desmethyltamoxifen) Norendoxifen (4-hydroxy-N,N-didesmethyltamoxifen) 4-endoxifen Sulfate Tamoxifen Glucuronides Endoxifen (4-hydroxy-N-desmethyltamoxifen) Norendoxifen (4-hydroxy-N,N-didesmethyltamoxifen) 4-hydroxytamoxifen sulfate 4-endoxifen Sulfate Tamoxifen Glucuronides
+
+## Route Of Elimination
+
+Tamoxifen is mainly eliminated in the feces. 15 , 16 Animal studies have shown 75% of radiolabelled tamoxifen recovered in the feces, with negligible collection from urine. 9 However, 1 human study showed 26.7% recovery in the urine and 24.7% in the feces. 10
+
+## Half Life
+
+The terminal elimination half-life of tamoxifen is 5 to 7 days, while the half-life of N-desmethyltamoxifen, the primary circulating metabolite, is approximately 14 days. 15 , 16
+
+## Clearance
+
+The clearance of tamoxifen was 189mL/min in a study of six postmenopausal women. 12
+
+## Toxicity
+
+High doses of tamoxifen in animals lead to respiratory difficulty and convulsions. 15 , 16 High doses in advanced metastatic cancer patients resulted in acute neurotoxicity seen by tremor, hyperreflexia, unsteady gait, and dizziness. 15 , 16 Patients experiencing and overdose should be given supportive treatment as no specific treatment for overdose is suggested. 15 , 16

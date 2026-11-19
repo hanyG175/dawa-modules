@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_053
+DCI: Cyproheptadine Chlorhydrate Exprime En Cyproheptadine
+DrugBank ID: DB00434
+DrugBank Name: Cyproheptadine
+Brand Names: HEPTAFORT | HEPTAGYL | PERIACTINE | PERIAMEX
+Pharmaceutical Forms: Siropop
+Dosages: 2mg/5ml
+Packaging: flacon/100 ml | flacon/125ml
+Registration Numbers: 003/01 A 053/96/25 | 079/01 A 053/15 | 285/01 A 053/24 | 400/01 A 053/17
+Drug Codes: 01 A 053
+
+------------------------------------------------------------
+
+## Description
+
+Cyproheptadine is a potent competitive antagonist of both serotonin and histamine receptors. 8 It is used primarily to treat allergic symptoms, though it is perhaps more notable for its use in appetite stimulation 11 and its off-label use in the treatment of serotonin syndrome. 2
+
+## Pharmacodynamics
+
+Cyproheptadine has been observed to antagonize several pharmacodynamic effects of serotonin in laboratory animals, including bronchoconstriction and vasodepression, and has demonstrated similar efficacy in antagonizing histamine-mediated effects. 9 The reason for its efficacy in preventing anaphylactic shock has not been elucidated, but appears to be related to its anti-serotonergic effects. 9
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist 5-hydroxytryptamine receptor 2A Antagonist 5-hydroxytryptamine receptor 2C Antagonist + 1 more target
+
+## Absorption
+
+A single study examining the difference in absorption of orally administered versus sublingually administered cyproheptadine in five healthy males demonstrated a mean C max of 30.0 mcg/L and 4.0 mcg/L, respectively, and a mean AUC of 209 mcg.h/L and 25 mcg.h/L, respectively. 7 The T max of orally and sublingually administered cyproheptadine was 4 hours and 9.6 hours, respectively. 7
+
+## Metabolism
+
+The principal metabolite found in human urine has been identified as a quaternary ammonium glucuronide conjugate of cyproheptadine. 8 Hover over products below to view reaction partners Cyproheptadine Cyproheptadine N-glucuronide
+
+## Route Of Elimination
+
+Approximately 2-20% of the radioactivity from an orally administered radio-labeled dose of cyproheptadine is excreted in the feces, of which approximately 34% is unchanged parent drug (less than 5.7% of the total dose). 9 At least 40% of radioactivity is recovered in the urine. 9
+
+## Toxicity
+
+Overdosage with cyproheptadine is likely to result in significant sedation - although paradoxical stimulation has been noted in pediatric patients - and anticholinergic adverse effects such as dry mouth and flushing. 8 Most patients appear to recover without incident, as a review of cyproheptadine overdose cases in Hong Kong found the majority of patients had no or mild symptoms following intentional overdose. 6 In the event of overdosage with cyproheptadine, prescribing information recommends the induction of vomiting (if it has not occurred spontaneously) using syrup of ipecac. 8 Gastric lavage and activated charcoal may also be considered. Vasopressors may be used to treat hypotension and intravenous physostigmine salicylate may be considered for the treatment of significant CNS symptoms depending on the clinical picture. 8

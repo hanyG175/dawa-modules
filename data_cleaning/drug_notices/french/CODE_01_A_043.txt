@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_043
+DCI: RUPATADINE (fumarate) 10 mg cp (RUPATADINE ARROW)
+Brand Names: ROPAP
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/20
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX - AUTRES ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX28 - RUPATADINE
+Registration Numbers: 352/01 A 043/09/24
+Drug Codes: 01 A 043
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | rupatadine (fumarate) : 10 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Rhinite allergique - Urticaire | Posologie standard | 1 comprimé 1 fois par jour
+
+## Precautions
+
+Arythmie | Consommation d'alcool | Enfant de moins de 12 ans | Sujet âgé | Sujet à risque d'allongement de l'espace QT
+
+## Mechanism Of Action
+
+Rupatadine : Mécanisme d'action | La rupatadine est un antihistaminique de deuxième génération, d'action prolongée, exerçant un effet antagoniste sélectif sur les récepteurs H1 périphériques. Certains métabolites ( | desloratadine | et ses métabolites hydroxylés) conservent des propriétés antihistaminiques et peuvent contribuer partiellement à l'efficacité du médicament. | Une inhibition de la dégranulation des mastocytes suite à des stimuli immunologiques ou non, ainsi qu'une inhibition de la libération de cytokines, notamment du TNFalpha dans les mastocytes et monocytes humains ont été observées dans des tests | in vitro | avec des concentrations très élevées de rupatadine. La signification clinique de ces observations expérimentales | in vitro | reste à démontrer.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - CPK (augmentation) (Peu fréquent) | - Enzymes hépatiques (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Urticaire | DIVERS: | - Fièvre (Peu fréquent) | - Asthénie (Fréquent) | - Fatigue (Fréquent) | HÉPATOLOGIE: | - Hépatopathie (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | NUTRITION, MÉTABOLISME: | - Poids (augmentation) (Peu fréquent) | - Appétit augmenté (Peu fréquent) | ORL, STOMATOLOGIE: | - Gorge sèche (Peu fréquent) | - Hyposécrétion nasale (Peu fréquent) | - Vertige (Fréquent) | - Epistaxis (Peu fréquent) | - Sécheresse buccale (Fréquent) | - Douleur oropharyngée (Peu fréquent) | - Rhinite (Peu fréquent) | - Pharyngite (Peu fréquent) | PSYCHIATRIE: | - Irritabilité (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Peu fréquent) | - Palpitation | - Tachycardie | SYSTÈME DIGESTIF: | - Dyspepsie (Peu fréquent) | - Fonction hépatique anormale (Peu fréquent) | - Soif (Peu fréquent) | - Constipation (Peu fréquent) | - Nausée (Peu fréquent) | - Diarrhée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Douleur épigastrique (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Peu fréquent) | - Douleur musculaire (Peu fréquent) | - Dorsalgie (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Trouble de la vigilance (Peu fréquent) | - Somnolence (Fréquent) | SYSTÈME RESPIRATOIRE: | - Toux (Peu fréquent)

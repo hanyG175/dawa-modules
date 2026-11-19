@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_E_070
+DCI: THIOCOLCHICOSIDE 4 mg cp (THIOCOLCHICOSIDE ALMUS)
+DrugBank ID: DB11582
+DrugBank Name: Thiocolchicoside
+Brand Names: MIOCED | RELAXAN
+Pharmaceutical Forms: Comprimé | Microgranule En Gellule
+Dosages: 4mg
+Packaging: b/10 | b/24
+ATC Classification: M - MUSCLE ET SQUELETTE | M03 - MYORELAXANTS | M03B - MYORELAXANTS A ACTION CENTRALE | M03BX - AUTRES MEDICAMENTS A ACTION CENTRALE | M03BX05 - THIOCOLCHICOSIDE
+Registration Numbers: 231/21 E 070/16/25 | 268/21 E 070/17/22
+Drug Codes: 21 E 070
+
+------------------------------------------------------------
+
+## Description
+
+Thiocolchicoside is a semi-synthetic derivative of the colchicine, a natural anti-inflammatory glycoside which originates from the flower seeds of Superba gloriosa . It is a muscle relaxant with anti-inflammatory and analgesic effects. It has potent convulsant activity and should not be administered to individuals prone to seizures. 19
+
+## Pharmacodynamics
+
+Thiocholchicoside is a muscle relaxing agent that works through selective binding to the GABA-A receptor. It prevents muscle contractions by activating the GABA inhibitory motor pathway 18 . This medication acts as a competitive GABA receptor antagonist and inhibits glycine receptors with similar potency as nicotinic acetylcholine receptors. It has powerful convulsant activity and should not be used in individuals at risk for seizures 18 , 23 . Used in combination with glafenine and meprobamate to tranquilize patients undergoing hysterosalpingography. In the treatment of painful muscle spasms. Thiocolchicoside acts both in contractures with a central cause and in contractures of reflex type, rheumatic and traumatic. It also alleviates symptoms of spastic sequelae of hemiparesis, Parkinson's disease and iatrogenic Parkinson symptoms, particularly neurodyslectic syndrome. Some other conditions that may benefit from this medication are acute and chronic lumbar and sciatic pain, cervico-brachial neuralgia, persistent torticollis, post-traumatic and post-operative pain 18 .
+
+## Mechanism Of Action
+
+GABA(A) Receptor Antagonist
+
+## Absorption
+
+Oral bioavailability is ~25%
+After intramuscular administration, thiocolchicoside Cmax occur in 30 min and .reach values of 113 ng/mL after a 4 mg dose and 175 ng/mL after a 8 mg dose. The corresponding values of AUC are respectively 283 and 417 ng.h/mL. The pharmacologically active metabolite SL18.0740 is found at lower concentrations with a Cmax of 11.7 ng/mL occurring 5 h post administration and an AUC of 83 ng.h/mL 15 . After oral administration, no thiocolchicoside is detected in plasma. Only two metabolites are observed: The pharmacologically active metabolite SL18.0740 and an inactive metabolite SL59.0955. For both metabolites, maximum plasma concentrations occur 1hour after thiocolchicoside administration. After a single oral dose of 8 mg of thiocolchicoside the Cmax and AUC of SL18.0740 are about 60 ng/mL and 130 ng.h/mL respectively. For SL59.0955 these values are much lower: Cmax around 13 ng/mL and AUC ranging from 15.5 ng.h/mL (until 3h) to 39.7 ng.h/mL (until 24h) 15 .
+
+## Volume Of Distribution
+
+The apparent volume of distribution of thiocolchicoside is estimated to be approximately 42.7 L after an intramuscular injection of 8 mg 15 .
+
+## Metabolism
+
+Thiocolchicoside is rapidly absorbed after oral administration and metabolized into 3 main metabolites 18 . Firstly, in the intestines to 3-demethylcolchicine (inactive metabolite). This product is further metabolized in circulation by either conjugation to 3-O-glucurono-demethylcolchicine (active metabolite) or demethylated to didemethylcolchicine (inactive metabolite) Hover over products below to view reaction partners Thiocolchicoside 3-dimethyl thiocolchicoside SL18.0740
+
+## Route Of Elimination
+
+Thiocolchicoside is not eliminated unchanged, rather as one of three metabolites found in either feces (~79 %) or in urine 20%. 3- demethylcolchicine (M2) and 3-O-glucurono-demethylcolchicine (M1) are found in both urine and feces, where as di-demethylcolchicine is found only in feces 24 .
+
+## Half Life
+
+Approximately 7.7h 24 .
+
+## Clearance
+
+Primarily extrarenal elimination (75% of the total body clearance) 13 .
+
+## Toxicity
+
+Has been shown to cause chromosomal aneuploidy and male infertility. Should be avoided during all stages of pregnancy, lactation and puberty. Is a potential risk factor for cancer. In 2013, The European Medical Association (EMA) mandated that the use of thiocolchicoside-containing medicines by mouth or injection should be restricted across the European Union (EU). These drugs are now recommended only as an add-on treatment for painful muscle contractures resulting from spinal conditions in adults and adolescents 16 years old and older. Additionally, the dose of thiocolchicoside by mouth or injection should be limited. This is due to experimental evidence suggesting that thiocolchicoside was metabolized into M2 or SL59.0955, that has the propensity to damage dividing cells, resulting in aneuploidy (an abnormal number or arrangement of chromosomes). As a result, the CHMP (committee for medicinal products for human use) examined the safety profile of this medicine and consider what regulatory action might be appropriate 14 . The CHMP reviewed the evidence, with consideration of opinions from experts in medicines safety, and concluded that aneuploidy may occur with M2 at levels not significantly greater than those measured after recommended doses of thiocolchicoside ingested orally. Aneuploidy is a strong risk factor for fetal harm, decreased fertility in men, and could theoretically increase the risk of developing cancer 14 . The maximum recommended oral dose is 8 mg every 12 hours; treatment length should not exceed 7 consecutive days. When given intramuscularly (IM), the maximum dose is 4 mg every 12 hours, for a maximum of 5 days 14 . In addition to the above toxicity, a study was done on the hepatotoxic potential of thiocolchicoside. It was observed that serum AST and ALT levels increased following of the administration oral thiocolchicoside at 8 mg/day. Two weeks after discontinuing thiocolchicoside therapy, liver enzymes had decreased to levels within the normal range. Although infrequent, thiocolchicoside should be considered a rare hepatotoxic agent in clinical practice 10 .

@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_159
+DCI: DEXAMETHASONE 0,1 % + TOBRAMYCINE 0,3 % collyre susp (TOBRADEX)
+DrugBank ID: DB00684
+DrugBank Name: Tobramycin
+Brand Names: DEXATEK | OPTIDEX-T | TAUBRIGENE | TOBRAMIDEX
+Pharmaceutical Forms: Collyree
+Dosages: 0.3%/0.1%
+Packaging: flacon/05ml
+Laboratories: Novartis Pharma SAS
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB02 - DEXAMETHASONE
+Registration Numbers: 065/17 D 159/18/24 | 317/17 D 159/21 | 386/17 D 159/09/25 | 543/17 D 159/20
+Drug Codes: 17 D 159
+
+------------------------------------------------------------
+
+## Description
+
+Aminoglycosides, many of which are derived directly from Streptomyces spp., are concentration-dependent bactericidal antibiotics with a broad spectrum of activity against Gram-positive and Gram-negative organisms. 1 Inhaled tobramycin is notable for its use in treating chronic Pseudomonas aeruginosa infections in cystic fibrosis patients, as P. aeruginosa is notoriously inherently resistant to many antibiotics. 1 , 2 , 13 However, tobramycin can also be administered intravenously and topically to treat a variety of infections caused by susceptible bacteria. 14 , 15 Its use is limited in some cases by characteristic toxicities such as nephrotoxicity and ototoxicity, yet it remains a valuable option in the face of growing resistance to front-line antibiotics such as β-lactams and cephalosporins. 1 , 12 , 13 , 15 Tobramycin was approved by the FDA in 1975 and is currently available in a variety of forms for administration by inhalation, injection, and external application to the eye (ophthalmic). 13 , 14 , 15
+
+## Pharmacodynamics
+
+Tobramycin is an aminoglycoside antibiotic derived from the actinomycete Streptomyces tenebrarius . 15 It has a broad spectrum of activity against Gram-negative bacteria, including Enterobacteriaceae , Escherichia coli , Klebsiella pneumoniae , Morganella morganii , Moraxella lacunata , Proteus spp., Haemophilus spp., Acinetobacter spp., Neisseria spp., and, importantly, Pseudomonas aeruginosa . Aminoglycosides also generally retain activity against the biothreat agents Yersinia pestis and Francisella tularensis . In addition, aminoglycosides are active against some Gram-positive bacteria such as Staphylococcus spp., including methicillin-resistant (MRSA) and vancomycin-resistant strains, Streptococcus spp., and Mycobacterium spp. 1 , 14 Like other aminoglycosides, tobramycin is taken up and retained by proximal tubule and cochlear cells in the kidney and ear, respectively, and hence carries a risk of nephrotoxicity and ototoxicity. 1 , 15 There is also a risk of neuromuscular block, which may be more pronounced in patients with preexisting neuromuscular disorders such as myasthenia gravis or Parkinson's disease. 1 , 13 , 15 Aminoglycosides can cross the placenta, resulting in total, irreversible, bilateral congenital deafness in babies born to mothers who were administered an aminoglycoside during pregnancy. 13 , 15 Due to the low systemic absorption of inhaled and topical tobramycin formulations, these effects are more pronounced with injected tobramycin than with other formulations. 13 , 14 , 15 However, all formulations carry a risk of hypersensitivity reactions, including potentially fatal cutaneous reactions such as Stevens-Johnson syndrome and toxic epidermal necrolysis. 13 , 14 , 15
+
+## Mechanism Of Action
+
+16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor 23S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor Bacterial outer membrane (Bacteria) Incorporation into and destabilization + 1 more target
+
+## Absorption
+
+Tobramycin administered by inhalation in cystic fibrosis patients showed greater variability in sputum as compared to serum. After a single 112 mg dose, the serum C max was 1.02 ± 0.53 μg/mL, which was reached in one hour (T max ), while the sputum C max was 1048 ± 1080 μg/g. Comparatively, for a 300 mg dose, the serum C max was 1.04 ± 0.58 μg/mL, which was also reached within one hour, while the sputum C max was 737 ± 1028 μg/g. The systemic exposure (AUC 0-12 ) was also similar between the two doses, at 4.6 ± 2.0 μg∙h/mL for the 112 mg dose and 4.8 ± 2.5 μg∙h/mL for the 300 mg dose. When tobramycin was administered over a four-week cycle at 112 mg twice daily, the C max measured one hour after dosing ranged from 1.48 ± 0.69 μg/mL to 1.99 ± 0.59 μg/mL. 13
+
+## Volume Of Distribution
+
+Inhalation tobramycin had an apparent volume of distribution in the central compartment of 85.1 L for a typical cystic fibrosis patient. 13
+
+## Metabolism
+
+Tobramycin is not appreciably metabolized. 13
+
+## Route Of Elimination
+
+Tobramycin is primarily excreted unchanged in the urine. 13
+
+## Half Life
+
+Tobramycin has an apparent serum terminal half-life of ~3 hours following a single 112 mg inhaled dose in cystic fibrosis patients. 13
+
+## Clearance
+
+Inhaled tobramycin has an apparent serum clearance of 14.5 L/h in cystic fibrosis patients aged 6-58 years. 13
+
+## Toxicity
+
+Toxicity information regarding tobramycin is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as nephrotoxicity, ototoxicity, neuromuscular blockade, and respiratory failure/paralysis. Symptomatic and supportive measures are recommended; hemodialysis may help clear excess tobramycin. Accidental ingestion of tobramycin is unlikely to result in an overdose, as aminoglycosides are poorly absorbed in the gastrointestinal tract. 13 , 15 Poor gastrointestinal absorption is reflected in animal studies. When administered by the intraperitoneal or subcutaneous route, the LD50 for mice and rats ranges from 367-1030 mg/kg while the oral LD50 values are more than 7500 mg/kg. 16

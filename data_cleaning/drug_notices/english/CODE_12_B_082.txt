@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_B_082
+DCI: Enoxaparine Sodique
+DrugBank ID: DB01225
+DrugBank Name: Enoxaparin
+Brand Names: LOMOH-40 | LOVENOX | THERANOX | VARENOX
+Pharmaceutical Forms: Solution
+Dosages: 4000 UI/0.4ml
+Packaging: b/02 et b/6 sering. prerempl. de 0.4ml avec système de securite | b/02 seringues | b/1sering. prerempl. de 0.4ml
+Registration Numbers: 376/12 B 082/96/15 | 433/12 B 082/20/25 | 471/12 B 082/13 | 543/12 B 082/21
+Drug Codes: 12 B 082
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+This drug has an immediate onset of action. 12 Enoxaparin increases Thrombin Time (TT) and activated partial thromboplastin time (aPTT), preventing and reducing thromboembolic complications such as DVT, pulmonary embolism, and ischemic cardiac complications. 1 Administered at 1.5 mg/kg subcutaneously in a pharmacodynamic study, enoxaparin led to a higher ratio of anti-Factor Xa to anti-Factor IIa activity (mean ±SD, 14.0±3.1) (based on areas under anti-Factor activity versus time curves) when compared to that of heparin (mean ±SD, 1.22±0.13). Increases in the TT and aPTT were 1.8 times those of the control group. 11 Enoxaparin at 1 mg/kg subcutaneously every 12 hours led to aPTT values of 45 seconds or less in most patients. Average aPTT prolongation time on Day 1 was approximately 16% higher than on Day 4 of enoxaparin therapy. 11 Caution is advised during treatment with enoxaparin - the risk of hemorrhage and thrombocytopenia is increased. In pregnant women with prosthetic mechanic heart valves, the risk of thromboembolism is increased. 11
+
+## Mechanism Of Action
+
+Antithrombin-III Potentiator Coagulation factor X Inhibitor Prothrombin Inhibitor
+
+## Absorption
+
+Mean absolute bioavailability of enoxaparin, after 1-2 mg/kg given subcutaneously is approximately 100% in healthy volunteers.
+The absorption of enoxaparin is proportional to the dose, demonstrating linear absorption. The average maximum plasma anti-Xa activity is reached 3 to 5 hours after a subcutaneous injection. 9 , 13 A 30 mg IV bolus preceding an immediate 1 mg/kg SC every twice a day led to maximum anti-Factor Xa levels of 1.16 IU/mL. Steady-state is reached within 3-4 days 9 of treatment with a Cmax of 1.2 IU/mL. 13 The AUC under the thrombin generation curve was 305 +/- 48. 8
+
+## Volume Of Distribution
+
+The volume of distribution of enoxaparin is approximately 4-5L, similar to normal blood volume. 11 , 13
+
+## Metabolism
+
+Enoxaparin is mainly metabolized by the liver via desulfation and/or depolymerization to lower and less potent molecular weight metabolites. 11 , 13
+
+## Route Of Elimination
+
+Enoxaparin is mainly excreted by the kidneys. 4 Renal clearance of active fragments represents about 10% of the administered dose and total renal excretion of active and non-active fragments 40% of the dose. 13
+
+## Half Life
+
+The half-life of enoxaparin is about 4 hours after a single dose administered subcutaneously and about 7 hours after several doses. 13 One source mentions a half-life ranging from 1 hour to 4.5 hours. 9
+
+## Clearance
+
+The mean clearance of enoxaparin is 0.74 L/h after a 1.5 mg/kg intravenous infusion over 6 hours 13 ; clearance of enoxaparin is significantly decreased in patients with severe renal impairment. 2
+
+## Toxicity
+
+The oral LD50 for enoxaparin in mice is >5000 mg/kg; the subcutaneous LD50 of enoxaparin in mice is >2500 mg/kg. 14 Accidental overdose after the administration of enoxaparin may cause hemorrhage. Enoxaparin administered by injection is mainly neutralized by gradual intravenous injection of a 1% protamine sulfate solution. The dose of protamine sulfate should be equal to the dose of enoxaparin administered: 1 mg protamine sulfate for 1 mg enoxaparin, of enoxaparin was administered in the previous 8 hours. If a minimum of 12 hours has passed since the last enoxaparin dose, protamine may not be necessary; it is important to avoid an overdose with protamine, as fatal reactions may occur. 11

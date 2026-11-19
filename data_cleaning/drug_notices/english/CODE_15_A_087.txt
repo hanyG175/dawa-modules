@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_087
+DCI: Gabapentine
+DrugBank ID: DB00996
+DrugBank Name: Gabapentin
+Brand Names: GABAMAX | GABAPENTINE GL | GABARONTIN | GABATREX | NEUROPLEX | TEPENTINE | VOLAR
+Pharmaceutical Forms: Gélule
+Dosages: 400mg
+Packaging: b/30 | b/50
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: N02BF01
+Registration Numbers: 001/15 A 087/08/24 | 055/15 A 087/22 | 065/15 A 087/23 | 149/15 A 087/21 | 173/15 A 087/18/22 | 289/15 A 087/23 | 591/15 A 087/22
+Drug Codes: 15 A 087
+
+------------------------------------------------------------
+
+## Description
+
+Gabapentin is a structural analogue of the inhibitory neurotransmitter gamma-aminobutyric acid ( GABA ) that was first approved for use in the United States in 1993. 16 It was originally developed as a novel anti-epileptic for the treatment of certain types of seizures 14 , 5 - today it is also widely used to treat neuropathic pain. 8 , 10 Gabapentin has some stark advantages as compared with other anti-epileptics, such as a relatively benign adverse effect profile, wide therapeutic index, and lack of appreciable metabolism making it unlikely to participate in pharmacokinetic drug interactions. 5 , 3 , 16 . It is structurally and functionally related to another GABA derivative, pregabalin .
+
+## Pharmacodynamics
+
+Gabapentin is an anti-convulsant medication that inhibits the release of excitatory neurotransmitters, allowing for its use against pathologic neurotransmission such as that seen in neuropathic pain and seizure disorders. 16 , 19 It has a wide therapeutic index, with doses in excess of 8000 mg/kg failing to cause a fatal reaction in rats. 21 Gabapentin is ineffective in absence seizures and should be used in caution in patients with mixed seizure disorders involving absence seizures. Gabapentin has been associated with drug reaction with eosinophilia and systemic symptoms (DRESS), otherwise known as multi-organ hypersensitivity. This reaction can prove fatal and early symptoms such as fever, lymphadenopathy, and rash should be promptly investigated. 16 , 17 , 19
+
+## Mechanism Of Action
+
+Voltage-dependent calcium channel subunit alpha-2/delta-1 Inhibitor
+
+## Absorption
+
+Absorption of gabapentin is thought to occur solely via facilitated transport by the LAT1 transporter within the intestines. 5 As this process is saturable, the oral bioavailability of gabapentin is inversely proportional to the administered dose - the oral bioavailability of a 900mg/day regimen is approximately 60%, whereas a 4800mg/day regimen results in only 27% bioavailability. 16 , 18 The T max of gabapentin has been estimated to be 2-3 hours. 17 , 5 Food has no appreciable effect on gabapentin absorption. 16 , 18
+
+## Volume Of Distribution
+
+The apparent volume of distribution of gabapentin after IV administration is 58±6 L. 16 , 17 The drug is found in the CSF in concentrations approximately 9-20% of the corresponding plasma concentrations and is secreted into breast milk in concentrations similar to that seen in plasma. 16 , 17 , 5
+
+## Metabolism
+
+Gabapentin is not appreciably metabolized in humans 16 , 17 - in humans, metabolites account for less than 1% of an administered dose, with the remainder being excreted as unchanged parent drug in the urine. 5
+
+## Route Of Elimination
+
+Gabapentin is eliminated solely in the urine as unchanged drug. 16 , 17 Cimetidine, an inhibitor of renal tubular secretion, reduces clearance by approximately 12%, suggesting that some degree of tubular secretion is involved in the renal elimination of gabapentin. 5
+
+## Half Life
+
+The elimination t 1/2 of gabapentin in patients with normal renal function is 5-7 hours. 16 , 17 , 5 In patients with reduced renal function, the elimination t 1/2 may be prolonged - in patients with a creatinine clearance of <30 mL/min, the reported half-life of gabapentin was approximately 52 hours. 16 , 17
+
+## Clearance
+
+Both the plasma clearance and renal clearance of gabapentin are directly proportional to the patient's creatinine clearance due to its primarily renal elimination. 16 , 17 , 5
+
+## Toxicity
+
+The oral TDLo of gabapentin in humans is 2.86 mg/kg and the LD 50 in rats has been found to be >8000 mg/kg. 21 Symptoms of overdose are consistent with the drug's adverse effect profile and involve CNS depression (e.g. dizziness, drowsiness, slurred speech, lethargy, loss of consciousness) and gastrointestinal symptoms such as diarrhea. 18 , 17 Management of overdose should involve symptomatic and supportive treatment. Gabapentin can be removed by hemodialysis - this may be of benefit in some patients, such as those with impaired renal function. 20 Multi-drug overdoses involving gabapentin, particularly in combination with other CNS depressants such as opioids, can result in coma and death - this possibility should be considered when managing overdosage. 17

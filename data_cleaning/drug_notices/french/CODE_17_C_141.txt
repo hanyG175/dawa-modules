@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_141
+DCI: DORZOLAMIDE (chlorhydrate) 2 % + TIMOLOL (maléate) 0,5 % collyre sol (DORZOLAMIDE/TIMOLOL ARROW)
+Brand Names: COSOTIMOL | COZOLAMIDE | DAROMED-T | DORZASOPT | MYOSOPT | OPTODROP-CO | TIMOLAMID | XOLAMOL | ZOLAMIDE +
+Pharmaceutical Forms: Collyree | Collyree En Solution
+Dosages: 20/5 mg/ml | 20mg/5mg/ml | 20mg/ml .05mg/ml
+Packaging: flacon./5ml
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EC - INHIBITEURS DE L'ANHYDRASE CARBONIQUE | S01EC03 - DORZOLAMIDE
+Registration Numbers: 055/17 C 141/24 | 065/17 C 141/17/23 | 065/17 C 141/23 | 317/17 C 141/22 | 380/17 C 141/16 | 386/17 C 141/09/16 | 521/17 C 141/16 | 522/17 C 141/18 | 543/17 C 141/18
+Drug Codes: 17 C 141
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : reboucher le flacon après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Glaucome chronique à angle ouvert, traitement de deuxième intention (du) - Glaucome pseudo-exfoliatif, traitement de deuxième intention (du) - Hypertonie oculaire, traitement de deuxième intention (de l') | Posologie standard | Dans le cas de : Monothérapie | 1 gte 3 fois par jour | Glaucome chronique à angle ouvert, traitement associé (du) - Glaucome pseudo-exfoliatif, traitement associé (du) - Hypertonie oculaire, traitement associé (de l') | Posologie standard | Dans le cas de : Association aux bêta-bloquants | 1 gte 2 fois par jour
+
+## Precautions
+
+Allaitement | Antécédent de lithiase urinaire | Enfant de moins de 15 ans | Glaucome à angle fermé | Grossesse | Insuffisance hépatique | Intervention chirurgicale du glaucome | Intervention chirurgicale oculaire, antécédent | Kératopathie chronique | Nouveau-né de moins de 1 semaine | Prématuré | Traitement concomitant par un collyre | Traitement par antiglaucomateux en cours
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Dorzolamide : Mécanisme d'action | L'anhydrase carbonique (AC) est une enzyme retrouvée dans de nombreux tissus, y compris dans l'oeil. | Chez l'homme, l'anhydrase carbonique existe sous forme de nombreuses isoenzymes, la plus active étant l'anhydrase carbonique II (AC II), présente principalement dans les globules rouges (GR), mais également dans d'autres tissus. L'inhibition de l'anhydrase carbonique dans les procès ciliaires de l'oeil diminue la sécrétion d'humeur aqueuse. Le résultat est une diminution de la pression intra-oculaire (PIO). | Le dorzolamide est un puissant inhibiteur de l'anhydrase carbonique II chez l'homme. Après administration locale, le dorzolamide diminue la pression intra-oculaire élevée, associée ou non à un glaucome. Une pression intra-oculaire élevée est un facteur de risque majeur dans la pathogénie des altérations de la tête du nerf optique et de la perte du champ visuel. Le dorzolamide ne provoque pas de constriction pupillaire et réduit la pression intra-oculaire sans effets secondaires tels que la cécité nocturne et les spasmes d'accommodation. Le dorzolamide a peu ou pas d'effet sur la fréquence cardiaque et la pression artérielle. | Les bêta-bloquants à usage ophtalmique diminuent également la PIO en réduisant la sécrétion d'humeur aqueuse par un mécanisme d'action différent. Les études ont montré que, lorsque le dorzolamide est ajouté à un bêta-bloquant à usage ophtalmique, une réduction supplémentaire de la PIO est observée ; cette constatation est cohérente avec les effets additifs connus des bêta-bloquants et des inhibiteurs de l'anhydrase carbonique administrés par voie orale. | Le dorzolamide et le | timolol | diminuent chacun la pression intra-oculaire élevée en réduisant la sécrétion d'humeur aqueuse par un mécanisme d'action différent.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatite de contact (Rare) | - Syndrome de Stevens-Johnson (Rare) | - Nécrolyse épidermique toxique (Rare) | - Eruption cutanée | - Prurit | - Urticaire | DIVERS: | - Asthénie (Fréquent) | - Fatigue (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Réaction allergique locale (Rare) | - Hypersensibilité (Rare) | - Réaction allergique généralisée | - Angioedème | OPHTALMOLOGIE: | - Vision floue (Fréquent) | - Hypersécrétion lacrymale (Fréquent) | - Kératite ponctuée (Fréquent) | - Blépharite (Fréquent) | - Picotement oculaire (Très fréquent) | - Prurit palpébral (Fréquent) | - Irritation palpébrale (Fréquent) | - Sensation de brûlure dans l?oeil (Très fréquent) | - Conjonctivite (Fréquent) | - Iridocyclite (Peu fréquent) | - Prurit oculaire (Fréquent) | - Douleur oculaire (Rare) | - Décollement de la choroïde (Rare) | - Lésion croûteuse palpébrale (Rare) | - Oedème cornéen (Rare) | - Rougeur oculaire (Rare) | - Irritation oculaire (Rare) | - Myopie transitoire (Rare) | - Pression oculaire (diminution) (Rare) | - Réaction allergique oculaire | - Sensation de corps étranger dans l'oeil | - Trouble de la paupière | - Trouble oculaire | ORL, STOMATOLOGIE: | - Goût amer (Fréquent) | - Sensation de brûlure du conduit auditif externe (Très fréquent) | - Vertige (Rare) | - Sensation de vertige (Rare) | - Sécheresse buccale (Rare) | - Irritation de la gorge (Rare) | - Epistaxis (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Tachycardie | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Paresthésie (Rare) | SYSTÈME RESPIRATOIRE: | - Dyspnée | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Lithiase urinaire (Rare)

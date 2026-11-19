@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_R_401
+DCI: Dulaglutide
+DrugBank ID: DB09045
+DrugBank Name: Dulaglutide
+Brand Names: TRULICITY
+Pharmaceutical Forms: Solution
+Dosages: 0.75mg/0.5ml
+Packaging: b/04 stylos preremplies de 0.5ml
+Registration Numbers: 263/14 R 401/24
+Drug Codes: 14 R 401
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Dulaglutide reduces fasting glucose concentrations and reduces postprandial glucose (PPG) concentrations in patients with type 2 diabetes mellitus through the agonism of the GLP-1 receptor. 7 This drug primarily acts as an incretin mimetic hormone or analog of human glucagon-like peptide-1, which normally acts on the GLP-1 receptor. 6
+
+## Mechanism Of Action
+
+Glucagon-like peptide 1 receptor Agonist
+
+## Absorption
+
+Dulaglutide is slowly absorbed after subcutaneous injection. 9 In a pharmacokinetic study of 20 healthy adults, Cmax occurred within 24-48 hours after dosing. 3 The average absolute bioavailability of dulaglutide after subcutaneous injections of single 0.75 mg and 1.5 mg doses was 65% and 47%, respectively. 7
+
+## Volume Of Distribution
+
+The apparent volume of distribution of dulaglutide was 3.09 L in a pharmacokinetic study; the apparent population mean peripheral volume of distribution was approximately 6 L. 7
+
+## Metabolism
+
+Dulaglutide is presumed to be degraded into its component amino acids by general protein catabolism pathways. 7
+
+## Route Of Elimination
+
+Elimination of dulaglutide is expected to occur through degradation to individual amino acids. 7
+
+## Half Life
+
+In a pharmacokinetic study of 20 healthy adults, the average half-life of dulaglutide administered at various doses was approximately 3.75 days (89.9 hours). This extended half-life allows for once-weekly dosing. 3 Prescribing information indicates a half-life of approximately 5 days. 7
+
+## Clearance
+
+The apparent population mean clearance of dulaglutide was 0.142 L/h in a pharmacokinetic study. 7
+
+## Toxicity
+
+LD50 information for dulaglutide is not readily available in the literature. 10 Cases of overdose with dulaglutide have resulted in gastrointestinal disturbance. Appropriate supportive treatment is recommended to manage signs and symptoms. 9 Additionally, hypoglycemia has been observed after an overdose with dulaglutide; frequent plasma glucose monitoring should be performed. 7

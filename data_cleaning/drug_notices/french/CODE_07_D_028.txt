@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_028
+DCI: Ketoconazole
+Brand Names: KETOCONAZOLE NOVAGENERICS
+Pharmaceutical Forms: Crème
+Dosages: 0.02
+Packaging: T/15G
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 198.9 DA
+PPA (DA): 198.00 DA
+Prescription List: Liste I
+ATC Classification: 07D028
+Registration Numbers: 003/07 D 028/06/17 | 079/07 D 028/07/13 | 088/07 D 028/10/23 | 095/07 D 028/98/14 | 149/07 D 028/13/24 | 352/07 D 028/11/18 | 418/07 D 028/11/24
+Drug Codes: 07 D 028
+
+------------------------------------------------------------
+
+## Indications
+
+DERMATOLOGIE
+
+## Mechanism Of Action
+
+ANTIFONGIQUES LOCAUX

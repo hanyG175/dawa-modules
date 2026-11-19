@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_043
+DCI: AMOXICILLINE (sodique) 1 g pdre/solv p sol inj (AMOXICILLINE PANPHARMA) | AMOXICILLINE 1 g cp dispers (AMOXICILLINE CRISTERS)
+DrugBank ID: DB01060
+DrugBank Name: Amoxicillin
+Brand Names: AMOXYPEN | BIOPAMOX
+Pharmaceutical Forms: Poudre | Poudre P. Sol. Inj. Im (Solvant Lidocaine) Et Im/Iv (Sans Solvant)
+Dosages: 1g/fl | 1g/fl. de pdre.
+Packaging: - b/01fl de pdre+ 01 ampoule de 5ml de solvant -b/50fl de pdre | b/1fl. de pdre.+1amp. de 5ml de solv. (alcool benzylique 3%) (im) et boite de 50fl. de pdre.sans solv.* (im/iv)
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CA - PENICILLINES A LARGE SPECTRE | J01CA04 - AMOXICILLINE
+Registration Numbers: 003/13 G 043/99/16 | 293/13 G 043/10
+Drug Codes: 13 G 043
+
+------------------------------------------------------------
+
+## Description
+
+Amoxicillin, or BRL-2333, is a penicillin G derivative first described in the literature in 1972. 6 Amoxicillin has similar activity to penicillin and ampicillin , but leads to higher serum concentrations than ampicillin. 6 Amoxicillin was granted FDA approval on 18 January 1974. 12
+
+## Pharmacodynamics
+
+Amoxicillin competitively inhibit penicillin binding proteins, leading to upregulation of autolytic enzymes and inhibition of cell wall synthesis. 9 , 10 , 5 Amoxicillin has a long duration of action as it is usually given twice daily. 15 Amoxicillin has a wide therapeutic range as mild overdoses are not associated with significant toxicity. 14 Patients should be counselled regarding the risk of anaphylaxis, Clostridium difficile infections, and bacterial resistance. 17
+
+## Mechanism Of Action
+
+Penicillin binding protein (Helicobacter pylori) Inhibitor
+
+## Absorption
+
+Amoxicillin is approximately 60% bioavailable. 8 A 250mg dose of oral amoxicillin reaches a C max 3.93±1.13mg/L with a T max 1.31±0.33h and an AUC of 27.29±4.72mg*h/L. 4 A 875mg dose of oral amoxicillin reaches a C max 11.21±3.42mg/L with a T max 1.52±0.40h and an AUC of 55.04±12.68mg*h/L. 4
+
+## Volume Of Distribution
+
+The central volume of distribution of amoxicillin is 27.7L. 4
+
+## Metabolism
+
+Incubation with human liver microsomes has lead to the detection of 7 metabolites. 1 The M1 metabolite has undergone hydroxylation, M2 has undergone oxidative deamination, M3 to M5 have undergone oxidation of the aliphatic chain, M6 has undergone decarboxylation, and M7 has undergone glucuronidation. 1 Hover over products below to view reaction partners Amoxicillin Amoxicillin M1 Metabolite Amoxicillin M2 Metabolite Amoxicillin M3 Metabolite Amoxicillin M4 Metabolite Amoxicillin M5 Metabolite Amoxicillin M6 Metabolite Amoxicillin M7 Metabolite
+
+## Route Of Elimination
+
+125mg to 1g doses of amoxicillin are 70-78% eliminated in the urine after 6 hours. 6
+
+## Half Life
+
+The half life of amoxicillin is 61.3 minutes. 8
+
+## Clearance
+
+The mean clearance of amoxicillin is 21.3L/h. 4
+
+## Toxicity
+
+Patients experiencing an overdose may present with hematuria, oliguria, abdominal pain, acute renal failure, vomiting, diarrhea, rash, hyperactivity, and drowsiness. 7 , 14 Treat overdose with symptomatic and supportive treatment, which may include emesis or hemodialysis. 14

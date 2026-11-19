@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_156
+DCI: CEFALEXINE 250 mg/5 ml pdre p susp buv (KEFORAL) | Cefalexine Monohydratee Exprime En Cefalexine
+DrugBank ID: DB00567
+DrugBank Name: Cephalexin
+Brand Names: CEPHADAR 250 | CEPHALEX | GENICET | KEFORAL | LEXIN | LEXINAL
+Pharmaceutical Forms: Poudre
+Dosages: 250mg/5ml
+Packaging: b/1 flacon de 60ml | flacon de 125 ml marque a 100 ml | flacon/100ml | flacon/100ml de susp apres recons + gobelet doseur
+Laboratories: LABORATOIRE SCIENCEX | 9, RUE NICOLAS CHARLET | 75015 PARIS | FRANCE | Laboratoire SCIENCEX
+ATC Classification: J01DA01
+Registration Numbers: 001/13 B 156/06/24 | 039/13 B 156/18/24 | 055/13 B 156/00/24 | 173/13 B 156/99/19 | 263/13 B 156/98/16 | 480/13 B 156/24
+Drug Codes: 13 B 156
+
+------------------------------------------------------------
+
+## Description
+
+Cephalexin is the first of the first generation cephalosporins. 7 , 8 This antibiotic contains a beta lactam and a dihydrothiazide. 7 Cephalexin is used to treat a number of susceptible bacterial infections through inhibition of cell wall synthesis. 9 , 12 Cephalexin was approved by the FDA on 4 January 1971. 12
+
+## Pharmacodynamics
+
+Cephalexin (also called Cefalexin) is a first generation cephalosporin antibiotic. 7 , 8 It is one of the most widely prescribed antibiotics, often used for the treatment of superficial infections that result as complications of minor wounds or lacerations. 12 It is effective against most gram-positive bacteria through its inihibition of the cross linking reaction between N-acetyl muramicacid and N-acetylglucosamine in the cell wall, leading to cell lysis. 9
+
+## Mechanism Of Action
+
+serine-type D-Ala-D-Ala carboxypeptidase (Streptococcus pneumoniae) Inhibitor Penicillin-binding protein 2a (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor Penicillin-binding protein 1b (Streptococcus pneumoniae (strain ATCC BAA-255 / R6)) Inhibitor + 2 more targets
+
+## Absorption
+
+Well absorbed from the upper gastrointestinal tract with nearly 100% oral bioavailability. 3 , 4 Cephalexin is not absorbed in the stomach but is absorbed in the upper intestine. 5 Patients taking 250mg of cephalexin reach a maximum plasma concentration of 7.7mcg/mL and patients taking 500mg reach 12.3mcg/mL. 1
+
+## Metabolism
+
+Cephalexin is not metabolized in the body. 2 , 12 , 13 , 14
+
+## Route Of Elimination
+
+Cephalexin is over 90% excreted in the urine after 6 hours 1 by glomerular filtration and tubular secretion 12 , 13 , 14 with a mean urinary recovery of 99.3%. 3 Cephalexin is unchanged in the urine. 1 , 2 , 3
+
+## Half Life
+
+The half life of cephalexin is 49.5 minutes in a fasted state and 76.5 minutes with food though these times were not significantly different in the study. 3
+
+## Clearance
+
+Clearance from one subject was 376mL/min. 3
+
+## Toxicity
+
+Symptoms of overdose include blood in the urine, diarrhea, nausea, upper abdominal pain, and vomiting. 12 An overdose is generally managed through supportive treatment as diuresis, dialysis, hemodialysis, and charcoal hemoperfusion are not well studied in this case. 12 The oral median lethal dose of cephalexin in rats is >5000 mg/kg. The oral LD50 in a monkey is >1g/kg and the lowest dose causing a toxic effect in humans is 14mg/kg. MSDS Cephalexin has not been shown to be harmful in pregnancy and is not associated with teratogeniticy. 12 Cephalexin is present in breast milk, though infants may be exposed to <1% of the dose given to the mother. 12 The effects of breast milk exposure to cephalexin have not been established and so caution must be exercised and the risk and benefit of cephalexin use in breastfeeding must be weighed. 12 Cephalexin has not been studied for carcinogenicity or mutagenicity. 12 Cephalexin has no affect on fertility in rats. 12

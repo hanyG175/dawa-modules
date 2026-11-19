@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_B_001
+DCI: Certolizumab
+DrugBank ID: DB08904
+DrugBank Name: Certolizumab pegol
+Brand Names: CIMZIA
+Pharmaceutical Forms: Solution
+Dosages: 200 mg/ml
+Packaging: boite de 02 seringues pre-remplies de 01ml et 02 tampons alcoolises
+Registration Numbers: 046/27 B 001/23
+Drug Codes: 27 B 001
+
+------------------------------------------------------------
+
+## Description
+
+Certolizumab pegol is a pegylated monoclonal antibody against the tumor necrosis factor-alpha (TNF-alpha). 1 It is formed with a humanized Fab fragment of 50 kDa, from an IgG 1 isotype, fused to a 40 kDa polyethylene glycol moiety replacing the Fc antibody region. The absence of the Fc region was ideated to prevent complement fixation and antibody-mediated cytotoxicity as well as to markedly increase its half-life. 3 Certolizumab does not require glycosylation for active function and hence, its production is significantly more affordable when compared to other existing TNF-alpha therapies as it can be done directly in bacterial hosts such as E. coli . 3 It was developed and manufactured by UCB Pharma, first FDA approved in 2008 13 and updated for a new indication on March 28, 2019. 10
+
+## Pharmacodynamics
+
+As part of the mechanism of action and nature of the drug, certolizumab does not induce apoptosis in cultured lymphocytes and monocytes. However, as a piece of the inhibition of inflammation, certolizumab pegol inhibits lipopolysaccharide-induced production of IL-1 beta and it induces nonapoptotic cell death via signaling transmembrane TNF-alpha. 3 In vitro studies with certolizumab pegol in human tissue did not show any unexpected binding at 3 mcg/ml nor at 10 mcg/ml. Due to the drug class, certolizumab pegol is not expected to present adverse effects on the major vital systems. 14 In phase III clinical trials in psoriatic arthritis patients, certolizumab pegol was reported to generate improvements in skin disease, joint involvement, dactylitis, enthesitis and general life quality. The clinical effect of certolizumab was paired to a comparable safety profile to other TNF-alpha inhibitors. 3 The clinical effectiveness of certolizumab pegol was mainly studied in six randomized controlled trials that compared its effect versus placebo. In a comparative study, the efficacy for certolizumab pegol registered ranged from 30-65% while in placebo ranged from 4-25%. 5 However, in other additional trials, certolizumab was proven to present a similar clinical efficacy to other disease-modifying antirheumatic drugs in patients with inadequate response to TNF inhibitors. 2
+
+## Mechanism Of Action
+
+Tumor necrosis factor Neutralizer
+
+## Absorption
+
+After subcutaneous administration, the peak plasma concentration is reached between 54 and 171 hours with a bioavailability of 80%. 3 Certolizumab presents a linear pharmacokinetic profile with a peak plasma concentration of 43-49 mcg/ml. 14
+
+## Volume Of Distribution
+
+Certolizumab pegol volume of distribution is reported to be in the range of 4-8 L. 8 It is known to have a very good distribution in the joints when compared to other TNF-alpha inhibitors. 6
+
+## Metabolism
+
+The presence of PEG group in certolizumab pegol delays the metabolism and elimination of this drug. However, once under metabolism, the PEG group gets cleaved from the parent compound and the antibody section is thought to be internalized cells and rescued from metabolism by recycling. Later, it is degraded in the reticuloendothelial system to small peptides and amino acids which can be used for de-novo protein synthesis. 4 On the other hand, the PEG section is processed normally by the action of the alcohol dehydrogenase to the formation of carboxylic acid. 9
+
+## Route Of Elimination
+
+As certolizumab is a monoclonal antibody, the elimination route is not widely studied. However, it is known that the elimination of the PEG moiety is dependent on the renal function which links it directly with a high portion of renal elimination. 3
+
+## Half Life
+
+The circulatory half-life of certolizumab is of 14 days. 3
+
+## Clearance
+
+The clearance rate of certolizumab pegol ranged between 9-14 ml/h when administered intravenously. However, when administered subcutaneously, the clearance rate is estimated to range between 14-21 ml/h depending on the patient condition. 14
+
+## Toxicity
+
+The oral ld50 observed in mice is determined to be of 300 mg/kg. MSDS To this date, there have not been reports of overdosage, however, in case of accidental overexposure close monitoring is recommended. Label Certolizumab pegol does not present mutagenic potential nor presents effects in fertility and reproductive performance. On the other hand, carcinogenicity studies have not been performed. Label

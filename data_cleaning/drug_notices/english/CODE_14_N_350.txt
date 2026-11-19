@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_350
+DCI: Velaglucerase Alfa
+DrugBank ID: DB06720
+DrugBank Name: Velaglucerase alfa
+Brand Names: VPRIV
+Pharmaceutical Forms: Sol. Perf.
+Dosages: 400 U DE VELAGLUCERASE ALFA / FL. DE PDRE. (100U DE VELAGLUCERASE /ML APRES RECONSTITUTION)
+Packaging: B/01 FL. DE PDRE.
+Laboratories: SHIRE HUMAN GENETIC THERAPIES INC (SHIRE HGT)
+Countries: ETATS UNIS D'AMERIQUE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 14N350
+Registration Numbers: 493/14 N 350/15
+Drug Codes: 14 N 350
+
+------------------------------------------------------------
+
+## Description
+
+Velaglucerase alfa is a gene-activated human recombinant glucocerebrosidase used for the treatment of Type 1 Gaucher disease, caused by a deficiency of the lysosomal enzyme glucocerebrosidase. Additionally, Velaglucerase alfa has also been investigated for use in Type 3 Gaucher disease.
+
+## Mechanism Of Action
+
+Lysosomal acid glucosylceramidase Other
+
+## Volume Of Distribution
+
+The mean volume of distribution at steady state ranges from 82 to 108 mL/kg (8.2% to 10.8% of body weight).
+
+## Half Life
+
+11-12 minutes.
+
+## Clearance
+
+Mean clearance ranges from 6.72 to 7.56 mL/min/kg.

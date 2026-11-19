@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_094
+DCI: Cholecalciferol
+DrugBank ID: DB00169
+DrugBank Name: Vitamin D3
+Brand Names: VIT D3 SALEM
+Pharmaceutical Forms: Solution
+Dosages: 200000ui/ml
+Packaging: b/01 ampoule
+Laboratories: BIOGARAN | 15, boulevard charles de gaulle | 92700 colombes
+ATC Classification: A11CC05
+Registration Numbers: 231/14 H 094/20
+Drug Codes: 14 H 094
+
+------------------------------------------------------------
+
+## Description
+
+Vitamin D, in general, is a secosteroid generated in the skin when 7-dehydrocholesterol located there interacts with ultraviolet irradiation - like that commonly found in sunlight 9 . Both the endogenous form of vitamin D (that results from 7-dehydrocholesterol transformation), vitamin D3 (cholecalciferol), and the plant-derived form, vitamin D2 (ergocalciferol), are considered the main forms of vitamin d and are found in various types of food for daily intake 9 . Structurally, ergocalciferol differs from cholecalciferol in that it possesses a double bond between C22 and C23 and has an additional methyl group at C24 9 . Finally, ergocalciferol is pharmacologically less potent than cholecalciferol, which makes vitamin D3 the preferred agent for medical use 9 . Appropriate levels of vitamin D must be upheld in the body in order to maintain calcium and phosphorus levels in a healthy physiologic range to sustain a variety of metabolic functions, transcription regulation, and bone metabolism 4 , 9 , 10 , 11 , 12 , 13 , 14 . However, studies are also ongoing to determine whether or not cholecalciferol may also play certain roles in cancer, autoimmune disorders, cardiovascular disease, and other medical conditions that may be associated with vitamin D deficiency 9 .
+
+## Pharmacodynamics
+
+The in vivo synthesis of the predominant two biologically active metabolites of vitamin D occurs in two steps. The first hydroxylation of vitamin D3 cholecalciferol (or D2) occurs in the liver to yield 25-hydroxyvitamin D while the second hydroxylation happens in the kidneys to give 1, 25-dihydroxyvitamin D 12 , 13 , 14 . These vitamin D metabolites subsequently facilitate the active absorption of calcium and phosphorus in the small intestine, serving to increase serum calcium and phosphate levels sufficiently to allow bone mineralization 12 , 13 , 14 . Conversely, these vitamin D metabolites also assist in mobilizing calcium and phosphate from bone and likely increase the reabsorption of calcium and perhaps also of phosphate via the renal tubules 12 , 13 , 14 . There exists a period of 10 to 24 hours between the administration of cholecalciferol and the initiation of its action in the body due to the necessity of synthesis of the active vitamin D metabolites in the liver and kidneys 12 , 13 , 14 . It is parathyroid hormone that is responsible for the regulation of such metabolism at the level of the kidneys 12 , 13 , 14 .
+
+## Mechanism Of Action
+
+Vitamin D3 receptor Agonist
+
+## Absorption
+
+Cholecalciferol is readily absorbed from the small intestine if fat absorption is normal 12 , 13 , 14 . Moreover, bile is necessary for absorption as well 12 , 13 , 14 . In particular, recent studies have determined aspects about the absorption of vitamin D, like the fact that a) the 25-hydroxyvitamin D metabolite of cholecalciferol is absorbed to a greater extent than the nonhydroxy form of cholecalciferol, b) the quantity of fat with which cholecalciferol is ingested does not appear to largely affect its bioavailability, and c) age does not apparently effect vitamin D cholecalciferol 7 .
+
+## Volume Of Distribution
+
+Studies have determined that the mean central volume of distribution of administered cholecalciferol supplementation in a group of 49 kidney transplant patients was approximately 237 L 5 .
+
+## Metabolism
+
+Within the liver, cholecalciferol is hydroxylated to calcifediol (25-hydroxycholecalciferol) by the enzyme vitamin D-25-hydroxylase 12 , 13 , 14 . At the kidney, calcifediol subsequently serves as a substrate for 1-alpha-hydroxylase, yielding calcitriol (1,25-dihydroxycholecalciferol), the biologically active form of vitamin D3 12 , 13 , 14 . Hover over products below to view reaction partners Cholecalciferol (23S)-23,25-dihdroxy-24-oxovitamine D3 23-(beta-glucuronide) Calcifediol Calcitriol
+
+## Route Of Elimination
+
+It has been observed that administered cholecalciferol and its metabolites are excreted primarily in the bile and feces 8 .
+
+## Half Life
+
+At this time, there have been resources that document the half-life of cholecalciferol as being about 50 days 8 while other sources have noted that the half-life of calcitriol (1,25-dihydroxyvitamin D3) is approximately 15 hours while that of calcidiol (25-hydroxyvitamin D3) is about 15 days 10 . Moreover, it appears that the half-lives of any particular administration of vitamin d can vary due to variations in vitamin d binding protein concentrations and genotype in particular individuals 6 .
+
+## Clearance
+
+Studies have determined that the mean clearance value of administered cholecalciferol supplementation in a group of 49 kidney transplant patients was approximately 2.5 L/day 5 .
+
+## Toxicity
+
+Chronic or acute administration of excessive doses of cholecalciferol may lead to hypervitaminosis D, manifested by hypercalcemia and its sequelae 12 , 13 , 14 . Early symptoms of hypercalcemia may include weakness, fatigue, somnolence, headache, anorexia, dry mouth, metallic taste, nausea, vomiting, vertigo, tinnitus, ataxia, and hypotonia 12 , 13 , 14 . Later and possibly more serious manifestation include nephrocalcinosis, renal dysfunction, osteoporosis in adults, impaired growth in children, anemia, metastatic calcification, pancreatitis, generalized vascular calcification, and seizures 12 , 13 , 14 . Safety of doses in excess of 400 IU (10mcg) of vitamin D3 daily during pregnancy has not been established 12 , 13 , 14 . Maternal hypercalcemia, possibly caused by excessive vitamin D intake during pregnancy, has been associated with hypercalcemia in neonates, which may lead to supravalvular aortic stenosis syndrome, the features of which may include retinopathy, mental or growth retardation, strabismus, and other effects 12 , 13 , 14 . Hypercalcemia during pregnancy may also lead to suppression of parathyroid hormone release in the neonate, resulting in hypocalcemia, tetany, and seizures 12 , 13 , 14 . Vitamin D is deficient in maternal milk; therefore, breastfed infants may require supplementation. Use of excessive amounts of Vitamin D in nursing mothers may result in hypercalcemia in infants. Doses of Vitamin D3 in excess of 10 µg daily should not be administered daily to nursing women.

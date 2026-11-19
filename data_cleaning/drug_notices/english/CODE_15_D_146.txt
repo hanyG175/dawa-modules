@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_D_146
+DCI: Ropinirol
+DrugBank ID: DB00268
+DrugBank Name: Ropinirole
+Brand Names: KEPNIROL LP
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: N04BC04
+Registration Numbers: 352/15 D 146/25
+Drug Codes: 15 D 146
+
+------------------------------------------------------------
+
+## Description
+
+Ropinirole, also known as ReQuip , is a non-ergoline dopamine agonist used in Parkinson's disease and restless legs syndrome Label , 3 . It is manufactured by GlaxoSmithKline Pharmaceuticals. Ropinirole was initially approved in 1997 by the FDA Label for the management of Parkinson's disease. In 2005, it was the first drug approved in the US for the management of primary moderate to severe restless legs syndrome 3 . In 2008, the extended-release capsules of ropinirole were approved, allowing for less frequent dosing, therefore increased compliance, and offering a similar side effect profile and efficacy to previous formulations of ropinirole 4 .
+
+## Pharmacodynamics
+
+Effects on Parkinson's and restless leg syndrome This drug promotes the relief or improvement of symptoms of Parkinson's or restless leg syndrome by stimulatory actions on dopamine receptors, which regulate movement. Effects on blood pressure Clinical experience with dopamine agonists, including ropinirole, suggests an association with impaired abilities in regulating blood pressure with resulting orthostatic hypotension, especially with patients undergoing dose escalation. In some patients in clinical studies, blood pressure changes were associated with orthostatic symptoms, bradycardia, and, in one case in a healthy volunteer, transient sinus arrest accompanied by syncope Label . The mechanism of orthostatic hypotension caused by ropinirole is assumed to be due to a D2-mediated blunting of noradrenergic response to a standing position, followed by a decrease in peripheral vascular resistance. Nausea is also a frequent symptom which accompanies orthostatic signs and symptoms Label . Effects on prolactin At oral doses as low as 0.2 mg, ropinirole suppressed serum prolactin concentrations in healthy male volunteers.
+Ropinirole had no dose-related effect on ECG wave form and rhythm in young, healthy, male volunteers in the range of 0.01 to 2.5 mg Label . Effects on QT interval Ropinirole had no dose- or exposure-related effect on average QT intervals in healthy male and female volunteers at doses up to 4 mg/day. The effect of ropinirole on QTc intervals at higher exposures reached either due to drug interactions, hepatic dysfunction, or at higher doses has not been adequately evaluated Label .
+
+## Mechanism Of Action
+
+D(3) dopamine receptor Agonist D(2) dopamine receptor Agonist
+
+## Absorption
+
+Ropinirole is rapidly absorbed after oral administration, reaching peak concentration in approximately 1 to 2 hours Label , 5 . Absolute bioavailability was 45% to 55%, suggesting approximately 50% hepatic first-pass effect Label . The bioavailability of ropinirole prolonged release compared to the immediate release tablets is about 100% 2 . Ingestion of food does not affect the absorption of ropinirole, although its Tmax was increased by 2.5 hours and its Cmax was reduced by approximately 25% when the drug is taken with a high-fat meal Label .
+
+## Volume Of Distribution
+
+Ropinirole is found to be widely distributed throughout the body, with an apparent volume of distribution of 7.5 L/kg Label .
+
+## Metabolism
+
+Ropinirole is heavily metabolized by the liver. The most important metabolic pathways are N­ despropylation and hydroxylation to form the N-despropyl metabolite and hydroxy metabolites Label , both of which are inactive 4 . The N-despropyl metabolite is then converted to carbamyl glucuronide , carboxylic acid, and N-despropyl hydroxy metabolites. Following this process, the hydroxy metabolite of ropinirole is glucuronidated at a rapid rate Label . In vitro studies show that the major cytochrome P450 enzyme involved in the metabolism of ropinirole is CYP1A2 Label , 5 . Hover over products below to view reaction partners Ropinirole N-despropyl hydroxy metabolites + N-despropyl ropinirole + carboxylic acid
+
+## Route Of Elimination
+
+The majority of the absorbed dose is cleared by the liver 4 . In clinical trials, more than 88% of a radiolabeled dose was recovered in urine Label .
+Less than 10% of the administered dose is excreted as unchanged drug in urine. N-despropyl ropinirole is the major metabolite found in the urine (40%), followed by the carboxylic acid metabolite (10%), and the glucuronide of the hydroxy metabolite (10%) Label .
+
+## Half Life
+
+Approximately 6 hours Label , 5 .
+
+## Clearance
+
+The clearance of ropinirole after oral administration is 47 L/h Label .
+
+## Toxicity
+
+Overdose Symptoms of overdose include agitation, chest pain, confusion, drowsiness, facial muscle movements, grogginess, increased jerkiness of movement, symptoms of low blood pressure (dizziness, light-headedness)upon standing, nausea, and vomiting Label . Carcinogenicity Two-year carcinogenicity studies of ropinirole were performed on animal models at oral doses of 5, 15, and 50 mg/kg/day and in rats at oral doses of 1.5, 15, and 50 mg/kg/day.
+There was an increase in testicular Leydig cell adenomas at all doses tested in rats. The hormonal mechanisms thought to be involved in the development of these tumors in rats are not considered relevant to humans. In mice, there was an increase in benign uterine endometrial polyps at a dose of 50 mg/kg/day. The highest dose not associated with this observation (15 mg/kg/day) is three times the maximum recommended human dose on a mg/m2 basis Label . Mutagenesis Ropinirole was not found to be mutagenic or clastogenic during in vitro assays, or in the in vivo mouse micronucleus test Label . Effects on reproduction When given to female rats prior to and during mating and throughout pregnancy, ropinirole led to disruption of implantation at oral doses of 20 mg/kg/day (8 times the MRHD on a mg/m2 basis) or higher. This effect in rats is believed to be due to the prolactin-lowering effects of ropinirole. Use in Pregnancy Pregnancy Category C. There are no sufficient and well-controlled studies done in pregnant women. In animal reproduction studies, ropinirole has demonstrated adverse effects on embryo-fetal development, including teratogenicity Label .

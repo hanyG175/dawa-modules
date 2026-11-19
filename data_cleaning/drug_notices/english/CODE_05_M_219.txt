@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_M_219
+DCI: Dichlorure De Radium - 223
+DrugBank ID: DB08913
+DrugBank Name: Radium Ra 223 dichloride
+Brand Names: XOFIGO
+Pharmaceutical Forms: Solution
+Dosages: 1100 kbq/ml (6.6 mbq/fl)
+Packaging: b/01 flacon de 6 ml
+Registration Numbers: 424/05 M 219/18
+Drug Codes: 05 M 219
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Physiologically, Radium Ra 223 Dichloride, prevents the spread of bone cancer by killing the associated bone cancer cells.
+
+## Mechanism Of Action
+
+Radium Ra 223 Dichloride is the radioisotope radium-223 that emits short range but high linear energy alpha particles. As a cation, radium mimics calicum and binds to hydroxyapatite, which is a bone mineral found in areas of high bone turnover as seen in bone metastases. The high energy damages bone cells by introducing double-stranded DNA breaks. This leads to cell death and prevention of the spread of the bone cancer cells. As well because of the alpha particle's short range of less than 10 cell diameters, its damaging effects would less likely affect the non-cancerous cells nearby.
+
+## Absorption
+
+Since Radium Ra 223 Dichloride is administered I.V., the bioavailability should be 100%.
+
+## Volume Of Distribution
+
+The volume of distribution was not quantified, but after 24 hours, there is only 1% radium-223 remaining in the blood. The rest of the radium-223 is distributed to bone (61% of the radioactive dose after 4 hours) and intestine (49% of the radioactive dose after 4 hours). No other organs were found to have significant uptake.
+
+## Metabolism
+
+Radium-223 does not undergo metabolism because it is a radioisotope that decays.
+
+## Route Of Elimination
+
+Radium-223 is mainly eliminated through the feces (13%) and to a lesser extent in the urine (2%). It is also noted that the elimination rate of radium-223 from the intestines is variable due to the high variability of intestinal transit rates among patients. Therefore there could be more intestinal radiation exposure in patients with slower intestinal transit rates, but the significance of this in relation to toxicity is not known.
+
+## Half Life
+
+The half-life is relatively long at 11.4 days for radium-223.
+
+## Clearance
+
+The clearance rate of radium-223 was not quantified.
+
+## Toxicity
+
+Because of its cytotoxic actions that have a high potential to cause fetal harm, Radium Ra 223 Dichloride is contraindicated in women who are pregnant or are of child bearing age. Other side effects include several hematological lab abnormalities, peripheral edema, nausea, vomiting, and diarrhea.

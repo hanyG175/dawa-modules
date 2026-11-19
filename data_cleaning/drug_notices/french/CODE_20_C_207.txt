@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_207
+DCI: DEXTROMETHORPHANE BROMHYDRATE 1,5 mg/ml sirop (DEXTROMETHORPHANE ELERTE)
+Brand Names: BRONCHOCALM ENFANTS | DEXSTOP ENFANTS
+Pharmaceutical Forms: Siropop
+Dosages: 0.1% | o.1%
+Packaging: flacon/125ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05D - ANTITUSSIFS, SAUF ASSOCIATIONS AUX EXPECTORANTS | R05DA - ALCALOÏDES DE L'OPIUM ET DERIVES | R05DA09 - DEXTROMETHORPHANE
+Registration Numbers: 153/20 C 207/05/23 | 242/20 C 207/05
+Drug Codes: 20 C 207
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | dextrométhorphane bromhydrate : 1.5 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Le traitement doit être de courte durée | Respecter un intervalle d'au moins 4 heures entre 2 prises | Posologie | Patient de 30 mois à 6 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 2,5 ml 1 à 6 fois par jour | Dose maximale par prise: 2,5 ml | Posologie maximale: 1 mg/kg par jour | Patient de 6 an(s) à 12 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 5 ml 1 à 4 fois par jour | Dose maximale par prise: 5 ml | Posologie maximale: 1 mg/kg par jour | Patient de 12 an(s) à 15 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 5 ml 1 à 6 fois par jour | Dose maximale par prise: 5 ml | Posologie maximale: 1 mg/kg par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 15 ml 1 à 4 fois par jour | Dose maximale par prise: 15 ml | Nombre d'unité de prise maximale: 90 ml par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Accident vasculaire cérébral | Allaitement | Antécédent de toxicomanie | Association à d'autres médicaments sérotoninergiques | Asthme | Démence | Grossesse | Insuffisance hépatique | Insuffisance rénale | Maladie de Parkinson | Maladie du système nerveux | Mastocytose | Métaboliseur lent du CYP2D6 | Nouveau-né exposé in utero au médicament | Pathologie respiratoire chronique | Sujet adolescent | Sujet âgé | Sujet alité | Sujet débilité | Tendance aux abus médicamenteux | Toux chronique | Toux persistante
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Dextrométhorphane : Mécanisme d'action | Le dextrométhorphane est un dérivé morphinique antitussif d'action centrale. | C' | est un dérivé 3-méthoxy du lévorphanol. Il possède une activité antitussive mais aux doses thérapeutiques, n'a pas d'effet analgésique, dépresseur respiratoire ou psychomimétique et ne présente qu'un faible potentiel de dépendance. | De plus, aux doses thérapeutiques, il n'entraîne ni dépression des centres respiratoires, ni accoutumance, ni toxicomanie.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Erythème pigmenté fixe | - Eruption cutanée | - Prurit | - Eruption prurigineuse | - Erythème cutané | - Urticaire | - Dermatite allergique | DIVERS: | - Fatigue (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Oedème de Quincke | OPHTALMOLOGIE: | - Mydriase | ORL, STOMATOLOGIE: | - Vertige | PSYCHIATRIE: | - Confusion mentale | - Abus de substance | - Insomnie | - Toxicomanie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Constipation | - Trouble digestif | - Diarrhée | SYSTÈME NERVEUX: | - Céphalée | - Somnolence | - Hyperactivité | SYSTÈME RESPIRATOIRE: | - Bronchospasme

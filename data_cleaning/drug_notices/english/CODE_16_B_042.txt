@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_042
+DCI: Lorazepam
+DrugBank ID: DB00186
+DrugBank Name: Lorazepam
+Brand Names: LORAZEPAM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 1MG
+Packaging: B/30
+Laboratories: AGD PHARMA
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16B042
+Registration Numbers: 065/16 B 042/07 | 231/16 B 042/98/24 | 242/16 B 042/17 | 320/16 B 042/06 | 468/16 B 042/15
+Drug Codes: 16 B 042
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+The effect of lorazepam in GABA-A receptors produces an increase in the frequency of opening of the chloride ion channel. However, for its effect to generate, the neurotransmitter is required. 8 The anticonvulsant properties of lorazepam are thought to be related to the binding to voltage-dependent sodium channels in which the sustained repetitive firing gets limited by the slow recovery of sodium channels due to the benzodiazepine effect. 9 The effect of lorazepam seems to be very compartmental which was observed with a different generation of sleepiness and a dizziness effect. 10
+
+## Mechanism Of Action
+
+GABA(A) Receptor Positive allosteric modulator GABA(A) Receptor Benzodiazepine Binding Site Ligand
+
+## Absorption
+
+Readily absorbed with an absolute bioavailability of 90% when given orally. When intramuscularly administered a dose of 4 mg, lorazepam is completely and rapidly absorbed and achieves a maximal serum concentration of 48 ng/ml in 15-30 minutes. When administered orally, the time to attained maximum concentration is observed to be of 2 hours. 12
+
+## Volume Of Distribution
+
+The reported volume of distribution of lorazepam is 1.3 L/kg. 13 It is important to mention that due to the lipophilicity of lorazepam, it does not redistribute as fast in the brain. 14
+
+## Metabolism
+
+Lorazepam is hepatically metabolized by CYP450 isoenzymes and extensively conjugated to the 3-0-phenolic glucuronide. 12 This is an inactive metabolite and is eliminated mainly by the kidneys. Hover over products below to view reaction partners Lorazepam Lorazepam glucuronide
+
+## Route Of Elimination
+
+When a single 2 mg oral dose is given to healthy subjects, 88% of the administered dose is recovered in urine and 7% was recovered in feces. From the excreted dose in urine, the major form is the glucuronide version that represents 74% while only 0.3% of the dose is recovered as unchanged lorazepam. 13
+
+## Half Life
+
+When administered parentally, the registered half-life of lorazepam is of 14 hours. 12 Following the administration of 1 mg of lorazepam in healthy adult male volunteers and using a multi-doses equation based on a one-compartment model, the average elimination half-life of lorazepam was estimated to be 11 hours and 8 hours for sublingual and oral doses respectively. 11 The absorption half-life was calculated to be 55 minutes for oral doses and 15 minutes for sublingual doses. 11
+
+## Clearance
+
+In vivo studies with lorazepam have shown a clearance rate of 5.8 ml.min/kg. 7
+
+## Toxicity
+
+The LD50 observed by oral administration in a mouse is of 1850 mg/kg. 16 When an overdose administration is registered, signs of CNS and respiratory depression are rapidly observed. An overdose stage can result in profound sedation, deep respiratory depression, coma, and death. 12 When overdose is observed, it is recommended to administer emergency symptomatic medical support with attention to produce an increase in lorazepam elimination. 13 There is no evidence of carcinogenicity nor mutagenicity. At doses higher than 40 mg/kg there is evidence of fetal resorption and increase in fetal loss. Label

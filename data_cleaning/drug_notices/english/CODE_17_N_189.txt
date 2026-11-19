@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_N_189
+DCI: Ciclosporine
+DrugBank ID: DB00091
+DrugBank Name: Cyclosporine
+Brand Names: RESTASIS
+Pharmaceutical Forms: Emulsion Ophtalmique
+Dosages: 0.0005
+Packaging: b/30 flacon unidose de 0.4ml
+Registration Numbers: 665/17 N 189/25
+Drug Codes: 17 N 189
+
+------------------------------------------------------------
+
+## Description
+
+Cyclosporine is a calcineurin inhibitor known for its immunomodulatory properties that prevent organ transplant rejection and treat various inflammatory and autoimmune conditions. It is isolated from the fungus Beauveria nivea . 2 Initially manufactured by Sandoz and approved for use by the FDA in 1983, cyclosporine is now available in various products by Novartis (previously known as Sandoz). 25 , 26 , 27
+
+## Pharmacodynamics
+
+Cyclosporine exerts potent immunosuppressive actions on T cells, thereby prolonging survival following organ and bone marrow transplants. 26 This drug prevents and controls serious immune-mediated reactions including allograft rejection, graft versus host disease, and inflammatory autoimmune disease. 26 Some notable effects of cyclosporine are hypertrichosis, gingival hyperplasia, and hyperlipidemia. There is also some debate about this drug causing nephrotoxicity. 9
+
+## Mechanism Of Action
+
+Guided entry of tail-anchored proteins factor CAMLG Binder Calcineurin subunit B type 2 Inhibitor Peptidyl-prolyl cis-trans isomerase A Inhibitor Binder + 1 more target
+
+## Absorption
+
+The absorption of cyclosporine occurs mainly in the intestine. 2 , 10 Absorption of cyclosporine is highly variable with a peak bioavailability of 30% sometimes occurring 1-8 hours after administration with a second peak observed in certain patients. 5 , 25 The absorption of cyclosporine from the GI tract has been found to be incomplete, likely due to first pass effects. 9 Cmax in both the blood and plasma occurs at approximately 3.5 hours post-dose. 22 The C max of a 0.1% cyclosporine ophthalmic emulsion is 0.67 ng/mL after instilling one drop four times daily. 29 A note on erratic absorption During chronic administration, the absorption of Sandimmune Soft Gelatin Capsules and Oral Solution have been observed to be erratic, according to Novartis prescribing information. Those being administered the soft gelatin capsules or oral solution over the long term should be regularly monitored by testing cyclosporine blood concentrations and adjusting the dose accordingly. 22 When compared with the other oral forms of Sandimmune, Neoral capsules and solution have a higher rate of absorption that results in a higher Tmax and a 59% higher Cmax with a 29 % higher bioavailability. 22
+
+## Volume Of Distribution
+
+The distribution of cyclosporine in the blood consists of 33%-47% in plasma, 4%-9% in the lymphocytes, 5%-12% in the granulocytes, and 41%-58% in the erythrocytes. 22 The reported volume of distribution of cyclosporine ranges from 4-8 L/kg. It concentrates mainly in leucocyte-rich tissues as well as tissues that contain high amounts of fat because it is highly lipophilic. 9 Cyclosporine, in the eye drop formulation, crosses the blood-retinal barrier. 5 , 13
+
+## Metabolism
+
+Cyclosporine is metabolized in the intestine and the liver by CYP450 enzymes, predominantly CYP3A4 with contributions from CYP3A5. 2 , 9 The involvement of CYP3A7 is not clearly established. 9 Cyclosporine undergoes several metabolic pathways and about 25 different metabolites have been identified. One of its main active metabolites, AM1, demonstrates only 10-20% activity when compared to the parent drug, according to some studies. 5 , 9 The 3 primary metabolites are M1, M9, and M4N, which are produced from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively. 9 Hover over products below to view reaction partners Cyclosporine Cyclosporine AM-4N + Cyclosporine M-1 (AM-9) + Cyclosporine M-17 (AM-1)
+
+## Route Of Elimination
+
+After sulfate conjugation, cyclosporine remains in the bile where it is broken down to the original compound and then re-absorbed into the circulation. Cyclosporine excretion is primarily biliary with only 3-6% 9 , 22 of the dose (including the parent drug and metabolites) excreted in the urine while 90% of the administered dose is eliminated in the bile. From the excreted proportion, under 1% of the dose is excreted as unchanged cyclosporine. 5 , 22
+
+## Half Life
+
+The half-life of cyclosporine is biphasic and very variable on different conditions but it is reported in general to last 19 hours. 5 Prescribing information also states a terminal half-life of approximately 19 hours, but with a range between 10 to 27 hours. 22
+
+## Clearance
+
+Cyclosporin shows a linear clearance profile that ranges from 0.38 to 3 Lxh/kg 5 , however, there is substantial inter- patient variability. 9 A 250 mg dose of cyclosporine in the oral soft gelatin capsule of a lipid micro-emulsion formulation shows an approximate clearance of 22.5 L/h. 14
+
+## Toxicity
+
+The oral LD50 in rats is 1480 mg/kg and the TDLO in humans is 12 mg/kg. 23 Overdose information In cases of overdose with oral cyclosporine, forced emesis and gastric lavage are recommended 2 hours after ingestion. There are little data available in the literature regarding overdoses with cyclosporine, but hepatotoxicity and nephrotoxicity may occur. 26 One case report of an cyclosporine overdose due to medical error was made involving a 26 year old female and noted the occurrence of nausea, flushing, tremor, vertigo and vomiting, which resolved within about 1 day. Anorexia and a feeling of increased body girth were also experienced by this patient and resolved within about 2 weeks. 14 When overdose with cyclosporine is observed, it is important to consider that dialysis and charcoal, hemoperfusion are not effective techniques to remove cyclosporine from the body. 26

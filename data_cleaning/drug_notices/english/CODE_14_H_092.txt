@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_092
+DCI: Calcifediol
+DrugBank ID: DB00146
+DrugBank Name: Calcifediol
+Brand Names: DEDROGYL
+Pharmaceutical Forms: Solution
+Dosages: 5mcg/gtte.
+Packaging: flacon./10ml
+Laboratories: DESMA PHARMA | 111 AVENUE VICTOR HUGO | 75784 PARIS CEDEX 16
+ATC Classification: A11CC06
+Registration Numbers: 351/14 H 092/97
+Drug Codes: 14 H 092
+
+------------------------------------------------------------
+
+## Description
+
+The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+
+## Pharmacodynamics
+
+Calcidiol is the precursor of vitamin D3. Vitamin D3 is a steroid hormone that has long been known for its important role in regulating body levels of calcium and phosphorus, in mineralization of bone, and for the assimilation of vitamin A. The classical manifestations of vitamin D deficiency is rickets, which is seen in children and results in bony deformaties including bowed long bones. Deficiency in adults leads to the disease osteomalacia. Both rickets and osteomalacia reflect impaired mineralization of newly synthesized bone matrix, and usually result from a combination of inadequate exposure to sunlight and decreased dietary intake of vitamin D. Common causes of vitamin D deficiency include genetic defects in the vitamin D receptor, severe liver or kidney disease, and insufficient exposure to sunlight. Vitamin D plays an important role in maintaining calcium balance and in the regulation of parathyroid hormone (PTH). It promotes renal reabsorption of calcium, increases intestinal absorption of calcium and phosphorus, and increases calcium and phosphorus mobilization from bone to plasma.
+
+## Mechanism Of Action
+
+Vitamin D3 receptor Agonist
+
+## Absorption
+
+Readily absorbed.
+
+## Metabolism
+
+Calcidiol undergoes hydroxylation in the mitochondria of kidney tissue, and this reaction is activated by the renal 25-hydroxyvitamin D3-1-(alpha)-hydroxylase to produce calcitriol (1,25- dihydroxycholecalciferol), the active form of vitamin D3.
+
+## Half Life
+
+288 hours
+
+## Toxicity
+
+Bone pain, constipation (especially in children or adolescents), diarrhea, drowsiness, dryness of mouth; headache (continuing), increased thirst, increase in frequency of urination, especially at night, or in amount of urine, irregular heartbeat, itching skin, loss of appetite, metallic taste, muscle pain, nausea or vomiting (especially in children or adolescents), unusual tiredness or weakness.

@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_053
+DCI: Chlorpromazine
+Brand Names: CHLORPROMAZINE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 25MG
+Packaging: FL/30ML
+Laboratories: RENAUDIN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16D053
+Registration Numbers: 433/16 D 053/23
+Drug Codes: 16 D 053
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

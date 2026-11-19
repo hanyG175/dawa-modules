@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_H_218
+DCI: GEFITINIB 250 mg cp (GEFITINIB ACCORD)
+Brand Names: HAEMATE P
+Pharmaceutical Forms: Poudre
+Dosages: 250ui/1600ui
+Packaging: boite de 1 flacon de poudre + 1 flacon de solvant + un dispositif de transfert 20/20
+ATC Classification: L01EB01
+Registration Numbers: 485/12 H 218/23
+Drug Codes: 12 H 218
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | géfitinib : 250 mg | Modalités d'administration | Voie orale | A avaler ou à dissoudre dans un verre d'eau | Administrer chaque jour à la même heure | Administrer indépendamment de la prise des repas | En cas d'oubli : prendre la dose oubliée si la prise suivante est dans >= 12 h | Possibilité d'administrer par sonde gastrique après dispersion dans l'eau | Possibilité d'administrer par sonde nasogastrique | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | CBNPC localement avancé ou métastatique avec mutations activatrices de l'EGFR-TK | Posologie standard | Dans le cas de : Monothérapie | 250 mg 1 fois par jour
+
+## Precautions
+
+Cardiopathie | Cirrhose hépatique | Femme susceptible d'être enceinte | Grossesse | Indice ECOG >= 2 | Insuffisance hépatique | Insuffisance rénale sévère : clairance de la créatinine = 50% | Métaboliseur lent du CYP2D6 | Métastase intestinale | Pneumopathie interstitielle | Sujet de moins de 18 ans | Sujet de plus de 55 ans | Tabagisme | Traitement par AINS en cours | Traitement par corticoïde en cours | Ulcère gastro-intestinal, antécédent (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Géfitinib : Mécanisme d'action | Le facteur de croissance épidermique (EGF, | Epidermal Growth Factor | ) et son récepteur (EGFR [HER1; ErbB1]) ont été identifiés comme des facteurs importants dans le processus de croissance cellulaire et de prolifération des cellules normales et cancéreuses. La mutation activatrice de l'EGFR dans une cellule cancéreuse est un facteur important dans la croissance de la cellule tumorale : bloquant l'apoptose, elle augmente la production de facteurs angiogéniques et facilite les processus de métastases. | Le géfitinib est une petite molécule inhibitrice sélective de la tyrosine kinase du récepteur du facteur de croissance épidermique. Le gétifinib est efficace sur les tumeurs avec mutations activatrices de la tyrosine kinase de l'EGFR, quelle que soit la ligne de traitement. Aucune activité clinique significative n'a été montrée chez les patients ayant une tumeur sans mutation de l'EGFR.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ALAT (augmentation) (Très fréquent) | - ASAT (augmentation) (Fréquent) | - Protéinurie (Fréquent) | - Créatininémie (augmentation) (Fréquent) | - Bilirubinémie (augmentation) (Fréquent) | DERMATOLOGIE: | - Réaction cutanée (Très fréquent) | - Alopécie (Fréquent) | - Erythrodysesthésie palmoplantaire (Peu fréquent) | - Onychopathie (Fréquent) | - Dermatose bulleuse (Rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Erythème cutané | - Fissure cutanée | - Eruption pustuleuse | - Urticaire | - Acné | - Erythème polymorphe | - Sécheresse cutanée | DIVERS: | - Asthénie (Très fréquent) | - Fièvre (Fréquent) | HÉMATOLOGIE: | - Hémorragie (Fréquent) | HÉPATOLOGIE: | - Hépatite (Peu fréquent) | - Insuffisance hépatique (Cas isolés) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Angioedème | NUTRITION, MÉTABOLISME: | - Anorexie (Très fréquent) | - Déshydratation (Fréquent) | OPHTALMOLOGIE: | - Kératite (Peu fréquent) | - Blépharite (Fréquent) | - Hyposécrétion lacrymale (Fréquent) | - Conjonctivite (Fréquent) | - Erosion cornéenne (Peu fréquent) | - Croissance des cils | ORL, STOMATOLOGIE: | - Sécheresse buccale (Fréquent) | - Stomatite (Très fréquent) | - Epistaxis | SYSTÈME CARDIOVASCULAIRE: | - Vascularite cutanée (Rare) | SYSTÈME DIGESTIF: | - Perforation gastro-intestinale (Peu fréquent) | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Pancréatite (Peu fréquent) | - Vomissement (Très fréquent) | SYSTÈME RESPIRATOIRE: | - Pneumopathie interstitielle (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Cystite (Fréquent) | - Cystite hémorragique (Rare) | - Hématurie

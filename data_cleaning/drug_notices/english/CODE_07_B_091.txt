@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_B_091
+DCI: Minoxidil
+DrugBank ID: DB00350
+DrugBank Name: Minoxidil
+Brand Names: MINOXIDIL NS | MINOXYL 5%
+Pharmaceutical Forms: Sol. App. Locale | Solution
+Dosages: 0.05 | 5% (5g/100ml)
+Packaging: B/1FL. DE 120ML AVEC PULVERISATEUR ET PIPETTE GRADUEE | b/1fl. de 60ml avec pulverisateur et applicateur
+Laboratories: COOPERATION PHARMACEUTIQUE FRANCAISE | PLACE LUCIEN AUVERT | 77020 MELUN CEDEX | PHARMIDAL
+Countries: ALGERIE
+Reference Tariff (DA): 00 DA
+PPA (DA): DA
+Prescription List: Liste II
+ATC Classification: D11AX01
+Registration Numbers: 088/07 B 091/21 | 318/07 B 091/13
+Drug Codes: 07 B 091
+
+------------------------------------------------------------
+
+## Description
+
+A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure.
+
+## Pharmacodynamics
+
+Minoxidil is an orally effective direct acting peripheral vasodilator that reduces elevated systolic and diastolic blood pressure by decreasing peripheral vascular resistance. Minoxidil is also used topically to treat androgenetic alopecia. Microcirculatory blood flow in animals is enhanced or maintained in all systemic vascular beds. In man, forearm and renal vascular resistance decline; forearm blood flow increases while renal blood flow and glomerular filtration rate are preserved. The predominant site of minoxidil action is arterial. Venodilation does not occur with minoxidil; thus, postural hypotension is unusual with its administration. The antihypertensive activity of minoxidil is due to its sulphate metabolite, minoxidil sulfate.
+
+## Mechanism Of Action
+
+ATP-sensitive inward rectifier potassium channel 1 Inducer Prostaglandin G/H synthase 1 Inducer
+
+## Absorption
+
+Minoxidil is at least 90% absorbed from the GI tract in experimental animals and man.
+
+## Metabolism
+
+Approximately 90% of the administered drug is metabolized, predominantly by conjugation with glucuronic acid at the N-oxide position in the pyrimidine ring, but also by conversion to more polar products. Known metabolites exert much less pharmacologic effect than minoxidil itself.
+
+## Half Life
+
+4.2 hours
+
+## Toxicity
+
+Oral LD 50 in rats has ranged from 1321-3492 mg/kg; in mice, 2456-2648 mg/kg. Side effects include cardiovascular effects associated with hypotension such as sudden weight gain, rapid heart beat, faintness or dizziness.

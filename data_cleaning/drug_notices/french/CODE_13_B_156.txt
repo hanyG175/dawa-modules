@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_156
+DCI: CEFALEXINE 250 mg/5 ml pdre p susp buv (KEFORAL) | Cefalexine Monohydratee Exprime En Cefalexine
+Brand Names: CEPHADAR 250 | CEPHALEX | GENICET | KEFORAL | LEXIN | LEXINAL
+Pharmaceutical Forms: Poudre
+Dosages: 250mg/5ml
+Packaging: b/1 flacon de 60ml | flacon de 125 ml marque a 100 ml | flacon/100ml | flacon/100ml de susp apres recons + gobelet doseur
+Laboratories: LABORATOIRE SCIENCEX | 9, RUE NICOLAS CHARLET | 75015 PARIS | FRANCE | Laboratoire SCIENCEX
+ATC Classification: J01DA01
+Registration Numbers: 001/13 B 156/06/24 | 039/13 B 156/18/24 | 055/13 B 156/00/24 | 173/13 B 156/99/19 | 263/13 B 156/98/16 | 480/13 B 156/24
+Drug Codes: 13 B 156
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Elles procèdent de l'activité antibactérienne et des caractéristiques pharmacocinétiques de la céfalexine. Elles tiennent compte à la fois des études cliniques auxquelles a donné lieu le médicament et de sa place dans l'éventail des produits antibactériens actuellement disponibles. | Elles sont limitées aux infections dues aux germes sensibles lorsque ces infections autorisent une antibiothérapie orale et à l'exclusion des localisations méningées, notamment : | les infections ORL : angines documentées à streptocoque A bêta-hémolytique, sinusites, otites ; | les infections respiratoires basses : | surinfections des bronchites aiguës, | exacerbations des bronchites chroniques, | pneumopathies communautaires chez des sujets : sans facteur de risques, sans signe de gravité clinique, en l'absence d'argument faisant craindre une résistance de | Streptococcus pneumoniae | à la pénicilline, en l'absence d'argument évocateur d'une pneumopathie atypique ; | les infections urinaires non compliquées, excepté les prostatites et pyélonéphrites. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.

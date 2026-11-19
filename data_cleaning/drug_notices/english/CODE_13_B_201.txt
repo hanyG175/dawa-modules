@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_201
+DCI: CEFIXIME 200 mg cp (CEFIXIME ARROW LAB)
+DrugBank ID: DB00671
+DrugBank Name: Cefixime
+Brand Names: CEFIKEN | CEFIMAX | OROKAL | OROKEN | WINEX
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 200mg
+Packaging: b/08 | b/08 et b14
+Registration Numbers: 035/13 B 201/18 | 039/13 B 201/16/22 | 173/13 B 201/07/17 | 376/13 B 201/99/14 | 380/13 B 201/21
+Drug Codes: 13 B 201
+
+------------------------------------------------------------
+
+## Description
+
+Bacteria possess a cell wall comprising a glycopeptide polymer commonly known as peptidoglycan, which is synthesized and remodelled through the action of a family of enzymes known as "penicillin-binding proteins" (PBPs). 8 β-lactam antibiotics, including cephalosporins, are PBP inhibitors that, through inhibition of essential PBPs, result in impaired cell wall homeostasis, loss of cell integrity, and ultimately bacterial cell death. 8 , 9 , 10 Cefixime is a broad-spectrum antibiotic and an orally-active third-generation semisynthetic cephalosporin. 3 , 15 , 21 Cephalosporins are beta-lactam antibiotics and can be used to treat gram-positive and gram-negative bacterial infections which include conditions such as skin infections, resistant bacteria, and meningitis. 12 Examples of third-generation cephalosporins are ceftriaxone , cefotaxime , and ceftazidime . 12 Third-generation cephalosporins are often a first-line therapy against certain bacterial infections. 17 However, cefixime is not recommended as a first-line of treatment for uncomplicated urogenital, anorectal, or pharyngeal gonorrhea because cefixime does not provide the same bactericidal effect as ceftriaxone . 24 , 16 Generally, cefixime is used to treat uurinary tract infections, middle ear infections, pharyngitis, tonsillitis, exacerbations of chronic bronchitis, and uncomplicated gonorrhea. 21 The beta-lactam ring of cefixime inhibits bacterial cell wall synthesis by binding to the penicillin-binding proteins which will then result in lysis. 12 , 7 , 6 Specifically, cephalosporins inhibit penicillin-sensitive enzymes responsible for the final 3D structure of the bacterial cell wall which in turn inhibit bacterial cell wall peptidoglycan synthesis. 19 , 20 Additionally, third-generation cephalosporins have been shown to have more stability in the presence of beta-lactamases compared to first- and second-generation cephalosporins. 18 Cefixime was first approved in the United States in 1986. 21
+
+## Pharmacodynamics
+
+Cefixime, a broad-spectrum antibiotic, is an orally-active third-generation semisynthetic cephalosporin. 3 , 21 Like other cephalosporins, the antibacterial action of cefixime results from inhibition of cell wall synthesis. 21 Also like other cephalosporins, cefixime is stable when in the presence of certain beta-lactamase enzymes, which means certain organisms resistant to penicillins and some cephalosporins due to the presence of beta-lactamases could be susceptible to cefixime. 21 Use of cefixime can result in hypersensitivity reactions including anaphylactic/anaphylactoid reactions and Clostridium difficile -associated diarrhea (CDAD); it may also be associated with a fall in prothrombin activity. 21 Cefixime doses should be adjusted for patients that have renal impairment and patients undergoing continuous ambulatory peritoneal dialysis (CAPD) and hemodialysis (HD), while patients on dialysis should be monitored while taking cefixime. 21
+
+## Mechanism Of Action
+
+Penicillin-binding protein (Gram positive and gram negative bacteria) Inhibitor
+
+## Absorption
+
+With oral administration of cefixime, about 40%-50% is absorbed whether administered with or without food. 21 However, time to maximal absorption is increased approximately 0.8 hours when administered with food. 21 Cefixime administered as an single oral 200 mg tablet in healthy male volunteers had a corresponding C max of 3.25 mg/L and a corresponding T max of 4 hours. 13 Administration of cefixime as a 200 mg oral solution in healthy volunteers results in a C max of 3.22 micrograms/mL, while administration of 200 mg and 400 mg cefixime capsules results in a C max of 2.92 micrograms/mL and 4.84 micrograms/mL, respectively. 14 Administration of cefixime as a 200 mg intravenous solution, a 200 mg oral solution, a 200 mg capsule, and 400 mg capsule results in mean areas under the curve (AUC) of 47.0 μg.h/mL, 26.0 μg.h/mL, 23.6 μg.h/mL, and 39.4 μg.h/mL, respectively. 14
+
+## Volume Of Distribution
+
+Cefixime has a volume of distribution averaging 0.1 L/kg of body weight when administered orally. 5
+
+## Metabolism
+
+There is no evidence of metabolism of cefixime in vivo . 21
+
+## Route Of Elimination
+
+Approximately 50% of absorbed cefixime is excreted unchanged in the urine in 24 hours. 21
+
+## Half Life
+
+Cefixime has a serum half-life averaging 3 to 4 hours in healthy subjects and is independent of dosage form. 4 , 21 It has ranged up to 9 hours in some normal volunteers. 21 In individuals with severe renal impairment (5 to 20 mL/min creatinine clearance), the half-life of cefixime increased to an average of 11.5 hours. 21
+
+## Clearance
+
+Cefixime administered as an oral suspension with a dose of 8 mg/kg in children with urinary tract infections aged from 6 to 13 years resulted in a mean apparent total clearance rate of 4.74 ml/min/kg. 11
+
+## Toxicity
+
+Toxicity information specific to cefixime is not conclusive. Symptoms of overdose can include severe vomiting and seizures. 22 As cefixime is a cephalosporin, it may trigger seizures, particularly in patients with renal impairment when the dosage was not reduced. 21 Additionally, patients experiencing an overdose are at an increased risk of severe adverse effects such as diarrhea, nausea, loose stools, abdominal pain, dyspepsia, and vomiting. 21 In case of overdose, no specific antidote exists and this drug is not removed in significant quantities from the circulation by hemodialysis or peritoneal dialysis; however, gastric lavage may be indicated. 21 Symptomatic and supportive measures are recommended. Animal studies revealed an oral LD 50 greater than 10g/kg in rats. 23

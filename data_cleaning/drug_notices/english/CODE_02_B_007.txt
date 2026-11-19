@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_007
+DCI: Isoflurane
+DrugBank ID: DB00753
+DrugBank Name: Isoflurane
+Brand Names: AERRANE | FORENE
+Pharmaceutical Forms: Liquide. P. Inhal. Par Vapeur
+Dosages: 100ml/100ml | 100ml/100ml-250ml/250ml
+Packaging: b/01fl. de 100 ml | carton de 06 flacon. de 100ml et carton de 06 flacon. de 250ml
+Registration Numbers: 298/02 B 007/12 | 498/02 B 007/99/16
+Drug Codes: 02 B 007
+
+------------------------------------------------------------
+
+## Description
+
+A stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
+
+## Pharmacodynamics
+
+Isoflurane is a general inhalation anesthetic used for induction and maintenance of general anesthesia. It induces muscle relaxation and reduces pains sensitivity by altering tissue excitability. It does so by decreasing the extent of gap junction mediated cell-cell coupling and altering the activity of the channels that underlie the action potential.
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit alpha-1 Agonist Calcium-transporting ATPase type 2C member 1 Inhibitor Glycine receptor subunit alpha-1 Agonist + 3 more targets
+
+## Metabolism
+
+Minimal
+
+## Toxicity
+
+LC50=15300 ppm/3 hrs (inhalation by rat)

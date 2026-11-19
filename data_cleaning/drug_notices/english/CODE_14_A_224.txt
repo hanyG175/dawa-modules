@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_224
+DCI: METFORMINE CHLORHYDRATE 1 000 mg cp (METFORMINE ACCORD)
+DrugBank ID: DB00331
+DrugBank Name: Metformin
+Brand Names: DIABAMINE BGL | DIAGUANID | FORMENTIN | GLUCOFORMINE | GLUCOMEX | GLUCOPHAGE | METFORAL 1000 | NEXECOR | NOVOFORMINE | PHYSIOPHORMINE
+Pharmaceutical Forms: Comprimé
+Dosages: 1000mg
+Packaging: b/30 | b/30 et b/100 | b/30 et b/60 | b/30 et b/60 et b/90 | b/90
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BA - BIGUANIDES | A10BA02 - METFORMINE
+Registration Numbers: 003/14 A 224/14/24 | 062/14 A 224/07/23 | 235/14 A 224/14 | 293/14 A 224/16 | 367/14 A 224/15 | 368/14 A 224/10/16 | 380/14 A 224/14 | 400/14 A 224/16 | 447/14 A 224/12 | 462/14 A 224/13
+Drug Codes: 14 A 224
+
+------------------------------------------------------------
+
+## Description
+
+Metformin is a biguanide antihyperglycemic agent and first-line pharmacotherapy used in the management of type II diabetes. 23 , 14 Metformin is considered an antihyperglycemic drug because it lowers blood glucose concentrations in type II diabetes without causing hypoglycemia. It is commonly described as an "insulin sensitizer", leading to a decrease in insulin resistance and a clinically significant reduction of plasma fasting insulin levels. 14 Another well-known benefit of this drug is modest weight loss, making it an effective choice for obese patients type II diabetes. 12 Metformin was first approved in Canada in 1972, 8 and received subsequent FDA approval in the US in 1995. 23
+
+## Pharmacodynamics
+
+General effects Insulin is an important hormone that regulates blood glucose levels. 19 Type II diabetes is characterized by a decrease in sensitivity to insulin, resulting in elevations in blood glucose when the pancreas can no longer compensate. In patients diagnosed with type 2 diabetes, insulin is unable to exert adequate effects on tissues and cells (i.e. insulin resistance) 19 and insulin deficiency may also be present. 21 Metformin reduces hepatic production of glucose, decreases the intestinal absorption of glucose, and enhances insulin sensitivity by increasing both peripheral glucose uptake and utilization. In contrast with drugs of the sulfonylurea class, which lead to hyperinsulinemia, the secretion of insulin is unchanged with metformin use. 23 Effect on fasting plasma glucose (FPG) and Glycosylated hemoglobin (HbA1c) HbA1c is an important periodic measure of glycemic control used to monitor diabetic patients. Fasting plasma glucose is also a useful and important measure of glycemic control. In a 29-week clinical trial of subjects diagnosed with type II diabetes, metformin decreased the fasting plasma glucose levels by an average of 59 mg/dL from baseline, compared to an average increase of 6.3 mg/dL from baseline in subjects taking a placebo. 23 Glycosylated hemoglobin (HbA1c) was decreased by about 1.4% in subjects receiving metformin, and increased by 0.4% in subjects receiving placebo only. 23
+
+## Mechanism Of Action
+
+Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial Inhibitor 5'-AMP-activated protein kinase subunit beta-1 Inducer Activator
+
+## Absorption
+
+Regular tablet absorption The absolute bioavailability of a metformin 500 mg tablet administered in the fasting state is about 50%-60%. Single-dose clinical studies using oral doses of metformin 500 to 1500 mg and 850 to 2550 mg show that there is a lack of dose proportionality with an increase in metformin dose, attributed to decreased absorption rather than changes in elimination. 24 At usual clinical doses and dosing schedules of metformin, steady-state plasma concentrations of metformin are achieved within 24-48 hours and are normally measured at <1 μg/mL. 24 Extended-release tablet absorption After a single oral dose of metformin extended-release, Cmax is reached with a median value of 7 hours and a range of between 4 and 8 hours. Peak plasma levels are measured to be about 20% lower compared to the same dose of regular metformin, however, the extent of absorption of both forms (as measured by area under the curve - AUC), are similar. 23 Effect of food Food reduces the absorption of metformin, as demonstrated by about a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute increase in time to peak plasma concentration (Tmax) after ingestion of an 850 mg tablet of metformin taken with food, compared to the same dose administered during fasting. 24 Though the extent of metformin absorption (measured by the area under the curve - AUC) from the metformin extended-release tablet is increased by about 50% when given with food, no effect of food on Cmax and Tmax of metformin is observed. High and low-fat meals exert similar effects on the pharmacokinetics of extended-release metformin. 23
+
+## Volume Of Distribution
+
+The apparent volume of distribution (V/F) of metformin after one oral dose of metformin 850 mg averaged at 654 ± 358 L. 24
+
+## Metabolism
+
+Intravenous studies using a single dose of metformin in normal subjects show that metformin is excreted as unchanged drug in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion. 24
+
+## Route Of Elimination
+
+This drug is substantially excreted by the kidney. 24 Renal clearance of metformin is about 3.5 times higher than creatinine clearance, which shows that renal tubular secretion is the major route of metformin elimination. After oral administration, about 90% of absorbed metformin is eliminated by the kidneys within the first 24 hours post-ingestion. 24
+
+## Half Life
+
+The plasma elimination half-life of metformin is 6.2 hours in the plasma. 24 The elimination half-life in the blood is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution. 24
+
+## Clearance
+
+Renal clearance is about 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination. Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours. 24
+
+## Toxicity
+
+Metformin (hydrochloride) toxicity data : Oral LD50 (rat): 1 g/kg; Intraperitoneal LD50 (rat): 500 mg/kg; Subcutaneous LD50 (rat): 300 mg/kg; Oral LD50 (mouse): 1450 mg/kg; Intraperitoneal LD50 (mouse): 420 mg/kg; Subcutaneous LD50 (mouse): 225 mg/kg. 34 , 36 A note on lactic acidosis Metformin decreases liver uptake of lactate, thereby increasing lactate blood levels which may increase the risk of lactic acidosis. 24 There have been reported postmarketing cases of metformin-associated lactic acidosis, including some fatal cases. Such cases had a subtle onset and were accompanied by nonspecific symptoms including malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence. In certain cases, hypotension and resistant bradyarrhythmias have occurred with severe lactic acidosis. 24 Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), as well as an increased lactate:pyruvate ratio; metformin plasma levels were generally >5 mcg/mL. 24 Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, and hepatic impairment. 24 A note on renal function In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased. 24 Metformin should be avoided in those with severely compromised renal function (creatinine clearance < 30 ml/min), acute/decompensated heart failure, severe liver disease and for 48 hours after the use of iodinated contrast dyes due to the risk of lactic acidosis. 24 Lower doses should be used in the elderly and those with decreased renal function. Metformin decreases fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Metformin may also have a positive effect on lipid levels. A note on hypoglycemia When used alone, metformin does not cause hypoglycemia, however, it may potentiate the hypoglycemic effects of sulfonylureas and insulin when they are used together. 24 Use in pregnancy Available data from post-marketing studies have not indicated a clear association of metformin with major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was ingested during pregnancy. Despite this, the abovementioned studies cannot definitively establish the absence of any metformin-associated risk due to methodological limitations, including small sample size and inconsistent study groups. 24 Use in nursing A limited number of published studies indicate that metformin is present in human milk. There is insufficient information to confirm the effects of metformin on the nursing infant and no available data on the effects of metformin on the production of milk. The developmental and health benefits of breastfeeding should be considered as well as the mother’s clinical need for metformin and any possible adverse effects on the nursing child. 24

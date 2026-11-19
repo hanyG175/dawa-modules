@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_141
+DCI: Ketoconazole
+DrugBank ID: DB01026
+DrugBank Name: Ketoconazole
+Brand Names: KETOCONAZOLE NOVAGENERICS
+Pharmaceutical Forms: Shampoing
+Dosages: 0,02
+Packaging: FL/100ML
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 458,00 DA
+PPA (DA): 458,00 DA
+Prescription List: Liste I
+ATC Classification: 07D141
+Registration Numbers: 088/07 D 141/21 | 149/07 D 141/18/24 | 173/07 D 141/07/22 | 406/07 D 141/13
+Drug Codes: 07 D 141
+
+------------------------------------------------------------
+
+## Description
+
+Ketoconazole is an imidazole antifungal agent used in the prevention and treatment of a variety of fungal infections. Label It functions by preventing the synthesis of ergosterol, the fungal equivalent of cholesterol, thereby increasing membrane fluidity and preventing growth of the fungus. 5 , 11 Ketoconazole was first approved in an oral formulation for systemic use by the FDA in 1981. 9 At this time it was considered a significant improvement over previous antifungals, miconazole and clotrimazole , due to its broad spectrum and good absorption. However, it was discovered that ketoconazole produces frequent gastrointestinal side effects and dose-related hepatitis. 9 , 10 These effects combined with waning efficacy led to its eventual replacement by triazole agents, fluconazole , itraconazole , voriconazole , and posaconazole . Ketoconazole and its predecessor clotrimazole continue to be used in topical formulations.
+
+## Pharmacodynamics
+
+Ketoconazole, similarly to other azole antifungals, is a fungistatic agent which causes growth arrest in fungal cells thereby preventing growth and spread of the fungus throughout the body. 11
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase Inhibitor Steroid 17-alpha-hydroxylase/17,20 lyase Inhibitor
+
+## Absorption
+
+Ketoconazole requires an acidic environment to become soluble in water. 6 At pH values above 3 it becomes increasingly insoluble with about 10% entering solution in 1 h. At pH less than 3 dissolution is 85% complete in 5 min and entirely complete within 30 min. A single 200 mg oral dose produces a Cmax of 2.5-3 mcg/mL with a Tmax of 1-4 h. 5 , 13 Administering ketoconazole with food consistently increases Cmax and delays Tmax but literature is contradictory regarding the effect on AUC, which may experience a small decrease. 5 , 6 A bioavailablity of 76% has been reported for ketoconazole. 5
+
+## Volume Of Distribution
+
+Ketoconazole has an estimated volume of distribution of 25.41 L or 0.36 L/kg. 5 It distributes widely among the tissues, reaching effective concentrations in the skin, tendons, tears, and saliva. 6 Distribution to vaginal tissue produces concentrations 2.4 times lower than plasma. Penetration into the CNS, bone, and seminal fluid are minimal. Ketoconazole has been found to enter the breast milk and cross the placenta in animal studies. 5
+
+## Metabolism
+
+The major metabolite of ketoconazole appears to be M2, an end product resulting from oxidation of the imidazole moiety. 8 CYP3A4 is known to be the primary contributor to this reaction with some contribution from CYP2D6. Other metabolites resulting from CYP3A4 mediated oxidation of the imidazole moiety include M3, M4, and M5. Ketoconazole may also undergo N-deacetylation to M14, , alkyl oxidation to M7, N-oxidation to M13, or aromatic hydroxylation to M8, or hydroxylation to M9. M9 may further undergo oxidation of the hydroxyl to form M12, N-dealkylation to form M10 with a subsequent N-dealkylation to M15, or may form an iminium ion. No metabolites are known to be active however oxidation metabolites of M14 have been implicated in cytotoxicity. Hover over products below to view reaction partners Ketoconazole M13 (Ketoconazole) M14 (Ketoconazole) M7 (Ketoconazole) M8 (Ketoconazole) M6 (Ketoconazole) M9 (Ketoconazole) M10 (Ketoconazole) M15 (Ketoconazole) Ketoconazole iminium ion M12 (Ketoconazole) Ketoconazole epoxide intermediate Ketoconazole dihydroxyl intermediate M3 (Ketoconazole) M4 (Ketoconazole) M5' (Ketoconazole) Ketoconazole ketone intermediate Ketoconazole ketone hydroxyl intermediate M5 (Ketoconazole) M2 (Ketoconazole)
+
+## Route Of Elimination
+
+Only 2-4% of the ketoconazole dose is eliminated unchanged in the urine. 5 Over 95% is eliminated through hepatic metabolism.
+
+## Half Life
+
+Ketoconazole experiences biphasic elimination with the first phase having a half-life of 2 hours and a terminal half life of 8 hours. 5
+
+## Clearance
+
+Ketoconazole has an estimated clearance of 8.66 L/h. 5
+
+## Toxicity
+
+Symptoms of overdose include acute liver injury, which may include both hepatocellular and cholestatic injury, accompanied by anorexia, fatigue, nausea, and jaundice. 14 , 7 In case of overdose, gastric lavage with activated charcoal may be used if within one hour of ketoconazole ingestion otherwise provide supportive care. Label , 12 If the patient shows signs of adrenal insufficiency, administer 100 mg hydrocortisone once together with saline and glucose infusion and monitor the patient closely. Blood pressure and fluid and electrolyte balance should be monitored over the next few days. 12

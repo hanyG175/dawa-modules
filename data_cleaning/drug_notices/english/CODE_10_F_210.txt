@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_210
+DCI: Dimenhydrinate
+DrugBank ID: DB00985
+DrugBank Name: Dimenhydrinate
+Brand Names: VOVAMINE
+Pharmaceutical Forms: Comprimpe Secable
+Dosages: 50 mg
+Packaging: b/20
+Registration Numbers: 348/10 F 210/19
+Drug Codes: 10 F 210
+
+------------------------------------------------------------
+
+## Description
+
+Dimehydrinate was first described in the literature in 1949, 5 and patented in 1950. 11 Early research into dimenhydrinate focused on its role as an antihistamine for urticaria; the treatment of motion sickness was an accidental discovery. 7 Dimenhydrinate, also known as B-dimethylaminoethyl benzohydrol ether 8-chlorotheophyllinate, is indicated to prevent nausea, vomiting, and dizziness caused by motion sickness. 9 , 10 , 11 Dimenhydrinate is a combination of Diphenhydramine and 8-chlorotheophylline in a salt form, with 53%-55.5% dried diphenhydramine, and 44%-47% died 8-chlorotheophylline. 10 The antiemetic properties of dimenhydrinate are primarily thought to be produced by diphenhydramine's antagonism of H1 histamine receptors in the vestibular system 2 while the excitatory effects are thought to be produced by 8-chlorotheophylline's adenosine receptor blockade. 3 When used in large doses, dimenhydrinate has been shown to cause a "high" characterized by hallucinations, excitement, incoordination, and disorientation. 1 Dimenhydrinate was granted FDA approval on 31 May 1972. 8
+
+## Pharmacodynamics
+
+Dimenhydrinate is indicated for the prevention and treatment of nausea, vomiting, or vertigo of motion sickness. 9 , 10 It has a short duration of action of 4-8 hours. 4 Patients should be counselled regarding pronounced drowsiness, avoiding alcohol and other sedatives, and exercising caution when operating a motor vehicle or heavy machinery. 9
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+A 50 mg oral film coated tablet reaches a C max of 72.6 ng/mL with a T max of 2.7 hours. 12 A 100 mg suppository reaches a C max of 112.2 ng/mL with a T max of 5.3 hours. 13
+
+## Volume Of Distribution
+
+The volume of distribution of dimenhydrinate is 3-4 L/kg. 12
+
+## Metabolism
+
+Dimenhydrinate is a theoclate salt that separates into diphenhydramine and 8-chlorotheophylline . 10 diphenhydramine can either be N-glucuronidated by UGTs to diphenhydramine N-glucuronide or N-demethylated by CYP2D6, CYP1A2, CYP2C9, and CYP2C19 to N-desmethyldiphenhydramine. 6 N-desmethyldiphenhydramine can be N-demethylated again by the same enzymes to N,N-didesmethyldiphenhydramine, which undergoes oxidative deamination to form diphenylmethoxyacetic acid. 6 Hover over products below to view reaction partners Dimenhydrinate 8-chlorotheophylline + Diphenhydramine N-Desmethyldiphenhydramine N,N-Didesmethyldiphenhydramine Diphenylmethoxyacetic acid Diphenhydramine N-glucuronide
+
+## Route Of Elimination
+
+Dimenhydrinate is predominantly eliminated in the urine. 12 1-3% of the dissociated diphenhydramine is eliminated in the urine unchanged, while 64% of diphenhydramine is eliminated in the urine as metabolites. 13 The elimination of dimenhydrinate has not been fully studied. 13
+
+## Half Life
+
+The plasma elimination half life of dimenhydrinate is 5-8 hours. 12
+
+## Toxicity
+
+Infants and children experiencing an overdose may lead to hallucinations, convulsions, or death. 10 Adults experiencing an overdose may present with drowsiness, convulsions, coma, or respiratory depression. 10 Treat overdoses with symptomatic and supportive measures including mechanically assisted ventilation. 10 In mice the oral LD 50 is 203 mg/kg, while in rats it is 1320 mg/kg. 10 The intraperitoneal LD 50 in mice is 149 mg/kg. 10

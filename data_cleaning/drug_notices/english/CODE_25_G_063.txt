@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_G_063
+DCI: Glucose Anhydre (Sous Forme Monohydratee)/Sodium Chlorure/Calcium Chlorure Dihydrate/Magnesium Chlorure Hexahydrate/Sodium Lactate
+DrugBank ID: DB01914
+DrugBank Name: D-glucose
+Brand Names: DIANEAL PDA 1,36%
+Pharmaceutical Forms: Sol. P. Dialyse Peritoneale
+Dosages: 13.6g/l (1.36%)de glucose anhydre . 15g/l de glucose mononhydrate/ (5.38g/0.184/g/0.051g/4.480g)/l soit 132mmole de sodium/1.25mmole de calcium/0.25mmole de magnesium/95.00 mole de chlorure/40mmole de lactate)/l
+Packaging: poche flexible (système ii connexion a vis luer) viaflex pvc de formule pl 146-3 carton de 05 poches simples de 2000ml.carton de 02 poches simple de 5000ml - carton de 05 poches doubles de 2000ml .
+Registration Numbers: 298/25 G 063/12
+Drug Codes: 25 G 063
+
+------------------------------------------------------------
+
+## Description
+
+Glucose is a simple sugar (monosaccharide) generated during phosynthesis involving water, carbon and sunlight in plants. It is produced in humans via hepatic gluconeogenesis and breakdown of polymeric glucose forms (glycogenolysis). It circulates in human circulation as blood glucose and acts as an essential energy source for many organisms through aerobic or anaerobic respiration and fermentation. 2 It is primarily stored as starch in plants and glycogen in animals to be used in various metabolic processes in the cellular level. Its aldohexose stereoisomer, dextrose or D-glucose, is the most commonly occurring isomer of glucose in nature. L-glucose is a synthesized enantiomer that is used as a low-calorie sweetener and laxative. 10 The unspecified form of glucose is commonly supplied as an injection for nutritional supplementation or metabolic disorders where glucose levels are improperly regulated. 12 Glucose is listed on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system.
+
+## Pharmacodynamics
+
+Blood glucose is an obligatory energy source for humans involved in various cellular activities, and it also acts as a signaling molecule for diverse glucose-sensing molecules and proteins. Glucose undergoes oxidation into carbon dioxide, water, and yields energy molecules in the process of glycolysis and subsequent citric cycle and oxidative phosphorylation. 6 Glucose is readily converted into fat in the body which can be used as a source of energy as required. Under a similar conversion into storage of energy, glucose is stored in the liver and muscles as glycogen. 11 Glucose stores are mobilized in a regulated manner, depending on the tissues' metabolic demands. Oral glucose tablets or injections serve to increase the supply of glucose and oral glucose administration is more effective in stimulating insulin secretion because it stimulates the incretin hormones from the gut, which promotes insulin secretion. 10
+
+## Mechanism Of Action
+
+Glucose supplies most of the energy to all tissues by generating energy molecules ATP and NADH during a series of metabolism reactions called glycolysis. Glycolysis can be divided into two main phases where the preparatory phase is initiated by the phosphorylation of glucose by hexokinase to form glucose 6-phosphate. 5 The addition of the high-energy phosphate group activates glucose for the subsequent breakdown in later steps of glycolysis and is the rate-limiting step. Products end up as substrates for following reactions, to ultimately convert C6 glucose molecule into two C3 sugar molecules. These products enter the energy-releasing phase where the total of 4ATP and 2NADH molecules are generated per one glucose molecule. The total aerobic metabolism of glucose can produce up to 36 ATP molecules. These energy-producing reactions of glucose are limited to D-glucose as L-glucose cannot be phosphorylated by hexokinase. 11 Glucose can act as precursors to generate other biomolecules such as vitamin C. It plays a role as a signaling molecule to control glucose and energy homeostasis. Glucose can regulate gene transcription, enzyme activity, hormone secretion, and the activity of glucoregulatory neurons. The types, number, and kinetics of glucose transporters expressed depends on the tissues and fine-tunes glucose uptake, metabolism, and signal generation to preserve cellular and whole body metabolic integrity. 4
+
+## Absorption
+
+Polysaccharides can be broken down into smaller units by pancreatic and intestinal glycosidases or intestinal flora. Sodium-dependent glucose transporter SGLT1 and GLUT2 (SLC2A2) play predominant roles in intestinal transport of glucose into the circulation. 1 SGLT1 is located in the apical membrane of the intestinal wall while GLUT2 is located in the basolateral membrane, but it was proposed that GLUT2 can be recruited into the apical membrane after a high luminal glucose bolus allowing bulk absorption of glucose by facilitated diffusion. 3 Oral preparation of glucose reaches the peak concentration within 40 minutes and the intravenous infusions display 100% bioavailability. 6
+
+## Volume Of Distribution
+
+The mean volume of distribution after intravenous infusion is 10.6L. 7
+
+## Metabolism
+
+Glucose can undergo aerobic oxidation in conjunction with the synthesis of energy molecules. Glycolysis is the initial stage of glucose metabolism where one glucose molecule is degraded into two molecules of pyruvate via substrate-level phosphorylation. These products are transported to the mitochondria where they are further oxidized into oxygen and carbon dioxide. 5 Hover over products below to view reaction partners D-glucose Glucose-6-phosphate
+
+## Route Of Elimination
+
+Glucose can be renally excreted. 8
+
+## Half Life
+
+The approximate half-life is 14.3 minutes following intravenous infusion. Gut glucose half-life was markedly higher in females (79 ± 2 min) than in males (65 ± 3 min, P < 0.0001) and negatively related to body height (r = -0.481; P < 0.0001). 7
+
+## Clearance
+
+The mean metabolic clearance rate of glucose (MCR) for the 10 subjects studied at the higher insulin level was 2.27 ± 0.37 ml/kg/min at euglycemia and fell to 1.51±0.21 ml/kg/ at hyperglycemia. The mean MCR for the six subjects studied at the lower insulin level was 1.91 ± 0.31 ml/kg/min at euglycemia. 8
+
+## Toxicity
+
+Oral LD50 value in rats is 25800mg/kg. The administration of glucose infusions can cause fluid and solute overloading resulting in dilution of the serum electrolyte concentrations, overhydration, congested states, or pulmonary edema. Hypersensitivity reactions may also occur including anaphylactic/anaphylactoid reactions from oral tablets and intravenous infusions. 12

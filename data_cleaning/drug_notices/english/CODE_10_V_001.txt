@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_V_001
+DCI: Tribenoside/Lidocaine
+DrugBank ID: DB13227
+DrugBank Name: Tribenoside
+Brand Names: PROCTOLON NEO
+Pharmaceutical Forms: Suppositoireositoire
+Dosages: 400mg/40mg
+Packaging: b/08
+Registration Numbers: 231/10 V 001/24
+Drug Codes: 10 V 001
+
+------------------------------------------------------------
+
+## Description
+
+Anti-inflammatory agent used in edema of extremities, varicose veins & phlebitis.

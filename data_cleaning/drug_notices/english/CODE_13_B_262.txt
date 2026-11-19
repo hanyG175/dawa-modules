@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_262
+DCI: Cefaclor | Cefaclor Monohydrate
+DrugBank ID: DB00833
+DrugBank Name: Cefaclor
+Brand Names: CLORACEF FORTE | CLORAFAL | DICEF | TABICLOR
+Pharmaceutical Forms: Gélule
+Dosages: 500mg
+Packaging: b/15 | b/16
+Registration Numbers: 001/13 B 262/03/18 | 039/13 B 262/18/25 | 055/13 B 262/09/23 | 173/13 B 262/03/17
+Drug Codes: 13 B 262
+
+------------------------------------------------------------
+
+## Description
+
+Semisynthetic, broad-spectrum antibiotic derivative of cephalexin.
+
+## Pharmacodynamics
+
+Cefaclor is a second generation cephalosporin antibiotic with a spectrum resembling first-generation cephalosporins. In vitro tests demonstrate that the bactericidal action of the cephalosporins results from inhibition of cell-wall synthesis. As indicated by in vitro and in vivo clinical studies, cefaclor was shown to be effective against most strains of Gram positive aerobes - Staphylococci (including coagulase-positive, coagulase-negative, and penicillinase-producing strains), Streptococcus pneumoniae , Streptococcus pyogenes (group A ß-hemolytic streptococci), as well as Gram-negative aerobes - Escherichia coli , Haemophilus influenzae (including ß-lactamase-producing ampicillin-resistant strains), Klebsiella sp , and Proteus mirabilis .
+
+## Mechanism Of Action
+
+serine-type D-Ala-D-Ala carboxypeptidase (Streptococcus pneumoniae) Inhibitor Penicillin-binding protein 1A (Clostridium perfringens (strain 13 / Type A)) Inhibitor
+
+## Absorption
+
+Well absorbed after oral administration, independent of food intake.
+
+## Metabolism
+
+No appreciable biotransformation in liver (approximately 60% to 85% of the drug is excreted unchanged in the urine within 8 hours).
+
+## Route Of Elimination
+
+Approximately 60% to 85% of the drug is excreted unchanged in the urine within 8 hours, the greater portion being excreted within the first 2 hours.
+
+## Toxicity
+
+Symptoms of overdose include diarrhea, nausea, stomach upset, and vomiting.

@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_135
+DCI: Complexe D'Hydroxide Ferrique-Saccharose | drosera [H] | facteur II humain
+Brand Names: ENCIFER | FEROMAX | RAZIFER | VENOFER | VIVFER
+Pharmaceutical Forms: Sol. Inj (I.M/I.V) | Solotion Injectable Pour Perfusion Iv Ou Injection Dans Le Dialyseur | Solution
+Dosages: 20mg/ml (100mg/5ml)
+Packaging: b/01fl. de 5ml | b/05 ampoule de 5ml
+Laboratories: VIFOR FRANCE | 100-101 TERRASSE BOIELDIEU | TOUR FRANKLIN LA DÉFENSE 8 | 92042 PARIS LA DÉFENSE CEDEX
+Registration Numbers: 329/12 E 135/13/24 | 393/12 E 135/07/14 | 433/12 E 135/15/25 | 471/12 E 135/13 | 543/12 E 135/20
+Drug Codes: 12 E 135
+
+------------------------------------------------------------
+
+## Conservation
+
+name: CONFIDEX 1000 UI Pdre/solv p sol inj Fl/40ml+Disp
+conservation: Cip : 3400958516139 Modalités de conservation : Avant ouverture : < 25° durant 36 mois (Conserver à l'abri de la lumière, Conserver dans son emballage, Ne pas congeler)

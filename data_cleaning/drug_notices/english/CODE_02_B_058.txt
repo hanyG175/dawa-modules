@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_058
+DCI: ETOMIDATE 2 mg/ml sol inj (HYPNOMIDATE)
+DrugBank ID: DB00292
+DrugBank Name: Etomidate
+Brand Names: HYPNOMIDATE
+Pharmaceutical Forms: Solution
+Dosages: 2mg/ml
+Packaging: b/05 ampoule de 10ml
+ATC Classification: N - SYSTEME NERVEUX | N01 - ANESTHESIQUES | N01A - ANESTHESIQUES GENERAUX | N01AX - AUTRES ANESTHESIQUES GENERAUX | N01AX07 - ETOMIDATE
+Registration Numbers: 616/02 B 058/08/24
+Drug Codes: 02 B 058
+
+------------------------------------------------------------
+
+## Description
+
+Imidazole derivative anesthetic and hypnotic with little effect on blood gases, ventilation, or the cardiovascular system. It has been proposed as an induction anesthetic.
+
+## Pharmacodynamics
+
+Etomidate is a non-barbiturate hypnotic that acts at the level of the reticular-activating system to produce anesthesia. Etomidate is an imidazole compound that appears to depress CNS function via GABA. Duration of action is intermediate between thiopental and methohexital, and recovery from a single dose is rapid with little residual depression. Like the barbiturates and propofol, etomidate is does not induce analgesia. Etomidate induces unconsciousness within one circulation time. Recovery is rapid as a result of extensive redistribution and rapid metabolism.
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit alpha-1 Agonist Alpha-2B adrenergic receptor Agonist GABA(A) Receptor Positive allosteric modulator
+
+## Metabolism
+
+Hepatic. Metabolized rapidly by ester hydrolysis to inactive metabolites.
+
+## Route Of Elimination
+
+Approximately 75% of the administered dose is excreted in the urine during the first day after injection.
+
+## Half Life
+
+75 minutes.
+
+## Toxicity
+
+Undesirable side effects of etomidate that may limit its use include pain on injection, myoclonus and adrenocortical suppression lasting 4-6 hours following an induction dose.

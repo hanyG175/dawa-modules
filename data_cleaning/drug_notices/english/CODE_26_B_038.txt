@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_038
+DCI: ETHANOL 70 % sol p appl cut (ALCOOL MODIFIE GIFRER)
+DrugBank ID: DB00898
+DrugBank Name: Ethanol
+Brand Names: ALCOOL CHIRURGICAL 70°
+Pharmaceutical Forms: Sol Pour Applic Locale | Sol. Usage Externe
+Dosages: 70°
+Packaging: flacon de 1l | flacon./100ml
+Registration Numbers: 088/26 B 038/03 | 234/26 B 038/02 | 464/26 B 038/10/23
+Drug Codes: 26 B 038
+
+------------------------------------------------------------
+
+## Description
+
+A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+
+## Pharmacodynamics
+
+Alcohol produces injury to cells by dehydration and precipitation of the cytoplasm or protoplasm. This accounts for its bacteriocidal and antifungal action. When alcohol is injected in close proximity to nerve tissues, it produces neuritis and nerve degeneration (neurolysis). Ninety to 98% of ethanol that enters the body is completely oxidized. Ethanol is also used as a cosolvent to dissolve many insoluble drugs and to serve as a mild sedative in some medicinal formulations. Ethanol also binds to GABA, glycine, NMDA receptors and modulates their effects. Ethanol is also metabolised by the hepatic enzyme alcohol dehydrogenase.
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid receptor subunit alpha-1 Agonist Glutamate receptor ionotropic, NMDA 3A Antagonist Glycine receptor subunit alpha-1 Agonist + 5 more targets
+
+## Absorption
+
+Rapidly absorbed.
+
+## Metabolism
+
+Hepatic. Metabolized by cytochrome P450 enzyme CYP2E1. Hover over products below to view reaction partners Ethanol acetaldehyde Ethyl glucuronide
+
+## Toxicity
+
+Oral, rat LD 50 : 5628 mg/kg. Symptoms and effects of overdose include nausea, vomiting, CNS depression, acute respiratory failure or death and with chronic use, severe health problems, such as liver and brain damage.

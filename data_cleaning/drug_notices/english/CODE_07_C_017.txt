@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_C_017
+DCI: Acide Fusidique
+DrugBank ID: DB02703
+DrugBank Name: Fusidic acid
+Brand Names: ACFUSID | ACIFUDAL | ALFUCINE | ZETA
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.02
+Packaging: t/15g
+Registration Numbers: 003/07 C 017/08/25 | 088/07 C 017/22 | 149/07 C 017/18 | 352/07 C 017/06/22
+Drug Codes: 07 C 017
+
+------------------------------------------------------------
+
+## Description
+
+An antibiotic isolated from the fermentation broth of Fusidium coccineum. (From Merck Index, 11th ed) It acts by inhibiting translocation during protein synthesis. It is often used topically in creams and eyedrops but is available in systemic formulations including tablets and injections.
+
+## Pharmacodynamics
+
+Fusidic acid is a bacteriostatic antibiotic and helps prevent bacterial growth while the immune system clears the infection.
+
+## Mechanism Of Action
+
+Elongation factor G (Thermus thermophilus) Inhibitor
+
+## Absorption
+
+Sodium fusidic acid tablets have a 91% oral bioavailability. Absorption of the film-coated tablets is complete when compared to a solution, however oral absorption is variable. Oral fusidic acid hemihydrate (suspension) achieved a 22.5% bioavailability in pediatric patients following a 20 milligram/kilogram dose.
+
+## Metabolism
+
+Metabolites include dicarboxylic ester/acid, 3-keto fusidic acid, hydroxy fusidic acid, glucuronide fusidic acid and a glycol metabolite. Hover over products below to view reaction partners Fusidic acid Malonic acid 3-keto fusidic acid Dicarboxylic ester Glucuronide fusidic acid Hydroxy fusidic acid
+
+## Half Life
+
+Approximately 5 to 6 hours in adults.

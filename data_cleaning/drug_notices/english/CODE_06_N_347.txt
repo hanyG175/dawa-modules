@@ -1,0 +1,51 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_N_347
+DCI: Riociguat
+DrugBank ID: DB08931
+DrugBank Name: Riociguat
+Brand Names: ADEMPAS
+Pharmaceutical Forms: Comrime Pellicule
+Dosages: 0.5mg
+Packaging: b/42
+Registration Numbers: 424/06 N 347/24
+Drug Codes: 06 N 347
+
+------------------------------------------------------------
+
+## Indications
+
+Riociguat is indicated for the treatment of adults with persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH), (WHO Group 4) after surgical treatment, or inoperable CTEPH, to improve exercise capacity and WHO functional class.
+
+## Mechanism Of Action
+
+Guanylate cyclase soluble subunit alpha-2 Agonist Stimulator
+
+## Absorption
+
+The pharmacokinetics of riociguant are dose proportional from 0.5 mg to 2.5 mg. The absolute bioavailability is approximately 94%. After oral administration, peak plasma concentrations were achieved within 1.5 hours. Food does not affect the bioavailability of riociguat.
+
+## Volume Of Distribution
+
+Volume of distribution at steady state = 30 L
+
+## Metabolism
+
+The active metabolite (M1) of riociguat is 1/3 to 1/10 as potent as riociguat.
+
+## Route Of Elimination
+
+Riociguat is eliminated in the urine (40%) and feces (53%), largely as metabolites.
+
+## Half Life
+
+About 12 hours in patients and 7 hours in healthy subjects.
+
+## Toxicity
+
+EMBRYO-FETAL TOXICITY
+Do not administer Riociguat to a pregnant female because it may cause fetal harm.
+Females of reproductive potential: Exclude pregnancy before the start of treatment, monthly during treatment, and 1 month after stopping treatment. Prevent pregnancy during treatment and for one month after stopping treatment by using acceptable methods of contraception.
+For all female patients, Riociguat is available only through a restricted program called the Adempas Risk Evaluation and Mitigation Strategy.

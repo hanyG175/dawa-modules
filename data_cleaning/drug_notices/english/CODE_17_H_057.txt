@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_057
+DCI: ATROPINE SULFATE 0,5 % collyre sol (ATROPINE ALCON) | Atropine
+DrugBank ID: DB00572
+DrugBank Name: Atropine
+Brand Names: ATROPINE - ALCON | CROPINE
+Pharmaceutical Forms: Collyree En Solution | Collyrey.
+Dosages: 0.005
+Packaging: FL/10ML | flacon/15ml
+Laboratories: ALCON | Laboratoires ALCON SAS
+Countries: FRANCE
+Reference Tariff (DA): 206.59 DA
+PPA (DA): 206.59 DA
+Prescription List: Liste I
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03B - BELLADONE ET DERIVES | A03BA - ALCALOÏDES DE LA BELLADONE : AMINES TERTIAIRES | A03BA01 - ATROPINE | A03BA01
+Registration Numbers: 165/17 H 057/98 | 455/17 H 057/99/23
+Drug Codes: 17 H 057
+
+------------------------------------------------------------
+
+## Description
+
+Atropine is an alkaloid originally synthesized from Atropa belladonna. It is a racemic mixture of d-and l-hyoscyamine, of which only l-hyoscyamine is pharmacologically active. 3 , 8 Atropine is generally available as a sulfate salt and can be administered by intravenous, subcutaneous, intramuscular, intraosseous, endotracheal and ophthalmic methods. Oral atropine is only available in combination products. 1 , 9 Atropine is a competitive, reversible antagonist of muscarinic receptors that blocks the effects of acetylcholine and other choline esters. 1 , 5 , 6 , 8 It has a variety of therapeutic applications, including pupil dilation and the treatment of anticholinergic poisoning and symptomatic bradycardia in the absence of reversible causes. 1 Atropine is a relatively inexpensive drug and is included in the World Health Organization List of Essential Medicines. 4
+
+## Pharmacodynamics
+
+Atropine is an antimuscarinic agent that antagonizes the effects of acetylcholine. 5 , 6 , 8 In small doses, atropine slows heart rate, and tachycardia develops due to paralysis of vagal control. Compared to scopolamine , atropine has a more potent and prolonged effect on the heart, intestine and bronchial muscle, but a weaker effect on the iris, ciliary body and certain secretory glands. Atropine leads to increased respiratory rate and depth of respiration, possibly due to the drug-induced bronchiolar dilatation rather than its mild effect on vagal excitation. 8 At an adequate dose, atropine abolishes different types of reflex vagal cardiac slowing or asystole. Atropine can be used to prevent or abolish bradycardia or asystole induced by the injection of choline esters, anticholinesterase agents or other parasympathomimetic drugs, and cardiac arrest produced by stimulation of the vagus. 8 When vagal activity is an etiologic factor, atropine may also lessen the degree of partial heart block. In clinical doses, atropine counteracts the peripheral dilatation and abrupt decrease in blood pressure produced by choline esters. However, when given by itself, atropine does not exert a striking or uniform effect on blood vessels or blood pressure. 8 The use of topical atropine in the eye induces mydriasis by inhibiting the contraction of the circular pupillary sphincter muscle normally stimulated by acetylcholine. This results in the contraction of the countering radial pupillary dilator muscle and pupil dilation. 7 The use of atropine may precipitate acute glaucoma and convert partial organic pyloric stenosis into complete obstruction. Atropine may also lead to complete urinary retention in patients with prostatic hypertrophy and cause the thickening of bronchial secretions and formation of viscid plugs in patients with chronic lung disease. 8
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M1 Antagonist Muscarinic acetylcholine receptor M2 Antagonist Muscarinic acetylcholine receptor M3 Antagonist + 2 more targets
+
+## Absorption
+
+Intravenous atropine follows a non-linear pharmacokinetic model at doses between 0.5 and 4 mg. 8 After intramuscular administration, atropine is rapidly absorbed. In adults given 1.67 mg of atropine intramuscularly, the C max was 9.6 ng/mL and the T max went from 3 to 60 minutes. 6 In healthy subjects given 30 µL of atropine ophthalmic solution, the C max and T max were 288 pg/mL and 28 minutes, respectively. 7 Atropine is well absorbed in the gastrointestinal tract and rapidly delivered to systemic circulation. When administered intramuscularly, atropine has a bioavailability of 50%. 2 The AUC 0-INF and C max of atropine are higher in females than males (15%). 6
+
+## Volume Of Distribution
+
+Atropine is distributed throughout the body. Following intravenous administration, the total apparent volume of distribution of atropine ranged between 1.0 and 1.7 L/kg. 3
+
+## Metabolism
+
+Atropine is mainly metabolized by enzymatic hydrolysis in the liver. 5 , 6 , 8 The major metabolites of atropine are noratropine, atropin-n-oxide, tropine, and tropic acid. The metabolism of atropine is inhibited by organophosphate pesticides. 5 , 8
+
+## Route Of Elimination
+
+Approximately 13 to 50% of atropine is excreted unchanged in the urine. 5 , 6 , 8 In healthy volunteers given intravenous atropine, 29% of tropine was excreted in urine, along with 15% of an unidentified metabolite. 3
+
+## Half Life
+
+Following intravenous and intramuscular doses of atropine, half-life values range from approximately 2 to 4 hours. 3 , 8 In geriatric patients (65-75 years old), intravenous atropine has a longer half-life (10 hours). Also, the half-life of atropine is slightly shorter (approximately 20 minutes) in females than in males. 6 In healthy volunteers given 30 µL of atropine sulfate by topical ocular administration, the half-life of atropine was approximately 2.5 hours. 7
+
+## Clearance
+
+Following intravenous administration, the total clearance of atropine ranged between 5.9 and 6.8 mL/min/kg. 3 Exercise, before and after intramuscular administration, decreases the clearance of atropine. 5
+
+## Toxicity
+
+High doses of atropine may cause palpitation, dilated pupils, difficulty swallowing, hot dry skin, thirst, dizziness, restlessness, tremor, fatigue and ataxia. Toxic doses of atropine lead to restlessness and excitement, hallucinations, delirium and coma. 8 In cases of severe intoxication, atropine can cause a circulatory collapse, leading to a decline in blood pressure and respiratory failure that may ensue in death following paralysis and coma. 6 , 8 In case of atropine overdose, supportive treatment should be administered. Provide artificial respiration with oxygen if respiration is depressed, and follow cooling methods to reduce atropine-induced fever, especially in pediatric patients. In case of urinary retention, catheterization may be required. Atropine is mainly eliminated through the kidney; therefore, urinary output must be maintained and increased if possible. In case of atropine-induced photophobia, the room should be darkened. 6 A short-acting barbiturate or diazepam may be given as needed to control marked excitement and convulsions; however, large doses should be avoided since central depressant action may coincide with the depression that occurs late in atropine poisoning. Central stimulants are not recommended. 8 The acute oral toxicity (LD 50 ) of atropine in mice is 75 mg/kg. 10

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_H_061
+DCI: PHENYLEPHRINE CHLORHYDRATE 10 % collyre sol récip unidose (NEOSYNEPHRINE FAURE Unidose) | Phenylephrine
+Brand Names: APIFRIN -10 | NEOSYNEPHRINE FAURE 10%
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.1
+Packaging: flacon/10ml | flacon/5 ml
+Laboratories: Laboratoires EUROPHTA | UNIMEDIC PHARMA AB | BOX 6216 | 102 34 STOCKHOLM | SUEDE
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01C - STIMULANTS CARDIAQUES, GLUCOSIDES CARDIOTONIQUES EXCLUS | C01CA - ADRENERGIQUES ET DOPAMINERGIQUES | C01CA06 - PHENYLEPHRINE | C01CA06
+Registration Numbers: 165/17 H 061/98 | 316/17 H 061/97/16
+Drug Codes: 17 H 061
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Ce collyre est indiqué pour obtenir : | une mydriase à visée diagnostique, | une mydriase thérapeutique, | une mydriase pré-opératoire.
+
+## Posology
+
+Posologie | Unité de prise | ml | phényléphrine (chlorhydrate) : 100 µg | Modalités d'administration | Voie intraveineuse, voie intraveineuse (en perfusion) | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Hypotension au cours de l'anesthésie - Hypotension au cours de l'anesthésie, traitement préventif (de l') | Posologie standard | Voie intraveineuse | Administrer par voie intraveineuse en bolus | Traitement à renouveler si besoin | 50 à 100 µg 1 fois ce jour | Dose cumulative totale: 100 µg | Dose initiale | Voie intraveineuse (en perfusion) | Administrer en perfusion continue | 25 à 50 µg 1 fois par minute | Dose ultérieure | Voie intraveineuse (en perfusion) | Administrer en perfusion continue | 25 à 100 µg 1 fois par minute | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Accouchement | Allaitement | Anévrisme | Angor | Arythmie | Athérosclérose | Bloc cardiaque | Bradycardie | Cardiopathie | Choc cardiogénique | Cirrhose hépatique | Diabète | Enfant de moins de 15 ans | Glaucome à angle fermé | Grossesse | Hypertension artérielle | Hyperthyroïdie non contrôlée | Insuffisance cardiaque sévère | Insuffisance circulatoire | Insuffisance coronarienne | Insuffisance rénale | Insuffisance vasculaire cérébrale | Nouveau-né exposé à la substance lors de l'accouchement | Nouveau-né exposé in utero au médicament | Sujet âgé | Tachycardie
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Phényléphrine : Mécanisme d'action | Par voie injectable, la phényléphrine est un puissant vasoconstricteur agissant par stimulation quasi exclusive des récepteurs alpha 1 adrénergiques. Cette vasoconstriction artérielle s'accompagne également d'une vasoconstriction veineuse. Elle entraîne une augmentation de la pression artérielle, et une bradycardie réflexe. La puissante vasoconstriction artérielle provoque une augmentation des résistances à l'éjection ventriculaire (augmentation de la post-charge), entraînant une diminution du débit cardiaque, peu marquée chez le sujet sain, mais pouvant être responsable d'une aggravation en cas d'insuffisance cardiaque pré-existante. | Par voie ophtalmique, aux concentrations supérieures à 5 %, la phényléphrine est un mydriatique puissant, résistant à l'ouverture de la chambre antérieure, mais de durée d'action limitée et sans effet cycloplégique notable. | Par voie nasale ou orale, la phényléphrine est un sympathomimétique, décongestionnant.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Glucose sanguin anormal | DERMATOLOGIE: | - Hypersudation | - Horripilation | - Dépigmentation de la peau | - Pâleur | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | INSTRUMENTATION: | - Nécrose tissulaire post-extravasation | OPHTALMOLOGIE: | - Mydriase | - Glaucome aigu (crise de) | ORL, STOMATOLOGIE: | - Vertige | PSYCHIATRIE: | - Confusion mentale | - Agitation | - Psychose | - Insomnie | - Anxiété | - Nervosité | SYSTÈME CARDIOVASCULAIRE: | - Ischémie myocardique | - Palpitation | - Crise hypertensive | - Bouffée congestive | - Angor | - Tachycardie | - Hypotension artérielle | - Hypertension artérielle | - Bradycardie | - Arythmie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Faiblesse musculaire | SYSTÈME NERVEUX: | - Paresthésie | - Céphalée | - Tremblement | - Hémorragie cérébrale | SYSTÈME RESPIRATOIRE: | - Dyspnée | - Oedème pulmonaire | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire | - Dysurie

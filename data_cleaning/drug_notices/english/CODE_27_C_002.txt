@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_C_002
+DCI: upadacitinib hémihydrate
+DrugBank ID: DB15091
+DrugBank Name: Upadacitinib
+Brand Names: RINVOQ
+Pharmaceutical Forms: Comprimé
+Dosages: 15mg
+Packaging: boite d'un flacon de 30 comprimes
+Registration Numbers: 618/27 C 002/23
+Drug Codes: 27 C 002
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Upadacitinib is a DMARD that works by inhibiting the Janus Kinases (JAKs), which are essential downstream cell signalling mediators of pro-inflammatory cytokines. It is believed that these pro-inflammatory cytokines play a role in many autoimmune inflammatory conditions, such as rheumatoid arthritis. 6 In clinical trials, upadacitinib decreased the activity of pro-inflammatory interleukins, transiently increased the levels of lymphocytes, and insignificantly decreased the levels of immunoglobulins from the baseline. 9
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase JAK1 Inhibitor
+
+## Absorption
+
+Upadacitinib displays a dose-proportional pharmacokinetic profile over the therapeutic dose range. Following oral administration, the median time to reach Cmax (Tmax) ranges from 2 to 4 hours. The steady-state plasma concentrations of upadacitinib are reached within 4 days following multiple once-daily administrations, with minimal accumulation. 9 Food intake has no clinically relevant effect on the AUC, Cmax, and Cmin of upadacitinib from the extended-release formulation. 3
+
+## Volume Of Distribution
+
+The volume of distribution of upadacitinib in a patient with rheumatoid arthritis and a body weight of 74 kg is estimated to be 224 L following oral administration of an extended-release formula. 11 In a pharmacokinetic study consisting of healthy volunteers receiving the extended-release formulation, the steady-state volume of distribution was 294 L. 1 Upadacitinib partitions similarly between plasma and blood cellular components with a blood to plasma ratio of 1.0. 9
+
+## Metabolism
+
+Upadacitinib predominantly undergoes CYP3A4-mediated metabolism; 9 however, upadacitinib is a nonsensitive substrate of CYP3A4. 3 It is also metabolized by CYP2D6 to a lesser extent. 9 In a human radio-labelled study, about 79% of the total plasma radioactivity accounted for the parent drug, and about 13% of the total plasma radioactivity accounted for the main metabolite produced from mono-oxidation, followed by glucuronidation. 9 There are no known active metabolites of upadacitinib. 11
+
+## Route Of Elimination
+
+Following administration of a single radio-labelled dose from the immediate-release formulation, approximately 53% of the total dose was excreted in the feces where 38% of the excreted dose was an unchanged parent drug. About 43% of the total dose was excreted in the urine, where 24% of that dose was in the unchanged parent drug form. 11 Approximately 34% of the total dose of upadacitinib dose was excreted as metabolites. 9
+
+## Half Life
+
+The mean terminal elimination half-life of upadacitinib ranged from 8 to 14 hours following administration of the extended-release formulation. 9 , 11 In clinical trials, approximately 90% of upadacitinib in the systemic circulation was eliminated within 24 hours of dosing. 9
+
+## Clearance
+
+The apparent oral clearance of upadacitinib in healthy volunteers receiving the extended-release formulation was 53.7 L/h. 1
+
+## Toxicity
+
+There is limited clinical information on the overdose from upacitinib: in clinical trials, once-daily administration of 60 mg in extended-release formulations were well tolerated. In case of an overdose, it is recommended that the patient is monitored for signs and symptoms of adverse reactions and treated with appropriate symptomatic treatment. 9 The oral LD 50 in rats is 14500 mg/kg. 12

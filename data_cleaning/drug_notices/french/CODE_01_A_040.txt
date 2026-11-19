@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_040
+DCI: FEXOFENADINE CHLORHYDRATE 180 mg cp (FEXOFENADINE ARROW)
+Brand Names: FASTOFEN 180 | FEXODINE | FEXOFENADINE BEKER | FEXOFENADINE IVAL | FEXONIDAL | RIFEX 180 | TELFAST
+Pharmaceutical Forms: Comprimé
+Dosages: 180mg
+Packaging: b/15 | b/20
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX - AUTRES ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AX26 - FEXOFENADINE
+Registration Numbers: 039/01 A 040/11/24 | 195/01 A 040/07/14 | 201/01 A 040/00/24 | 268/01 A 040/07/22 | 352/01 A 040/07/22 | 447/01 A 040/17/24 | 492/01 A 040/15/25
+Drug Codes: 01 A 040
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | fexofénadine chlorhydrate : 120 mg | Modalités d'administration | Voie orale | Administrer avant le repas | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Rhinite allergique | Posologie standard | 1 comprimé 1 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Antécédent de maladie cardiovasculaire | Enfant de moins de 12 ans | Insuffisance hépatique | Insuffisance rénale | Maladie cardiovasculaire | Sujet âgé
+
+## Mechanism Of Action
+
+Fexofénadine : Mécanisme d'action | Le chlorhydrate de fexofénadine est un antihistaminique H1 non sédatif. La fexofénadine est un métabolite pharmacologiquement actif de la terfénadine. | Des études cliniques pour le traitement de la rhinite allergique saisonnière ont montré qu'une dose de 120 mg permettait d'obtenir un effet durant 24 heures. | Il n'a pas été observé de modifications de l'intervalle QTc chez des patients souffrant de rhinite allergique saisonnière, traités par 240 mg de chlorhydrate de fexofénadine 2 fois par jour pendant 2 semaines, par rapport au placebo. De même, il n'a pas été observé de modification significative de l'intervalle QTc par rapport au placebo chez des volontaires sains ayant reçu jusqu'à 60 mg de chlorhydrate de fexofénadine 2 fois par jour pendant 6 mois, 400 mg 2 fois par jour pendant 6,5 jours et 240 mg une fois par jour pendant un an. | Il n'a pas été observé d'effet sur les canaux potassiques, clonés à partir d'un cœur humain avec des concentrations plasmatiques de fexofénadine 32 fois supérieures aux concentrations thérapeutiques humaines.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit | - Urticaire | - Eruption cutanée | DIVERS: | - Fatigue (Peu fréquent) | - Oppression thoracique | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke | - Réaction anaphylactique | - Hypersensibilité | OPHTALMOLOGIE: | - Vision floue | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | - Sécheresse buccale | PSYCHIATRIE: | - Insomnie | - Cauchemar | - Rêves anormaux | - Nervosité | - Trouble du sommeil | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Bouffée congestive | - Tachycardie | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Diarrhée | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée

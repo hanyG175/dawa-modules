@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_E_025
+DCI: Baclofene
+DrugBank ID: DB00181
+DrugBank Name: Baclofen
+Brand Names: BACLON | BACRO | CLORESAL | LIORESAL
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/50
+Laboratories: BIOGARAN | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: M03BX01
+Registration Numbers: 012/21 E 025/98/16 | 068/21 E 025/98/15 | 380/21 E 025/20 | 418/21 E 025/16
+Drug Codes: 21 E 025
+
+------------------------------------------------------------
+
+## Description
+
+Baclofen is a gamma-aminobutyric acid (GABA) agonist used as a skeletal muscle relaxant. Although originally designed in 1962 to treat epilepsy, baclofen was not effective in treating this condition but instead was shown to reduce spasticity in selected patients. 8 Baclofen was reintroduced in 1971 as a treatment for spasticity and was later approved by the FDA in 1977. 6 , 8 Baclofen is used to manage severe muscle spasms of cerebral or spinal cord origins, including multiple sclerosis and traumatic brain injury. 11 Baclofen was investigated for use in alcohol dependence and withdrawal; however, evidence is limited and there is inconsistent evidence to suggest its clinical efficacy in managing alcohol dependence or withdrawal symptoms. 1 , 2 , 8
+
+## Pharmacodynamics
+
+Baclofen is an antispasmodic agent that induces muscle relaxation. It reduces the release of excitatory neurotransmitters in the pre-synaptic neurons and stimulates inhibitory neuronal signals in the post-synaptic neurons. 6 Oral formulations of baclofen are the most commonly used form of the drug. In one cross-section study, intrathecal baclofen was more effective than oral baclofen in relieving spasticity directly at the level of the spinal cord. 8 Baclofen has CNS depression properties and can cause sedation with tolerance, somnolence, ataxia, and respiratory and cardiovascular depression. 13 Baclofen also mediates some antinociceptive effects and stimulates gastric acid secretion. 15 Baclofen exhibits anti-inflammatory and neuroprotective activities: it inhibits the release of pro-inflammatory cytokines from microglia and astrocytes, and decreases oxidative stress in rats. 5
+
+## Mechanism Of Action
+
+Gamma-aminobutyric acid type B receptor subunit 2 Agonist Gamma-aminobutyric acid type B receptor subunit 1 Agonist
+
+## Absorption
+
+Baclofen has an oral bioavailability of 70% to 85%. Following oral administration, it is rapidly absorbed through the gastrointestinal tract with peak plasma concentrations being reached two to three hours after ingestion. 6 Peak effect is observed about four hours after intrathecal administration. 8 The absorption is dose-dependent and increases with higher doses. 6 There is intersubject variation in absorption. 13 Administration of oral baclofen suspension with a high-fat meal resulted in 9% decrease in AUC and 33% decrease in C max compared to the fasted state. 13
+
+## Volume Of Distribution
+
+The volume of distribution of baclofen is 0.7 L/kg. 15 As baclofen is mainly water-soluble, it does not readily cross the blood-brain barrier. 7 Drug concentrations of baclofen in the cerebrospinal fluid are approximately 8.5 times lower than in the plasma. 15
+
+## Metabolism
+
+Approximately 15% of the oral dose is metabolized in the liver, mainly by deamination. 8 Deamination yields the main metabolite, β-(p-chlorophenyl)-4-hydroxybutyric acid, which is pharmacologically inactive. 15 Hover over products below to view reaction partners Baclofen β-(p-chlorophenyl)-4-hydroxybutyric acid
+
+## Route Of Elimination
+
+About 70-80% of baclofen is eliminated in an unchanged form by renal excretion 6 , 8 within 72 hours of administration. About 5% of the dose is excreted via the kidneys as metabolites. 15 There is intersubject variation in elimination. 13
+
+## Half Life
+
+The half-life is 2-6 hours after oral administration and 1-5 hours following intrathecal administration. 8 The apparent elimination half-life of baclofen oral suspension or granules is about 5.6 hours. 13
+
+## Clearance
+
+The systemic clearance (CL/F) was 180 mL/min and the renal clearance was 103 mL/min following oral administration. 10
+
+## Toxicity
+
+The oral LD 50 in rats is 145 mg/kg. 14 Baclofen withdrawal symptoms typically occur within hours to days following interruption of either oral or intrathecal drug formulations. 8 Abrupt discontinuation of baclofen is not advised. 11 Clinical manifestations of baclofen overdose may include altered mental status, somnolence, seizure, hypothermia, respiratory depression, and coma. Overdose from baclofen oral tablets resulted in vomiting, lightheadedness, drowsiness, muscular hypotonia, accommodation disorders, coma, respiratory depression, and seizures. 6 , 13 Most overdose symptoms are neurological but uncommon cardiovascular effects such as hypertension, bradycardia, and tachycardia may be observed. 9 In case of overdose, symptomatic treatment and gastric decontamination should be initiated. When the patient is alert, gastric emptying should be performed by inducing emesis and then performing lavage while maintaining an adequate airway and respiration. Emesis should not be induced in unconscious patients. 6 , 13

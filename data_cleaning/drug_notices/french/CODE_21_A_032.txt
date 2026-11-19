@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_032
+DCI: Ketoprofene
+Brand Names: KETOPROFENE LDM
+Pharmaceutical Forms: Gel Derm.
+Dosages: 2.5%
+Packaging: T/60G
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: FRANCE
+Reference Tariff (DA): 138 DA
+Prescription List: Liste II
+ATC Classification: 21A032
+Registration Numbers: 035/21 A 032/22 | 203/21 A 032/05/14 | 309/21 A 032/16/22 | 311/21 A 032/15 | 319/21 A 032/08 | 366/21 A 032/08 | 400/21 A 032/21 | 546/21 A 032/20/26
+Drug Codes: 21 A 032
+
+------------------------------------------------------------
+
+## Indications
+
+RHUMATOLOGIE
+
+## Mechanism Of Action
+
+ANALGESIQUES ANTIRHUMATISMAUX EXTERNES BAUMES REVULSIFS

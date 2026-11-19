@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_196
+DCI: PALBOCICLIB 75 mg gél (IBRANCE) | Palbociclib
+Brand Names: IBRANCE | PALBOCICLIB BIOPHARM | PALBOCICLIB DEMOCEDES | PAPILLIO
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 75 mg | 75mg
+Packaging: b/21
+Laboratories: PFIZER
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EF - INHIBITEURS DES KINASES CYCLINE-DEPENDANTES (CDK) | L01EF01 - PALBOCICLIB
+Registration Numbers: 001/05 C 196/24 | 045/05 C 196/18 | 263/05 C 196/24 | 630/05 C 196/25
+Drug Codes: 05 C 196
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Fri Apr 25 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: IBRANCE est indiqué dans le traitement du cancer du sein localement avancé ou métastatique, positif aux récepteurs hormonaux (RH) et négatif au récepteur du facteur de croissance épidermique humain-2 ( | human epidermal growth factor receptor 2 | [HER2]-négatif) : | en association avec un inhibiteur de l'aromatase ; | en association avec le fulvestrant chez les femmes ayant été traitées antérieurement par hormonothérapie (voir rubrique | Pharmacodynamie | ). | Chez les femmes en pré/périménopause, l'hormonothérapie doit être associée à un agoniste de l'hormone de libération de la lutéinostimuline ( | luteinizing hormone-releasing hormone | , LH-RH). | lists: en association avec un inhibiteur de l'aromatase ; | en association avec le fulvestrant chez les femmes ayant été traitées antérieurement par hormonothérapie (voir rubriquePharmacodynamie).
+
+## Posology
+
+Posologie | Unité de prise | gélule | palbociclib : 100 mg | Modalités d'administration | Voie orale | Administrer chaque jour à la même heure | Administrer de préférence pendant le repas | Administrer entier | En cas d'oubli : ne pas prendre la dose oubliée puis reprendre le trt comme initialement prévu | En cas de vomissement, ne pas prendre une autre dose puis reprendre le trt comme initialement prévu | Respecter un intervalle de 7 jours entre 2 cycles de traitement de 21 jours | Traitement à poursuivre jusqu'à la progression de la maladie ou la survenue de toxicité intolérable | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Cancer du sein localement avancé HER2 négatif avec récepteurs hormonaux positifs - Cancer du sein métastasique HER2 négatif avec récepteurs hormonaux positifs | Posologie standard | Dans le cas de : Association à un inhibiteur de l'aromatase | 125 mg 1 fois par jour | Pendant 21 jours | Traitement ultérieur éventuel | Dans le cas de : Association à un inhibiteur de l'aromatase, Effets indésirables sévères | Posologie à adapter en fonction de la toxicité | 75 à 100 mg 1 fois par jour | Pendant 21 jours | Patient de sexe féminin | Cancer du sein localement avancé HER2 négatif avec récepteurs hormonaux positifs - Cancer du sein métastasique HER2 négatif avec récepteurs hormonaux positifs | Posologie standard | Dans le cas de : Association au fulvestrant | 125 mg 1 fois par jour | Pendant 21 jours | Traitement ultérieur éventuel | Dans le cas de : Association au fulvestrant, Intolérance au traitement à la posologie recommandée | Posologie à adapter en fonction de la toxicité | 75 à 100 mg 1 fois par jour | Pendant 21 jours | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Femme susceptible d'être enceinte | Homme en âge de procréer | Insuffisance hépatique modérée à sévère | Insuffisance rénale modérée à sévère | Maladie viscérale sévère | Patient en hémodialyse | Préménopause | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | X | X | Contre-indication absolue
+
+## Mechanism Of Action
+
+Palbociclib : Mécanisme d'action | Le palbociclib est un inhibiteur des kinases 4 et 6 dépendantes des cyclines ( | cyclin-dependent kinases 4 and 6 | , CDK) hautement sélectif et réversible. La cycline D1 et les CDK4/6 sont en aval de multiples voies de signalisation conduisant à une prolifération cellulaire.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ALAT (augmentation) (Très fréquent) | - Neutropénie (Très fréquent) | - ASAT (augmentation) (Très fréquent) | - Créatininémie (augmentation) (Fréquent) | - Neutrophiles diminués | - Hématocrite (diminution) | - Hémoglobinémie (diminution) | - Numération plaquettaire diminuée | - Globules blancs diminués | DERMATOLOGIE: | - Erythrodysesthésie palmoplantaire (Fréquent) | - Erythème polymorphe (Peu fréquent) | - Eruption cutanée (Très fréquent) | - Sécheresse cutanée (Très fréquent) | - Alopécie (Très fréquent) | - Eruption acnéiforme | - Dermatite | - Mucite | - Rash érythémateux | - Eruption papuleuse | - Eruption maculopapuleuse | - Eruption prurigineuse | - Eruption cutanée toxique | DIVERS: | - Asthénie (Très fréquent) | - Fièvre (Très fréquent) | - Fatigue (Très fréquent) | HÉMATOLOGIE: | - Leucopénie (Très fréquent) | - Thrombopénie (Très fréquent) | - Neutropénie fébrile (Fréquent) | - Anémie | IMMUNO-ALLERGOLOGIE: | - Lupus érythémateux cutané (Peu fréquent) | INFECTIOLOGIE NON PRECISÉE: | - Infection (Très fréquent) | NUTRITION, MÉTABOLISME: | - Appétit diminué (Très fréquent) | OPHTALMOLOGIE: | - Vision floue (Fréquent) | - Hypersécrétion lacrymale (Fréquent) | - Hyposécrétion lacrymale (Fréquent) | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | - Epistaxis (Fréquent) | - Stomatite (Très fréquent) | - Glossite | - Stomatite aphteuse | - Douleur buccale | - Glossodynie | - Ulcération buccale | - Chéilite | - Douleur oropharyngée | SYSTÈME CARDIOVASCULAIRE: | - Accident thromboembolique veineux (Fréquent) | - Embolie périphérique | - Thrombose | - Thrombophlébite profonde | - Embolie pulmonaire | - Embolie | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Vomissement (Très fréquent) | SYSTÈME RESPIRATOIRE: | - Pneumopathie inflammatoire (Fréquent) | - Pneumopathie interstitielle diffuse (Fréquent) | - Gêne oropharyngée

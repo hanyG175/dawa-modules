@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_136
+DCI: Ocrelizumab
+DrugBank ID: DB11988
+DrugBank Name: Ocrelizumab
+Brand Names: OCREVUS
+Pharmaceutical Forms: Solution
+Dosages: 300mg/10ml
+Packaging: b/1flc de 10 ml
+Registration Numbers: 128/15 G 136/21
+Drug Codes: 15 G 136
+
+------------------------------------------------------------
+
+## Description
+
+Ocrelizumab is a CD20-directed cytolytic antibody indicated for the treatment of patients with primary progressive or relapsing forms of multiple sclerosis (MS). 9 It is a second-generation recombinant humanized monoclonal IgG1 antibody that selectively targets B-cells that express the CD20 antigen. 2 Compared to non-humanized CD20 antibodies such as rituximab , ocrelizumab is expected to be less immunogenic with repeated infusions, improving the benefit-to-risk profile for patients with MS. 1 , 7 MS is a chronic, inflammatory, autoimmune disease of the central nervous system that leads to neurological disabilities and a significantly reduced quality of life. 8 Most patients with MS experience episodes of relapses with worsening function, followed by recovery periods or remissions. Primary progressive multiple sclerosis (PPMS) accounts for 10-15% of the overall population of patients with MS, and leads to the gradual worsening of neurologic disability from symptom onset, often without early relapses or remissions 3 . Developed by Genentech/Roche, ocrelizumab was approved by the FDA in March 2017 under the market name Ocrevus for intravenous injection. It was later approved by Health Canada in August 2017, making the drug the first available treatment for PPMS in both the US and Canada. In clinical trials of patients with relapsing forms of MS, treatment with ocrelizumab resulted in reduced relapse rates and reduced worsening of disability compared to interferon beta-1a . 8 In phase 3 clinical trials of patients with PPMS, treatment with ocrelizumab led to lower clinical and MRI progression rates compared to placebo. 3 In September 2024, a formulation of ocrelizumab containing hyaluronidase (human recombinant) was approved by the US FDA. The addition of hyaluronidase allows for subcutaneous injection, which is a method often preferable for patients and provides an alternative means of administration for sites lacking IV infrastructure, such as a doctor's office. 11 , 12
+
+## Pharmacodynamics
+
+Since ocrelizumab interferes with the CD20 assay, CD19+B-cells are used to assess B-cell counts after treatment. Fourteen days following infusion, a reduction in CD19+B-cell counts was observed. In clinical studies, B-cell counts rose above the lower limit of normal (LLN) or baseline counts between infusions of ocrelizumab at least once in 0.3% to 4.1% of patients. In a clinical study involving 51 patients, the time for B-cell counts to return to baseline or LLN ranged from 27 to 125 weeks, with a median time of 72 weeks after the last infusion. Within 2.5 years after the last infusion, B-cell counts returned to either baseline or LNN in 90% of patients treated with ocrelizumab. 9 Since ocrelizumab is a recombinant humanized antibody, it is expected to be less immunogenic than rituximab , a chimeric antibody. Compared to the ocrelizumab pivotal trial, a rituximab phase II trial had a higher proportion of anti-drug antibodies, suggesting greater immunogenicity. However, caution should be exercised since these studies used different assay methods, and the association between anti-drug antibody development and infusion reactions has not been fully elucidated. 5 The use of ocrelizumab can cause infusion reactions, and lead to a higher risk of respiratory tract infections and viral infections. Cases of progressive multifocal leukoencephalopathy (PML) and immune-mediated colitis have been reported in patients treated with ocrelizumab. Also, an increased risk of malignancy may exist. 9
+
+## Mechanism Of Action
+
+B-lymphocyte antigen CD20 Antagonist Antibody
+
+## Absorption
+
+Ocrelizumab displays a two-compartment pharmacokinetic model with time-dependent clearance. The overall exposure at the steady-state (AUC over the 24 week dosing intervals) of ocrelizumab was 3,510 mcg/mL per day. Following the intravenous infusion of maintenance doses of 600 mg every 6 months in relapsing MS patients, the mean peak plasma concentration of ocrelizumab (C max ) was 212 mcg/mL. Following intravenous infusion of two 300 mg doses separated by 14 days every 6 months in patients with PPMS, C max was 141 mcg/mL. Ocrelizumab follows linear and dose proportional pharmacokinetics between 400 mg and 2000 mg. 9
+
+## Volume Of Distribution
+
+In a population pharmacokinetic estimate, the central volume of distribution of ocrelizumab was 2.78 L. 9
+
+## Metabolism
+
+As with other antibodies, ocrelizumab is expected to undergo nonspecific catabolism and broken into smaller peptides and amino acids.
+
+## Route Of Elimination
+
+Monoclonal antibodies (mAb) such as ocrelizumab are too large to be filtered by the kidneys, and therefore, not eliminated in urine under normal conditions. If antibody fragments of low molecular weight are filtered, they are usually reabsorbed and metabolized in the proximal tubule. 6 The peptides and amino acids produced by catabolism are recycled or used as an energy source.
+
+## Half Life
+
+The terminal elimination half-life of ocrelizumab was 26 days. 9
+
+## Clearance
+
+The constant clearance of ocrelizumab was 0.17 L/day, while the initial time-dependent clearance was 0.05 L/day. Peripheral volume and inter-compartment clearance were 2.68 L and 0.29 L/day, respectively. 9
+
+## Toxicity
+
+Toxicity information regarding ocrelizumab is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as immune-mediated colitis. 9 Symptomatic and supportive measures are recommended. The carcinogenic and mutagenic potentials of ocrelizumab have not been evaluated. In monkeys given three loading doses of 15 or 75 mg/kg intravenously, followed by weekly doses of 20 or 100 mg/kg for 8 weeks (2-10 times the recommended human dose), ocrelizumab did not have effects on reproductive organs. No reproductive effects were detected on the estrus cycle of female monkeys given the same ocrelizumab regimen. 9

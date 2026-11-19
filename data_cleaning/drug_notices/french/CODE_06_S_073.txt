@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_S_073
+DCI: PROPRANOLOL CHLORHYDRATE 40 mg cp (PROPRANOLOL EG)
+Brand Names: EVOPRANOL
+Pharmaceutical Forms: Comprimé
+Dosages: 40 mg
+Packaging: b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C07 - BETA-BLOQUANTS | C07A - BETA-BLOQUANTS | C07AA - BETA-BLOQUANTS NON SELECTIFS | C07AA05 - PROPRANOLOL
+Registration Numbers: 549/06 S 073/21
+Drug Codes: 06 S 073
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | propranolol chlorhydrate : 40 mg | Modalités d'administration | Voie orale | Posologie à adapter en fonction de la réponse physiologique | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 15 an(s) | Patient quel que soit le poids | Extrasystole ventriculaire - Fibrillation auriculaire - Flutter auriculaire - Tachycardie supraventriculaire - Tachycardie supraventriculaire paroxystique - Tachycardie ventriculaire | Posologie standard | 0,25 à 0,5 mg/kg 3 à 4 fois par jour | Posologie maximale: 4 mg/kg par jour | Nombre d'unité de prise maximale: 4 comprimés par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Angor d'effort, traitement préventif (de l') - Hypertension artérielle | Traitement initial éventuel | 80 mg en 2 prises par jour | Posologie standard | 80 à 320 mg en 1 à 2 prises par jour | Posologie maximale: 640 mg par 24 heures | Cardiomyopathie obstructive, signes fonctionnels (de la) | Posologie standard | 10 à 40 mg 3 à 4 fois par jour | Infarctus du myocarde, traitement préventif des récidives (de l') | Traitement initial | Débuter le traitement 5 à 21 jours après l'épisode aigu de l'infarctus | 40 mg 4 fois par jour | Pendant 2 à 3 jours | Traitement d'entretien | 120 à 240 mg en 1 à 4 prises par jour | Extrasystole ventriculaire - Fibrillation auriculaire - Flutter auriculaire - Hyperthyroïdie, manifestations cardiovasculaires (de l') - Intolérance aux traitements substitutifs des hypothyroïdies - Tachycardie supraventriculaire - Tachycardie supraventriculaire paroxystique - Tachycardie ventriculaire | Posologie standard | 10 à 40 mg 3 à 4 fois par jour | Algie vasculaire de la face, traitement de fond (de l') - Migraine, traitement de fond (de la) - Tremblement | Posologie standard | 40 mg 1 à 3 fois par jour | Palpitation psychogène | Posologie standard | Administrer 60 à 90 minutes avant chaque situation stressante | 40 mg 1 fois ce jour | Rupture des varices oesophagiennes chez le patient cirrhotique, traitement préventif (de la) | Posologie standard | 40 à 360 mg en 2 prises par jour | Posologie maximale: 320 mg par 24 heures | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Anesthésie générale | Angor | Bloc auriculoventriculaire du premier degré | Cirrhose | Diabète | Enfant de moins de 15 ans | Grossesse | Hémorragie digestive | Hyperthyroïdie | Insuffisance cardiaque | Insuffisance hépatique légère à modérée | Insuffisance rénale | Intervention chirurgicale | Ischémie myocardique | Jeûne | Nouveau-né exposé in utero au médicament | Patient en hémodialyse | Phéochromocytome | Psoriasis | Sportif | Sujet âgé | Sujet allergique | Traitement de désensibilisation en cours
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | III | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Propranolol : Mécanisme d'action | Le propranolol se caractérise par trois propriétés pharmacologiques : absence d'activité bêtabloquante bêta-1 cardiosélective, effet antiarythmique et absence de pouvoir agoniste partiel (ou d'activité sympathomimétique intrinsèque). | Le propranolol diminue le risque de récidive de l'infarctus du myocarde et la mortalité, particulièrement la mort subite.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie | - Anticorps antinucléaire (augmentation) | DERMATOLOGIE: | - Purpura (Rare) | - Psoriasis (aggravation) (Rare) | - Eruption cutanée (Rare) | - Alopécie (Rare) | - Eruption psoriasiforme | DIVERS: | - Asthénie | HÉMATOLOGIE: | - Thrombopénie (Rare) | IMMUNO-ALLERGOLOGIE: | - Syndrome lupique | OPHTALMOLOGIE: | - Hyposécrétion lacrymale (Rare) | - Trouble de la vision (Rare) | ORL, STOMATOLOGIE: | - Sensation de vertige (Rare) | PSYCHIATRIE: | - Confusion mentale (Rare) | - Hallucination (Rare) | - Psychose (Rare) | - Trouble de l'humeur (Rare) | - Cauchemar | - Insomnie | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Fréquent) | - Bloc auriculoventriculaire (Rare) | - Syncope (Rare) | - Hypotension orthostatique (Rare) | - Claudication intermittente (aggravation) | - Syndrome de Raynaud | - Bloc auriculoventriculaire (aggravation) | - Insuffisance cardiaque | - Refroidissement des extrémités | SYSTÈME DIGESTIF: | - Diarrhée (Peu fréquent) | - Vomissement | - Nausée | - Douleur épigastrique | SYSTÈME NERVEUX: | - Myasthénie (aggravation) (Cas isolés) | - Paresthésie (Rare) | - Myasthénie (Cas isolés) | - Convulsion hypoglycémique | SYSTÈME RESPIRATOIRE: | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Impuissance

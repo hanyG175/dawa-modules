@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_038
+DCI: Betamethasone | Betamethasone Dipropionate | Betamethasone Dipropionate Exprime En Betamethasone | Dipropionate De Betamethasone Exprime En Betamethasone
+Brand Names: BETAMETHASONE NOVAGENERICS | BETAMETHASONE PHYSIOPHARM | CELETASONE
+Pharmaceutical Forms: Creme | Creme Dermique | Crème
+Dosages: 0.0005 | 0.05%
+Packaging: T/15G | t/15g
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 07H038
+Registration Numbers: 109/07 H 038/99/17 | 149/07 H 038/16 | 263/07 H 038/12 | 462/07 H 038/21
+Drug Codes: 07 H 038
+
+------------------------------------------------------------
+
+## Indications
+
+DERMATOLOGIE
+
+## Mechanism Of Action
+
+DERMOCORTICOIDES

@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_C_027
+DCI: carraghénates
+Brand Names: LIDOCAINE LS
+Pharmaceutical Forms: Gélule
+Dosages: 2% (2g/100g de gel)
+Packaging: t/100g
+Laboratories: Kenvue France
+Registration Numbers: 231/02 C 027/21
+Drug Codes: 02 C 027
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement symptomatique des manifestations douloureuses et prurigineuses anales, en particulier dans la crise hémorroïdaire.

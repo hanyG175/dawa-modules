@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_071
+DCI: HEXAMIDINE DI-ISETIONATE 0,1 % gel (HEXOMEDINE)
+DrugBank ID: DB03808
+DrugBank Name: Hexamidine
+Brand Names: ISOMEDINE
+Pharmaceutical Forms: Sol Dermique
+Dosages: 0.1%
+Packaging: flacon de 50ml
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01A - ANTI-INFECTIEUX | S01AX - AUTRES ANTI-INFECTIEUX | S01AX08 - HEXAMIDINE
+Registration Numbers: 073/07 P 071/99/25
+Drug Codes: 07 P 071
+
+------------------------------------------------------------
+
+## Description
+
+A drug used for antisepsis and disinfection of the skin, and treatment of superficial bacterial infections.
+
+## Mechanism Of Action
+
+Target Actions Organism U HTH-type transcriptional regulator QacR Not Available Staphylococcus aureus U HTH-type transcriptional regulator QacR Not Available Staphylococcus haemolyticus

@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_H_051
+DCI: ACIDE ASCORBIQUE 500 mg + FER (sulfate ferreux) 105 mg cp (FERO-GRAD VITAMINE C 500)
+DrugBank ID: DB09301
+DrugBank Name: Chondroitin sulfate
+Brand Names: STRUCTUM
+Pharmaceutical Forms: Gélule
+Dosages: 500mg
+Packaging: b/60
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B03 - PREPARATIONS ANTIANEMIQUES | B03A - PREPARATIONS MARTIALES | B03AC - FER, PREPARATIONS PARENTERALES
+Registration Numbers: 099/21 H 051/09
+Drug Codes: 21 H 051
+
+------------------------------------------------------------
+
+## Description
+
+Chondroitin sulfate is a glycosaminoglycan considered as a symptomatic slow-acting drug for osteoarthritis (SYSADOA). 1 The SYSADOA status suggested a pain relief and increased joint mobility after a relative long regular administration, as well as a long-lasting effect after the end of the treatment. Chondroitin sulfate is composed of alternating 1,3-N-acetyl-β-d-galactosamine and 1,4-β-d-glucuronic acid units which bear 4-O- and/or 6-O-sulfations at the N-acetylgalactosamine units disposed of in specific patterns. Depending on the predominating disaccharide unit, it will present different biological activities. 2 Chondroitin sulfate is sold as an OTC dietary supplement in North America and it is a prescription drug under the EMA in Europe. 4

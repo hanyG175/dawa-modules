@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_156
+DCI: IRBESARTAN 150 mg cp (IRBESARTAN ARROW)
+DrugBank ID: DB01029
+DrugBank Name: Irbesartan
+Brand Names: APROSART | APROVEL | ARADEX 150 | ARAVEL | AROVAL | CARDIOTENS | GIZLAN 150 | HUPROVEL | IRBAC | IRBE 150 | IRBEDIM | IRBEK | IRBEVEL | IRBEZART | IRBISART | IROVEL | ROTAZAR | ZIBRAT
+Pharmaceutical Forms: Comprimé | Coprime Pellicule
+Dosages: 150mg
+Packaging: b/28 | b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA04 - IRBESARTAN
+Registration Numbers: 035/06 E 156/18 | 039/06 E 156/20 | 055/06 E 156/19/24 | 097/06 E 156/16 | 263/06 E 156/10/16 | 268/06 E 156/13/24 | 309/06 E 156/22 | 352/06 E 156/10/24 | 380/06 E 156/18 | 392/06 E 156/01/23 | 418/06 E 156/14/25 | 426/06 E 156/13 | 447/06 E 156/10/25 | 468/06 E 156/13 | 470/06 E 156/12/24 | 492/06 E 156/20 | 518/06 E 156/17/23 | 544/06 E 156/25
+Drug Codes: 06 E 156
+
+------------------------------------------------------------
+
+## Description
+
+Irbesartan is an angiotensin receptor blocker (ARB) indicated to treat hypertension or diabetic nephropathy. 7 , 8 It can also be used as part of a combination product with hydrochlorothiazide for patients not well controlled or not expected to be well controlled on monotherapy. 8 Unlike angiotensin converting enzyme inhibitors, ARBs are not associated with a dry cough. 7 , 8 Irbesartan was granted FDA approval on 30 September 1997. 7 , 8
+
+## Pharmacodynamics
+
+Irbesartan is an angiotensin receptor blocker used to treat hypertension and diabetic nephropathy. 7 , 8 It has a long duration of action as it is usually taken once daily and a wide therapeutic index as doses may be as low as 150mg daily but doses of 900mg/day were well tolerated in healthy human subjects. 7 , 8 , 5
+
+## Mechanism Of Action
+
+Type-1 angiotensin II receptor Antagonist
+
+## Absorption
+
+Irbesartan is 60-80% bioavailable with a T max of 1.5-2hours. 7 , 8 Taking irbesartan with food does not affect the bioavailability. 7 , 8 In one study, healthy subjects were given single or multiple oral doses of 150mg, 300mg, 600mg, and 900mg of irbesartan. 5 A single 150mg dose resulted in an AUC of 9.7±3.0µg\•hr/mL, a T max of 1.5 hours, a half life of 16±7 hours, and a C max of 1.9±0.4µg/mL. 5 A single 300mg dose resulted in an AUC of 20.0±5.2µg\•hr/mL, a T max of 1.5 hours, a half life of 14±7 hours, and a C max of 2.9±0.9µg/mL. 5 A single 600mg dose resulted in an AUC of 32.6±11.9µg\•hr/mL, a T max of 1.5 hours, a half life of 14±8 hours, and a C max of 4.9±1.2µg/mL. 5 A single 900mg dose resulted in an AUC of 44.8±20.0µg\•hr/mL, a T max of 1.5 hours, a half life of 17±7 hours, and a C max of 5.3±1.9µg/mL. 5 Multiple 150mg doses resulted in an AUC of 9.3±3.0µg\•hr/mL, a T max of 1.5 hours, a half life of 11±4 hours, and a C max of 2.04±0.4µg/mL. 5 Multiple 300mg doses resulted in an AUC of 19.8±5.8µg\•hr/mL, a T max of 2.0 hours, a half life of 11±5 hours, and a C max of 3.3±0.8µg/mL. 5 Multiple 600mg doses resulted in an AUC of 31.9±9.7µg\•hr/mL, a T max of 1.5 hours, a half life of 15±7 hours, and a C max of 4.4±0.7µg/mL. 5 Multiple 900mg doses resulted in an AUC of 34.2±9.3µg\•hr/mL, a T max of 1.8 hours, a half life of 14±6 hours, and a C max of 5.6±2.1µg/mL. 5
+
+## Volume Of Distribution
+
+The volume of distribution of irbesartan is 53-93L. 7 , 8
+
+## Metabolism
+
+Irbesaran is largely metabolized by glucuronidation and oxidation in the liver. 7 , 8 The majority of metabolism occurs through the action of CYP2C9 with a negligible contribution from CYP3A4. 7 , 8 Some hydroxylation also occurs in irbesartan metabolism. 3 Irbesartan can be glucuronidated by UGT1A3 to the M8 metabolite, oxidized to the M3 metabolite, or hydroxylated by CYP2C9 to one of the M4, M5, or M7 metabolites. 4 , 3 The M4, M5, and M7 metabolites are all hydroxylated to become the M1 metabolite, which is then oxidized to the M2 metabolite. 4 , 3 The M4 metabolite can also be oxidized to the M6 metabolite before hydroxylation to the M2 metabolite. 4 , 3 Finally, the minor metabolite SR 49498 is generated from irbesartan by an unknown mechanism. 4 , 3 Hover over products below to view reaction partners Irbesartan SR 49498 Irbesartan derivative M4 Irbesartan derivative M6 Irbesartan derivative M2 Irbesartan derivative M1 Irbesartan derivative M2 Irbesartan derivative M5 Irbesartan derivative M1 Irbesartan derivative M2 Irbesartan derivative M7 Irbesartan derivative M1 Irbesartan derivative M2 Irbesartan derivative M3 Irbesartan derivative M8
+
+## Route Of Elimination
+
+20% of a radiolabelled oral dose of irbesartan is recovered in urine, and the rest is recovered in the feces. 10 <2% of the dose is recovered in urine as the unchanged drug. 10
+
+## Half Life
+
+The terminal elimination half life of irbesartan is 11-15 hours. 7 , 8
+
+## Clearance
+
+Total plasma clearance of irbesartan is 157-176mL/min while renal clearance is 3.0-3.5mL/min. 7 , 8
+
+## Toxicity
+
+The oral TDLO in humans is 30mg/kg/6W. 9 Symptoms of overdose include hypotension and tachycardia or bradycardia. 7 , 8 Terlipressin may be given to treat hypotension and tachycardia if conventional vasopressors fail to control blood pressure. 6

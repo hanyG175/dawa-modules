@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_N_180
+DCI: FLUTICASONE PROPIONATE 250 µg/dose + SALMETEROL (xinafoate) 50 µg/dose pdre p inhal en récip unidose (SERETIDE DISKUS Unidose)
+DrugBank ID: DB02703
+DrugBank Name: Fusidic acid
+Brand Names: FUCIDANE GL | FUCIMED
+Pharmaceutical Forms: Suspension
+Dosages: 250mg/5ml
+Packaging: flacon/90ml + cuillere mesure
+Laboratories: Laboratoire GlaxoSmithKline
+ATC Classification: R - SYSTEME RESPIRATOIRE | R01 - PREPARATIONS POUR LE NEZ | R01A - DECONGESTIONNANTS ET AUTRES PREPARATIONS A USAGE TOPIQUE | R01AD - CORTICOIDES | R01AD12 - FLUTICASONE FUROATE
+Registration Numbers: 065/13 N 180/18 | 528/13 N 180/19
+Drug Codes: 13 N 180
+
+------------------------------------------------------------
+
+## Description
+
+An antibiotic isolated from the fermentation broth of Fusidium coccineum. (From Merck Index, 11th ed) It acts by inhibiting translocation during protein synthesis. It is often used topically in creams and eyedrops but is available in systemic formulations including tablets and injections.
+
+## Pharmacodynamics
+
+Fusidic acid is a bacteriostatic antibiotic and helps prevent bacterial growth while the immune system clears the infection.
+
+## Mechanism Of Action
+
+Elongation factor G (Thermus thermophilus) Inhibitor
+
+## Absorption
+
+Sodium fusidic acid tablets have a 91% oral bioavailability. Absorption of the film-coated tablets is complete when compared to a solution, however oral absorption is variable. Oral fusidic acid hemihydrate (suspension) achieved a 22.5% bioavailability in pediatric patients following a 20 milligram/kilogram dose.
+
+## Metabolism
+
+Metabolites include dicarboxylic ester/acid, 3-keto fusidic acid, hydroxy fusidic acid, glucuronide fusidic acid and a glycol metabolite. Hover over products below to view reaction partners Fusidic acid Malonic acid 3-keto fusidic acid Dicarboxylic ester Glucuronide fusidic acid Hydroxy fusidic acid
+
+## Half Life
+
+Approximately 5 to 6 hours in adults.

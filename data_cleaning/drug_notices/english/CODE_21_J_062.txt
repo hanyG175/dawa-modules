@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_J_062
+DCI: ETANERCEPT 50 mg sol inj ser préremplie (BENEPALI) | Etanercept
+DrugBank ID: DB00005
+DrugBank Name: Etanercept
+Brand Names: ALTEBREL | ENBREL | ERELZI
+Pharmaceutical Forms: Solution
+Dosages: 50mg
+Packaging: b/ 4 seringues preremplies de 1ml+4 tampons alcoolises | b/4 seringues pre-remplie de 0.5ml | b/4 seringues pre-remplie de 1ml
+Laboratories: BIOGEN FRANCE SAS
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AB - INHIBITEURS DU TNF-ALPHA | L04AB01 - ETANERCEPT
+Registration Numbers: 045/21 J 062/14/24 | 080/21 J 062/21 | 596/21 J 062/24
+Drug Codes: 21 J 062
+
+------------------------------------------------------------
+
+## Description
+
+Dimeric fusion protein consisting of the extracellular ligand-binding portion of the human 75 kilodalton (p75) tumor necrosis factor receptor (TNFR) linked to the Fc portion of human IgG1. 7 , 5 The Fc component of etanercept contains the CH2 domain, the CH3 domain and hinge region, but not the CH1 domain of IgG1. Etanercept is produced by recombinant DNA technology in a Chinese hamster ovary (CHO) mammalian cell expression system. It consists of 934 amino acids. It is used to treat or manage a variety of inflammatory conditions including rheumatoid arthritis (RA), ankylosing spondylitis (AS), and juvenile idiopathic poly-articular arthritis (JIA).
+
+## Pharmacodynamics
+
+Etanercept binds specifically to tumor necrosis factor (TNF) and thereby modulates biological processes that are induced or regulated by TNF. 7 , 5 Such processes or molecules affected include the level of adhesion molecules expressed, as well as serum levels of cytokines and matrix metalloproteinases.
+
+## Mechanism Of Action
+
+Tumor necrosis factor Inhibitor Antibody Lymphotoxin-alpha Antibody
+
+## Absorption
+
+Population pharmacokinetic modeling in adults with RA, AS, or who were healthy showed a subcutaneous bioavailability of 56.9% with a Ka of 0.0223/h. 2 Another model in pediatric JIA patients showed an increased Ka of 0.05/h with a high mean interindividual variability of 215%. 3 Cmax after a single 25 mg subcutaneous dose of Enbrel is reported as 1.1 mcg/L with a Tmax of 69 h. 7 Cmax after repeated dosing is reported as 2.4 mcg/L in adult RA patients with a dosage of 25 mg twice weekly and 2.1 mcg in pediatric JIA patients with a dosage of 0.4 mg/kg twice weekly.
+
+## Volume Of Distribution
+
+Population pharmacokinetic modeling predicts a total Vd of 5.49 L with a peripheral compartment of 1.24 L in adults with RA and an apparent Vd with subcutaneous administration in pediatric JIA patients of 7.88 L. 2 , 3
+
+## Metabolism
+
+As etanercept is a fusion protein antibody, it is assumed to be metabolized via proteinases similarly to endogenous proteins.
+
+## Half Life
+
+Etanercept has a mean half-life of elimination of 102 hours in RA patients. 7 Population models have shown a mean half-life of 68 hours in healthy adults and 70.7-94.8 hours in pediatric JIA patients. 4 , 3
+
+## Clearance
+
+Etanercept has a mean apparent clearance of 160 mL/h in RA patients. 7 Population models predict a mean apparent clearance of 132 mL/h in healthy adults and 0.0576 L/h in pediatric JIA patients. 4 , 3

@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_059
+DCI: Levomepromazine Chlorhydrate Exprime En Levomepromazine
+DrugBank ID: DB01403
+DrugBank Name: Methotrimeprazine
+Brand Names: LEVONON BGL | LEVOZAN | NOZINAN
+Pharmaceutical Forms: Solution
+Dosages: 4%
+Packaging: flc 30ml+ compte goutte
+Registration Numbers: 235/16 D 059/24 | 242/16 D 059/11/20 | 263/16 D 059/96/24
+Drug Codes: 16 D 059
+
+------------------------------------------------------------
+
+## Description
+
+A phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Pharmacodynamics
+
+Methotrimeprazine is a phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Methotrimeprazine has an incomplete oral bioavailability, because it undergoes considerable first-pass-metabolism in the liver. Oral bioavailability is approximately 50 to 60%.
+
+## Metabolism
+
+Hepatic. Methotrimeprazine is metabolized in the liver and degraded to a sulfoxid-, a glucuronid- and a demethyl-moiety.
+
+## Half Life
+
+Approximately 20 hours.
+
+## Toxicity
+
+Symptoms of overdose include convulsions, spastic movements, and coma.

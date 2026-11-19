@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_066
+DCI: Sulpiride
+Brand Names: G-SULPIRIDE
+Pharmaceutical Forms: Gles.
+Dosages: 50MG
+Packaging: B/30
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 140.1 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: 16D066
+Registration Numbers: 003/16 D 066/96/20 | 039/16 D 066/14 | 049/16 D 066/97 | 231/16 D 066/09 | 235/16 D 066/08/24 | 242/16 D 066/11 | 268/16 D 066/05/25 | 518/16 D 066/17/22
+Drug Codes: 16 D 066
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+NEUROLEPTIQUES

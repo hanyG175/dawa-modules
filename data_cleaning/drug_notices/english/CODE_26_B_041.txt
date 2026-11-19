@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_041
+DCI: ETHANOL 72 % + POVIDONE IODEE 5 % sol cut récip unidose (BETADINE ALCOOLIQUE Unidose)
+DrugBank ID: DB00898
+DrugBank Name: Ethanol
+Brand Names: ALCOOL CHIRURGICAL 90°
+Pharmaceutical Forms: Solution
+Dosages: 90°
+Packaging: 1 flacon/1000ml
+Laboratories: COOPER
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D09 - PANSEMENTS MEDICAMENTEUX | D09A - PANSEMENTS MEDICAMENTEUX | D09AA - PANSEMENTS AVEC ANTI-INFECTIEUX | D09AA09 - POVIDONE IODEE
+Registration Numbers: 314/26 B 041/15/22
+Drug Codes: 26 B 041
+
+------------------------------------------------------------
+
+## Description
+
+A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.

@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_128
+DCI: Alverine/Simeticone
+DrugBank ID: DB01616
+DrugBank Name: Alverine
+Brand Names: BIOSPASMYL | METEOSPASMYL | ROVASPASMYL
+Pharmaceutical Forms: Gélule
+Dosages: 60mg/300mg
+Packaging: b/20 | b/20 et b/40 | b/40
+Registration Numbers: 321/10 E 128/24 | 645/10 E 128/25 | 662/10 E 128/03/23
+Drug Codes: 10 E 128
+
+------------------------------------------------------------
+
+## Description
+
+Alverine is a smooth muscle relaxant used to relieve cramps or spasms of the stomach and intestines. It is therefore useful in treating irritable bowel syndrome (IBS) and similar conditions. It can also be used to help relieve period pain.
+
+## Pharmacodynamics
+
+Alverine is a smooth muscle relaxant. Smooth muscle is a type of muscle that is not under voluntary control; it is the muscle present in places such as the gut and uterus. Alverine acts directly on the muscle in the gut, causing it to relax. This prevents the muscle spasms which occur in the gut in conditions such as irritable bowel syndrome and diverticular disease. Diverticular disease is a condition in which small pouches form in the gut lining. These pouches can trap particles of food and become inflamed and painful. In irritable bowel syndrome the normal activity of the gut muscle is lost. The muscle spasms result in symptoms such as heartburn, abdominal pain and bloating, constipation or diarrhoea. By relaxing the gut muscle, alverine citrate relieves the symptoms of this condition. Alverine also relaxes the smooth muscle in the womb (uterus). It is therefore also used to treat painful menstruation, which is caused by muscle spasms in the uterus (dysmenorrhea).
+
+## Mechanism Of Action
+
+5-hydroxytryptamine receptor 1A Antagonist
+
+## Metabolism
+
+Rapidly converted to its primary active metabolite, which is then further converted to two secondary metabolites.
+
+## Route Of Elimination
+
+High renal clearance of all metabolites indicating that they are eliminated by active renal secretion.
+
+## Half Life
+
+The plasma half-life averages 0.8 hours for alverine and 5.7 hours for the active primary metabolite.
+
+## Toxicity
+
+Can produce hypotension and atropine-like toxic effects. Fatality has occurred following overdose with very high doses.

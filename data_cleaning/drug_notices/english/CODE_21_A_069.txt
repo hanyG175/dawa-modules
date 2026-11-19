@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_069
+DCI: Ibuprofene/Levomenthol
+DrugBank ID: DB01050
+DrugBank Name: Ibuprofen
+Brand Names: IBUTHOL
+Pharmaceutical Forms: Gélule
+Dosages: 5g/3g pour 100g
+Packaging: tube de 50g
+Registration Numbers: 149/21 A 069/16/24
+Drug Codes: 21 A 069
+
+------------------------------------------------------------
+
+## Description
+
+Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) derived from propionic acid and it is considered the first of the propionics. 7 The formula of ibuprofen is 2-(4-isobutylphenyl) propionic acid and its initial development was in 1960 while researching for a safer alternative for aspirin. 8 Ibuprofen was finally patented in 1961 and this drug was first launched against rheumatoid arthritis in the UK in 1969 and USA in 1974. It was the first available over-the-counter NSAID. 9 On the available products, ibuprofen is administered as a racemic mixture. Once administered, the R-enantiomer undergoes extensive interconversion to the S-enantiomer in vivo by the activity of the alpha-methylacyl-CoA racemase. In particular, it is generally proposed that the S-enantiomer is capable of eliciting stronger pharmacological activity than the R-enantiomer. 24
+
+## Pharmacodynamics
+
+Ibuprofen has multiple actions in different inflammatory pathways involved in acute and chronic inflammation. The main effects reported in ibuprofen are related to the control of pain, fever and acute inflammation by the inhibition of the synthesis of prostanoids by COX-1 and COX-2. Pain relief is attributed to peripheral affected regions and central nervous system effects in the pain transmission mediated by the dorsal horn and higher spinothalamic tract. Some reports have tried to link the pain regulation with a possible enhancement on the synthesis of endogenous cannabinoids and action on the NMDA receptors. The effect on pain has been shown to be related to the cortically evoked potentials. 23 The antipyretic effect is reported to be linked to the effect on the prostanoid synthesis due to the fact that the prostanoids are the main signaling mediator of pyresis in the hypothalamic-preoptic region. 23 The use of ibuprofen in dental procedures is attributed to the local inhibition of prostanoid production as well as to anti-oedemic activity and an increase of plasma beta-endorphins. Some reports have suggested a rapid local reduction of the expression of COX-2 in dental pulp derived by the administration of ibuprofen. 23 The administration of ibuprofen in patients with rheumatic diseases has shown to control joint symptoms. 10 Ibuprofen is largely used in OTC products such as an agent for the management of dysmenorrhea which has been proven to reduce the amount of menstrual prostanoids and to produce a reduction in the uterine hypercontractility. 17 As well, it has been reported to reduce significantly the fever and the pain caused by migraines. 18 , 19 This effect is thought to be related to the effect on platelet activation and thromboxane A2 production which produces local vascular effects in the affected regions. This effect is viable as ibuprofen can enter in the central nervous system. 23 In the investigational uses of ibuprofen, it has been reported to reduce neurodegeneration when given in low doses over a long time. 20 On the other hand, its use in Parkinson disease is related to the importance of inflammation and oxidative stress in the pathology of this condition. 21 The use of ibuprofen for breast cancer is related to a study that shows a decrease of 50% in the rate of breast cancer. 22
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor
+
+## Absorption
+
+It is very well absorbed orally and the peak serum concentration can be attained in 1 to 2 hours after extravascular administration. When ibuprofen is administered immediately after a meal there is a slight reduction in the absorption rate but there is no change in the extent of the absorption. 10 When orally administered, the absorption of ibuprofen in adults is very rapidly done in the upper GI tract. 23 The average Cmax, Tmax and AUC ranges around 20 mcg/ml, 2 h and 70 mcg.h/ml. These parameters can vary depending on the enantiomer form, route, and dose of administration. 23
+
+## Volume Of Distribution
+
+The apparent volume of distribution of ibuprofen is of 0.1 L/kg. 25
+
+## Metabolism
+
+Ibuprofen is rapidly metabolized and biotransformed in the liver to the formation of major metabolites which are the hydroxylated and carboxylated derivatives. 10 As soon as it is absorbed, the R-enantiomer undergoes extensive enantiomeric conversion (53-65%) to the more active S-enantiomer in vivo by the activity of alpha-methylacyl-CoA racemase. 24 Ibuprofen metabolism can be divided in phase I which is represented by the hydroxylation of the isobutyl chains for the formation of 2 or 3-hydroxy derivatives followed by oxidation to 2-carboxy-ibuprofen and p-carboxy-2-propionate. These oxidative reactions are performed by the activity of the cytochrome P450 isoforms CYP 2C9, CYP 2C19 and CYP 2C8. Therefore, these enzymes participate in the oxidation of the alkyl side chain to hydroxyl and carboxyl derivatives. From this enzymes, the major catalyst in the formation of oxidative metabolites is the isoform CYP 2C9. 23 The metabolic phase I is followed by a phase II in which the oxidative metabolites may be conjugated to glucuronide prior to excretion. This activity forms phenolic and acyl glucuronides. 23 Hover over products below to view reaction partners Ibuprofen Ibuprofen glucuronide 2-Hydroxyibuprofen 3-Hydroxyibuprofen Carboxy-ibuprofen 1-hydroxyibuprofen
+
+## Route Of Elimination
+
+Ibuprofen is rapidly metabolized and eliminated in the urine thus, this via accounts
+
+## Half Life
+
+The serum half-life of ibuprofen is 1.2-2 hours. 10 In patients with a compromised liver function, the half-life can be prolonged to 3.1-3.4 hours. 23
+
+## Clearance
+
+The clearance rate ranges between 3-13 L/h depending on the route of administration, enantiomer type and dosage. 23
+
+## Toxicity
+
+The symptoms of overdose are presented in individuals that consumed more than 99 mg/kg. Most common symptoms of overdose are abdominal pain, nausea, vomiting, lethargy, vertigo, drowsiness (somnolence), dizziness and insomnia. Other symptoms of overdose include headache, loss of consciousness, tinnitus, CNS depression, convulsions and seizures. May rarely cause metabolic acidosis, abnormal hepatic function, hyperkalemia, renal failure, dyspnea, respiratory depression, coma, acute renal failure, and apnea (primarily in very young pediatric patients). 26 The reported LD50 of ibuprofen is of 636 mg/kg in rat, 740 mg/kg in mouse and 495 mg/kg in guinea pig. MSDS

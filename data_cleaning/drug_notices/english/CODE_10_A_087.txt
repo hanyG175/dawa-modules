@@ -1,0 +1,63 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_087
+DCI: ESOMEPRAZOLE (magnésium) 40 mg cp gastrorésis (ESOMEPRAZOLE ALTER)
+DrugBank ID: DB00338
+DrugBank Name: Omeprazole
+Brand Names: OPRACIDE | RISEK
+Pharmaceutical Forms: Poudre Lyoph. P. Perf. Iv | Poudre Lyoph. P. Sol. Inj. Perf.
+Dosages: 40mg/fl. de pdre.
+Packaging: b/01fl. de pdre. | b/1fl. de pdre.
+Registration Numbers: 001/10 A 087/06/15 | 329/10 A 087/13
+Drug Codes: 10 A 087
+
+------------------------------------------------------------
+
+## Description
+
+Originally approved by the FDA in 1989, omeprazole is a proton-pump inhibitor , used to treat gastric acid-related disorders. These disorders may include gastroesophageal reflux disease (GERD), peptic ulcer disease, and other diseases characterized by the oversecretion of gastric acid. This drug was the first clinical useful drug in its class, and its approval was followed by the formulation of many other proton pump inhibitor drugs 6 . Omeprazole is generally effective and well-tolerated, promoting its popular use in children and adults Label .
+
+## Indications
+
+Omeprazole, according to the FDA label Label is a proton pump inhibitor (PPI) used for the following purposes: • Treatment of active duodenal ulcer in adults • Eradication of Helicobacter pylori to reduce the risk of duodenal ulcer
+recurrence in adults • Treatment of active benign gastric ulcer in adults • Reduction of risk of upper gastrointestinal (GI) bleeding in critically ill adult patients. • Treatment of symptomatic gastroesophageal reflux disease (GERD) in
+patients 1 year of age and older • Treatment of erosive esophagitis (EE) due to acid-mediated GERD in
+patients 1 month of age and older • Maintenance of healing of EE due to acid-mediated GERD in patients 1
+
+## Pharmacodynamics
+
+Effects on gastric acid secretion This drug decreases gastric acid secretion Label . After oral administration, the onset of the antisecretory effect of omeprazole is usually achieved within one hour, with the maximum effect occurring by 2 hours after administration. The inhibitory effect of omeprazole on acid secretion increases with repeated once-daily dosing, reaching a plateau after four days Label . Effects on serum gastrin In studies of 200 or more patients, serum gastrin levels increased during the first 1-2 weeks of daily administration of therapeutic doses of omeprazole. This occurred in a parallel fashion with the inhibition of acid secretion. No further increase in serum gastrin occurred with continued omeprazole administration. Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels. The increased CgA levels may lead to false positive results in diagnostic studies for neuroendocrine tumors Label . Enterochromaffin-like (ECL) cell effects Human gastric biopsy samples have been obtained from more than 3000 pediatric and adult patients treated with omeprazole in long-term clinical studies. The incidence of enterochromaffin-like cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia have been identified in these patients. These studies, however, are of insufficient in power and duration to draw conclusions on the possible influence of long-term administration of omeprazole in the development of any premalignant or malignant conditions Label . Other effects Systemic effects of omeprazole in the central nervous system, cardiovascular and respiratory systems have not been found to date. Omeprazole, given in oral doses of 30 or 40 mg for 2-4 weeks, showed no effect on thyroid function, carbohydrate metabolism, or circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin Label .
+
+## Mechanism Of Action
+
+Potassium-transporting ATPase alpha chain 1 Inhibitor
+
+## Absorption
+
+Omeprazole delayed-release capsules contain an enteric-coated granule formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the granules exit the stomach Label . Absorption of omeprazole occurs rapidly, with peak plasma concentrations of omeprazole achieved within 0.5-3.5 hours Label . Absolute bioavailability (compared with intravenous administration) is approximately 30-40% at doses of 20-40 mg, largely due to pre-systemic metabolism. The bioavailability of omeprazole increases slightly upon repeated administration of omeprazole delayed-release capsules Label .
+
+## Volume Of Distribution
+
+Approximately 0.3 L/kg, corresponding to the volume of extracellular water 5 .
+
+## Metabolism
+
+Omeprazole is heavily metabolized in the liver by the cytochrome P450 (CYP) enzyme system. The main part of its metabolism depends on the polymorphically expressed CYP2C19, which is responsible for the formation of hydroxyomeprazole , the major metabolite found in plasma. The remaining part depends on CYP3A4, responsible for the formation of omeprazole sulphone Label . Hover over products below to view reaction partners Omeprazole 5-Hydroxyomeprazole 5'-O-Desmethyl omeprazole Omeprazole sulfone 3-Hydroxyomeprazole
+
+## Route Of Elimination
+
+After a single dose oral dose of a buffered solution of omeprazole, negligible (if any) amounts of unchanged drug were excreted in urine. Most of the dose (about 77%) was eliminated in urine as at least six different metabolites. Two metabolites were identified as hydroxyomeprazole and the corresponding carboxylic acid . The remainder of the dose was found in the feces. This suggests significant biliary excretion of omeprazole metabolites. Three metabolites have been identified in the plasma, the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole . These metabolites possess minimal or no antisecretory activity Label .
+
+## Half Life
+
+0.5-1 hour (healthy subjects, delayed-release capsule) Label Approximately 3 hours (hepatic impairment) Label
+
+## Clearance
+
+Healthy subject (delayed release capsule), total body clearance 500 - 600 mL/min Label Geriatric plasma clearance: 250 mL/min Label Hepatic impairment plasma clearance: 70 mL/min Label
+
+## Toxicity
+
+Oral acute (LD50) : 4000 mg/kg (mouse), 2210 mg/kg (rat) MSDS . Overdose Symptoms of overdose include confusion, drowsiness, blurred vision, tachycardia, nausea, diaphoresis, flushing, headache, and dry mouth. Carcinogenesis and mutagenesis In 24-month studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was seen in male and female animals. Carcinoid tumors have also been found in rats treated with a fundectomy or long-term treatment with other proton pump inhibitors, or high doses of H2-receptor antagonists Label . Omeprazole showed positive clastogenic effects in an in vitro human lymphocyte chromosomal aberration study, in one of two in vivo mouse micronucleus tests, and in an in vivo bone marrow cell chromosomal aberration test. Omeprazole tested negative in the in vitro Ames test, an in vitro mouse lymphoma cell forward mutation assay, and an in vivo rat liver DNA damage assay Label . The use in breastfeeding Limited data indicate that omeprazole may be present in human milk. There is currently no information on the effects of omeprazole on the breastfed infant or production of milk. The benefits of breastfeeding should be considered along with the level of need for omeprazole and any potential adverse effects on the breastfed infant from omeprazole Label . Effects on fertility Effects of omeprazole at oral doses up to 138 mg/kg/day in rats (about 34 times an oral human dose) was found to have no impact on fertility and reproductive performance Label .

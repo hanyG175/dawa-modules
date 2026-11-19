@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_112
+DCI: Thiamine / Pyridoxine | Thiamine Chlorhydrate/Pyridoxine Chlorhydrate | Thiamine Mononitrate/Pyridoxine Chlorhydrate | Thiamine/Pyridoxine
+DrugBank ID: DB00152
+DrugBank Name: Thiamine
+Brand Names: APIROVIT | BIROVIT HUP | NEUROVIT | NOVITAL | VITAMINE B1 B6 BGL | VITAZYME
+Pharmaceutical Forms: Comprimé
+Dosages: 250 mg | 250mg/250mg
+Packaging: b/20 | boite de 20
+Registration Numbers: 003/14 H 112/97/23 | 039/14 H 112/00/14 | 235/14 H 112/15/23 | 317/14 H 112/16/23 | 348/14 H 112/06 | 380/14 H 112/15
+Drug Codes: 14 H 112
+
+------------------------------------------------------------
+
+## Description
+
+Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+
+## Pharmacodynamics
+
+Thiamine is a vitamin with antioxidant, erythropoietic, cognition-and mood-modulatory, antiatherosclerotic, putative ergogenic, and detoxification activities. Thiamine has been found to protect against lead-induced lipid peroxidation in rat liver and kidney. Thiamine deficiency results in selective neuronal death in animal models. The neuronal death is associated with increased free radical production, suggesting that oxidative stress may play an important early role in brain damage associated with thiamine deficiency. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Inhibition of endothelial cell proliferation may also promote atherosclerosis. Endothelial cells in culture have been found to have a decreased proliferative rate and delayed migration in response to hyperglycemic conditions. Thiamine has been shown to inhibit this effect of glucose on endothelial cells.
+
+## Mechanism Of Action
+
+Thiamine pyrophosphokinase 1 Substrate
+
+## Absorption
+
+Absorbed mainly from duodenum, by both active and passive processes
+
+## Metabolism
+
+Hepatic
+
+## Toxicity
+
+Thiamine toxicity is uncommon; as excesses are readily excreted, although long-term supplementation of amounts larger than 3 gram have been known to cause toxicity. Oral mouse LD 50 = 8224 mg/kg, oral rat LD 50 = 3710 mg/kg.

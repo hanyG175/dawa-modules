@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_B_371
+DCI: INSULINE LISPRO 100 UI/ml sol inj stylo prérempli (HUMALOG KWIKPEN) | Insuline Degludec
+DrugBank ID: DB09564
+DrugBank Name: Insulin degludec
+Brand Names: TRESIBA FLEXPEN | TRESIBA FLEXTOUCH
+Pharmaceutical Forms: Solution
+Dosages: 100ui/1ml
+Packaging: b/01 et b/02 et 05 stylos preremplis de 3ml en cartouche | b/01 stylos preremplis munis de cartouche de 3ml
+Laboratories: LILLY FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10A - INSULINES ET ANALOGUES | A10AB - INSULINES ET ANALOGUES D'ACTION RAPIDE PAR VOIE INJECTABLE | A10AB04 - INSULINE LISPRO
+Registration Numbers: 069/14 B 371/20 | 368/14 B 371/24
+Drug Codes: 14 B 371
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Insulin is a natural hormone produced by beta cells of the pancreas. In nondiabetic individuals, the pancreas produces a continuous supply of low basal insulin levels and spikes of insulin following meals. 1 , 2 , 3 , 4 , 5 Increased insulin secretion following meals is responsible for the metabolic changes that occur as the body transitions from a postabsorptive to an absorptive state. 1 , 2 , 3 , 4 , 5 Insulin promotes cellular uptake of glucose, particularly in muscle and adipose tissues, promotes energy storage via glycogenesis, opposes catabolism of energy stores, increases DNA replication and protein synthesis by stimulating amino acid uptake by the liver, muscle and adipose tissue, and modifies the activity of numerous enzymes involved in glycogen synthesis and glycolysis. 1 , 2 , 3 , 4 , 5 Insulin also promotes growth and is required for the actions of growth hormone (e.g. protein synthesis, cell division, DNA synthesis). 1 , 2 , 3 , 4 , 5 Insulin detemir is a long-acting insulin analogue with a flat and predictable action profile. 1 , 2 , 3 , 4 , 5 It mimics the basal insulin levels in diabetic individuals. The onset of action of insulin detemir is 1 to 2 hours and its duration of action is up to 24 hours. Interestingly, it has a lower affinity (30%) for the insulin receptor than human insulin. 1 , 2 , 3 , 4 , 5
+
+## Mechanism Of Action
+
+Insulin receptor Agonist
+
+## Absorption
+
+In patients with type 1 diabetes, after 8 days of once-daily subcutaneous dosing with 0.4 U/kg, maximum insulin degludec concentrations of 4472 pmol/L were attained at a median of 9 hours (t max ). 10 After the first dose, the median onset of appearance was around one hour. The glucose-lowering effect lasted at least 42 hours after the last of 8 once-daily injections. Insulin degludec concentration reaches steady-state levels after 3-4 days. 10
+
+## Volume Of Distribution
+
+Using a one-compartment pharmacokinetics model, the apparent volume of distribution was estimated to be 10.6 L for the pediatric population and 13.9 L for the adult population. 14
+
+## Metabolism
+
+All insulin degludec metabolites are inactive. 10 The liver and kidney play the major role in metabolizing insulin. 7 However, while the liver predominantly metabolizes endogenous insulin, exogenous insulin is primarily metabolized due to the kidney since it is not directly delivered into the portal system. 7
+
+## Route Of Elimination
+
+30 to 80% of circulating insulin is removed by the kidney. 6
+
+## Half Life
+
+The half-life after subcutaneous administration is determined primarily by the rate of absorption from the subcutaneous tissue. On average, the half-life at a steady state is approximately 25 hours independent of dose. 10
+
+## Clearance
+
+The mean apparent clearance of insulin degludec is 0.03 L/kg (2.1 L/h in 70 kg individuals) after a single subcutaneous dose of 0.4 units/kg. 10
+
+## Toxicity
+
+An excess of insulin relative to food intake, energy expenditure, or both may lead to severe and sometimes prolonged and life-threatening hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6)]. Mild episodes of hypoglycemia can usually be treated with oral glucose. Lowering the insulin dosage and adjusting meal patterns or exercise may be needed. More severe episodes of hypoglycemia with coma, seizure, or neurologic impairment may be treated with glucagon for emergency use or concentrated intravenous glucose. After apparent clinical recovery from hypoglycemia, continued observation and additional carbohydrate intake may be necessary to avoid the reoccurrence of hypoglycemia. Hypokalemia must be corrected appropriately. 10 Insulin degludec was investigated in studies covering fertility, embryo-fetal development, and pre and post-natal development in rats and during the period of embryo-fetal development in rabbits. Human insulin (NPH insulin) was included as a comparator. In these studies, insulin degludec caused pre and post-implantation losses and visceral/skeletal abnormalities when given subcutaneously at up to 21 U/kg/day in rats and 3.3 U/kg/day in rabbits, resulting in 5 times (rat) and 10 times (rabbit) the human exposure (AUC) at a human subcutaneous dose of 0.75 U/kg/day. Overall, the effects of insulin degludec were similar to
+those observed with human insulin, which was probably secondary to maternal hypoglycemia. 10

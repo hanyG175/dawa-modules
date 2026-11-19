@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_28_A_005
+DCI: Avalglucosidase Alfa
+DrugBank ID: DB16099
+DrugBank Name: Avalglucosidase alfa
+Brand Names: NEXVIAZYME
+Pharmaceutical Forms: Poudre
+Dosages: 100mg
+Packaging: b/01
+Registration Numbers: 376/28 A 005/25
+Drug Codes: 28 A 005
+
+------------------------------------------------------------
+
+## Description
+
+Avalglucosidase alfa, or NeoGAA, is a drug for enzyme replacement therapy specifically designed for Pompe disease, a rare inherited neuromuscular disorder caused by the deficiency of the alpha-glucosidase (GAA) enzyme. GAA is an essential enzyme that hydrolyzes glycogen into free glucose for use in cellular functions. In Pompe disease, the GAA enzyme is missing and patients are unable to properly break down glycogen, resulting in the accumulation of glycogen within lysosomes and progressive disruption of cellular function, especially in smooth, cardiac, and skeletal muscle cells. Pompe disease is characterized by progressive muscle weakness and loss of motor function, including respiratory muscle weakness, which leads to premature death and debilitating effects on people’s lives. 1 Avalglucosidase alfa is a recombinant form of GAA that restores deficient enzyme levels. First developed by Sanofi Genzyme, avalglucosidase alfa is a chemically modified version of alglucosidase alfa , where synthetic bis-phosphorylated oligosaccharides were attached to the structure to improve cellular uptake of the drug and better muscle targeting. 2 On August 6, 2021, avalglucosidase alfa-ngpt was approved by the FDA under the market name Nexviazyme to treat patients one year of age and older with late-onset Pompe disease. 4 Late-onset Pompe disease is associated with a range of debilitating physical symptoms, such as progressive muscle weakness, including respiratory muscle weakness, and loss of motor function. 1 In clinical trials, avalglucosidase alfa improved lung function in patients with Pompe disease. 4 Avalglucosidase alfa was approved by Health Canada on November 15, 2021 for the treatment of patients older than six months of age with late-onset Pompe disease. 6 The EMA approved the drug on June 24, 2022. 8
+
+## Pharmacodynamics
+
+Avalglucosidase alfa is a recombinant alpha-glucosidase (GAA) enzyme that catalyzes hydrolysis of glycogen. In clinical trials, avalglucosidase alfa reduced the levels of glycogen excreted in the urine of patients with Pompe disease, indicating that it effectively cleaved excess glycogen. 3 Avalglucosidase alfa has significantly higher binding affinity for cation-independent mannose-6-phosphate receptor (CI-MPR) for cellular uptake and better muscle targeting than alglucosidase alfa . In GAA-deficient mice, avalglucosidase alfa reduced glycogen with more efficacy than alglucosidase alfa at an equivalent dose. 2
+
+## Mechanism Of Action
+
+Cation-independent mannose-6-phosphate receptor Ligand
+
+## Absorption
+
+The avalglucosidase alfa-ngpt exposure increases in an approximately proportional manner with increasing doses over a range from 5 to 20 mg/kg. Following intravenous infusion of 20 mg/kg every two weeks in patients with late-onset Pompe disease, the mean ± SD plasma C max of avalglucosidase alfa-ngpt was 259 ± 72 µg/mL at week one and 242 ± 81 µg/mL at week 49. The mean ± SD plasma AUC of avalglucosidase alfa-ngpt was 1,290 ± 420 µg∙h/mL at week one and 1,250 ± 433 µg∙h/mL at week 49. 3
+
+## Volume Of Distribution
+
+The volume of distribution of avalglucosidase alfa-ngpt was 3.4 L in patients with late-onset Pompe disease. No accumulation was observed following every two
+weeks-dosing schedules. 3
+
+## Metabolism
+
+The metabolic pathway of avalglucosidase alfa-ngpt has not been characterized. The protein portion of avalglucosidase alfa-ngpt is expected to be metabolized into small peptides and amino acids via catabolic pathways. 3
+
+## Route Of Elimination
+
+There is limited information on drug elimination.
+
+## Half Life
+
+The mean avalglucosidase alfa-ngpt plasma elimination half-life was 1.6 hours in patients with late-onset Pompe disease. 3
+
+## Clearance
+
+The mean avalglucosidase alfa-ngpt clearance was 0.9 L/hour in patients with late-onset Pompe disease. 3
+
+## Toxicity
+
+There is limited information on the overdose profile and LD 50 values of avalglucosidase alfa.

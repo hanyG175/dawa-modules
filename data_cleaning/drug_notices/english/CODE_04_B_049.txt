@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_049
+DCI: Ketoprofene
+DrugBank ID: DB01009
+DrugBank Name: Ketoprofen
+Brand Names: HARUFEN
+Pharmaceutical Forms: Patch
+Dosages: 30mg
+Packaging: b/7
+Registration Numbers: 527/04 B 049/17
+Drug Codes: 04 B 049
+
+------------------------------------------------------------
+
+## Description
+
+Ketoprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+
+## Pharmacodynamics
+
+Ketoprofen is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties. Ketoprofen has pharmacologic actions similar to those of other prototypical NSAIDs, which inhibit prostaglandin synthesis. Ketoprofen is used to treat rheumatoid arthritis, osteoarthritis, dysmenorrhea, and alleviate moderate pain.
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor Prostaglandin G/H synthase 1 Inhibitor C-X-C chemokine receptor type 1 Other
+
+## Absorption
+
+Ketoprofen is rapidly and well-absorbed orally, with peak plasma levels occurring within 0.5 to 2 hours.
+
+## Metabolism
+
+Rapidly and extensively metabolized in the liver, primarily via conjugation to glucuronic acid. No active metabolites have been identified. Hover over products below to view reaction partners Ketoprofen Ketoprofen glucuronide
+
+## Route Of Elimination
+
+In a 24 hour period, approximately 80% of an administered dose of ketoprofen is excreted in the urine, primarily as the glucuronide metabolite.
+
+## Half Life
+
+Conventional capsules: 1.1-4 hours Extended release capsules: 5.4 hours due to delayed absorption (intrinsic clearance is same as conventional capsules)
+
+## Clearance
+
+Oral-dose cl=6.9 +/- 0.8 L/h [Ketoprofen Immediate-release capsules (4 × 50 mg)] Oral-dose cl=6.8 +/- 1.8 L/h [Ketoprofen Extended-release capsules (1 × 200 mg)] 0.08 L/kg/h 0.7 L/kg/h [alcoholic cirrhosis patients]
+
+## Toxicity
+
+LD 50 =62.4 mg/kg (rat, oral). Symptoms of overdose include drowsiness, vomiting and abdominal pain. Side effects are usually mild and mainly involved the GI tract. Most common adverse GI effect is dyspepsia (11% of patients). May cause nausea, diarrhea, abdominal pain, constipation and flatulence in greater than 3% of patients.

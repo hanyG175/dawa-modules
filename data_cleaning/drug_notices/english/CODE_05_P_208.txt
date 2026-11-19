@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_P_208
+DCI: Vismodegib
+DrugBank ID: DB08828
+DrugBank Name: Vismodegib
+Brand Names: ERIVEDGE
+Pharmaceutical Forms: Gélule
+Dosages: 150 mg
+Packaging: pilulier de 28
+Registration Numbers: 128/05 P 208/18
+Drug Codes: 05 P 208
+
+------------------------------------------------------------
+
+## Description
+
+Vismodegib is an orally active small molecule that inhibits the hedgehog signaling pathway by binding to and inhibiting the transmembrane protein smoothened homologue (SMO). 4 , 5 , 6 It was discovered by high-throughput screening of a library of small-molecule compounds and subsequent optimization through medicinal chemistry. 1 Since it targets the hedgehog signaling pathway, vismodegib has anti-tumor activity in basal-cell carcinoma. The Hedgehog signaling pathway plays an important role in the development of organs and tissues during embryogenesis. Afterwards, it is silenced in all cells and tissues, except for hair, skin and stem cells. However, dysregulated or aberrant Hedgehog signaling has been associated with basal cell carcinoma pathogenesis. 3 , 6 In January 2012, vismodegib was approved by the FDA for the treatment of adult basal cell carcinoma. In July 2013, it was approved by the EMA, and since then, it has been approved by several other countries. 2 , 5 , 6
+
+## Pharmacodynamics
+
+Vismodegib selectively binds to and inhibits the transmembrane protein smoothened homologue (SMO) to inhibit the Hedgehog signalling pathway. Following 7 days of 150 mg once-daily dosing, the use of vismodegib was not associated with a clinically significant QT interval prolongation. 6 Vismodegib can cause embryo-fetal death or severe birth defects, as well as severe cutaneous adverse reactions and musculoskeletal adverse reactions. In pediatric patients given vismodegib, premature fusion of the epiphyses has been reported. 6
+
+## Mechanism Of Action
+
+Protein smoothened Antagonist Inhibitor
+
+## Absorption
+
+Vismodegib appears to have a nonlinear pharmacokinetic profile following daily oral dosing, and steady state is achieved within 7 days. A dose increase from 150 mg to 540 mg (1 to 3.6 times the recommended dose) does not lead to an increase in steady-state plasma concentrations. With a once-daily dose of 150 mg, the average plasma concentration of vismodegib at steady state is approximately 23 µM. The absolute bioavailability of a single dose of vismodegib is 31.8%. Absorption is saturable and is not affected by food. 6
+
+## Volume Of Distribution
+
+The volume of distribution of vismodegib ranges between 16.4 and 26.6 L. 6
+
+## Metabolism
+
+Vismodegib is mainly metabolized by CYP2C9 and CYP3A4 in the liver; however, more than 98% of total systemic vismodegib is not metabolized. Metabolic pathways of vismodegib in humans include oxidation, glucuronidation, and pyridine ring cleavage. The two most abundant oxidative metabolites recovered in feces are produced in vitro by recombinant CYP2C9 and CYP3A4/5. 6 Hover over products below to view reaction partners Vismodegib Vismodegib M1 metabolite Vismodegib M4 metabolite Vismodegib M3 metabolite Vismodegib M5 metabolite Vismodegib M14 metabolite
+
+## Route Of Elimination
+
+Vismodegib is excreted mostly unchanged. Vismodegib and its metabolites are mainly eliminated through feces. Approximately 82% and 4.4% of the administered dose are recovered in feces and urine, respectively. 6
+
+## Half Life
+
+The half-life of vismodegib after a single dose is 12 days, and after continuous daily dosing is 4 days. 6
+
+## Toxicity
+
+Toxicity information regarding vismodegib is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as severe cutaneous adverse reactions and musculoskeletal adverse reactions. Symptomatic and supportive measures are recommended. Patients treated with vismodegib have an increased risk of embryo-fetal death and significant birth defects. Common adverse event include muscle spasms, alopecia, dysgeusia, weight loss, fatigue, nausea, diarrhea, decreased appetite, constipation, arthralgias, vomiting, and ageusia. 6 Based on the results of in vitro and in vivo studies, vismodegib is not mutagenic. No evidence of carcinogenicity was found in mice and rats given vismodegib. A 26-week rat fertility study found that at doses of 100 mg/kg/day, vismodegib has no effects on male reproductive organs or fertility. In female rats, the administration of vismodegib was associated with decreased implantations, increased percent preimplantation loss, and decreased numbers of dams with viable embryos. 6

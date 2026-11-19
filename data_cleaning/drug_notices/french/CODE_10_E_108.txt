@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_108
+DCI: PHLOROGLUCINOL 80 mg cp orodispers (PHLOROGLUCINOL ARROW)
+Brand Names: EUFOR | EVOGLUCINOL | LEVOSPASME | OROSPASM | PHLOROGLUCINOL BGL | PHLOROGLUCINOL HUP | PHLOROGLUCINOL IVAL | PHLOROGLUCINOL MM | PHLOROGLUCINOL PHYSIOPHARM | PHLOROXIM | PHLOSPASM | SPACINOL | SPACYL | SPASFODINE | SPASFOMEX | SPASGEN | SPASLAM | SPASMODYL | SPASMOL
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg
+Packaging: b/10 | b/10 et b/20 | b/10 et b/30 | b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX - AUTRES MEDICAMENTS CONTRE LES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX12 - PHLOROGLUCINOL
+Registration Numbers: 035/10 E 108/16 | 077/10 E 108/16 | 097/10 E 108/20 | 231/10 E 108/17/23 | 235/10 E 108/15/24 | 268/10 E 108/15 | 289/10 E 108/09/24 | 293/10 E 108/15 | 304/10 E 108/25 | 309/10 E 108/22 | 348/10 E 108/17 | 380/10 E 108/11 | 400/10 E 108/16 | 462/10 E 108/21 | 468/10 E 108/14 | 470/10 E 108/13/24 | 518/10 E 108/17/22 | 521/10 E 108/09/15 | 549/10 E 108/21
+Drug Codes: 10 E 108
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | phloroglucinol : 80 mg | Modalités d'administration | Voie orale | Administrer au moment des douleurs | Respecter un intervalle d'au moins 2 heures entre 2 prises | Posologie | Patient de 2 an(s) à 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Colique hépatique - Colique néphrétique - Douleur spasmodique des voies digestives | Posologie standard | A dissoudre avant administration | 1 comprimé 1 à 2 fois par 24 heures | Nombre d'unité de prise maximale: 2 comprimés par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Colique hépatique - Colique néphrétique - Douleur spasmodique des voies digestives | Posologie standard | A dissoudre dans un peu d'eau ou à laisser fondre sous la langue | 2 comprimés 1 à 3 fois par 24 heures | Nombre d'unité de prise maximale: 6 comprimés par 24 heures | Patient de sexe féminin | Contractions utérines au cours de la grossesse, traitement adjuvant (des) - Douleur spasmodique gynécologique | Posologie standard | A dissoudre dans un peu d'eau ou à laisser fondre sous la langue | 2 comprimés 1 à 3 fois par 24 heures | Nombre d'unité de prise maximale: 6 comprimés par 24 heures
+
+## Precautions
+
+Enfant entre 2 et 15 ans | Nourrisson de moins de 2 ans | Patient nécessitant un traitement antalgique
+
+## Mechanism Of Action
+
+Phloroglucinol : Mécanisme d'action | Le phloroglucinol est un antispasmodique musculotrope. Il lève le spasme des fibres musculaires lisses et calme la douleur.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Rare) | - Prurit | - Eruption cutanée | - Dermatite allergique | - Pustulose exanthémateuse aiguë généralisée | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique (Exceptionnel) | - Oedème de Quincke (Exceptionnel) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle

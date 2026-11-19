@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_125
+DCI: FINGOLIMOD (chlorhydrate) 0,5 mg gél (FINGOLIMOD ACCORD)
+DrugBank ID: DB08868
+DrugBank Name: Fingolimod
+Brand Names: GILENYA | LYXIA
+Pharmaceutical Forms: Gélule
+Dosages: 0.5mg
+Packaging: b/28
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AE - MODULATEURS DES RECEPTEURS DE LA SPHINGOSINE-1 PHOSPHATE (S1P) | L04AE01 - FINGOLIMOD
+Registration Numbers: 001/15 G 125/22 | 068/15 G 125/19
+Drug Codes: 15 G 125
+
+------------------------------------------------------------
+
+## Description
+
+Multiple sclerosis, or MS, is a devastating inflammatory disease that often progresses and causes severe neurological, physical, and cognitive effects. 3 Fingolimod is a sphingosine 1-phosphate receptor modulator for the treatment of relapsing-remitting multiple sclerosis. It was developed by Novartis and initially approved by the FDA in 2010. 12 Fingolimod was also studied for the treatment of COVID-19, the disease caused by infection with the SARS-CoV-2 virus. 13 , 14
+
+## Pharmacodynamics
+
+In multiple sclerosis, fingolimod binds to sphingosine receptors, reducing its associated neuroinflammation. 12 In COVID-19, it may reduce lung inflammation and improve the clinical outcomes of patients with this disease. 13 Fingolimod causes a transient reduction in heart rate and AV conduction during treatment initiation. It has the potential to prolong the QT interval. 13
+
+## Mechanism Of Action
+
+Sphingosine 1-phosphate receptor 5 Modulator Sphingosine 1-phosphate receptor 1 Modulator Sphingosine 1-phosphate receptor 3 Modulator
+
+## Absorption
+
+Fingolimod is slowly but efficiently absorbed in the gastrointestinal tract. AUC varies greatly, depending on the patient, and pharmacokinetic studies demonstrate a range of AUC values for fingolimod. 5 The Tmax of fingolimod ranges between 12-16 hours and its bioavailability is 90-93%. Steady-state concentrations of fingolimod are achieved within 1-2 months after initiation when it is administered in a single daily dose. 5 , 12
+
+## Volume Of Distribution
+
+The volume of distribution of fingolimod is about 1200±260 L. It is approximately 86% distributed in the red blood cells (RBC). 5 , 12
+
+## Metabolism
+
+Sphingosine kinase metabolizes fingolimod to an active metabolite, fingolimod phosphate. Fingolimod metabolism occurs via 3 major metabolic pathways: firstly, phosphorylation of the (S)-enantiomer of fingolimod-phosphate (pharmacologically active), secondly, oxidation by cytochrome P450 4F2 (CYP4F2), and thirdly, fatty acid-like metabolism to various inactive metabolites. The formation of inactive non-polar ceramide analogs of fingolimod also occurs during its metabolism. 5 , 12 Hover over products below to view reaction partners Fingolimod Fingolimod phosphate
+
+## Route Of Elimination
+
+About 81% of an oral dose of fingolimod is excreted in the urine in the form of inactive metabolites. Intact fingolimod and its active metabolite account for less than 2.5% of the dose, and can be found excreted in the feces. 12
+
+## Half Life
+
+The half-life of fingolimod and its active metabolite ranges from 6-9 days. 5 , 12
+
+## Clearance
+
+Fingolimod blood clearance is 6.3±2.3 L/h, 12 according to prescribing information. Another resource mentions it ranges from 6-8 L/h. 5
+
+## Toxicity
+
+The LD50 of fingolimod in rats ranges from 300-600 mg/kg. 7 Prescribing information for fingolimod does not mention symptoms or management of an overdose 12 , however, a case report of an intentional overdose with 14mg of fingolimod and 2g phenoxymethylpenicillin resulted in hypotension in bradycardia, resolved by administering atropine. 8 Since fingolimod has been associated with cardiotoxicity, it would be reasonable to expect cardiac effects such as bradycardia and heart block in the case of an overdose. 9 , 12

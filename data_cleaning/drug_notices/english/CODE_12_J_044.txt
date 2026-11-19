@@ -1,0 +1,34 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_044
+DCI: Octocog Alfa (Facteur Humain Viii Anti Hemophilique)
+DrugBank ID: DB00025
+DrugBank Name: Antihemophilic factor, human recombinant
+Brand Names: HAEMOCTIN SDH 500 | HEMOREL-A | KOVALTRY | OCTANATE
+Pharmaceutical Forms: Lyoph. Et Solv. P. Preparation Inj. Iv | Poudre | Poudre + Solv. Inj.
+Dosages: 500ui
+Packaging: 1 flc/10 ml et 1 sering 2.5ml | b/01 flc de 10ml de solvent +01 seringue jetable+01 double aiguille+01 aiguille filtre+01 aiguille d'injection+02 compresse imbibee d'alcool | b/1+ 1fl./10ml | b/1fl. de pdre. + 1fl. de 10ml de solv. (eppi)+ dispositif d'injection
+Laboratories: OCTAPHARMA FRANCE | 62 BIS AVENUE ANDRE MORIZET | 92100 BOULOGNE BILLANCOURT
+ATC Classification: B02BD02
+Registration Numbers: 286/12 J 044/12 | 370/12 J 044/07/16 | 424/12 J 044/21 | 469/12 J 044/16/24
+Drug Codes: 12 J 044
+
+------------------------------------------------------------
+
+## Description
+
+Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells
+
+## Pharmacodynamics
+
+Antihemophilic Factor binds factor IXa along with calcium and phospholipid, This complex converts factor X to factor Xa to facilitate clotting cascade.
+
+## Mechanism Of Action
+
+Coagulation factor X Activator Coagulation factor IX Cofactor von Willebrand factor Binder + 5 more targets
+
+## Clearance
+
+4.1 mL/h•kg [Previously treated pediatric patients]

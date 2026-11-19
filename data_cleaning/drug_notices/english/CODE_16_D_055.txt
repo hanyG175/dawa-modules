@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_055
+DCI: Chlorpromazine | Chlorpromazine Chlorhydrate (Chlorpromazine) | Chlorpromazine Chlorhydrate Exprime En Chlorpromazine | sodium chlorure
+DrugBank ID: DB00477
+DrugBank Name: Chlorpromazine
+Brand Names: DORMAZINE | LARGACTIL | LAROMEX | PROMAZ
+Pharmaceutical Forms: Sol. Or. En Gttes. | Solution | Suspension
+Dosages: 0.04
+Packaging: flacon de 30ml+une pipette graduee | flacon/30ml
+Laboratories: SERB
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B05 - SUBSTITUTS DU SANG ET SOLUTIONS DE PERFUSION | B05X - ADDITIFS POUR SOLUTIONS INTRAVEINEUSES | B05XA - SOLUTIONS D'ELECTROLYTES | B05XA03 - SODIUM CHLORURE
+Registration Numbers: 242/16 D 055/06 | 263/16 D 055/96/22 | 400/16 D 055/21 | 455/16 D 055/99/23
+Drug Codes: 16 D 055
+
+------------------------------------------------------------
+
+## Description
+
+The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+
+## Pharmacodynamics
+
+Chlorpromazine is a psychotropic agent indicated for the treatment of schizophrenia. It also exerts sedative and antiemetic activity. Chlorpromazine has actions at all levels of the central nervous system-primarily at subcortical levels-as well as on multiple organ systems. Chlorpromazine has strong antiadrenergic and weaker peripheral anticholinergic activity; ganglionic blocking action is relatively slight. It also possesses slight antihistaminic and antiserotonin activity.
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist D(1A) dopamine receptor Antagonist 5-hydroxytryptamine receptor 1A Antagonist + 14 more targets
+
+## Absorption
+
+Readily absorbed from the GI tract. Bioavailability varies due to first-pass metabolism by the liver.
+
+## Metabolism
+
+Extensively metabolized in the liver and kidneys. It is extensively metabolized by cytochrome P450 isozymes CYP2D6 (major pathway), CYP1A2 and CYP3A4. Approximately 10 to 12 major metabolite have been identified. Hydroxylation at positions 3 and 7 of the phenothiazine nucleus and the N-dimethylaminopropyl side chain undergoes demethylation and is also metabolized to an N-oxide. In urine, 20% of chlopromazine and its metabolites are excreted unconjugated in the urine as unchanged drug, demonomethylchlorpromazine, dedimethylchlorpromazine, their sulfoxide metabolites, and chlorpromazine-N-oxide. The remaining 80% consists of conjugated metabolites, principally O-glucuronides and small amounts of ethereal sulfates of the mono- and dihydroxy-derivatives of chlorpromazine and their sulfoxide metabolites. The major metabolites are the monoglucuronide of N-dedimethylchlorpromazine and 7-hydroxychlorpromazine. Approximately 37% of the administered dose of chlorpromazine is excreted in urine. Hover over products below to view reaction partners Chlorpromazine hydroxychlorpromazine chlorpromazine-N-oxide dedimethylchlorpromazine demonomethylchlorpromazine N-dedimethylchlorpromazine Opromazine
+
+## Route Of Elimination
+
+Kidneys, ~ 37% excreted in urine
+
+## Half Life
+
+~ 30 hours
+
+## Toxicity
+
+Agitation, coma, convulsions, difficulty breathing, difficulty swallowing, dry mouth, extreme sleepiness, fever, intestinal blockage, irregular heart rate, low blood pressure, restlessness

@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_B_023
+DCI: FINASTERIDE 5 mg cp (FINASTERIDE SUN)
+DrugBank ID: DB01216
+DrugBank Name: Finasteride
+Brand Names: FINCAR | NOVASTERIDE | PROSTACARE | PROSTADOZ | PROSTAMED | UROSTERIDE
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/30
+Registration Numbers: 098/25 B 023/98/08 | 149/25 B 023/16 | 182/25 B 023/04 | 371/25 B 023/23 | 426/25 B 023/09/24 | 504/25 B 023/16 | 668/25 B 023/25
+Drug Codes: 25 B 023
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Finasteride is an antiandrogenic compound that works by suppressing the production of serum and intraprostatic dihydrotestosterone (DHT) in men via inhibiting the enzyme responsible for the biosynthesis of DHT. The maximum effect of a rapid reduction in serum DHT concentration is expected to be observed 8 hours following administration of the first dose. 13 In a single man receiving a single oral dose of 5 mg finasteride for up to 4 years, there was a reduction in the serum DHT concentrations by approximately 70% and the median circulating level of testosterone increased by approximately 10-20% within the physiologic range. 13 In a double-blind, placebo-controlled study, finasteride reduced intraprostatic DHT level by 91.4% but finasteride is not expected to decrease the DHT levels to castrate levels since circulating testosterone is also converted to DHT by the type 1 isoenzyme expressed in other tissues. 1 It is expected that DHT levels return to normal within 14 days upon discontinuation of the drug. 12 In a study of male patients with benign prostatic hyperplasia prior to prostatectomy, the treatment with finasteride resulted in an approximate 80% lower DHT content was measured in prostatic tissue removed at surgery compared to placebo. 13 While finasteride reduces the size of the prostate gland by 20%, this may not correlate well with improvement in symptoms. 8 The effects of finasteride are reported to be more pronounced in male patients with enlarged prostates (>25 mL) who are at the greatest risk of disease progression. 1 In phase III clinical studies, oral administration of finasteride in male patients with male pattern hair loss promoted hair growth and prevented further hair loss by 66% and 83% of the subjects, respectively, which lasted during two years' treatment. 6 The incidences of these effects in treatment groups were significantly higher than that of the group receiving a placebo. 6 Following finasteride administration, the levels of DHT in the scalp skin was shown to be reduced by more than 60%, indicating that the DHT found in scalp is derived from both local DHT production and circulating DHT. 5 The effect of finasteride on scalp DHT is likely seen because of its effect on both local follicular DHT levels as well as serum DHT levels. 5 . There is evidence from early clinical observations and controlled studies that finasteride may reduce bleeding of prostatic origin. 3
+
+## Mechanism Of Action
+
+3-oxo-5-alpha-steroid 4-dehydrogenase 2 Inhibitor Polyprenal reductase Inhibitor 3-oxo-5-alpha-steroid 4-dehydrogenase 1 Inhibitor
+
+## Absorption
+
+Finasteride is well absorbed following oral administration 10 and displays a slow accumulation phase after multiple dosing.[lablel] In healthy male subjects receiving oral finasteride, the mean oral bioavailability was 65% for 1 mg finasteride and 63% for 5 mg finasteride, and the values ranged from 26 to 170% for 1 mg dose and from 34 to 108% for 5 mg dose, respectively. 11 , 13 It is reported that food intake does not affect the oral bioavailability of the drug. 5 The peak plasma concentrations (Cmax) averaged 37 ng/mL (range, 27-49 ng/mL) and was reached 1-2 hours post administration. 13 The AUC(0-24 hr) was 53 ngxhr/mL (range, 20-154 ngxhr/mL). 11 The plasma concentrations and AUC are reported to be higher in elderly male patients aged 70 years or older. 11
+
+## Volume Of Distribution
+
+The volume of distribution is 76 L at steady state, ranging from 44 to 96 L. Finasteride has been shown to cross the blood brain barrier but does not appear to distribute preferentially to the CSF. 13 It is not known whether finasteride is excreted in human milk. 11
+
+## Metabolism
+
+Finasteride undergoes extensive hepatic metabolism predominantly mediated by the cytochrome P450 3A4 (CYP3A4) enzyme to form the t-butyl side chain monohydroxylated and monocarboxylic acid metabolites. 5 , 13 Theses metabolites retain less than 20% of the pharmacological activity of the parent compound. 13 Hover over products below to view reaction partners Finasteride omega-hydroxyfinasteride
+
+## Route Of Elimination
+
+In healthy subjects, about 32-46% of total oral dose of finasteride was excreted in the urine in the form of metabolites while about 51-64% of the dose was excreted in the feces. In patients with renal impairment, the extent of urinary excretion of finasteride is expected to be decreased while the fecal excretion is increased. 13
+
+## Half Life
+
+In healthy young subjects receiving finasteride, the mean elimination half-life in plasma was 6 hours ranging from 3 to 16 hours. In elderly patients over the age of 70 years, the half-life is prolonged to 8 hours. 13
+
+## Clearance
+
+In healthy young subjects (n=15), the mean plasma clearance of finasteride was 165 mL/min with the range between 70 and 279 mL/min. 13
+
+## Toxicity
+
+LD50 Oral LD50 is about 418 mg/kg in rats MSDS and there have been cases of lethality in rats receiving a single oral dose of 400 mg/kg in males and 1000 mg/kg in females. 13 Nonclinical toxicology In a 24-month rat study, there were no signs of the tumorigenic potential of finasteride. 11 In a 19-month carcinogenicity study in CD-1 mice, high doses of finasteride, at 1824 times the human exposure (250 mg/kg/day), resulted in an increase in the incidence of testicular Leydig cell adenomas and an increase in serum LH levels. 11 In vitro mutagenesis assays demonstrated no evidence of mutagenicity. In an in vitro chromosome aberration assay, using Chinese hamster ovary cells, there was a slight increase in chromosome aberrations with much higher doses of finasteride. 11 Overdose There were no reported significant adverse events in clinical trials of male patients receiving single oral doses of finasteride up to 400 mg and multiple doses of finasteride up to 80 mg/day for three months. 11 As there have been no cases of overdose or clinically significant toxicity with finasteride, there are no specific recommendations in case of an overdose. 13 Significant adverse events Common reproductive adverse events seen with finasteride therapy include erectile dysfunction, ejaculatory dysfunction, and loss of libido. 5 These adverse events tend to disappear after discontinuation or chronic use of the drug. Only causal adverse event occurring at the male reproductive system that is caused by finasteride is decreased ejaculatory volume because of the predominant action of DHT on the prostate. 5 Special populations Finasteride can be safely used in elderly patients or those with renal impairment with no specific dosing adjustment recommendations. 13 Finasteride is indicated for male patients only, and it is advised that exposure to finasteride is avoided in pregnant women carrying male fetuses as it may lead to abnormal development of external genitalia in male fetuses. 11

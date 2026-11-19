@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_138
+DCI: Ifosfamide
+DrugBank ID: DB01181
+DrugBank Name: Ifosfamide
+Brand Names: HOLOXAN
+Pharmaceutical Forms: Poudre
+Dosages: 2g/fl. de pdre.
+Packaging: b/01fl. de pdre. de contenance de 50ml
+Registration Numbers: 298/05 G 138/09/16
+Drug Codes: 05 G 138
+
+------------------------------------------------------------
+
+## Description
+
+Ifosfamide is a chemotherapeutic agent chemically related to the nitrogen mustards and a synthetic analog of cyclophosphamide. It is active as an alkylating agent and an immunosuppressive agent.
+
+## Pharmacodynamics
+
+Ifosfamide requires activation by microsomal liver enzymes to active metabolites in order to exert its cytotoxic effects. Activation occurs by hydroxylation at the ring carbon atom 4 to form the unstable intermediate 4-hydroxyifosfamide. This metabolite than rapidly degrades to the stable urinary metabolite 4-ketoifosfamide. The stable urinary metabolite, 4-carboxyifosfamide, is formed upon opening of the ring. These urinary metabolites have not been found to be cytotoxic. N, N-bis (2-chloroethyl)-phosphoric acid diamide (ifosphoramide) and acrolein are also found. The major urinary metabolites, dechloroethyl ifosfamide and dechloroethyl cyclophosphamide, are formed upon enzymatic oxidation of the chloroethyl side chains and subsequent dealkylation. It is the alkylated metabolites of ifosfamide that have been shown to interact with DNA. Ifosfamide is cycle-phase nonspecific.
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Volume Of Distribution
+
+Ifosfamide volume of distribution (Vd) approximates the total body water volume, suggesting that distribution takes place with minimal tissue binding. Following intravenous administration of 1.5 g/m2 over 0.5 hour once daily for 5 days to 15 patients with neoplastic disease, the median Vd of ifosfamide was 0.64 L/kg on Day 1 and 0.72 L/kg on Day 5. When given to pediatric patients, the volume of distribution was 21±1.6 L/m^2.
+
+## Metabolism
+
+Primarily hepatic. Ifosfamide is metabolized through two metabolic pathways: ring oxidation ("activation") to form the active metabolite, 4-hydroxy-ifosfamide and side-chain oxidation to form the inactive metabolites, 3-dechloro-ethylifosfamide or 2-dechloroethylifosfamide with liberation of the toxic metabolite, chloroacetaldehyde. Small quantities (nmol/mL) of ifosfamide mustard and 4-hydroxyifosfamide are detectable in human plasma. Metabolism of ifosfamide is required for the generation of the biologically active species and while metabolism is extensive, it is also quite variable among patients. Hover over products below to view reaction partners Ifosfamide 3-Dechloroethylifosfamide Dechloroethylifosfamide Chloroacetaldehyde 2-chloroethanol 4-Hydroxyifosfamide 4-Thioifosfamide aldoifosfamide Isophosphamide mustard Ifosforamide Aziridinium Acrolein Acrylic Acid Carboxylifosfamide Alcoifosfamide 4-Ketoifosfamide
+
+## Route Of Elimination
+
+Ifosfamide is extensively metabolized in humans and the metabolic pathways appear to be saturated at high doses. After administration of doses of 5 g/m2 of 14C-labeled ifosfamide, from 70% to 86% of the dosed radioactivity was recovered in the urine, with about 61% of the dose excreted as parent compound. At doses of 1.6–2.4 g/m2 only 12% to 18% of the dose was excreted in the urine as unchanged drug within 72 hours.
+
+## Half Life
+
+7-15 hours. The elimination half-life increase appeared to be related to the increase in ifosfamide volume of distribution with age.
+
+## Clearance
+
+2.4±0.33 L/h/m^2 [pediatric patients]
+
+## Toxicity
+
+LD 50 (mouse) = 390-1005 mg/kg, LD 50 (rat) = 150-190 mg/kg. Side effects include nausea, vomiting and myelosuppression. Toxic effects include central nervous system toxicity (confusion, hallucinations) and urotoxic effects (cystitis, blood in urine).

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_233
+DCI: Cabozantinib
+DrugBank ID: DB08875
+DrugBank Name: Cabozantinib
+Brand Names: CABOMETYX
+Pharmaceutical Forms: Comprimé
+Dosages: 20 mg
+Packaging: boite de 1 flacon de 30 comprime
+Registration Numbers: 020/05 C 233/23
+Drug Codes: 05 C 233
+
+------------------------------------------------------------
+
+## Description
+
+Cabozantinib was first approved in 2012 and is a non-specific tyrosine kinase inhibitor. It was initially approved in the US under the brand name Cometriq, which is indicated for the treatment of metastatic medullary thyroid cancer. 6 In 2016, a capsule formulation (Cabometyx) was approved for the treatment of advanced renal cell carcinoma, and this same formulation gained additional approval in both the US and Canada in 2019 for the treatment of hepatocellular carcinoma in previously treated patients. 7 , 8 Cabometyx has since been granted several additional approvals for endocrine cancers, including differentiated thyroid cancer and neuroendocrine tumors. 9
+
+## Pharmacodynamics
+
+Cabozantinib suppresses metastasis, angiogenesis, and oncognesis by inhibiting receptor tyrosine kinases.
+
+## Mechanism Of Action
+
+Hepatocyte growth factor receptor Inhibitor Proto-oncogene tyrosine-protein kinase receptor Ret Inhibitor Vascular endothelial growth factor receptor 2 Inhibitor + 10 more targets
+
+## Absorption
+
+After oral administration, peak plasma concentration was achieved in 2-5 hours.
+
+## Volume Of Distribution
+
+The volume of distribution is 349L.
+
+## Metabolism
+
+Cabozantinib is metabolized mostly by CYP3A4 and, to a minor extent, by CYP2C9. Both enzyme produce an N-oxide metabolite.
+
+## Route Of Elimination
+
+Cabozantinib is eliminated mostly by the feces (54%) and also by the urine (27%).
+
+## Half Life
+
+Cabozantinib has a long half-life of 55 hours.
+
+## Clearance
+
+At steady state, the clearance is 4.4 L/hr.
+
+## Toxicity
+
+Cabozantinib carries a warning of serious gastrointestinal fistulas and perforations, and potentially fatal hemoptysis and gastrointestinal hemorrhage.

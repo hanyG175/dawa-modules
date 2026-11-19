@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_085
+DCI: Gemcitabine Chlorhydrate Exprime En Gemcitabine
+DrugBank ID: DB00441
+DrugBank Name: Gemcitabine
+Brand Names: CITAFINE | GEMTERO | ONGECIN 100
+Pharmaceutical Forms: Lyophilisat Pour Solution Pour Perfusion Iv | Poudre
+Dosages: 1g/fl. de pdre. | 1g/flc
+Packaging: b/1 flc | b/1fl. de pdre.
+Registration Numbers: 471/05 G 085/13 | 524/05 G 085/20 | 555/05 G 085/20
+Drug Codes: 05 G 085
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Gemcitabine is a nucleoside analog that mediates its antitumour effects by promoting apoptosis of malignant cells undergoing DNA synthesis. More specifically, it blocks the progression of cells through the G1/S-phase boundary. 4 Gemcitabine demonstrated cytotoxic effects against a broad range of cancer cell lines in vitro . It displayed schedule-dependent antitumour activity in various animal models and xenografts from human non-small cell lung cancer (NSCLC) and pancreatic cancer. 2 Therefore, the antineoplastic effects of gemcitabine are enhanced through prolonged infusion time rather than higher dosage. 2 Gemcitabine inhibited the growth of human xenografts from carcinoma of the lung, pancreas, ovaries, head and neck, and breast. In mice, gemcitabine inhibited the growth of human tumour xenografts from the breast, colon, lung or pancreas by 69 to 99%. In clinical trials of advanced NSCLC, gemcitabine monotherapy produced objective response rates ranging from 18 to 26%, with a median duration of response ranging from 3.3 to 12.7 months. Overall median survival time was 6.2 to 12.3 months. The combined use of cisplatin and gemcitabine produced better objective response rates compared to monotherapy. In patients with advanced pancreatic cancer, objective response rates in patients ranged from 5.to 12%, with a median survival duration of 3.9 to 6.3 months. 3 In Phase II trials involving patients with metastatic breast cancer, treatment with gemcitabine alone or with adjuvant chemotherapies resulted in response rate ranging from 13 to 42% and median survival duration ranging from 11.5 to 17.8 months. In metastatic bladder cancer, gemcitabine has a response rate 20 to 28%. In Phase II trials of advanced ovarian cancer, patients treated with gemcitabine had response rate of 57.1%, with progression free survival of 13.4 months and median survival of 24 months. 2 Gemcitabine causes dose-limiting myelosuppression, such as anemia, leukopenia, neutropenia, and thrombocytopenia; however, events leading to discontinuation tend to occur less than 1% of the patients. Gemcitabine can elevate ALT, AST and alkaline phosphatase levels. 3
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation Ribonucleoside-diphosphate reductase large subunit Inhibitor Ribonucleoside-diphosphate reductase subunit M2 Inhibitor + 1 more target
+
+## Absorption
+
+Peak plasma concentrations of gemcitabine range from 10 to 40 mg/L following a 30-minute intravenous infusion, and are reached at 15 to 30 minutes. One study showed that steady-state concentrations of gemcitabine showed a linear relationship to dose over the dose range 53 to 1000 mg/m 2 . Gemcitabine triphosphate, the active metabolite of gemcitabine, can accumulate in circulating peripheral blood mononuclear cells. In one study, the C max of gemcitabine triphosphate in peripheral blood mononuclear cells occurred within 30 minutes of the end of the infusion period and increased increased proportionally with gemcitabine doses of up to 350 mg/m 2 . 2
+
+## Volume Of Distribution
+
+In patients with various solid tumours, the volume of distribution increased with infusion length. The volume of distribution of gemcitabine was 50 L/m 2 following infusions lasting less than 70 minutes. For long infusions, the volume of distribution rose to 370 L/m 2 . 4 Gemcitabine triphosphate, the active metabolite of gemcitabine, accumulates and retains in solid tumour cells in vitro and in vivo . It is not extensively distributed to tissues after short infusions that last less than 70 minutes. 2 It is not known whether gemcitabine crosses the blood-brain barrier, but gemcitabine is widely distributed into tissues, including ascitic fluid. 6 In rats, placental and lacteal transfer occurred rapidly at five to 15 minutes following drug administration. 1
+
+## Metabolism
+
+Following administration and uptake into cancer cells, gemcitabine is initially phosphorylated by deoxycytidine kinase (dCK), and to a lower extent, the extra-mitochondrial thymidine kinase 2 to form gemcitabine monophosphate (dFdCMP). dFdCMP is subsequently phosphorylated by nucleoside kinases to form active metabolites, gemcitabine diphosphate (dFdCDP) and gemcitabine triphosphate (dFdCTP). 3 Gemcitabine is also deaminated intracellularly and extracellularly by cytidine deaminase to its inactive metabolite 2′,2′-difluorodeoxyuridine or 2´-deoxy-2´,2´-difluorouridine (dFdU). Deamination occurs in the blood, liver, kidneys, and other tissues, 1 and this metabolic pathway accounts for most of drug clearance. 3 , 6 Hover over products below to view reaction partners Gemcitabine Gemcitabine Monophosphate Gemcitabine diphosphate Gemcitabine triphosphate 2′,2′-difluorodeoxyuridine monophosphate 2',2'-Difluorodeoxyuridine
+
+## Route Of Elimination
+
+Gemcitabine mainly undergoes renal excretion. Within a week following administration of a single dose of 1000 mg/m 2 infused over 30 minutes, about 92-98% of the dose was recovered in urine where 89% of the recovered dose was excreted as difluorodeoxyuridine (dFdU) and less than 10% as gemcitabine. 4 Monophosphate, diphosphate, or triphosphate metabolites of gemcitabine are not detectable in urine. In a single-dose study, about 1% of the administered dose was recovered in the feces. 1
+
+## Half Life
+
+Following intravenous infusions lasting less than 70 minutes, the terminal half-life ranged from 0.7 to 1.6 hours. Following infusions ranging from 70 to 285 minutes, the terminal half-life ranged from 4.1 to 10.6 hours. 6 Females tend to have longer half-lives than male patients. Gemcitabine triphosphate, the active metabolite of gemcitabine, can accumulate in circulating peripheral blood mononuclear cells. The terminal half-life of gemcitabine triphosphate, the active metabolite, from mononuclear cells ranges from 1.7 to 19.4 hours. 4
+
+## Clearance
+
+Following intravenous infusions lasting less than 70 minutes, clearance ranged from 41 to 92 L/h/m 2 in males and ranged from 31 to 69 L/h/m 2 in females. 6 Clearance decreases with age. Females have about 30% lower clearance than male patients. 4
+
+## Toxicity
+
+The oral LD 50 is 333 mg/kg in mice and >500 mg/kg in rats. The dermal LD 50 in rabbits is >1000 mg/kg. 7 There is no known antidote for gemcitabine overdose. In a dose-escalation study, patients were administered a single dose of gemcitabine as high as 5700 mg/m 2 administered by intravenous infusion over 30 minutes every two weeks: main observed toxicities were myelosuppression, paresthesia, and severe rash. In the event of a suspected drug overdose, blood counts should be monitored, and patients should be provided with supportive therapy, as necessary. 4

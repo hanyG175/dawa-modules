@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_303
+DCI: Gliclazide
+DrugBank ID: DB01120
+DrugBank Name: Gliclazide
+Brand Names: GLICLAZIDE BGL
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 30MG
+Packaging: B/30
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 451 DA
+Prescription List: Liste I
+ATC Classification: 14A303
+Registration Numbers: 040/14 A 303/06/24 | 149/14 A 303/20 | 263/14 A 303/16 | 325/14 A 303/14/22 | 437/14 A 303/13
+Drug Codes: 14 A 303
+
+------------------------------------------------------------
+
+## Description
+
+Gliclazide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It has been classified differently according to its drug properties in which based on its chemical structure, gliclazide is considered a first-generation sulfonylurea due to the structural presence of a sulfonamide group able to release a proton and the presence of one aromatic group. 1 On the other hand, based on the pharmacological efficacy, gliclazide is considered a second-generation sulfonylurea which presents a higher potency and a shorter half-life. 2 , 3 Gliclazide belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating β cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic β cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Gliclazide has been shown to decrease fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels (reflective of the last 8-10 weeks of glucose control). Gliclazide is extensively metabolized by the liver; its metabolites are excreted in both urine (60-70%) and feces (10-20%).
+
+## Pharmacodynamics
+
+Based on the pharmacological properties, gliclazide is a second generation sulphonylurea which acts as a hypoglycemic agent. It stimulates β cells of the islet of Langerhans in the pancreas to release insulin. It also enhances peripheral insulin sensitivity. Overall, it potentiates insulin release and improves insulin dynamics.
+
+## Mechanism Of Action
+
+ATP-binding cassette sub-family C member 8 Binder
+
+## Absorption
+
+Rapidly and well absorbed but may have wide inter- and intra-individual variability. Peak plasma concentrations occur within 4-6 hours of oral administration.
+
+## Metabolism
+
+Extensively metabolized in the liver. Less than 1% of the orally administered dose appears unchanged in the urine. Metabolites include oxidized and hydroxylated derivates, as well as glucuronic acid conjugates. Hover over products below to view reaction partners Gliclazide 7-β-Hydroxygliclazide 6-β-Hydroxygliclazide Methylhydroxygliclazide Carboxygliclazide 7-α-Hydroxygliclazide 6-α-Hydroxygliclazide 7-OH-gliclazide 6-OH-gliclazide
+
+## Route Of Elimination
+
+Metabolites and conjugates are eliminated primarily by the kidneys (60-70%) and also in the feces (10-20%).
+
+## Half Life
+
+10.4 hours. Duration of action is 10-24 hours.
+
+## Toxicity
+
+LD 50 =3000 mg/kg (orally in mice). Gliclazide and its metabolites may accumulate in those with severe hepatic and/or renal dysfunction. Symptoms of hypoglycemia include: dizziness, lack of energy, drowsiness, headache and sweating.

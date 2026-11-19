@@ -11,7 +11,7 @@ It keeps the prescription OCR + DDI + LLM flow and removes the old OCR-only land
 - `templates/ddi_analyzer.html`: prescription/DDI UI
 - `core/`: drug normalization, DDI checker, parsing, and LLM engine
 - `engines/google_drive/`: Google Drive OCR wrapper
-- `data/`: local datasets required by the normalizer
+- `data/`: local datasets required by the normalizer and Neo4j graph exports
 
 ## Not included
 
@@ -45,6 +45,8 @@ Set one of these combinations:
 - `NEO4J_USER` or `NEO4J_USERNAME`
 - `NEO4J_PASSWORD`
 - `NEO4J_DATABASE` (optional)
+
+The CSV snapshots used to inspect or populate the graph are in [`data/neo4j`](data/neo4j). The running Neo4j database remains the source queried by the application.
 
 ### LLM
 

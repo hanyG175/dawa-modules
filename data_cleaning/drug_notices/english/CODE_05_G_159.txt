@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_159
+DCI: Temozolomide
+DrugBank ID: DB00853
+DrugBank Name: Temozolomide
+Brand Names: TEGOZOL | TEMOSIDE-20 | TEMOZOLOMIDE DEMOCEDES
+Pharmaceutical Forms: Gélule
+Dosages: 20mg
+Packaging: b/05 | b/5
+Registration Numbers: 001/05 G 159/21 | 182/05 G 159/13 | 630/05 G 159/24
+Drug Codes: 05 G 159
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Temozolomide is a prodrug of the imidazotetrazine class that requires nonenzymatic hydrolysis at physiological pH in vivo to perform alkylation of adenine/guanine residues, leading to DNA damage through futile repair cycles and eventual cell death. Temozolomide treatment is associated with myelosuppression, which is likely to be more severe in females and geriatric patients. Patients must have an ANC of ≥1.5 x 10 9 /L and a platelet count of ≥100 x 10 9 /L before starting therapy and must be monitored weekly during the concomitant radiotherapy phase, on days one and 22 of maintenance cycles, and weekly at any point where the ANC/platelet count falls below the specified values until recovery. Cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukemia, have been observed following temozolomide administration. Pneumocystis pneumonia may occur in patients undergoing treatment, and prophylaxis should be provided for patients in the concomitant phase of therapy with monitoring at all stages. Severe hepatotoxicity has also been reported, and liver testing should be performed at baseline, midway through the first cycle, before each subsequent cycle, and approximately two to four weeks after the last dose. Animal studies suggest that temozolomide has significant embryo-fetal toxicity; male and female patients should practice contraception up to three and six months following the last dose of temozolomide, respectively. 17
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Absorption
+
+Temozolomide is rapidly and completely absorbed in the gastrointestinal tract and is stable at both acidic and neutral pH. Therefore, temozolomide may be administered both orally and intravenously with a median T max of one hour. Following a single oral dose of 150 mg/m 2 , temozolomide and its active MTIC metabolite had C max values of 7.5 μg/mL and 282 ng/mL and AUC values of 23.4 μg*hr/mL and 864 ng*hr/mL, respectively. Similarly, following a single 90-minute IV infusion of 150 mg/m 2 , temozolide and its active MTIC metabolite had C max values of 7.3 μg/mL and 276 ng/mL and AUC values of 24.6 μg*hr/mL and 891 ng*hr/mL, respectively. Temozolomide kinetics are linear over the range of 75-250 mg/m 2 /day. The median T max is 1 hour 17 Oral temozolomide absorption is affected by food. Administration following a high-fat breakfast of 587 calories caused the mean C max and AUC to decrease by 32% and 9%, respectively, and the median T max to increase by 2-fold (from 1-2.25 hours). 17
+
+## Volume Of Distribution
+
+Temozolomide has a mean apparent volume of distribution (%CV) of 0.4 (13%) L/kg. 17
+
+## Metabolism
+
+After absorption, temozolomide undergoes nonenzymatic chemical conversion to the active metabolite 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) plus carbon dioxide and to a temozolomide acid metabolite, which occurs at physiological pH but is enhanced with increasing alkalinity. 10 , 13 , 16 MTIC subsequently reacts with water to produce 5-aminoimidazole-4-carboxamide (AIC) and a highly reactive methyl diazonium cation, the active alkylating species. 10 , 13 , 16 The cytochrome P450 system plays only a minor role in temozolomide metabolism. Relative to the AUC of temozolomide, the exposure to MTIC and AIC is 2.4% and 23%, respectively. 17 Hover over products below to view reaction partners Temozolomide Temozolomide carboxylic acid metabolite (TMA) 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) 5-aminoimidazole-4-carboxamide (AIC) + Methyl diazonium
+
+## Route Of Elimination
+
+Roughly 38% of administered temozolomide can be recovered over seven days, with 38% in the urine and only 0.8% in the feces. The recovered material comprises mainly metabolites: unidentified polar metabolites (17%), AIC (12%), and the temozolomide acid metabolite (2.3%). Only 6% of the recovered dose represents unchanged temozolomide. 17
+
+## Half Life
+
+Temozolomide has a mean elimination half-life of 1.8 hours. 17
+
+## Clearance
+
+Temozolomide has a clearance of approximately 5.5 L/hr/m 2 . 17
+
+## Toxicity
+
+The primary dose-limiting toxicity of temozolomide is myelosuppression, which can occur with any dose but is more severe at higher doses. Patients taking high doses experienced adverse reactions, including severe and prolonged myelosuppression, infections, and death. One patient who took 2000 mg/day for five days experienced pancytopenia, pyrexia, and multi-organ failure, which resulted in death. Patients experiencing an overdose should have complete blood counts monitored and provided with supportive care as necessary. 17

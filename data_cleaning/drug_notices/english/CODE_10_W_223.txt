@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_W_223
+DCI: Vedolizumab
+DrugBank ID: DB09033
+DrugBank Name: Vedolizumab
+Brand Names: ENTYVIO
+Pharmaceutical Forms: Poudre
+Dosages: 300mg
+Packaging: b/01 flacon
+Registration Numbers: 411/10 W 223/25
+Drug Codes: 10 W 223
+
+------------------------------------------------------------
+
+## Description
+
+Vedolizumab is a recombinant humanized IgG1 monoclonal antibody directed against the human lymphocyte α4β7 integrin, a key mediator of gastrointestinal inflammation implicated in diseases like ulcerative colitis or Crohn's disease. 4 α4β7 integrin facilitates the interaction between lymphocytes and gut endothelial cells through the α4β7 integrin-MAdCAM1 interaction, leading to the mobilization of lymphocytes and thus contributing to gastrointestinal inflammation. 4 Integrins implicated in cell migration into the intestinal tract included α2β2, α4β1, and α4β7; however, the selective activity of vedolizumab against α4β7 integrin has been thought to contribute to its more favorable safety profile compared to its predecessor natalizumab, the first integrin receptor antagonist approved by the FDA. 3 Vedolizumab is administered by IV infusion over a period of 30 minutes; after the first dose, it is given again at two and six weeks and then every 8 weeks thereafter. 4 Vedolizumab was developed by Takeda and approved by the FDA under the brand name ENTYVIO for the maintenance therapy of moderately to severely active Ulcerative Colitis and Crohn’s Disease in April and September 2023, respectively. 6 , 7
+
+## Pharmacodynamics
+
+Non-clinical studies have shown that the pharmacodynamic effects of vedolizumab are reversible upon removal of the antibody: pharmacologic activity of cells inhibited by vedolizumab could be partially restored within 24 hours after removal, with near complete restoration within 4 days. There are no known drug interactions as vedolizumab is a humanized antibody and does not modulate the production of cytokines, which is known to affect drug metabolism. 5 The α4β7 integrin is expressed on the surface of a discrete subset of memory T-lymphocytes that preferentially migrate into the gastrointestinal tract. Mucosal addressin cell adhesion molecule-1 (MAdCAM-1) is mainly expressed on gut endothelial cells and plays a critical role in homing T-lymphocytes to gut lymph tissue. The interaction of the α4β7 integrin with MAdCAM-1 has been implicated as an important contributor to chronic inflammation, a hallmark of ulcerative colitis and Crohn’s disease. Inhibition of α4β7 integrin by vedolizumab prevents the adhesion of lymphocytes to its natural ligand, thus decreasing the migration of memory T-lymphocytes across the endothelium into inflamed gastrointestinal parenchymal tissue. 4 In clinical trials with vedolizumab at doses ranging from 0.2 to 10 mg/kg (which includes doses outside of the recommended dose), saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut-immune surveillance was observed. 4 In clinical trials with vedolizumab at doses ranging from 0.2 to 10 mg/kg and 180 to 750 mg (which include doses outside of the recommended dose) in healthy subjects and in patients with ulcerative colitis or Crohn’s disease, vedolizumab did not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T-lymphocytes, total memory helper T-lymphocytes, monocytes or natural killer cells. 4 A reduction in gastrointestinal inflammation was observed in rectal biopsy specimens from Phase 2 ulcerative colitis patients exposed to vedolizumab for four or six weeks compared to placebo control as assessed by histopathology. 4 In a study of 14 healthy subjects, vedolizumab did not affect the CD4+ lymphocyte cell counts, CD8+ lymphocyte cell counts, or the CD4+:CD8+ ratios in the CSF. 4
+
+## Mechanism Of Action
+
+Integrin alpha-4 Antibody Integrin beta-7 Antibody
+
+## Absorption
+
+The intended route of administration is intravenous, therefore there is no absorption data and bioavailability is expected to be 100%. Following the administration of 300 mg of vedolizumab as a 30-minute intravenous infusion from week 0 to 2 and 300 mg every eight weeks starting from Week 6, the trough serum concentration of vedolizumab is 26.3 ± 12.9 and 27.4 ± 19.2 mcg/mL for Ulcerative Colitis and Crohn’s Disease patients respectively at week 6. 5 At week 46, the trough serum concentration of vedolizumab is 11.2 ± 7.2 and 13.0 ± 9.1 mcg/mL for Ulcerative Colitis and Crohn’s Disease patients respectively. 5
+
+## Volume Of Distribution
+
+Serum apparent volume of distribution at steady-state has been found to be moderately greater than the serum volume (approximately 5L). 4 , 5 It is therefore expected to be confined to the systemic circulation, as expected for a high molecular weight protein. 5
+
+## Metabolism
+
+The expected consequence of metabolism is proteolytic degradation to small peptides and individual amino acids, and receptor-mediated clearance. 5
+
+## Route Of Elimination
+
+Renal clearance is negligible as vedolizumab is a high molecular weight protein.
+
+## Half Life
+
+Vedolizumab has a long terminal elimination half-life of 25 days. 4 , 5
+
+## Clearance
+
+Vedolizumab clearance depends on both linear and nonlinear pathways; the nonlinear clearance decreases with increasing concentrations. Population pharmacokinetic analyses indicated that the linear clearance was approximately 0.157 L/day or 0.180 to 0.266 ml/hr/kg. 4 , 5
+
+## Toxicity
+
+Elevated transaminase levels with or without elevated bilirubin have occurred in patients who have received this drug. Progressive multifocal leukoencephalopathy (PML) has not been reported with the use of this drug, however, it has occurred in patients who have received different integrin receptor antagonists and is therefore considered a risk for this product. 4 The use of vedolizumab may increase the risk of developing infections, and one study found that nasopharyngitis occurs more frequently with vedolizumab than with THE placebo for Crohn’s disease patients. 2 Available pharmacovigilance data, data from the ongoing pregnancy registry, and data from published case reports and cohort studies in pregnant women have not identified a vedolizumab-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There are risks to the mother and the fetus associated with inflammatory bowel disease in pregnancy. No fetal harm was observed in animal reproduction studies with intravenous administration of vedolizumab to rabbits and monkeys at dose levels 20 times the recommended human dosage. 4 Published data suggest that the risk of adverse pregnancy outcomes in women with inflammatory bowel disease (IBD) is associated with increased disease activity. Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 g) infants, and small for gestational age at birth. 4 Vedolizumab administered during pregnancy could affect immune responses in the in-utero-exposed newborn and infant. The clinical significance of low levels of vedolizumab in utero-exposed infants is unknown. The safety of administering live or live-attenuated vaccines in exposed infants is unknown. 4 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of vedolizumab. Studies to evaluate the possible impairment of fertility or mutagenic potential of vedolizumab have not been performed. 4

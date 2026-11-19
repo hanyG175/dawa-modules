@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_28_A_001
+DCI: Inhibiteur De La C1 Esterase Humaine
+Brand Names: BERINERT 500
+Pharmaceutical Forms: Poudre
+Dosages: 50 UI/ml
+Packaging: boite de 1 flacon de poudre + 1 flacon de solvant + un dispositif de transfert avec filtre
+Laboratories: CSL Behring GmbH | Emil-von-Behring-Strasse 76 | 35041 Marburg | Allemagne
+ATC Classification: B06AC01
+Registration Numbers: 485/28 A 001/23
+Drug Codes: 28 A 001
+
+------------------------------------------------------------
+
+## Indications
+
+Angiœdème héréditaire de type I et II (AEH). | Traitement et prévention avant une intervention des poussées aiguës.
+
+## Posology
+
+Le traitement doit être initié sous la surveillance d'un médecin expérimenté dans le traitement du déficit de l’inhibiteur de la C1 estérase. | Posologie | Adultes | Traitement des crises d’angiœdème aiguës : | · 20 UI par kilogramme de poids corporel (20 UI/kg p.c.). | Prévention des crises d’angiœdème avant une intervention : | · 1000 UI moins de 6 heures avant une intervention médicale, dentaire ou chirurgicale | Population pédiatrique | Traitement des crises d’angiœdème aiguës : | · 20 UI par kilogramme de poids corporel (20 UI/kg p.c.). | Prévention des crises d’angiœdème avant une intervention : | 15 à 30 UI par kilogramme de poids corporel (15 à 30 UI/kg p.c.) moins de 6 heures avant une intervention médicale, dentaire ou chirurgicale. La dose doit être choisie en tenant compte des circonstances cliniques (par exemple type d’intervention et sévérité de la maladie). | Mode d'administration | BERINERT doit être reconstitué selon la rubrique 6.6. La solution reconstituée doit être administrée par voie intraveineuse ou en perfusion lente (4 ml/minute) ou peut être administrée en bolus par intraveineuse.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l'un des excipients listés en rubrique 6.1.
+
+## Precautions
+
+Pour les patients présentant des antécédents allergiques connus, des antihistaminiques et des corticostéroïdes doivent être administrés en prophylaxie. | En cas de survenue d'une réaction allergique ou de type anaphylactique, il convient d'arrêter immédiatement l’administration de BERINERT (par exemple l’injection ou la perfusion) et d'instaurer un traitement approprié. Les mesures thérapeutiques dépendent du genre et de la sévérité des effets indésirables. Les traitements standards du choc doivent être appliqués. | Les patients présentant un œdème laryngé nécessitent une surveillance particulièrement intensive dans un service disposant de traitements d’urgence. | L’utilisation hors indication ou le traitement du syndrome de fuite capillaire n’est pas conseillé avec BERINERT (voir également la rubrique 4.8). | BERINERT 500 UI contient jusqu'à 49 mg de sodium par flacon, ce qui équivaut à 2,5 % de l’apport alimentaire quotidien maximal recommandé par l’OMS de 2 g de sodium par adulte. | Traitement à domicile et auto-administration | Les données sur l'utilisation de ce médicament à domicile ou en auto-administration sont limitées. Les risques potentiels associés au traitement à domicile sont liés à l'administration elle-même ainsi qu’au traitement des effets indésirables, particulièrement l'hypersensibilité. La décision de traiter à domicile un patient doit être prise par le médecin traitant, qui doit s’assurer de la formation appropriée du patient et de la révision à l’utilisation à intervalles réguliers. | Sécurité virale | Les mesures habituelles de prévention du risque de transmission d’agents infectieux par les médicaments préparés à partir de sang ou de plasma humain comprennent la sélection des donneurs, la recherche des marqueurs spécifiques d’infection sur chaque don et sur les mélanges de plasma ainsi que la mise en œuvre dans le procédé de fabrication d’étapes pour l’inactivation/élimination virale. Cependant, lorsque des médicaments préparés à partir de sang ou de plasma humain sont administrés, le risque de transmission d’agents infectieux ne peut pas être totalement exclu. Ceci s’applique également aux virus inconnus ou émergents ou autres types d’agents infectieux. | Les mesures prises sont considérées comme efficaces vis-à-vis des virus enveloppés tels que le VIH, le VHB le VHC, et vis-à-vis des virus non enveloppés tels que VHA et du parvovirus B19. | Une vaccination appropriée (hépatite A et B) des patients recevant des facteurs de coagulation est recommandée.
+
+## Interactions
+
+Aucune étude d’interaction n’a été réalisée.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Peu des données relatives à l’augmentation du risque résultant de l'utilisation de BERINERT chez la femme enceinte sont disponibles. BERINERT est un composant physiologique du plasma humain. C’est pourquoi, aucune étude de toxicité sur la reproduction et sur le développement n’a été réalisée chez les animaux et aucun effet indésirable sur la fertilité, le développement pré- et post-natal n'est attendu chez l'homme. En conséquence, BERINERT ne doit être utilisé au cours de la grossesse qu'en cas de nécessité absolue. | Allaitement | Il n’y a pas de données sur le passage de BERINERT dans le lait maternel, mais du fait de son haut poids moléculaire, cela semble improbable. Cependant, l’allaitement reste incertain chez les femmes souffrant de l'angiœdème héréditaire. Une décision doit être prise quant à l’arrêt de l’allaitement ou l’arrêt du traitement par BERINERT en prenant en considération le bénéfice de l'allaitement pour l'enfant et celui du traitement pour la femme. | Fertilité | BERINERT est un composant physiologique du plasma humain. Néanmoins, aucune étude sur la reproduction ou sur la toxicité liée au développement n’a été menée sur l’animal et aucun effet indésirable sur la fertilité, ni sur le développement pré- ou post-natal n’est attendu chez l’homme.
+
+## Mechanism Of Action
+
+Classe pharmaco thérapeutique : Inhibiteur C1, dérivés du plasma, code ATC : B06AC01 | L'inhibiteur de la C1 estérase est une glycoprotéine de plasma avec un poids moléculaire de 105 kD et une partie d'hydrate de carbone de 40 %. Sa concentration dans le plasma humain est d’environ 240 mg/l. Le plasma humain, le placenta, les cellules hépatiques, les monocytes et les plaquettes contiennent aussi de l'inhibiteur de la C1 estérase. | L'inhibiteur de la C1 estérase appartient au système inhibiteur de protéase à sérine (serpine) du plasma humain comme également d'autres protéines : l'antithrombine III, alpha-2 antiplasmine, alpha-1-antitrypsine et d'autres. | Dans les conditions physiologiques, l’ inhibiteur de la C1 estérase inhibe la voie classique du système du complément en inactivant les composants enzymatiques actifs C1s et C1r. L’enzyme actif forme avec l’inhibiteur un complexe stœchiométrique 1:1. | Par ailleurs, l’inhibiteur de la C1 estérase représente l’inhibiteur le plus important de l’activation de contact de la coagulation en inhibant le facteur XIIa et ses fragments. De plus, il sert avec la macroglobuline alpha-2 d’inhibiteur principal de la kallicréine plasmatique. | L'effet thérapeutique de BERINERT dans l'angiœdème héréditaire est induit par la substitution de l'activité déficiente de l'inhibiteur de C1-estérase.
+
+## Adverse Effects
+
+Les réactions indésirables suivantes sont basées sur l'expérience après commercialisation ainsi que sur la littérature scientifique. Les catégories standard suivantes de fréquence sont utilisées : | Très fréquent : > 1/10 | Fréquent : > 1/100 et 1/1 000 et 1/10 000 et <1/1 000 | Très rare : < 1/10 000 (dont cas isolés) | Les réactions indésirables avec BERINERT sont rares. | Classe de systèmes d’organes Très fréquent Fréquent Peu fréquent Rare Très rare Affections vasculaires Développement de thromboses* Troubles généraux et anomalies au site d’administration Fièvre, réactions au site d'injection Affections du système immunitaire Réactions allergiques ou de type anaphylactique (par ex. tachycardie, hyper- ou hypotension, rougeurs, urticaire, dyspnée, mal de tête, vertiges, nausées) Choc | * Lors de tentatives de traitement avec de fortes doses de BERINERT en prophylaxie ou curatif du syndrome de fuite capillaire avant, pendant ou après une chirurgie cardiaque avec usage de la circulation extracorporelle (utilisation hors indication et doses autorisées), chez des cas létaux isolés. | Pour la sécurité en ce qui concerne les agents transmissibles, voir la rubrique 4.4. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température ne dépassant pas + 30 °C. | Ne pas congeler. | Conserver le flacon dans l'emballage extérieur à l'abri de la lumière. | Pour les conditions de conservation du médicament après reconstitution, voir la rubrique 6.3.

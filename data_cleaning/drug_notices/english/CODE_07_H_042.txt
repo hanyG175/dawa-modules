@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_042
+DCI: Desonide
+DrugBank ID: DB01260
+DrugBank Name: Desonide
+Brand Names: DESONYX | LOCADOSE | LOCATOP | LOCAZONE
+Pharmaceutical Forms: Creme | Creme Dermique
+Dosages: 0.1% (0.1g/100g)
+Packaging: b/01 tube 15g | b/01 tube 30g
+Registration Numbers: 149/07 H 042/21 | 186/07 H 042/08/16 | 352/07 H 042/20 | 546/07 H 042/22
+Drug Codes: 07 H 042
+
+------------------------------------------------------------
+
+## Description
+
+A nonfluorinated corticosteroid anti-inflammatory agent used topically for dermatoses.
+
+## Pharmacodynamics
+
+Desonide is a synthetic nonfluorinated corticosteroid for topical dermatologic use. The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory and antipruritic agents.
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Topical corticosteroids can be absorbed from normal intact skin, inflammation and/or other disease processes in the skin may increase percutaneous absorption.

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_N_250
+DCI: Olaparib
+DrugBank ID: DB09074
+DrugBank Name: Olaparib
+Brand Names: LYNPARZA
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/56
+Registration Numbers: 256/05 N 250/24
+Drug Codes: 05 N 250
+
+------------------------------------------------------------
+
+## Description
+
+Olaparib is a selective and potent inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, PARP1 and PARP2. 8 , 9 , 13 PARP inhibitors represent a novel class of anti-cancer therapy and they work by taking advantage of a defect in DNA repair in cancer cells with BRCA mutations and inducing cell death. 4 Olaparib is used to treat a number of BRCA-associated tumours, including ovarian cancer, breast cancer, pancreatic cancer, and prostate cancer. 8 , 9 , 13 It was first approved by the FDA and EU in December 2014, 5 and by Health Canada in April 2016. 12
+
+## Pharmacodynamics
+
+Olaparib is a cytotoxic and anti-tumour agent. Olaparib inhibits the growth of selective tumour cell lines in vitro and decreases tumour growth in mouse xenograft models of human cancer, both as monotherapy or following platinum-based chemotherapy. The drug exerts anti-tumour effects in cell lines and mouse tumour models with deficiencies in BRCA1/2, ATM, or other genes involved in the homologous recombination repair (HRR) of DNA damage and correlated with platinum response. 8 In preclinical models of cancer, olaparib demonstrated anti-tumour activity when used alone, in combination with chemotherapeutic agents, or radiotherapy. 5 Olaparib can act as a chemosensitizer to potentiate the cytotoxicity of DNA-damaging chemotherapeutic agents such as alkylating agents and platinum-based drugs. It can also act as a radiosensitizer by preventing PARP-mediated DNA repair. 2 , 4
+
+## Mechanism Of Action
+
+Poly [ADP-ribose] polymerase 1 Inhibitor Poly [ADP-ribose] polymerase 2 Inhibitor Protein mono-ADP-ribosyltransferase PARP3 Inhibitor
+
+## Absorption
+
+Following oral administration, olaparib is rapidly absorbed. 1 After administration of a single 300 mg dose of olaparib, the mean (CV%) C max was 5.4 μg/mL (32%) and AUC was 39.2 μg x h/mL (44%). The steady state C max and AUC following a dose of 300 mg twice daily was 7.6 μg/mL (35%) and 49.2 μg x h/mL (44%), respectively. T max is 1.5 hours. A high-fat and high-calorie meal may delay T max , but does not significantly alter the extent of olaparib absorption. 8
+
+## Volume Of Distribution
+
+The mean (± standard deviation) apparent volume of distribution of olaparib is 158 ± 136 L following a single 300 mg dose. 8
+
+## Metabolism
+
+Olaparib is metabolized by cytochrome P450 (CYP) 3A4/5 in vitro . Following an oral dose of radiolabeled olaparib to female patients, unchanged olaparib accounted for 70% of the circulating radioactivity in plasma. Olaparib undergoes oxidation reactions as well as subsequent glucuronide or sulfate conjugation. 8 In humans, olaparib can also undergo hydrolysis, hydroxylation, and dehydrogenation. 3 While up to 37 metabolites of olaparib were detected in plasma, urine, and feces, the majority of metabolites represent less than 1% of the total administered dose and they have not been fully characterized. The major circulating metabolites are a ring-opened piperazin-3-ol moiety and two mono-oxygenated metabolites. The pharmacodynamic activity of the metabolites is unknown. 7 Hover over products below to view reaction partners Olaparib Olaparib M1 metabolite Olaparib M10 metabolite Olaparib M12 metabolite
+
+## Route Of Elimination
+
+Following a single dose of radiolabeled olaparib, 86% of the dosed radioactivity was recovered within a seven-day collection period, mostly in the form of metabolites. About 44% of the drug was excreted via the urine and 42% of the dose was excreted via the feces. Following an oral dose of radiolabeled olaparib to female patients, the unchanged drug accounted for 15% and 6% of the radioactivity in urine and feces, respectively. 8
+
+## Half Life
+
+Following a single oral dose in patients with cancer, the mean terminal half-life was 6.10 hours. 6
+
+## Clearance
+
+Following a single oral dose in patients with cancer, the mean apparent plasma clearance was 4.55 L/h. 6
+
+## Toxicity
+
+The oral LD 50 in rats is approximately 240-300 mg/kg. 10 There is limited information regarding the overdose of olaparib.

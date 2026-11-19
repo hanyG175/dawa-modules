@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_F_048
+DCI: Levomenthol/Veratrole/Resorcinol/Acide Salicylique
+DrugBank ID: DB00825
+DrugBank Name: Levomenthol
+Brand Names: SEPTHOL | SYNTHOL GEL
+Pharmaceutical Forms: Gélule
+Dosages: 0.52g/0.25g/0.03g/0.1g/100g | 260mg/125mg/15mg/50mg/50g
+Packaging: t/100g | t/50g
+Registration Numbers: 088/21 F 048/09 | 262/21 F 048/06
+Drug Codes: 21 F 048
+
+------------------------------------------------------------
+
+## Description
+
+Menthol is a covalent organic compound made synthetically or obtained from peppermint or other mint oils. Forming clear or white waxy, crystalline substance, menthol is typically solid at room temperature. (-)-Menthol is the naturally-occurring and main form of menthol, and is assigned the (1R,2S,5R) configuration. Menthol mediates anesthetic properties and anti-irritating properties locally, thus it is widely used to relieve minor throat irritations.
+
+## Pharmacodynamics
+
+Menthol is a covalent organic compound made synthetically or obtained from peppermint or other mint oils. Menthol induces a cooling sensation on the skin upon inhalation, oral ingestion, or topical application by stimulating the cold-sensitive receptors expressed on the skin, without actually causing a drop in the skin temperature.
+
+## Mechanism Of Action
+
+Menthol primarily activates the cold-sensitive TRPM8 receptors in the skin. Menthol, after topical application, causes a feeling of coolness due to stimulation of 'cold' receptors by inhibiting Ca++ currents of neuronal membranes. It may also yield analgesic properties via kappa-opioid receptor agonism. Target Actions Organism A Transient receptor potential cation channel subfamily M member 8 inducer Humans A Transient receptor potential cation channel subfamily A member 1 inhibitor inducer Humans A Transient receptor potential cation channel subfamily V member 3 inducer Humans A Voltage-dependent L-type calcium channel antagonist Humans U Kappa-type opioid receptor agonist Humans
+
+## Metabolism
+
+Hover over products below to view reaction partners Levomenthol p-Menthane-3,-8-diol
+
+## Toxicity
+
+Menthol, DL: ORAL (LD50): Acute: 2900 mg/kg [Rat], 3100 mg/kg [Mouse]. DERMAL (LD50): Acute: 5001 mg/kg Rabbit .

@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_P_161
+DCI: Ranibizumab
+DrugBank ID: DB01270
+DrugBank Name: Ranibizumab
+Brand Names: LUCENTIS | RANIBIZUMAB-SAIDAL | UPTERA
+Pharmaceutical Forms: Solution
+Dosages: 10mg/ml (1.65mg/0.165ml) | 10mg/ml (2.3mg/0.23ml)
+Packaging: b/01fl (2.3 mg/0.23ml)+ 01aigui. pour filtre | boite d'une seringue pre remplie de 0.165ml | boite de 01 flacon en verre de type 1 avec un bouchon en caoutechoue
+Registration Numbers: 003/17 P 161/24 | 068/17 P 161/09/17 | 352/17 P 161/23
+Drug Codes: 17 P 161
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Ranibizumab is a vascular endothelial growth factor (VEGF-A) inhibitor used to manage ocular diseases with abnormal angiogenesis. It inhibits the formation of new blood vessels or neovascularization. 3 Ultimately, ranibizumab works to slow down the loss of vision and causes significant visual improvement in patients with ocular degenerative disorders, such as age-related macular degeneration. 5 It can also reduce retinal thickness. 7 As ranibizumab has one binding site for VEGF, two drug molecules bind to one VEGF dimer. 3 Ranibizumab lacks the Fc region of an antibody, which may prevent the drug from causing intraocular inflammation following intravitreal injection. 5
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor A, long form Antibody
+
+## Absorption
+
+Ranibizumab rapidly penetrates through the retina to reach the choroid after intravitreal injection. 1 Following monthly intravitreal administration of 0.5 mg ranibizumab in patients with neovascular (wet) age-related macular degeneration, the mean C max (±SD) was 1.7 (± 1.1) ng/mL. 7 Following an implant insertion, the mean (±SD) C max of ranibizumab was 0.48 (±0.17) ng/mL and median T max was 26 days, with a range of one to 89 days. 8
+
+## Volume Of Distribution
+
+The apparent volume of the central compartment (Vd/F) is 2.77 L. 6 Ranibizumab is not shown to accumulate in serum. 8 Due to its small size from lacking the Fc region of an antibody, ranibizumab achieves enhanced diffusion into the retina and choroid. 3 , 5
+
+## Metabolism
+
+The metabolism of ranibizumab has not been studied. Since it is a monoclonal antibody fragment, ranibizumab is expected to undergo catabolism. 8
+
+## Route Of Elimination
+
+There is no information available.
+
+## Half Life
+
+The estimated average vitreous elimination half-life is approximately nine days following intravitreal injection. 7 The half-life of ranibizumab implant is approximately 25 weeks. 8
+
+## Clearance
+
+In patients with retinal vein occlusion or diabetic macular edema, the apparent clearance (CL/F) of ranibizumab was 24.8 L/day. 6
+
+## Toxicity
+
+There is no information available regarding the LD 50 values of ranibizumab. There is also limited clinical experience of ranibizumab overdose: concentrated doses as high as 2 mg ranibizumab in 0.05 mL have been administered to patients, with no additional unexpected adverse reactions that were observed. 7

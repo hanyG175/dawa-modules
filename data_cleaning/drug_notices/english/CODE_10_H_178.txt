@@ -1,0 +1,22 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_H_178
+DCI: RACECADOTRIL 30 mg pdre oral sach (TIORFAN Enf)
+DrugBank ID: DB11696
+DrugBank Name: Racecadotril
+Brand Names: CELOFON ENFANTS | DIACARE | DIARFIL | DOCATRIL | TIOPAM ENFANT | TIOTRIL
+Pharmaceutical Forms: Poudre Orale En Sachetet Dose
+Dosages: 30mg
+Packaging: b/30
+Laboratories: BIOPROJET Pharma
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07X - AUTRES ANTIDIARRHEIQUES | A07XA - AUTRES ANTIDIARRHEIQUES | A07XA04 - RACECADOTRIL
+Registration Numbers: 235/10 H 178/17 | 263/10 H 178/17 | 268/10 H 178/21 | 289/10 H 178/20/25 | 293/10 H 178/20 | 380/10 H 178/20
+Drug Codes: 10 H 178
+
+------------------------------------------------------------
+
+## Description
+
+Racecadotril has been investigated for the basic science and treatment of Diarrhea, Acute Diarrhea, and Acute Gastroenteritis.

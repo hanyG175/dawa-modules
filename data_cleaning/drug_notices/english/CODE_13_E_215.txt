@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_215
+DCI: Clarithromycine
+DrugBank ID: DB01211
+DrugBank Name: Clarithromycin
+Brand Names: CLARITHROMYCINE GEO
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 500MG
+Packaging: B/14
+Laboratories: GEOPHARM
+Countries: ALGERIE
+Reference Tariff (DA): 574 DA
+Prescription List: Liste I
+ATC Classification: J01FA09
+Registration Numbers: 035/13 E 215/19 | 039/13 E 215/11/23 | 055/13 E 215/07/24 | 147/13 E 215/00/17 | 235/13 E 215/19 | 318/13 E 215/24 | 352/13 E 215/06/17 | 528/13 E 215/21
+Drug Codes: 13 E 215
+
+------------------------------------------------------------
+
+## Description
+
+Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+
+## Pharmacodynamics
+
+Clarithromycin is a macrolide antibiotic whose spectrum of activity includes many gram-positive ( Staphylococcus aureus, S. pneumoniae, and S. pyogenes ) and gram-negative aerobic bacteria ( Haemophilus influenzae, H. parainfluenzae, and Moraxella catarrhalis ), many anaerobic bacteria, some mycobacteria, and some other organisms including Mycoplasma, Ureaplasma, Chlamydia, Toxoplasma , and Borrelia . Other aerobic bacteria that clarithromycin has activity against include C. pneumoniae and M. pneumoniae . Clarithromycin has an in-vitro activity that is similar or greater than that of erythromycin against erythromycin-susceptible organisms. Clarithromycin is usually bacteriostatic, but may be bactericidal depending on the organism and the drug concentration.
+
+## Mechanism Of Action
+
+Large ribosomal subunit protein uL10 (Shigella flexneri) Inhibitor
+
+## Absorption
+
+Clarithromycin is well-absorbed, acid stable and may be taken with food.
+
+## Metabolism
+
+Hepatic - predominantly metabolized by CYP3A4 resulting in numerous drug interactions. Hover over products below to view reaction partners Clarithromycin 14-hydroxyclarithromycin N-desmethylclarithromycin
+
+## Route Of Elimination
+
+After a 250 mg tablet every 12 hours, approximately 20% of the dose is excreted in the urine as clarithromycin, while after a 500 mg tablet every 12 hours, the urinary excretion of clarithromycin is somewhat greater, approximately 30%.
+
+## Half Life
+
+3-4 hours
+
+## Toxicity
+
+Symptoms of toxicity include diarrhea, nausea, abnormal taste, dyspepsia, and abdominal discomfort. Transient hearing loss with high doses has been observed. Pseudomembraneous colitis has been reported with clarithromycin use. Allergic reactions ranging from urticaria and mild skin eruptions to rare cases of anaphylaxis and Stevens-Johnson syndrome have also occurred. Rare cases of severe hepatic dysfunctions also have been reported. Hepatic failure is usually reversible, but fatalities have been reported. Clarithromycin may also cause tooth decolouration which may be removed by dental cleaning. Fetal abnormalities, such as cardiovascular defects, cleft palate and fetal growth retardation, have been observed in animals. Clarithromycin may cause QT prolongation.

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_M_314
+DCI: RIVAROXABAN 15 mg cp (RIVAROXABAN CRISTERS)
+DrugBank ID: DB11577
+DrugBank Name: Indigotindisulfonic acid
+Brand Names: HEBERPROT- P 75
+Pharmaceutical Forms: Lyoph. Et Solv. Sol. Inj. Intra-Lesionnelle Et Peri-Lesionnelle
+Dosages: 15mcg/ml
+Packaging: b/1fl. de pdre. + 1amp. de solv. 5ml
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AF - INHIBITEURS DIRECTS DU FACTEUR Xa | B01AF01 - RIVAROXABAN
+Registration Numbers: 079/14 M 314/08/16
+Drug Codes: 14 M 314
+
+------------------------------------------------------------
+
+## Description
+
+Indigotindisulfonic acid is a blue-colored dye with a variety of uses. 2 , 3 , 4 , 12 Its salt form, indigotindisulfonate sodium, is also known as indigo carmine, indigotine or FD&C Blue #2. This compound is an acid-base indicator and is used in the production of food colorants and pH tests. 7 Indigotindisulfonic acid is used in clinical medicine to determine patency of the urinary collecting system, and to assist in specific surgical procedures such as cystourethroscopy. 2 , 3 , 4 In 2022, the FDA approved the intravenous use of indigotindisulfonate sodium to aid in visualizing ureter integrity in cystoscopic assessments. 10
+
+## Pharmacodynamics
+
+Approximately 4-9 minutes after indigotindisulfonate sodium is administered intravenously, its blue color is detectable at the ureteral orifices, enabling easier visualization for accuracy during medical procedures. 10 Although indigotindisulfonic acid and its salt form indigotindisulfonate sodium were initially acknowledged as pharmacologically inert, their use has been associated with cardiovascular effects. 1 , 2 Indigotindisulfonate sodium may lead to transient alpha-receptor stimulation, manifested as increased total peripheral vascular resistance, increased diastolic and systolic blood pressure, and increased central venous pressure with decreased cardiac output, stroke volume and heart rate. 1 The use of indigotindisulfonate sodium may lead to severe or life-threatening cardiovascular reactions such as cardiac arrest, arrhythmia, asystole, second-degree atrioventricular block, hypotension, elevation in blood pressure, bradycardia, and tachycardia. 10 Serious anaphylactic reactions with hypotension, dyspnea, bronchospasm, urticaria, or erythema have also been reported. 10 Also, the use of indigotindisulfonate sodium may interfere with light absorption and pulse oximetric methods. 10
+
+## Mechanism Of Action
+
+Indigotindisulfonic acid is a biologically inert blue dye. 5 After intravenous injection, indigotindisulfonic acid is excreted by the kidney through tubular secretion and, with its deep blue color, it enhances visualization of the ureteral orifices. 10 Because of this, indigotindisulfonic acid is used to identify ureteral patency in urologic and gynecologic procedures. 5 Indigotindisulfonic acid may lead to the development of hypertension. It has been suggested that indigotindisulfonic acid inhibits endothelium-dependent relaxation at the level of nitric oxide generation and/or its release from the endothelium. Also, indigotindisulfonic acid appears to inhibit vascular guanylyl cyclase in smooth muscle. 2 Target Actions Organism N Alpha adrenergic receptor agonist Humans
+
+## Absorption
+
+In healthy adults given 5 ml of indigotindisulfonate sodium (salt form of indigotindisulfonic acid), the C max and AUC 0-INF were 6.33 μg/mL and 1.15 μg·h/mL, respectively. 10 Studies evaluating the pharmacokinetic properties of intravenous indigotindisulfonate sodium in patients with renal impairment have not been performed. Based on subgroup analyses in a randomized clinical trial, patients with mild to moderate renal impairment or an estimated glomerular filtration rate (eGFR) from 30 to 89 mL/min do not require dose adjustments. Indigotindisulfonate sodium is not recommended in patients with eGFR lower than 30 mL/min. 10
+
+## Volume Of Distribution
+
+The volume of distribution of indigotindisulfonate sodium is 10.7 L. 10
+
+## Metabolism
+
+Indigotindisulfonate sodium is mainly oxidized via primary metabolic pathways. 10 An in vivo study done in rats showed that the breakdown of indigotindisulfonate sodium (FD&C Blue No. 2) generated two products: isatin-5-sulphonic acid and 5-sulphoanthranilic acid. 6 Clinical studies evaluating indigotindisulfonate sodium metabolism products have not been performed.
+
+## Route Of Elimination
+
+Indigotindisulfonic acid is excreted largely by the kidneys, retaining its blue color during passage through the body. Approximately 16% of the unchanged drug is excreted in urine, and less than 2% is excreted in feces. 10 The elimination of this dye begins rapidly after injection, appearing in the urine within 5 minutes. 8
+
+## Half Life
+
+In healthy adults given 5 ml of indigotindisulfonate sodium, the elimination half-life was 12 minutes. 10
+
+## Clearance
+
+In healthy adults given 5 ml of indigotindisulfonate sodium, the mean urinary clearance was 7.08 L/hour, and the mean total clearance was 40.2 L/hour. 10
+
+## Toxicity
+
+Toxicity information regarding indigotindisulfonic acid is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as cardiac arrest, arrhythmia, asystole, second degree atrioventricular block, hypotension, elevation in blood pressure, bradycardia, and tachycardia. 10 Symptomatic and supportive measures are recommended. The use of indigotindisulfonate sodium in pregnant women has not been associated with a higher risk of adverse maternal and fetal adverse effects. The use of this dye in the first trimester is rare; therefore, data are insufficient to evaluate the risk of major birth defects and miscarriage associated with the use of indigotindisulfonate sodium. 10 It is not known whether this drug is excreted in human breastmilk. Fertility studies with indigotindisulfonate sodium using the intravenous route of administration have not been conducted. 10 Carcinogenicity studies evaluating the effects of the intravenous administration of indigotindisulfonate sodium have not been performed. In mice, the long term subcutaneous administration of indigotindisulfonate sodium did not have carcinogenic effects. 10 Indigotindisulfonate sodium was not genotoxic in Ames assays. The in vitro mutagenicity of this dye was inconclusive, and in vivo studies suggest that orally administered indigotindisulfonate was not mutagenic. 10 The oral LD 50 of indigotindisulfonate sodium in rats is 2000 mg/kg. 11

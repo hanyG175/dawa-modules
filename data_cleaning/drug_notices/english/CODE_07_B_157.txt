@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_B_157
+DCI: Adapalene
+DrugBank ID: DB00210
+DrugBank Name: Adapalene
+Brand Names: ADAPALENE NOVAGENERICS
+Pharmaceutical Forms: Sol. App. Locale
+Dosages: 0.001
+Packaging: T/30G
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 312,77 DA
+PPA (DA): 312,77 DA
+Prescription List: Liste I
+ATC Classification: 07B109
+Registration Numbers: 123/07 B 157/08/15 | 149/07 B 157/18/24
+Drug Codes: 07 B 157
+
+------------------------------------------------------------
+
+## Description
+
+Acne vulgaris is a multifactorial disorder of the pilosebaceous unit involving increased sebum production, inflammation, and hyperproliferation/hyperkeratinization of the follicular infundibulum. It is also associated with Cutibacterium acnes (also known as Propionibacterium acnes ). Adapalene is a third-generation topical retinoid used for the treatment of acne vulgaris. 4 Adapalene has similar efficacy but a superior safety profile compared to tretinoin. 5 Tazarotene is more efficacious than adapalene but is designated as pregnancy category X and hence is contraindicated in pregnant women. 4 Adapalene can also be combined with benzoyl peroxide (BPO), which possesses bactericidal properties 6 , and either adapalene alone, or adapalene BPO combination products, are commonly used to treat mild-to-severe acne. 4 Differin®, produced by Galderma Labs, was first granted FDA approval on May 31st, 1996, as a 0.1% adapalene topical solution. Differin was later made available as 0.1% gel, cream, or lotion, or 0.3% gel products. On December 8th, 2008, Galderma Labs gained FDA approval for Epiduo®, a 0.1% adapalene, 2.5% BPO combination gel. 8
+
+## Pharmacodynamics
+
+Adapalene is anticomedogenic, preventing the formation of new comedones and inflammatory lesions, and also acts to reduce inflammation by modulating the innate immune response. 2 Like other retinoid compounds, adapalene is chemically stable but photosensitive; use with sunscreen is recommended. Minor skin irritations, including erythema, scaling, dryness, and stinging/burning, have been reported. 8
+
+## Mechanism Of Action
+
+Retinoic acid receptor beta Agonist Retinoic acid receptor gamma Agonist Retinoic acid receptor RXR-beta Agonist + 4 more targets
+
+## Absorption
+
+Adapalene is applied topically and absorbed through the skin. In one clinical study treating patients once per day with 2g of 0.3% gel applied to 2 mg/cm 2 of skin, 15 patients had detectable blood plasma adapalene levels (0.1 ng/ml) resulting in a mean C max of 0.553 ± 0.466 ng/ml and a mean AUC of 8.37 ± 8.46 ng*h/ml on day 10. 8
+
+## Metabolism
+
+Extensive information regarding adapalene metabolism in humans is unavailable, although it is known to accumulate in the liver and GI-tract. In human, mouse, rat, rabbit, and dog cultured hepatocytes, metabolism appears to affect the methoxybenzene moiety but remains incompletely characterized. The major products of metabolism are glucuronides. Approximately 25% of the drug is metabolized; the rest is excreted as parent drug. 9
+
+## Route Of Elimination
+
+Adapalene is primarily excreted by the biliary route at about 30 ng/g of the topically applied amount. Approximately 75% of the drug remains unchanged. 1
+
+## Half Life
+
+In one clinical study, after ten days of treatment with 2g of 0.3% cream or gel, the terminal half-life was between 7 and 51 hours, with a mean of 17.2 ± 10.2. 8
+
+## Clearance
+
+Adapalene is rapidly cleared from blood plasma, typically undetectable after 72 hours following topical application. 8
+
+## Toxicity
+
+Toxicity information regarding adapalene is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as redness, scaling, and skin discomfort. Symptomatic and supportive measures are recommended. 8 Adapalene has an acute oral LD 50 in S-D rats and CD-1 mice of over 5000 mg/kg. The LD 50 of 0.3% applied topically to Credo OF1 mice is over 10 ml/kg (30 mg/kg). No systemic or local toxicity was observed in rats treated topically with 6 mg/kg/day of 0.3% adapalene. 9

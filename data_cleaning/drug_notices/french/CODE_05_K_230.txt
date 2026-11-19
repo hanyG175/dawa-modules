@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_K_230
+DCI: APREPITANT 80 mg gél (APREPITANT REDDY PHARMA)
+Brand Names: EMADIS | XETREME
+Pharmaceutical Forms: Gélule
+Dosages: 80mg/125mg
+Packaging: boite contenant 02 gelule a 80 mg et 01 gelule a 125 mg | boite de 3 gelule ( une gelule a 125mg et 2 gelule a 80mg )
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A04 - ANTIEMETIQUES ET ANTINAUSEEUX | A04A - ANTIEMETIQUES ET ANTINAUSEEUX | A04AD - AUTRES ANTIEMETIQUES | A04AD12 - APREPITANT
+Registration Numbers: 263/05 K 230/22 | 447/05 K 230/23
+Drug Codes: 05 K 230
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | aprépitant : 80 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer indépendamment de la prise des repas | Traitement corticoïde à associer | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Nausées et vomissements induits par la chimiothérapie, traitement préventif (des) | Traitement initial | Administrer 1 heure avant la chimiothérapie | Ne pas utiliser ce dosage pour le traitement initial | Traitement par antagoniste 5HT3 à associer | 125 mg 1 fois ce jour | Traitement ultérieur | Administrer le matin | 80 mg 1 fois par jour | Pendant 2 jours
+
+## Precautions
+
+Allaitement | Contraception hormonale | Enfant de moins de 12 ans | Femme susceptible d'être enceinte | Grossesse | Homme en âge de procréer | Insuffisance hépatique modérée à sévère
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Aprépitant : Mécanisme d'action | L'aprépitant est un antagoniste sélectif à haute affinité pour les récepteurs de la substance P neurokinine 1 (NK1) humaine. Des essais de criblage ( | Counter-Screening Assays | ) ont montré que l’aprépitant est au moins 3 000 fois plus sélectif pour les récepteurs NK1 que pour les autres enzymes, transporteurs, canaux ioniques et récepteurs, y compris les récepteurs de la | dopamine | et de la sérotonine qui constituent la cible des traitements actuels contre les nausées et vomissements induits par la chimiothérapie (NVIC).
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Phosphatases alcalines (augmentation) (Peu fréquent) | - ALAT (augmentation) (Fréquent) | - ASAT (augmentation) (Peu fréquent) | - Sodium sanguin diminué (Rare) | - Hématies dans les urines présentes (Rare) | - Glycosurie (Rare) | - Neutrophiles diminués (Rare) | DERMATOLOGIE: | - Acné (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Séborrhée (Rare) | - Lésion cutanée (Rare) | - Syndrome de Stevens-Johnson (Rare) | - Syndrome de Lyell (Rare) | - Hyperhidrose (Rare) | - Photosensibilisation (Rare) | - Eruption prurigineuse (Rare) | - Prurit | - Urticaire | DIVERS: | - Asthénie (Peu fréquent) | - Fatigue (Fréquent) | - Gêne thoracique (Rare) | - Oedème (Rare) | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Neutropénie fébrile (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | INFECTIOLOGIE D'ORIGINE BACTERIENNE: | - Infection staphylococcique (Rare) | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose (Rare) | NUTRITION, MÉTABOLISME: | - Appétit diminué (Fréquent) | - Polydipsie (Rare) | - Poids (diminution) (Rare) | OPHTALMOLOGIE: | - Conjonctivite (Rare) | - Acuité visuelle (diminution) | - Myosis | ORL, STOMATOLOGIE: | - Sécheresse buccale (Peu fréquent) | - Sensation de vertige (Peu fréquent) | - Douleur oropharyngée (Rare) | - Stomatite (Rare) | - Eternuement (Rare) | - Acouphène (Rare) | - Dysgueusie (Rare) | - Ecoulement rétronasal (Rare) | - Irritation de la gorge (Rare) | PSYCHIATRIE: | - Anxiété (Peu fréquent) | - Léthargie (Rare) | - Désorientation temporospatiale (Rare) | - Euphorie (Rare) | - Trouble cognitif (Rare) | - Insomnie | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Peu fréquent) | - Bouffée de chaleur (Peu fréquent) | - Palpitation (Peu fréquent) | - Malaise (Peu fréquent) | - Atteinte cardiovasculaire (Rare) | - Bradycardie (Rare) | SYSTÈME DIGESTIF: | - Eructation (Peu fréquent) | - Reflux gastro-oesophagien (Peu fréquent) | - Constipation (Fréquent) | - Hoquet (Fréquent) | - Nausée (Peu fréquent) | - Dyspepsie (Fréquent) | - Douleur abdominale (Peu fréquent) | - Vomissement (Peu fréquent) | - Flatulence (Peu fréquent) | - Ulcère gastro-intestinal perforé (Rare) | - Colite neutropénique (Rare) | - Ulcère duodénal perforé (Rare) | - Distension abdominale (Rare) | - Selle dure (Rare) | - Gêne gastrique | - Bruits intestinaux anormaux | - Borborygme | - Subiléus | - Gêne épigastrique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Faiblesse musculaire (Rare) | - Spasme musculaire (Rare) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence (Peu fréquent) | - Anomalie de la démarche (Rare) | - Trouble de la marche (Rare) | - Hypoesthésie | - Trouble neurosensoriel | - Dysarthrie | SYSTÈME RESPIRATOIRE: | - Toux (Rare) | - Dyspnée | - Sifflement respiratoire | UROLOGIE, NÉPHROLOGIE: | - Dysurie (Peu fréquent) | - Pollakiurie (Rare) | - Polyurie (Rare)

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_045
+DCI: DIACEREINE 50 mg gél (DIACEREINE MYLAN)
+Brand Names: ARTROPI | DIACENE 50
+Pharmaceutical Forms: Gélule
+Dosages: 50mg
+Packaging: b/20 | b/30
+ATC Classification: M - MUSCLE ET SQUELETTE | M01 - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX | M01A - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AX - AUTRES ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AX21 - DIACEREÏNE
+Registration Numbers: 097/04 B 045/17 | 348/04 B 045/17
+Drug Codes: 04 B 045
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | diacéréine : 50 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer pendant le repas | Posologie | Patient de 15 an(s) à 65 an(s) | Patient quel que soit le poids | Arthrose de la hanche et du genou, traitement symptomatique à effet différé (de l') | Traitement initial | 1 gélule 1 fois par jour | Pendant 2 à 4 semaines | Traitement ultérieur | Administrer matin et soir | 1 gélule 2 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Enfant de moins de 15 ans | Grossesse | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Sujet âgé | Traitement par diurétique en cours
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Diacéréine : Mécanisme d'action | La diacéréine est un dérivé anthraquinonique qui possède une activité anti-inflammatoire modérée. | Elle est anti-inflammatoire à fortes doses, sans effet irritant sur l'estomac. | Son action est lente et apparaît vers le 30 | e | jour de traitement et est significative vers le 45 | e | jour. | L'effet est additif, en association avec les AINS. | In vitro | , la diacéréine a montré les propriétés suivantes : | une inhibition de la phagocytose et de la migration des macrophages, | une inhibition de la production de l'interleukine 1, | une réduction de l'activité collagénolytique. | Dans certains modèles, la diacéréine stimule la synthèse des protéoglycanes, des glycosaminoglycanes et de l'acide hyaluronique. | Une action favorable sur le cartilage a été mise en évidence sur plusieurs modèles animaux.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) (Rare) | DERMATOLOGIE: | - Prurit (Fréquent) | - Eczéma (Fréquent) | - Eruption cutanée (Fréquent) | NUTRITION, MÉTABOLISME: | - Trouble hydroélectrolytique | - Déshydratation | SYSTÈME DIGESTIF: | - Selles fréquentes (Fréquent) | - Flatulence (Fréquent) | - Douleur abdominale (Très fréquent) | - Diarrhée (Très fréquent) | - Selle molle (Fréquent) | - Mélanose rectocolique (Rare) | - Lésion hépatocellulaire | UROLOGIE, NÉPHROLOGIE: | - Couleur de l'urine (modification)

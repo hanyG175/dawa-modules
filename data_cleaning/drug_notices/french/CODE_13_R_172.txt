@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_172
+DCI: TERBINAFINE (chlorhydrate) 250 mg cp (TERBINAFINE ARROW LAB)
+Brand Names: EVOMISIL | LAMIDAZ | LAMINOX | ONYCAL | TENASIL | TERBIFINE | TERBIL | TERBINAFINE BEKER | TERBINAN | TERFINEX
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/10 et b/20 | b/14 | b/20
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D01 - ANTIFONGIQUES A USAGE DERMATOLOGIQUE | D01B - ANTIFONGIQUES A USAGE SYSTEMIQUE | D01BA - ANTIFONGIQUES A USAGE SYSTEMIQUE | D01BA02 - TERBINAFINE
+Registration Numbers: 003/13 R 172/07/25 | 035/13 R 172/14 | 149/13 R 172/16 | 177/13 R 172/07/12 | 263/13 R 172/14/24 | 304/13 R 172/06/24 | 309/13 R 172/08/24 | 418/13 R 172/15 | 447/13 R 172/16/22 | 549/13 R 172/19/24
+Drug Codes: 13 R 172
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | terbinafine (chlorhydrate) : 250 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer chaque jour à la même heure | Administrer de préférence pendant le repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Candidose cutanée - Dermatophytie cutanée - Dermatophytose de la peau glabre - Intertrigo dermatophytique des grands plis | Posologie standard | 250 mg 1 fois par jour | Pendant 2 à 4 semaines | Intertrigo dermatophytique des orteils - Kératodermie palmoplantaire | Posologie standard | 250 mg 1 fois par jour | Pendant 2 à 6 semaines | Onychomycose | Posologie standard | Dans le cas de : Onychomycose des mains | 250 mg 1 fois par jour | Pendant 6 semaines à 3 mois | Dans le cas de : Onychomycose des pieds | 250 mg 1 fois par jour | Pendant 3 à 6 mois
+
+## Precautions
+
+Enfant de moins de 15 ans | Hépatopathie | Insuffisance hépatique légère à modérée | Insuffisance rénale : 30 ml/min < clairance de la créatinine < 50 ml/min | Lupus érythémateux | Psoriasis | Sujet utilisant le goût à des fins professionnelles
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | III | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Terbinafine : Mécanisme d'action | La terbinafine est un antifongique à large spectre, appartenant à la classe des allylamines. | La terbinafine est active sur les affections fongiques cutanées dues à des dermatophytes tels que trichophyton ( | Trichophyton rubrum | , | Trichophyton mentagrophytes | , Trichophyton | verrucosum | , | Trichophyton violaceum | ), | Microsporum canis | et | Epidermophyton floccosum | . | A faible concentration, la terbinafine est fongicide vis-à-vis des dermatophytes et des moisissures. L'activité fongicide (exemple : | Pityrosporum orbiculare | ou | Malassezia furfur | ) ou fongistatique sur certaines levures dépend des espèces. | La terbinafine interfère spécifiquement et de façon précoce sur la biosynthèse de l'ergostérol (constituant essentiel de la membrane cellulaire du champignon) ; ceci aboutit à un déficit en ergostérol et à l'accumulation intracellulaire de squalène, responsable de son action fongicide. | La terbinafine empêche la biosynthèse de l'ergostérol, constituant essentiel de la membrane cellulaire du champignon, par inhibition de la squalène-époxydase dans la membrane cellulaire du champignon, l'enzyme squalène-époxydase n'étant pas liée au système cytochrome P450. | La terbinafine ne modifie pas le métabolisme des hormones et des autres substances.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) (Rare) | - Neutropénie (Très rare) | - CPK (augmentation) | DERMATOLOGIE: | - Lucite polymorphe (Peu fréquent) | - Photosensibilisation (Peu fréquent) | - Eruption cutanée (Très fréquent) | - Urticaire (Très fréquent) | - Lucite (Peu fréquent) | - Syndrome de Stevens-Johnson (Très rare) | - Eruption psoriasiforme (Très rare) | - Eruption vésiculeuse (Très rare) | - Dermatose bulleuse (Très rare) | - Pustulose exanthémateuse aiguë généralisée (Très rare) | - Dermatite exfoliative (Très rare) | - Syndrome de Lyell (Très rare) | - Erythème polymorphe (Très rare) | - Dermatose (Très rare) | - Alopécie (Très rare) | - Réaction cutanée sévère (Très rare) | - Psoriasis (aggravation) (Très rare) | - Erythème solaire | DIVERS: | - Fièvre (Peu fréquent) | - Fatigue (Fréquent) | - Syndrome pseudogrippal | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Agranulocytose (Très rare) | - Thrombopénie (Très rare) | - Pancytopénie (Très rare) | HÉPATOLOGIE: | - Insuffisance hépatique (Rare) | - Cholestase (Rare) | - Ictère (Rare) | - Hépatite (Rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Lupus érythémateux cutané (Très rare) | - Angioedème (Très rare) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde (Très rare) | - Lupus érythémateux disséminé (Très rare) | - Maladie sérique | - Syndrome DRESS | NUTRITION, MÉTABOLISME: | - Appétit diminué (Très fréquent) | - Poids (diminution) (Peu fréquent) | OPHTALMOLOGIE: | - Trouble de la vision (Fréquent) | - Vision floue (Fréquent) | - Acuité visuelle (diminution) (Fréquent) | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | - Hypogueusie (Fréquent) | - Agueusie (Fréquent) | - Sensation de vertige (Fréquent) | - Acouphène (Peu fréquent) | - Acuité auditive (modification) | - Hyposmie | - Hypoacousie | - Anosmie | PSYCHIATRIE: | - Dépression (Fréquent) | - Anxiété (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Vascularite | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Dyspepsie (Très fréquent) | - Diarrhée (Très fréquent) | - Distension abdominale (Très fréquent) | - Douleur abdominale (Très fréquent) | - Pancréatite | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très fréquent) | - Douleur articulaire (Très fréquent) | - Rhabdomyolyse | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Hypoesthésie (Peu fréquent) | - Paresthésie (Peu fréquent)

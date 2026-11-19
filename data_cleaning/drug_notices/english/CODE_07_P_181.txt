@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_181
+DCI: TROLAMINE 0,67 % émuls cut (TROLAMINE BIOGARAN CONSEIL)
+DrugBank ID: DB13747
+DrugBank Name: Trolamine
+Brand Names: BRUFINE
+Pharmaceutical Forms: Emulsion P.Application Cutanee
+Dosages: 0.670g/100
+Packaging: tube/93g et 186g
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D03 - PREPARATIONS POUR LE TRAITEMENT DES PLAIES ET ULCERES | D03A - CICATRISANTS | D03AX - AUTRES CICATRISANTS | D03AX12 - TROLAMINE
+Registration Numbers: 418/07 P 136/20
+Drug Codes: 07 P 181
+
+------------------------------------------------------------
+
+## Description
+
+Trolamine, which is also referred to as triethanolamine (TEA), is a tertiary amine and a triol. It is a bifunctional compound that exhibits both properties of alcohols and amines. Trolamine contains small amounts of diethanolamine and ethanolamine and may also act as an antioxidant against the auto-oxidation of animal and vegetable fats 1 . It is commonly used as a pH adjuster and surfactant in industrial and cosmetic products such as skin and hair conditioning products.
+
+## Pharmacodynamics
+
+Acts as a surfactant or alkalizing agent to aid in emulsification and solubilizing of compounds or in raising the pH of a solution 1
+
+## Mechanism Of Action
+
+As an amine, trolamine is capable of accepting a hydrogen to form hydroxide and a conjugate acid. This raises the pH of the solution. As a surfactant, it can lower the interfacial tension in a mixture or solution to prevent separation of emulsions or precipitation of a compound out of solution.
+
+## Absorption
+
+Dermal absorption of trolamine increases with the dose 1 . This has been found to range from 19-28% in rats with doses of 68-276 mg/kg in 190 μL of acetone without occlusion and from 60-80% in mice with doses of 79-1120 mg/kg in the same volume of acetone.
+
+## Metabolism
+
+Trolamine is excreted mostly as the unchanged compound 1 . No diethanolamine or ethanolamine has been found. Very small amounts of trolamine glucuronide have been detected but not quantified. Hover over products below to view reaction partners Trolamine Glucuronide Conjugate (Trolamine)
+
+## Route Of Elimination
+
+When orally administered to rats, the 53% of the trolamine dose was found to be excreted in the urine and 20% in the feces 1 . 98% was excreted in the urine with intravenous administration.
+
+## Toxicity
+
+Trolamine produced mild erythema and edema in rabbits with dermally administered doses of 2 g/kg under occlusion 1 . The oral LD50 was found to be 8 g/kg in guinea pigs and 4.19-11.26 g/kg in rats. Repeated oral administration in rats and guinea pigs produced hepatic and renal damage with deaths occurring in rats at doses >0.3 g/kg/day. When inhaled trolamine produced edema and inflammation in rats at doses over 100 mg/m³ after 5 days and at doses over 4.7 mg/m³ after 90 days. There is some evidence of carcinogenicity at high dermal doses (1000 mg/kg/day) in mice. Trolamine is not classified as a carcinogen in humans.

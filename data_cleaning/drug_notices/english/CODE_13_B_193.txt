@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_193
+DCI: Cefradine
+DrugBank ID: DB01333
+DrugBank Name: Cefradine
+Brand Names: ZEEFRA
+Pharmaceutical Forms: Gélule
+Dosages: 500mg
+Packaging: b/12
+Registration Numbers: 269/13 B 193/99/16
+Drug Codes: 13 B 193
+
+------------------------------------------------------------
+
+## Description
+
+A semi-synthetic cephalosporin antibiotic.
+
+## Mechanism Of Action
+
+Penicillin-binding protein 1A (Escherichia coli (strain K12)) Inhibitor
+
+## Route Of Elimination
+
+Over 90 percent of the drug is excreted unchanged in the urine within six hours.

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_B_040
+DCI: CETYLPYRIDINIUM CHLORURE 1,5 mg + LYSOZYME CHLORHYDRATE 20 mg cp à sucer (CETYLPYRIDINIUM/LYSOZYME ARROW CONSEIL Ss sucre)
+Brand Names: LYSOPAINE SANS SUCRE
+Pharmaceutical Forms: Comprimé
+Dosages: 1.5mg/20mg
+Packaging: b/1t. de 18 et b/2t. de 18 (36)
+ATC Classification: S - ORGANES SENSORIELS
+Registration Numbers: 152/23 B 040/13
+Drug Codes: 23 B 040
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Information du patient : jeter le récipient unidose après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Affection superficielle de l'oeil et de ses annexes, traitement d'appoint antiseptique (d'une) | Posologie standard | 1 gte 3 à 4 fois par jour | Pendant 7 jours | Durées absolues de traitement | Ne pas dépasser 15 jours de traitement.
+
+## Precautions
+
+Allaitement | Altération de l'épithélium cornéen | Grossesse | Instillations répétées | Sujet porteur de lentilles de contact | Traitement concomitant par un collyre | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cétylpyridinium chlorure : Mécanisme d'action | Le cétylpyridinium est un antiseptique cationique appartenant à la classe des ammonium quaternaires. Il est plus actif sur les bactéries Gram + que sur les bactéries Gram -.
+
+## Adverse Effects
+
+DIVERS: | - Intolérance locale | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | OPHTALMOLOGIE: | - Irritation oculaire

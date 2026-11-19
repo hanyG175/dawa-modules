@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_038
+DCI: Prednisone
+DrugBank ID: DB00635
+DrugBank Name: Prednisone
+Brand Names: METHYLPREDNISONE MYLAN
+Pharmaceutical Forms: Poudre Sol. Inj.
+Dosages: 120MG/FL. DE PDRE.
+Packaging: B/20FL. DE PDRE.
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 09H031
+Registration Numbers: 003/09 H 038/97/25 | 235/09 H 038/25 | 468/09 H 038/13/20
+Drug Codes: 09 H 038
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic anti-inflammatory glucocorticoid derived from cortisone . 1 It is biologically inert and converted to prednisolone in the liver. 9 Prednisone was granted FDA approval on 21 February 1955. 8
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals. 1 Prednisone has a short duration of action as the half life is 2-3 hours. 9 Corticosteroids have a wide therapeutic window as patients make require doses that are multiples of what the body naturally produces. 1 Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 1
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Oral prednisone has a T max of 2 hours, while the delayed-release formulation has a T max of 6-6.5 hours. 9 A 5mg dose of prednisone has an AUC of 572mL/min/1.73m 2 , a 20mg dose of prednisone has an AUC of 1034mL/min/1.73m 2 , and a 50mg dose of prednisone has an AUC of 2271mL/min/1.73m 2 . 5 Data regarding the C max of prednisone is not readily available. 9
+
+## Volume Of Distribution
+
+Data regarding the volume of distribution for prednisone is not readily available. 9 However, a 0.15mg/kg dose of prednisolone has a volume of distribution of 29.3L, while a 0.30mg/kg dose has a volume of distribution of 44.2L. 6
+
+## Metabolism
+
+Prednisone is metabolized to 17α,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII), 20α-dihydro-prednisone (M-V), 6βhydroxy-prednisone (M-XII), 6α-hydroxy-prednisone (M-XIII), or 20β-dihydro-prednisone (M-IV). 4 20β-dihydro-prednisone is metabolized to 17α,20ξ,21-trihydroxy-5ξ-pregn-1-en-3,11-dione(M-XVIII). 4 Prednison is reversibly metabolized to prednisolone . 4 Prednisolone is metabolized to Δ6-prednisolone (M-XI), 20α-dihydro-prednisolone (M-III), 20β-dihydro-prednisolone (M-II), 6αhydroxy-prednisolone (M-VII), or 6βhydroxy-prednisolone(M-VI). 4 6αhydroxy-prednisolone is metabolized to 6α,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-X). 4 6βhydroxy-prednisolone is metabolized to 6β,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII), 6β,11β,17α,20α,21-pentahydroxypregnan-1,4-diene-3-one (M-IX), and 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV). 4 MVIII is metabolized to 6β,11β,17α,20β,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XV) and then to MXIV, while MIX is metabolized to 6β,11β,17α,20α,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XVI) and then to MXIV. 4 These metabolites and their glucuronide conjugates are excreted predominantly in the urine. 4 Hover over products below to view reaction partners Prednisone Prednisolone 6βhydroxy-prednisolone(M-VI) 6β,11β,17α,20α,21-pentahydroxypregnan-1,4-diene-3-one (M-IX) 6β,11β,17α,20α,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XVI) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6β,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII) 6β,11β,17α,20β,21-pentahydroxy-5ξ-pregn-1-en-3-one (M-XV) 6β,11β,17α,21-tetrahydroxy-5ξ-pregn-1-en-3,20-dione (M-XIV) 6αhydroxy-prednisolone (M-VII) 6α,11β,17α,20β,21-pentahydroxypregnan-1,4-diene-3-one (M-X) 20β-dihydro-prednisolone (M-II) 20α-dihydro-prednisolone (M-III) Δ6-prednisolone (M-XI) 17α,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII) 20α-dihydro-prednisone (M-V) 20β-dihydro-prednisone (M-IV) 17α,20ξ,21-trihydroxy-5ξ-pregn-1-en-3,11-dione(M-XVIII) 6α-hydroxy-prednisone (M-XIII) 6βhydroxy-prednisone (M-XII)
+
+## Route Of Elimination
+
+Prednisone is excreted mainly in the urine as sulfate and glucuronide conjugates. 9
+
+## Half Life
+
+Prednisone and its active metabolite prednisolone have half lives of 2-3 hours from both immediate and delayed release preparations. 9
+
+## Clearance
+
+Data regarding the clearance of prednisone is not readily available. 9 A 5.5µg/h/kg infusion of prednisolone has an average clearance of 0.066±0.12L/h/kg, while a 0.15±0.03L/h/kg infusion has an average clearance of 0.15L/h/kg. 3
+
+## Toxicity
+
+Data regarding acute overdoses of prednisone are rare but prolonged high doses of prednisone can lead to a higher incidence and severity of adverse effects such as mental symptoms, moon face, abnormal fat deposits, fluid retention, excessive appetite, weight gain, hypertrichosis, acne, striae, ecchymosis, increased sweating, pigmentation, dry scaly skin, thinning scalp hair, increased blood pressure, tachycardia, thrombophlebitis, decreased resistance to infection, negative nitrogen balance with delayed bone and wound healing, headache, weakness, menstrual disorders, accentuated menopausal symptoms, neuropathy, fractures, osteoporosis, peptic ulcer, decreased glucose tolerance, hypokalemia, and adrenal insufficiency. 9

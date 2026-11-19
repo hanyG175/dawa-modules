@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_515
+DCI: Amoxicilline Sodique Exprime En Amoxicilline/Acide Clavulanique Potassique Exprime En Acide Clavulanique
+DrugBank ID: DB01060
+DrugBank Name: Amoxicillin
+Brand Names: AMOCLON ES
+Pharmaceutical Forms: Poudre
+Dosages: 600mg/42.9mg/5ml
+Packaging: flacon en verre de 75 ml
+Registration Numbers: 001/13 G 515/24
+Drug Codes: 13 G 515
+
+------------------------------------------------------------
+
+## Description
+
+Amoxicillin, or BRL-2333, is a penicillin G derivative first described in the literature in 1972. 6 Amoxicillin has similar activity to penicillin and ampicillin , but leads to higher serum concentrations than ampicillin. 6 Amoxicillin was granted FDA approval on 18 January 1974. 12
+
+## Pharmacodynamics
+
+Amoxicillin competitively inhibit penicillin binding proteins, leading to upregulation of autolytic enzymes and inhibition of cell wall synthesis. 9 , 10 , 5 Amoxicillin has a long duration of action as it is usually given twice daily. 15 Amoxicillin has a wide therapeutic range as mild overdoses are not associated with significant toxicity. 14 Patients should be counselled regarding the risk of anaphylaxis, Clostridium difficile infections, and bacterial resistance. 17
+
+## Mechanism Of Action
+
+Penicillin binding protein (Helicobacter pylori) Inhibitor
+
+## Absorption
+
+Amoxicillin is approximately 60% bioavailable. 8 A 250mg dose of oral amoxicillin reaches a C max 3.93±1.13mg/L with a T max 1.31±0.33h and an AUC of 27.29±4.72mg*h/L. 4 A 875mg dose of oral amoxicillin reaches a C max 11.21±3.42mg/L with a T max 1.52±0.40h and an AUC of 55.04±12.68mg*h/L. 4
+
+## Volume Of Distribution
+
+The central volume of distribution of amoxicillin is 27.7L. 4
+
+## Metabolism
+
+Incubation with human liver microsomes has lead to the detection of 7 metabolites. 1 The M1 metabolite has undergone hydroxylation, M2 has undergone oxidative deamination, M3 to M5 have undergone oxidation of the aliphatic chain, M6 has undergone decarboxylation, and M7 has undergone glucuronidation. 1 Hover over products below to view reaction partners Amoxicillin Amoxicillin M1 Metabolite Amoxicillin M2 Metabolite Amoxicillin M3 Metabolite Amoxicillin M4 Metabolite Amoxicillin M5 Metabolite Amoxicillin M6 Metabolite Amoxicillin M7 Metabolite
+
+## Route Of Elimination
+
+125mg to 1g doses of amoxicillin are 70-78% eliminated in the urine after 6 hours. 6
+
+## Half Life
+
+The half life of amoxicillin is 61.3 minutes. 8
+
+## Clearance
+
+The mean clearance of amoxicillin is 21.3L/h. 4
+
+## Toxicity
+
+Patients experiencing an overdose may present with hematuria, oliguria, abdominal pain, acute renal failure, vomiting, diarrhea, rash, hyperactivity, and drowsiness. 7 , 14 Treat overdose with symptomatic and supportive treatment, which may include emesis or hemodialysis. 14

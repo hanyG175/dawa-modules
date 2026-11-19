@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_335
+DCI: Azilsartanmedoxomil Potassium / Chlorthalidone
+DrugBank ID: DB01345
+DrugBank Name: Potassium cation
+Brand Names: EDARBYCLOR
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: boite de 30
+Registration Numbers: 001/06 E 335/22
+Drug Codes: 06 E 335
+
+------------------------------------------------------------
+
+## Description
+
+Potassium is the major cation (positive ion) inside animal cells, while sodium is the major cation outside animal cells. The concentration differences of these charged particles causes a difference in electric potential between the inside and outside of cells, known as the membrane potential. The balance between potassium and sodium is maintained by ion pumps in the cell membrane. The cell membrane potential created by potassium and sodium ions allows the cell generate an action potential—a "spike" of electrical discharge. The ability of cells to produce electrical discharge is critical for body functions such as neurotransmission, muscle contraction, and heart function. Potassium is also an essential mineral needed to regulate water balance, blood pressure and levels of acidity.

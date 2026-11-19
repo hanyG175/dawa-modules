@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_247
+DCI: Neratinib
+DrugBank ID: DB11828
+DrugBank Name: Neratinib
+Brand Names: NERLYNX | SPERANTA
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: b/180 | b/30
+Registration Numbers: 001/05 C 247/25 | 099/05 C 247/24
+Drug Codes: 05 C 247
+
+------------------------------------------------------------
+
+## Description
+
+Neratinib was approved in July 2017 for use as an extended adjuvant therapy in Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer. Approval was granted to Puma Biotechnology Inc. for the tradename Nerlynx. Neratinib is currently under investigation for use in many other forms of cancer.
+
+## Pharmacodynamics
+
+Neratinib is a tyrosine kinase inhibitor which exhibits antitumor action against Epidermal Growth Factor Receptor (EGFR), HER2, and Human Epidermal Growth Factor Receptor 4 (HER4) postive carcinomas [FDA Label].
+
+## Mechanism Of Action
+
+Neratinib binds to and irreversibly inhibits EGFR, HER2, and HER4 [FDA Label]. This prevents auotphoshorylation of tyrosine residues on the receptor and reduces oncogenic signalling through the mitogen-activated protein kinase and Akt pathways. Target Actions Organism U Epidermal growth factor receptor inhibitor Humans U Receptor tyrosine-protein kinase erbB-2 inhibitor Humans U Vascular endothelial growth factor receptor 2 inhibitor Humans
+
+## Absorption
+
+Neratinib and its major active metabolites M3. M6, and M7 have a Tmax of 2-8 h [FDA Label]. Administration with a high fat meal increases Cmax by 1.7-fold and total exposure by 2.2-fold. Administration with a standard meal increases Cmax by 1.2-fold and total exposure by 1.1-fold. Administration with gastric acid reducing agents such as proton pump inhibitors reduces Cmax by 71% and total exposure by 65%.
+
+## Volume Of Distribution
+
+The apparent volume of distribution at steady state is 6433 L [FDA Label].
+
+## Metabolism
+
+Neratinib is mainly undergoes metabolism via CYP3A4 [FDA Label]. It is also metabolized by flavin-containing monooxygenase to a lesser extent. The systemic exposures of neratinib's active metabolites M3, M6, M7, and M11 are 15%, 33%, 22%, and 4%.
+
+## Route Of Elimination
+
+97.1% of the total dose is excreted in the feces and 1.13% in the urine [FDA Label].
+
+## Half Life
+
+The mean half life of elimination ranges from 7-17 h following a single dose [FDA Label]. The mean plasma half life during multiple doses is 14.6 h for neratinib, 21.6 h for M3, 13.8 h for M6, and 10.4 h for M7.
+
+## Clearance
+
+The total clearance during multiple doses is 216 L/h for after the first dose and 281 L/h during steady state [FDA Label].
+
+## Toxicity
+
+Use of neratinib may produce diarrhea and hepatotoxicity as clinically significant adverse effects [FDA Label]. Serious adverse reactions in the neratinib arm of the clinical trials included diarrhea (1.6%), vomiting (0.9%), dehydration (0.6%), cellulitis (0.4%), renal failure (0.4%), erysipelas (0.4%), alanine aminotransferase increase (0.3%), aspartate aminotransferase increase (0.3%), nausea (0.3%), fatigue (0.2%), and abdominal pain (0.2%).

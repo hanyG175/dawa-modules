@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_B_139
+DCI: Anastrozole
+DrugBank ID: DB01217
+DrugBank Name: Anastrozole
+Brand Names: ANASTROZOLE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 1MG
+Packaging: B/28
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 6,512.56 DA
+PPA (DA): 6,512.56 DA
+Prescription List: Liste I
+Registration Numbers: 001/09 B 139/21 | 157/09 B 139/14 | 263/09 B 139/22 | 285/09 B 139/20 | 323/09 B 139/16 | 352/09 B 139/25 | 502/09 B 139/15 | 569/09 B 139/05/21 | 630/09 B 139/24
+Drug Codes: 09 B 139
+
+------------------------------------------------------------
+
+## Description
+
+Anastrozole is a non-steroidal aromatase inhibitor (AI), similar to letrozole , used to decrease circulating estrogen levels in the treatment of postmenopausal women with estrogen-responsive breast cancer. 10 Anastrozole is also related to exemestane , a steroidal AI, but its non-steroidal nature provides stark advantages including a lack of steroid-associated adverse effects such as weight gain and acne. 4 Aromatase inhibitors, including anastrozole, have become endocrine drugs of choice in the treatment of postmenopausal breast cancer due to a more favourable efficacy and adverse effect profile as compared to earlier estrogen receptor modulators such as tamoxifen . 5 , 8 Anastrozole was first approved for use in the United States in 1995. 10
+
+## Pharmacodynamics
+
+Anastrozole prevents the conversion of adrenal androgens (e.g. testosterone ) to estrogen in peripheral and tumour tissues. As the growth of many breast cancers is stimulated and/or maintained by the presence of estrogen, anastrozole helps to treat these cancers by decreasing the levels of circulating estrogens. 12 , 9 Anastrozole has a relatively long duration of action allowing for once daily dosing - serum estradiol is reduced by approximately 70% within 24 hours of beginning therapy with 1mg once daily, and levels remain suppressed for up to 6 days following cessation of therapy. 10 The incidence of ischemic cardiovascular events was increased during anastrozole therapy and patients with pre-existing ischemic heart disease should consider the risks and benefits of anastrozole before beginning therapy. Anastrozole has also been reported to decrease spine and hip bone mineral density (BMD), so consideration should be given to monitoring of BMD in patients receiving long-term therapy. 10 , 8
+
+## Mechanism Of Action
+
+Aromatase Inhibitor
+
+## Absorption
+
+Anastrozole is rapidly absorbed and T max is typically reached within 2 hours of dosing under fasted conditions. 5 , 12 Coadministration with food reduces the rate but not the overall extent of absorption - mean C max decreased by 16% and the median T max was extended to 5 hours when anastrozole was administered 30 minutes after ingestion of food, 10 though this relatively minor alteration in absorption kinetics is not expected to result in clinically significant effects. 11
+
+## Volume Of Distribution
+
+The volume of distribution of anastrozole into brain tissue in mice is 3.19 mL/g. Distribution into the CNS is limited due to the activity of P-gp efflux pumps at the blood brain barrier, of which anastrozole is a substrate. 2
+
+## Metabolism
+
+Anastrozole is primarily metabolized in the liver via oxidation and glucuronidation to a number of inactive metabolites, including hydroxyanastrozole (both free and glucuronidated) and anastrozole glucuronide. 1 , 10 , 12 Oxidation to hydroxyanastrozole is catalyzed predominantly by CYP3A4 (as well as CYP3A5 and CYP2C8, to a lesser extent) and the direct glucuronidation of anastrozole appears to be catalyzed mainly by UGT1A4. 1 Anastrozole may also undergo N-dealkylation to form triazole and 3,5-Bis-(2-methylpropiononitrile)-benzoic acid. 1 Labels for anastrozole state the main metabolite found in plasma following administration is triazole, 10 , 12 but a recent pharmacokinetic study was unable to detect any products of N-dealkylation in vitro . 1 Hover over products below to view reaction partners Anastrozole Anastrozole glucuronide metabolite Hydroxyanastrozole Hydroxyanastrozole glucuronide metabolite Triazole 3,5-Bis-(2-methylpropiononitrile)-benzoic acid
+
+## Route Of Elimination
+
+Hepatic metabolism accounts for approximately 85% of anastrozole elimination. 10 Approximately 10% of the administered dosage is eliminated unchanged in the urine. 12 , 13
+
+## Half Life
+
+The elimination half-life of anastrozole is approximately 50 hours. 10 , 12 , 5
+
+## Clearance
+
+Anastrozole's clearance is mainly via hepatic metabolism and can therefore be altered in patients with hepatic impairment - patients with stable hepatic cirrhosis exhibit an apparent oral clearance approximately 30% lower compared with patients with normal liver function. 10 , 12 Conversely, renal impairment has a negligible effect on total drug clearance as the renal route is a relatively minor clearance pathway for anastrozole. In volunteers with severe renal impairment, renal clearance was reduced by 50% while total clearance was only reduced by approximately 10%. 10 , 12
+
+## Toxicity
+
+The reported oral TDLo in a human woman is 1.68 mg/kg given intermittently over the course of 12 weeks. 14 Knowledge of the signs and symptoms of anastrozole overdose is incomplete as there are no documented descriptions of a patient receiving more than 60mg, 13 a dose which was administered to a healthy male volunteer and was well-tolerated. 10 , 12 There is no antidote for anastrozole and treatment should be supportive and symptomatic, including close monitoring of patient vital signs. As anastrozole exhibits relatively low protein binding, dialysis may be helpful and should be considered in select cases. 10 , 12

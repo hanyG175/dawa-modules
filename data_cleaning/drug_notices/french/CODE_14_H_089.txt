@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_089
+DCI: ALFACALCIDOL 0,25 µg caps molle (ALFACALCIDOL THERAMEX) | Alfacalcidol
+Brand Names: SUPRA CALCI | UN-ALFA
+Pharmaceutical Forms: Gélule
+Dosages: 0.25 mcg | 0.25mcg
+Packaging: b/30
+Laboratories: Theramex Ireland Limited | 3rd Floor, Kilmore House, | Park Lane, Spencer Dock, | Dublin 1, D01 YE64 | IrlandE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A11 - VITAMINES | A11C - VITAMINES A ET D, ASSOCIATIONS DES DEUX INCLUSES | A11CC - VITAMINE D ET ANALOGUES | A11CC03 - ALFACALCIDOL | A11CC03
+Registration Numbers: 174/14 H 089/19 | 600/14 H 089/98/23
+Drug Codes: 14 H 089
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | capsule | alfacalcidol : 0.25 µg | Modalités d'administration | Voie orale | Administrer avec un peu d'eau | Administrer entier | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 15 an(s) | Poids = 20 kg | Ostéodystrophie rénale chez l'insuffisant rénal sévère | Traitement initial | 0,5 à 1 µg 1 fois par jour | Traitement ultérieur | 1 à 2 µg 1 fois par jour | Ostéodystrophie rénale chez l'enfant, traitement préventif (de l') | Posologie standard | 0,5 à 1 µg 1 fois par jour | Rachitisme pseudo-carentiel | Traitement d'attaque | 2 à 4 µg 1 fois par jour | Traitement d'entretien | 0,75 à 2 µg 1 fois par jour | Dans le cas de : Association à un supplément de phosphates dans la forme avec alopécie | 5 à 8 µg 1 fois par jour | Rachitisme hypophosphatémique vitamino-résistant, traitement associé (du) | Posologie standard | 1 à 6 µg 1 fois par jour | Hypocalcémie post-parathyroïdectomie en cas d'hyperparathyroïdisme primaire ou tertiaire, trt prév - Hypoparathyroïdie - Pseudo-hypoparathyroïdie | Posologie standard | 1 à 3 µg 1 fois par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Ostéodystrophie rénale chez l'insuffisant rénal sévère | Traitement initial | 0,5 à 1 µg 1 fois par jour | Traitement ultérieur | 1 à 2 µg 1 fois par jour | Ostéodystrophie rénale chez l'adulte en cas d'hyperparathyroïdisme, traitement préventif (de l') | Posologie standard | 0,5 à 1 µg 1 fois par jour | Ostéomalacie hypophosphatémique vitamino-résistante, traitement associé (de l') | Posologie standard | 1 à 6 µg 1 fois par jour | Hypocalcémie post-parathyroïdectomie en cas d'hyperparathyroïdisme primaire ou tertiaire, trt prév - Hypoparathyroïdie - Pseudo-hypoparathyroïdie | Posologie standard | 1 à 3 µg 1 fois par jour
+
+## Precautions
+
+Allaitement | Athérosclérose | Calcification pulmonaire | Femme susceptible d'être enceinte | Hyperparathyroïdie | Insuffisance rénale sévère | Intoxication par l'aluminium | Lithiase urinaire | Ostéodystrophie rénale | Sarcoïdose | Traitement par vitamine D en cours | Valvulopathie cardiaque
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | II | III | Contre-indication relative | II | Précaution
+
+## Mechanism Of Action
+
+Alfacalcidol : Mécanisme d'action | L'alfacalcidol est le premier précurseur de synthèse du métabolite actif de la vitamine D | 3 | . | L'alfacalcidol normalise l'absorption intestinale du | calcium | et du | phosphore | . Il élève à la fois la calcémie et la phosphorémie. Il n'abaisse les taux élevés de l'hormone parathyroïdienne que si l'hyperphosphorémie est prévenue par l'augmentation des doses d'hydroxyde d'aluminium. Son action continue de s'exercer même lorsque la 1-alpha-hydroxylation rénale est perturbée. | L'action pharmacologique se manifeste rapidement et proportionnellement à la dose.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypercalciurie (Fréquent) | - Hyperphosphatémie (Fréquent) | - Hypercalcémie (Fréquent) | DERMATOLOGIE: | - Prurit (Fréquent) | - Eruption cutanée (Fréquent) | - Eruption pustuleuse | - Eruption maculopapuleuse | - Erythème cutané | DIVERS: | - Calcinose (Peu fréquent) | - Asthénie (Peu fréquent) | - Fatigue (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Rare) | PSYCHIATRIE: | - Confusion mentale (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Peu fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Gêne abdominale (Fréquent) | - Constipation (Peu fréquent) | - Nausée (Peu fréquent) | - Diarrhée (Peu fréquent) | - Vomissement (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | UROLOGIE, NÉPHROLOGIE: | - Lithiase urinaire (Peu fréquent) | - Insuffisance rénale (Peu fréquent) | - Néphrocalcinose (Peu fréquent) | - Insuffisance rénale aiguë

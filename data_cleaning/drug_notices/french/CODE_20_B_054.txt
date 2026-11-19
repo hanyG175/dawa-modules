@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_B_054
+DCI: codéine
+Brand Names: NEO-CODION ENFANT
+Pharmaceutical Forms: Siropop
+Dosages: 3.285mg/61mg/5ml
+Packaging: flacon/125ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R05 - MEDICAMENTS DU RHUME ET DE LA TOUX | R05D - ANTITUSSIFS, SAUF ASSOCIATIONS AUX EXPECTORANTS | R05DA - ALCALOÏDES DE L'OPIUM ET DERIVES | R05DA04 - CODEINE
+Registration Numbers: 269/20 B 054/98/07
+Drug Codes: 20 B 054
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | codéine (phosphate) : 15.22 mg | Modalités d'administration | Voie orale | Le traitement doit être de courte durée | Respecter un intervalle d'au moins 6 heures entre 2 prises | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Toux sèche | Posologie standard | 1 à 2 comprimés 1 à 4 fois par jour | Posologies maximales | Posologie maximale: 8 comprimés par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Affection des voies biliaires | Allaitement | Altération de l'état de conscience | Epilepsie | Etat de dépendance, antécédent | Grossesse | Hypertension intracrânienne | Hypertrophie bénigne de la prostate | Hypothyroïdie | Insuffisance cardiaque | Insuffisance hépatique | Insuffisance rénale | Maladie d'Addison | Métaboliseur rapide du CYP2D6 | Nouveau-né exposé in utero au médicament | Pathologie respiratoire | Patient cholécystectomisé | Patient présentant un déficit fonctionnel du CYP2D6 | Sténose urétrale | Sujet âgé | Toxicomanie aux morphiniques | Traitement prolongé à posologie élevée
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Codéine : Mécanisme d'action | La codéïne est un alcaloïde de l' | opium | , agoniste morphinique pur. | Sur le système nerveux central, la | dihydrocodéine | possède une activité antalgique dont la puissance est environ le dixième de celle de la | morphine | . | Sur les centres respiratoires, la | dihydrocodéine | exerce une action dépressive, elle est antitussive.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatite allergique (Rare) | - Prurit | HÉPATOLOGIE: | - Spasme du sphincter d'Oddi | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique | - Hypersensibilité | - Oedème de Quincke | ORL, STOMATOLOGIE: | - Sécheresse buccale | - Vertige | PSYCHIATRIE: | - Confusion mentale | - Trouble du sommeil | - Pharmacodépendance | - Abus de substance | - Trouble de l'humeur | - Euphorie | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Tachycardie | - Hypotension artérielle | - Bradycardie | - Vasodilatation | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Constipation | - Pancréatite | SYSTÈME NERVEUX: | - Céphalée | - Hypertension intracrânienne | - Somnolence | - Sédation | - Convulsions | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Rare) | - Dépression respiratoire (Rare) | - Dyspnée | TOXICOLOGIE: | - Syndrome de sevrage | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire

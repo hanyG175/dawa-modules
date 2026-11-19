@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_J_068
+DCI: Tocilizumab
+DrugBank ID: DB06273
+DrugBank Name: Tocilizumab
+Brand Names: ACTEMRA
+Pharmaceutical Forms: Concentre Pour Solution A Diluer Pour Perfusion Iv
+Dosages: 20mg/ml/flacon
+Packaging: boite de 1 flacon de 4 ml ( 80 mg/4ml). 10ml (200mg/10ml). 20ml( 400 mg/20ml)
+Registration Numbers: 128/21 J 068/15
+Drug Codes: 21 J 068
+
+------------------------------------------------------------
+
+## Description
+
+Tocilizumab is a recombinant humanized monoclonal antibody IL-6 receptor inhibitor used to treat inflammatory and autoimmune conditions. 6 It was first described in the literature in 2003 when Chugai, a subsidiary of Roche began developing IL-6 inhibiting monoclonal antibodies. 2 Tocilizumab was granted FDA approval on 8 January 2010 to treat a number of inflammatory and autoimmune disorders, such as different types of arthritis and cytokine release syndrome. 6 It was later approved by Health Canada on 30 April 2010. 11 After being investigated to treat severely ill patients with COVID-19, 1 , 7 , 8 tocilizumab was approved by the European Commission in December 2021 to treat COVID-19 in adults receiving systemic corticosteroids and supplemental oxygen or mechanical ventilation. 9 Subsequently, it was granted approval by Health Canada and the FDA in October 11 and December 2022, respectively. 12 Tocilizumab-bavi, a biosimilar drug, was approved by the FDA in September 2023. 13 . Two biosimilar versions of tocilizumab have since been approved by the FDA: tocilizumab-bavi, in September 2023, 13 and Tyenne® (tocilizumab), in June 2024. Tyenne is the first tocilizumab biosimilar approved in both intravenous and subcutaneous formulations and is authorized to treat several inflammatory conditions, including rheumatoid arthritis and juvenile idiopathic arthritis. 14
+
+## Pharmacodynamics
+
+Tocilizumab is an IL-6 inhibiting monoclonal antibody used to treat autoimmune and inflammatory conditions. 6 Tocilizumab has a long duration of action as it is generally given every 4 weeks and has a wide therapeutic index. 6 Patients should be counselled regarding the risk of infections, GI perforation, and hepatotoxicity. 6
+
+## Mechanism Of Action
+
+Interleukin-6 receptor subunit alpha Inhibitor Antibody
+
+## Absorption
+
+A 162mg subcutaneous dose given weekly has a C max of 51.3±23.2µg/mL and an AUC of 8254±3833µg*h/mL. 5 A 162mg subcutaneous dose given every 2 weeks has a C max of 13±8.3µg/mL and an AUC of 3460±2530µg*h/mL. 5 A 162mg subcutaneous dose given every 4 weeks has a C max of 154±42µg/mL and an AUC of 39216±14304µg*h/mL. 5
+
+## Volume Of Distribution
+
+In rheumatoid arthritis patients, the central volume of distribution is 3.5L, the peripheral volume of distribution is 2.9L, and the volume of distribution at steady state is 6.4L. 6 In giant cell arteritis patients, the central volume of distribution is 4.09L, the peripheral volume of distribution if 3.37L, and the volume of distribution at steady state is 7.46L. 6 In pediatric patients with polyarticular juvenile arthritis, the central volume of distribution is 1.98L, the peripheral volume of distribution is 2.1L, and the volume of distribution at steady state is 4.08L. 6 In pediatric patients with systemic juvenile idiopathic arthritis, the central volume of distribution is 1.87L, the peripheral volume of distribution is 2.14L, and the volume of distribution at steady state is 4.01L. 6
+
+## Metabolism
+
+Tocilizumab, like other monoclonal antibodies, is expected to be metabolized to smaller proteins and amino acids by proteolytic enzymes. 3
+
+## Route Of Elimination
+
+Data regarding the exact route of elimination of monoclonal antibodies is not readily available. 3 , 6
+
+## Half Life
+
+The half life of tocilizumab is concentration dependent. 6 The terminal half life in rheumatoid arthritis patients is 21.5 days. 6 The absorption half life in rheumatoid arthritis and giant cell arteritis patients was 4 days, and in polyarticular juvenile idiopathic arthritis patients and systemic juvenile idiopathic arthritis patients was 2 days. 6
+
+## Clearance
+
+The linear clearance in rheumatoid arthritis patients is 12.5mL/h, in giant cell arteritis patients is 6.7mL/h, in polyarticular juvenile idiopathic arthritis patients is 5.8mL/h, and in systemic juvenile idiopathic arthritis is 5.7mL/h. 6 Clearance is dose dependent and changes from non linear at low doses to linear at higher doses. 6
+
+## Toxicity
+
+Data regarding overdoses of tocilizumab are not readily available. 6 Patients experiencing an overdose may develop neutropenia. 6 In case of overdose, monitor patients for signs of adverse reactions and provide symptomatic and supportive treatment. 6

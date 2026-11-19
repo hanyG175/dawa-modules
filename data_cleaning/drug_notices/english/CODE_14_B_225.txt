@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_B_225
+DCI: INSULINE GLARGINE 100 UI/ml sol inj stylo prérempli (ABASAGLAR KWIKPEN)
+DrugBank ID: DB01306
+DrugBank Name: Insulin aspart
+Brand Names: BIOMYXE 30 | NOVOMIX 30 FLEXPEN
+Pharmaceutical Forms: Suspension
+Dosages: 100ui/ml
+Packaging: b/05 stylo pre-remplis jetables de 3ml | b/05 stylos multidoses pre-remplis jetables de 3ml
+Laboratories: LILLY FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10A - INSULINES ET ANALOGUES | A10AE - INSULINES ET ANALOGUES D'ACTION LENTE PAR VOIE INJECTABLE | A10AE04 - INSULINE GLARGINE
+Registration Numbers: 069/14 B 225/06/23 | 598/14 B 225/24
+Drug Codes: 14 B 225
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Insulin is a natural hormone produced by beta cells of the pancreas. In non-diabetic individuals, a basal level of insulin is supplemented with insulin spikes following meals. Postprandial insulin spikes are responsible for the metabolic changes that occur as the body transitions from a postabsorptive to absorptive state. Insulin promotes cellular uptake of glucose, particularly in muscle and adipose tissues, promotes energy storage via glycogenesis, opposes catabolism of energy stores, increases DNA replication and protein synthesis by stimulating amino acid uptake by liver, muscle and adipose tissue, and modifies the activity of numerous enzymes involved in glycogen synthesis and glycolysis. Insulin also promotes growth and is required for the actions of growth hormone (e.g. protein synthesis, cell division, DNA synthesis). Insulin aspart is a rapid-acting insulin analogue used to mimic postprandial insulin spikes in diabetic individuals. The onset of action of insulin aspart is 10-15 minutes. Its activity peaks 60-90 minutes following subcutaneous injection and its duration of action is 4-5 hours.
+
+## Mechanism Of Action
+
+Insulin receptor Agonist
+
+## Absorption
+
+In studies of healthy volunteers and patients with type 1 diabetes, the median time to maximum concentration of insulin aspart in these trials was 40 to 50 minutes versus 80 to 120 minutes, for regular human insulin respectively. Compared to human insulin, insulin aspart has a faster absorption, a faster onset of action, and a shorter duration of action than regular human insulin after subcutaneous injection. It takes 40 - 50 minutes to reach maximum concentration. When a dose of 0.15 U/kg body weight was injected in type 1 diabetes patients, the mean maximum concentration (Cmax) was 82 mU/L. The site of injection has no impact on extent or speed of absorption.
+
+## Half Life
+
+Elimination half-life was found to be 81 minutes (following subcutaneous administration in healthy subjects).
+
+## Toxicity
+
+Inappropriately high dosages relative to food intake and/or energy expenditure may result in severe and sometimes prolonged and life-threatening hypoglycemia. Neurogenic (autonomic) signs and symptoms of hypoglycemia include trembling, palpitations, sweating, anxiety, hunger, nausea and tingling. Neuroglycopenic signs and symptoms of hypoglycemia include difficulty concentrating, lethargy/weakness, confusion, drowsiness, vision changes, difficulty speaking, headache, and dizziness. Mild hypoglycemia is characterized by the presence of autonomic symptoms. Moderate hypoglycemia is characterized by the presence of autonomic and neuroglycopenic symptoms. Individuals may become unconscious in severe cases of hypoglycemia.

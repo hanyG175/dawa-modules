@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_F_075
+DCI: DONEPEZIL CHLORHYDRATE 10 mg cp (DONEPEZIL ALTER)
+Brand Names: ARIDONE HUP | DEMENTILE | DONCEPT | DONEPEZIL BEKER | DOPEZIL 10MG | SYNOSIA
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/28 | b/30
+ATC Classification: N - SYSTEME NERVEUX | N06 - PSYCHOANALEPTIQUES | N06D - MEDICAMENTS CONTRE LA DEMENCE | N06DA - ANTICHOLINESTERASIQUES | N06DA02 - DONEPEZIL
+Registration Numbers: 001/15 F 075/14 | 173/15 F 075/16/24 | 263/15 F 075/14/24 | 317/15 F 075/11/24 | 380/15 F 075/11 | 447/15 F 075/13/24
+Drug Codes: 15 F 075
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | donépézil chlorhydrate : 10 mg | Modalités d'administration | Voie orale | Administrer immédiatement avant le coucher | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie d'Alzheimer, forme légère à modérée, traitement symptomatique (de la) | Traitement initial | Traitement à évaluer après 4 semaines de traitement | 5 mg 1 fois par jour | Ne pas administrer moins de 1 mois. | Traitement ultérieur | Traitement à poursuivre tant qu'il apporte des bénéfices au patient | Traitement à réévaluer régulièrement | 5 à 10 mg 1 fois par jour | Posologie maximale: 10 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Anesthésie | Antécédent d'asthme | Antécédent récent d'infarctus du myocarde | Bronchopneumopathie chronique obstructive, antécédent(de) | Démence vasculaire | Grossesse | Insuffisance cardiaque congestive | Insuffisance hépatique | Patient à risque d'ulcère digestif | Sujet à risque d'allongement de l'espace QT | Sujet de moins de 18 ans | Syndrome extrapyramidal | Trouble de la conduction cardiaque | Troubles du sommeil
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Donépézil : Mécanisme d'action | Le donépézil est un inhibiteur spécifique et réversible de l'acétylcholinestérase, cholinestérase prédominante dans le cerveau. | Il présente, | in vitro | , une activité inhibitrice sur l'acétylcholinestérase 1000 fois supérieure à celle qu'il a sur la butyrylcholinestérase, cholinestérase prédominante hors du système nerveux central.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - CPK (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Prurit (Fréquent) | - Eruption cutanée (Fréquent) | DIVERS: | - Douleur (Fréquent) | - Fatigue (Fréquent) | - Blessure accidentelle (Fréquent) | - Hypersexualité | - Chute | HÉPATOLOGIE: | - Hépatopathie (Rare) | - Hépatite | NUTRITION, MÉTABOLISME: | - Anorexie (Fréquent) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sialorrhée (Peu fréquent) | - Rhinite (Fréquent) | PSYCHIATRIE: | - Cauchemar (Fréquent) | - Insomnie (Fréquent) | - Agressivité (Fréquent) | - Rêves anormaux (Fréquent) | - Hallucination (Fréquent) | - Agitation (Fréquent) | - Libido (augmentation) | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Peu fréquent) | - Syncope (Fréquent) | - Bloc sino-auriculaire (Rare) | - Bloc auriculoventriculaire (Rare) | - Torsades de pointes | - Pause sinusale | - Allongement de l'espace QT | - Bloc cardiaque | - Tachycardie ventriculaire polymorphe | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Diarrhée (Très fréquent) | - Gêne abdominale (Fréquent) | - Hémorragie gastro-intestinale (Peu fréquent) | - Ulcère duodénal (Peu fréquent) | - Vomissement (Fréquent) | - Ulcère gastrique (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Fréquent) | - Rhabdomyolyse (Très rare) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Convulsions (Peu fréquent) | - Syndrome extrapyramidal (Rare) | - Pleurothotonos | TOXICOLOGIE: | - Syndrome malin des neuroleptiques (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Incontinence urinaire (Fréquent)

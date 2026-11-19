@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_B_031
+DCI: Acetylcysteine/Tuaminoheptane/Chlorure De Benzalkonium
+DrugBank ID: DB06151
+DrugBank Name: Acetylcysteine
+Brand Names: RHINOFLUIMUCIL
+Pharmaceutical Forms: Sol. Pulv.Nasale
+Dosages: 100mg/50mg/1.25mg/10ml
+Packaging: flacon./10ml
+Registration Numbers: 093/22 B 031/07
+Drug Codes: 22 B 031
+
+------------------------------------------------------------
+
+## Description
+
+Acetylcysteine is an antioxidant and glutathione inducer indicated for mucolytic therapy and the treatment of acetaminophen overdose. 14 , 15 , 16 , 17 Acetylcysteine has also been studied for a wide variety of off-label indications with mixed results. 8 , 9 , 10 Acetylcysteine was granted FDA approval on 14 September 1963. 18
+
+## Pharmacodynamics
+
+Acetylcysteine is indicated for mucolytic therapy and in the management of acetaminophen overdose. 14 , 15 , 16 , 17 It has a short duration of action as it is given every 1-8 hours depending on route of administration, and has a wide therapeutic window. 14 , 15 , 16 , 17 Patients should be counselled regarding diluting oral solutions in cola for taste masking, 7 the risk of hypersensitivity, and the risk of upper gastrointestinal hemorrhage. 14 , 15 , 16 , 17
+
+## Mechanism Of Action
+
+Glutathione synthetase Stimulator Cystine/glutamate transporter Activator
+
+## Absorption
+
+An 11 g dose in the form of an effervescent tablet for solution reaches a mean C max of 26.5 µg/mL, with a T max of 2 hours, and an AUC of 186 µg*h/mL. 17
+
+## Volume Of Distribution
+
+The volume of distribution of acetylcysteine is 0.47 L/kg. 15
+
+## Metabolism
+
+Acetylcysteine can be deacetylated by aminoacylase 1 or other undefined deacetylases before undergoing the normal metabolism of cysteine. 1 , 5 Hover over products below to view reaction partners Acetylcysteine Cysteine
+
+## Route Of Elimination
+
+An oral dose of radiolabelled acetylcysteine is 13-38% recovered in the urine in the first 24 hours, 15 while 3% is recovered in the feces. 6
+
+## Half Life
+
+The mean terminal half life of acetylcysteine in adults is 5.6 hours 15 and in pre-term neonates is 11 hours. 2
+
+## Clearance
+
+Acetylcysteine has a mean clearance of 0.11 L/hr/kg. 15
+
+## Toxicity
+
+Patients experiencing an overdose may present with vomiting, nausea, bronchospasm, periorbital angioedema, and hypotension. 3 Treat patients with symptomatic and supportive measures. 15 Hemodialysis may remove some acetylcysteine from circulation as it is somewhat protein bound. 15

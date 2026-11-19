@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_108
+DCI: DEXMEDETOMIDINE (chlorhydrate) 100 µg/ml sol diluer p perf (DEXMEDETOMIDINE EVER PHARMA)
+Brand Names: RAZITHIAM B1
+Pharmaceutical Forms: Solution
+Dosages: 100mg/2ml
+Packaging: b/05 et b/50 ampoules
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05C - HYPNOTIQUES ET SEDATIFS | N05CM - AUTRES HYPNOTIQUES ET SEDATIFS | N05CM18 - DEXMEDETOMIDINE
+Registration Numbers: 433/14 H 108/24
+Drug Codes: 14 H 108
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | dexmédétomidine (chlorhydrate) : 100 µg | Modalités d'administration | Voie intraveineuse | A diluer avant administration | Posologie à adapter en fonction de la réponse clinique | Respecter le débit de perfusion recommandé | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Sédation en unité de soins intensifs (USI) | Dose initiale | 0,7 µg/kg 1 fois par heure | Dose ultérieure | Durée du traitement limitée à 14 jours | 0,2 à 1,4 µg/kg 1 fois par heure | Posologie maximale: 1,4 µg/kg par heure | Sédation vigile | Dose de charge | 0,5 à 1 µg/kg 1 fois ce jour | Pendant 10 minutes | Traitement d'entretien | 0,2 à 1 µg/kg 1 fois par heure | Populations particulières | Insuffisance hépatique : Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Anesthésie péridurale | Bradycardie | Bradycardie, antécédent (de) | Dysautonomie | Etat cardiovasculaire instable | Femme susceptible d'être enceinte | Grossesse | Hyperthermie maligne, antécédent (d') | Hypotension artérielle | Hypovolémie | Insuffisance hépatique | Insuffisance ventriculaire sévère | Intervention neurochirurgicale, antécédent récent (d') | Intubation | Ischémie myocardique | Lésion médullaire | Maladie sévère du système nerveux | Pathologie cérébrale sévère | Patient en unité de soins intensifs | Patient non intubé | Patient traité à posologie élevée | Patient traité en ambulatoire | Rachianesthésie | Sédation prolongée | Sujet âgé | Sujet à risque d'hyperthermie maligne | Sujet à risque de crise convulsive | Sujet de moins de 18 ans | Traitement prolongé | Traumatisme crânien
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Dexmédétomidine : Mécanisme d'action | La dexmédétomidine est un agoniste sélectif du récepteur alpha-2 avec des propriétés pharmacologiques étendues. Les effets sympatholytiques sont dus à la diminution de la libération de la | noradrénaline | au niveau des terminaisons nerveuses. Les effets sédatifs sont liés à une diminution de la stimulation du locus c | œ | ruleus, le principal noyau noradrénergique, situé dans le tronc cérébral. | La dexmédétomidine possède des effets antalgiques et anesthésiques/antalgiques. Les effets cardiovasculaires dépendent de la dose ; avec des vitesses de perfusion plus lentes les effets centraux sont dominants entraînant la diminution de la fréquence cardiaque et de la pression artérielle. Avec des doses plus élevées, les effets périphériques vasoconstricteurs prédominent entraînant une augmentation de la résistance vasculaire systémique et de la pression artérielle, alors que l'effet bradycardisant est amplifié. La dexmédétomidine n'a relativement pas d'effet dépresseur respiratoire lorsqu'elle est administrée en monothérapie à des sujets sains.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperglycémie (Fréquent) | - Hypoglycémie (Fréquent) | - Hypoalbuminémie (Peu fréquent) | DIVERS: | - Echec de traitement (Peu fréquent) | - Hyperthermie (Fréquent) | ENDOCRINOLOGIE: | - Diabète insipide | NUTRITION, MÉTABOLISME: | - Acidose métabolique (Peu fréquent) | ORL, STOMATOLOGIE: | - Sécheresse buccale (Fréquent) | PSYCHIATRIE: | - Hallucination (Peu fréquent) | - Agitation (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Bradycardie (Très fréquent) | - Débit cardiaque (diminution) (Peu fréquent) | - Bloc auriculoventriculaire (Peu fréquent) | - Hypertension artérielle (Très fréquent) | - Tachycardie (Fréquent) | - Infarctus du myocarde (Fréquent) | - Ischémie myocardique (Fréquent) | - Arrêt cardiaque (Peu fréquent) | - Hypotension artérielle (Très fréquent) | - Pause sinusale | - Asystolie | SYSTÈME DIGESTIF: | - Distension abdominale (Peu fréquent) | - Nausée (Fréquent) | - Soif (Peu fréquent) | - Vomissement (Fréquent) | SYSTÈME NERVEUX: | - Sédation insuffisante | SYSTÈME RESPIRATOIRE: | - Dépression respiratoire (Très fréquent) | - Dyspnée (Peu fréquent) | - Apnée (Peu fréquent) | TOXICOLOGIE: | - Syndrome de sevrage (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Polyurie

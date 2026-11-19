@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_035
+DCI: MEBEVERINE CHLORHYDRATE 100 mg gél (MEBEVERINE ZENTIVA)
+Brand Names: DESPAVINE | DUSPAVERINE | MEBEVERINE-SAIDAL | SPALVERINE | SPASCOL
+Pharmaceutical Forms: Comprimé | Gélule | Microgranule En Gellule | Microgranules En Gelule
+Dosages: 100mg
+Packaging: b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AA - ANTICHOLINERGIQUES DE SYNTHESE : ESTERS AVEC GROUPEMENT AMINE TERTIAIRE | A03AA04 - MEBEVERINE
+Registration Numbers: 003/10 E 035/09/25 | 065/10 E 035/14 | 235/10 E 035/09/24 | 289/10 E 035/12/23 | 418/10 E 035/18/24
+Drug Codes: 10 E 035
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | mébévérine chlorhydrate : 200 mg | Modalités d'administration | Voie orale | Administrer avant le repas | Administrer avec une quantité suffisante d'eau | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Colique hépatique - Douleur spasmodique des voies digestives | Posologie standard | 1 comprimé 2 à 3 fois par jour
+
+## Precautions
+
+Allaitement | Enfant entre 6 et 15 ans | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Mébévérine : Mécanisme d'action | La mébévérine est un antispasmodique musculotrope.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Très rare) | - Urticaire | - Prurit | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Oedème de Quincke | ORL, STOMATOLOGIE: | - Vertige (Rare) | SYSTÈME DIGESTIF: | - Nausée (Rare) | SYSTÈME NERVEUX: | - Céphalée (Rare)

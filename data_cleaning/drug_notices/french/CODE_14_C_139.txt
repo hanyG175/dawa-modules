@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_C_139
+DCI: GLUCAGON (chlorhydrate) 1 mg/ml pdre/solv p sol inj (GLUCAGEN KIT)
+Brand Names: GLUCAGEN HYPOKIT
+Pharmaceutical Forms: Poudre Et Solvant Pr Sol Inj
+Dosages: 1mg/ml
+Packaging: b/1fl. de pdr + 1 sering. de 1ml de solv.
+Laboratories: NOVO NORDISK
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H04 - HORMONES PANCREATIQUES | H04A - HORMONES GLYCOGENOLYTIQUES | H04AA - HORMONES GLYCOGENOLYTIQUES | H04AA01 - GLUCAGON
+Registration Numbers: 069/14 C 139/98/17
+Drug Codes: 14 C 139
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Indication thérapeutique : | GlucaGen est indiqué dans le traitement des hypoglycémies sévères qui peuvent survenir chez les enfants et les adultes diabétiques insulinotraités. | Indication diagnostique : | GlucaGen est indiqué dans l'inhibition de la motilité dans les explorations du tractus gastro-intestinal chez les adultes.
+
+## Posology
+
+Posologie | Unité de prise | ml | glucagon (chlorhydrate) : 1 mg | Modalités d'administration | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | A reconstituer avant administration | Posologie | Patient de 30 mois à 18 an(s) | Poids = 25 kg | Hypoglycémie induite par l'insuline | Posologie standard | Voie intramusculaire, voie sous-cutanée | Assurer si besoin une supplémentation en glucose pendant le traitement | 1 mg 1 fois ce jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypoglycémie induite par l'insuline | Posologie standard | Voie intramusculaire, voie sous-cutanée | Assurer si besoin une supplémentation en glucose pendant le traitement | 1 mg 1 fois ce jour | Prémédication motrice aux explorations du tube digestif | Posologie standard | Voie intramusculaire | 1 à 2 mg 1 fois ce jour | Voie intraveineuse | 0,2 à 0,75 mg 1 fois ce jour
+
+## Precautions
+
+Hypoglycémie | Insulinome | Jeûne | Sujet de moins de 18 ans | Utilisation diagnostique
+
+## Mechanism Of Action
+
+Glucagon : Mécanisme d'action | Le glucagon est une substance hyperglycémiante qui mobilise le glycogène hépatique, celui-ci étant alors libéré dans le sang sous forme de | glucose | . De ce fait, le glucagon ne sera pas efficace chez les patients dont les réserves hépatiques en glycogène sont épuisées. C'est pourquoi le glucagon a peu ou pas d'effet en cas de jeûne prolongé, d'insuffisance adrénergique, d'hypoglycémie chronique ou d'hypoglycémie induite par l'alcool. | Contrairement à l' | adrénaline | , le glucagon n'a pas d'action sur la phosphorylase musculaire et, par conséquent, ne peut pas mobiliser les réserves de glycogène des muscles striés, beaucoup plus importantes que les réserves hépatiques. | Il stimule la libération de catécholamines. En cas de phéochromocytome, le glucagon peut provoquer une libération massive par la tumeur de catécholamines, avec survenue d'une crise hypertensive aiguë. | Le glucagon inhibe la tonicité et la motilité des muscles lisses du tractus gastro-intestinal.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Réaction anaphylactique (Très rare) | - Choc anaphylactique (Très rare) | INSTRUMENTATION: | - Réaction au point d'injection | SYSTÈME CARDIOVASCULAIRE: | - Tachycardie (Très rare) | - Hypertension artérielle (Très rare) | - Hypotension artérielle (Très rare) | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Peu fréquent) | - Douleur abdominale (Rare) | SYSTÈME NERVEUX: | - Coma hypoglycémique (Très rare)

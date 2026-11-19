@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_G_168
+DCI: DEXAMETHASONE 0,1 % + TOBRAMYCINE 0,3 % collyre susp (TODEXAL) | DEXAMETHASONE 1 mg/ml + NETILMICINE (sulfate) 3 mg/ml collyre sol (NETAXEN)
+Brand Names: CORONOL PLUS | DEXAFLOX | OFLODEXA
+Pharmaceutical Forms: Collyree En Solution | Collyree En Suspension
+Dosages: 1mg/3mg | 3mg/1mg/1ml
+Packaging: flacon/10ml contenant 5ml de solution muni d'une aero-pompe 3 | flacon/5ml
+Laboratories: HORUS PHARMA
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01G - AMINOSIDES ANTIBACTERIENS | J01GB - AUTRES AMINOSIDES | J01GB01 - TOBRAMYCINE | S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01A - ANTI-INFECTIEUX | S01AA - ANTIBIOTIQUES | S01AA23 - NETILMICINE
+Registration Numbers: 065/17 G 168/25 | 386/17 G 168/12 | 543/17 G 168/20/25
+Drug Codes: 17 G 168
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Aug 19 00:00:00 CEST 2024 | is_edited: False | title: INDICATIONS | text: Traitement local anti-inflammatoire et anti-bactérien de l'œil chez les adultes et les enfants de plus de 2 ans : | dans les suites de la chirurgie ophtalmologique, | des infections dues à des germes sensibles à la tobramycine avec composante inflammatoire. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens. | lists: dans les suites de la chirurgie ophtalmologique, | des infections dues à des germes sensibles à la tobramycine avec composante inflammatoire.
+
+## Posology
+
+Posologie | Unité de prise | ml | tobramycine : 60 mg | Modalités d'administration | Voie inhalée | Administrer une dose le matin et une dose le soir | En cas d'oubli : ne pas prendre la dose oubliée si prise suivante est dans < 6 h | Respecter un intervalle de 12 heures entre chaque administration | Respecter un intervalle de 28 jours entre 2 cures | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient à partir de 6 an(s) | Patient quel que soit le poids | Infection pulmonaire chronique à Pseudomonas aeruginosa chez le patient atteint de mucoviscidose | Posologie standard | 300 mg 2 fois par jour | Pendant 28 jours
+
+## Precautions
+
+Allaitement | Enfant de moins de 6 ans | Grossesse | Hémoptysie | Hémoptysie sévère, antécédent récent (d') | Infection à Burkholderia cepacia | Insuffisance hépatique | Insuffisance rénale | Maladie de Parkinson | Myasthénie | Néphropathie | Pathologie cochléo-vestibulaire | Patient soumis à une surveillance de la concentration plasmatique de tobramycine | Patient transplanté | Sujet âgé | Trouble auditif | Trouble neuromusculaire | VEMS 75%
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Tobramycine : Mécanisme d'action | La tobramycine est un antibiotique de la famille des aminosides produit à partir du | Streptomyces tenebrarius | . Son activité bactéricide est basée principalement sur l’inhibition de la synthèse des protéines, altérant ainsi la perméabilité de la membrane cellulaire, entraînant la rupture progressive de l'enveloppe cellulaire puis éventuellement la mort de la cellule. La tobramycine se lie avec la sous-unité 30S des ribosomes bactériens et bloque la première étape de la synthèse protéique, à savoir l'initiation. Elle possède une action bactéricide à des concentrations égales ou légèrement supérieures aux concentrations inhibitrices. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S 8 mg/l. | Espèces sensibles : | aérobies à Gram + : | corynebacterium | , | Listeria monocytogenes | , | Staphylococcus aureus | méticilline-sensible, staphylocoque coagulase-négative méticilline-sensible ; | aérobies à Gram - : | acinetobacter | , | Acinetobacter baumannii | , | Branhamella catarrhalis | , campylobacter, | Citrobacter freundii | , | Citrobacter koseri | , | Enterobacter aerogenes | , | Enterobacter cloacae | , | Escherichia coli | , | Haemophilus influenzae | , | klebsiella | , | Morganella morganii | , | Proteus mirabilis | , | Proteus vulgaris | , | Pseudomonas aeruginosa | , | salmonella | , | serratia | , | shigella | , | yersinia | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram - : pasteurella. | Espèces résistantes : | aérobies à Gram + : entérocoques, | Nocardia asteroides | , | staphylococcus | méti-R, | streptococcus | ; | aérobies à Gram - : | Alcaligenes denitrificans | , | Burkholderia cepacia | , | flavobacterium | sp, | Providencia stuartii | , | Stenotrophomonas maltophilia | ; | anaérobies : bactéries anaérobies strictes ; | autres : | chlamydia | , mycoplasmes, rickettsies. | Ce spectre correspond à celui des formes systémiques de la tobramycine. Avec les présentations pharmaceutiques locales, les concentrations obtenues | in situ | sont très supérieures aux concentrations plasmatiques. Quelques incertitudes demeurent sur la cinétique des concentrations | in situ | , sur les conditions physicochimiques locales qui peuvent modifier l'activité de l'antibiotique et sur la stabilité du produit | in situ | .
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Très rare) | - Prurit (Très rare) | - Eruption cutanée | DIVERS: | - Douleur thoracique (Rare) | - Asthénie (Rare) | - Réaction au site d'administration | - Fièvre | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Poids (diminution) (Très fréquent) | - Anorexie (Rare) | ORL, STOMATOLOGIE: | - Pharyngite (Peu fréquent) | - Hypoacousie (Rare) | - Laryngite (Rare) | - Rhinite (Rare) | - Aphonie | - Dysgueusie | - Acouphène | - Douleur oropharyngée | - Dysphonie | SYSTÈME CARDIOVASCULAIRE: | - Malaise | SYSTÈME DIGESTIF: | - Douleur abdominale (Très rare) | - Vomissement | - Nausée | - Trouble digestif | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire | SYSTÈME NERVEUX: | - Céphalée (Rare) | SYSTÈME RESPIRATOIRE: | - Exploration fonctionnelle respiratoire anormale (Très fréquent) | - Trouble pulmonaire (Rare) | - Asthme (Rare) | - Toux | - Expectoration (décoloration) | - Trouble respiratoire | - Hémoptysie | - Dyspnée | - Toux productive | - Bronchospasme

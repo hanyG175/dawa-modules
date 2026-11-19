@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_007
+DCI: Dexchlorpheniramine Maleate
+DrugBank ID: DB09555
+DrugBank Name: Dexchlorpheniramine maleate
+Brand Names: DEXCHLORPHENIRAMINE AFRO | DORAMINE | FENIRAMINE | GENARITYNE | HISTAGAN
+Pharmaceutical Forms: Solution
+Dosages: 0.5mg/5ml
+Packaging: flacon/125ml
+Registration Numbers: 003/01 A 007/97/25 | 035/01 A 007/17 | 065/01 A 007/17 | 088/01 A 007/02/24 | 503/01 A 007/16
+Drug Codes: 01 A 007
+
+------------------------------------------------------------
+
+## Description
+
+Dexchlorpheniramine is the S-enantiomer of chlorpheniramine which is a 1st generation anti-histamine. Dexchlorpheniramine has more pharmacological activity than the R and so is more potent than the racemic mixture.
+
+## Pharmacodynamics
+
+In allergic reactions, an allergen binds to IgE antibodies on mast cells and basophils. Once this occurs IgE receptors crosslink with each other triggering a series of events that eventually leads to cell-degranulation and the release of histamine (and other chemical mediators) from the mast cell or basophil. Histamine can react with local or widespread tissues through histamine receptors. Histamine, acting on H1-receptors, produces pruritis, vasodilatation, hypotension, flushing, headache, tachycardia, and bronchoconstriction. Histamine also increases vascular permeability and potentiates pain. Dexchlorpheniramine, is a histamine H1 antagonist of the alkylamine class. It competes with histamine for the normal H1-receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Oral bioavailability in rats 40.5%
+
+## Metabolism
+
+Hepatic metabolism. Major metabolism by CYP 2D6 and minor metabolism by 3A4, 2C11 and 2B1.
+
+## Route Of Elimination
+
+Renal excretion
+
+## Toxicity
+
+Central nervous system depression

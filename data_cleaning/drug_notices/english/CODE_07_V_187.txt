@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_V_187
+DCI: aprémilast
+DrugBank ID: DB05676
+DrugBank Name: Apremilast
+Brand Names: PSORIASIX
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/12
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AA - IMMUNOSUPPRESSEURS SELECTIFS | L04AA32 - APREMILAST
+Registration Numbers: 447/07 V 187/21
+Drug Codes: 07 V 187
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Apremilast reduces but does not completely inhibit various inflammatory cytokines such as IL-1α, IL-6, IL-8, IL-10 MCP-1, MIP-1β, MMP-3, and TNF-α, relieving the symptoms of psoriasis and Behcet's disease, which are caused by an increase in these inflammatory mediators. 6 , 13 This drug has also been proven to be effective in relieving the pain associated with oral ulcers in Behcet's disease. 11 Apremilast may cause unwanted weight loss and worsen depression, leading to suicidal thoughts or actions. It is advisable to monitor for symptoms of depression and seek medical attention if they occur, especially in patients with pre-existing depression. The need for apremilast should be carefully assessed along with the risk of worsening depression and suicide. If weight loss occurs, the degree of weight loss should be evaluated, and consideration should be made for the possible discontinuation of apremilast. 14
+
+## Mechanism Of Action
+
+Phosphodiesterase isozyme 4 Inhibitor
+
+## Absorption
+
+An oral dose of apremilast is well-absorbed and the absolute bioavailability is approximately 73%. Tmax is approximately 2.5 hours 14 and Cmax has been reported to be approximately 584 ng/mL in one pharmacokinetic study. 8 Food intake does not appear to affect apremilast absorption. 14
+
+## Volume Of Distribution
+
+The average apparent volume of distribution (Vd) is about 87 L, suggesting that apremilast is distributed in the extravascular compartment. 13
+
+## Metabolism
+
+Apremilast is heavily metabolized by various pathways, which include oxidation, hydrolysis, in addition to conjugation. About 23 metabolites are produced from its metabolism. 3 The CYP3A4 primarily mediates the oxidative metabolism of this drug, with smaller contributions from CYP1A2 and CYP2A6 enzymes. 13 The main metabolite of apremilast, M12, is an inactive glucuronide conjugate form of the O-demethylated drug. 13 Some other major metabolites, M14 and M16, are significantly less active in the inhibition of PDE4 and inflammatory mediators than their parent drug, apremilast. After an oral dose, unchanged apremilast (45%) and the inactive metabolite, O-desmethyl apremilast glucuronide (39%) are found in the plasma. 10 Minor metabolites M7 and M17 are active, but are only present in about 2% or less of apremilast concentrations, and likely not significant contributors to the actions of apremilast. 10 Hover over products below to view reaction partners Apremilast O-desmethyl Apremilast O-desmethyl apremilast glucuronide
+
+## Route Of Elimination
+
+Only 3% and 7% of an apremilast dose are detected in the urine and feces as unchanged drug, respectively, indicating extensive metabolism and high absorption. 13
+
+## Half Life
+
+The average elimination half-life of this drug ranges from 6-9 hours. 7 , 14
+
+## Clearance
+
+In healthy patients, the plasma clearance of apremilast is about 10 L/hour. 13
+
+## Toxicity
+
+The oral LD50 in mice was greater than 2000 mg/kg in mice. In rats, oral LD50 was 2000 mg/kg males and 300 mg/kg in females. 16 Overdose information In healthy subjects receiving a maximum dose of 100 mg (given as 50 mg twice daily) for about 5 days, no significant toxicity was observed. In cases of an overdose, supportive and symptomatic treatment should be administered. Contact the local poison control center for the most recent overdose management for apremilast. 15

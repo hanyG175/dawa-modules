@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_G_014
+DCI: Satralizumab
+DrugBank ID: DB15762
+DrugBank Name: Satralizumab
+Brand Names: ENSPRYNG
+Pharmaceutical Forms: Solution
+Dosages: 120mg/ml
+Packaging: b/01 seringue pre-remplie de 1ml
+Registration Numbers: 128/27 G 014/25
+Drug Codes: 27 G 014
+
+------------------------------------------------------------
+
+## Description
+
+Satralizumab is a recombinant humanized monoclonal antibody targeted against human interleukin-6 (IL-6) receptors, similar to tocilizumab , which is produced in Chinese hamster ovary cells and based on an IgG2 framework. 4 Satralizumab is used in the treatment of neuromyelitis optica spectrum disorder (NMOSD), a rare autoimmune inflammatory disorder of the central nervous system (CNS) involving demyelinating lesions in the optic nerve, spinal cord, brainstem, and cerebrum. 3 Some of the pro-inflammatory mechanisms involved in NMOSD are thought to be mediated, at least in part, by IL-6, including increased production of anti-aquaporin-4 (AQP4) autoantibodies and increased permeability of the blood-brain barrier, which allows for the passage of pro-inflammatory mediators into the CNS. 2 , 3 Satralizumab is thought to exert its therapeutic benefits by blocking IL-6 receptors and, subsequently, these inflammatory responses. Enspryng®, a satralizumab formulation developed by Chugai Pharmaceutical and Roche, 4 is uniquely formulated with "recycling antibody technology" whereby the association of satralizumab to IL-6 receptors occurs in a pH-dependent manner 3 - this allows satralizumab to bind an IL-6 receptor until it reaches an endosome, after which the drug may dissociate from the receptor and move back into the plasma to act again. This novel mechanism effectively increases the duration of action of satralizumab, as it allows for single drug molecules to interact with multiple endogenous IL-6 receptors prior to elimination. Satralizumab was first approved for use in Canada in June 2020 for the treatment of AQP4 antibody-positive patients with NMOSD. 3 It received subsequent approvals in Switzerland and Japan, 3 and was approved for use by the FDA in August 2020, 7 becoming the 3rd treatment to receive FDA approval for NMOSD (after eculizumab in June 2019 and inebilizumab in June 2020).
+
+## Pharmacodynamics
+
+Enspryng®, a satralizumab formulation developed by Chugai Pharmaceutical and Roche, 4 utilizes a novel "recycling antibody technology" whereby the association of satralizumab to IL-6 receptors occurs in a pH-dependent manner. 3 Satralizumab-bound IL-6 receptors are taken up into cells and transported into endosomes, a relatively acidic environment in comparison to plasma (pH 5.5-6.0 vs. pH 7.4) - this decrease in pH allows satralizumab to dissociate from the IL-6 receptor and be recycled back into the plasma, where it can bind to another IL-6 receptor and repeat the process. 3 Satralizumab has been associated with an increased risk of infection, including serious and potentially fatal infections. It should not be administered to patients with active infections, including localized infections, until the infection resolves, and is contraindicated for use in patients with active hepatitis B or tuberculosis. 4
+
+## Mechanism Of Action
+
+Interleukin-6 receptor subunit alpha Binder Antibody
+
+## Absorption
+
+The C max and AUC at steady-state, achieved after an 8-week loading period, were approximately 31.5 mcg/mL and 737 mcg.mL/day, respectively. 4 Average C trough concentrations were approximately 19 mcg/mL. 5 The bioavailability of satralizumab following subcutaneous injection has been reported to be between 78.5% and 85%. 4 , 5
+
+## Volume Of Distribution
+
+Satralizumab is subject to biphasic distribution - the estimated volume of distribution for the central and peripheral compartments are 3.46 L and 2.07 L, respectively. 5
+
+## Metabolism
+
+While the metabolism of satralizumab has not been studied directly, 4 monoclonal antibodies as a class are principally cleared by catabolism. 4 , 1
+
+## Route Of Elimination
+
+Monoclonal antibodies are typically eliminated via uptake into cells and subsequent catabolism via lysosomal degradation. Due to their large size, they are only eliminated renally under pathologic conditions. 1
+
+## Half Life
+
+The terminal half-life of satralizumab is approximately 30 days (range 22-37 days). 4
+
+## Clearance
+
+The total clearance of satralizumab is concentration-dependent and is estimated to be 0.0601-0.0679 L/day. 4 , 5 The inter-compartmental clearance was 0.336 L/day. 4
+
+## Toxicity
+
+There is no data regarding overdose of satralizumab. No serious adverse effects were noted in healthy adults receiving a single dose of 240mg subcutaneously in clinical trials. 5 Patients experiencing a suspected overdose should be treated with symptomatic and supportive measures as clinically indicated.

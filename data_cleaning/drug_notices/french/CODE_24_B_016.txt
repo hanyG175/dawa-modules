@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_24_B_016
+DCI: NALOXONE CHLORHYDRATE 0,4 mg/ml sol inj (NALOXONE VIATRIS)
+Brand Names: NALOXONE MYLAN
+Pharmaceutical Forms: Solution
+Dosages: 0.4mg/ml
+Packaging: b/10amp. de 1ml
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AB - ANTIDOTES | V03AB15 - NALOXONE
+Registration Numbers: 450/24 B 016/06
+Drug Codes: 24 B 016
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | naloxone chlorhydrate : 0.4 mg | Modalités d'administration | Voie intramusculaire, voie intraveineuse, voie intraveineuse (en perfusion), voie sous-cutanée | Posologie | Patient jusqu'à 1 mois | Patient quel que soit le poids | Dépression respiratoire due aux morphinomimétiques | Posologie standard | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | A diluer avant administration | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Respecter un intervalle de 2 à 3 minutes entre 2 injections | 0,01 mg/kg 1 à 3 fois ce jour | Patient de 1 mois à 30 mois | Patient quel que soit le poids | Dépression respiratoire due aux morphinomimétiques | Posologie standard | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Respecter un intervalle de 2 à 3 minutes entre 2 injections | 0,01 à 0,02 mg/kg 1 à 3 fois ce jour | Patient de 30 mois à 15 an(s) | Patient quel que soit le poids | Dépression respiratoire due aux morphinomimétiques | Posologie standard | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Respecter un intervalle de 2 à 3 minutes entre 2 injections | 0,01 à 0,02 mg/kg 1 à 3 fois ce jour | Intoxication par les morphinomimétiques | Traitement initial | Voie intraveineuse, voie intraveineuse (en perfusion) | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | 0,01 mg/kg 1 fois ce jour | Traitement ultérieur éventuel | Voie intraveineuse, voie intraveineuse (en perfusion) | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Respecter un intervalle de 2 à 3 minutes entre 2 injections | Traitement à renouveler si besoin | 0,1 mg/kg 1 fois ce jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Dépression respiratoire due aux morphinomimétiques | Posologie standard | Voie intramusculaire, voie intraveineuse, voie intraveineuse (en perfusion), voie sous-cutanée | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Respecter un intervalle de 2 à 3 minutes entre 2 injections | 0,1 à 0,2 mg 1 à 3 fois ce jour | Intoxication par les morphinomimétiques | Posologie standard | Voie intramusculaire, voie intraveineuse, voie sous-cutanée | Administrer par voie intramusculaire exceptionnellement | Administrer par voie sous-cutanée exceptionnellement | Posologie à augmenter par palier de 0,1 mg jusqu'à l'obtention d'une ventilation respiratoire | Respecter un intervalle de 2 à 3 minutes entre 2 injections | Traitement à renouveler si besoin | 0,4 à 2 mg 1 fois ce jour | Posologie maximale: 10 mg ce jour | Coma toxique, diagnostic différentiel (d'un) | Posologie standard | Voie intraveineuse | Respecter un intervalle de 5 minutes entre 2 injections | 0,4 mg en 3 prises ce jour | Posologie maximale: 10 mg ce jour | Confirmation de la non-dépendance aux opiacés chez le toxicomane sevré | Dose initiale | Voie intraveineuse | Débuter le traitement uniquement après une période de 7 à 10 jours de sevrage | Poursuivre le schéma posologique en cas d'absence de syndrome de sevrage | 0,2 mg en 1 prise ce jour | Dose ultérieure | Voie intraveineuse | Respecter un intervalle de 2 à 3 minutes avec la prise précédente | 0,6 mg en 1 prise ce jour | Dose ultérieure éventuelle | Voie intraveineuse | Respecter un intervalle de 30 minutes avec la prise précédente | 1,6 mg en 1 prise ce jour
+
+## Precautions
+
+Grossesse | Intervention chirurgicale, antécédent récent (d') | Maladie cardiovasculaire sévère | Nouveau-né exposé in utero au médicament | Toxicomanie aux morphiniques
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Naloxone : Mécanisme d'action | La naloxone est un antagoniste pur et spécifique des morphinomimétiques sans effet agoniste. Lorsqu'elle est injectée à des sujets ayant reçu des morphinomimétiques, la naloxone antagonise leurs effets (dépression respiratoire, myosis, analgésie). Son action dépend de la dose, de la puissance du morphinomimétique à antagoniser et de l'intervalle séparant les injections des deux produits. | Administrée seule, elle est dépourvue de propriétés pharmacologiques propres.
+
+## Adverse Effects
+
+DIVERS: | - Frisson | PSYCHIATRIE: | - Anxiété | - Agitation | SYSTÈME CARDIOVASCULAIRE: | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Vomissement | SYSTÈME RESPIRATOIRE: | - Hyperventilation | - Oedème pulmonaire

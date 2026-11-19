@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_111
+DCI: Interferon Beta 1-A
+DrugBank ID: DB00060
+DrugBank Name: Interferon beta-1a
+Brand Names: REBIF
+Pharmaceutical Forms: Sol Inj S/C En Cartouches
+Dosages: 22 mcg/0.5 ml
+Packaging: coffret de 04 cartouches pre remplies de 1.5 ml
+Registration Numbers: 062/15 G 111/17
+Drug Codes: 15 G 111
+
+------------------------------------------------------------
+
+## Description
+
+Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+
+## Pharmacodynamics
+
+Interferon beta upregulates the expression of MHC I proteins, allowing for increased presentation of peptides derived from viral antigens. This enhances the activation of CD8+ T cells that are the precursors for cytotoxic T lymphocytes (CTLs) and makes the macrophage a better target for CTL-mediated killing. Type I interferons also induce the synthesis of several key antiviral mediators including 2'-5' oligoadenylate synthetase (2'-5' A synthetase), beta-2 microglobulin and neopterin.
+
+## Mechanism Of Action
+
+Interferon alpha/beta receptor 1 Agonist Interferon alpha/beta receptor 2 Agonist
+
+## Clearance
+
+33-55 L/hour [Healthy SC injection of 60 mcg]

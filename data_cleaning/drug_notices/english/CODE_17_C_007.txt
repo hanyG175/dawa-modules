@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_007
+DCI: Carteolol
+DrugBank ID: DB00521
+DrugBank Name: Carteolol
+Brand Names: CARTEOL
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.01
+Packaging: flacon/3ml
+Laboratories: LABORATOIRE CHAUVIN | 416, RUE SAMUEL MORSE - CS 99535 | 34961 MONTPELLIER
+ATC Classification: S01ED05
+Registration Numbers: 096/17 C 007/98
+Drug Codes: 17 C 007
+
+------------------------------------------------------------
+
+## Description
+
+A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent.
+
+## Pharmacodynamics
+
+Carteolol is a beta1 and beta2 (non-selective) adrenergic receptor-blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity. Carteolol, when applied topically to the eye, has the action of reducing elevated, as well as normal, intraocular pressure, whether or not accompanied by glaucoma. Elevated intraocular pressure is a major risk factor in the pathogenesis of glaucomatous visual field loss and optic nerve damage. Carteolol reduces intraocular pressure with little or no effect on pupil size or accommodation in contrast to the miosis which cholinergic agents are known to produce.
+
+## Mechanism Of Action
+
+Beta-2 adrenergic receptor Antagonist Beta-1 adrenergic receptor Antagonist Partial agonist
+
+## Metabolism
+
+Hepatic. Hover over products below to view reaction partners Carteolol 8-Hydroxycarteolol
+
+## Toxicity
+
+The most common effects expected with overdosage of a beta-adrenergic blocking agent are bradycardia, bronchospasm, congestive heart failure and hypotension.

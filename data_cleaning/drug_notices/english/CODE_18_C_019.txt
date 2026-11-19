@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_C_019
+DCI: Extrait De Ginko Biloba Titre A 24% D'Heterosides De Ginkgo Biloba Et 6% De Ginkolides-Bilobalide | Gingko (Ginkgo Biloba L) | ginkgo biloba extrait sec de feuille
+DrugBank ID: DB01381
+DrugBank Name: Ginkgo biloba
+Brand Names: GINKOBA | ISOTANAK | TANAKAN
+Pharmaceutical Forms: Solution
+Dosages: 40 mg/ml | 40mg/ml
+Packaging: boite d'un flacon de 50 ml avec seringue graduee | flacon/15ml | flacon/30ml+pipette graduee
+Laboratories: MAYOLY PHARMA FRANCE | 3 PLACE RENAULT | 92500 RUEIL-MALMAISON
+ATC Classification: N06DX02
+Registration Numbers: 020/18 C 019/97/18 | 073/18 C 019/24 | 079/18 C 019/99
+Drug Codes: 18 C 019
+
+------------------------------------------------------------
+
+## Description
+
+Ginkgo biloba extract contains a group of terpene lactones (notably, ginkgolides and diterpenes) and ginkgo flavone glycosides (notably, ginkgetin, bilobetin, and sciadopitysin) that have antioxidant and vasoactive properties. 3 Most of the studies that investigate the effect of ginkgo biloba use the standardized extract of Ginkgo biloba (EGb) 761 (EGb761), which was developed by a German pharmaceutical company in 1964. 6 EGb761 contains 6% terpene lactones and 24% flavonoid glycosides. 2 Flavonoids include quercetin, rutin, kaempferol, and isorhamnetin. Lactones include ginkgolide A, ginkgolide B, ginkgolide C, bilobalide, and ginkgotoxin, a lactone that is structurally related to pyridoxine . 10 Ginkgo biloba is an herbal plant that is now cultivated worldwide. It is originally native to China, and ginkgo biloba extract has been used in traditional Chinese medicine for centuries. 3 After its nootropic properties were discovered, ginkgo biloba has gained attention as a therapeutic ingredient for memory and concentration enhancement in cognitive impairment and neurogenerative diseases, such as dementia. 7 Ginkgo biloba was investigated in preliminary studies for a variety of therapeutic purposes such as improving cardiovascular health, sexual dysfunction, psychiatric disorders, skin disorders, and glaucoma. Ginkgo biloba is found in a number of homeopathic and over-the-counter herbal products and dietary supplements, but it has no approved therapeutic indications by regulatory bodies, such as the FDA, EMA, and Health Canada. 2 Ginkgo folium , the leaf extract of Ginkgo biloba , is considered an anti-dementia drug by the World Health Organization. 3
+
+## Pharmacodynamics
+
+Ginkgo biloba is a herbal ingredient with demonstrated antioxidant, vasoactive, antiapoptotic, anti-inflammatory, antiplatelet, and fibrinolytic properties. 3 , 5 Ginkgo biloba has been investigated for use in a variety of medical conditions, but the most extensively studied area is in the context of cognitive impairment and neurodegenerative disorders. Ginkgo biloba was examined as a potential nootropic agent or cognitive enhancer but research findings supporting the therapeutic efficacy of ginkgo biloba extract (EGb) in dementia remain controversial. Some clinical studies of dementia that were up to one year long showed that EGb improves the cognitive performance and social functioning of patients. However, other studies did not support its clinical benefit for patients with cognitive impairment and dementia. Numerous meta-analysis studies showed insufficient evidence of the effectiveness of EGb in reducing both all-cause dementia incidence and Alzheimer's disease-associated dementia incidence in elderly patients with normal cognition or with mild cognitive impairment. Additionally, there is no up-to-date evidence that demonstrates the benefit of the long-term use of standardized EGb in reducing the risk of progression to Alzheimer's disease. A 2012 meta-analysis did not support the use of EGb in enhancing cognitive function in healthy adults. 2 In the context of cardiovascular diseases, a limited number of studies showed that EGb improved mortality or neurological recovery in the post-stroke period, reduced cognitive and neurological impairment after acute ischemic stroke, and improved blood flow in the coronary artery in patients with coronary artery disease. However, a systemic review found no statistical or clinically significant benefit of EGb for patients with peripheral arterial disease or hypertension. Overall, there is a lack of strong evidence in the use of EGb for the treatment or prevention of cardiovascular diseases. 2 In a small trial, the use of EGb as an adjunctive treatment with citalopram improved depressive symptoms and cognitive function in patients with depression. 2 Ginkgo biloba was also investigated as a potential treatment for antidepressant-induced sexual dysfunction. 1 Another study showed EGb improving the symptoms of tardive dyskinesia. There is insufficient evidence to prove the effectiveness of EGb in these psychiatric disorders. Limited studies have investigated the role of ginkgo biloba in the treatment of vertigo, tinnitus, vitiligo, macular degeneration, and glaucoma, as well as the prevention of acute mountain sickness. As results are either preliminary or controversial, more quality research is warranted. 2
+
+## Mechanism Of Action
+
+Two key active ingredients in ginkgo biloba are terpene lactones (notably ginkgolides and diterpenes) and ginkgo flavone glycosides (notably ginkgetin, bilobetin, and sciadopitysin), which are present at varying concentrations. Ginkgo biloba extract EGb 761 is the standardized extract of ginkgo biloba used in studies, which contains 6% terpenoids and 24% flavonoid glycosides. Animal studies have shown that ginkgo biloba works on several neurotransmitter pathways and brain structures. Flavones were shown to inhibit lipid peroxidation; inhibit the uptake of serotonin, dopamine, and norepinephrine; and inhibit platelet aggregation. 6 Terpene lactones may also act as potent antagonists of the platelet-activating factor and may possess anti-ischemic and fibrinolytic effects. 2 They were also shown to downregulate adrenal peripheral benzodiazepine receptors and increase adrenocorticotropic hormone levels. 6 Ginkgo biloba also reversibly inhibits monoamine oxidase A; and modestly inhibits anticholinesterase activity, 2 , 3 leading to enhanced cholinergic transmission in the brain. 4 Several studies suggest that ginkgo biloba exerts neuroprotective effects by reducing free radical production in the prefrontal cortex, which may explain its improvement on short-term memory. Ginkgo biloba extract acts as a free radical scavenger, protecting neurons from oxidative damage and apoptosis related to aging, cerebral ischemia, and neurodegenerative disorders. 2 Ginkgo biloba also inhibits amyloid-β neurotoxicity and protects against hypoxic challenges and increased oxidative stress. 3 One study showed that bilobalide, a terpene lactone, delays the onset of hypoxic glycolysis. 6 Ginkgo biloba has the potential to regulate metabolism, stabilize the membrane, and promote vasodilation. In the arterial endothelium, EGb stimulated the release of endogenous relaxing factors, such as endothelium-derived relaxing factor and prostacyclin. In the inflammatory environment that causes tissue damage, EGb promoted nitric oxide production, leading to enhanced peripheral and cerebral blood flow. 2 Target Actions Organism U Sodium-dependent noradrenaline transporter inhibitor Humans U Phospholipase A2, membrane associated inhibitor Humans U Glycine receptor subunit alpha-1 antagonist Humans U Gamma-aminobutyric acid receptor subunit alpha-1 negative modulator Humans U Gamma-aminobutyric acid receptor subunit beta-2 negative modulator Humans U Gamma-aminobutyric acid receptor subunit gamma-2 negative modulator Humans U Amine oxidase [flavin-containing] A inhibitor Humans U Nitric oxide synthase, inducible inhibitor Humans
+
+## Absorption
+
+Studies assessed the pharmacokinetic parameters of terpene lactones, the main component of ginkgo biloba . Following oral administration of ginkgo biloba solution, the mean absolute bioavailability was 80% for ginkgolide A, 88% for ginkgolide B and 79% for biloalide. 11 In an early rat study, about 60% of radiolabeled EGb 761 was absorbed with a T max of 1.5 hours. The highest amount of radioactivity was measured in the stomach and small intestine. 8 In another study, after a single oral dose of 120 mg EGb 761 in healthy volunteers, C max was 22.22 ± 4.57 ng/mL for ginkgolide A, 8.27 ± 1.82 ng/mL for ginkgolide B, and 54.42 ± 13.62 ng/mL for biloalide. AUC 0-∞ was 121.35 ± 22.92 ng × h/mL for ginkgolide A, 59.88 ± 11.39 ng × h/mL for ginkgolide B, and 217.24 ± 44.07 ng × h/mL for biloalide. T max ranged from 1.17 to 1.54 hours for those three compounds. 11
+
+## Volume Of Distribution
+
+No data available.
+
+## Metabolism
+
+In earlier studies, detectable urinary metabolites in healthy volunteers who ingested EGb were various benzoic acids, such as 4-hydroxybenzoic acid conjugate, 4-hydroxyhippuric acid, 3-methoxy-4-hydroxyhippuric acid, 3,4-dihydroxybenzoic acid, 4-hydroxybenzoic acid, hippuric acid, and 3-methoxy-4-hydroxybenzoic acid (vanillic acid). 10 Hover over products below to view reaction partners Ginkgo biloba 3,4-Dihydroxybenzoic Acid + 3-Methoxy-4-hydroxyhippuric acid + 4-Hydroxyhippuric acid + 4-hydroxybenzoic acid + Hippuric acid + Vanillic acid
+
+## Route Of Elimination
+
+At 72 hours following oral administration in rats, about 38% of the ginkgo biloba extract was excreted via expiration, 22% was excreted in urine, and 29% was excreted in feces. About 70% of ginkgolides A, 50% of ginkgolides B, and 30% of bilobalide were excreted unchanged in the urine. 8
+
+## Half Life
+
+Unpublished human data reports that after oral administration of 80 mg EGb 761, the half-life was four hours for ginkgolides A and six hours for ginkgolides B. The half-life of bilobalide was three hours after administration of 120 mg EGb 761 extract. 8
+
+## Clearance
+
+No data available.
+
+## Toxicity
+
+Oral LD 50 of standardized extract in mice is 7730 mg/kg, which corresponds to 2300 mg/kg of active ingredients, 1900 mg/kg of flavone glycosides, and 464 mg/kg of terpene lactones. Intravenous LD 50 is 1100 mg/kg. 8 No case of overdose has been reported so far. 11 Cyanogenic glycosides found in raw ginkgo seeds are potentially toxic compounds; thus, contact or ingestion of ginkgo seeds can lead to serious reactions such as allergic skin reaction, including acute generalized exanthematous pustulosis, and convulsions. Ginkgo toxicity can manifest as bleeding, seizure, and serotonin syndrome. As there is no known antidote for ginkgo toxicity, treatment includes discontinuation of ginkgo and symptomatic and supportive care. 2 Seizures may be attributed to ginkgotoxin, which can cause seizures at high doses. 12

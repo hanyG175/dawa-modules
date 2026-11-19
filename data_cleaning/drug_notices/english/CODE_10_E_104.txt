@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_104
+DCI: PINAVERIUM BROMURE 100 mg cp (PINAVERIUM SANDOZ)
+DrugBank ID: DB09090
+DrugBank Name: Pinaverium
+Brand Names: DICETEL | PINATEL | PINAVERIUM GL | PINAVERIUM NOVAGENERICS
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/20 | b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX - AUTRES MEDICAMENTS CONTRE LES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AX04 - PINAVERIUM
+Registration Numbers: 065/10 E 104/14 | 147/10 E 104/99/15 | 149/10 E 104/13/18 | 447/10 E 104/13/24
+Drug Codes: 10 E 104
+
+------------------------------------------------------------
+
+## Description
+
+Pinaverium is a spasmolytic agent used for functional gastrointestinal disorders. It is a quaternary ammonium compound that acts as an atypical calcium antagonist to restore normal bowel function. It is shown to relieve GI spasm and pain, transit disturbances and other symptoms related to motility disorders 1 and may be considered as effective first-lline therapy for patients with irritable bowel syndrome (IBS) 5 . Pinaverium bromide is the common ingredient in formulations, mostly as oral tablets. Although it is not a currently approved drug by the FDA, pinaverium is available in over 60 countries including Canada.
+
+## Pharmacodynamics
+
+Pinaverium is a selective and specific voltage-dependent calcium channel blocker located on intestinal smooth muscle cells to inhibit calcium influx. It mediates various effects on the GI tract: it causes oesophageal, gastric and duodenal relaxation, relaxes the colon and intestines, inhibits colonic motility in response to food, hormonal or pharmacological stimuli, accelerates gastric emptying, and reduces contractions of the gallbladder and phasic contractions of sphincter of Oddi 10 , 5 . At higher concentrations, pinaverium also exhibits very weak anticholinergic effects 10 but is not shown to display vasodilatory or anti-arrythmic actions 9 .
+
+## Mechanism Of Action
+
+Voltage-dependent L-type calcium channel subunit alpha-1S Antagonist Inhibitor
+
+## Absorption
+
+After oral administration, pinaverium is poorly absorbed (5-10%) followed by uptake by liver. Poor absorption is due to its highly polar quaternary ammonium group and high molecular weight 10 , which limits extensive diffusion across all cell membranes and promotes its selectivity towards the gastrointestinal tracts []. Peak plasma concentration is reached within one hour after administration and the absolute oral bioavailability is reported to be less than 1%.
+
+## Volume Of Distribution
+
+It is selectively distributed to the digestive tract due to poor absorption and marked hepatobiliary excretion 10 .
+
+## Metabolism
+
+Hepatic metabolism of pinaverium involves demethylation of one of the methoxy groups, hydroxylation of the norpinanyl ring and elimination of the benzyl group with subsequent opening of the morpholine ring 10 .
+
+## Route Of Elimination
+
+Pinaverium is predominantly eliminated into feces 10 .
+
+## Half Life
+
+The mean elimination half life is approximately 1.5 hours 10 .
+
+## Toxicity
+
+Some minor GI-related adverse effects include epigastric pain and/or fullness, nausea, constipation, heartburn, distension, and diarrhoea. Other side effects are headache, dry mouth, drowsiness, vertigo and skin allergy. Oral LD50 in mice, rats and rabbits are 1531 mg/kg, 1145 mg/kg and 154 mg/kg, respectively 10 . Pinaverium displays no teratogenic, mutagenic or carcinogenic potential.

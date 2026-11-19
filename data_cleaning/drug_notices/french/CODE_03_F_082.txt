@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_F_082
+DCI: ADENOSINE 30 mg/10 ml sol p perf (ADENOSINE ACCORD) | Adenosine Triphosphate
+Brand Names: ATEPADENE | ATP NOVAGENERICS
+Pharmaceutical Forms: Gélule
+Dosages: 30mg
+Packaging: b/30
+Laboratories: LABORATOIRE X.O | 170 BUREAUX DE LA COLLINE | 92213 SAINT-CLOUD CEDEX
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01E - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB10 - ADENOSINE
+Registration Numbers: 149/03 F 082/17 | 541/03 F 082/06/22
+Drug Codes: 03 F 082
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement d’appoint des dorsalgies primitives.
+
+## Posology
+
+Posologie | Voie orale. | 2 à 3 gélules par jour réparties dans la journée. | La durée de traitement recommandée est de 1 mois.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1
+
+## Precautions
+
+Ce médicament contient un agent colorant azoïque (E122), et peut provoquer des réactions allergiques.
+
+## Interactions
+
+Les données disponibles à ce jour ne laissent pas supposer l’existence d’interactions cliniquement significatives.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n’existe pas de données sur l'utilisation d’ATEPADENE chez la femme enceinte. | Les études animales sont insuffisantes en ce qui concerne la toxicité de la reproduction (voir section 5.3). | Par conséquent, l’utilisation d’Atépadène n’est pas recommandée pendant la grossesse. | Allaitement | Il n’existe pas de données suffisantes sur l’excrétion de l’adénosine triphosphate disodique / ses métabolites dans le lait maternel. | Par mesure de précaution, Atépadène ne doit pas être utilisé pendant l’allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : MYORELAXANT (M : Muscle et Squelette) | L’adénosine triphosphate intervient dans le métabolisme du tissu musculaire et du tissu nerveux.
+
+## Adverse Effects
+
+Dans la littérature, des cas de nausées et d’arythmie ont été rapportée avec l’adénosine. Par ailleurs, l’expérience post-commercialisation a rapporté de très rares cas de réactions allergiques cutanées, telles que les éruptions érythémateuses et les urticaires. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température ne dépassant pas +25°C. | A conserver à l'abri de l'humidité.

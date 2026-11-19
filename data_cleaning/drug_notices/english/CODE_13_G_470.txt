@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_470
+DCI: MEROPENEM 1 g pdre p sol inj/p perf (MEROPENEM ARROW) | Meropeneme Trihydrate Exprime En Meropeneme Anhydre
+DrugBank ID: DB00760
+DrugBank Name: Meropenem
+Brand Names: ARCHIFAR | MEPRA | MERONEM
+Pharmaceutical Forms: Poudre
+Dosages: 1g/fl de pdre
+Packaging: b/10 flacon de poudre | b/10 flacons de 20ml | b/10 flacons de poudre
+Laboratories: PFIZER HOLDING FRANCE | 23-25 AVENUE DU DOCTEUR LANNELONGUE | 75014 PARIS | SUN PHARMACEUTICAL INDUSTRIES EUROPE B.V. | POLARISAVENUE 87 | 2132 JH HOOFDDORP | PAYS-BAS
+ATC Classification: J01DH02
+Registration Numbers: 001/13 G 470/16 | 178/13 G 470/18 | 256/13 G 470/14
+Drug Codes: 13 G 470
+
+------------------------------------------------------------
+
+## Description
+
+Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death. In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+
+## Pharmacodynamics
+
+Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.
+
+## Mechanism Of Action
+
+D-alanyl-D-alanine carboxypeptidase DacB (Escherichia coli (strain K12)) Inhibitor
+
+## Metabolism
+
+Primarily excreted unchanged. There is one metabolite which is microbiologically inactive.
+
+## Route Of Elimination
+
+Approximately 70% of the intravenously administered dose is recovered as unchanged meropenem in the urine over 12 hours, after which little further urinary excretion is detectable.
+
+## Half Life
+
+Approximately 1 hour in adults and children 2 years of age and older with normal renal function. Approximately 1.5 hours in children 3 months to 2 years of age.
+
+## Toxicity
+
+In mice and rats, large intravenous doses of meropenem (2200-4000 mg/kg) have been associated with ataxia, dyspnea, convulsions, and mortalities.

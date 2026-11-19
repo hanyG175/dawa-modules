@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_E_089
+DCI: Oxytocine
+DrugBank ID: DB00107
+DrugBank Name: Oxytocin
+Brand Names: OXYTOCINE
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 5UI/ML
+Packaging: B/3
+Laboratories: BIOLOGICI
+Countries: ITALIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste II
+ATC Classification: H01BB02
+Registration Numbers: 001/11 E 089/18
+Drug Codes: 11 E 089
+
+------------------------------------------------------------
+
+## Description
+
+Sir Henry H. Dale first identified oxytocin and its uterine contractile properties in 1906. 13 , 7 , 20 Like all other neurohypophysial hormones, oxytocin is composed of nine amino acids with a disulfide bridge between the Cys 1 and 6 residues. 13 , 7 In the mid-1950s, synthetic oxytocin was successfully synthesized by a biochemist named Vincent du Vigneaud; he was later recognized with a Nobel prize for his work. 20 Oxytocin continues to be an important tool in modern obstetrics to induce labor when indicated and to manage postpartum hemorrhage. 20 , 21 It is estimated that labor induction with oxytocin is used in almost 10% of deliveries globally. 7 It should be noted that there are risks associated with oxytocin intervention during childbirth. Oxytocin should be used judiciously only when necessary and by experienced healthcare practitioners. 21 Although most commonly linked to labor and delivery, oxytocin actually has broad peripheral and central effects. 13 It plays an important role in pair bonding, social cognition and functioning, and even fear conditioning. 14 Oxytocin also serves a role in metabolic homeostasis and cardiovascular regulation. 7 , 19
+
+## Pharmacodynamics
+
+Oxytocin is a nonapeptide, pleiotropic hormone that exerts important physiological effects. 6 , 8 It is most well known to stimulate parturition and lactation, but also has important physiological influences on metabolic and cardiovascular functions, sexual and maternal behaviour, pair bonding, social cognition, and fear conditioning. 6 , 11 , 14 It is worth noting that oxytocin receptors are not limited to the reproductive system but can be found in many peripheral tissues and in central nervous system structures including the brain stem and amygdala. 11 , 12 , 13 , 14
+
+## Mechanism Of Action
+
+Oxytocin receptor Agonist
+
+## Absorption
+
+Oxytocin is administered parenterally and is fully bioavailable. It takes approximately 40 minutes for oxytocin to reach steady-state concentrations in the plasma after parenteral administration. 23
+
+## Metabolism
+
+Oxytocin is rapidly removed from the plasma by the liver and kidney. 22 The enzyme oxytocinase is largely responsible for the metabolism and regulation of oxytocin levels in pregnancy and only a small percentage of the neurohormone is excreted in the urine unchanged. 22 , 23 Oxytocinase activity increases throughout pregnancy and peaks in the plasma, placenta and uterus near term. 23 The placenta is a key source of oxytocinase during gestation and produces increasing amounts of the enzyme in response to increasing levels of oxytocin produced by the mother. 17 , 18 Oxytocinase activity is also expressed in mammary glands, heart, kidney, and the small intestine. 7 Lower levels of activity can be found in the brain, spleen, liver, skeletal muscle, testes, and colon. 7 The level of oxytocin degradation is negligible in non-pregnant women, men, and cord blood. 23 Hover over products below to view reaction partners Oxytocin
+
+## Route Of Elimination
+
+The enzyme oxytocinase is largely responsible for the metabolism and regulation of oxytocin levels in pregnancy; only a small percentage of the neurohormone is excreted in the urine unchanged. 22 , 23
+
+## Half Life
+
+The plasma half-life of oxytocin ranges from 1-6 minutes. The half-life is decreased in late pregnancy and during lactation. 22
+
+## Clearance
+
+In a study that observed 10 women who were given oxytocin to induce labor, the mean metabolic clearance rate was 7.87 mL/min. 16
+
+## Toxicity
+
+Administration of supratherapeutic doses of exogenous oxytocin can lead to myocardial ischemia, tachycardia, and arrhythmias. 10 High doses can also lead to uterine spasms, hypertonicity, or rupture. 10 Oxytocin has antidiuretic properties, thus, high daily doses (as a single dose or administered slowly over 24 hours) may lead to extreme water intoxication resulting in maternal seizures, coma, and even death. 10 The risk of antidiuresis and water intoxication in the mother appears to be greater when fluids are given orally. 10

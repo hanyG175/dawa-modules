@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_D_037
+DCI: Miconazole
+Brand Names: DAKTAZOL | MICONAZOLE NOVAGENERICS
+Pharmaceutical Forms: Gélule
+Dosages: 0.02 | 2g%
+Packaging: T/50G + CUILLIERE MESURE DE 5ML | t/40g+une cuill7re mesure
+Laboratories: NOVAPHARM TRADING
+Countries: ALGERIE
+Reference Tariff (DA): 392,52 DA
+PPA (DA): 392,52 DA
+Prescription List: Liste I
+ATC Classification: 23D037
+Registration Numbers: 088/23 D 037/23 | 149/23 D 037/15/21 | 263/23 D 037/21 | 352/23 D 037/17 | 418/23 D 037/18/23
+Drug Codes: 23 D 037
+
+------------------------------------------------------------
+
+## Indications
+
+STOMATOLOGIE
+
+## Mechanism Of Action
+
+ANTIFONGIQUES LOCAUX

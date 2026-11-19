@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_006
+DCI: DICLOFENAC SODIQUE 50 mg cp gastrorésis (DICLOFENAC SANDOZ)
+Brand Names: BIOFENAC | CLOFEN | CLOFENAL | DICLOFAL | GEOFENAC | VOLTUM | XINAC-50
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 50mg
+Packaging: b/20 | b/30
+ATC Classification: M - MUSCLE ET SQUELETTE | M02 - TOPIQUES POUR DOULEUR ARTICULAIRE ET MUSCULAIRE | M02A - TOPIQUES POUR DOULEUR ARTICULAIRE ET MUSCULAIRE | M02AA - ANTIINFLAMMATOIRES NON STEROIDIENS A USAGE TOPIQUE | M02AA15 - DICLOFENAC
+Registration Numbers: 003/04 B 006/07/24 | 035/04 B 006/00/25 | 039/04 B 006/98/23 | 065/04 B 006/04/14 | 263/04 B 006/03/24 | 304/04 B 006/04/25 | 361/04 B 006/19/24
+Drug Codes: 04 B 006
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | application | Modalités d'administration | Voie cutanée | Appliquer par massage doux | Posologie | Patient à partir de 14 an(s) | Patient quel que soit le poids | Contusion, traitement d'appoint (de la) - Douleur en pathologie post-traumatique bénigne, traitement local adjuvant (de la) - Entorse, traitement d'appoint (de l') | Posologie standard | 1 application 2 à 3 fois par jour | Pendant 4 jours | Ne pas dépasser 7 jours de traitement. | Arthrose des petites articulations, traitement local (de l') - Douleur musculaire, traitement local (de la) - Douleur tendinoligamentaire, traitement local (de la) | Posologie standard | 1 application 3 à 4 fois par jour | Pendant 7 jours | Ne pas dépasser 14 jours de traitement.
+
+## Precautions
+
+Allaitement | Asthme | Femme susceptible d'être enceinte | Grossesse, 5 premiers mois (de la) | Hémorragie digestive, antécédent | Insuffisance cardiaque | Insuffisance hépatique | Insuffisance rénale | Maladie inflammatoire de l'intestin, antécédent (de) | Nouveau-né exposé in utero au médicament | Patient traité par application étendue | Sujet âgé | Terrain allergique | Traitement prolongé | Ulcère gastroduodénal, antécédent (d')
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Diclofénac : Mécanisme d'action | Le diclofénac est un anti-inflammatoire non stéroïdien (AINS) dérivé de l'acide phénylacétique du groupe des acides arylcarboxyliques. Il possède les propriétés suivantes : activité antalgique, antipyrétique, anti-inflammatoire et inhibition de courte durée des fonctions plaquettaires. | L'ensemble de ces propriétés est lié à une inhibition de la synthèse des prostaglandines.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit (Fréquent) | - Erythème cutané (Fréquent) | - Eczéma (Fréquent) | - Dermatite (Fréquent) | - Desquamation au site d'application (Peu fréquent) | - Eruption cutanée (Fréquent) | - Sécheresse cutanée (Peu fréquent) | - Eruption pustuleuse (Très rare) | - Purpura (Très rare) | - Ulcère cutané (Très rare) | - Photosensibilisation (Très rare) | - Dermatose bulleuse (Rare) | - Urticaire | - Dermatite de contact | - Sensation de brûlure au site d'application | DIVERS: | - Ulcération au site d'application (Très rare) | - Effets systémiques | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Très rare) | - Angioedème (Très rare) | SYSTÈME DIGESTIF: | - Trouble digestif | SYSTÈME RESPIRATOIRE: | - Crise d'asthme (Très rare) | UROLOGIE, NÉPHROLOGIE: | - Trouble rénal

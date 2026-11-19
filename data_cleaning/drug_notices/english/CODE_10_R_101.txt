@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_R_101
+DCI: IBUPROFENE 200 mg cp (IBUPROFENE ZENTIVA CONSEIL)
+DrugBank ID: DB01586
+DrugBank Name: Ursodeoxycholic acid
+Brand Names: TIALYZ | URSA | URSOLYSE
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 200 mg | 200mg
+Packaging: b/30 | b/30 et b/90
+ATC Classification: M - MUSCLE ET SQUELETTE | M01 - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX | M01A - ANTIINFLAMMATOIRES ET ANTIRHUMATISMAUX, NON STEROIDIENS | M01AE - DERIVES DE L'ACIDE PROPIONIQUE | M01AE01 - IBUPROFENE
+Registration Numbers: 231/10 R 101/22 | 321/10 R 101/17/23 | 544/10 R 101/22
+Drug Codes: 10 R 101
+
+------------------------------------------------------------
+
+## Description
+
+Ursodeoxycholic acid (UDCA), also known as ursodiol, is a naturally-occurring bile acid that constitutes a minor fraction of the human bile acid pool. 2 , 3 UDCA has been used to treat liver disease for decades: its first use in traditional medicine dates back more than a hundred years. 1 , 6 UDCA was first characterized in the bile of the Chinese black bear and is formed by 7b-epimerization of chenodeoxycholic acid , which is a primary bile acid. 2 Due to its hydrophilicity, UDCA is less toxic than cholic acid or chenodeoxycholic acid . 2 UDCA was first approved by the FDA in 1987 for dissolution of gallstones and for primary biliary cirrhosis in 1996. 2 UDCA works by replacing the hydrophobic or more toxic bile acids from the bile acid pool. 2
+
+## Pharmacodynamics
+
+Ursodeoxycholic acid (UDCA) is a secondary bile acid with cytoprotectant, immunomodulating, and choleretic effects. It reduces the cholesterol fraction of biliary lipids. 1 UDCA inhibits the absorption of cholesterol in the intestine and the secretion of cholesterol into bile, decreasing biliary cholesterol saturation. 1 UDCA increases bile acid flow and promotes the secretion of bile acids. 1 , 3 , 6
+
+## Mechanism Of Action
+
+Aldo-keto reductase family 1 member C2 Inhibitor
+
+## Absorption
+
+Normally, endogenous ursodeoxycholic acid constitutes a minor fraction (about 5%) of the total human bile acid pool. Following oral administration, the majority of ursodiol is absorbed by passive diffusion, and its absorption is incomplete. Once absorbed, ursodiol undergoes hepatic extraction to about 50% in the absence of liver disease. As the severity of liver disease increases, the extent of extraction decreases. During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid. At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids. 9
+
+## Volume Of Distribution
+
+The volume of distribution of ursodeoxycholic acid (UDCA) has not been determined; however, it is expected to be small since UDCA is mostly distributed in the bile in the gallbladder and small intestines. 3 , 9
+
+## Metabolism
+
+Upon administration, ursodeoxycholic acid (UDCA) enters the portal vein and into the liver, where it undergoes conjugation with glycine or taurine. 3 UDCA is also decreased into bile. Glycine or taurine conjugates are absorbed in the small intestine via passive and active mechanisms. The conjugates can also be deconjugated in the ileum by intestinal enzymes, leading to the formation of free UDCA that can be reabsorbed and re-conjugated in the liver. 9 Nonabsorbed UDCA passes into the colon, where it undergoes 7-dehydroxylation by intestinal bacteria to lithocholic acid. 8 Some UDCA is epimerized to chenodeoxycholic acid via a 7-oxo intermediate. Chenodeoxycholic acid also undergoes 7-dehydroxylation to form lithocholic acid. These metabolites are poorly soluble and excreted in the feces. A small portion of lithocholic acid is reabsorbed, conjugated in the liver with glycine or taurine, and sulfated at the 3 position. The resulting sulfated lithocholic acid conjugates are excreted in bile and then lost in feces. 9 Hover over products below to view reaction partners Ursodeoxycholic acid Lithocholic acid 7-oxo-lithocholic acid Chenodeoxycholic acid
+
+## Route Of Elimination
+
+Ursodeoxycholic acid is excreted primarily in the feces. Renal elimination is a minor elimination pathway. With treatment, urinary excretion increases but remains less than 1% except in severe cholestatic liver disease. 7 , 9
+
+## Half Life
+
+The estimated half-life ranges from 3.5 to 5.8 days. 3 , 7
+
+## Toxicity
+
+The oral LD 50 in rats is >4600-5000 mg/kg. 10 , 11 It is over 7500 mg/kg for mice. 11 Ursodeoxycholic acid (UDCA) is associated with rare hepatotoxicities, such as jaundice, worsening pre-existing liver diseases, and hepatitis. 2 , 3 There have been no reports of accidental or intentional overdosage with UDCA. A single oral dose of UDCA at 1.5 g/kg was lethal in hamsters. Single oral doses of UDCA at 10 g/kg in mice and dogs and 5 g/kg in rats were not lethal. Symptoms of acute toxicity were salivation and vomiting in dogs, while ataxia, dyspnea, ptosis, agonal convulsions and coma were observed in hamsters. 9

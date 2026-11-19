@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_C_214
+DCI: Guaifenesine (Dci)/Benzoate De Sodium/Terpine/Eucalyptol
+DrugBank ID: DB00874
+DrugBank Name: Guaifenesin
+Brand Names: FLUPEX
+Pharmaceutical Forms: Solution
+Dosages: 30mg/300mg/37.5mg/1.5mg/15ml
+Packaging: flacon./200ml
+Registration Numbers: 077/20 C 214/08/17
+Drug Codes: 20 C 214
+
+------------------------------------------------------------
+
+## Description
+
+Guaifenesin possesses a storied history, having been originally formally approved by the US FDA in 1952 and continues to be one of very few - if not perhaps the only drug that is readily available and used as an expectorant 11 . Since that time the agent has been a combination component of various prescription and non-prescription over-the-counter cough and cold products and is currently a widely available over-the-counter generic medication 11 . Although it is principally believed that guaifenesin elicits an action to facilitate productive cough to manage chest congestion 4 , 7 , 9 , 10 , 11 , it is not known whether the agent can reliably mitigate coughing. Regardless, on March 1, 2007, the FDA received a petition asking the FDA to notify the public that some antitussives, expectorants, decongestants, antihistamines, and cough/cold combinations are not known to be safe and effective in children under the age of 6 years 11 . After the negotiation between FDA and major manufacturers, a voluntary transition of labels for not using guaifenesin in children under the age of 4 years was endorsed by FDA in 2008 11 . Furthermore, there has also been contemporary research to suggest that guaifenesin possesses and is capable of demonstrating anticonvulsant and muscle relaxant effects to some degree possibly by acting as an NMDA receptor antagonist 3 .
+
+## Pharmacodynamics
+
+Guaifenesin is categorized as an expectorant that acts by enhancing the output of phlegm (sputum) and bronchial secretions via decreasing the adhesiveness and surface tension of such material 9 . Furthermore, guaifenesin elicits an increased flow of less viscous gastric secretions that subsequently promote ciliary action - all actions that ultimately change dry, unproductive coughing to coughs that are more productive and less frequent 9 . Essentially, by decreasing the viscosity and adhesiveness of such secretions, guaifenesin enhances the efficacy of mucociliary activity in removing accumulated secretions from the upper and lower airway 9 .
+
+## Mechanism Of Action
+
+Although the exact mechanism of action of guaifenesin may not yet be formally or totally elucidated, it is believed that expectorants like guaifenesin function by increasing mucus secretion 4 . Moreover, it is also further proposed that such expectorants may also act as an irritant to gastric vagal receptors, and recruit efferent parasympathetic reflexes that can elicit glandular exocytosis that is comprised of a less viscous mucus mixture 4 . Subsequently, these actions may provoke coughing that can ultimately flush difficult to access, congealed mucopurulent material from obstructed small airways to facilitate a temporary improvement for the individual 4 . Consequently, while it is generally proposed that guaifenesin functions as an expectorant by helping to loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive, there has also been research to suggest that guaifenesin possesses and is capable of demonstrating anticonvulsant and muscle relaxant effects to some degree possibly by acting as an NMDA receptor antagonist 3 . Target Actions Organism U NMDA receptor antagonist Humans
+
+## Absorption
+
+Studies have shown that guaifenesin is well absorbed from and along the gastrointestinal tract after oral administration 2 , 10 , 7 .
+
+## Volume Of Distribution
+
+The geometric mean apparent volume of distribution of guaifenesin determined in healthy adult subjects is 116L (CV=45.7%) 11 .
+
+## Metabolism
+
+After the oral administration of 400 mg guaifenesin, the agent experiences rapid hydrolysis (more than 60% of the dose hydrolyzed over a range of seven hours) with β-(2-methoxyphenoxy)-lactic acid found as the major urinary metabolite but no parent drug detectable in the urine 5 , 7 . Moreover, it has been observed that guaifenesin also experiences both oxidation and demethylation 5 . In particular, the medication is quickly metabolized hepatically by way of oxidation to β-(2-methoxyphenoxy)-lactic acid 5 . Furthermore, guaifenesin is also demethylated by O-demethylase in liver microsomes to the point where about 40% of an administered dose is excreted as this metabolite in the urine within 3 hours 5 . In fact, O-demethylase appears to be the primary enzyme for the metabolism of guaifenesin and the primary metabolites of the substance are β-(2-methoxyphenoxy)-lactic acid and the demethylated hydroxyguaifenesin, both of which are themselves inactive moieties 5 . Hover over products below to view reaction partners Guaifenesin beta-(2-methoxyphenoxy)-lactic acid
+
+## Route Of Elimination
+
+After administration, guaifenesin is metabolized and then largely excreted in the urine 5 , 6 , 7 , 10 , 11 .
+
+## Half Life
+
+The half-life in plasma observed for guaifenesin is approximately one hour 5 , 6 , 7 , 10 , 11 .
+
+## Clearance
+
+The mean clearance recorded for guaifenesin is about 94.8 L/hr (CV=51.4%) 11 .
+
+## Toxicity
+
+The most prevalent signs and symptoms associated with an overdose of guaifenesin have been nausea and vomiting 7 . Although adequate and well-controlled studies in pregnant women have not been performed, the Collaborative Perinatal Project monitored 197 mother-child pairs exposed to guaifenesin during the first trimester 7 . An increased occurrence of inguinal hernias was found in the neonates 7 . However, congenital defects were not strongly associated with guaifenesin use during pregnancy in 2 large groups of mother-child pairs 7 . Moreover, guaifenesin is excreted in breast milk in small quantities 7 . Subsequently, caution should be exercised by balancing the potential benefit of treatment against any possible risks 7 . Additionally, an LD 50 value of 1510 mg/kg (rat, oral) has been reported for guaifenesin MSDS .

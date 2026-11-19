@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_L_059
+DCI: Isotretinoine
+DrugBank ID: DB00982
+DrugBank Name: Isotretinoin
+Brand Names: CURACNE 20MG | XERACTAN
+Pharmaceutical Forms: Gélule
+Dosages: 20mg
+Packaging: b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: D10BA01
+Registration Numbers: 001/07 L 059/23 | 099/07 L 059/06/24
+Drug Codes: 07 L 059
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+The pharmacodynamics of isotretinoin are poorly understood. Label
+
+## Mechanism Of Action
+
+Retinoic acid receptor gamma Agonist
+
+## Absorption
+
+Patients reach a maximum concentration of 74-511ng/mL after 1-4 hours following a 100mg oral dose. 1 Isotretinoin is better absorbed with a high fat meal and bioavailability may change from one brand to another. Label Following a 40mg oral dose, fasted subjects reached a maximum concentration of 314ng/mL in 2.9 hours with an area under the curve of 4055ng/mL*hr. Label Subjects given a high fat meal and a 40mg oral doses reached a maximum concentration of 395ng/mL in 6.4 hours with an area under the curve of 6095ng/mL*mL. Label
+
+## Volume Of Distribution
+
+The volume of distribution in humans is unknown because there is no intravenous preparation. 13 In a study of pediatric patients with neuroblastoma the volume of distribution was found to be 85L. 6 The volume of distribution was also found to be 2432mL/kg in guinea pigs and 1716mL/kg in obese rats. 5
+
+## Metabolism
+
+Isotretinoin, or 13-cis-retinoic acid can undergo reversible cis-trans isomerization to all-trans-retinoic acid. 8 Isotretinoin undergoes 4-hydroxylation to 4-hydroxy-13-cis-retinoic acid, which is oxidized to the main metabolite 4-oxo-13-cis-retinoic acid. 8 , 3 . All-trans-retinoic acid undergoes 4-hydroxylation to 4-hydroxy-all-trans-retinoic acid, which is oxidized to 4-oxo-all-trans-retinoic acid. 8 4-oxo-13-cis-retinoic acid can undergo reversible cis-trans isomerization to 4-oxo-all-trans-retinoic acid. 8 Hover over products below to view reaction partners Isotretinoin all-trans-retinoic acid 4-hydroxy-all-trans-retinoic acid 4-oxo-all-trans-retinoic acid 4-oxo-13-cis-retinoic acid 4-hydroxy-13-cis-retinoic acid 4-oxo-13-cis-retinoic acid 4-oxo-all-trans-retinoic acid
+
+## Route Of Elimination
+
+Isotretinoin and its metabolites are conjugated and excreted in the urine and feces in similar amounts. Label 53-74% of an oral dose is eliminated as unchanged isotretinoin in the feces. 1
+
+## Half Life
+
+The half life ranges from 7-39 hours 13 with a mean elimination half life of 20 hours. 1 The half life of 4-oxo-13-cis-retinoic acid ranges from 17-50 hours with a mean elimination half life of 25 hours. 13
+
+## Clearance
+
+The clearance of isotretinoin is 15.9L/h in pediatric patients with neuroblastoma. 6 Clearance is also 21.3mL/min/kg in guinea pigs and 7.2mL/min/kg in obese rats. 5
+
+## Toxicity
+
+Patients experiencing an overdose may present with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia. Label These symptoms may rapidly resolve. Label Generally no treatment is required for these overdoses. 7 The oral lowest dose causing toxic effect (TDLO) for children is 30mg/kg/21W, oral TDLO for men is 24mg/kg/4W, oral TDLO for women is 56mg/kg/8W. 14 The intraperitoneal LD 50 for rats is 901mg/kg, oral LD 50 for mice is 3389mg/kg, oral LD 50 for rats is >4000mg/kg. 14 Isotretinoin is associated with major congenital malformations, spontaneous abortion, and premature birth. Label It is unknown if isotretinoin is expressed in breast milk but due to the associated hazards a decision should be made to either stop nursing or stop taking isotretinoin. Label In animal studies, isotretinoin was associated with an increased risk of pheochromocytoma and adrenal medullary hyperplasia at doses above the recommended clinical dose. Label Isotretinoin was negative for the Ames test of mutagenicity once and weakly positive a second time. Label It has not been shown to be clastogenic. Label A study in dogs noted testicular atrophy after doses of 10-30 times the recommended clinical dose for 30 weeks. Label In trials with men there were no effects seen on sperm count, motility, morphology, ejaculate volume, and seminal plasma fructose. Label

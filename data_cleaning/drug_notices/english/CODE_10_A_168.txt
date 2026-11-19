@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_168
+DCI: FAMOTIDINE 40 mg cp (FAMOTIDINE EG)
+DrugBank ID: DB00927
+DrugBank Name: Famotidine
+Brand Names: FAMOTIDINE MABO 40 | FAMOXINE
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A02 - MEDICAMENTS DES TROUBLES DE L'ACIDITE | A02B - MEDICAMENTS DE L'ULCERE PEPTIQUE ET DU REFLUX GASTRO-OESOPHAGIEN (RGO) | A02BA - ANTAGONISTES DES RECEPTEURS H2 | A02BA03 - FAMOTIDINE
+Registration Numbers: 035/10 A 168/23 | 268/10 A 168/23
+Drug Codes: 10 A 168
+
+------------------------------------------------------------
+
+## Description
+
+Famotidine is a competitive histamine-2 (H 2 ) receptor antagonist that works to inhibit gastric acid secretion. It is commonly used in gastrointestinal conditions related to acid secretion, such as gastric ulcers and gastroesophageal reflux disease (GERD), in adults and children. 8 Compared to other H 2 receptor antagonists, famotidine displays high selectivity towards this receptor; in a study consisting of healthy volunteers and patients with acid hypersecretory disease, famotidine was about 20 to 50 times more potent at inhibiting gastric acid secretion than cimetidine and eight times more potent than ranitidine on a weight basis. 2 Famotidine is used in various over-the-counter and off-label uses. 8 While oral formulations of famotidine are more commonly used, the intravenous solution of the drug is available for use in hospital settings. 6
+
+## Pharmacodynamics
+
+Famotidine decreases the production of gastric acid, suppresses acid concentration and pepsin content, and decreases the volume of gastric secretion. Famotidine inhibits both basal and nocturnal gastric acid secretion, as well as acid secretion stimulated by food, caffeine, insulin, and pentagastrin. 5 , 6 Famotidine has a dose-dependent therapeutic action, with the highest dose having the most extended duration of action and the highest inhibitory effect on gastric acid secretion. Following oral administration, the onset of action is within one hour, and the peak effect is reached within 1-3 hours. The duration of effect is about 10-12 hours. 1
+
+## Mechanism Of Action
+
+Histamine H2 receptor Antagonist
+
+## Absorption
+
+Following oral administration, the absorption of famotidine is dose-dependent and incomplete. 3 The oral bioavailability ranges from 40-50%, and the Cmax is reached in 1-4 hours post-dosing. 1 , 3 While the bioavailability can be slightly increased with the intake of food and decreased by antacids, there is no clinical significance. 5
+
+## Volume Of Distribution
+
+The steady-state volume of distribution ranges from 1.0 to 1.3 L/kg. 3 Famotidine is found in breast milk; however, it is found in breast milk at the lowest concentrations compared to other H 2 receptor antagonists. 8
+
+## Metabolism
+
+Famotidine undergoes minimal first-pass metabolism. About 25-30% of the drug is eliminated through hepatic metabolism. The only metabolite identified in humans is the S-oxide. 5 Hover over products below to view reaction partners Famotidine Famotidine S-oxide
+
+## Route Of Elimination
+
+About 65-70% of the total administered dose of famotidine undergoes renal elimination, and 30-35% of the dose is cleared by metabolism. 5 Following intravenous administration, about 70% of the drug is eliminated in the urine as an unchanged drug. 3
+
+## Half Life
+
+The elimination half-life is about 2 to 4 hours. 3 The half-life is expected to increase nonlinearly in patients with decreased renal function. 1
+
+## Clearance
+
+Renal clearance is 250-450 mL/min, indicating some tubular excretion. Because the renal clearance rate exceeds the glomerular filtration rate, famotidine is thought to be mainly eliminated via both glomerular filtration and renal tubular secretion. 3
+
+## Toxicity
+
+The oral LD 50 is 4049 mg/kg in rats and 4686 mg/kg in mice. 7 The subcutaneous LD 50 is 800 mg/kg in rats and mice. 7 The intraperitoneal LD 50 is 800 mg/kg in rats and 778 mg/kg in mice. 7 The intravenous LD 50 is 204 mg/kg in rats and 254 mg/kg in mice. 7 The lowest published toxic dose (TDLo) in man following oral administration is 4 mg/kg/7D. 7 Symptoms of overdose resemble the adverse events seen with the use of recommended doses, and they should be responded with supportive and symptomatic treatment. Any unabsorbed drug should be removed from the gastrointestinal tract, and the patient should be monitored accordingly. The use of hemodialysis to eliminate the drug from the systemic circulation is effective, but the experience of using hemodialysis in response to famotidine overdose is limited in clinical settings. 5

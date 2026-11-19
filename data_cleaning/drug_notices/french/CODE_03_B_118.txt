@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_B_118
+DCI: CHLORPHENAMINE MALEATE 4 mg + PARACETAMOL 500 mg gél (HUMEXLIB) | Paracetamol/Acide Ascorbique
+Brand Names: DOLIDOL FLASH VITAMINE C | EFFERALGAN VITAMINE C
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg/200mg
+Packaging: b/16
+Laboratories: Laboratoires URGO HEALTHCARE | UPSA SAS | 3, RUE JOSEPH MONIER | 92500 RUEIL-MALMAISON
+ATC Classification: Classe pharmacothérapeutique : AUTRES ANALGESIQUES ET ANTIPYRÉTIQUES-ANILIDES. | Code ATC : N02BE01. | Le paracétamol a un mécanisme d’action central et périphérique. | N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02B - AUTRES ANALGESIQUES ET ANTIPYRETIQUES | N02BE - ANILIDES | N02BE01 - PARACETAMOL
+Registration Numbers: 201/03 B 118/14/22 | 571/03 B 118/23
+Drug Codes: 03 B 118
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Fri Feb 28 00:00:00 CET 2025 | is_edited: False | title: INDICATIONS | text: Ce médicament est indiqué dans le traitement au cours des rhumes, rhinites, rhinopharyngites et des états grippaux de l'adulte et de l'enfant de plus de 15 ans : | de l'écoulement nasal clair et des larmoiements, | des éternuements, | des maux de tête et/ou fièvre. | lists: de l'écoulement nasal clair et des larmoiements, | des éternuements, | des maux de tête et/ou fièvre.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | paracétamol : 500 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer de préférence à distance des repas | Traitement à réévaluer en cas d'absence d'amélioration après 3 à 5 jours de traitement | Utiliser la forme la plus adaptée au patient | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 6 an(s) | 27 kg = 50 kg | Douleur d'intensité légère à modérée - Fièvre | Posologie standard | Respecter un intervalle d'au moins 4 heures entre 2 prises | 500 à 1 000 mg 1 à 6 fois par jour | Dose maximale par prise: 1 000 mg | Posologie maximale: 3 000 mg par jour | Dans le cas de : Réponse insuffisante au traitement | Respecter un intervalle d'au moins 4 heures entre 2 prises | 500 à 1 000 mg 1 à 6 fois par jour | Dose maximale par prise: 1 000 mg | Posologie maximale: 4 000 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Alcoolisme chronique | Anémie hémolytique | Anorexie | Boulimie | Cachexie | Consommation d'alcool | Déficit en glucose-6-phosphate-déshydrogénase | Déshydratation | Enfant de moins de 27 kg | Enfant de moins de 6 ans | Enfant entre 6 et 15 ans | Grossesse | Hépatite chronique | Hépatopathie | Hypovolémie | Insuffisance hépatique légère à modérée | Insuffisance rénale : clairance de la créatinine < 50 ml/min | Jeûne | Maladie cardiovasculaire | Malnutrition | Patient traité à posologie élevée | Pneumopathie | Poids (diminution) | Réserves basses en glutathion | Sepsis | Sevrage alcoolique | Sujet âgé | Sujet de 27 à 50 kg | Syndrome de Gilbert | Traitement hépatotoxique en cours | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Paracétamol : Mécanisme d'action | Le mécanisme précis des propriétés antalgiques et antipyrétiques du paracétamol reste à établir. Il implique des actions centrales et périphériques.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Transaminases (augmentation) (Rare) | - Hypoglycémie (Très rare) | - Neutropénie (Très rare) | - Enzymes hépatiques (augmentation) | - INR (diminution) | - Trou anionique augmenté | - Enzymes hépatiques (diminution) | - INR (augmentation) | - INR (anomalie) | DERMATOLOGIE: | - Purpura (Rare) | - Urticaire (Rare) | - Dermatite allergique (Rare) | - Hypersudation (Rare) | - Eruption cutanée (Rare) | - Prurit (Rare) | - Réaction cutanée sévère (Très rare) | - Erythème cutané (Rare) | - Erythème pigmenté fixe | - Pustulose exanthémateuse aiguë généralisée | - Syndrome de Stevens-Johnson | - Syndrome de Lyell | - Erythème polymorphe | - Dermatose | - Exanthème | DIVERS: | - Oedème (Rare) | - Fièvre (Rare) | HÉMATOLOGIE: | - Purpura thrombopénique (Rare) | - Trouble de l'hématopoïèse (Rare) | - Anémie (Rare) | - Thrombopathie (Rare) | - Pancytopénie (Rare) | - Thrombopénie (Rare) | - Agranulocytose (Rare) | - Anémie hémolytique (Rare) | - Insuffisance de la moelle osseuse (Rare) | - Leucopénie (Très rare) | - Hémorragie (Rare) | HÉPATOLOGIE: | - Insuffisance hépatique (Rare) | - Nécrose hépatique (Rare) | - Hépatopathie (Très rare) | - Ictère (Rare) | - Hépatite cytolytique | - Fibrose hépatique | - Cirrhose hépatique | - Hépatite aiguë | - Hépatite fulminante | - Hépatite | - Hépatite sévère | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Rare) | - Choc anaphylactique | - Réaction anaphylactique | - Angioedème | INFECTIOLOGIE NON PRECISÉE: | - Pyurie (Très rare) | NUTRITION, MÉTABOLISME: | - Acidose pyroglutamique | - Acidose métabolique | OPHTALMOLOGIE: | - Trouble de la vision (Rare) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Sensation de brûlure rétropharyngienne (Rare) | - Oedème laryngé | PSYCHIATRIE: | - Nervosité (Peu fréquent) | - Confusion mentale (Rare) | - Hallucination (Rare) | - Dépression (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Rare) | - Hypotension artérielle | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Douleur abdominale (Rare) | - Pancréatite chronique (Rare) | - Diarrhée (Rare) | - Pancréatite aiguë (Rare) | - Fonction hépatique anormale (Rare) | - Constipation (Rare) | - Douleur épigastrique | SYSTÈME NERVEUX: | - Somnolence (Fréquent) | - Tremblement (Rare) | - Sédation (Rare) | - Céphalée (Rare) | SYSTÈME RESPIRATOIRE: | - Syndrome d'asthme en réponse à un analgésique | - Bronchospasme | - Asthme | UROLOGIE, NÉPHROLOGIE: | - Hématurie (Très rare) | - Néphropathie (Rare) | - Anurie (Très rare) | - Insuffisance rénale (Très rare) | - Néphropathie interstitielle | - Atteinte de la fonction rénale | - Urine anormale

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_220
+DCI: IRBESARTAN 300 mg + HYDROCHLOROTHIAZIDE 12,5 mg cp (IRBESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA)
+Brand Names: CO APROSART | CO AVASART | CO-ARADEX 300/12.5 | CO-IRBEDIM | CO-IRBEK | CO-IRBEZART 300MG+12.5MG | COAPROVEL | COZIBRAT | GIZLAN-PLUS 300/12,5 | IPISART PLUS | IRBISART + | ROTAZAR PLUS
+Pharmaceutical Forms: Comprimé
+Dosages: 300mg/12.5mg
+Packaging: b/28 | b/30 | b/30 et b/90
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA04 - IRBESARTAN
+Registration Numbers: 035/06 E 220/18 | 055/06 E 220/19/24 | 268/06 E 220/15/25 | 309/06 E 220/22 | 352/06 E 220/10/25 | 392/06 E 220/06/24 | 447/06 E 220/10/23 | 470/06 E 220/12/24 | 492/06 E 220/22 | 510/06 E 220/16 | 544/06 E 220/11/19 | 544/06 E 220/25
+Drug Codes: 06 E 220
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | irbésartan : 150 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle | Traitement initial | 75 à 150 mg 1 fois par jour | Traitement d'entretien | 150 mg 1 fois par jour | Posologie standard | Dans le cas de : Patient faiblement répondeur | 300 mg 1 fois par jour | Néphropathie chez le diabétique de type 2 hypertendu | Traitement initial | 150 mg 1 fois par jour | Traitement d'entretien | 300 mg 1 fois par jour | Populations particulières | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Cardiomyopathie obstructive | Diabète | Hyperaldostéronisme primaire | Hypertension rénovasculaire | Hyponatrémie | Hypovolémie | Insuffisance cardiaque | Insuffisance rénale | Ischémie myocardique | Néphropathie | Pathologie cérébrovasculaire | Patient en hémodialyse | Rétrécissement aortique | Rétrécissement mitral | Sujet de moins de 18 ans | Sujet de plus de 75 ans | Sujet noir | Transplantation rénale, antécédent récent (de)
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Irbésartan : Mécanisme d'action | L'irbésartan est un antagoniste sélectif puissant des récepteurs de l'angiotensine II (type AT1), actif par voie orale. | Il bloque tous les effets de l'angiotensine II, faisant intervenir les récepteurs AT1, indépendamment de l'origine ou de la voie de synthèse de l'angiotensine II. L'antagonisme sélectif des récepteurs de l'angiotensine II (AT1) provoque une élévation des taux plasmatiques de rénine et des taux d'angiotensine II, et une baisse de la concentration plasmatique d'aldostérone. La kaliémie n'est pas modifiée de façon significative par l'irbésartan seul aux doses recommandées. L'irbésartan n'inhibe pas l'ECA (kininase II), enzyme qui génère la formation d'angiotensine II et qui dégrade également la bradykinine en métabolites inactifs. L'irbésartan ne nécessite pas une activation métabolique pour être actif. | L' | hydrochlorothiazide | est un diurétique thiazidique. Le mécanisme d'action des diurétiques thiazidiques n'est pas complètement connu. Les thiazidiques agissent sur les mécanismes de réabsorption électrolytique par les tubules du rein en augmentant directement l'élimination du sodium et du chlore en quantités approximativement égales. En favorisant la diurèse, l' | hydrochlorothiazide | diminue le volume plasmatique, stimule l'activité de la rénine plasmatique, augmente la sécrétion d'aldostérone, avec pour conséquence l'augmentation de la kaliurèse, la perte de bicarbonate et la diminution de la kaliémie. L'administration concomitante d'irbésartan (probablement grâce au blocage de l'axe rénine-angiotensine-aldostérone) tend à réduire les pertes potassiques induites par ces diurétiques. La diurèse commence 2 heures après une administration orale d' | hydrochlorothiazide | ; elle atteint son maximum environ 4 heures après la prise pour se maintenir pendant environ 6 à 12 heures.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - CPK (augmentation) (Fréquent) | - Hyperkaliémie (Très fréquent) | - Hémoglobinémie (diminution) (Fréquent) | - Hypoglycémie | - Paramètres biologiques (anomalie) | - Créatininémie (augmentation) | DERMATOLOGIE: | - Eruption cutanée | - Urticaire | DIVERS: | - Trouble sexuel (Peu fréquent) | - Fatigue (Fréquent) | - Douleur thoracique (Peu fréquent) | HÉMATOLOGIE: | - Thrombopénie | - Anémie | HÉPATOLOGIE: | - Ictère (Peu fréquent) | - Hépatite | - Insuffisance hépatique | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | ORL, STOMATOLOGIE: | - Vertige otolithique (Fréquent) | - Sensation de vertige (Fréquent) | - Dysgueusie | - Acouphène | - Vertige | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Peu fréquent) | - Hypotension orthostatique (Fréquent) | - Tachycardie (Peu fréquent) | - Hypotension artérielle | - Vascularite leucocytoclasique | SYSTÈME DIGESTIF: | - Dyspepsie (Peu fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Peu fréquent) | - Brûlure épigastrique (Peu fréquent) | - Angioedème intestinal (Rare) | - Fonction hépatique anormale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculo-squelettique (Fréquent) | - Douleur articulaire | - Crampe | - Douleur musculaire | SYSTÈME NERVEUX: | - Céphalée | SYSTÈME RESPIRATOIRE: | - Toux (Peu fréquent) | UROLOGIE, NÉPHROLOGIE: | - Atteinte de la fonction rénale | - Insuffisance rénale

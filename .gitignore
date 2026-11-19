@@ -1,16 +1,69 @@
-bylka's work/dawav2_scraping_service
-bylka's work/dawav2_scraping_service
-Data Cleaning/*/data
-Data Cleaning/*/output
-*/output
-Data Cleaning/test_nomenclature.xlsx
-Data Cleaning/colab_all_final_translated_results-20260415T173352Z-3-001
-Data Cleaning/Database_Exports
-Data Cleaning/*/*.csv
-Data Cleaning/Database_Exports_cleaned
-Data Cleaning/backups
-Data Cleaning/Data_Cleaned_NonRAG
-Data Cleaning/*.csv
-Data Cleaning/*/*.json
-Data Cleaning/old
-frontend
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+!**/.env.example
+!**/.env.*.example
+**/credentials/
+**/*service-account*.json
+**/*client_secret*.json
+
+# Logs, temporary files, and runtime output
+*.log
+logs/
+**/output/
+**/outputs/
+**/Results/
+**/backups/
+tmp/
+temp/
+
+# Large or private source data. Keep small, synthetic fixtures in the repo.
+drug_scraper/full database.xml
+data_cleaning/Original Data/
+data_cleaning/PDFs/
+data_cleaning/Database_Exports/
+data_cleaning/Data_Cleaned_NonRAG/
+data_cleaning/Data_Exports_Cleaned/
+data_cleaning/backups/
+data_cleaning/new_data_rag/
+data_cleaning/new_data_dawav2_improved/
+
+# Local graph/database exports and generated reports
+ocr_system/Results/
+ocr_system/*.csv
+ocr_system/*.json
+ocr_system/*.txt
+ocr_system/data/output_texts/
+neo4j_*.csv

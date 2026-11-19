@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_174
+DCI: ERLOTINIB (chlorhydrate) 100 mg cp (ERLOTINIB BIOGARAN)
+DrugBank ID: DB00530
+DrugBank Name: Erlotinib
+Brand Names: BIRLOTIB | EGROTIB | MIRATA
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/10 | b/30
+ATC Classification: L01EB02
+Registration Numbers: 001/05 C 174/21 | 488/05 C 174/14 | 536/05 C 174/23
+Drug Codes: 05 C 174
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Nuclear receptor subfamily 1 group I member 2 Agonist Epidermal growth factor receptor Antagonist
+
+## Absorption
+
+Erlotinib is about 60% absorbed after oral administration and its bioavailability is substantially increased by food to almost 100%. Peak plasma levels occur 4 hours after dosing. The solubility of erlotinib is pH dependent. Solubility decreases pH increases. Smoking also decrease the exposure of erlotinib.
+
+## Volume Of Distribution
+
+Apparent volume of distribution = 232 L
+
+## Metabolism
+
+Metabolism occurs in the liver. In vitro assays of cytochrome P450 metabolism showed that erlotinib is metabolized primarily by CYP3A4 and to a lesser extent by CYP1A2, and the extrahepatic isoform CYP1A1. Hover over products below to view reaction partners Erlotinib 2-(4-(3-Ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl)oxyethanol
+
+## Route Of Elimination
+
+Following a 100 mg oral dose, 91% of the dose was recovered in which 83% was in feces (1% of the dose as unchanged parent compound) and 8% in urine (0.3% of the dose as unchanged parent compound).
+
+## Half Life
+
+Median half-life of 36.2 hours.
+
+## Clearance
+
+Smokers have a 24% higher rate of erlotinib clearance.
+
+## Toxicity
+
+Symptoms of overdose include diarrhea, rash, and liver transaminase elevation. The most common adverse reactions (>50%) in NSCLC are rash, diarrhea, anorexia and fatigue. The most common adverse reactions (>50%) in pancreatic cancer are fatigue, rash, nausea and anorexia.

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_063
+DCI: époétine bêta
+Brand Names: BIOPOIETINE | HEMAX | RELIPOIETIN 10 000
+Pharmaceutical Forms: Poudre | Solution
+Dosages: 10000ui/ml
+Packaging: b/1sering. preremplie de 1ml | boite de 01 flacon de poudre lyophilisée +01 ampoule de 1ml de solvant(eau ppi)+01 seringue + 02 aiguilles a usage unique
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B03 - PREPARATIONS ANTIANEMIQUES | B03X - AUTRES PREPARATIONS ANTIANEMIQUES | B03XA - AUTRES PREPARATIONS ANTIANEMIQUES | B03XA01 - ERYTHROPOÏETINE
+Registration Numbers: 286/12 E 063/12 | 357/12 E 063/08/24 | 543/12 E 063/25
+Drug Codes: 12 E 063
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie
+
+## Precautions
+
+Allaitement | Anémie chez le patient cancéreux | Anémie réfractaire | Carence en acide folique et en vitamine B12 | Epilepsie | Grossesse | Hépatite C | Hypertension artérielle | Insuffisance hépatique chronique | Insuffisance rénale chronique | Intoxication par l'aluminium | Néphrosclérose | Pathologie vasculaire | Patient dialysé | Patient soumis à prélèvement autologue | Prématuré | Présence d'anticorps anti-érythropoétine | Sportif | Syndrome de Lyell, antécédent (de) | Syndrome de Stevens-Johnson, antécédent (de) | Thrombocytose
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+époétine bêta : Mécanisme d'action | L'érythropoïétine est une glycoprotéine qui stimule la formation des globules rouges à partir de leurs précurseurs spécifiques. Elle agit comme un facteur stimulant la mitose et comme une hormone de différenciation. | La composition en hydrates de carbone et en acides aminés de l'époétine bêta est identique à celle de l'érythropoïétine isolée à partir de l'urine des malades anémiques. | L'efficacité biologique de l'époétine bêta a été démontrée dans divers modèles animaux in vivo (rat normal et urémique, souris polycythémique, chien), après administration intraveineuse et sous-cutanée. Après administration d'époétine bêta, une augmentation du nombre d'hématies, de l'hémoglobine et des réticulocytes est observée ainsi qu'une augmentation du taux d'incorporation du | 59 | Fe.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Ferritine (diminution) (Très fréquent) | - Hyperphosphatémie (Cas isolés) | - Hyperkaliémie (Cas isolés) | - Anticorps antiérythropoiétine | - Fer sanguin diminué | - Anticorps neutralisant | DERMATOLOGIE: | - Syndrome de Lyell | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Réaction cutanée sévère | - Urticaire | - Réaction cutanée | DIVERS: | - Syndrome pseudogrippal (Très rare) | HÉMATOLOGIE: | - Erythroblastopénie (Cas isolés) | - Thrombocytose (Très rare) | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactoïde (Très rare) | INSTRUMENTATION: | - Réaction au point d'injection | SYSTÈME CARDIOVASCULAIRE: | - Accident thromboembolique (Fréquent) | - Hypertension artérielle (Fréquent) | - Crise hypertensive (Peu fréquent) | - Thrombose de la fistule artérioveineuse (Rare) | - Pression artérielle (augmentation) | - Hypertension artérielle (aggravation) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Accident vasculaire cérébral

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_137
+DCI: LITHIUM (gluconate) 279,6 µg/2 ml sol buv (OLIGOSOL Li)
+Brand Names: TOT'HEMA
+Pharmaceutical Forms: Solution
+Dosages: 50mg/1.33mg/0.70mg
+Packaging: b/20amp de 10ml
+Laboratories: Laboratoire des GRANIONS EA-PHARMA
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A12 - SUPPLEMENTS MINERAUX | A12C - AUTRES SUPPLEMENTS MINERAUX | A12CX - AUTRES ELEMENTS MINERAUX
+Registration Numbers: 087/12 E 137/08/24
+Drug Codes: 12 E 137
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Fri Apr 30 00:00:00 CEST 2021 | is_edited: True | title: INDICATIONS | text: Utilisé comme modificateur du terrain, en particulier au cours de manifestations psychiques ou psychosomatiques mineures de l'enfant de plus de 6 ans et de l'adulte (troubles légers du sommeil, irritabilité).
+
+## Posology
+
+Posologie | Unité de prise | ml | lithium (citrate) : 0.5 mg | Modalités d'administration | Voie orale | A diluer avant administration | Administrer le matin à jeun ou à distance des repas | Posologie | Patient à partir de 6 an(s) | Patient quel que soit le poids | Irritabilité, modificateur de terrain (en cas d') - Sommeil, troubles légers (du), modificateur de terrain (en cas de) | Posologie standard | 2 à 4 ml 1 fois par jour
+
+## Precautions
+
+Allaitement | Enfant de moins de 6 ans | Grossesse | Insuffisance rénale sévère
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lithium : Mécanisme d'action | En oligothérapie, le lithium, élément minéral trace a une action sur le système nerveux. | En psychiatrie, le lithium est un normothymique (régulateur de l'humeur). | En dermatologie, les mécanismes d'action du lithium dans le traitement de la dermite séborrhéique sont incomplètement connus. Les données | in vitro | montrent que le lithium présente : | Une action antifongique sur | Malassezia furfur | , qui serait liée à l'inhibition par le lithium de la production d'acides gras libres à partir des phospholipides membranaires. | Une activité anti-inflammatoire, d'une part, en diminuant la production des leucotriènes et des prostaglandines par blocage des acides gras libres, notamment l'acide arachidonique, et d'autre part, en augmentant la production de l'interleukine 10 et en diminuant l'expression des Toll Like Récepteurs TLR2 et TLR4 kératinocytaires par la voie de l'immunité innée cutanée. | Toutefois, il n'est pas clairement démontré que les modifications métaboliques observées (augmentation de L'IL 10 et diminution des TLR2 et TLR4) soient corrélées à un effet thérapeutique.
+
+## Adverse Effects
+
+CANCEROLOGIE: | - Cancer rénal du tube collecteur | DERMATOLOGIE: | - Réaction lichénoïde | DIVERS: | - Asthénie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Diarrhée | SYSTÈME NERVEUX: | - Tremblement des extrémités | UROLOGIE, NÉPHROLOGIE: | - Oncocytome rénal | - Microkyste rénal

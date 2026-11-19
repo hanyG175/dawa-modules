@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_176
+DCI: Ofloxacine
+DrugBank ID: DB01165
+DrugBank Name: Ofloxacin
+Brand Names: FLOXEDOL
+Pharmaceutical Forms: Gélule
+Dosages: 3mg/ml
+Packaging: b/01 flacon 10ml
+Registration Numbers: 185/17 D 176/18/24
+Drug Codes: 17 D 176
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication.
+
+## Pharmacodynamics
+
+Ofloxacin is a quinolone/fluoroquinolone antibiotic. Ofloxacin is bactericidal and its mode of action depends on blocking of bacterial DNA replication by binding itself to an enzyme called DNA gyrase, which allows the untwisting required to replicate one DNA double helix into two. Notably the drug has 100 times higher affinity for bacterial DNA gyrase than for mammalian. Ofloxacin is a broad-spectrum antibiotic that is active against both Gram-positive and Gram-negative bacteria.
+
+## Mechanism Of Action
+
+DNA gyrase subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor DNA topoisomerase 4 subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor DNA topoisomerase 2-alpha Inhibitor
+
+## Absorption
+
+Bioavailability of ofloxacin in the tablet formulation is approximately 98%
+
+## Metabolism
+
+Hepatic
+
+## Route Of Elimination
+
+Ofloxacin is mainly eliminated by renal excretion, where between 65% and 80% of an administered oral dose of ofloxacin is excreted unchanged via urine within 48 hours of dosing. About 4-8% of an ofloxacin dose is excreted in the feces and the drug is minimally subject to biliary excretion.
+
+## Half Life
+
+9 hours
+
+## Toxicity
+
+LD 50 =5450 mg/kg (orally in mice)

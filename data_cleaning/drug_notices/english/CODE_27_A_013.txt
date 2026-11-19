@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_A_013
+DCI: Eculizumab
+DrugBank ID: DB01257
+DrugBank Name: Eculizumab
+Brand Names: ECULIZUMAB SAIDAL | ELIZARIA | SOLIRIS
+Pharmaceutical Forms: Solution
+Dosages: 10mg/ml (300mg/30ml)
+Packaging: b/01 flacon 30ml
+Registration Numbers: 003/27 A 013/24 | 509/27 A 013/16 | 592/27 A 013/12/22
+Drug Codes: 27 A 013
+
+------------------------------------------------------------
+
+## Description
+
+Eculizumab is a monoclonal antibody that targets complement protein C5. 7 , 1 Binding to this protein prevents the activation of a complement terminal complex, which is used to treat a number of autoimmune conditions. 7 , 1 , 2 Eculizumab was granted FDA approval on 16 March 2007. 7 In Q1 2023, the EMA's Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion of two formulations of eculizumab indicated for the treatment of paroxysmal nocturnal hemoglobinuria. 9 , 10
+
+## Pharmacodynamics
+
+Eculizumab is a monoclonal antibody that prevents the activation of terminal complement in some autoimmune conditions. 7 , 1 , 2 Eculizumab has a long duration of action. 7 Patients taking this medication should be vaccinated against Neisseria meningiditis as serious meningococcal infections have occurred in the past. 7 , 2
+
+## Mechanism Of Action
+
+Complement C5 Antibody
+
+## Absorption
+
+Eculizumab is administered by intravenous infusion so the bioavailability is 100%. 7 This drug reaches a C max of 194±76µg/mL and C trough of 97±60µg/mL. 7 The AUC was calculated to be 24,467.6µg*h/mL. 4
+
+## Volume Of Distribution
+
+The volume of distribution of eculizumab is 5-8L. 7
+
+## Metabolism
+
+Eculizumab is a monoclonal antibody and is expected to be metabolized to small peptides and amino acids. 4 , 5
+
+## Route Of Elimination
+
+Monoclonal antibodies are not eliminated in the urine, and only a small amount is excreted in bile. 5 Most monoclonal antibodies are catabolized in lysosomes to amino acids. 5
+
+## Half Life
+
+The half life of eculizumab is 270-375h 7 or 272±82h. 3
+
+## Clearance
+
+Pharmacokinetic properties in healthy patients have not been determined. 4 In patients with rhematoid arthritis, there is an average clearance of 0.26mL/kg/h. 4
+
+## Toxicity
+
+Overdoses of eculizumab are unlikely as it is administered under specialist supervision. 8 In case of overdose, contact local poison control. 8

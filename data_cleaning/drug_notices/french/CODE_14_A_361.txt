@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_361
+DCI: METFORMINE CHLORHYDRATE 1 000 mg + VILDAGLIPTINE 50 mg cp (VILDAGLIPTINE/METFORMINE ALTER)
+Brand Names: VILDAMETFOR
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg/850mg
+Packaging: b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BH - INHIBITEURS DE LA DIPEPTIDYL PEPTIDASE 4 (DPP-4) | A10BH02 - VILDAGLIPTINE
+Registration Numbers: 352/14 A 361/17
+Drug Codes: 14 A 361
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | vildagliptine : 50 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | En cas d'oubli : prendre la dose dès que possible mais ne pas doubler la dose | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Diabète non insulinodépendant, traitement associé de 2e intention (du) | Posologie standard | Administrer matin et soir | 50 mg 2 fois par jour | Posologie maximale: 100 mg par jour | Dans le cas de : Association à un sulfamide hypoglycémiant | Administrer le matin | 50 mg en 1 prise par jour | Diabète insulinonécessitant, traitement associé de 2e intention (du) - Diabète non insulinodépendant, traitement de 2e intention (du) | Posologie standard | Administrer matin et soir | 50 mg 2 fois par jour | Posologie maximale: 100 mg par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Acidocétose diabétique | Antécédent de pancréatite | Association à un sulfamide hypoglycémiant | Diabète insulinodépendant | Hépatopathie sévère | Insuffisance cardiaque | Insuffisance hépatique | Insuffisance rénale modérée à sévère | Patient en hémodialyse | Sujet de moins de 18 ans | Transaminases sériques > 3 fois la limite supérieure normale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | III | III | III | Contre-indication relative
+
+## Mechanism Of Action
+
+Vildagliptine : Mécanisme d'action | La vildagliptine, par l'intermédiaire d'un effet inhibiteur puissant et sélectif de la DPP-4, amplifie l'effet incrétine sur les îlots de Langerhans. | L'administration de la vildagliptine entraîne une inhibition rapide et complète de l'activité de la DPP-4 entraînant une augmentation des taux endogènes à jeun et post-prandiaux des hormones incrétines GLP-1 ( | glucagon | -like peptide 1) et GIP ( | glucose | -dependent insulinotropic polypeptide). | En augmentant les taux endogènes de ces hormones incrétines, la vildagliptine améliore la sensibilité des cellules bêta au | glucose | , améliorant ainsi la sécrétion d'insuline | glucose | -dépendante. En augmentant les concentrations endogènes de GLP-1, la vildagliptine améliore également la sensibilité des cellules alpha au | glucose | , ce qui induit une sécrétion plus appropriée de | glucagon | , sécrétion | glucose | -dépendante. En cas d'hyperglycémie, cette amélioration de l'augmentation du rapport insuline/ | glucagon | , due à l'augmentation des taux d'hormones incrétines, entraîne une diminution de la production hépatique de | glucose | à jeun et post-prandiale, ce qui fait baisser la glycémie. | L’association de la vildagliptine à la | metformine | , ces deux antidiabétiques ayant des mécanismes d'action complémentaires, améliore le contrôle glycémique chez les patients diabétiques de type 2.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Peu fréquent) | - Bilan hépatique (anomalie) (Peu fréquent) | - Glycémie diminuée (Fréquent) | - ASAT (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Prurit (Fréquent) | - Urticaire (Peu fréquent) | - Dermatite (Fréquent) | - Hyperhidrose (Fréquent) | - Eruption cutanée (Fréquent) | - Dermatite exfoliative | - Dermatose bulleuse | - Pemphigoïde bulleuse | DIVERS: | - Frisson (Peu fréquent) | - Asthénie (Fréquent) | - Fatigue (Peu fréquent) | - Oedème périphérique (Fréquent) | HÉPATOLOGIE: | - Hépatopathie | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Angioedème (Rare) | NUTRITION, MÉTABOLISME: | - Poids (augmentation) (Peu fréquent) | OPHTALMOLOGIE: | - Vision floue (Fréquent) | ORL, STOMATOLOGIE: | - Rhinopharyngite (Très fréquent) | - Sensation de vertige (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Vascularite cutanée | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Reflux gastro-oesophagien (Fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Flatulence (Peu fréquent) | - Constipation (Fréquent) | - Vomissement (Fréquent) | - Pancréatite (Rare) | - Fonction hépatique anormale (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire (Fréquent) | - Douleur musculaire (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Tremblement (Fréquent) | SYSTÈME RESPIRATOIRE: | - Infection des voies respiratoires supérieures (Fréquent) | UROLOGIE, NÉPHROLOGIE: | - Trouble de l'érection (Peu fréquent)

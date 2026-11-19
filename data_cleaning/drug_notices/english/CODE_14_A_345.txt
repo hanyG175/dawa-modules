@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_345
+DCI: VILDAGLIPTINE 50 mg cp (VILDAGLIPTINE ACCORD)
+DrugBank ID: DB04876
+DrugBank Name: Vildagliptin
+Brand Names: GALVINE | GALVUS | GLAVIP
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg
+Packaging: b/28 | b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10B - ANTIDIABETIQUES SAUF INSULINES | A10BH - INHIBITEURS DE LA DIPEPTIDYL PEPTIDASE 4 (DPP-4) | A10BH02 - VILDAGLIPTINE
+Registration Numbers: 068/14 A 345/13 | 352/14 A 345/16 | 546/14 A 345/21
+Drug Codes: 14 A 345
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Vildagliptin works to improve glycemic control in type II diabetes mellitus by enhancing the glucose sensitivity of beta-cells (β-cells) in pancreatic islets and promoting glucose-dependent insulin secretion. Increased GLP-1 levels leads to enhanced sensitivity of alpha cells to glucose, promoting glucagon secretion. Vildagliptin causes an increase in the insulin to glucagon ratio by increasing incretin hormone levels: this results in a decrease in fasting and postprandial hepatic glucose production. Vildagliptin does not affect gastric emptying. It also has no effects on insulin secretion or blood glucose levels in individuals with normal glycemic control. 6 In clinical trials, treatment with vildagliptin 50-100 mg daily in patients with type 2 diabetes significantly improved markers of beta-cells, proinsulin to insulin ratio, and measures of beta-cell responsiveness from the frequently-sampled meal tolerance test. 6 Vildagliptin has improves glycated hemoglobin (HbA1c) and fasting plasma glucose (FPG) levels. 2
+
+## Mechanism Of Action
+
+Dipeptidyl peptidase 4 Inhibitor
+
+## Absorption
+
+In a fasting state, vildagliptin is rapidly absorbed following oral administration. Peak plasma concentrations are observed at 1.7 hours following administration. 6 Plasma concentrations of vildagliptin increase in an approximately dose-proportional manner. 2 Food delays T max to 2.5 hours and decreases C max by 19%, but has no effects on the overall exposure to the drug (AUC). Absolute bioavailability of vildagliptin is 85%. 6
+
+## Volume Of Distribution
+
+The mean volume of distribution of vildagliptin at steady-state after intravenous administration is 71 L, suggesting extravascular distribution. 6
+
+## Metabolism
+
+About 69% of orally administered vildagpliptin is eliminated via metabolism not mediated by cytochrome P450 enzymes. Based on the findings of a rat study, DPP-4 contributes partially to the hydrolysis of vildagliptin. 6 Vildagliptin is metabolized to pharmacologically inactive cyano (57%) and amide (4%) hydrolysis products in the kidney. 2 LAY 151 (M20.7) is a major inactive metabolite and a carboxylic acid that is formed via hydrolysis of the cyano moiety: it accounts for 57% of the dose. 6 Other circulating metabolites reported are an N-glucuronide (M20.2), an N-amide hydrolysis product (M15.3), two oxidation products, M21.6 and M20.9. 9 Hover over products below to view reaction partners Vildagliptin Vildagliptin M20.7 metabolite Vildagliptin M15.3 metabolite Vildagliptin M20.2 metabolite Vildagliptin M20.9 metabolite Vildagliptin M21.6 metabolite
+
+## Route Of Elimination
+
+Vildagliptin is eliminated via metabolism. Following oral administration, approximately 85% of the radiolabelled vildagliptin dose was excreted in urine and about 15% of the dose was recovered in feces. Of the recovered dose in urine, about 23% accounted for the unchanged parent compound. 6
+
+## Half Life
+
+The mean elimination half-life following intravenous administration is approximately two hours. The elimination half-life after oral administration is approximately three hours. 6
+
+## Clearance
+
+After intravenous administration to healthy subjects, the total plasma and renal clearance of vildagliptin were 41 and 13 L/h, respectively. 6
+
+## Toxicity
+
+The oral Lowest published toxic dose (TDLO) is 0.3 mg/kg in rats and 1 mg/kg in mice. 7 There is limited information regarding overdose with vildagliptin. In one study, patients experienced muscle pain, mild and transient paresthesia, fever, edema, and a transient increase in lipase levels at a dose of 400 mg. At 600 mg, one subject experienced edema of the feet and hands and increases in creatine phosphokinase (CPK), aspartate aminotransferase (AST), C-reactive protein (CRP) and myoglobin levels. Supportive management is recommended in case of an overdose. There is no known antidote, and vildagliptin and its major metabolite cannot be removed via hemodialysis. 6

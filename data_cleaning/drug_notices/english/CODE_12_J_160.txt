@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_160
+DCI: Eptacog Alfa (Active)
+DrugBank ID: DB00036
+DrugBank Name: Coagulation factor VIIa Recombinant Human
+Brand Names: ARYOSEVEN RT | NOVOSEVEN
+Pharmaceutical Forms: Poudre Lyoph. Et Solv. P. Sol. Inj.
+Dosages: 1mg/fl. de pdre. (50kui/fl. de pdre.)
+Packaging: b/1fl. de pdre. + 1fl. de solvt.
+Registration Numbers: 069/12 J 160/13 | 596/12 J 160/24
+Drug Codes: 12 J 160
+
+------------------------------------------------------------
+
+## Description
+
+Recombinant human coagulation Factor VIIa (rFVIIa), intended for promoting hemostasis by activating the extrinsic pathway of the coagulation cascade. NovoSeven is a vitamin K-dependent glycoprotein consisting of 406 amino acid residues. Cloned and expressed in hamster kidney cells, the protein is catalytically active in a two-chain form.
+
+## Pharmacodynamics
+
+Used in the treatment of bleeding episodes in hemophilia A or B. NovoSeven is recombinant Factor VIIa and, when complexed with tissue factor can activate coagulation Factor X to Factor Xa, as well as coagulation Factor IX to Factor IXa. Factor Xa, in complex with other factors, then converts prothrombin to thrombin, which leads to the formation of a hemostatic plug by converting fibrinogen to fibrin and thereby inducing local clotting.
+
+## Mechanism Of Action
+
+Coagulation factor X Activator Tissue factor Binder
+
+## Volume Of Distribution
+
+121 ± 30 mL/kg [adults] 153 ± 29 mL/kg [children] 280 to 290 mL/kg [congenital Factor VII deficiency]
+
+## Clearance
+
+33 - 37 mL/h x kg [healthy] 1375 +/- 396 mL/hr [severe hemophilia A male children] 57.3 +/- 9.5 mL/hr/kg [severe hemophilia A male children] 2767 +/- 385 mL/hr [severe hemophilia A men] 37.6 +/- 13.1 mL/hr/kg [severe hemophilia A men]

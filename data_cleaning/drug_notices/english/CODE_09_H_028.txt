@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_028
+DCI: Hydrocortisone
+DrugBank ID: DB00741
+DrugBank Name: Hydrocortisone
+Brand Names: HYDROCORTISONE IVAL
+Pharmaceutical Forms: Comp Sec.
+Dosages: 10MG
+Packaging: B/20
+Laboratories: PHARMA IVAL
+Countries: ALGERIE
+Reference Tariff (DA): 112 DA
+Prescription List: Liste I
+ATC Classification: Classe pharmacothérapeutique : glucocorticoïdes, code ATC : H02AB09 | Hormone physiologique du cortex surrénal.
+Registration Numbers: 304/09 H 028/04/25 | 376/09 H 028/99/16
+Drug Codes: 09 H 028
+
+------------------------------------------------------------
+
+## Description
+
+Hydrocortisone, or cortisol, is a glucocorticoid secreted by the adrenal cortex. 7 Hydrocortisone is used to treat immune, inflammatory, and neoplastic conditions. 14 , 15 , 16 , 17 , 18 , 19 It was discovered in the 1930s by Edward Kendall and named Compound F, or 17-hydroxycorticosterone. 9 Hydrocortisone was granted FDA approval on 5 August 1952. 20
+
+## Pharmacodynamics
+
+Hydrocortisone binds to the glucocorticoid receptor leading to downstream effects such as inhibition of phospholipase A2, NF-kappa B, other inflammatory transcription factors, and the promotion of anti-inflammatory genes. 10 Hydrocortisone has a wide therapeutic index 8 and a moderate duration of action. 1 , 6 Patients should stop taking the medication if irritation or sensitization occurs. 14 , 15 , 16 , 17 , 18 , 19
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist Annexin A1 Agonist
+
+## Absorption
+
+The pharmacokinetics of hydrocortisone can vary by 10 times from patient to patient. 1 Following the oral administration of hydrocortisone at a dose of 0.2-0.3 mg/kg/day, the mean C max and AUC of plasma free cortisol were 32.69 nmol/L and 90.63 h x nmol/L, respectively. 1 The mean C max and AUC of plasma total cortisol were 514.47 nmol/L and 1743.93 h x nmol/L, respectively. 1 Following the dose of 0.4-0.6 mg/kg/day, the mean C max and AUC of plasma free cortisol were 70.81 nmol/L and 199.11 h x nmol/L. 1 The mean C max and AUC of plasma total cortisol were 754.94 nmol/L and 2533.02 h x nmol/L, respectively. 1 Topical hydrocortisone cream is 4-19% bioavailable 3 with a T max of 24h. 2 Hydrocortisone retention enemas have a bioavailability of 0.810 for slow absorbers and 0.502 for rapid absorbers. 4 Slow absorbers take up hydrocortisone at a rate of 0.361±0.255/h while fast absorbers take up hydrocortisone at a rate of 1.05±0.255/h. 4 A 20mg IV dose of hydrocortisone has an AUC of 1163±277ng*h/mL. 6
+
+## Volume Of Distribution
+
+Total hydrocortisone has a volume of distribution of 39.82L, while the free fraction has a volume of distribution of 474.38L. 1
+
+## Metabolism
+
+Hydrocortisone is metabolised to 6-beta hydrocortisol via CYP3A, 5-beta tetrahydrocortisol via 3-oxo-5-beta-steroid 4-dehydrogenase, 5-alpha tetrahydrocortisol via 3-oxo-5-alpha-steroid 4-dehydrogenase 2, cortisone via Corticosteroid 11-beta-dehydrogenase isozyme 1 and Corticosteroid 11-beta-dehydrogenase isozyme 2, and glucuronide products. 13 Cortisone is further metabolized to tetrahydrocortisone and dihydrocortisol. 13 Hover over products below to view reaction partners Hydrocortisone 6-beta-hydrocortisol 5-beta Tetrahydrocortisol 5-alpha Tetrahydrocortisol Cortisone Dihydrocortisol Tetrahydrocortisone Tetrahydrocortisol Glucuronide 1 + Tetrahydrocortisol Glucuronide 2 + Tetrahydrocortisone Glucuronide 1 + Tetrahydrocortisone Glucuronide 2
+
+## Route Of Elimination
+
+Corticosteroids are eliminated predominantly in the urine. 12 However, data regarding the exact proportion is not readily available. 7
+
+## Half Life
+
+Total hydrocortisone via the oral route has a half life of 2.15h while the free fraction has a half life of 1.39h. 1 A 20mg IV dose of hydrocortisone has a terminal half life of 1.9±0.4h. 6
+
+## Clearance
+
+Total hydrocortisone by the oral route has a mean clearance of 12.85L/h, while the free fraction has a mean clearance of 235.78L/h. 1 A 20mg IV dose of hydrocortisone has a clearance of 18.2±4.2L/h. 6
+
+## Toxicity
+
+Data regarding acute overdoses of glucocorticoids are rare. 14 , 15 , 16 , 17 , 18 , 19 Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency. 8 Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment. 8

@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_072
+DCI: Levetiracetam
+DrugBank ID: DB01202
+DrugBank Name: Levetiracetam
+Brand Names: LEVETIRACETAM BEKER
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 250MG
+Packaging: B/60
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 1772 DA
+PPA (DA): 1771.80 DA
+Prescription List: Liste I
+ATC Classification: 15A072
+Registration Numbers: 001/15 A 072/13 | 035/15 A 072/16/25 | 046/15 A 072/07 | 149/15 A 072/18 | 173/15 A 072/20 | 177/15 A 072/20 | 263/15 A 072/23 | 293/15 A 072/15/22 | 309/15 A 072/14/23 | 352/15 A 072/13/23 | 447/15 A 072/16/24 | 468/15 A 072/15 | 492/15 A 072/20/25
+Drug Codes: 15 A 072
+
+------------------------------------------------------------
+
+## Description
+
+Levetiracetam is a drug within the pyrrolidine class that is used to treat various types of seizures stemming from epileptic disorders. It was first approved for use in the United States in 1999 and is structurally and mechanistically unrelated to other anti-epileptic drugs (AEDs). 11 , 13 , 15 Levetiracetam possesses a wide therapeutic index 15 , 9 and little-to-no potential to produce, or be subject to, pharmacokinetic interactions 11 , 13 , 15 - these characteristics make it a desirable choice over other AEDs, a class of drugs notorious for having generally narrow therapeutic indexes and a propensity for involvement in drug interactions. 10
+
+## Pharmacodynamics
+
+Levetiracetam appears to prevent seizure activity via the selective inhibition of hypersynchronized epileptiform burst firing without affecting normal neuronal transmission, though the exact mechanism through which this occurs is unclear. 11 , 15 The therapeutic index of levetiracetam is wide, 15 , 9 making it relatively unique amongst other anti-epileptic medications. Anti-epileptic drugs, including levetiracetam, may increase the risk of suicidal ideation or behaviour - patients taking levetiracetam should be monitored for the emergence or worsening of depressive symptoms, suicidal ideation, and behavioural abnormalities. 11 , 13 , 15
+
+## Mechanism Of Action
+
+Voltage-dependent N-type calcium channel subunit alpha-1B Inhibitor Synaptic vesicle glycoprotein 2A Agonist
+
+## Absorption
+
+Levetiracetam is rapidly and nearly completely absorbed following oral administration, with a reported absolute oral bioavailability of essentially 100%. 15 , 11 , 13 T max is approximately 1.3 hours after dosing, and C max is 31 μg/mL following a single 1000mg dose and 43 μg/mL following repeated dosing. 13 , 15 Co-administration of levetiracetam with food delays T max by approximately 1.5 hours and decreases C max by 20%. 11 , 13
+
+## Volume Of Distribution
+
+The volume of distribution of levetiracetam is approximately 0.5 to 0.7 L/kg. 13 , 15
+
+## Metabolism
+
+Levetiracetam is minimally metabolized within the body - the major metabolic pathway appears to be the enzymatic hydrolysis of its acetamide group which produces an inactive carboxylic acid metabolite, L057, which accounts for approximately 24% of the total administered dose. 11 , 13 The specific enzyme(s) responsible for this reaction are unclear, but this pathway is known to be independent of hepatic CYP enzymes and has been proposed to be driven primarily by type B esterases in the blood and other tissues. 1 Two minor metabolites involving modifications to the pyrrolidone ring have been identified, one involving hydroxylation of the ring (constituting 1.6% of the total dose) and the other involving opening of the ring structure (constituting 0.9% of the total dose). 15 , 11 , 13 Hover over products below to view reaction partners Levetiracetam Levetiracetam carboxylic acid metabolite (L057)
+
+## Route Of Elimination
+
+Approximately 66% of the administered dose of levetiracetam is excreted in the urine as unchanged drug, 11 , 13 while only 0.3% of the total dose is excreted via the feces. 15 The primary inactive metabolite of levetiracetam, L057, is also found in the urine as approximately 24% of the administered dose. 15
+
+## Half Life
+
+The plasma half-life of levetiracetam is 6-8 hours and is not affected by dose or repeat administration. Half-life is increased in the elderly (by about 40%) 15 and those with renal impairment. 11 , 13
+
+## Clearance
+
+The total plasma clearance of levetiracetam is 0.96 mL/min/kg, with renal clearance comprising 0.6 mL/min/kg. 11 The primary inactive metabolite of levetiracetam, L057, has a renal clearance of 4 mL/min/kg. Given the relatively high proportion of drug undergoing renal clearance, overall clearance of levetiracetam is reduced in patients with renal impairment. 11 , 13
+
+## Toxicity
+
+The oral TDLO of levetiracetam in humans is 10 mg/kg. 14 Symptoms of levetiracetam overdose are consistent with its adverse effect profile and may include agitation, aggression, somnolence, decreased level of consciousness, respiratory depression, or coma. 11 , 13 There is no antidote for levetiracetam overdose, therefore management should involve general supportive measures and symptomatic treatment. Hemodialysis results in significant clearance of plasma levetiracetam (approximately 50% within 4 hours) and should be considered in cases of overdose as indicated by the patient's status. 11 , 13

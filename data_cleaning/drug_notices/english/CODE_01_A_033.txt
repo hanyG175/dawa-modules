@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_033
+DCI: Loratadine
+DrugBank ID: DB00455
+DrugBank Name: Loratadine
+Brand Names: LORATADINE BEKER | LORATADINE NOVAGENERICS | LORATAN | LORATINE | LUTEDINE | NEOTADINE
+Pharmaceutical Forms: Comp. Sec. | Comprimé
+Dosages: 10MG | 10mg
+Packaging: B/30 | b/10 et b/20 | b/20 | b/30
+Laboratories: BEKER Laboratoires | LABORATOIRES URGO HEALTHCARE | 42 RUE DE LONGVIC | 21300 CHENOVE
+Countries: ALGERIE
+Reference Tariff (DA): 120.00 DA
+PPA (DA): 180.00 DA
+Prescription List: Liste II
+ATC Classification: R06AX13
+Registration Numbers: 003/01 A 033/03/24 | 035/01 A 033/98/25 | 055/01 A 033/01/23 | 149/01 A 033/13 | 235/01 A 033/09/24 | 242/01 A 033/12 | 268/01 A 033/05/23 | 293/01 A 033/04/12 | 418/01 A 033/09/17 | 447/01 A 033/14/25 | 528/01 A 033/18 | 608/01 A 033/02/23
+Drug Codes: 01 A 033
+
+------------------------------------------------------------
+
+## Description
+
+Loratadine is a second generation antihistamine used to manage symptoms of allergic rhinitis. 5 A lack of sedative and CNS adverse effects make loratadine, along with other second generation antihistamines, preferable over their 1st generation counterparts in many clinical situations. 7
+
+## Pharmacodynamics
+
+Like other 2nd generation antihistamines, loratadine is selective for peripheral H1 receptors. 9 Loratadine does not penetrate effectively into the central nervous system and has poor affinity for CNS H1-receptors. 9 These qualities result in a lack of CNS depressant effects such as drowsiness, sedation, and impaired psychomotor function. 9
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Loratadine is rapidly absorbed and achieves peak plasma concentration in 1-2 hours, while it's main metabolite achieves peak plasma concentration in 3-4 hours. 6 In the rapid dissolve formulation, the pharmacokinetic parameters of loratadine are as follows 17 : Cmax = 2.56 ng/ml, Tmax = 1.14 hrs, AUC = 6.14 ng x hr/ml. In the rapid dissolve formulation, the pharmacokinetic parameters of descarboethoxyloratadine are as follows 17 : Cmax = 3.72 ng/ml, Tmax = 1.97 hr, AUC = 49.1 ng x hr/ml. In the conventional formulation, the pharmacokinetic parameters of loratadine are as follows 17 : Cmax = 2.11 ng/ml, Tmax = 1.00 hr, AUC = 4.64 ng x hr/ml In the conventional formulation, the pharmacokinetic parameters of descarboethoxyloratadine are as follows 17 : Cmax = 3.66 ng/ml, Tmax = 1.97 hr, AUC = 48.4 ng x hr/ml
+
+## Volume Of Distribution
+
+The volume of distribution of loratadine is 120 L/Kg. 18
+
+## Metabolism
+
+Loratadine undergoes extensive first pass metabolism in the liver and is primarily metabolized by CYP3A4, CYP2D6, CYP1A1 and CYP2C19. Less involved CYP enzymes include CYP1A2, CYP2B6, CYP2C8, CYP2C9 and CYP3A5. 10 11 CYP3A4 and CYP2D6 are mainly responsible for metabolizing loratadine to descarboethoxyloratadine. 11 This primary metabolite is 4 times more pharmacologically active than loratadine. 6 In addition, a study demonstrates that descarboethoxyloratadine is first glucuronidated by UGT2B10, then hydroxylated by CYP2C8 to form 3-hydroxydesloratadine. 15 Further glucuronidation of 3-hydroxydesloratadine facilitates excretion. 16 Hover over products below to view reaction partners Loratadine Descarboethoxyloratadine hydroxylated metabolite, desloratadine desloratadine glucuronide 3-hydroxydesloratadine 3-hydroxydesloratadine glucuronide hydroxylated metabolite, loratadine
+
+## Route Of Elimination
+
+Over a 10 day period, 40% of loratadine is excreted in the urine, and 42% is eliminated in the faeces. 17
+
+## Half Life
+
+The elimination half life is approximately 10 hours for loratadine and 20 hours for descarboethoxyloratadine. 6
+
+## Clearance
+
+The clearance of loratadine after single oral doses of 20 mg and 40 mg are 12 L/h/kg and 9 L/h/kg respectively. 9 P-glycoprotein is involved in the clearance of many 2nd generation antihistamines, including loratadine, from the central nervous system. 1st generation antihistamines are not cleared by P-glycoprotein, which may help explain why they have a different central nervous system adverse effect profile compared to their 2nd generation counterparts. 18 13 It appears that an antihistamine with higher affinity for p-glycoprotein will have a lower incidence of CNS adverse effects. 14
+
+## Toxicity
+
+Second generation antihistamines such as loratadine have very few adverse effects; however, insomnia, headache, fatigue, drowsiness and rash have been reported. 7 Symptoms of loratadine overdose include gastrointestinal side effects, agitation, drowsiness, tachycardia, and headache. 7 It is advised to obtain an ECG in the event of loratadine overdose. 7

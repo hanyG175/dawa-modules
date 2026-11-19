@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_E_015
+DCI: Framycetine**/Hydrocortisone (Sous Forme De Framycetine Sulfate/Hydrocortisone)
+DrugBank ID: DB00452
+DrugBank Name: Framycetin
+Brand Names: NIFRAMYCINE HYDROCORTISONE
+Pharmaceutical Forms: Solution
+Dosages: 1.25g**/0.1g/100ml
+Packaging: flacon./15ml
+Registration Numbers: 079/22 E 015/08/19
+Drug Codes: 22 E 015
+
+------------------------------------------------------------
+
+## Description
+
+A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed)
+
+## Pharmacodynamics
+
+Framycetin is used for the treatment of bacterial eye infections such as conjunctivitis. Framycetin is an antibiotic. It is not active against fungi, viruses and most kinds of anaerobic bacteria. Framycetin works by binding to the bacterial 30S ribosomal subunit, causing misreading of t-RNA, leaving the bacterium unable to synthesize proteins vital to its growth. Framycetin is useful primarily in infections involving aerobic bacteria bacteria.
+
+## Mechanism Of Action
+
+16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor Small ribosomal subunit protein uS12 (Escherichia coli (strain K12)) Inhibitor

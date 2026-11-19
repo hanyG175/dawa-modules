@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_F_330
+DCI: Secnidazole Anhydre
+DrugBank ID: DB12834
+DrugBank Name: Secnidazole
+Brand Names: SECNIDOLEX
+Pharmaceutical Forms: Microgranule En Sachetet
+Dosages: 2g/sachet-dose
+Packaging: b/01
+Registration Numbers: 289/13 F 330/15/22
+Drug Codes: 13 F 330
+
+------------------------------------------------------------
+
+## Description
+
+Secnidazole is a second-generation 5-nitroimidazole antimicrobial agent. It is structurally related to other 5-nitroimidazoles, including Metronidazole and Tinidazole , but displays improved oral absorption and a longer terminal elimination half-life than other drugs in this class. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria as well as protozoa. 1 Once it enters bacteria and parasites, secnidazole is activated by bacterial or parasitic enzymes to form a radical anion, thereby damaging and killing the target pathogen. 3 Secnidazole has been available in many other countries in Europe, Asia, South America, and Africa for decades. 3 , 4 In September 2017, FDA approved secnidazole under the market name Solosec for the treatment of trichomoniasis and bacterial vaginosis. 6
+
+## Pharmacodynamics
+
+Secnidazole is a broad-spectrum nitroimidazole antimicrobial drug. 3 It is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. According to in vitro studies, secnidazole mediates antibacterial effects against Bacteroides fragilis , Trichomonas vaginalis , Entamoeba histolytica , and Giardia lamblia . 1 Secnidazole may prolong the QTc interval, but not to a clinically significant extent. 6
+
+## Mechanism Of Action
+
+Like other 5-nitroimidazole antimicrobials, the antimicrobial and antiprotozoal activity of secnidazole is accounted for by the nitro group in the
+imidazole ring. 4 Upon entering the target pathogen, the nitro group of secnidazole is reduced by bacterial or parasitic nitroreductase enzymes, producing radical anions and reactive intermediates. Radical anions and reactive intermediates cause the depletion of thiols, DNA helix damage, disruption of bacterial or parasitic protein synthesis and replication, and ultimately, cell death of susceptible isolates of Gram positive bacteria, Gram negative bacteria and T. vaginalis . 4 , 6
+
+## Absorption
+
+Secnidazole is rapidly and completely absorbed after oral administration. 1 Following administration of a single oral dose of 2 g in healthy adult female subjects, the mean (SD) C max was 45.4 (7.64) mcg/mL and mean (SD) systemic exposure (AUC 0-inf ) was 1331.6 (230.16) mcg x hr/mL. T max ranged from three to four hours. Food has negligible effects on drug absorption and systemic exposure. 6
+
+## Volume Of Distribution
+
+The apparent volume of distribution of secnidazole is approximately 42 L. 6
+
+## Metabolism
+
+The metabolism of secnidazole has not been fully characterized. According to in vitro studies, secnidazole is metabolized by hepatic CYP450 enzymes, with less than or equal to 1% of the parent drug converted to metabolites. 6 Secnidazole was found to be metabolized by CYP3A4 and CYP3A5 but to a limited extent. 2 Secnidazole most likely undergoes oxidation. A hydroxymethyl metabolite and glucuronide conjugates of secnidazole have been detected in urine. 1
+
+## Route Of Elimination
+
+Following oral administration of a 2 g oral dose of secnidazole, approximately 15% of the drug was excreted as unchanged secnidazole in the urine. 6
+
+## Half Life
+
+The plasma elimination half-life for secnidazole is approximately 17 hours. 6
+
+## Clearance
+
+The total body clearance of secnidazole is approximately 25 mL/min. The renal clearance is approximately 3.9 mL/min. 6
+
+## Toxicity
+
+There is no information available regarding the LD 50 and overdose of secnidazole.

@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_E_035
+DCI: MEBEVERINE CHLORHYDRATE 100 mg gél (MEBEVERINE ZENTIVA)
+DrugBank ID: DB12554
+DrugBank Name: Mebeverine
+Brand Names: DESPAVINE | DUSPAVERINE | MEBEVERINE-SAIDAL | SPALVERINE | SPASCOL
+Pharmaceutical Forms: Comprimé | Gélule | Microgranule En Gellule | Microgranules En Gelule
+Dosages: 100mg
+Packaging: b/30
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A03 - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03A - MEDICAMENTS DES DESORDRES FONCTIONNELS GASTRO-INTESTINAUX | A03AA - ANTICHOLINERGIQUES DE SYNTHESE : ESTERS AVEC GROUPEMENT AMINE TERTIAIRE | A03AA04 - MEBEVERINE
+Registration Numbers: 003/10 E 035/09/25 | 065/10 E 035/14 | 235/10 E 035/09/24 | 289/10 E 035/12/23 | 418/10 E 035/18/24
+Drug Codes: 10 E 035
+
+------------------------------------------------------------
+
+## Description
+
+Mebeverine has been investigated for the treatment of Irritable Bowel Syndrome and Post-cholecystectomy Gastrointestinal Spasms.
+
+## Mechanism Of Action
+
+Target Actions Organism U Muscarinic acetylcholine receptor M5 antagonist Humans

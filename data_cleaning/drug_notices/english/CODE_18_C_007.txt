@@ -1,0 +1,49 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_C_007
+DCI: BETAHISTINE DICHLORHYDRATE 8 mg cp (BETAHISTINE ARROW)
+DrugBank ID: DB06698
+DrugBank Name: Betahistine
+Brand Names: ANATAX | MEVERC | SERC
+Pharmaceutical Forms: Comprimé
+Dosages: 8mg
+Packaging: b/100 | b/20 | b/60
+ATC Classification: N - SYSTEME NERVEUX | N07 - AUTRES MEDICAMENTS DU SYSTEME NERVEUX | N07C - ANTIVERTIGINEUX | N07CA - ANTIVERTIGINEUX | N07CA01 - BETAHISTINE
+Registration Numbers: 077/18 C 007/07/16 | 352/18 C 007/19 | 450/18 C 007/97/19
+Drug Codes: 18 C 007
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Through its actions on the histamine receptors, betahistine provides relief from vertigo associated with Ménière's disease. 3 , 5 , 11
+
+## Mechanism Of Action
+
+Histamine H1 receptor Agonist Histamine H3 receptor Antagonist
+
+## Absorption
+
+When given orally, betahistine is rapidly and almost completely absorbed from the gastrointestinal tract. 6 , 11 In the fasted state, Cmax is achieved within 1 hour of administration; in the fed state, Cmax is delayed, but the total drug absorption is similar. Food, therefore, has little effect on the absorption of betahistine. 9
+
+## Volume Of Distribution
+
+In a pharmacokinetic study of rats, betahistine was found to be distributed throughout the body. 14 Human data for betahistine's volume of distribution is not readily available. 6 , 9 , 11 , 14
+
+## Metabolism
+
+Betahistine is metabolized primarily into the inactive metabolite 2-pyridylacetic acid. There is both clinical and in vitro evidence that monoamine oxidase enzymes are responsible for the metabolism of betahistine. 10 , 8 , 7 , 11 Hover over products below to view reaction partners Betahistine 2-pyridylacetic acid
+
+## Route Of Elimination
+
+Betahistine is mainly excreted in the urine; with approximately 85-91% being detected in urine samples within 24 hours of administration. 6 , 9 , 11
+
+## Half Life
+
+The half-life of betahistine is 3-4 hours. 6 , 9 , 11
+
+## Toxicity
+
+Symptoms of an overdose with betahistine ( 640 mg), especially during intentional overdoses and combination with other drugs. In the case of an overdose with betahistine, provide supportive therapy, and contact the local poison control center for further management. 11

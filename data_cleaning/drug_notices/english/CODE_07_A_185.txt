@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_A_185
+DCI: Dexpanthenol
+DrugBank ID: DB09357
+DrugBank Name: Dexpanthenol
+Brand Names: APAISA BEBE
+Pharmaceutical Forms: Pommademade
+Dosages: 0.05
+Packaging: tube/30g
+Laboratories: ARROW GENERIQUES | 26 avenue tony garnier | 69007 lyon
+ATC Classification: Classe pharmacothérapeutique : PROTECTEUR CUTANE, Code ATC : D03AX03. | (D : dermatologie). | Dexpanthénol : constituant du coenzyme A.
+Registration Numbers: 263/07 A 185/19
+Drug Codes: 07 A 185
+
+------------------------------------------------------------
+
+## Description
+
+Dexpanthenol is an alcohol derivative of pantothenic acid, a component of the B complex vitamins and an essential component of a normally functioning epithelium. Dexpanthenol is enzymatically cleaved to form pantothenic acid, which is an essential component of Coenzyme A, which acts as a cofactor in many enzymatic reactions that are important for protein metabolism in the epithelium 2 . Due to its good penetration and high local concentrations, dexpanthanol is used in many topical products, such as ointments and lotions for treatment of dermatological conditions to relieve itching or promote healing. Dermatological effects of the topical use of dexpanthenol include increased fibroblast proliferation and accelerated re-epithelialization in wound healing. Furthermore, it acts as a topical protectant, moisturizer, and has demonstrated anti-inflammatory properties 3 . Dexpanthenol is also available as a racemic mixture containing both the dextrorotatory form (dexpanthenol) and the levorotatory form (levopanthenol) as Panthenol . While pantothenic acid is optically active, only the dextrorotatory form (dexpanthenol) is biologically active.
+
+## Pharmacodynamics
+
+Pantothenic acid is a precursor of coenzyme A, which serves as a cofactor for a variety of enzyme-catalyzed reactions involving transfer of acetyl groups. The final step in the synthesis of acetylcholine consists of the choline acetylase transfer of acetyl group from acetylcoenzyme A to choline. Acetylcholine is the neurohumoral transmitter in the parasympathetic system and as such maintains the normal functions of the intestine. Decrease in acetylcholine content would result in decreased peristalsis and in extreme cases adynamic ileus.
+
+## Mechanism Of Action
+
+Dexpanthenol is an alcohol derivative of pantothenic acid, a component of the B complex vitamins and an essential component of a normally functioning epithelium. Dexpanthenol is enzymatically cleaved to form pantothenic acid, which is an essential component of Coenzyme A, which acts as a cofactor in many enzymatic reactions that are important for protein metabolism in the epithelium 2 . Dermatological effects of the topical use of dexpanthenol include increased fibroblast proliferation and accelerated re-epithelialization in wound healing. Furthermore, it acts as a topical protectant, moisturizer, and has demonstrated anti-inflammatory properties 3 .
+
+## Absorption
+
+Dexpanthenol is soluble in water and alcohol, although insoluble in fats and oil based substances. With the appropriate vehicle, Dexpanthenol is easily penetrated into the skin. Rate of penetration and absorption is reduced when Dexpanthenol is administered as an oil/water formula.
+
+## Volume Of Distribution
+
+Dexpanthenol is readily converted to pantothenic acid which is widely distributed into body tissues, mainly as coenzyme A. Highest concentrations are found in the liver, adrenal glands, heart, and kidneys.
+
+## Metabolism
+
+Dexpanthenol is readily converted to pantothenic acid which is widely distributed into body tissues, mainly as coenzyme A. Hover over products below to view reaction partners Dexpanthenol Pantothenic acid
+
+## Route Of Elimination
+
+Milk of nursing mothers receiving a normal diet contains about 2 ug of pantothenic acid per mL. About 70% of an oral dose of pantothenic acid is excreted unchanged in urine and about 30% in feces.
+
+## Half Life
+
+Half life have not been reported
+
+## Toxicity
+
+Mouse LD50 : 9gm/kg (Intraperitoneal)
+Mouse: LD50 7gm/kg (Intravenous)
+Mouse: LD50 15gm/kg (Oral)
+Rabbit LD50 4gm/kg (Oral)

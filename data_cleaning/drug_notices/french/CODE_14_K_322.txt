@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_K_322
+DCI: CALCIUM EDETATE DE SODIUM 50 mg/ml sol inj (CALCIUM EDETATE DE SODIUM SERB)
+Brand Names: OLICLINOMEL N4- 550E
+Pharmaceutical Forms: Emulsion Perf. Iv
+Dosages: 5.5%/20%/10%
+Packaging: poche/2000ml (3compart.800ml/800ml/400ml)
+ATC Classification: V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AB - ANTIDOTES | V03AB03 - EDETATES
+Registration Numbers: 427/14 K 322/08
+Drug Codes: 14 K 322
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | calcium édétate de sodium : 50 mg | Modalités d'administration | Voie intraveineuse (en perfusion) | A diluer avant administration | Administrer par perfusion IV lente | Traitement à renouveler après 7 jours | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Saturnisme | Posologie standard | 500 à 1 000 mg 1 fois par jour | Pendant 5 jours
+
+## Precautions
+
+Allaitement | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Adverse Effects
+
+DIVERS: | - Fièvre (Exceptionnel) | ORL, STOMATOLOGIE: | - Congestion nasale (Exceptionnel) | SYSTÈME CARDIOVASCULAIRE: | - Hypotension artérielle transitoire (Exceptionnel) | - Malaise (Exceptionnel) | SYSTÈME DIGESTIF: | - Vomissement (Exceptionnel) | SYSTÈME NERVEUX: | - Céphalée (Exceptionnel) | UROLOGIE, NÉPHROLOGIE: | - Nécrose tubulaire aiguë

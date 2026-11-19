@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_046
+DCI: IPRATROPIUM BROMURE 0,25 mg/ml sol p inhal p nébulis (IPRATROPIUM SANDOZ Unidose Enf)
+DrugBank ID: DB00332
+DrugBank Name: Ipratropium
+Brand Names: ATROVENT ENF.
+Pharmaceutical Forms: Sol.Inhal.Par Nebuliseur
+Dosages: 0.25mg/2ml
+Packaging: b/10 recipients unidoses de 2ml
+Registration Numbers: 152/20 A 046/99/16
+Drug Codes: 20 A 046
+
+------------------------------------------------------------
+
+## Description
+
+Ipratropium is a quaternary ammonium derivative of atropine 4 that acts as an anticholinergic agent. 1 It is commonly administered through inhalation which allows producing a local effect without presenting a significant systemic absorption. 4 Ipratropium as a therapeutic agent was developed by Boehringer Ingelheim and its first monotherapy product was FDA approved in 1986, while the combination product of ipratropium and albuterol was approved in 1996. 12 , 11
+
+## Pharmacodynamics
+
+Ipratropium is a short-acting agent that inhibits the parasympathetic nervous system at the level of the airway which then produces bronchodilatation. The effect of this agent starts after 1-2 hours and it is known to last only from 4 to 6 hours. 3 As part of the effect, ipratropium relaxes the bronchial airways which reverse the narrowing that accounts for wheezy breathing, chest tightness, cough and abnormal gas exchange. 6 In clinical trials where ipratropium was used in the initial management of status asthmaticus, it was demonstrated a clear benefit in pulmonary function in children and adults. However, the continuous use of ipratropium after an acute asthmatic attack is not proven to be significantly advantageous 1 nor the prophylactic administration of this agent. 8
+
+## Mechanism Of Action
+
+Muscarinic acetylcholine receptor M3 Antagonist Muscarinic acetylcholine receptor M1 Antagonist Muscarinic acetylcholine receptor M2 Antagonist
+
+## Absorption
+
+Ipratropium is a topically active but poorly absorbed agent. 7 The lack of absorption potential in the mucosal surfaces is associated with the presence of a charge in the 5-valent nitrogen. The molecule itself presents very large topic effectiveness however, it does not produce detectable blood levels nor systemic effects. 8 Serum levels of ipratropium after oral or inhaled administration are very low, corresponding to only 1-2% of the administered dose. These low levels peak after 1-2 hours and it presents a low bioavailability of 2%. 8
+
+## Volume Of Distribution
+
+Ipratropium has a volume of distributions of 4.6 L/kg and hence, it is known to be highly distributed in the tissues. 16
+
+## Metabolism
+
+Ipratropium is metabolized in the gastrointestinal tract by the activity of the cytochrome P-450 isoenzymes. 3 From the orally administered dose, about 90% of the dose is excreted unchanged. The absorbed portion is partially metabolized by ester hydrolysis to inactive metabolites, tropic acid and tropane. 9 Hover over products below to view reaction partners Ipratropium N-isopropylnortropium methobromide N-isopropylnortropine-ester methobromide + Phenylacetic acid N-isopropylnortropium bromide
+
+## Route Of Elimination
+
+About 80-100% of the administered dose of ipratropium is excreted in the urine leaving less than 20% of the dose to be eliminated through the feces. 3 From the urine eliminated portion, almost all the drug is found unchanged. 8 However, when ipratropium is orally administered, due to its low absorption, most of the dose is recovered in the feces with a very minimal amount found in the urine. 8
+
+## Half Life
+
+Ipratropium presents a short half-life of about 1.6 hours. 3
+
+## Clearance
+
+The average clearance rate of ipratropium is of 2.3 L/min with a renal clearance of 0.9 L/min. 16
+
+## Toxicity
+
+The reported LD50 in mice after oral administration of ipratropium is 1500 mg/kg. MSDS However, overdosage is not very likely due to the poor absorption of ipratropium. Label Ipratropium was not shown to present carcinogenesis, teratogenesis not mutagenesis potential and it did not present effects on fertility. The only effect after high administration of ipratropium was a reduction in the conception rate. Label

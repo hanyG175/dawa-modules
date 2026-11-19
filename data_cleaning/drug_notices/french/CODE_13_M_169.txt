@@ -1,0 +1,18 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_M_169
+DCI: SULFAMETHOXAZOLE 800 mg + TRIMETHOPRIME 160 mg cp (COTRIMOXAZOLE TEVA)
+Brand Names: COTRIMOXAL FORTE
+Pharmaceutical Forms: Comprimé
+Dosages: 800mg/160mg
+Packaging: b/20
+Registration Numbers: 039/13 M 169/12/24
+Drug Codes: 13 M 169
+
+------------------------------------------------------------
+
+## Mechanism Of Action
+
+Sulfaméthoxazole : Mécanisme d'action | Le sulfaméthoxazole est un anti-infectieux, de la famille des sulfamides, qui agit en synergie avec le | triméthoprime | dans des proportions incluses entre 100/1 et 10/1. | Espèces sensibles : | aérobies à Gram + : corynébactéries, entérocoques, | listeria | , | Staphylococcus aureus | , | staphylococcus | à coagulase négative, | streptococcus | , | Streptococcus pneumoniae | ; | aérobies à Gram - : | Citrobacter freundii | , | enterobacter | , | Escherichia coli | , | haemophilus | , | klebsiella | , | morganella | , | pasteurella | , | proteus | , | salmonella | , | shigella | ; | anaérobies : | peptostreptococcus | ; | autres : | Mycobacterium | (sauf | tuberculosis | , | avium intracellulare | ), | borrelia | , | Isospora belli | , | Pneumocystis carinii | , spirochètes, | toxoplasma | . | Espèces résistantes : | aérobies à Gram + : | Mycobacterium avium intracellulare | , | Mycobacterium tuberculosis | , | pseudomonas | . | L'association sulfamides- | triméthoprime | présente un effet fortement synergique vis-à-vis de la plupart des bactéries, y compris les souches résistantes à l'un des deux produits. Ceci explique l'activité de l'association sur les | nocardia | et les | stenotrophomonas, | mais aussi sur | Escherichia coli | ayant une résistance acquise aux sulfamides (résistance même de haut niveau). | Cette synergie est maximale dans le rapport de leur concentration minimale inhibitrice (CMI), c'est-à-dire 1/20 | triméthoprime | -sulfamides pour les entérobactéries et staphylocoques. En revanche, vis-à-vis des bactéries naturellement résistantes au | triméthoprime | ( | nocardia | , | stenotrophomonas | , | neisseria | ), le rapport optimal doit être de 1/1 ou 2/1 | triméthoprime | -sulfamides.

@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_147
+DCI: CARTEOLOL CHLORHYDRATE 1 % collyre sol (CARTEOL)
+Brand Names: CARTEOL LP | CATEOL LP | LEOCART LP
+Pharmaceutical Forms: Collyree En Solution A Liberation Prolongee
+Dosages: 0.02
+Packaging: boite de 1 flacon de 3ml
+Laboratories: Laboratoire CHAUVIN
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01ED - BETA-BLOQUANTS | S01ED05 - CARTEOLOL
+Registration Numbers: 065/17 C 147/25 | 096/17 C 147/07/22 | 380/17 C 147/23
+Drug Codes: 17 C 147
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Wed Oct 26 00:00:00 CEST 2022 | is_edited: False | title: INDICATIONS | text: Hypertonie intraoculaire. | Glaucome chronique à angle ouvert. | lists: Hypertonie intraoculaire. | Glaucome chronique à angle ouvert.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer le matin | Information du patient : reboucher le flacon après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Glaucome chronique à angle ouvert - Hypertonie oculaire | Posologie standard | 1 gte 1 fois par jour
+
+## Precautions
+
+Allaitement | Anesthésie générale | Angor | Bradycardie | Bronchopneumopathie chronique obstructive légère à modérée | Diabète non équilibré | Glaucome à angle fermé | Grossesse | Hyperthyroïdie | Hypoglycémie | Hypotension artérielle | Insuffisance coronarienne | Insuffisance hépatique | Insuffisance rénale | Intervention chirurgicale du glaucome | Kératopathie | Maladie cardiovasculaire | Nouveau-né exposé in utero au médicament | Phéochromocytome | Psoriasis | Sportif | Sujet âgé | Sujet allergique | Sujet de moins de 18 ans | Sujet porteur de lentilles de contact | Traitement concomitant par produits ophtalmiques | Traitement de désensibilisation en cours | Traitement par antiglaucomateux en cours | Traitement prolongé | Trouble circulatoire périphérique sévère
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cartéolol : Mécanisme d'action | Le cartéolol est un bêtabloquant non cardiosélectif, avec un pouvoir agoniste partiel [activité sympathomimétique intrinsèque (ASI) modérée] et un effet stabilisant de membrane non significatif (anesthésique local ou | quinidine | -like). | En ophtalmologie, le chlorhydrate de cartéolol en collyre abaisse la tension intraoculaire, associée ou non à un glaucome, en diminuant la sécrétion d'humeur aqueuse. Son activité se manifeste habituellement environ 30 minutes après instillation, atteint son maximum en 2 à 4 heures et est encore présente au bout de 24 heures. Stabilité de l'effet hypotenseur dans le temps : l'effet peut rester constant pendant un an. Une diminution de la sensibilité au chlorhydrate de cartéolol reste cependant possible, notamment après un traitement plus prolongé. Il n'y a pratiquement pas de modification du diamètre pupillaire ou de l'accommodation.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Anticorps antinucléaire (augmentation) (Rare) | - Hypoglycémie | DERMATOLOGIE: | - Eruption cutanée | - Prurit | - Alopécie | - Eruption cutanée généralisée | - Psoriasis (aggravation) | - Dermatite psoriasiforme | - Urticaire | DIVERS: | - Effets systémiques | - Asthénie | - Fatigue | - Douleur thoracique | - Oedème | - Trouble sexuel | IMMUNO-ALLERGOLOGIE: | - Réaction allergique systémique | - Lupus érythémateux disséminé | - Réaction anaphylactique | - Angioedème | OPHTALMOLOGIE: | - Douleur oculaire (Fréquent) | - Irritation oculaire (Fréquent) | - Hypersécrétion lacrymale (Fréquent) | - Hyperhémie oculaire (Fréquent) | - Hyperhémie conjonctivale (Fréquent) | - Kératite (Fréquent) | - Conjonctivite (Fréquent) | - Prurit oculaire (Fréquent) | - Erosion cornéenne | - Vision floue | - Réfraction (modification) | - Blépharite | - Diplopie | - Picotement oculaire | - Hyposécrétion lacrymale | - Décollement de la choroïde | - Hypoesthésie oculaire | - Sensation de brûlure dans l?oeil | - Ptosis | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | - Sensation de vertige (Peu fréquent) | - Sécheresse buccale | PSYCHIATRIE: | - Dépression | - Cauchemar | - Libido (diminution) | - Insomnie | SYSTÈME CARDIOVASCULAIRE: | - Palpitation | - Arythmie | - Syncope | - Hypotension artérielle | - Syndrome de Raynaud | - Insuffisance cardiaque congestive | - Arrêt cardiaque | - Bradycardie | - Claudication intermittente | - Bloc auriculoventriculaire | - Refroidissement des extrémités | - Insuffisance cardiaque | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Douleur abdominale | - Diarrhée | - Dyspepsie | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Peu fréquent) | - Contractures musculaires (Peu fréquent) | SYSTÈME NERVEUX: | - Paresthésie | - Céphalée | - Myasthénie grave aggravée | - Amnésie | - Accident vasculaire cérébral | - Insuffisance circulatoire cérébrale | SYSTÈME RESPIRATOIRE: | - Toux | - Dyspnée | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Trouble de l'érection | - Impuissance

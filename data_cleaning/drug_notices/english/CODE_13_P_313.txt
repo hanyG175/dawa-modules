@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_313
+DCI: Entecavir
+DrugBank ID: DB00442
+DrugBank Name: Entecavir
+Brand Names: BARACLUDE | BRAVIR | ERTIVIX
+Pharmaceutical Forms: Comprimé
+Dosages: 0.5mg
+Packaging: b/30
+Registration Numbers: 017/13 P 313/08/17 | 216/13 P 313/16 | 426/13 P 313/19/24
+Drug Codes: 13 P 313
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Entecavir is a guanosine nucleoside analogue with selective activity against hepatitis B virus (HBV). It is designed to selectively inhibit the Hepatitis B virus, blocking all three steps in the replication process. Entecavir is more efficient than an older Hepatitis B drug, lamivudine.
+
+## Mechanism Of Action
+
+Reverse transcriptase (HBV) Inhibitor
+
+## Absorption
+
+Absorption Following oral administration in healthy subjects, entecavir peak plasma concentrations occurred between 0.5 and 1.5 hours. In healthy subjects, the bioavailability of the tablet is 100% relative to the oral solution.
+
+## Metabolism
+
+Entecavir is not a substrate, inhibitor, or inducer of the cytochrome P450 (CYP450) enzyme system. Entecavir is efficiently phosphorylated to the active triphosphate form.
+
+## Half Life
+
+After reaching peak concentration, entecavir plasma concentrations decreased in a bi-exponential manner with a terminal elimination half-life of approximately 128-149 hours. The phosphorylated metabolite has a half-life of 15 hours.
+
+## Clearance
+
+renal cl=383.2 +/- 101.8 mL/min [Unimpaired renal function] renal cl=197.9 +/- 78.1 mL/min [Mild impaired renal function] renal cl=135.6 +/- 31.6 mL/min [Moderate impaired renal function] renal cl=40.3 +/- 10.1 mL/min [severe impaired renal function] apparent oral cl=588.1 +/- 153.7 mL/min [Unimpaired renal function] apparent oral cl=309.2 +/- 62.6 mL/min [Mild impaired renal function] apparent oral cl=226.3 +/- 60.1 mL/min [Moderate impaired renal function] apparent oral cl=100.6 +/- 29.1 mL/min [severe impaired renal function] apparent oral cl=50.6 +/- 16.5 mL/min [severe impaired renal function amnaged with Hemodialysis] apparent oral cl=35.7 +/- 19.6 mL/min [severe impaired renal function amnaged with CAPD]
+
+## Toxicity
+
+Healthy subjects who received single entecavir doses up to 40 mg or multiple doses up to 20 mg/day for up to 14 days had no increase in or unexpected adverse events. If overdose occurs, the patient must be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.

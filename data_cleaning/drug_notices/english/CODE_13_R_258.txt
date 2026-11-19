@@ -1,0 +1,70 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_R_258
+DCI: Fluconazole
+DrugBank ID: DB00196
+DrugBank Name: Fluconazole
+Brand Names: FLUCONAZOLE BIOCARE
+Pharmaceutical Forms: Gles.
+Dosages: 150MG
+Packaging: B/01
+Laboratories: BIOCARE LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 273.00 DA
+Prescription List: Liste I
+ATC Classification: J02AC01
+Registration Numbers: 195/13 R 258/13 | 235/13 R 258/09/21 | 268/13 R 258/06/24 | 293/13 R 258/14/25 | 309/13 R 258/07/22 | 317/13 R 258/12/23 | 352/13 R 258/20 | 380/13 R 258/14 | 418/13 R 258/14/22 | 447/13 R 258/11/23 | 462/13 R 258/21
+Drug Codes: 13 R 258
+
+------------------------------------------------------------
+
+## Description
+
+Fluconazole, commonly known as Diflucan , is an antifungal drug used for the treatment of both systemic and superficial fungal infections in a variety of tissues. It was initially approved by the FDA in 1990. This drug is an azole antifungal, in the same drug family as ketoconazole and itraconazole . Fluconazole has many advantages over the other antifungal drugs including the option of oral administration. The side effect profile of this drug is minimal. It has been demonstrated as an efficacious treatment for vaginal yeast infections in one single dose. 2
+
+## Indications
+
+Fluconazole can be administered in the treatment of the following fungal infections 27 : 1) Vaginal yeast infections caused by Candida
+2) Systemic Candida infections
+3) Both esophageal and oropharyngeal candidiasis
+4) Cryptococcal meningitis
+5) UTI (urinary tract infection) by Candida
+
+## Pharmacodynamics
+
+Fluconazole has been demonstrated to show fungistatic activity against the majority of strains of the following microorganisms, curing fungal infections 27 : Candida albicans, Candida glabrata (Many strains are intermediately susceptible), Candida parapsilosis, Candida tropicalis, Cryptococcus neoformans This is achieved through steroidal inhibition in fungal cells, interfering with cell wall synthesis and growth as well as cell adhesion, thereby treating fungal infections and their symptoms. 27 , 2 , 5 The fungistatic activity of fluconazole has also been shown in normal and immunocompromised animal models with both systemic and intracranial fungal infections caused by Cryptococcus neoformans and for systemic infections caused by Candida albicans. 27 It is important to note that resistant organisms have been found against various strains of organisms treated with fluconazole. 11 , 12 , 13 This further substantiates the need to perform susceptibility testing when fluconazole is considered as an antifungal therapy. 14 , 20 A note on steroidal effects of fluconazole There has been some concern that fluconazole may interfere with and inactivate human steroids/hormones due to the inhibition of hepatic cytochrome enzymes. 26 Fluconazole has demonstrated to be more selective for fungal cytochrome P-450 enzymes than for a variety of mammalian cytochrome P-450 enzymes. Fluconazole 50 mg administered daily for up to 28 days in individuals of reproductive age has been show to have no effect on testosterone plasma concentrations of males and plasma concentrations of steroids in females. A 200-400 mg dose of fluconazole showed no clinically relevant effect on steroid levels or on ACTH-stimulated steroid response in healthy males, in one clinical study mentioned on the European Medicines Agency label. 26 Other studies have shown no significant effects of fluconazole on steroid levels, further confirming these data. 10 , 18
+
+## Mechanism Of Action
+
+Lanosterol 14-alpha demethylase (Yeast) Inhibitor
+
+## Absorption
+
+The pharmacokinetic properties of fluconazole are comparable after administration by the intravenous (IV) and oral (PO) routes. In healthy volunteers, the bioavailability of orally administered fluconazole is measured to be above 90%. 27 It is extensively absorbed in the gastrointestinal tract when an oral dose is taken. 23 Oral absorption is not affected by food intake with fluconazole but may increase the time until the maximum concentration is reached. 26 , 21 Tmax (or the time taken to achieve the maximum concentration) in one clinical study of healthy patients receiving 50 mg/kg of fluconazole was 3 hours. 21 Peak plasma concentrations (Cmax) in fasting and healthy volunteers occur between 1-2 hours post-dose. 27 Steady-state concentrations are achieved within 5 to 10 days after oral doses of 50-400 mg administered once daily. Administration of a loading dose on the first day of fluconazole treatment, or twice the usual daily dose, leads to plasma concentrations close to steady-state by the second day. 27 Mean AUC (area under the curve) was 20.3 in healthy volunteers receiving 25 mg of fluconazole. 21 A note on the capsule and powder form and malabsorption syndromes The capsule forms of fluconazole often contain lactose and should not be administered with hereditary galactose intolerance, Lapp lactase enzyme deficiency, or malabsorption of glucose/galactose. 27 The powder form, used for the oral suspension, lists sucrose as an ingredient and should not be used in patients who have been diagnosed with fructose, glucose/galactose malabsorption, and sucrase-isomaltase enzyme deficiency. 27
+
+## Volume Of Distribution
+
+The apparent volume of distribution is said to be similar to the volume of distribution of total body water. 27 One clinical study of healthy volunteers administered 50 mg/kg of fluconazole was 39L, based on a body weight of 60kg. 21 Fluconazole shows substantial penetration in many body fluids, which is a property that renders it an ideal treatment for systemic fungal infections, especially when administered over a longer time. 21 , 27 Fluconazole is found in high concentrations in the stratum corneum and dermis-epidermis of skin, in addition to eccrine sweat. Fluconazole is found to accumulate especially well in the stratum corneum, which is beneficial in superficial fungal infections. 26 Saliva and sputum concentrations of fluconazole are found to be similar to the plasma concentrations. 25 In patients diagnosed with fungal meningitis, fluconazole CSF (cerebrospinal fluid) levels are measured to be about 80% of the corresponding plasma levels. Therefore, fluconazole crosses the blood-brain barrier. 26 The meninges are increasingly permeable to fluconazole in states of inflammation, facilitating treatment in meningitis. 22
+
+## Metabolism
+
+Fluconazole is metabolized minimally in the liver. Fluconazole is an inhibitor of CYP2C9, CYP3A4 and CYP2C19. 26 , 27 Two metabolites were detected in the urine of healthy volunteers taking a 50 mg radiolabeled dose of fluconazole; a glucuronidated metabolite on the hydroxyl moiety (6.5%) and a fluconazole N-oxide metabolite (2%). 23 The same study indicated that no signs of metabolic cleavage of fluconazole were observed, suggesting a difference in metabolism when compared to other agents in the same drug class, which are heavily metabolized in the liver. 23 , 24 Hover over products below to view reaction partners Fluconazole O-Glucuronidated metabolite, Fluconazole Fluconazole N-oxide
+
+## Route Of Elimination
+
+In normal volunteers, fluconazole is cleared primarily by renal excretion, with approximately 80% of the administered dose measured in the urine as unchanged drug. 27 About 11% of the dose is excreted in the urine as metabolites. 27 . A study of a 50mg radiolabeled dose of fluconazole revealed that 93.3% of the dose was found excreted in the urine. 23 A note on renal failure The pharmacokinetics of fluconazole are significantly affected by renal dysfunction. The dose of fluconazole may need to be reduced in patients with decreased renal function. A 3-hour hemodialysis treatment lowers plasma fluconazole concentrations by about 50%. 27
+
+## Half Life
+
+The terminal elimination half-life in the plasma is approximately 30 hours (range: 20-50 hours) after oral administration. 27 The long plasma elimination half-life supports a single-dose therapy for vaginal candidiasis, once daily and once weekly dosing for other indications. 26 Patients with renal failure may require dosage adjustment, and half-life can be significantly increased in these patients. 21
+
+## Clearance
+
+This drug is mainly eliminated by the kidneys and the mean body clearance in adults is reported to be 0.23 mL/min/kg. 27 One clinical study of healthy subjects showed total clearance of 19.5 ± 4.7 mL/min and renal clearance of 14.7 ± 3.7 mL/min (1.17 ± 0.28 and 0.88 ± 0.22 L/h). 21 Clearance in the pediatric population varies according to age, as does clearance in patients with renal failure. 27
+
+## Toxicity
+
+Acute oral toxicity (LD50) : 1271 mg/kg (rat) MSDS Overdose information Fluconazole overdoses have been associated with hallucination and paranoia, sometimes in combination. 27 In cases of overdose, employ supportive treatment. Gastric lavage may be necessary. 27 Other modalities such as forced diuresis or hemodialysis may also be used. 27 A note on liver toxicity The FDA label warns that this drug carries a risk of hepatotoxicity. Rare but serious cases of serious hepatic toxicity have been reported, especially in patients with serious underlying medical conditions using fluconazole. This group of patients has an increased risk of fatality when using fluconazole. 27 In patients with existing liver dysfunction, use caution during fluconazole therapy. Those who are found to have abnormal liver function tests during therapy should be carefully monitored for the development of increasingly severe injury to the liver. Fluconazole should be stopped if its use is likely to be the underlying cause of liver injury, and medical attention should be sought. 27 , 25 Fluconazole induced hepatotoxicity is usually reversible. 27 Carcinogenesis, mutagenesis, and impairment of fertility Fluconazole demonstrated no evidence of carcinogenic risk in mice and rats treated orally for 24 months at doses equivalent to approximately 2-7 time the recommended human dose). Male rats given fluconazole at doses equivalent to supratherapeutic human doses showed an increased incidence of hepatocellular adenomas. Cytogenetic studies in vivo and in vitro demonstrated no sign of chromosomal mutation. The significance of these findings for humans is unknown. 27 Use in pregnancy There are no sufficient and well-controlled studies of fluconazole use in pregnant women. Available human data do not show an increased risk of congenital anomalies after pregnant women were treated with standard doses (<200 mg/day) of fluconazole, either in a single dose or multiple doses in the first trimester did not appear to impact the fetus negatively. 27 Several case reports describe rare but striking congenital anomalies observed in infants who were exposed to fluconazole at high doses reaching 400-800 mg/day, primarily in the first trimester of pregnancy. Similar findings were observed in animal studies. If this drug is administered during pregnancy, or if the patient becomes pregnant while taking fluconazole, the risk should be discussed thoroughly. 27 Use in nursing Fluconazole is secreted in breastmilk at high concentrations. Exercise caution if this drug is used during nursing. 27

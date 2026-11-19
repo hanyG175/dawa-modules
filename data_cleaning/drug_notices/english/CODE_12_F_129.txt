@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_F_129
+DCI: Tenecteplase Gennova
+DrugBank ID: DB00031
+DrugBank Name: Tenecteplase
+Brand Names: ELAXIM
+Pharmaceutical Forms: Poudre Et Solv. Inj. Iv
+Dosages: 1000 u/ml ou 5mg/ml (10000u/10ml ou 50mg/10ml)
+Packaging: b/1fl. de pdre + 1/flacon de 10 ml eppi + 01 seringue de 10 ml avec aiguille + 03 lingettes alcolisees
+Registration Numbers: 519/12 F 129/17
+Drug Codes: 12 F 129
+
+------------------------------------------------------------
+
+## Description
+
+Tenecteplase is a tissue plasminogen activator (tPA) developed from modifications of natural human tPA complementary DNA (cDNA). It is a 527 amino acid with a substitution of threonine 103 with asparagine and substitution of asparagine 117 with glutamine within the kringle 1 domain, and a tetra-alanine substitution at amino acids 296-299 in the protease domain.
+
+## Pharmacodynamics
+
+Tenecteplase is a fibrin-specific tissue-plasminogen activator. It binds to fibrin rich clots and cleaves the Arg/Val bond in plasminogen to form plasmin. Plasmin in turn degrades the fibrin matrix of the thrombus, thereby exerting its thrombolytic action. This helps eliminate blood clots or arterial blockages that cause myocardial infarction.
+
+## Mechanism Of Action
+
+Plasminogen Activator
+
+## Half Life
+
+1.9 hours (mammalian reticulocytes, in vitro)
+>20 hours (yeast, in vivo)
+>10 hours (Escherichia coli, in vivo)
+
+## Clearance
+
+99 - 119 mL/min [acute myocardial infarction patients]

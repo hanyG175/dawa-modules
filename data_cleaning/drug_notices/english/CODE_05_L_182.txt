@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_L_182
+DCI: Lenalidomide
+DrugBank ID: DB00480
+DrugBank Name: Lenalidomide
+Brand Names: LENADES | LENALIDOMIDE BIOPHARM | LENALIDOMIDE-SAIDAL | LENALIDOPHAL | LENANGIO | REVLIMID | VOTIRA
+Pharmaceutical Forms: Gélule
+Dosages: 10mg
+Packaging: b/21 | b/28
+Registration Numbers: 001/05 L 182/24 | 003/05 L 182/24 | 039/05 L 182/23 | 263/05 L 182/25 | 506/05 L 182/16 | 536/05 L 182/21 | 630/05 L 182/25
+Drug Codes: 05 L 182
+
+------------------------------------------------------------
+
+## Description
+
+Lenalidomide (previously referred to as CC-5013) is an immunomodulatory drug with potent antineoplastic, anti-angiogenic, and anti-inflammatory properties. 4 It is a 4-amino-glutamyl analogue of thalidomide 3 and like thalidomide, lenalidomide exists as a racemic mixture of the active S(-) and R(+) forms. 7 However, lenalidomide is much safer and potent than thalidomide, with fewer adverse effects and toxicities. 2 , 3 Thalidomide and its analogues, including lenalidomide, are referred to as immunomodulatory imide drugs (also known as cereblon modulators), which are a class of immunomodulatory drugs that contain an imide group. Lenalidomide works through various mechanisms of actions that promote malignant cell death and enhance host immunity. 7 Available as oral capsules, lenalidomide is approved by the FDA and EU for the treatment of multiple myeloma, myelodysplastic syndromes, mantle cell lymphoma, follicular lymphoma, and marginal zone lymphoma in selected patients. 9 Due to severe teratogenicity, pregnancy must be excluded before the start of treatment and patients must enroll in the lenalidomide Risk Evaluation and Mitigation Strategy (REMS) program to ensure contraception adherence. 7
+
+## Pharmacodynamics
+
+In hematological malignancies, the immune system is deregulated in the form of altered cytokine networks in the tumour microenvironment, defective T cell regulation of host-tumour immune interactions, and diminished NK cell activity. 3 Lenalidomide is an immunomodulatory agent with antineoplastic, antiangiogenic, and anti-inflammatory properties. 5 Lenalidomide exerts direct cytotoxicity by increasing apoptosis and inhibiting the proliferation of hematopoietic malignant cells. 7 It delays tumour growth in nonclinical hematopoietic tumour models in vivo , including multiple myeloma. 9 Lenalidomide also works to limit the invasion or metastasis of tumour cells and inhibits angiogenesis. 7 Lenalidomide also mediates indirect antitumour effects via its immunomodulatory actions: it inhibits the production of pro-inflammatory cytokines, which are implicated in various hematologic malignancies. Lenalidomide enhances the host immunity by stimulating T cell proliferation and enhancing the activity of natural killer (NK) cells. 1 , 6 , 7 Lenalidomide is about 100–1000 times more potent in stimulating T cell proliferation than thalidomide . 3 In vitro , it enhances antibody-dependent cell-mediated cytotoxicity (ADCC), which is even more pronounced when used in combination with rituximab. 9 Due to its anti-inflammatory properties, lenalidomide has been investigated in the context of inflammatory and autoimmune diseases, such as amyotrophic lateral sclerosis. 8
+
+## Mechanism Of Action
+
+Protein cereblon Inhibitor Tumor necrosis factor ligand superfamily member 11 Inhibitor
+
+## Absorption
+
+Following oral administration, lenalidomide is rapidly absorbed with high bioavailability. 5 It has a T max ranging from 0.5 to six hours. Lenalidomide exhibits a linear pharmacokinetic profile, with its AUC and C max increasing proportionally with dose. Multiple dosing does not result in drug accumulation. 9 In healthy male subjects, the C max was 413 ± 77 ng/ml and the AUC infinity was 1319 ± 162 h x ng/ml. 5
+
+## Volume Of Distribution
+
+In healthy male subjects, the apparent volume of distribution was 75.8 ± 7.3 L. 5
+
+## Metabolism
+
+Lenalidomide is not subject to extensive hepatic metabolism involving CYP enzymes and metabolism contributes to a very minor extent to the clearance of lenalidomide in humans. Lenalidomide undergoes hydrolysis in human plasma to form 5-hydroxy-lenalidomide and N-acetyl-lenalidomide. 5 Unchanged lenalidomide is the predominant circulating drug form, with metabolites accounting for less than five percent of the parent drug levels in the circulation. 9 Hover over products below to view reaction partners Lenalidomide 5­-Hydroxy-lenalidomide N-acetyl-lenalidomide
+
+## Route Of Elimination
+
+Lenalidomide is eliminated predominantly via urinary excretion in the unchanged form. Following oral administration of 25 mg of radiolabeled lenalidomide in healthy subjects, about 90% of the dose (4.59% as metabolites) was eliminated in urine and 4% of the dose (1.83% as metabolites) was eliminated in feces within ten days post-dose. Approximately 85% of the dose was excreted as lenalidomide in the urine within 24 hours. 9
+
+## Half Life
+
+In healthy subjects, the mean half-life of lenalidomide is three hours in the clinically relevant dose range (5–50 mg). 5 Half-life can range from three to five hours in patients with multiple myeloma, myelodysplastic syndromes, or mantle cell lymphoma. 9
+
+## Clearance
+
+The renal clearance of lenalidomide exceeds the glomerular filtration rate. 9 In healthy male subjects, the oral clearance was 318 ± 41 mL/min. 5
+
+## Toxicity
+
+The lowest lethal dose (LDLo) in rats is >2000 mg/kg following oral administration and >40 mg/kg following intravenous administration. 10 The oral Lowest published toxic dose (TDLo) in humans is 9 mg/kg/4W (intermittent). 11 There is limited clinical experience in managing lenalidomide overdose. In single-dose studies, healthy subjects have been exposed to doses up to 400 mg. In clinical trials, the dose-limiting toxicity was neutropenia and thrombocytopenia. Toxicities associated with lenalidomide, some leading to fatality, include embryo-fetal toxicity, neutropenia, thrombocytopenia, venous (deep vein thrombosis and pulmonary embolism) and arterial thromboembolic events (myocardial infarction and stroke), serious adverse cardiovascular reactions, second primary malignancies, hepatotoxicity, severe cutaneous reactions, tumour lysis syndrome, tumour flare reaction, hypothyroidism, and hyperthyroidism. 9

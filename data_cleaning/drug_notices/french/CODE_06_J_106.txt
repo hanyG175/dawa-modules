@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_106
+DCI: TICLOPIDINE CHLORHYDRATE 250 mg cp (TICLOPIDINE ARROW)
+Brand Names: TICLID
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/20
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B01 - ANTITHROMBOTIQUES | B01A - ANTITHROMBOTIQUES | B01AC - INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, HEPARINE EXCLUE | B01AC05 - TICLOPIDINE
+Registration Numbers: 376/06 J 106/97/16
+Drug Codes: 06 J 106
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | ticlopidine chlorhydrate : 250 mg | Modalités d'administration | Voie orale | Administrer pendant le repas | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Accident thromboembolique artériel chez l'artéritique, traitement préventif (de l') - Accident thromboembolique artériel, traitement préventif des récidives (de l') - Thrombose itérative des abords artérioveineux en hémodialyse chronique, traitement préventif (de la) | Posologie standard | 1 comprimé 2 fois par jour | Thrombose subaiguë sur endoprothèse coronaire, traitement préventif (de la) | Posologie standard | Dans le cas de : Association à l'acide acétylsalicylique | 1 comprimé 2 fois par jour | Pendant 4 à 6 semaines
+
+## Precautions
+
+Enfant de moins de 15 ans | Insuffisance hépatique | Intervention chirurgicale | Patient en situation d'urgence chirurgicale | Sujet allergique
+
+## Mechanism Of Action
+
+Ticlopidine : Mécanisme d'action | La ticlopidine est un antiagrégant plaquettaire qui provoque, proportionnellement à la dose, une inhibition de l'agrégation plaquettaire et de la libération de certains facteurs plaquettaires, ainsi qu'une prolongation du temps de saignement. Cette activité ne se manifeste pas in vitro mais seulement | in vivo | ; cependant, aucun métabolite actif circulant n'a été mis en évidence. | La ticlopidine s'oppose à l'agrégation plaquettaire en inhibant la liaison ADP-dépendante du | fibrinogène | à une membrane plaquettaire. Elle n'agit pas par inhibition de la cyclo-oxygénase comme le fait l'aspirine. L'AMP cyclique plaquettaire ne semble pas jouer de rôle dans son mécanisme d'action.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Fréquent) | - Phosphatases alcalines (augmentation) (Fréquent) | - Transaminases (augmentation) (Fréquent) | - Hypertriglycéridémie (Fréquent) | - Hypercholestérolémie (Fréquent) | - Enzymes hépatiques (augmentation) (Fréquent) | - Bilirubinémie (augmentation) (Peu fréquent) | - VLDL augmentées | - Hypoprothrombinémie | - Eosinophilie | - LDL (augmentation) | - HDL (augmentation) | DERMATOLOGIE: | - Dermatite exfoliative (Peu fréquent) | - Eruption cutanée (Fréquent) | - Syndrome de Stevens-Johnson (Très rare) | - Syndrome de Lyell (Très rare) | - Erythème polymorphe (Très rare) | - Prurit | - Eruption maculopapuleuse | - Eruption cutanée généralisée | - Prurit généralisé | - Eruption urticarienne | DIVERS: | - Fièvre (Très rare) | HÉMATOLOGIE: | - Hémorragie peropératoire (Peu fréquent) | - Contusion (Peu fréquent) | - Hémorragie (Peu fréquent) | - Hémorragie post-opératoire (Peu fréquent) | - Ecchymose (Peu fréquent) | - Agranulocytose (Fréquent) | - Thrombopénie (Peu fréquent) | - Purpura thrombopénique thrombotique (Rare) | - Pancytopénie (Rare) | - Leucémie (Rare) | - Aplasie médullaire (Rare) | - Thrombocytose (Rare) | - Anémie hémolytique | - Atteinte hématologique | HÉPATOLOGIE: | - Hépatite fulminante (Très rare) | - Hépatite (Rare) | - Hépatite cytolytique | - Insuffisance hépatique | - Hépatite cholestatique | IMMUNO-ALLERGOLOGIE: | - Trouble immunologique (Très rare) | - Hypersensibilité croisée (Très rare) | - Oedème de Quincke | - Syndrome lupique | - Réaction anaphylactique | - Hypersensibilité | INFECTIOLOGIE NON PRECISÉE: | - Septicémie | OPHTALMOLOGIE: | - Hémorragie conjonctivale (Peu fréquent) | ORL, STOMATOLOGIE: | - Epistaxis (Peu fréquent) | - Sensation de vertige (Fréquent) | - Acouphène (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Choc septique | - Vascularite | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Diarrhée (Fréquent) | - Ulcère gastroduodénal (Peu fréquent) | - Diarrhée sévère (Très rare) | - Colite | - Colite lymphocytaire | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Trouble neurosensoriel (Peu fréquent) | - Hémorragie intracrânienne (Rare) | - Encéphalopathie | - Neuropathie périphérique | - Trouble neurologique | SYSTÈME RESPIRATOIRE: | - Pneumopathie d'hypersensibilité | UROLOGIE, NÉPHROLOGIE: | - Hématurie (Peu fréquent) | - Insuffisance rénale | - Néphropathie | - Néphropathie d'hypersensibilité

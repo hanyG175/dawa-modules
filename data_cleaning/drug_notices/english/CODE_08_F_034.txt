@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_F_034
+DCI: Dipyridamole
+DrugBank ID: DB00975
+DrugBank Name: Dipyridamole
+Brand Names: PERSANTINE
+Pharmaceutical Forms: Sol.Inj. Iv
+Dosages: 10mg/2ml
+Packaging: b/10
+Laboratories: GLENWOOD GMBH | PHARMAZEUTISCHE ERZEUGNISSE | ARABELLASTR. 17 | 81925 MUNICH | ALLEMAGNE
+Registration Numbers: 152/08 F 034/98/25
+Drug Codes: 08 F 034
+
+------------------------------------------------------------
+
+## Description
+
+A phosphodiesterase inhibitor that blocks uptake and metabolism of adenosine by erythrocytes and vascular endothelial cells. Dipyridamole also potentiates the antiaggregating action of prostacyclin. (From AMA Drug Evaluations Annual, 1994, p752)
+
+## Pharmacodynamics
+
+Dipyridamole, a non-nitrate coronary vasodilator that also inhibits platelet aggregation, is combined with other anticoagulant drugs, such as warfarin, to prevent thrombosis in patients with valvular or vascular disorders. Dipyridamole is also used in myocardial perfusion imaging, as an antiplatelet agent, and in combination with aspirin for stroke prophylaxis.
+
+## Mechanism Of Action
+
+cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A Inhibitor cGMP-specific 3',5'-cyclic phosphodiesterase Inhibitor 3',5'-cyclic-AMP phosphodiesterase 4A Inhibitor + 1 more target
+
+## Volume Of Distribution
+
+1 to 2.5 L/kg
+
+## Metabolism
+
+hepatic
+
+## Route Of Elimination
+
+Dipyridamole is metabolized in the liver to the glucuronic acid conjugate and excreted with the bile.
+
+## Half Life
+
+40 minutes
+
+## Clearance
+
+2.3-3.5 mL/min/kg
+
+## Toxicity
+
+Hypotension, if it occurs, is likely to be of short duration, but a vasopressor drug may be used if necessary. The oral LD 50 in rats is greater than 6,000 mg/kg while in the dogs, the oral LD 50 is approximately 400 mg/kg. LD 50 =8.4g/kg (orally in rat)

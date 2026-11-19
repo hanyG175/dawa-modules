@@ -1,0 +1,65 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_076
+DCI: IRINOTECAN CHLORHYDRATE 20 mg/ml sol diluer p perf (CAMPTO) | IRINOTECAN CHLORHYDRATE 20 mg/ml sol diluer p perf (IRINOTECAN ACCORD) | Irinotecan | ONDANSETRON (chlorhydrate) 2 mg/ml sol inj (ONDANSETRON RENAUDIN)
+DrugBank ID: DB00762
+DrugBank Name: Irinotecan
+Brand Names: COLONTECANE | ERTICAN | IRICOL | IRINOTECAN MYLAN | TEKAMEN
+Pharmaceutical Forms: Concentre Sterile Pour Solution Pour Perfusion Iv | Sol A Diluer P. Perf Iv | Sol. Inj. | Sol. P. Perf. Iv | Solution
+Dosages: 20MG/ML (100MG/5ML) (40MG/2ML) | 20mg/ml (40mg/2ml)(100mg/5ml)
+Packaging: B/01FL DE 5ML ET B/01FL DE 2ML | b/01fl de 2ml et b/01fl de 5ml | b/01fl de 5ml et b/01fl de 2ml | b/01fl. de 2 ml et b/01fl. de 5ml | b/1fl. de 2ml et b/1fl. de 5ml
+Laboratories: MYLAN
+Countries: FRANCE
+Prescription List: Liste I
+ATC Classification: L01CE02
+Registration Numbers: 001/05 G 076/20 | 176/05 G 076/14 | 182/05 G 076/12 | 450/05 G 076/14 | 554/05 G 076/21 | 555/05 G 076/20
+Drug Codes: 05 G 076
+
+------------------------------------------------------------
+
+## Description
+
+Irinotecan is a topoisomerase inhibitor used for chemotherapy. It is a water-soluble analogue of camptothecin , which is extracted from the Chinese tree Camptotheca acuminate . 5 The bis-piperidine side chain in the structure of irinotecan bestows enhanced water solubility. 6 As an anticancer drug, irinotecan was first commercially available in Japan in 1994 to treat various cancers such as lung, cervical and ovarian cancer. 5 Approved by the FDA in 1996, 3 irinotecan is used to treat colorectal cancer and pancreatic adenocarcinoma. 7 , 8 , 10 Irinotecan liposome was approved by the FDA in February 2024. 8 The active metabolite SN-38 is also a potent inhibitor of DNA topoisomerase I. Both irinotecan and SN-38 mediate antitumor activity by forming a complex with topoisomerase I and blocking its enzymatic activity, thereby interfering with DNA synthesis. This leads to the arrest of the cell cycle in the S-G2 phase and cancer cell death. 5
+
+## Indications
+
+Irinotecan is indicated for the treatment of:
+- Metastatic carcinoma of the colon or rectum as first-line treatment in combination with fluorouracil and leucovorin . 7 , 10 - Metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy, as monotherapy 10 or in combination with fluorouracil and leucovorin . 7 Irinotecan liposome injection is used in adults for the treatment of:
+
+## Pharmacodynamics
+
+Irinotecan is an antineoplastic agent. The administration of irinotecan has resulted in antitumor activity in mice bearing cancers of rodent origin and in human carcinoma xenografts of various histological types. 7
+
+## Mechanism Of Action
+
+DNA topoisomerase I, mitochondrial Inhibitor DNA topoisomerase 1 Inhibitor
+
+## Absorption
+
+Over the recommended dose range of 50 to 350 mg/m 2 , the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose. Maximum concentrations of the active metabolite SN-38 are generally seen within 1 hour following the end of a 90-minute infusion of irinotecan. 7 The plasma levels of SN-38 are much lower than that of irinotecan. 2 , 7 Following intravenous infusion in patients with solid tumours, the mean (± standard deviation) C max was 1,660 ± 797 ng/mL at a dose of 125 mg/m 2 and 3,392 ± 874 ng/mL at a dose of 340 mg/m 2 . The AUC 0–24 was 10,200 ± 3,270 ng x h/mL at a dose of 125 mg/m 2 and 20,604 ± 6,027 ng x h/mL at a dose of 340 mg/m 2 . 7
+
+## Volume Of Distribution
+
+Following intravenous infusion in patients with solid tumours, the mean (± standard deviation) volume of distribution of terminal elimination phase was 110 ± 48.5 L/m 2 at a dose of 125 mg/m 2 and 234 ± 69.6 L/m 2 at a dose of 340 mg/m 2 . 7
+
+## Metabolism
+
+Upon administration, irinotecan is converted primarily in the liver into its active metabolite, SN-38, by carboxylesterase. 3 SN-38 is formed by cleavage of the carbamate bond between the camptothecin moiety and the dipiperidino side chain. 7 While in vitro cytotoxicity assays show that the potency of SN-38 relative to irinotecan varies, SN-38 is approximately 1000 times as potent as irinotecan as an inhibitor of topoisomerase I. 2 , 7 SN-38 can further be glucuronidated by UGT1A1 to form SN-38G. 1 , 3 , 7 Irinotecan can also undergo CYP3A4-mediated oxidation to form NPC and APC. While some sources state that NPC and APC are weak inhibitors of topoisomerase I, 1 , 2 they are unlikely to contribute to the pharmacological activity of irinotecan. Hover over products below to view reaction partners Irinotecan SN-38 SN-38G NPC SN-38 APC
+
+## Route Of Elimination
+
+The disposition of irinotecan has not been fully elucidated in humans. The urinary excretion of irinotecan, SN-38, and SN-38 glucuronide are 11% to 20%, <1%, and 3%, respectively. The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours in two patients ranged from approximately 25% (100 mg/m 2 ) to 50% (300 mg/m 2 ). 7
+
+## Half Life
+
+After intravenous infusion of irinotecan in humans, the mean terminal elimination half-life of irinotecan is about 6 to 12 hours. The mean terminal elimination half-life of the active metabolite SN-38 is about 10 to 20 hours. 7
+
+## Clearance
+
+The mean (± standard deviation) total systemic clearance of irinotecan in patients with solid tumours was 13.3 ± 6.01 L/h/m 2 at a dose of 125 mg/m 2 and 13.9 ± 4.0 L/h/m 2 at a dose of 340 mg/m 2 . 7
+
+## Toxicity
+
+The oral LD 50 is 1045 mg/kg in mice and 867 mg/kg in rats. 9 In clinical trials involving patients with various cancers, single doses of up to 750 mg/m 2 of irinotecan were associated with similar adverse events reported with the recommended dosage and regimen. There have been reports of overdosage at doses up to approximately twice the recommended therapeutic dose, which may be fatal. The most significant adverse reactions reported were severe neutropenia and severe diarrhea. Because there is no known antidote for overdosage of irinotecan, maximum supportive care should be instituted to prevent dehydration due to diarrhea and to treat any infectious complications. 7

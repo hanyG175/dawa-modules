@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_A_303
+DCI: Gliclazide
+Brand Names: GLICLAZIDE BGL
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 30MG
+Packaging: B/30
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 451 DA
+Prescription List: Liste I
+ATC Classification: 14A303
+Registration Numbers: 040/14 A 303/06/24 | 149/14 A 303/20 | 263/14 A 303/16 | 325/14 A 303/14/22 | 437/14 A 303/13
+Drug Codes: 14 A 303
+
+------------------------------------------------------------
+
+## Indications
+
+METABOLISME NUTRITION DIABETE
+
+## Mechanism Of Action
+
+ANTIDIABETIQUES ORAUX

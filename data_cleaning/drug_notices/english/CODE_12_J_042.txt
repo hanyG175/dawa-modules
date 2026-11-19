@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_042
+DCI: Albumine Humaine
+DrugBank ID: DB00062
+DrugBank Name: Albumin human
+Brand Names: ALBUMINE HUMAINE 20% BIOTEST | ALBUTEN 20% | HUMAN ALBUMIN BAXTER | SK ALBUMIN 20% INJECTION | VIALEBEX
+Pharmaceutical Forms: Sol. Perf. | Sol.Perf. | Solution
+Dosages: 0.2
+Packaging: flacon./50ml et flacon./100ml
+Laboratories: CIS BIO INTERNATIONAL | R.N. 306- SACLAY | B.P. 32 | 91192 GIF-SUR-YVETTE CEDEX
+ATC Classification: V09GB02
+Registration Numbers: 298/12 J 042/08/15 | 370/12 J 042/07/16 | 513/12 J 042/16 | 587/12 J 042/21 | 669/12 J 042/25
+Drug Codes: 12 J 042
+
+------------------------------------------------------------
+
+## Description
+
+Human serum albumin is the primary protein present in human blood plasma. The main function of albumin is to maintain the oncotic pressure of blood 2 . It binds to water, cations (such as Ca2+, Na+ and K+), fatty acids, hormones, bilirubin, thyroxine (T4) and pharmaceuticals (including barbiturates). Albumin represents approximately 50% of the total protein content in healthy humans 5 . Human albumin is a small globular protein (molecular weight: 66.5 kDa), consisting of a single chain of 585 amino acids organized in three repeated homolog domains (sites I, II, and III). Each domain comprises two separate sub-domains (A and B) 5 . There are various preparations of albumin that are well established and widely available in the clinical setting 9 , 10 , 6 . Also known as Albuminex 5% or 25%, one brand of human serum albumin is prepared from the pooled plasma of US donors in FDA-licensed facilities in the US 12 . This is a biosimilar drug to existing human serum albumin and was approved for a biological license at both 5% and 25% concentrations by the FDA on June 21, 2018 6 .
+
+## Pharmacodynamics
+
+Serum albumin is a soluble, monomeric protein essential for maintaining and regulating the colloidal osmotic pressure of blood. It is utilized to increase the circulating plasma volume, which reduces hemoconcentration and blood viscosity. Albumin is also used as a transport protein that binds naturally occurring, therapeutic and toxic materials and drugs in the circulation 12 . Human albumin makes up over 50% the total protein in the plasma and represents about 10% of protein synthesis activity by the liver. Human Albumin 25% has a corresponding hyper-oncotic effect 13 .
+
+## Mechanism Of Action
+
+The main function of albumin results from its contribution to plasma colloid oncotic pressure and transport function 13 . Albumin stabilizes circulating blood volume and carries hormones, enzymes, medicines, and toxins. Other physiological functions include antioxidant properties, free radical scavenging, in addition to maintenance capillary membrane integrity 13 . Exogenously administered albumin increases the oncotic pressure of the intravascular system, moving fluids from the interstitial space, thereby decreasing edema and increasing the circulating blood volume. The increase in volume reduces the concentration and viscosity of blood in patients with decreased circulating blood volume while maintaining cardiac output in shock. In dehydrated patients, negligible effects exist on circulating blood volume. In addition to the above albumin replaces protein in patients with hypoproteinemia until the cause of the deficiency can be determined 8 . This drug has thousands of endogenous and exogenous targets. Human albumin also binds and carries a plethora of hydrophobic molecules, such as endogenous (i.e., cholesterol, fatty acids, bilirubin, thyroxine) or exogenous substances (for example, drugs and toxins), transition metal ions, as well as gas (nitric oxide NO ), with resulting implications for their solubilisation, transport, metabolism, and detoxification 5 . Target Actions Organism U Nitric oxide binder Humans
+
+## Volume Of Distribution
+
+Albumin is distributed throughout the extracellular space and more than 60% of the body albumin pool is located in the extravascular fluid space 13 . In healthy adults, less than 10% of infused albumin leaves the intravascular compartment during the first 2 hours following infusion of albumin. There is considerable individual variation in the effect of albumin on plasma volume, however 12 , 13 . In some patients, the plasma volume can remain elevated for several hours. In critically ill patients, however, albumin can leak out of the vascular space in substantial amounts at an unpredictable rate that is difficult to predict 13 .
+
+## Toxicity
+
+In general, human albumin solutions are well-tolerated and no specific, clinically relevant alterations in organ function or coagulopathy have been substantiated 12 . The most common adverse reactions are rigors, hypotension, tachycardia with increased heart rate, fever, chills, nausea, vomiting, dyspnea and/or bronchospasm, skin rash/pruritus. Stop the infusion immediately if anaphylaxis, with or without shock is observed 12 . Hypervolemia may occur if the dosage and rate of infusion are not adjusted to the volume status of the patient. When clinical signs of cardiovascular overload occur (headache, dyspnea, jugular venous distention, increased blood pressure), the infusion must be slowed or stopped immediately 13 .

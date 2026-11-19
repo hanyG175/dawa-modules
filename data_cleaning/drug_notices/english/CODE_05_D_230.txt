@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_230
+DCI: Daratumumab
+DrugBank ID: DB09331
+DrugBank Name: Daratumumab
+Brand Names: DARZALEX
+Pharmaceutical Forms: Sol A Dil Pour Perf
+Dosages: 20 mg/ml
+Packaging: boite d'un flacon de 20ml
+Registration Numbers: 095/05 D 230/23
+Drug Codes: 05 D 230
+
+------------------------------------------------------------
+
+## Description
+
+Daratumumab is an immunoglobulin G1 kappa monoclonal antibody developed by Janssen and Genmab. 1 It was first described in the literature in 2010 as a monoclonal antibody that targets CD38+ multiple myeloma cells; the first of its kind. 5 Daratumumab was granted FDA approval on 16 November 2015. 6 It is approved for the treatment of multiple myeloma as monotherapy or combination therapy and light chain (AL) amyloidosis in combination with other drugs. 6 , 7 A subcutaneous formulation of daratumumab co-formulated with hyaluronidase-fihj is also approved for the treatment of adults with multiple myeloma. In July 2024, it was further approved in combination with bortezomib, lenalidomide, and dexamethasone (D-VRd) for induction and consolidation therapy in newly diagnosed, transplant-eligible patients. This approval was based on results from the Phase 3 PERSEUS study, which demonstrated significant improvement in progression-free survival and higher rates of minimal residual disease (MRD) negativity compared to standard VRd therapy. 8 . Most recently, in November 2025, the subcutaneous formulation received approval as a monotherapy for the treatment of adult patients with high-risk smoldering multiple myeloma. 9
+
+## Pharmacodynamics
+
+Daratumumab is a monoclonal antibody that targets and induces apoptosis in cells that highly express CD38, including multiple myeloma cells. 6 , 7 It has a long duration of action as it is given every 1-4 weeks. 6 , 7 Patients should be counselled regarding the risk of hypersensitivity, neutropenia, thrombocytopenia, embryo-fetal toxicity, and interferences with cross-matching and red blood cell antibody screening. 6 , 7
+
+## Mechanism Of Action
+
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 Binder Downregulator
+
+## Absorption
+
+Subcutaneous daratumumab reaches a C max of 592µg/mL compared to intravenous daratumumab, which reaches a C max of 688µg/mL. 7 The AUC of subcutaneous daratumumab is 4017µg/mL*day compared to intravenous daratumumab, which has an AUC of 4019µg/mL*day. 7
+
+## Volume Of Distribution
+
+Daratumumab intravenous monotherapy has a volume of distribution of 4.7 ± 1.3L and the combination therapy has a volume of distribution of 4.4 ± 1.5L. 6 Subcutaneous daratumumab has a volume of distribution of the central compartment of 5.2L and a volume of distribution of the peripheral compartment of 3.8L. 7
+
+## Metabolism
+
+Monoclonal antibodies are expected to be metabolized to smaller proteins and amino acids by proteolytic enzymes. 4
+
+## Route Of Elimination
+
+Monoclonal antibodies are metabolized to amino acids used for synthesis of new proteins or are eliminated by the kidneys. 4
+
+## Half Life
+
+Intravenous daratumumab has a terminal half life of 18 ± 9 days. 6 Subcutaneous daratumumab has a half life of 20 days. 7
+
+## Clearance
+
+Intravenous daratumumab has a clearance of 171.4 ± 95.3mL/day. 6 Subcutaneous daratumumab has a clearance of 119mL/day. 7
+
+## Toxicity
+
+Data regarding overdoses of daratumumab are not readily available. 6 , 7 Patients should be treated with symptomatic and supportive measures. 6 , 7

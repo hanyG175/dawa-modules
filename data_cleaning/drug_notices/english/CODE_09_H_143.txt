@@ -1,0 +1,25 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_H_143
+DCI: METHYLPREDNISOLONE (hémisuccinate) 120 mg pdre p sol inj (METHYLPREDNISOLONE VIATRIS)
+DrugBank ID: DB05340
+DrugBank Name: Prednisolone sodium metazoate
+Brand Names: CORTIDAL | DEPRISOLE | LAMISOLONE | OROPRED | PHYSIOLONE | PREDNAL | PREDNAMEX | PREDNICORT | PREDNISOLONE BEKER ORO | PREDNISOLONE MM ORO | SOLUPRED ORO | SWOR
+Pharmaceutical Forms: Comprimé
+Dosages: 5 mg | 5mg
+Packaging: b/20 | b/30
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H02 - CORTICOIDES A USAGE SYSTEMIQUE | H02A - CORTICOIDES A USAGE SYSTEMIQUE NON ASSOCIES | H02AB - GLUCOCORTICOIDES | H02AB04 - METHYLPREDNISOLONE
+Registration Numbers: 039/09 H 143/23 | 077/09 H 143/19 | 201/09 H 143/11/24 | 235/09 H 143/12/18 | 317/09 H 143/16/21 | 318/09 H 143/22 | 320/09 H 143/07/12 | 400/09 H 143/17 | 447/09 H 143/21 | 462/09 H 143/16 | 468/09 H 143/15 | 470/09 H 143/16/24
+Drug Codes: 09 H 143
+
+------------------------------------------------------------
+
+## Description
+
+ATL-2502(Colal-Pred) is an old drug (prednisolone metasulphobenzoate, a steroid) with a new delivery system that releases the medication only in the colon. Releasing the drug directly into the colon reduces the potential for significant side effects often experienced with steroid drugs. Colal-Pred is being studied for use in ulcerative colitis.
+
+## Mechanism Of Action
+
+ATL-2502 is the combination of Alizyme's proprietary colonic drug delivery system, colal, and prednisolone metasulfobenzoate sodium ("PMSBS"), an approved steroid in Europe. colal-PRED has a starch coating that is only broken down in the gut by bacteria occurring in the colon. This leads to topical delivery of PMSBS to the colon rather than systemic delivery with the objective of providing efficacy, but without the side effects of steroids; however, the efficacy and safety of colal-PRED must be shown in well-controlled, prospective clinical trials and approved by the FDA. Target Actions Organism U Estrogen-related receptor gamma modulator Humans U Steroid hormone receptor ERR1 modulator Humans U Steroid hormone receptor ERR2 modulator Humans

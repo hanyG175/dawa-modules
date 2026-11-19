@@ -1,0 +1,43 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_014
+DCI: SALBUTAMOL (sulfate) 0,5 mg/ml sol inj (VENTOLINE) | SALBUTAMOL (sulfate) 2,5 mg/2,5 ml sol p inhal p nébulis (SALBUTAMOL VIATRIS Unidose) | Salbutamol
+Brand Names: SALBUTAMOL | SLBUTAMOL RAZES | VENTAMOL
+Pharmaceutical Forms: Sol Inj S/C | Sol. Inj. | Solution
+Dosages: 0,5MG/ML | 0.5mg/ml
+Packaging: B/10AMP. DE 1ML | b/10 ampoule de 1ml | b/10 et b/50 amps
+Laboratories: BIOLOGICI | Laboratoire GlaxoSmithKline
+Countries: ITALIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: R - SYSTEME RESPIRATOIRE | R03 - MEDICAMENTS POUR LES SYNDROMES OBSTRUCTIFS DES VOIES AERIENNES | R03A - ADRENERGIQUES POUR INHALATION | R03AC - AGONISTES SELECTIFS BETA 2 ADRENERGIQUES | R03AC02 - SALBUTAMOL | R03AC02
+Registration Numbers: 084/20 A 014/00 | 380/20 A 014/21 | 433/20 A 014/19
+Drug Codes: 20 A 014
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement symptomatique de l'asthme aigu de l'adulte par voie sous-cutanée.
+
+## Posology
+
+Posologie | Unité de prise | dose | salbutamol (sulfate) : 100 µg | Modalités d'administration | Voie inhalée | Information du patient : agiter le flacon avant emploi | Information du patient : laver l'embout après chaque utilisation | Traitement à renouveler si besoin | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient de 1 mois à 12 an(s) | Patient quel que soit le poids | Asthme, traitement de la crise (d') - Exacerbation d'asthme | Posologie standard | Traitement à instaurer aussi rapidement que possible | 100 µg 1 fois ce jour | Dose maximale par prise: 200 µg | Posologie maximale: 800 µg ce jour | Asthme d'effort, traitement préventif (de l') | Posologie standard | Administrer 15 à 30 minutes avant l'effort | 100 µg 1 fois ce jour | Dose maximale par prise: 200 µg | Posologie maximale: 800 µg ce jour | Asthme d'origine allergique, traitement préventif (de l') | Posologie standard | Administrer 10 à 15 minutes avant l'exposition aux allergènes | 100 µg 1 fois ce jour | Dose maximale par prise: 200 µg | Posologie maximale: 800 µg ce jour | Asthme persistant léger à modéré, traitement de fond associé (de l') | Posologie standard | 100 à 200 µg 1 à 4 fois par jour | Posologie maximale: 800 µg par 24 heures | Patient de 12 an(s) à 15 an(s) | Patient quel que soit le poids | Asthme, traitement de la crise (d') - Exacerbation d'asthme | Posologie standard | Traitement à instaurer aussi rapidement que possible | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Asthme d'effort, traitement préventif (de l') | Posologie standard | Administrer 15 à 30 minutes avant l'effort | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Asthme d'origine allergique, traitement préventif (de l') | Posologie standard | Administrer 10 à 15 minutes avant l'exposition aux allergènes | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Asthme persistant léger à modéré, traitement de fond associé (de l') | Posologie standard | 100 à 200 µg 1 à 4 fois par jour | Posologie maximale: 800 µg par 24 heures | Patient à partir de 15 an(s) | Patient quel que soit le poids | Asthme, traitement de la crise (d') - BPCO, traitement symptomatique des poussées (de la) - Exacerbation d'asthme | Posologie standard | Traitement à instaurer aussi rapidement que possible | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Dans le cas de : Etat sévère | Traitement à instaurer aussi rapidement que possible | 100 à 600 µg 1 fois ce jour toutes les 5 à 10 minutes | Asthme d'effort, traitement préventif (de l') | Posologie standard | Administrer 15 à 30 minutes avant l'effort | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Asthme d'origine allergique, traitement préventif (de l') | Posologie standard | Administrer 10 à 15 minutes avant l'exposition aux allergènes | 100 à 200 µg 1 fois ce jour | Posologie maximale: 800 µg ce jour | Test de réversibilité de l'obstruction bronchique lors des explorations fonctionnelles respiratoires | Posologie standard | 100 à 200 µg 1 fois ce jour | Asthme persistant léger à modéré, traitement de fond associé (de l') | Posologie standard | 100 à 200 µg 1 à 4 fois par jour | Posologie maximale: 800 µg par 24 heures
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Anesthésie par hydrocarbure halogéné | Anévrisme | Antécédent récent d'infarctus du myocarde | Arythmie | Asthme sévère | Cardiomyopathie obstructive | Cardiopathie sévère | Diabète | Enfant de moins de 5 ans | Epilepsie | Exacerbation d'asthme | Grossesse | Hypersécrétion bronchique | Hypertension artérielle | Hyperthyroïdie | Hypoxie | Infection bronchique | Insuffisance cardiaque sévère | Insuffisance coronarienne | Ischémie myocardique | Maladie cardiovasculaire | Nourrisson de moins de 18 mois | Nouveau-né exposé in utero au médicament | Patient ayant des difficultés de synchronisation main/poumon | Patient traité à posologie élevée | Phéochromocytome | Sportif | Sujet à risque d'allongement de l'espace QT | Sujet à risque d'hypokaliémie | Tachyarythmie
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Salbutamol : Mécanisme d'action | Le salbutamol est un agoniste des récepteurs bêta-adrénergiques présentant une action beaucoup plus sélective sur les récepteurs bêta-2. | En pneumologie, après inhalation, le salbutamol exerce une action stimulante sur les récepteurs bêta-2 du muscle lisse bronchique, assurant ainsi une bronchodilatation rapide, significative en quelques minutes, et persistant pendant 4 à 6 heures. | En gynécologie, aux doses thérapeutiques usuelles, le salbutamol exerce une action stimulante sur les récepteurs bêta-2 des fibres lisses utérines. Il réduit l'amplitude, la fréquence et la durée des contractions utérines.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Corps cétoniques plasmatiques (augmentation) (Rare) | - LDH (augmentation) (Rare) | - Glycérolémie (augmentation) (Rare) | - Hyperglycémie (Rare) | - Hypokaliémie (Rare) | - Acides gras libres (augmentation) (Rare) | - Hyperlactatémie (Rare) | - Hyperinsulinisme (Rare) | DERMATOLOGIE: | - Hypersudation (Fréquent) | - Erythème cutané (Très rare) | - Urticaire (Très rare) | - Eruption cutanée (Très rare) | - Prurit (Très rare) | - Exanthème | DIVERS: | - Réaction locale (Fréquent) | HÉMATOLOGIE: | - Thrombopénie (Très rare) | IMMUNO-ALLERGOLOGIE: | - Angioedème (Très rare) | - Hypersensibilité (Très rare) | NUTRITION, MÉTABOLISME: | - Acidose lactique (Rare) | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Dysgueusie (Fréquent) | - Irritation buccale (Peu fréquent) | - Irritation de la gorge (Peu fréquent) | - Sensation de vertige (Fréquent) | - Hyposialie (Rare) | - Douleur buccale (Rare) | - Sensation de brûlure de la langue | PSYCHIATRIE: | - Agitation (Fréquent) | - Hallucination (Très rare) | - Insomnie (Très rare) | - Trouble du comportement (Très rare) | - Nervosité (Très rare) | - Trouble du sommeil (Très rare) | SYSTÈME CARDIOVASCULAIRE: | - Tachycardie (Fréquent) | - Palpitation (Peu fréquent) | - Vasodilatation périphérique (Rare) | - Instabilité tensionnelle (Rare) | - Hypotension artérielle (Très rare) | - Arythmie (Rare) | - Collapsus cardiovasculaire (Très rare) | - Ischémie myocardique (Très rare) | - Angor (Rare) | - Tachycardie sinusale | - Pression artérielle (augmentation) | - Pression artérielle (diminution) | - Tachycardie supraventriculaire | - Extrasystole | - Fibrillation auriculaire | - Hypertension artérielle | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Crampe (Peu fréquent) | - Douleur musculaire | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Tremblement (Fréquent) | - Hyperactivité (Rare) | - Tremblements des mains | - Stimulation du système nerveux central | SYSTÈME RESPIRATOIRE: | - Bronchospasme paradoxal (Rare) | - Toux (Rare) | - Bronchospasme | UROLOGIE, NÉPHROLOGIE: | - Néphropathie (Très rare)

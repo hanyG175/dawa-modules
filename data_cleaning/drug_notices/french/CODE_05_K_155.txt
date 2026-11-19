@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_K_155
+DCI: ONDANSETRON 8 mg cp orodispers (ONDANSETRON EG)
+Brand Names: ONDAPHREN
+Pharmaceutical Forms: Comprimé
+Dosages: 8 mg
+Packaging: b/04
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A04 - ANTIEMETIQUES ET ANTINAUSEEUX | A04A - ANTIEMETIQUES ET ANTINAUSEEUX | A04AA - ANTAGONISTES DE LA SEROTONINE (5HT3) | A04AA01 - ONDANSETRON
+Registration Numbers: 352/05 K 155/18/23
+Drug Codes: 05 K 155
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | ondansétron (chlorhydrate) : 8 mg | Modalités d'administration | Voie orale | Utiliser la forme la plus adaptée au patient | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | Posologie | Patient de 6 an(s) à 18 an(s) | Patient quel que soit le poids | Nausées et vomissements induits par la chimiothérapie | Traitement usuel | Dans le cas de : Surface corporelle = 0,6 m² et = 1,2 m² | Traitement à instaurer en relais d'un traitement antiémétique par voie parentérale | 8 mg toutes les 12 heures | Pendant 1 à 5 jours | Posologie maximale: 32 mg par 24 heures | Poids < 11 kg | Nausées et vomissements induits par la chimiothérapie | Traitement alternatif | Traitement à instaurer en relais d'un traitement antiémétique par voie parentérale | 2 mg toutes les 12 heures | Pendant 1 à 5 jours | Posologie maximale: 32 mg par 24 heures | 11 kg <= Poids < 150 kg | Nausées et vomissements induits par la chimiothérapie | Traitement alternatif | Traitement à instaurer en relais d'un traitement antiémétique par voie parentérale | 4 mg toutes les 12 heures | Pendant 1 à 5 jours | Posologie maximale: 32 mg par 24 heures | Patient à partir de 18 an(s) | Patient quel que soit le poids | Nausées et vomissements induits par la chimiothérapie - Nausées et vomissements induits par la radiothérapie | Posologie standard | Débuter le traitement 1 à 2 heures avant la chimiothérapie ou radiothérapie | 8 mg toutes les 12 heures | Pendant 2 à 5 jours | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Allongement de l'espace QT | Amygdalectomie et adénoïdectomie | Enfant entre 6 et 18 ans | Femme susceptible d'être enceinte | Grossesse, 6 derniers mois (de la) | Insuffisance cardiaque congestive | Insuffisance hépatique modérée à sévère | Nouveau-né exposé in utero au médicament | Obstruction intestinale | Sujet à risque d'allongement de l'espace QT
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Ondansétron : Mécanisme d'action | L'ondansétron est un puissant antagoniste et hautement sélectif des récepteurs 5-HT3 à la sérotonine, impliqués dans les phénomènes de réflexe émétique. | Son mode d'action précis permettant le contrôle des nausées et vomissements n'est pas connu. La chimiothérapie et la radiothérapie peuvent entraîner une libération de 5-HT dans l'intestin grêle déclenchant un réflexe de vomissement par stimulation des récepteurs 5-HT3 situés sur les fibres afférentes du vague. L'ondansétron bloque le déclenchement de ce réflexe. L'excitation des fibres afférentes du vague peut également provoquer une libération de 5-HT dans l'area postrema, située dans le plancher du quatrième ventricule et cela peut également favoriser les vomissements à travers un mécanisme central. L'effet de l'ondansétron dans la gestion des nausées et vomissements induits par la chimiothérapie cytotoxique et la radiothérapie est probablement dû à l'antagonisme des récepteurs 5-HT3 sur les neurones situés à la fois dans le système nerveux central et périphérique. Les mécanismes d'action en cas de nausées et vomissements postopératoires ne sont pas connus mais il peut y avoir une similitude avec des nausées et vomissements induits par des cytotoxiques. | L'ondansétron ne modifie pas les concentrations plasmatiques de prolactine. | L'efficacité de l'ondansétron dans les vomissements induits par les opiacés n'est pas encore établi.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Peu fréquent) | DERMATOLOGIE: | - Dermatose (Très rare) | - Syndrome de Lyell | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | DIVERS: | - Douleur thoracique (Peu fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité immédiate (Rare) | - Réaction anaphylactique | OPHTALMOLOGIE: | - Trouble de la vision (Rare) | - Cécité transitoire (Très rare) | - Cécité corticale | ORL, STOMATOLOGIE: | - Sensation de vertige (Rare) | - Vertige (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Arythmie (Peu fréquent) | - Bouffée de chaleur (Fréquent) | - Bouffée congestive (Fréquent) | - Bradycardie (Peu fréquent) | - Hypotension artérielle (Peu fréquent) | - Allongement de l'espace QT (Rare) | - Torsades de pointes | - Ischémie myocardique | - Segment ST anormal à l'électrocardiogramme | - Anomalie du segment ST-T | SYSTÈME DIGESTIF: | - Hoquet (Peu fréquent) | - Constipation (Fréquent) | - Sensation de brûlure anale | - Iléus | - Occlusion intestinale | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Convulsions (Peu fréquent) | - Syndrome extrapyramidal (Peu fréquent) | - Mouvement anormal (Peu fréquent) | - Crise oculogyre | - Dyskinésie | - Dystonie

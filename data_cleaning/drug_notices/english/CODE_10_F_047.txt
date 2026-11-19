@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_F_047
+DCI: Domperidone
+DrugBank ID: DB01184
+DrugBank Name: Domperidone
+Brand Names: DOMPERIDONE BGL
+Pharmaceutical Forms: Sol. Buv.
+Dosages: 1MG/ML
+Packaging: B/1FL. DE 200ML + 1SERING. P. ADMINIST. OR. GRADUE EN KG
+Laboratories: BIO-GALENIC
+Countries: ALGERIE
+Reference Tariff (DA): 226 DA
+Prescription List: Liste II
+ATC Classification: 10F047
+Registration Numbers: 035/10 F 047/16 | 065/10 F 047/03/15 | 077/10 F 047/09/14 | 095/10 F 047/98/14 | 099/10 F 047/98/12 | 235/10 F 047/12/18 | 242/10 F 047/09/16 | 311/10 F 047/17/23 | 317/10 F 047/15/22 | 400/10 F 047/17
+Drug Codes: 10 F 047
+
+------------------------------------------------------------
+
+## Description
+
+A specific blocker of dopamine receptors. It speeds gastrointestinal peristalsis, causes prolactin release, and is used as antiemetic and tool in the study of dopaminergic mechanisms.
+
+## Pharmacodynamics
+
+Domperidone is a specific blocker of dopamine receptors. It speeds gastrointestinal peristalsis, causes prolactin release, and is used as antiemetic and tool in the study of dopaminergic mechanisms.
+
+## Mechanism Of Action
+
+D(3) dopamine receptor Antagonist D(2) dopamine receptor Antagonist
+
+## Metabolism
+
+Hover over products below to view reaction partners Domperidone 5-Chloro-1,3-dihydro-1-(4-piperidinyl)-2H-benzimidazol-2-one
+
+## Half Life
+
+7 hours
+
+## Toxicity
+
+Side effects include galactorrhea, gynecomastia, or menstrual irregularities.

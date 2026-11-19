@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_G_132
+DCI: Fentanyl
+DrugBank ID: DB00813
+DrugBank Name: Fentanyl
+Brand Names: PECFENT
+Pharmaceutical Forms: Sol Pour Pulverisation Nasale
+Dosages: 100mg/pul
+Packaging: flacon de 8 pulv
+Laboratories: LABORATOIRE RENAUDIN | ZONE ARTISANALE ERROBI | 64250 ITXASSOU
+ATC Classification: N01AH01
+Registration Numbers: 612/03 G 132/23
+Drug Codes: 03 G 132
+
+------------------------------------------------------------
+
+## Description
+
+Fentanyl, a potent opioid agonist, was developed in the 1950s to fill a need for strong and rapid analgesia. 8 Because of these characteristics, fentanyl is commonly used to treat chronic cancer pain or in anesthesia. Label , 15 , 16 , 17 , 18 , 19 , 20 , 21 Fentanyl is related to other opioids like morphine and oxycodone . Fentanyl's high potency has also made it a common adulterant in illicit drugs, especially heroin. 8 In 2017, 47600 overdose deaths in the United States involved some opioid (over 2/3 of all overdose deaths). 22 Opioid overdoses kill an average of 11 Canadians daily. 23 Fentanyl was FDA approved in 1968. Label , 15 , 16 , 17 , 18 , 19 , 20 , 21
+
+## Pharmacodynamics
+
+Fentanyl produces strong analgesia through its activation of opioid receptors. Label , 6 It has a duration of action of several hours and a wider therapeutic index as patients develop tolerance to opioids. Label Fentanyl is associated with a risk of addiction and abuse and should not be mixed with alcohol or benzodiazepines. Label , 15 , 16 , 17 , 18 , 19 , 20 , 21
+
+## Mechanism Of Action
+
+Mu-type opioid receptor Agonist Delta-type opioid receptor Agonist
+
+## Absorption
+
+Fentanyl sublingual tablets are 54% bioavailable 15 , transmucosal lozenges are 50% bioavailable 16 , buccal tablets are 65% bioavailable 17 , sublingual spray is 76% bioavailable 18 , and nasal spray is 20% more bioavailable than transmucosal 20 (or approximately 64% bioavailable). Fentanyl transmucosal lozenges reach a C max of 0.4±0.1ng/mL for a 200µg dose and 2.5±0.6ng/mL for a 1600µg dose with a T max of 20-40 minutes. 11 The AUC was 172±96ng*min/mL for a 200µg dose and 1508±1360ng*min/mL for a 1600µg dose. 11 Fentanyl sublingual spray reached a C max of 0.20±0.06ng/mL for a 100µg dose and 1.61±0.60ng/mL for an 800µg dose with a T max of 0.69-1.25 hours, decreasing as the dose increased. 12 The AUC was 1.25±0.67ng*h/mL for a 100µg dose and 10.38±3.70ng*h/mL for a 800µg dose. 12 Fentanyl transdermal systems reached a C max of 0.24±0.20ng/mL with a T max of 3.6±1.3h for a 25µg/h dose. 13 The AUC was 0.42±0.35ng/mL*h. 13 Fentanyl nasal spray reaches a C max of 815±301pg/mL with a T max of less than 1 hour for a 200µg/100µL dose. 14 The AUC was 3772pg*h/mL. 14
+
+## Volume Of Distribution
+
+The intravenous volume of distribution is 4L/kg (3-8L/kg) Label , 19 . The oral volume of distribution is 25.4L/kg. 17 In hepatically impaired patients, the intravenous volume of distribution ranges from 0.8-8L/kg. 19 Fentanyl crosses the blood brain barrier 9 and the placenta. 10
+
+## Metabolism
+
+Fentanyl is metabolized to a number of inactive metabolites. 5 Fentanyl is 99% N-dealkylated to norfentanyl by cytochrome P450. 5 It can also be amide hydrolyzed to despropionylfentanyl, or alkyl hydroxylated to hydroxyfentanyl which is N-dealkylated to hydroxynorfentanyl. 5 Hover over products below to view reaction partners Fentanyl norfentanyl Despropionylfentanyl Hydroxyfentanyl Hydroxynorfentanyl
+
+## Route Of Elimination
+
+Within 72 hours, 75% of a dose of fentanyl is excreted in the urine with <7% unchanged, and 9% is excreted in the feces with <1% unchanged. Label , 15 , 19
+
+## Half Life
+
+The half life of fentanyl is 7 hours. 16 The half life of fentanyl sublingual spray is 5-12 hours. 18
+
+## Clearance
+
+Total plasma clearance of fentanyl is 0.5L/hr/kg (0.3-0.7L/hr/kg) 16 or 42L/hr. 17 , 20 Following an intravenous dose, surgical patients displayed a clearance of 27-75L/h, hepatically impaired patients displayed a clearance of 3-80L/h, and renally impaired patients displayed a clearance of 30-78L/h. 19
+
+## Toxicity
+
+Fentanyl has an intravenous LD 50 of 2.91mg/kg in rats 1 , an oral LD 50 of 18mg/kg in rats and 368mg/kg in mice. MSDS The LD50 in humans is not known. Symptoms of overdose include respiratory depression, somnolence, stupor, coma, skeletal muscle flaccidity, cold and clammy skin, pupillary constriction, pulmonary edema, bradycardia, hypotension, airway obstruction, atypical snoring, and death. Label , 15 , 16 , 17 , 18 , 19 , 20 In case of overdose, patients should receive naloxone or nalmefene to reverse the action of the opioids as well as supportive measures to maintain the airway or advanced life support in the case of cardiac arrest. Label , 15 , 16 , 17 , 18 , 19 , 20

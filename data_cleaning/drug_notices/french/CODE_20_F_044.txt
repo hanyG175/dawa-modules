@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_F_044
+DCI: BUDESONIDE 200 µg/dose pdre p inhal (PULMICORT TURBUHALER)
+Brand Names: BUDIAIR 200µG ET BUDIAIR 200µG JET
+Pharmaceutical Forms: Sol. Sous Pression P. Inhal. Bucc.
+Dosages: 200mcg/dose
+Packaging: flacon./200doses et flacon./200doses + chambre p. inhal.(jet)
+Laboratories: AstraZeneca
+Registration Numbers: 092/20 F 044/10
+Drug Codes: 20 F 044
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement continu anti-inflammatoire de l'asthme persistant | * | . | * | L'asthme persistant se définit par l'existence de symptômes diurnes plurihebdomadaires et/ou de symptômes nocturnes plus de 2 fois par mois. | Remarque : | cette spécialité est particulièrement adaptée aux sujets chez qui il a été mis en évidence une mauvaise synchronisation main/poumon nécessaire pour une utilisation correcte des aérosols doseurs classiques sans chambre d'inhalation.

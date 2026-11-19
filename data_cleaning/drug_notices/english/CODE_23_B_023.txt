@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_23_B_023
+DCI: Hexetidine/Salicylate De Choline/Chlorbutanol Hemihydratee
+DrugBank ID: DB08958
+DrugBank Name: Hexetidine
+Brand Names: GIVALEX
+Pharmaceutical Forms: Sol.Bain.Bouche
+Dosages: 0.1g/0.5g/0.25g**/100ml
+Packaging: flacon/125 ml
+Registration Numbers: 437/23 B 023/99/09
+Drug Codes: 23 B 023
+
+------------------------------------------------------------
+
+## Description
+
+A bactericidal and fungicidal antiseptic. It is used as a 0.1% mouthwash for local infections and oral hygiene.

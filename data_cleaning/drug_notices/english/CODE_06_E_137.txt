@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_137
+DCI: CAPTOPRIL 50 mg + HYDROCHLOROTHIAZIDE 25 mg cp (CAPTOPRIL/HYDROCHLOROTHIAZIDE EG)
+DrugBank ID: DB01197
+DrugBank Name: Captopril
+Brand Names: CAPOCARD PLUS | CO-TENSOPREL | ECAZIDE
+Pharmaceutical Forms: Comprimé
+Dosages: 50mg/25mg
+Packaging: b/28 et b/30 | b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09A - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA - INHIBITEURS DE L'ENZYME DE CONVERSION (IEC) NON ASSOCIES | C09AA01 - CAPTOPRIL
+Registration Numbers: 017/06 E 137/99/16 | 055/06 E 137/03/23 | 268/06 E 137/14/24
+Drug Codes: 06 E 137
+
+------------------------------------------------------------
+
+## Description
+
+Captopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Captopril may be used in the treatment of hypertension.
+
+## Pharmacodynamics
+
+Captopril, an ACE inhibitor, antagonizes the effect of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure using a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may sustain its effects by causing increased vasodilation and decreased blood pressure.
+
+## Mechanism Of Action
+
+Angiotensin-converting enzyme Inhibitor
+
+## Absorption
+
+60-75% in fasting individuals; food decreases absorption by 25-40% (some evidence indicates that this is not clinically significant)
+
+## Metabolism
+
+Hepatic. Major metabolites are captopril-cysteine disulfide and the disulfide dimer of captopril. Metabolites may undergo reversible interconversion. Hover over products below to view reaction partners Captopril captopril-cysteine disulfide
+
+## Half Life
+
+2 hours
+
+## Toxicity
+
+Symptoms of overdose include emesis and decreased blood pressure. Side effects include dose-dependent rash (usually maculopapular), taste alterations, hypotension, gastric irritation, cough, and angioedema.

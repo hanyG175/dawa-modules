@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_F_123
+DCI: CALCIUM EDETATE DE SODIUM 50 mg/ml sol inj (CALCIUM EDETATE DE SODIUM SERB) | OXYBUPROCAINE CHLORHYDRATE 0,4 % collyre sol récip unidose (CHLORHYDRATE D'OXYBUPROCAINE THEA Unidose)
+Brand Names: ACIDE ZOLEDRONIQUE HIKMA | ZOBONE | ZOLDRIA | ZOLEDRO DENK | ZOLENAT | ZOLIDRO | ZOMETA | ZOTHERA
+Pharmaceutical Forms: Lyoph. Et Solv. P. Sol. A Diluer P. Perf. Iv | Lyoph. P. Sol. Inj. Iv | Poudre Lyophilisee P/Perf Iv | Sol. Conc. P. Perf. Iv | Solution
+Dosages: 0.8mg/ml (4mg/5ml)
+Packaging: b/01 flacon de pdre | b/01 flacon. de 5ml | b/01fl. de 5ml | b/01fl. de lyoph. de contenance de 5ml | b/1fl. de pdre. + 1amp. de 5ml de solv. (eppi)
+Laboratories: THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01H - ANESTHESIQUES LOCAUX | S01HA - ANESTHESIQUES LOCAUX | S01HA02 - OXYBUPROCAÏNE | V - DIVERS | V03 - TOUS AUTRES MEDICAMENTS | V03A - TOUS AUTRES MEDICAMENTS | V03AB - ANTIDOTES | V03AB03 - EDETATES
+Registration Numbers: 001/05 F 123/14 | 068/05 F 123/08 | 128/05 F 123/10/16 | 176/05 F 123/12 | 330/05 F 123/12 | 433/05 F 123/15/25 | 543/05 F 123/20 | 663/05 F 123/25
+Drug Codes: 05 F 123
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Anesthésie locale : | Tonométrie. | Examens par verre de contact. | Extraction des corps étrangers superficiels de la cornée et de la conjonctive. | Tout geste nécessitant une anesthésie locale de la cornée et de la conjonctive.
+
+## Posology
+
+Posologie | Unité de prise | gte | oxybuprocaïne chlorhydrate : 0.2 mg | Modalités d'administration | Voie ophtalmique | Administrer 1 à 2 minutes avant l'examen | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Eviter le contact de l'embout avec l'oeil et les paupières | Se laver les mains avant instillation | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Anesthésie locale de surface en ophtalmologie | Posologie standard | 1 à 2 gouttes 1 fois ce jour | Dans le cas de : Anesthésie plus profonde | 1 à 2 gouttes 1 fois ce jour toutes les 1 minute pendant 2 à 4 minutes
+
+## Precautions
+
+Allaitement | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Oxybuprocaïne : Mécanisme d'action | L’oxybuprocaïne est un anesthésique local dérivé de l' | acide para-aminobenzoïque | .
+
+## Adverse Effects
+
+OPHTALMOLOGIE: | - Irritation oculaire | - Picotement oculaire | SYSTÈME CARDIOVASCULAIRE: | - Collapsus cardiovasculaire (Exceptionnel) | - Bradycardie (Exceptionnel)

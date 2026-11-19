@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_203
+DCI: Trastuzumab Emtansine
+DrugBank ID: DB05773
+DrugBank Name: Trastuzumab emtansine
+Brand Names: KADCYLA
+Pharmaceutical Forms: Poudre
+Dosages: 20 mg/ml
+Packaging: b/01 flacon.100mg de pdre (100mg/5ml) et b/01 flacon. 160mg ( 160mg/8ml)
+Registration Numbers: 128/05 D 203/17
+Drug Codes: 05 D 203
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Trastuzumab emtansine was evaluated in two Herceptin-responsive and one Herceptin-resistant breast tumor models. In the Herceptin-responsive models, Trastuzumab-DM1 caused complete tumor regression in all mice, whereas Herceptin alone slowed tumor growth. In the Herceptin- resistant model, Herceptin alone had no effect on tumor growth. In contrast, Trastuzumab-DM1 caused >90% tumor reduction in all mice. In this Herceptin- resistant model, tumor regrowth was observed after cessation of Trastuzumab- DM1 treatment, yet regression re-occurred when dosing was resumed. The effect was specific for HER2-positive tumors. Thus the physiological effects of trastuzumab emtansine are cell cycle arrest and cell death by apoptosis.
+
+## Mechanism Of Action
+
+Receptor tyrosine-protein kinase erbB-2 Antibody
+
+## Absorption
+
+The absorption/ bioavailability should be close to 100% since trastuzumab emtansine is administered IV.
+
+## Volume Of Distribution
+
+The volume of distribution of trastuzumab emtansine is about 3.13 L.
+
+## Metabolism
+
+Trastuzumab emtansine undergoes lysosomal degradation to MCC-DM1, Lys-MCC-DM1, and DM1. All of these products are detected at low levels in the plasma. DM1 undergoes further degradation by CYP3A4 and CYP3A5, but DM1 does not induce or inhibit any of the CYP450 enzymes.
+
+## Route Of Elimination
+
+The route of elimination has not yet been fully elucidated.
+
+## Half Life
+
+Trastuzumab emtansine has a long half life of about 4 days.
+
+## Clearance
+
+After IV infusion, trastuzumab emtansine has a clearance of 0.68 L/day.
+
+## Toxicity
+
+The FDA label includes a black box warning of serious side effects such as hepatotoxicity, embryo-fetal toxicity, and cardiac toxicity.

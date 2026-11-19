@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_C_485
+DCI: Tigecycline
+DrugBank ID: DB00560
+DrugBank Name: Tigecycline
+Brand Names: TYGACIL
+Pharmaceutical Forms: Poudre
+Dosages: 50 mg/fl
+Packaging: b/10 fls de poudre de 5ml
+Registration Numbers: 045/13 C 485/17/23
+Drug Codes: 13 C 485
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Tigecycline is the first clinically-available drug in a new class of antibiotics called the glycylcyclines. Glycylcyclines are a new class of antibiotics derived from tetracycline. These tetracycline analogues are specifically designed to overcome two common mechanisms of tetracycline resistance, namely resistance mediated by acquired efflux pumps and/or ribosomal protection. Glycylcycline antibiotics have a similar mechanism of action as tetracycline antibiotics. Both classes of antibiotics bind to the 30S ribosomal subunit to prevent the amino-acyl tRNA from binding to the A site of the ribosome. However, the glycylcyclines appear to bind more effectively than the tetracyclines.
+
+## Mechanism Of Action
+
+16S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor Small ribosomal subunit protein uS9 (Escherichia coli (strain K12)) Inhibitor Small ribosomal subunit protein uS12 (Escherichia coli (strain K12)) Inhibitor + 3 more targets
+
+## Metabolism
+
+Tigecycline is not extensively metabolized. In vitro studies with tigecycline using human liver microsomes, liver slices, and hepatocytes led to the formation of only trace amounts of metabolites. A glucuronide, an N-acetyl metabolite, and a tigecycline epimer (each at no more than 10% of the administered dose) are the primary metabolites.
+
+## Half Life
+
+27-43 hours
+
+## Toxicity
+
+Since glycylcyclines are similar to tetracyclines, they share many of the same side effects and contraindications as tetracyclines. These side effects may include nausea/vomiting, headache, photosensitivity, discoloration of growing teeth, and fetal damage.

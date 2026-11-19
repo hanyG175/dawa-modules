@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_065
+DCI: PREGABALINE vingt-cinq milligrammes gél (PREGABALINE ALTER)
+DrugBank ID: DB00230
+DrugBank Name: Pregabalin
+Brand Names: LYRICA
+Pharmaceutical Forms: Gélule
+Dosages: 25mg
+Packaging: b/56
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02B - AUTRES ANALGESIQUES ET ANTIPYRETIQUES | N02BF - GABAPENTINOIDES | N02BF02 - PREGABALINE
+Registration Numbers: 045/15 A 065/06/16
+Drug Codes: 15 A 065
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Although the structure of pregabalin is similar to gamma-aminobutyric acid (GABA), it does not bind to GABA receptors. 6 , 20 Instead, it binds the alpha2-delta subunit of presynaptic voltage-gated calcium channels in the central nervous system. 6 , 20 Pregabalin does not modulate dopamine receptors, serotonin receptors, opiate receptors, sodium channels or cyclooxygenase activity. 20
+
+## Mechanism Of Action
+
+Voltage-dependent calcium channel subunit alpha-2/delta-1 Modulator
+
+## Absorption
+
+After oral dosing administered in the fasted state, pregabalin absorption is rapid, and extensive. 8 Pregabalin oral bioavailability is reported to be ≥90% regardless of the dose. 8 Cmax is attained within 1.5 hours after single or multiple doses, and steady state is attained within 24-48 hours with repeated administration. 8 , 22 Both Cmax and AUC appear to be dose proportional. 8 Food decreases the rate of pregabalin absorption and as a result, lowers the Cmax by an estimated 25-30% and increases the Tmax to approximately 3 hours. 22 However, the effect of food does not appear to impact the total absorption of pregabalin in a way that is clinically relevant. As a result, pregabalin can be administered with or without food. 22
+
+## Volume Of Distribution
+
+After oral administration of pregabalin, the reported apparent volume of distribution is roughly 0.5 L/kg. 22 Although pregabalin is not very lipophilic, it is able to cross the blood brain barrier(BBB). 16 System L transporters facilitate the transport of large amino acids across the BBB and it has been confirmed that pregabalin is a substrate. 22 , 16 This information suggests that system L transporters are responsible for pregabalin uptake into the BBB. 16 In rat models, pregabalin has been shown to cross the placenta. 22
+
+## Metabolism
+
+Less than 2% of pregabalin is metabolized and it is excreted virtually unchanged in the urine. 8 , 22 Hover over products below to view reaction partners Pregabalin N-methylpregabalin
+
+## Route Of Elimination
+
+Pregabalin is almost exclusively eliminated in the urine. 17 , 18 Further, based on preclinical studies, pregabalin does not appear to undergo racemization to the R enantiomer in the body. 11
+
+## Half Life
+
+The elimination half life of pregabalin is 6.3 hours. 22
+
+## Clearance
+
+In young healthy subjects the mean renal clearance is estimated to be 67.0 to 80.9 mL mL/min. 22 Given pregabalin's lack of plasma protein binding, this clearance rate suggests that renal tubular reabsorption is involved. 22
+
+## Toxicity
+
+In a systematic review that included 38 randomized controlled trials, there were 20 identified adverse effects that were significantly associated with pregabalin, most of which involve the central nervous system and cognition. The identified adverse effects include vertigo, dizziness, balance disorder, incoordination, ataxia, blurred vision, diplopia, amblyopia, somnolence, confusional state, tremor, disturbance in attention, abnormal thinking, asthenia, fatigue, euphoria, edema, peripheral edema, dry mouth, and constipation 14 . The most common symptoms of pregabalin toxicity (dose range includes 800 mg/day and single doses up to 11,500 mg) include somnolence, confusion, restlessness, agitation, depression, affective disorder and seizures. 23 Since there is no antidote for pregabalin overdose, patients should receive general supportive care. If appropriate, gastric lavage or emesis may help eliminate unabsorbed pregabalin (healthcare providers should take standard precautions to maintain the airway). 23 Pregabalin pharmacokinetic properties suggest that extra-corporeal elimination methods including haemodialysis, may be useful in situations of severe toxicity. 19 However, there are cases where patients have presented with very high serum levels of pregabalin and have been successfully managed with supportive care alone. 19

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_513
+DCI: LINEZOLIDE 600 mg cp (LINEZOLIDE ACCORD)
+DrugBank ID: DB00601
+DrugBank Name: Linezolid
+Brand Names: ZERSA
+Pharmaceutical Forms: Comprimé
+Dosages: 600mg
+Packaging: boite de 10
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01X - AUTRES ANTIBACTERIENS | J01XX - AUTRES ANTIBACTERIENS | J01XX08 - LINEZOLIDE
+Registration Numbers: 001/13 B 513/23
+Drug Codes: 13 B 513
+
+------------------------------------------------------------
+
+## Description
+
+Linezolid is a synthetic antibiotic which is used for the treatment of infections caused by aerobic Gram-positive bacteria. Its effects are bacteriostatic against both enterococci and staphylococci and bactericidal against most isolates of streptococci. 9 Linezolid exerts its antibacterial activity by inhibiting the initiation of bacterial protein synthesis - more specifically, it binds to the 23S ribosomal RNA of the 50S subunit 7 , 8 and, in doing so, prevents the formation of the 70S initiation complex which is essential for bacterial reproduction. Linezolid was initially approved in 2000 and was the first member of the oxazolidinone antibiotic class. 3 A second member of this class, tedizolid , was approved by the FDA in 2014 and is considered generally more effective and tolerable than its predecessor.
+
+## Pharmacodynamics
+
+Linezolid is an oxazolidinone antibacterial agent effective against most strains of aerobic Gram-positive bacteria and mycobacteria. It appears to be bacteriostatic against both staphylococci and enterococci and bactericidal against most isolates of streptococci. 9 Linezolid has shown some in vitro activity against Gram-negative and anaerobic bacteria but is not considered efficacious against these organisms. 9 Linezolid is a reversible and non-selective inhibitor of monoamine oxidase (MAO) enzymes and can therefore contribute to the development of serotonin syndrome when administered alongside serotonergic agents such as selective serotonin re-uptake inhibitors (SSRIs) or tricyclic antidepressants (TCAs). 9 Linezolid should not be used for the treatment of catheter-related bloodstream infections or catheter-site infections, as the risk of therapy appears to outweigh its benefits under these circumstances. 9
+
+## Mechanism Of Action
+
+23S ribosomal RNA (Enteric bacteria and other eubacteria) Blocker
+
+## Absorption
+
+Linezolid is extensively absorbed following oral administration and has an absolute bioavailability of approximately 100%. 9 Maximum plasma concentrations are reached within approximately 1 to 2 hours after dosing (T max ) and range from 8.1-12.9 mcg/mL after single doses and 11.0-21.2 mcg/mL after multiple dosing. 9 The absorption of orally administered linezolid is not significantly affected by co-administration with food and it may therefore be given without regard to the timing of meals. 9
+
+## Volume Of Distribution
+
+At steady-state, the volume of distribution of linezolid in healthy adults is approximately 40-50 liters. 9
+
+## Metabolism
+
+Linezolid is primarily metabolized to two inactive metabolites: an aminoethoxyacetic acid metabolite (PNU-142300) and a hydroxyethyl glycine metabolite (PNU-142586), both of which are the result of morpholine ring oxidation. 9 , 5 The hydroxyethyl glycine metabolite - the most abundant of the two metabolites 11 - is likely generated via non-enzymatic processes, though further detail has not been elucidated. 9 , 5 While the specific enzymes responsible for the biotransformation of linezolid are unclear, it does not appear to be subject to metabolism via the CYP450 enzyme system, nor does it meaningfully inhibit or induce these enzymes. 11 Linezolid is, however, a reversible and non-selective inhibitor of monoamine oxidase enzymes. 9 Hover over products below to view reaction partners Linezolid PNU-142300 PNU-142586
+
+## Route Of Elimination
+
+Urinary excretion is the primary means by which linezolid and its metabolic products are excreted. Following the administration of a radiolabeled dose of linezolid under steady-state conditions, approximately 84% of radioactivity was recovered in the urine, 5 of which approximately 30% is unchanged parent drug, 40% is the hydroxyethyl glycine metabolite, and 10% is the aminoethoxyacetic acid metabolite. 9 Fecal elimination is comparatively minor, with no parent drug observed in feces and only 6% and 3% of an administered dose found in the feces as the hydroxyethyl glycine metabolite and the aminoethoxyacetic acid metabolite, respectively. 9
+
+## Half Life
+
+The elimination half-life is estimated to be between 5 and 7 hours. 11
+
+## Clearance
+
+Total clearance of linezolid is estimated to be 100-200 mL/min, the majority of which appears to be non-renal. 11 Mean renal clearance is approximately 40 mL/min, which suggests net tubular reabsorption, 9 while non-renal clearance is estimated to account for roughly 65% of total clearance, 9 or 70-150 mL/min on average. 11 Variability in linezolid clearance is high, particularly for non-renal clearance. 11
+
+## Toxicity
+
+Clinical signs of overdosage observed in rats were decreased activity and ataxia (2000 mg/kg/day) and in dogs were vomiting and tremors (3000 mg/kg/day). 9 Treatment of overdose should involve symptomatic and supportive measures and may include hemodialysis if clinically necessary.

@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_E_031
+DCI: SPIRAMYCINE 1,5 M UI cp (ROVAMYCINE)
+Brand Names: PRAMYCINE | ROVA NS | ROVAMYNE | SPIRA | SPIRACARE | SPIRALEX | SPIRAMEX | SPIRAMYNAL
+Pharmaceutical Forms: Comprimé
+Dosages: 1500000ui
+Packaging: b/16
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01F - MACROLIDES, LINCOSAMIDES ET STREPTOGRAMINES | J01FA - MACROLIDES | J01FA02 - SPIRAMYCINE
+Registration Numbers: 039/13 E 031/05/15 | 235/13 E 031/19 | 263/13 E 031/08/24 | 293/13 E 031/05/25 | 318/13 E 031/25 | 380/13 E 031/19 | 400/13 E 031/16 | 470/13 E 031/21
+Drug Codes: 13 E 031
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | spiramycine : 3 M UI | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Bronchite aiguë présumée bactérienne - Dermohypodermite infectieuse - Ecthyma - Erysipèle - Erythrasma - Impétiginisation de dermatose - Impétigo - Infection génitale non gonococcique - Infection stomatologique - Pneumopathie aiguë - Pneumopathie d'allure non pneumococcique - Rhumatisme articulaire aigu, rechutes (de), traitement préventif alternatif des bêtalactamines (des) - Sinusite aiguë, traitement alternatif aux bêtalactamines(de la) - Surinfection de bronchite chronique | Posologie standard | 6 à 9 M UI en 2 à 3 prises par jour | Angine aiguë streptococcique, traitement alternatif à la pénicillinothérapie (de l') | Posologie standard | 6 à 9 M UI en 2 à 3 prises par jour | Pendant 10 jours | Méningite à méningocoques, traitement préventif alternatif à la rifampicine (de la) | Posologie standard | 3 M UI toutes les 12 heures | Pendant 5 jours | Patient de sexe féminin | Toxoplasmose chez la femme enceinte | Posologie standard | 6 à 9 M UI en 2 à 3 prises par jour
+
+## Precautions
+
+Allaitement | Bradycardie | Cardiopathie | Enfant de moins de 15 ans | Femme | Hypokaliémie | Hypomagnésémie | Infarctus du myocarde | Insuffisance cardiaque | Sujet âgé | Sujet à risque d'allongement de l'espace QT | Syndrome du QT long congénital | Trouble hydroélectrolytique
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Spiramycine : Mécanisme d'action | La spiramycine est un antibiotique antibactérien de la famille des macrolides. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes sont : S 4 mg/l. | Espèces sensibles : | aérobies à Gram + : | Bacillus cereus | , | Corynebacterium diphteriae | , entérocoques, | Rhodococcus equi | , | staphylococcus | méti-S, | staphylococcus | méti-R, | streptococcus | B, | streptococcus | non groupable, | Streptococcus pneumoniae | , | Streptococcus pyogenes | ; | aérobies à Gram - : | Bordetella pertussis | , | Branhamella catarrhalis | , | campylobacter | , | legionella | , | moraxella | ; | anaérobies : | actinomyces | , | bacteroides | , | eubacterium | , | mobiluncus | , | peptostreptococcus | , | porphyromonas | , | prevotella | , | Propionibacterium acnes | ; | autres : | Borrelia burgdorferi | , | chlamydia | , | coxiella | , | leptospires | , | Mycoplasma pneumoniae | , | Treponema pallidum | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram - : | Neisseria gonorrhoeae | ; | anaérobies : | Clostridium | perfringens ; | autres : | Ureaplasma urealyticum | . | Espèces résistantes : | aérobies à Gram + : | Corynebacterium jeikeium | , | Nocardia asteroides | ; | aérobies à Gram - : | acinetobacter | , entérobactéries, | haemophilus | , | pseudomonas | ; | anaérobies : | fusobacterium | ; | autres : | Mycoplasma hominis | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Bilan hépatique (anomalie) (Très rare) | - Neutropénie | DERMATOLOGIE: | - Pustulose exanthémateuse aiguë généralisée (Très rare) | - Syndrome de Lyell | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Prurit | - Urticaire | HÉMATOLOGIE: | - Anémie hémolytique (Très rare) | - Leucopénie | HÉPATOLOGIE: | - Hépatite cytolytique (Rare) | - Hépatite mixte | - Hépatite cholestatique | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Très rare) | - Choc anaphylactique (Très rare) | ORL, STOMATOLOGIE: | - Dysgueusie (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Torsades de pointes | - Arythmie ventriculaire | - Allongement de l'espace QT | - Arrêt cardiaque | - Tachycardie ventriculaire | - Vascularite | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Colite pseudomembraneuse (Très rare) | - Vomissement | - Nausée | - Douleur épigastrique | - Diarrhée | SYSTÈME MUSCULO-SQUELETTIQUE: | - Purpura rhumatoïde | SYSTÈME NERVEUX: | - Paresthésie (Occasionnel)

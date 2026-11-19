@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_075
+DCI: Etoricoxib
+DrugBank ID: DB01628
+DrugBank Name: Etoricoxib
+Brand Names: ARTHRIX | ETOFAN | ETORIXIA
+Pharmaceutical Forms: Comprimé
+Dosages: 60mg
+Packaging: b/20 | b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: M01AH05
+Registration Numbers: 001/04 B 075/22 | 289/04 B 075/20 | 352/04 B 075/18/25
+Drug Codes: 04 B 075
+
+------------------------------------------------------------
+
+## Description
+
+Etoricoxib is a new COX-2 selective inhibitor. Current therapeutic indications are: treatment of rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, chronic low back pain, acute pain and gout. Like any other COX-2 selective inhibitor, Etoricoxib selectively inhibits isoform 2 of cyclo-oxigenase enzyme (COX-2) to reduce the generation of prostaglandins (PGs) from arachidonic acid. It is approved in more than 60 countries worldwide but not in the US.
+
+## Pharmacodynamics
+
+Etoricoxib is a COX-2 selective inhibitor (approximately 106 times more selective for COX-2 inhibition over COX-1).
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Bioavailability is 100% following oral administration.
+
+## Metabolism
+
+Hepatic, primarily via CYP3A4. Hover over products below to view reaction partners Etoricoxib Etoricoxib 1'-N'-oxide 6-Hydroxymethyletoricoxib 6-Hydroxymethyletoricoxib glucuronide 6-Carboxy-etoricoxib 6-Hydroxymethyletoricoxib 1'-N'-oxide
+
+## Half Life
+
+22 hours
+
+## Toxicity
+
+This reduced activity is the cause of reduced gastrointestinal toxicity, as demonstrated in several large clinical trials performed with different COXIB (see below links on NEJM and The Lancet). Some clinical trials and meta-analysis showed that treatment with COXIB lead to increased incidence of cardiovascular adverse events compared to placebo

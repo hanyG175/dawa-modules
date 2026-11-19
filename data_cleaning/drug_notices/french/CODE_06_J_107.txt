@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_107
+DCI: TRIMETAZIDINE DICHLORHYDRATE 20 mg cp (TRIMETAZIDINE BIOGARAN)
+Brand Names: TRIMETAZIDINE B | VASTADINE
+Pharmaceutical Forms: Comprimé
+Dosages: 20mg
+Packaging: b/60
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C01 - MEDICAMENTS EN CARDIOLOGIE | C01E - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB - AUTRES MEDICAMENTS EN CARDIOLOGIE | C01EB15 - TRIMETAZIDINE
+Registration Numbers: 235/06 J 107/08/24 | 380/06 J 107/21
+Drug Codes: 06 J 107
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | trimétazidine dichlorhydrate : 35 mg | Modalités d'administration | Voie orale | Administrer pendant le repas | Traitement à arrêter en cas d'absence d'amélioration clinique dans les 3 mois | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Angor, traitement préventif associé (de l') | Posologie standard | 1 comprimé 2 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Grossesse | Insuffisance rénale modérée | Sportif | Sujet de moins de 18 ans | Sujet de plus de 75 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Trimétazidine : Mécanisme d'action | La trimétazidine, en préservant le métabolisme énergétique de la cellule exposée à l'hypoxie ou à l'ischémie, empêche l'abaissement du taux intracellulaire de l'ATP. | Elle assure ainsi le fonctionnement des pompes ioniques et des flux transmembranaires sodium- | potassium | et maintient l'homéostasie cellulaire. | Chez l'animal, la trimétazidine favorise le maintien du métabolisme énergétique du coeur et des organes neurosensoriels pendant l'ischémie et l'hypoxie ; diminue l'acidose intracellulaire et les altérations des flux ioniques transmembranaires provoquées par l'ischémie ; réduit la migration et l'infiltration de polynucléaires neutrophiles dans le tissu cardiaque ischémié et reperfusé ; réduit également la taille de l'infarctus expérimental. Cette action s'exerce en l'absence de tout effet hémodynamique direct.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit (Fréquent) | - Urticaire (Fréquent) | - Eruption cutanée (Fréquent) | - Pustulose exanthémateuse aiguë généralisée | DIVERS: | - Asthénie (Fréquent) | - Chute | HÉMATOLOGIE: | - Thrombopénie | - Purpura thrombopénique | - Agranulocytose | HÉPATOLOGIE: | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Oedème de Quincke | - Syndrome DRESS | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | - Vertige | PSYCHIATRIE: | - Trouble du sommeil | - Insomnie | SYSTÈME CARDIOVASCULAIRE: | - Bouffée congestive (Rare) | - Hypotension artérielle (Rare) | - Bouffée de chaleur (Rare) | - Palpitation (Rare) | - Tachycardie (Rare) | - Extrasystole (Rare) | - Hypotension orthostatique (Rare) | - Malaise | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Constipation | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Paresthésie (Peu fréquent) | - Trouble de l'équilibre (Rare) | - Dysfonction motrice | - Hypertonie | - Syndrome parkinsonien | - Akinésie | - Syndrome des jambes sans repos | - Somnolence | - Tremblement | - Instabilité posturale

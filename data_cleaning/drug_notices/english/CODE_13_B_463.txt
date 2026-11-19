@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_463
+DCI: Ceftizoxime Sodique Exprime En Ceftizoxime
+DrugBank ID: DB01332
+DrugBank Name: Ceftizoxime
+Brand Names: CETIZAL | TIZO 1000
+Pharmaceutical Forms: Poudre
+Dosages: 1000mg/fl. de pdre. | 1g
+Packaging: b/1fl. de pdre. | b/50 flacon
+Registration Numbers: 039/13 B 463/14/24 | 286/13 B 463/12
+Drug Codes: 13 B 463
+
+------------------------------------------------------------
+
+## Description
+
+A semisynthetic cephalosporin antibiotic which can be administered intravenously or by suppository. The drug is highly resistant to a broad spectrum of beta-lactamases and is active against a wide range of both aerobic and anaerobic gram-positive and gram-negative organisms. It has few side effects and is reported to be safe and effective in aged patients and in patients with hematologic disorders.
+
+## Pharmacodynamics
+
+Ceftizoxime is highly resistant to a broad spectrum of beta-lactamases and is active against a wide range of both aerobic and anaerobic gram-positive and gram-negative organisms. It has few side effects and is reported to be safe and effective in aged patients and in patients with hematologic disorders.
+
+## Mechanism Of Action
+
+Penicillin-binding protein 1A (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1B (Escherichia coli (strain K12)) Inhibitor
+
+## Volume Of Distribution
+
+The mean apparent volume of distribution ranges between 15 - 28L. 1
+
+## Metabolism
+
+Ceftizoxime is not metabolized and is excreted virtually unchanged by the kidneys in 24 hours.
+
+## Route Of Elimination
+
+Excreted virtually unchanged by the kidneys in 24 hours.

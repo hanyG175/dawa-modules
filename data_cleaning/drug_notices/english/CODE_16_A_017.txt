@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_A_017
+DCI: Trimipramine
+DrugBank ID: DB00726
+DrugBank Name: Trimipramine
+Brand Names: SURMONTIL
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg
+Packaging: b/50
+Laboratories: NEURAXPHARM FRANCE | 44 RUE CAMBRONNE | 75015 PARIS
+ATC Classification: N06AA06
+Registration Numbers: 376/16 A 017/96/17
+Drug Codes: 16 A 017
+
+------------------------------------------------------------
+
+## Description
+
+Tricyclic antidepressant similar to imipramine, but with more antihistaminic and sedative properties.
+
+## Pharmacodynamics
+
+Trimipramine is a tricyclic antidepressant. It was thought that tricyclic antidepressants work by inhibiting the re-uptake of the neurotransmitters norepinephrine and serotonin by nerve cells. However, this response occurs immediately, yet mood does not lift for around two weeks. It is now thought that changes occur in receptor sensitivity in the cerebral cortex and hippocampus. The hippocampus is part of the limbic system, a part of the brain involved in emotions. Presynaptic receptors are affected: a1 and b1 receptors are sensitized, a2 receptors are desensitised (leading to increased noradrenaline production). Tricyclics are also known as effective analgesics for different types of pain, especially neuropathic or neuralgic pain. A precise mechanism for their analgesic action is unknown, but it is thought that they modulate anti-pain opioid systems in the CNS via an indirect serotonergic route. They are also effective in migraine prophylaxis, but not in abortion of acute migraine attack. The mechanism of their anti-migraine action is also thought to be serotonergic.
+
+## Mechanism Of Action
+
+Sodium-dependent serotonin transporter Inhibitor Sodium-dependent noradrenaline transporter Inhibitor
+
+## Absorption
+
+Rapid absorption
+
+## Metabolism
+
+Hepatic
+
+## Toxicity
+
+Side effects include agitation, coma, confusion, convulsions, dilated pupils, disturbed concentration, drowsiness, hallucinations, high fever, irregular heart rate, low body temperature, muscle rigidity, overactive reflexes, severely low blood pressure, stupor, vomiting

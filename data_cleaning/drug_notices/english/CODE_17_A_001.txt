@@ -1,0 +1,30 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_A_001
+DCI: Oxybuprocaine
+DrugBank ID: DB00892
+DrugBank Name: Oxybuprocaine
+Brand Names: ANESTOCIL | CEBESINE
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.4%
+Packaging: flacon/05ml | flacon/10ml
+Laboratories: LABORATOIRES THEA | 12 RUE LOUIS BLERIOT | ZONE INDUSTRIELLE DU BREZET | 63100 CLERMONT-FERRAND
+ATC Classification: S01HA02
+Registration Numbers: 096/17 A 001/98/22 | 185/17 A 001/17/25
+Drug Codes: 17 A 001
+
+------------------------------------------------------------
+
+## Description
+
+Oxybuprocaine (also known as Benoxinate) is a local anesthetic, which is used especially in ophthalmology and otolaryngology. Oxybuprocaine binds to sodium channels and reversibly stabilizes the neuronal membrane which decreases its permeability to sodium ions.
+
+## Pharmacodynamics
+
+Oxybuprocaine is a local anaesthetic. It may be less irritating than tetracaine, and the onset and duration of action are similar to tetracaine.
+
+## Mechanism Of Action
+
+Sodium channel protein type 10 subunit alpha Inhibitor

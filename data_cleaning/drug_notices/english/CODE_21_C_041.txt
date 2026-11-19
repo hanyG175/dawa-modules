@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_C_041
+DCI: LANREOTIDE (acétate) 30 mg pdre/solv p susp inj LP (SOMATULINE LP)
+DrugBank ID: DB00884
+DrugBank Name: Risedronic acid
+Brand Names: OSTEOS
+Pharmaceutical Forms: Comprimé
+Dosages: 30mg
+Packaging: b/30
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H01 - HORMONES HYPOPHYSAIRES, HYPOTHALAMIQUES ET ANALOGUES | H01C - HORMONES HYPOTHALAMIQUES | H01CB - SOMATOSTATINE ET ANALOGUES | H01CB03 - LANREOTIDE
+Registration Numbers: 317/21 C 041/14/22
+Drug Codes: 21 C 041
+
+------------------------------------------------------------
+
+## Description
+
+Risedronic acid is a third generation bisphosphonate that is used for the treatment of some forms of osteoperosis and Paget's disease Label 1 , 2 . It functions by preventing resorption of bone Label 1 .
+
+## Pharmacodynamics
+
+Risedronate is a pyridine-based bisphosphonate that inhibits bone resorption caused by osteoclasts Label .
+
+## Mechanism Of Action
+
+Hydroxylapatite Antagonist Farnesyl pyrophosphate synthase Inhibitor
+
+## Absorption
+
+Oral bioavailability is 0.63% and maximum absorption is approximately 1 hour after dosing Label . Administration half and hour before a meal reduces bioavailability by 55% compared to fasting and dosing 1 hour before a meal reduces bioavailability by 30% Label .
+
+## Volume Of Distribution
+
+13.8 L/kg Label .
+
+## Metabolism
+
+Risedronic acid is not likely not metabolized before elimination Label . The P-C-P group of bisphosphonates is resistant to chemical and enzymatic hydrolysis preventing metabolism of the molecule 1 .
+
+## Route Of Elimination
+
+Risedronate is excreted by the kidneys and the unabsorbed dose is eliminated in the feces Label .
+
+## Half Life
+
+The initial half life of risedronic acid is approximately 1.5 hours 3 , with a terminal half life of 561 hours Label .
+
+## Clearance
+
+Mean renal clearance was 52mL/min and mean total clearance was 73mL/min Label .
+
+## Toxicity
+
+In clinical trials, over 10% of patients experienced back pain, arthralgia, abdominal pain, and dyspepsia Label . Less commonly, patients experience angioedema, generalized rash, bullous skin reactions, iritis, and uveitis Label . Patients experiencing an overdose may experience a decrease in serum calcium and phosphorus Label . Patients can be given milk or antacids to bind the drug and reduce its absorption Label . In more severe cases, patients may require gastric lavage and intravenous calcium Label . A lethal dose in rats is equivalent to 320 to 620 times the human dose based on surface area Label .

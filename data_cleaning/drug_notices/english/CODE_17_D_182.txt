@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_182
+DCI: Besifloxacine
+DrugBank ID: DB06771
+DrugBank Name: Besifloxacin
+Brand Names: BESIVANCE
+Pharmaceutical Forms: Suspension
+Dosages: 0.6% (0.6 mg/ml)
+Packaging: b/01 flacon 5ml
+Registration Numbers: 624/17 D 182/24
+Drug Codes: 17 D 182
+
+------------------------------------------------------------
+
+## Description
+
+Besifloxacin is a fourth generation fluoroquinolone-type opthalmic antibiotic for the treatment of bacterial conjunctivitis. FDA approved on May 28, 2009.
+
+## Pharmacodynamics
+
+Besifloxacin tear concentrations were higher than MIC90 (minimum inhibitory concentration) values for common bacterial pathogens and sustained for 24 hours or longer. Mean residence time in the conjunctiva was 4.7 hours.
+
+## Mechanism Of Action
+
+DNA topoisomerase 4 subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Antagonist DNA topoisomerase 4 subunit A (Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)) Antagonist DNA gyrase subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Antagonist + 1 more target
+
+## Absorption
+
+Although ocular surface concentrations are high, average systemic concentrtions after three-times daily dosing was less than 0.5 ng/mL. This indicates that besifloxacin is not appreciably absorbed into the systemic and has a very low risk of systemic side effects.
+
+## Volume Of Distribution
+
+Not absorbed into the systemic
+
+## Metabolism
+
+No appreciable metabolism
+
+## Half Life
+
+The average elimination half-life of besifloxacin in plasma following multiple dosing was estimated to be 7 hours.
+
+## Toxicity
+
+LD50, rat: >2000 mg/kg. The most common adverse reaction reported in 2% of patients treated with besifloxacin was conjunctival redness.

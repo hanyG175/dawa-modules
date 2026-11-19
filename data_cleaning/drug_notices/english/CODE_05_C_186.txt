@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_186
+DCI: EVEROLIMUS 5 mg cp (EVEROLIMUS REDDY PHARMA)
+DrugBank ID: DB01590
+DrugBank Name: Everolimus
+Brand Names: AFINITOR | EVERBLISS | EVEROLIMUS-SAIDAL | EVROLIPHAL
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/10 | b/28 | b/30
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EG - INHIBITEURS DE MTOR (CIBLE MAMMALIENNE DE LA RAPAMYCINE) | L01EG02 - EVEROLIMUS
+Registration Numbers: 003/05 C 186/25 | 039/05 C 186/24 | 068/05 C 186/17 | 488/05 C 186/23
+Drug Codes: 05 C 186
+
+------------------------------------------------------------
+
+## Description
+
+Everolimus is a derivative of Rapamycin (sirolimus), and works similarly to Rapamycin as an mTOR (mammalian target of rapamycin) inhibitor. It is currently used as an immunosuppressant to prevent rejection of organ transplants. In a similar fashion to other mTOR inhibitors Everolimus' effect is solely on the mTORC1 protein and not on the mTORC2 protein.
+
+## Indications
+
+Everolimus is indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer (advanced HR+ BC) in combination with exemestane, after failure of treatment with letrozole or anastrozole.
+Indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.
+Indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of treatment with sunitinib or sorafenib.
+Indicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.
+
+## Mechanism Of Action
+
+Serine/threonine-protein kinase mTOR Inhibitor
+
+## Absorption
+
+In patients with advanced solid tumors, peak everolimus concentrations are reached 1 to 2 hours after administration of oral doses ranging from 5 mg to 70 mg. Following single doses, Cmax is dose-proportional between 5 mg and 10 mg. At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range. Steady-state was achieved within 2 weeks following once-daily dosing.
+Dose Proportionality in Patients with SEGA (subependymal giant-cell astrocytomas) and TSC (tuberous sclerosis complex): In patients with SEGA and TSC, everolimus Cmin was approximately dose-proportional within the dose range from 1.35 mg/m2 to 14.4 mg/m2.
+
+## Volume Of Distribution
+
+The blood-to-plasma ratio of everolimus is 17% to 73%.
+
+## Metabolism
+
+Everolimus is a substrate of CYP3A4 and PgP (phosphoglycolate phosphatase). Three monohydroxylated metabolites, two hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus were the 6 primary metabolites detected in human blood. In vitro, everolimus competitively inhibited the metabolism of CYP3A4 and was a mixed inhibitor of the CYP2D6 substrate dextromethorphan.
+
+## Route Of Elimination
+
+After a single dose of radiolabeled everolimus was given to transplant patients receiving cyclosporine, the majority (80%) of radioactivity was recovered from the feces and only a minor amount (5%) was excreted in urine.
+
+## Half Life
+
+~30 hours.
+
+## Clearance
+
+Following a 3 mg radiolabeled dose of everolimus, 80% of the radioactivity was recovered from the feces, while 5% was excreted in the urine.
+
+## Toxicity
+
+IC50 of 0.63 nM.

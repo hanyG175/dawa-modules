@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_D_204
+DCI: Pertuzumab
+DrugBank ID: DB06366
+DrugBank Name: Pertuzumab
+Brand Names: PECTUNA | PERJETA
+Pharmaceutical Forms: Solution
+Dosages: 30 mg/ml
+Packaging: b/01 flacon de 14 ml ( 420 mg/14ml)
+Registration Numbers: 128/05 D 204/17 | 596/05 D 204/24
+Drug Codes: 05 D 204
+
+------------------------------------------------------------
+
+## Description
+
+Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (subdomain II) of the human epidermal growth factor receptor 2 protein (HER2). It consists of two heavy chains and two lights chains that have 448 and 214 residues respectively. It was first approved by the FDA in 2012 for use with docetaxel and another HER2-targeted monoclonal antibody, trastuzumab , in the treatment of metastatic HER2-positive breast cancer. Its indicated conditions have since expanded to include use as both a neoadjuvant therapy and an adjuvant therapy in the treatment of HER2-positive breast cancers at high risk of recurrence. 5 , 8
+
+## Pharmacodynamics
+
+Pertuzumab exerts its antineoplastic effects by binding to and inhibiting the activity of HER2, an oncogene that has been implicated in the formation of numerous cancers. 6 As with other therapeutic monoclonal antibodies, pertuzumab has a relatively long duration of action necessitating dosing every 3 weeks. 6 Drugs that block HER2 activity, including pertuzumab, have been implicated in the development of cardiotoxicity (specifically left ventricular dysfunction) - a baseline assessment of left ventricular ejection fraction (LVEF) should be conducted prior to beginning therapy with pertuzumab and at regular intervals throughout therapy to ensure LVEF remains within normal limits. Consider indefinite suspension of therapy if LVEF declines and does not improve. 6
+
+## Mechanism Of Action
+
+Receptor tyrosine-protein kinase erbB-2 Inhibitor
+
+## Absorption
+
+Intravenously administered pertuzumab, given as a loading dose of 840mg followed by a maintenance dose of 420mg every 3 weeks, reaches steady-state concentration following the first maintenance dose. 6 In its subcutaneous formulation, in combination with [hylauronidase], the absolute bioavailability of pertuzumab is approximately 0.7 and the median T max is 4 days. 7 This subcutaneous formulation leverages the benefits of co-administration with hyaluronidase - this enzyme breaks down hylauronic acid, thereby decreasing the viscosity of the extracellular matrix (ECM) and allowing for greater bioavailability with subcutaneous administration. 7
+
+## Volume Of Distribution
+
+The average steady-state volume of distribution following intravenous administration is 3.53 - 7.5 L. 6
+
+## Metabolism
+
+The metabolism of pertuzumab has not been studied directly. Monoclonal antibodies are typically subject to catabolism to smaller peptides and proteins prior to elimination. 6
+
+## Half Life
+
+The median half-life of pertuzumab was determined to be 18 days based on a population pharmacokinetic analysis. 5
+
+## Clearance
+
+The median clearance of pertuzumab was determined to be 0.24 L/day based on a population pharmacokinetic analysis. 5
+
+## Toxicity
+
+There are no data regarding overdose of pertuzumab. Single doses higher than 25 mg/kg have not been tested. 6 Symptoms of overdose are likely to be consistent with pertuzumab's adverse effect profile, and may therefore involve significant diarrhea, alopecia, neutropenia, nausea, fatigue, rash, and/or peripheral neuropathy. 5 Pertuzumab has been associated with the development of left ventricular dysfunction (i.e. cardiotoxicity) that may be exacerbated in instances of overdose. 5

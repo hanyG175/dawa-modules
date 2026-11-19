@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_D_047
+DCI: ATRACURIUM BESILATE 10 mg/ml sol inj/p perf (ATRACURIUM HOSPIRA) | ATRACURIUM BESILATE 10 mg/ml sol inj/p perf (TRACRIUM)
+Brand Names: ATACURE | RETALEX
+Pharmaceutical Forms: Sol Pour Inj Intraveineue Pour Perf | Solution
+Dosages: 10mg/ml (50mg/5ml) | 50mg/5ml
+Packaging: b/05amp de 5ml | boite de 05 flacons
+ATC Classification: M - MUSCLE ET SQUELETTE | M03 - MYORELAXANTS | M03A - MYORELAXANTS A ACTION PERIPHERIQUE | M03AC - AUTRES AMMONIUMS QUATERNAIRES | M03AC04 - ATRACURIUM
+Registration Numbers: 001/02 D 047/05/13 | 352/02 D 047/23
+Drug Codes: 02 D 047
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | atracurium bésilate : 10 mg | Modalités d'administration | Voie intraveineuse, voie intraveineuse (en perfusion) | Posologie | Patient à partir de 1 mois | Patient quel que soit le poids | Adjuvant de l'anesthésie générale - Curarisation | Dose initiale | Voie intraveineuse | Administrer par voie intraveineuse en bolus | 0,3 à 0,6 mg/kg 1 fois ce jour | Dose ultérieure éventuelle | Voie intraveineuse | Fréquence d'administration à adapter en fonction du protocole | 0,1 à 0,2 mg/kg 1 fois ce jour | Voie intraveineuse (en perfusion) | 0,3 à 0,6 mg/kg 1 fois par heure | Adjuvant de la sédation en unité de soins intensifs (USI) | Dose initiale éventuelle | Voie intraveineuse | Administrer par voie intraveineuse en bolus | 0,3 à 0,6 mg/kg 1 fois ce jour | Dose ultérieure | Voie intraveineuse (en perfusion) | Posologie à adapter à l'état du patient | 0,65 à 0,78 mg/kg 1 fois par heure
+
+## Precautions
+
+Allaitement | Antécédent d'asthme | Asthme | Bradycardie induite par les anesthésiques | Bradycardie induite par un réflexe vagal péri-opératoire | Brûlure | Césarienne | Grossesse | Hypovolémie | Insuffisance cardiaque | Maladie cardiovasculaire | Myasthénie | Nouveau-né de moins de 1 mois | Patient en unité de soins intensifs | Sujet âgé | Sujet à risque d'hypotension artérielle | Syndrome de Lambert-Eaton | Terrain allergique | Transfusion sanguine incompatible | Trouble hydroélectrolytique | Trouble neuromusculaire
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Atracurium bésilate : Mécanisme d'action | Le bésilate d'atracurium est un agent bloquant neuromusculaire non dépolarisant (code ATC M03AC04) à durée d'action intermédiaire, administré par voie intraveineuse pour provoquer un relâchement des muscles striés. | Les agents bloquants neuromusculaires non dépolarisants antagonisent l'action du neurotransmetteur acétylcholine en se liant d'une manière compétitive aux sites des récepteurs cholinergiques sur la plaque motrice de la jonction neuro-musculaire; ces effets peuvent être inhibés ou neutralisés par l'administration d'anticholinestérasiques tels que la | néostigmine | ou la pyridostigmine. | Comme pour d'autres agents bloquants neuromusculaires, le délai d'apparition de la paralysie est réduit, et la durée de l'effet maximal est prolongée, avec des doses croissantes d'atracurium. | Une fois débutée, la récupération de l'effet bloquant neuromusculaire de l'atracurium se poursuit plus rapidement que dans le cas de la tubocurarine, de l'alcuronium et du pancuronium. Indépendamment de la dose d'atracurium, le laps de temps qui sépare le début de la récupération (du bloc complet) et la récupération complète (mesurée par le rétablissement de la réponse tétanique à 95 % par rapport à la normale) est de l'ordre de 30 minutes sous anesthésie équilibrée et de 40 minutes sous anesthésie à l' | halothane | , à l'enflurane ou à l' | isoflurane | . Des doses répétées n'ont pas d'effet cumulatif sur la vitesse de récupération. | Pour des doses initiales de bésilate d'atracurium allant jusqu'à 0,5 mg/kg, les taux plasmatiques d' | histamine | augmentent de 15 % de façon dose-dépendante, mais les modifications hémodynamiques restent minimes dans cette fourchette de posologies. Après administration de 0,6 mg/kg de bésilate d'atracurium, les taux plasmatiques d' | histamine | ont augmenté de 92 %, et sont corrélés avec une baisse transitoire (5 minutes) de la pression artérielle et un bref épisode (2 à 3 minutes) de rougeur de la peau. Bien que ces effets aient peu de signification clinique chez la plupart des patients, il faut faire attention au risque de libération importante d' | histamine | aux doses recommandées chez les individus sensibles ou chez les patients pour lesquels une libération importante d' | histamine | serait particulièrement dangereuse (par ex. patients atteints d'une pathologie respiratoire ou cardiovasculaire sérieuse). | Des études chez le porc sensible à l'hyperthermie maligne ont montré que le bésilate d'atracurium ne déclenche pas ce syndrome. La même constatation a été faite au cours d'études cliniques chez les patients présentant des antécédents d'hyperthermie maligne. | Le bésilate d'atracurium ne semble pas modifier la pression intra-oculaire, et est donc un produit adapté pour la chirurgie ophtalmique.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Prurit (Fréquent) | - Erythème cutané (Fréquent) | - Rubéfaction (Fréquent) | - Erythème généralisé (Peu fréquent) | - Eruption cutanée (Fréquent) | - Urticaire (Rare) | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Réaction anaphylactique (Très rare) | - Réaction anaphylactoïde (Très rare) | - Choc anaphylactique (Très rare) | - Hypersensibilité | - Hypersensibilité croisée | INSTRUMENTATION: | - Réaction au point d'injection (Fréquent) | ORL, STOMATOLOGIE: | - Laryngospasme (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Vasodilatation (Fréquent) | - Bradycardie (Fréquent) | - Hypertension artérielle (Fréquent) | - Tachycardie (Fréquent) | - Hypotension artérielle (Fréquent) | - Choc (Très rare) | - Insuffisance cardiaque (Rare) | - Arrêt cardiaque (Rare) | - Bouffée congestive | - Insuffisance circulatoire | SYSTÈME MUSCULO-SQUELETTIQUE: | - Myopathie (Imputabilité incertaine) | - Faiblesse musculaire (Imputabilité incertaine) | SYSTÈME NERVEUX: | - Convulsions (Imputabilité incertaine) | - Curarisation prolongée | - Curarisation insuffisante | - Bloc neuromusculaire (prolongation) | SYSTÈME RESPIRATOIRE: | - Sifflement respiratoire (Fréquent) | - Bronchospasme (Peu fréquent) | - Hypoxie (Très rare) | - Dyspnée (Rare) | - Hypersécrétion bronchique

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_C_005
+DCI: Tofacitinib
+DrugBank ID: DB08895
+DrugBank Name: Tofacitinib
+Brand Names: TRIJAN
+Pharmaceutical Forms: Comprimé
+Dosages: 5mg
+Packaging: b/60
+Registration Numbers: 001/27 C 005/24
+Drug Codes: 27 C 005
+
+------------------------------------------------------------
+
+## Description
+
+Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.
+
+## Pharmacodynamics
+
+Tofacitinib targets inflammation present in rheumatoid arthritis by inhibiting the janus kinases involved in the inflammatory response pathway. In placebo controlled trials of rheumatoid arthritis patients receiving 5mg or 10mg of tofacitinib twice daily, higher ACR20 responses were observed within 2 weeks in some patients (with ACR20 being defined as a minimum 20% reduction in joint pain or tenderness and 20% reduction in arthritis pain, patient disability, inflammatory markers, or global assessments of arthritis by patients or by doctors, according to the American College of Rheumatology (ACR) response criteria list), and improvements in physical functioning greater than placebo were also noted. Common known adverse effects of tofacitinib include headaches, diarrhea, nausea, nasopharyngitis and upper respiratory tract infection. More serious immunologic and hematological adverse effects have also been noted resulting in lymphopenia, neutropenia, anemia, and increased risk of cancer and infection. Before initiations of tofacitinib patients should be tested for latent infections of tuberculosis, and should be closely monitored for signs and symptoms of infection (fungal, viral, bacterial, or mycobacterial) during therapy. Therapy is not to be started in the presence of active infection, systemic or localized, and is to be interrupted if a serious infection occurs. Tofacitinib has been associated with an increased risk of lymphomas, such as Epstein-Barr virus associated lymphomas, and other malignancies (including lung, breast, gastric, and colorectal cancers). It is recommended to monitor lymphocytes, neutrophils, hemoglobin, liver enzymes, and lipids. Tofacitinib use is associated with a rapid decrease in C-reactive protein (CRP), dose dependent decreases in natural killer cells, and dose dependent increases in B cells. Depression in C-reactive protein levels continue after 2 weeks of tofacitinib discontinuation and suggest that pharmacodynamic activity last longer than pharmacokinetic half life.
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase JAK1 Inhibitor Tyrosine-protein kinase JAK2 Inhibitor Tyrosine-protein kinase JAK3 Inhibitor + 1 more target
+
+## Absorption
+
+74% oral absorption (absolute bioavailability), with peak plasma concentrations (T max ) achieved in 0.5-1 hour. Administration with fatty meals does not alter AUC but reduces Cmax by 32%.
+
+## Volume Of Distribution
+
+Vd= 87L after intravenous administration. Distribution is equal between red blood cells and plasma.
+
+## Metabolism
+
+Metabolized in the liver by CYP3A4 and CYP2C19. Metabolites produced are inactive.
+
+## Route Of Elimination
+
+70% metabolized in the liver by CYP3A4 (major) and CYP2C19 (minor).
+Metabolites produced are inactive.
+30% renally eliminated as unchanged drug.
+
+## Half Life
+
+~3 hours
+
+## Toxicity
+
+Minimum lethal dose in rat: 500 mg/kg.
+Maximum asymptomatic dose in non human primate: 40 mg/kg. Lymphatic, immune system, bone marrow and erythroid cell toxicity was seen in animal studies involving rate and monkeys. Doses used in these studies ranged from 1mg/kg/day to 10mg/kg/day, over a duration of 6 weeks to 6 months. Lymphopenia, neutropenia, and anemia is seen in human subjects and may call for an interruption or discontinuation of therapy if severe. Reduced female fertility in rats was seen at exposures 17 times the maximum recommended human dose. Fertility may be impaired in human females and harm may be caused to unborn child.
+Carcinogenic potential is seen, however evidence for dose dependency is lacking. Because the janus kinase pathway plays a role in stimulating the production of red blood cells and is involved in immune cell function, inhibition of this pathway leads to increased risk of anemia, neutropenia, lymphopenia, cancer and infection. Lymphopenia, neutropenia, and anemia in human subjects may call for an interruption or discontinuation of therapy if severe. Role of JAK inhibition in the development of gastrointestinal perforation is not known.

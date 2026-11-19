@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_J_105
+DCI: Pentoxifylline
+Brand Names: PENTOXIFYLLINE MYLAN
+Pharmaceutical Forms: Comp. Pelli. Lp
+Dosages: 400MG
+Packaging: B/30
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 324.49 DA
+Prescription List: Liste I
+ATC Classification: C04AD03
+Registration Numbers: 380/06 J 105/17
+Drug Codes: 06 J 105
+
+------------------------------------------------------------
+
+## Indications
+
+· Traitement symptomatique de la claudication intermittente des artériopathies chroniques oblitérantes des membres inférieurs (au stade 2). NB: cette indication repose sur des essais cliniques en double aveugle par rapport à un placebo qui montrent une augmentation du périmètre de marche d'au moins 50 % chez 50 à 60 % des malades traités contre 20 à 40 % des malades suivant uniquement des règles hygiènodiététiques. | · Traitement d'appoint à visée symptomatique du déficit pathologique cognitif et neuro‑sensoriel chronique du sujet âgé (à l'exclusion de la maladie d'Alzheimer et des autres démences).
+
+## Posology
+
+Posologie | · 1 à 3 comprimés par jour, éventuellement en 2 prises inégales, de préférence au cours du ou des repas, | · Chez l'insuffisant rénal, ne pas dépasser 2 comprimés par jour. En cas d'insuffisance rénale sévère, il convient de diminuer la posologie et de l'adapter en fonction de la tolérance individuelle. | Compte‑tenu du procédé de libération prolongée, la membrane du comprimé peut exceptionnellement être retrouvée dans les selles. | Mode d’administration | Voie orale. | Avaler le comprimé sans le croquer avec un peu d’eau.
+
+## Contraindications
+
+Ce médicament NE DOIT JAMAIS ETRE UTILISE dans les cas suivants : | · hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1 ; | · phase aiguë de l'infarctus du myocarde ; | · hémorragie en cours ou risque hémorragique majeur. | Ce médicament est généralement déconseillé au cours de la grossesse et de l'allaitement (voir rubrique 4.6).
+
+## Precautions
+
+Précaution d’emploi | Des cas d'hémorragies et/ou de diminution du taux de prothrombine ont été signalés chez des patients traités par la pentoxifylline et ayant des facteurs de risque hémorragique ou recevant des anticoagulants ou des anti‑agrégants plaquettaires. | Chez les patients sous anticoagulants oraux ou sous antiagrégants plaquettaires, la surveillance clinique et biologique de l'hémostase devra être renforcée (voir rubrique 4.5). | La pentoxifylline sera utilisée avec prudence dans les situations suivantes : | · insuffisance rénale (voir rubrique 4.2) ; | · insuffisance hépatique ou traitement hépatotoxique associé ; | · diabète: en raison du risque hémorragique accru, une surveillance ophtalmologique s'avère nécessaire ; | · coronaropathie sévère ; | · hypotension artérielle. | La pentoxifylline peut potentialiser l'effet d'un traitement antihypertenseur. | En cas de co‑prescription, le patient devra être prévenu de cette possibilité et la surveillance tensionnelle devra être renforcée. | Cette spécialité ne peut cependant pas remplacer le traitement spécifique de l'hypertension artérielle.
+
+## Interactions
+
+Associations faisant l'objet de précautions d’emploi | +Anticoagulants oraux | Augmentation du risque hémorragique (mécanisme imprécis). | Renforcer la surveillance clinique, contrôle plus fréquent du taux de prothrombine et surveillance de l'INR. | +Antiagrégants plaquettaires | Augmentation du risque hémorragique. | Renforcer la surveillance clinique, contrôle plus fréquent du temps de saignement. | +Théophylline (base et sels) et aminophylline | Augmentation de la théophyllinémie avec risque de surdosage (compétition au niveau du métabolisme hépatique de la théophylline). | Surveillance clinique et éventuellement de la théophyllinémie; s'il y a lieu, adaptation de la posologie de la théophylline pendant le traitement par la pentoxifylline et après son arrêt.
+
+## Pregnancy Breastfeeding
+
+Ce médicament est principalement utilisé chez le sujet âgé pour lequel le risque de grossesse est absent. En l'absence de données cliniques pertinentes, l'utilisation du principe actif est déconseillée pendant la grossesse. | En raison du passage dans le lait maternel, l’utilisation de la pentoxifylline est à éviter pendant l’allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : VASODILATATEUR PERIPHERIQUE, code ATC : C04AD03. | Chez l'homme, il a été montré expérimentalement un effet vasodilatateur artériel. | De plus la pentoxifylline à dose thérapeutique entraîne une faible diminution du taux de fibrinogène dans des situations où ce taux est élevé, et des modifications de la déformabilité érythrocytaire. | Un effet anti‑TNFα de la pentoxifylline pourrait expliquer ces données.
+
+## Adverse Effects
+
+· Des effets secondaires digestifs tels que: nausées transitoires, vomissements, gastralgies ou diarrhée peuvent être observés. | · Rarement des bouffées de chaleur, des hypotensions artérielles, des céphalées, vertiges, insomnies, tachycardie, agitation peuvent survenir. | · Des réactions cutanées (rash, urticaire, prurit) sont exceptionnellement observées, et des cas isolés de réactions anaphylactoïdes avec choc, œdème de Quincke et bronchospasme ont été signalés. Aux premiers signes de telles réactions d'hypersensibilité, il convient d'arrêter le traitement, et de prendre les mesures thérapeutiques appropriées. | · Quelques cas d'hémorragies et/ou de diminution du taux de prothrombine ont été signalés chez des patients traités par pentoxifylline et ayant des facteurs de risque hémorragique (chirurgie récente, ulcère gastro-duodénal) ou recevant des anticoagulants ou des antiagrégants plaquettaires. | · Une thrombopénie, une cholestase ou une augmentation de l'activité des aminotransférases ont été rarement rapportées. | · Exceptionnellement des cas de méningites aseptiques ont été rapportés, en particulier chez des patients traités pour maladie de système (lupus, polyarthrite rhumatoïde...). Il est nécessaire d'arrêter le traitement. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance ‑ Site internet : www.ansm.sante.fr.
+
+## Conservation
+
+A conserver à une température ne dépassant pas 30°C et à l'abri de l'humidité.

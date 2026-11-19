@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_064
+DCI: Chlorhydrate D'Ambroxol | MEGLUMINE BENZOATE 130 mg/5 ml + POLYSORBATE [20] 15 mg/5 ml + PROMETHAZINE CHLORHYDRATE 2,5 mg/5 ml sirop (FLUISEDAL) | OXYBUPROCAINE CHLORHYDRATE 0,4 % collyre sol récip unidose (CHLORHYDRATE D'OXYBUPROCAINE THEA Unidose)
+Brand Names: AMBOLAR | AMBRODAL | BROXOL | FLUXOL | IXOL | MUCOREX | MUXOL | MUXOMEX | TOUXOL
+Pharmaceutical Forms: Siropop | Solution
+Dosages: 0.003
+Packaging: b/01 flc | flacon/100ml | flacon/125 ml | flacon/150ml | flacon/180 ml | flacon/200ml
+Laboratories: THÉA PHARMA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01H - ANESTHESIQUES LOCAUX | S01HA - ANESTHESIQUES LOCAUX | S01HA02 - OXYBUPROCAÏNE
+Registration Numbers: 055/20 D 064/98 | 073/20 D 064/07/23 | 077/20 D 064/04 | 079/20 D 064/99/09 | 201/20 D 064/97/24 | 242/20 D 064/07 | 317/20 D 064/05/11 | 318/20 D 064/17 | 400/20 D 064/23
+Drug Codes: 20 D 064
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Anesthésie locale : | Tonométrie. | Examens par verre de contact. | Extraction des corps étrangers superficiels de la cornée et de la conjonctive. | Tout geste nécessitant une anesthésie locale de la cornée et de la conjonctive.
+
+## Posology
+
+Posologie | Unité de prise | gte | oxybuprocaïne chlorhydrate : 0.2 mg | Modalités d'administration | Voie ophtalmique | Administrer 1 à 2 minutes avant l'examen | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Eviter le contact de l'embout avec l'oeil et les paupières | Se laver les mains avant instillation | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Anesthésie locale de surface en ophtalmologie | Posologie standard | 1 à 2 gouttes 1 fois ce jour | Dans le cas de : Anesthésie plus profonde | 1 à 2 gouttes 1 fois ce jour toutes les 1 minute pendant 2 à 4 minutes
+
+## Precautions
+
+Allaitement | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Oxybuprocaïne : Mécanisme d'action | L’oxybuprocaïne est un anesthésique local dérivé de l' | acide para-aminobenzoïque | .
+
+## Adverse Effects
+
+OPHTALMOLOGIE: | - Irritation oculaire | - Picotement oculaire | SYSTÈME CARDIOVASCULAIRE: | - Collapsus cardiovasculaire (Exceptionnel) | - Bradycardie (Exceptionnel)

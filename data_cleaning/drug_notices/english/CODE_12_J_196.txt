@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_J_196
+DCI: Moroctocog Alfa ( Facteur De Coagulation Humaine Viii Adnr) Pfizer | moroctocog alfa
+DrugBank ID: DB13999
+DrugBank Name: Moroctocog alfa
+Brand Names: OCTOFACTOR | REFACTO AF
+Pharmaceutical Forms: Poudre Et Solv. Sol. Inj Iv
+Dosages: 500 UI/fl
+Packaging: b/1 flacon de lyophilisat + 1fl de 5ml de solvant | b/1 kit : 1fl. de pdre. + 1sering. prerempl. de 4ml de solv (chlorure de sodium à 0.9 %+ eppi) +1 adapteur pour flacon + 1 necessaire de per +2 tampons d'alcool + 1 papanssement + 1 compresse de gaze
+ATC Classification: B - SANG ET ORGANES HEMATOPOIETIQUES | B02 - ANTIHEMORRAGIQUES | B02B - VITAMINE K ET AUTRES HEMOSTATIQUES | B02BD - FACTEURS DE LA COAGULATION SANGUINE | B02BD02 - FACTEUR VIII DE COAGULATION
+Registration Numbers: 045/12 J 196/18 | 640/12 J 196/24
+Drug Codes: 12 J 196
+
+------------------------------------------------------------
+
+## Description
+
+Moroctocog alfa, also known as BDDrFVIII (B domain deleted recombinant factor VIII), is a recombinant DNA-based drug with functional characteristics comparable to those of endogenous coagulation Factor VIII, the essential human blood clotting protein that is impaired in Hemophilia A. Moroctocog alfa is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function. Moroctocog alfa is produced through recombinant DNA technology and purification, resulting in a 1438 amino acid, 170 kDa protein 9 . Clinical evaluation has shown that BDDrFVIII is pharmacokinetically equivalent to full-length recombinant FVIII 5 , 9 . Also known as Anti-Hemophilic Factor (AHF), endogenous Factor VIII is essential to the clotting process in the body due to its involvement in the clotting cascade where it is responsible for acting as a co-factor to Factor IX. Activation of Factor IX leads to a cascade of signals that results in activation of Factor X, which then results in the conversion of prothrombin to thrombin, and as a result, leads to the conversion of fibrinogen to fibrin, the fibrous protein that creates the scaffold of the clot. Replacement of Factor VIII is essential for the treatment of Hemophilia A, which is caused by mutations in the Factor VIII gene, leading to a functional deficiency or complete loss of protein. Congenital loss or deficiency of Factor VIII results in the physiologic impairment of the coagulation clotting cascade, and as a result, leads to easy bruising and bleeding. Bleeding can range in severity from minor concerns, such as nosebleeds, to more serious events such as hemorrhaging in the joints, brain, or digestive tract 4 . Exogenous replacement of Factor VIII is currently the cornerstone of Hemophilia treatment and is used for the prophylaxis and control of bleeding episodes. Treatment has drastically improved since the 1960s when Factor VIII protein was primarily purified from human plasma, rather than being produced through recombinant DNA technology. Unfortunately, purification of protein from human plasma carries an increased risk of transmission of blood-borne diseases such as HIV and Hepatitis, which in part contributed to the Tainted Blood Scandal in the 1980s 3 , 2 , 6 . Use of recombinant DNA-derived clotting factor treatments, such as Moroctocog alfa, has reduced this risk. Other drug products with similar structure and function to Moroctocog alfa include Antihemophilic factor human , which is purified Factor VIII from human pooled blood and contains both A- and B-subunits, and Efmoroctocog alfa , which is a fully recombinant factor VIII-Fc fusion protein which has an extended half-life compared with conventional factor VIII due to conjugation to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein 3 . Moroctocog alfa is approved by Health Canada and by the European Medicines Agency for the control and prevention of hemorrhagic episodes and for routine and surgical prophylaxis in patients with hemophilia A (congenital factor VIII deficiency or classic hemophilia). As it does not contain von Willebrand factor it is not indicated in von Willebrand’s disease 9 .
+
+## Pharmacodynamics
+
+Antihemophilic Factor binds factor IXa along with calcium and phospholipid, which converts factor X to factor Xa to facilitate the clotting cascade.
+
+## Mechanism Of Action
+
+Coagulation factor X Activator Coagulation factor IX Cofactor von Willebrand factor Binder
+
+## Absorption
+
+Cmax = 1.08±0.22 IU⋅hr/mL 5 Cmax = 1.12 (±0.19) IU/mL 9
+
+## Volume Of Distribution
+
+Mean steady-state volume of distribution = 65.1 (± 35.1) mL/kg 9
+
+## Half Life
+
+Mean terminal elimination half-life = 11.8 (± 5.1) hours 9 Half-life = 11.2 ± 5.0 hours 5
+
+## Clearance
+
+Mean clearance = 4.21 (± 2.08) mL/h•kg 9 Clearance = 4.51 ± 2.23 mL/h•kg 5

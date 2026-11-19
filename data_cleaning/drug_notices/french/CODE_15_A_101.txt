@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_101
+DCI: Pregabaline
+Brand Names: PREGABALINE BEKER
+Pharmaceutical Forms: Gles.
+Dosages: 75MG
+Packaging: B/60
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 2000 DA
+Prescription List: Liste I
+ATC Classification: 15A101
+Registration Numbers: 001/15 A 101/13 | 177/15 A 101/19/25 | 263/15 A 101/15/25 | 352/15 A 101/17/24 | 447/15 A 101/16/22 | 595/15 A 101/18
+Drug Codes: 15 A 101
+
+------------------------------------------------------------
+
+## Indications
+
+NEUROLOGIE
+
+## Mechanism Of Action
+
+ANTI-EPILEPTIQUES & ANTI-CONVULSIVANTS

@@ -1,0 +1,30 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_056
+DCI: Ebastine
+DrugBank ID: DB11742
+DrugBank Name: Ebastine
+Brand Names: EBASTA
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/10 et b/30
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: R06AX22
+Registration Numbers: 268/01 A 056/17/22
+Drug Codes: 01 A 056
+
+------------------------------------------------------------
+
+## Description
+
+Ebastine is under investigation for the treatment of Irritable Bowel Syndrome (IBS). Ebastine has been investigated for the treatment of Urticaria.
+
+## Mechanism Of Action
+
+Ebastine is a second-generation antihistamine that acts as a selective histamine H1-receptor antagonist to relieve allergic symptoms. 1 Target Actions Organism A Histamine H1 receptor antagonist Humans
+
+## Metabolism
+
+Hover over products below to view reaction partners Ebastine 4-(4-tert-butylphenyl)-4-oxobutanal + Deslakylebastine

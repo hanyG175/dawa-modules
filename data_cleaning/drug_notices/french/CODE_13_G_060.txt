@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_060
+DCI: Benzathine Benzylpenicilline
+Brand Names: BENZATHINE BENZYLPENICILLINE BIOCARE
+Pharmaceutical Forms: Poudre Sol. Inj.
+Dosages: 1 200 000UI/FL. DE PDRE.
+Packaging: B/01FL. DE PDRE. + 01AMP. DE 5ML DE SOLV.(EPPI) ET B/50FL. DE PDRE.
+Laboratories: BIOCARE LABORATOIRES
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 13G061
+Registration Numbers: 003/13 G 060/05/25 | 293/13 G 060/11/19
+Drug Codes: 13 G 060
+
+------------------------------------------------------------
+
+## Indications
+
+INFECTIOLOGIE
+
+## Mechanism Of Action
+
+PENICILLINES

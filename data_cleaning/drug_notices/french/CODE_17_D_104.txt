@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_104
+DCI: Acide Fusidique | CARBOMERE [980] 0,13 % collyre sol récip unidose (LACRIFLUID Unidose)
+Brand Names: FUCITHALMIC | FUTARON | ZYDEX
+Pharmaceutical Forms: Collyree Visqueux | Gélule
+Dosages: 0.01
+Packaging: flacon/5ml | t/3g | t/5g
+Laboratories: Laboratoires EUROPHTA
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01X - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA - AUTRES MEDICAMENTS OPHTALMOLOGIQUES | S01XA20 - LARMES ARTIFICIELLES ET DIVERSES AUTRES PREPARATIONS
+Registration Numbers: 406/17 D 104/24 | 501/17 D 104/97/23 | 521/17 D 104/24
+Drug Codes: 17 D 104
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement symptomatique de l'œil sec.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Insuffisance lacrymale | Posologie standard | 1 gte 3 à 5 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Sujet de moins de 18 ans | Sujet porteur de lentilles de contact | Traitement concomitant par produits ophtalmiques
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Carbomère : Mécanisme d'action | Le carbomère forme un film hydrophile qui adhère à la surface oculaire. Il se lie aux molécules d'eau et stabilise le film lacrymal.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatite de contact (Peu fréquent) | - Eczéma (Très rare) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | OPHTALMOLOGIE: | - Gêne oculaire (Fréquent) | - Hypersécrétion lacrymale (Peu fréquent) | - Irritation oculaire (Fréquent) | - Chémosis (Peu fréquent) | - Bord de la paupière croûteux (Fréquent) | - Kératite ponctuée (Cas isolés) | - Sensation de corps étranger dans l'oeil (Très rare) | - Vision floue (Cas isolés) | - Eczéma palpébral (Très rare) | - Rougeur oculaire (Très rare) | - Conjonctivite papillaire (Très rare) | - Trouble de la vision | - Hyperhémie oculaire | - Oedème oculaire | - Prurit oculaire | - Sensation de paupière collée | - Sensation de brûlure dans l?oeil | - Douleur oculaire | - Oedème palpébral | - Sclérite | - Picotement oculaire

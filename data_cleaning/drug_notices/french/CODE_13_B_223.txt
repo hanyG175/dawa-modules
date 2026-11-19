@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_223
+DCI: CEFALEXINE 1 g cp (KEFORAL)
+Brand Names: ANCEFAL | KEFALEX | LEXIN | LEXINAL
+Pharmaceutical Forms: Comprimé
+Dosages: 1g
+Packaging: b/06 et b/12 | b/12
+Laboratories: Laboratoire SCIENCEX
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01D - AUTRES BETALACTAMINES | J01DB - CEPHALOSPORINES DE PREMIERE GENERATION | J01DB01 - CEFALEXINE
+Registration Numbers: 001/13 B 223/06/23 | 035/13 B 223/18 | 039/13 B 223/18/25 | 380/13 B 223/19
+Drug Codes: 13 B 223
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Elles procèdent de l'activité antibactérienne et des caractéristiques pharmacocinétiques de la céfalexine. Elles tiennent compte à la fois des études cliniques auxquelles a donné lieu le médicament et de sa place dans l'éventail des produits antibactériens actuellement disponibles. | Elles sont limitées aux infections dues aux germes sensibles lorsque ces infections autorisent une antibiothérapie orale et à l'exclusion des localisations méningées, notamment : | les infections ORL : angines documentées à streptocoque A bêta-hémolytique, sinusites, otites ; | les infections respiratoires basses : | surinfections des bronchites aiguës, | exacerbations des bronchites chroniques, | pneumopathies communautaires chez des sujets : sans facteur de risques, sans signe de gravité clinique, en l'absence d'argument faisant craindre une résistance de | Streptococcus pneumoniae | à la pénicilline, en l'absence d'argument évocateur d'une pneumopathie atypique ; | les infections urinaires non compliquées, excepté les prostatites et pyélonéphrites. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.
+
+## Posology
+
+Posologie | Unité de prise | comprimé | céfalexine : 1000 mg | Modalités d'administration | Voie orale | Administrer à distance du repas | Posologie | Patient de 6 an(s) à 15 an(s) | Patient quel que soit le poids | Bronchite aiguë présumée bactérienne - Cystite aiguë non compliquée - Otite moyenne aiguë - Pneumopathie aiguë - Sinusite aiguë - Surinfection de bronchite chronique | Posologie standard | 25 à 50 mg/kg en 2 prises par jour | Pendant 7 à 14 jours | Posologie maximale: 2 000 mg par jour | Angine aiguë streptococcique | Posologie standard | 25 à 50 mg/kg en 2 prises par jour | Pendant 10 jours | Posologie maximale: 2 000 mg par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Bronchite aiguë présumée bactérienne - Cystite aiguë non compliquée - Otite moyenne aiguë - Pneumopathie aiguë - Sinusite aiguë - Surinfection de bronchite chronique | Posologie standard | 1 000 mg 2 fois par jour | Pendant 7 à 14 jours | Angine aiguë streptococcique | Posologie standard | 1 000 mg 2 fois par jour | Pendant 10 jours | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Hypersensibilité aux pénicillines | Insuffisance rénale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Céfalexine : Mécanisme d'action | Le céfalexine est un antibiotique antibactérien de la famille des bêtalactamines du groupe des céphalosporines de 1 | re | génération. | Toutes les céphalosporines (antibiotiques bêtalactamines) inhibent la production de la paroi cellulaire et sont des inhibiteurs sélectifs de la synthèse de peptidoglycanes. L'étape initiale de l'effet de la substance consiste en la fixation de celle-ci à des récepteurs cellulaires appelés « protéines liant la pénicilline ». Une fois qu'un antibiotique bêtalactamine s'est lié à ces récepteurs, la réaction de transpeptidation est inhibée et la synthèse des peptidoglycanes est bloquée. Il en résulte une lyse bactérienne. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S 32 mg/l. | Espèces sensibles : | aérobies à Gram + : | Corynebacterium diphtheriae | , | Propionibacterium acnes | , | staphylococcus | méti-S, | streptococcus | , | Streptococcus pneumoniae | ; | aérobies à Gram - : | Branhamella catarrhalis | , | Citrobacter koseri | , | Escherichia coli | , | klebsiella | , | Neisseria gonorrhoeae | , | pasteurella | ; | anaérobies : | fusobacterium | , | prevotella | . | Espèces modérément sensibles ( | in vitro | de sensibilité intermédiaire) : | aérobies à Gram - : | Haemophilus influenzae | , | Proteus mirabilis | ; | anaérobies : | Clostridium perfringens | , | peptostreptococcus | . | Espèces résistantes : | aérobies à Gram + : entérocoques, | Listeria monocytogenes | , | staphylococcus | méti-R ; | aérobies à Gram - : | acinetobacter | , | Citrobacter freundii | , | enterobacter | , | Morganella morganii | , | Proteus vulgaris | , | providencia | , | pseudomonas | , | serratia | ; | anaérobies : | bacteroides | , | Clostridium difficile | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ASAT (augmentation) (Peu fréquent) | - Eosinophilie (Peu fréquent) | - ALAT (augmentation) (Peu fréquent) | - Neutropénie (Rare) | - Test de coombs positif | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Syndrome de Stevens-Johnson (Rare) | - Erythème polymorphe (Rare) | - Syndrome de Lyell (Rare) | - Pustulose exanthémateuse aiguë généralisée | DIVERS: | - Fatigue (Rare) | - Fièvre | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Infection vaginale (Rare) | - Prurit génital (Rare) | HÉMATOLOGIE: | - Anémie hémolytique (Rare) | - Thrombopénie (Rare) | - Leucopénie | HÉPATOLOGIE: | - Ictère cholestatique (Rare) | - Hépatite (Rare) | - Hépatopathie | - Ictère | IMMUNO-ALLERGOLOGIE: | - Réaction anaphylactique (Rare) | - Choc anaphylactique | - Oedème de Quincke | INFECTIOLOGIE D'ORIGINE BACTERIENNE: | - Sélection de souche résistante | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose vaginale | - Candidose | ORL, STOMATOLOGIE: | - Vertige (Rare) | PSYCHIATRIE: | - Confusion mentale | - Hallucination | - Agitation | SYSTÈME DIGESTIF: | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement (Rare) | - Dyspepsie (Rare) | - Prurit anal (Rare) | - Colite pseudomembraneuse (Rare) | - Prurit anogénital | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur articulaire | - Arthrite | SYSTÈME NERVEUX: | - Céphalée (Rare) | - Altération de la conscience | - Mouvement anormal | - Epilepsie | - Encéphalopathie | UROLOGIE, NÉPHROLOGIE: | - Néphropathie interstitielle (Rare)

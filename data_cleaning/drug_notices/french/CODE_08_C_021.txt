@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_08_C_021
+DCI: iopamidol
+Brand Names: PAMIDOL 370
+Pharmaceutical Forms: Solution
+Dosages: i =370mg/ml
+Packaging: flacon./50ml - flacon./100ml
+ATC Classification: V08AB04
+Registration Numbers: 276/08 C 021/09/16
+Drug Codes: 08 C 021
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie
+
+## Precautions
+
+Abcès intracrânien | Accident ischémique transitoire | Agitation | Alcoolisme | Allaitement | Altération de l'état général | Angiocardiographie | Angiographie | Angor instable | Antécédent d'épilepsie | Antécédent d'infarctus du myocarde | Anxiété | Artériographie | Asthme | Athérosclérose | Déshydratation | Diabète | Douleur | Drépanocytose | Dysthyroïdie | Emphysème | Enfant de moins de 6 ans | Epilepsie | Etat de stress | Femme susceptible d'être enceinte | Goitre | Grossesse | Hémorragie cérébrale, antécédent récent (d') | Hypercalcémie | Hypertension artérielle pulmonaire | Hypertension intracrânienne | Hyperthyroïdie, antécédent (d') | Hyperuricémie | Infarctus cérébral | Infection systémique | Injection par voie intrathécale | Insuffisance cardiaque | Insuffisance coronarienne | Insuffisance hépatique sévère | Insuffisance rénale | Lésion de la barrière hémato-encéphalique | Maladie auto-immune | Maladie cardiovasculaire | Myasthénie | Myélome multiple | Nourrisson de moins de 30 mois | Nouveau-né exposé in utero au médicament | Oedème cérébral | Paraprotéinémie | Pathologie cérébrovasculaire | Patient en hémodialyse | Patient homocystinurique | Phéochromocytome | Phlébographie | Polyurie | Pontage coronaro-artériel | Scintigraphie thyroïdienne | Sujet âgé | Sujet à risque d'hémorragie intracrânienne | Sujet à risque d'insuffisance rénale | Sujet à risque de crise convulsive | Terrain allergique | Toxicomanie | Trouble hydroélectrolytique | Tumeur cérébrale | Valvulopathie cardiaque | Vasculopathie sténosante
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Iopamidol : Mécanisme d'action | L’iopamidol est un produit de contraste triiodé, hydrosoluble, non ionique, de basse osmolalité, injectable par voie intravasculaire et sous-arachnoïdienne, pour examen radiologique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Créatininémie (augmentation) (Peu fréquent) | DERMATOLOGIE: | - Prurit (Fréquent) | - Erythème cutané (Peu fréquent) | - Syndrome de Lyell (Très rare) | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Hypersudation | - Urticaire | - Nécrose cutanée | - Pustulose exanthémateuse aiguë généralisée | - Erythème polymorphe | DIVERS: | - Oedème (Fréquent) | - Douleur thoracique (Peu fréquent) | - Réaction générale (Rare) | - Fièvre | - Oedème de la face | - Frisson | - Sensation de chaleur | - Douleur | - Sensation de froid | ENDOCRINOLOGIE: | - Dysthyroïdie | HÉMATOLOGIE: | - Thrombopénie | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Fréquent) | - Réaction anaphylactique (Fréquent) | - Choc anaphylactique | - Hypersensibilité | - Réaction anaphylactoïde | INSTRUMENTATION: | - Gonflement au site d'injection (Rare) | - Extravasation au point d'injection | - Inflammation au site d'injection | - Oedème au point d'injection | - Nécrose au point d'injection | - Douleur au point d'injection | NÉONATOLOGIE: | - Hypothyroïdie néonatale | OPHTALMOLOGIE: | - Photophobie | - Cécité transitoire | - Trouble de la vision | - Conjonctivite | ORL, STOMATOLOGIE: | - Hyposialie (Peu fréquent) | - Dysgueusie (Peu fréquent) | - Eternuement (Fréquent) | - Rhinite (Fréquent) | - Vertige (Rare) | - Laryngospasme (Rare) | - Acuité auditive (modification) | - Sensation de vertige | - Hypertrophie parotidienne | - Trouble auditif | - Oedème laryngé | - Sécheresse buccale | - Sialorrhée | PSYCHIATRIE: | - Agitation (Rare) | - Désorientation temporospatiale | - Nervosité | - Confusion mentale | SYSTÈME CARDIOVASCULAIRE: | - Bouffée de chaleur (Fréquent) | - Extrasystole (Peu fréquent) | - Fibrillation auriculaire (Peu fréquent) | - Tachycardie ventriculaire (Peu fréquent) | - Arythmie (Très rare) | - Infarctus du myocarde (Rare) | - Thrombophlébite cérébrale (Rare) | - Pression artérielle (diminution) (Très rare) | - Bradycardie (Rare) | - Pression artérielle (augmentation) (Très rare) | - Syndrome vaso-vagal (Rare) | - Thromboembolie artérielle (Rare) | - Tachycardie | - Anomalie de l'électrocardiogramme | - Collapsus cardiovasculaire | - Hypotension artérielle | - Thrombose coronarienne | - Hypertension artérielle | - Insuffisance cardiaque | - Vasodilatation | - Syndrome de Kounis | - Ischémie myocardique | - Choc cardiogénique | - Malaise | - Fibrillation ventriculaire | - Arrêt cardiaque | - Thrombophlébite | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Diarrhée (Peu fréquent) | - Glandes salivaires (inflammation) | - Douleur abdominale | SYSTÈME MUSCULO-SQUELETTIQUE: | - Dorsalgie (Fréquent) | - Spasme musculaire (Rare) | - Rigidité | - Faiblesse musculaire | - Syndrome des loges | - Douleur musculo-squelettique | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Coma (Rare) | - Amnésie (Rare) | - Convulsions (Rare) | - Parésie (Rare) | - Paresthésie (Rare) | - Infection neuro-méningée | - Somnolence | - Encéphalopathie | - Accident ischémique transitoire | - Méningite aseptique | - Radiculalgie | - Trouble de la parole | - Perte de conscience | - Hypoesthésie | - Tremblement | - Syndrome méningé | - Altération de la conscience | - Hémiplégie | SYSTÈME RESPIRATOIRE: | - Toux (Fréquent) | - Insuffisance respiratoire aiguë (Fréquent) | - Bronchospasme (Rare) | - Asthme (Rare) | - Syndrome de détresse respiratoire aiguë | - Apnée | - Oedème pulmonaire | - Cyanose | - Insuffisance respiratoire | - Dyspnée | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale aiguë (Peu fréquent) | - Insuffisance rénale (Rare) | - Néphropathie (Rare)

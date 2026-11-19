@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_196
+DCI: PALBOCICLIB 75 mg gél (IBRANCE) | Palbociclib
+DrugBank ID: DB09073
+DrugBank Name: Palbociclib
+Brand Names: IBRANCE | PALBOCICLIB BIOPHARM | PALBOCICLIB DEMOCEDES | PAPILLIO
+Pharmaceutical Forms: Comprimé | Gélule
+Dosages: 75 mg | 75mg
+Packaging: b/21
+Laboratories: PFIZER
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EF - INHIBITEURS DES KINASES CYCLINE-DEPENDANTES (CDK) | L01EF01 - PALBOCICLIB
+Registration Numbers: 001/05 C 196/24 | 045/05 C 196/18 | 263/05 C 196/24 | 630/05 C 196/25
+Drug Codes: 05 C 196
+
+------------------------------------------------------------
+
+## Description
+
+Palbociclib is a piperazine pyridopyrimidine 3 that acts in the cell cycle machinery. It is a second generation cyclin-dependent kinase inhibitor 4 selected from a group of pyridopyrimidine compounds due to its favorable physical and pharmaceutical properties. 5 Palbociclib was developed by Pfizer Inc after the discovery that identified the cyclin-dependent kinases as key regulators of cell growth. 8 It was originally FDA approved on March 2015 for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer and its indications were updated in April 2019 to include male patients based on findings from postmarketing reports and electronic health records demonstrating safety and clinical efficacy. 7
+
+## Pharmacodynamics
+
+Due to its mechanism of action, palbociclib inhibits cell growth and suppresses DNA replication in retinoblastoma tumor suppressor gene (RB) proficient cancer cells. As expected, these RB cells present a significant increase in the proportion of cells in G1 state and the presence of palbociclib produces effective dephosphorylation of RB, reduce proliferation and induce senescence causing cell-cycle arrest. 5 In vitro studies showed the potential for palbociclib to reduce cellular proliferation of estrogen receptor-positive breast cancer cell lines through the inhibition of the cell-cycle progression from G1 to S phase. In this study, it was demonstrated that the sensitivity of the cells significantly increased with the expression of RB1 and CCND1 and low expression of CDKN2A . As well, palbociclib, combined with antiestrogens, enhanced in vivo antitumor activity in estrogen receptor-positive breast cancer mouse models. 3 In clinical trials, palbociclib, in combination with letrozole, was shown to significantly increase the progression-free survival (PFS) in patients with metastatic breast cancer without prior endocrine treatment. In the results, the PFS increased from 4.5 to 9.5 months with an overall response rate (ORR) of 24.6%. 2
+
+## Mechanism Of Action
+
+Cyclin-dependent kinase 4 Inhibitor Cyclin-dependent kinase 6 Inhibitor
+
+## Absorption
+
+Palbociclib presents a linear pharmacokinetic profile and its peak plasma concentration was observed 6-12 hours after oral administration. The oral bioavailability is reported to be of 46% with a steady-state reached after 8 days and a median accumulation ratio of 2.4. 3 The absorption of palbociclib is significantly reduced under fasting conditions and hence, food intake is recommended when this drug is administered. 3
+
+## Volume Of Distribution
+
+The mean apparent distribution of palbociclib is 2583 L which suggests that palbociclib penetrates extensively into peripheral tissues. 11
+
+## Metabolism
+
+Palbociclib is mainly hepatically transformed. 3 the metabolism is mainly performed by the activities of the cytochrome P450 isoenzyme 3A and the sulfotransferase 2A1. 4 The metabolism of palbociclib is represented mainly by reactions of oxidation and sulfonation followed by acylation and glucuronidation as minor reactions. After its metabolism, palbociclib forms mainly inactive glucuronide and sulfamic acid conjugates. The major circulating metabolite, accounting for 1.5% of the dose in excreta is is the glucuronide conjugate. 13 Hover over products below to view reaction partners Palbociclib Palbociclib M1 + Palbociclib M11 + Palbociclib M2 + Palbociclib M3 Palbociclib M14 + Palbociclib M4 Palbociclib M5 Palbociclib M6 Palbociclib M7 Palbociclib M8 Palbociclib M9 Palbociclib M10 Palbociclib M12 Palbociclib M13
+
+## Route Of Elimination
+
+The main route of elimination of palbociclib is through feces after hepatic metabolism while renal clearance seems to play a minor role accounting only for 17.5% of the eliminated dose. 3
+
+## Half Life
+
+The mean plasma elimination half-life of palbociclib is 29 hours. 3
+
+## Clearance
+
+The mean apparent oral clearance of palbociclib is of 63.1 L/h. 3
+
+## Toxicity
+
+The reported oral Ld50 is of 100 mg/kg. MSDS In cases of overdosage, only supportive measures are considered. Label Palbociclib was showed to present clastogenic activities in in vitro and in vivo assays. As well, it has been reported to produce fetal harm due to its mechanism of action. 3 Lastly, it was shown to increase the incidence of microglial cell tumors in the central nervous system at high doses. Label

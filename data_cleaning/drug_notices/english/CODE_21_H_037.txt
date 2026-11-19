@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_H_037
+DCI: Insaponifiable D'Huile D'Avocat/ Insaponifiable D'Huile De Soja
+DrugBank ID: DB06728
+DrugBank Name: Aniline
+Brand Names: PIASCLEDINE 300
+Pharmaceutical Forms: Gélule
+Dosages: 100mg/200mg (total 300mg d'insaponifiables avocat-soja)
+Packaging: b/15
+Registration Numbers: 210/21 H 037/01/16
+Drug Codes: 21 H 037
+
+------------------------------------------------------------
+
+## Description
+
+Aniline, phenylamine or aminobenzene is an organic compound with the formula C6H5NH2. Consisting of an amine attached to a benzene ring, aniline is the prototypical aromatic amine. Being a precursor to many industrial chemicals, its main use is in the manufacture of precursors to polyurethane. Like most volatile amines, it possesses the somewhat unpleasant odour of rotten fish. Aniline is colorless, but it slowly oxidizes and resinifies in air, giving a red-brown tint to aged samples.
+
+## Mechanism Of Action
+
+Target Actions Organism U Kallikrein-1 Not Available Humans U Albumin Not Available Humans
+
+## Metabolism
+
+Hover over products below to view reaction partners Aniline 4-aminophenol N-Hydroxyaniline

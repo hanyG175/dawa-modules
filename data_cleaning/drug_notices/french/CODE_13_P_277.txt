@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_277
+DCI: LAMIVUDINE 150 mg + ZIDOVUDINE 300 mg cp (LAMIVUDINE/ZIDOVUDINE TEVA)
+Brand Names: DUOVIR | LAMIHOPEZ | ZIDOLAM | ZUDOMID
+Pharmaceutical Forms: Comprimé
+Dosages: 150mg/300mg
+Packaging: b/1 flc de 60 | b/60
+ATC Classification: J05AF05
+Registration Numbers: 182/13 P 277/05/17 | 309/13 P 277/25 | 508/13 P 277/19 | 524/13 P 277/20
+Drug Codes: 13 P 277
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | lamivudine : 300 mg | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Possibilité d'écraser le comprimé | Utiliser le dosage le plus adapté à la posologie | Utiliser une forme sécable si nécessaire | Posologie | Patient de 3 mois à 12 an(s) | 14 kg = 25 kg | Infection par le VIH, traitement associé (de l') | Posologie standard | 300 mg en 1 à 2 prises par jour | Patient à partir de 12 an(s) | Patient quel que soit le poids | Infection par le VIH, traitement associé (de l') | Posologie standard | 300 mg en 1 à 2 prises par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Co-infection VHB-VIH | Co-infection VHC-VIH | Déficit immunitaire sévère | Grossesse | Hépatite chronique évolutive | Hépatopathie | Insuffisance hépatique associée à une insuffisance rénale | Insuffisance rénale modérée à sévère | Nourrisson de moins de 3 mois | Nouveau-né exposé in utero au médicament | Patient ayant des difficultés de déglutition | Sujet âgé | Sujet entre 3 mois et 18 ans | Trithérapie comportant des analogues nucléosidiques/nucléotidiques
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Lamivudine : Mécanisme d'action | La lamivudine est un analogue nucléosidique actif sur le virus de l'immunodéficience humaine (VIH) et sur le virus de l'hépatite B (VHB). Au niveau intracellulaire, la lamivudine est métabolisée en lamivudine 5'-triphosphate, dérivé actif qui agit principalement par arrêt de l'élongation de la chaîne d'ADN (acide désoxyribonucléique) au niveau de la transcriptase inverse du VIH. | In vitro | , la lamivudine 5'-triphosphate présente une activité inhibitrice sélective sur la réplication des virus VIH-1 et VIH-2. Elle est également active sur les souches cliniques de VIH résistantes à la | zidovudine | . En association avec la | zidovudine | , la lamivudine possède une activité anti-VIH synergique sur les isolats cliniques en culture cellulaire. | La lamivudine triphosphate se comporte comme substrat de la polymérase du virus de l'hépatite B (VHB). L'incorporation de lamivudine-TP dans le génome du VHB bloque la formation de l'ADN et sa réplication ultérieure.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Neutropénie (Peu fréquent) | - Enzymes hépatiques (augmentation) (Peu fréquent) | - Amylasémie (augmentation) (Rare) | - Hyperglycémie | - ASAT (augmentation) | - Hyperlipidémie | - ALAT (augmentation) | DERMATOLOGIE: | - Alopécie (Fréquent) | - Eruption cutanée (Fréquent) | DIVERS: | - Fièvre (Fréquent) | - Fatigue (Fréquent) | - Réaction inflammatoire post-infection | ENDOCRINOLOGIE: | - Maladie de Basedow | HÉMATOLOGIE: | - Anémie (Peu fréquent) | - Thrombopénie (Peu fréquent) | - Aplasie érythrocytaire (Très rare) | HÉPATOLOGIE: | - Hépatite (Rare) | - Hépatite auto-immune | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Angioedème (Rare) | - Syndrome de restauration immunitaire | - Maladie auto-immune | INFECTIOLOGIE NON PRECISÉE: | - Infection opportuniste | NUTRITION, MÉTABOLISME: | - Acidose lactique (Très rare) | - Poids (augmentation) | ORL, STOMATOLOGIE: | - Congestion nasale (Fréquent) | PSYCHIATRIE: | - Insomnie (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Malaise (Fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Crampe abdominale (Fréquent) | - Pancréatite (Rare) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Trouble musculaire (Fréquent) | - Douleur articulaire (Fréquent) | - Rhabdomyolyse (Rare) | - Ostéonécrose | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Neuropathie périphérique (Très rare) | - Paresthésie | SYSTÈME RESPIRATOIRE: | - Toux (Fréquent) | - Trouble nasal (Fréquent)

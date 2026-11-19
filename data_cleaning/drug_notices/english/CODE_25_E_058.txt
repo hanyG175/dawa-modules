@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_E_058
+DCI: FOSFOMYCINE (trométamol) 3 g glé p sol buv sach (FOSFOMYCINE ARROW)
+DrugBank ID: DB00828
+DrugBank Name: Fosfomycin
+Brand Names: MONURIL ADULTE | URICARE | URONYX
+Pharmaceutical Forms: Granule Pour Suspension Buvable
+Dosages: 3 g | 3g/sachet
+Packaging: b/01 sachet | b/01sachet | boite de 1 sachet
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01X - AUTRES ANTIBACTERIENS | J01XX - AUTRES ANTIBACTERIENS | J01XX01 - FOSFOMYCINE
+Registration Numbers: 093/25 E 058/07 | 293/25 E 058/14 | 546/25 E 058/23
+Drug Codes: 25 E 058
+
+------------------------------------------------------------
+
+## Description
+
+Fosfomycin was discovered in 1969 by scientists at the Spanish Penicillin and Antibiotics Company and is produced by Streptomyces fradiae . 1 , 5 It may also be produced synthetically and is commercially available as the disodium salt for intravenous administration and as the calcium or trometamol salt for oral administration. 5 In terms of chemical structure, fosfomycin is a phosphoenolpyruvate analog and contains a phosphonic group and an epoxide ring. 5 Due to its ease of administration as a single 3-gram oral dose and desirable safety profile, fosfomycin has largely become a first-line therapeutic option for the treatment of uncomplicated urinary tract infections (UTIs) in females. 8 Despite being FDA approved only for urinary tract infections, fosfomycin actually has a broad spectrum of activity and is active against both gram-positive and gram-negative bacteria. 5 As such there is great interest in exploring the usefulness of fosfomycin for indications beyond the treatment of UTIs. 6 , 7
+
+## Pharmacodynamics
+
+Although used primarily to treat urinary tract infections, fosfomycin has been shown to act synergistically with other antibiotics against clinically relevant bacteria. 1 There is also growing interest in the potential of fosfomycin to treat more complex infections since it has retained activity against many difficult-to-treat strains of bacteria including methicillin-resistant Staphylococcus aureus (MRSA) and multidrug-resistant enterobacteria. 7 Further, since fosfomycin has a unique and singular mechanism of action, the risk of cross-resistance with other antibiotics is low. 6 , 5 Fosfomycin also demonstrates immunomodulating properties. For example, the antibiotic may influence components of the acute inflammatory cytokine response and enhances neutrophil phagocytic destruction of pathogens. 1 , 4 Fosfomycin penetrates biofilms effectively and is capable of not only reducing or eliminating microorganisms in biofilms but can also alter the biofilm structure. 1 , 7
+
+## Mechanism Of Action
+
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase (Escherichia coli (strain K12)) Inhibitor
+
+## Absorption
+
+Fosfomycin is a low molecular weight and hydrophilic drug. When administered orally, fosfomycin is rapidly absorbed in the small intestine and distributed widely to the tissues. 1 , 2 , 3 , 10 The oral bioavailability ranges from 34-58%. 1 Co-administration of fosfomycin with food decreases gastrointestinal absorption to approximately 30%. 1 The reported AUC = 145-228 mg x h/L, while the reported Cmax = 26.1 (∓9.1) mcg/mL. 1 , 10
+
+## Volume Of Distribution
+
+In healthy subjects, the volume of distribution (Vd) of fosfomycin is approximately 0.3 L/Kg. 2 Due to changes in the vascular endothelium, the Vd can be up to 50% higher in critically ill patients. 2
+
+## Metabolism
+
+Fosfomycin is not metabolized and is predominantly excreted unchanged in the urine. 2 , 3
+
+## Route Of Elimination
+
+Fosfomycin is excreted almost entirely by the kidneys. 2 Factors including administration with food, impaired renal function, and older age may reduce the rate of fosfomycin elimination. 1
+
+## Half Life
+
+The mean elimination half-life of fosfomycin is 5.7 (∓2.8) hours. 10
+
+## Clearance
+
+In one study, the reported CL/F of fosfomycin in healthy volunteers was 17 ∓ 4.7 L/hour. 9
+
+## Toxicity
+
+Acute toxicology studies have found that oral fosfomycin doses 50-125 times the human therapeutic dose were well-tolerated in rats and mice, resulted in minor and transient watery stools in rabbits, and caused diarrhea with anorexia in dogs 2-3 days after single-dose administration. 10 In humans, symptoms of overdose have included impaired hearing, vestibular loss, general decline in taste perception, and metallic taste. In the event of overdose, the patient should be managed with symptomatic and supportive measures. 10

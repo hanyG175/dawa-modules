@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_013
+DCI: BRIMONIDINE TARTRATE 0,2 % + TIMOLOL (maléate) 0,5 % collyre sol (BRIMONIDINE/TIMOLOL BIOGARAN) | Timolol Maleate Exprime En Timolol
+Brand Names: APIMOL | DIGAOL | MEDYOL | NORMOPTIC | OPHTAMOLOL | TIMODROP | TIMOLOL
+Pharmaceutical Forms: Collyree En Solution | Collyree En Solution Sterile
+Dosages: 0.005
+Packaging: flacon/10ml | flacon/3ml | flacon/5ml
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01E - ANTIGLAUCOMATEUX ET MYOTIQUES | S01EA - SYMPATHOMIMETIQUES ANTIGLAUCOMATEUX | S01EA05 - BRIMONIDINE | S01ED51
+Registration Numbers: 051/17 C 013/98 | 109/17 C 013/99 | 165/17 C 013/98 | 243/17 C 013/01 | 272/17 C 013/98/09 | 317/17 C 013/20/26 | 543/17 C 013/20
+Drug Codes: 17 C 013
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Respecter un intervalle de 12 heures entre chaque administration | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Glaucome chronique à angle ouvert, traitement de deuxième intention (du) - Glaucome chronique, traitement associé de 2e intention (du) - Hypertonie oculaire, traitement associé de 2e intention (de l') - Hypertonie oculaire, traitement de deuxième intention (de l') | Posologie standard | 1 gte toutes les 12 heures
+
+## Precautions
+
+Allaitement | Consommation d'alcool | Dépression | Enfant de moins de 20 kg | Enfant entre 2 et 18 ans | Etat cardiovasculaire instable | Grossesse | Hypotension orthostatique | Insuffisance coronarienne | Insuffisance hépatique | Insuffisance rénale | Insuffisance vasculaire cérébrale | Maladie cardiovasculaire sévère | Syndrome de Raynaud | Thrombo-angéite oblitérante | Traitement concomitant par produits ophtalmiques
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Brimonidine : Mécanisme d'action | La brimonidine est un agoniste des récepteurs alpha-2 adrénergiques 1000 fois plus sélectif pour les récepteurs alpha-2 adrénergiques que pour les récepteurs alpha-1 adrénergiques. | En dermatologie, l'application cutanée sur le visage d'un agoniste des recepteurs alpha-2-adrénergiques hautement sélectif réduit l'érythème par une vasoconstriction cutanée directe. | En ophtalmologie, du fait de cette sélectivité, on n'observe aucune mydriase ni vasoconstriction des microvaisseaux, associée aux xénogreffes de rétine humaine. | Une administration locale de brimonidine diminue la pression intraoculaire (PIO) chez l'homme et n'affecte que de façon minime les paramètres cardiovasculaires ou pulmonaires. | La brimonidine, agoniste alpha-2 adrénergique, inhibe l'enzyme adénylate cyclase et empêche la formation AMPc-dépendante d'humeur aqueuse. De plus, l'administration de brimonidine entraîne une augmentation du débit uvéo-scléral. | En association au | timolol | , elle diminue la pression intraoculaire (PIO) élevée par des mécanismes d'action complémentaires ; cet effet combiné résulte en une baisse additionnelle de la PIO comparée à celle induite par l'un ou l'autre principe actif en monothérapie. | En association, brimonidine et | brinzolamide | réduisent la pression intraoculaire (PlO) chez les patients atteints de glaucome à angle ouvert (GAO) et d'hypertension oculaire (HTO) en diminuant la formation d'humeur aqueuse par les procès ciliaires de l'œil.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Dermatite allergique (Peu fréquent) | - Eruption cutanée | - Prurit | - Erythème cutané | - Réaction cutanée au site d'application | - Pâleur | DIVERS: | - Irritation locale (Fréquent) | - Fatigue (Très fréquent) | - Asthénie (Fréquent) | - Hyperhémie | - Hypothermie | - Oedème de la face | - Surdosage accidentel | IMMUNO-ALLERGOLOGIE: | - Réaction allergique systémique (Peu fréquent) | - Hypersensibilité | OPHTALMOLOGIE: | - Coloration cornéenne (Fréquent) | - Vision floue (Très fréquent) | - Trouble de la vision (Fréquent) | - Irritation oculaire (Très fréquent) | - Blépharite allergique (Très fréquent) | - Hyposécrétion lacrymale (Fréquent) | - Blépharoconjonctivite allergique (Très fréquent) | - Conjonctivite allergique (Très fréquent) | - Conjonctivite folliculaire (Très fréquent) | - Blanchiment conjonctival (Fréquent) | - Erosion cornéenne (Fréquent) | - Photophobie (Fréquent) | - Conjonctivite (Fréquent) | - Réaction allergique oculaire (Très fréquent) | - Myosis (Très rare) | - Iritis (Très rare) | - Hyperhémie oculaire | - Oedème oculaire | - Prurit oculaire | - Douleur oculaire | - Iridocyclite | - Sensation de corps étranger dans l'oeil | - Hypersécrétion lacrymale | - Follicule conjonctival | - Oedème palpébral | - Blépharite | - Prurit palpébral | - Picotement oculaire | - Chémosis | - Sensation de brûlure dans l?oeil | ORL, STOMATOLOGIE: | - Hyposécrétion nasale (Peu fréquent) | - Vertige (Fréquent) | - Dysgueusie (Fréquent) | - Sécheresse buccale (Très fréquent) | - Sensation de vertige (Fréquent) | - Pharyngite (Peu fréquent) | - Sécheresse pharyngée (Rare) | - Congestion nasale (Rare) | - Dysphonie (Rare) | - Gorge sèche (Rare) | PSYCHIATRIE: | - Dépression (Peu fréquent) | - Insomnie (Très rare) | - Léthargie | SYSTÈME CARDIOVASCULAIRE: | - Arythmie (Peu fréquent) | - Palpitation (Peu fréquent) | - Hypertension artérielle (Très rare) | - Hypotension artérielle (Très rare) | - Syncope (Très rare) | - Tachycardie | - Bradycardie | - Vasodilatation | SYSTÈME DIGESTIF: | - Trouble digestif (Fréquent) | - Nausée (Peu fréquent) | - Soif (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Hypotonie musculaire | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Somnolence (Très fréquent) | - Perte de conscience | SYSTÈME RESPIRATOIRE: | - Infection des voies respiratoires supérieures (Fréquent) | - Symptômes des voies aériennes supérieures (Fréquent) | - Dyspnée (Rare) | - Toux (Rare) | - Dépression respiratoire | - Apnée | - Cyanose

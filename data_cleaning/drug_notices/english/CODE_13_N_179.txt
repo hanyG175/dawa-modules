@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_N_179
+DCI: CEFEPIME (chlorhydrate) 1 g pdre p sol inj/p perf (CEFEPIME ACCORD)
+DrugBank ID: DB02703
+DrugBank Name: Fusidic acid
+Brand Names: FUCARE | FUCIDE | FUCIDINE | FUDACINE | FUSIDAC
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/10
+Registration Numbers: 293/13 N 179/18 | 380/13 N 179/20 | 418/13 N 179/21 | 426/13 N 179/99/25 | 571/13 N 179/24
+Drug Codes: 13 N 179
+
+------------------------------------------------------------
+
+## Description
+
+An antibiotic isolated from the fermentation broth of Fusidium coccineum. (From Merck Index, 11th ed) It acts by inhibiting translocation during protein synthesis. It is often used topically in creams and eyedrops but is available in systemic formulations including tablets and injections.
+
+## Pharmacodynamics
+
+Fusidic acid is a bacteriostatic antibiotic and helps prevent bacterial growth while the immune system clears the infection.
+
+## Mechanism Of Action
+
+Elongation factor G (Thermus thermophilus) Inhibitor
+
+## Absorption
+
+Sodium fusidic acid tablets have a 91% oral bioavailability. Absorption of the film-coated tablets is complete when compared to a solution, however oral absorption is variable. Oral fusidic acid hemihydrate (suspension) achieved a 22.5% bioavailability in pediatric patients following a 20 milligram/kilogram dose.
+
+## Metabolism
+
+Metabolites include dicarboxylic ester/acid, 3-keto fusidic acid, hydroxy fusidic acid, glucuronide fusidic acid and a glycol metabolite. Hover over products below to view reaction partners Fusidic acid Malonic acid 3-keto fusidic acid Dicarboxylic ester Glucuronide fusidic acid Hydroxy fusidic acid
+
+## Half Life
+
+Approximately 5 to 6 hours in adults.

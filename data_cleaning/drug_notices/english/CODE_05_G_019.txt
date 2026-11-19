@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_019
+DCI: Etoposide
+DrugBank ID: DB00773
+DrugBank Name: Etoposide
+Brand Names: ETOPOSIDE MYLAN
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 20MG/ML (100MG/5ML)
+Packaging: B/10FL. DE 5ML
+Laboratories: MYLAN
+Countries: FRANCE
+Prescription List: Liste I
+ATC Classification: L01CB01
+Registration Numbers: 450/05 G 019/12
+Drug Codes: 05 G 019
+
+------------------------------------------------------------
+
+## Description
+
+A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle.
+
+## Pharmacodynamics
+
+Etoposide is an antineoplastic agent and an epipodophyllotoxin (a semisynthetic derivative of the podophyllotoxins). It inhibits DNA topoisomerase II, thereby ultimately inhibiting DNA synthesis. Etoposide is cell cycle dependent and phase specific, affecting mainly the S and G2 phases. Two different dose-dependent responses are seen. At high concentrations (10 µg/mL or more), lysis of cells entering mitosis is observed. At low concentrations (0.3 to 10 µg/mL), cells are inhibited from entering prophase. It does not interfere with microtubular assembly. The predominant macromolecular effect of etoposide appears to be the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals.
+
+## Mechanism Of Action
+
+DNA topoisomerase 2-alpha Inhibitor
+
+## Absorption
+
+Absorbed well, time to peak plasma concentration is 1-1.5 hrs. Mean bioavailability is 50% (range of 25% - 75%). Cmax and AUC values for orally administered etoposide capsules display intra- and inter-subject variability. There is no evidence of first-pass effect for etoposide.
+
+## Volume Of Distribution
+
+The disposition of etoposide is a biphasic process with a distribution half-life of 1.5 hours. It does not cross into cerebrospinal fluid well.
+Volume of distribution, steady state = 18 - 29 L.
+
+## Metabolism
+
+Primarily hepatic (through O-demethylation via the CYP450 3A4 isoenzyme pathway) with 40% excreted unchanged in the urine. Etoposide also undergoes glutathione and glucuronide conjugation which are catalyzed by GSTT1/GSTP1 and UGT1A1, respectively. Prostaglandin synthases are also responsible for the conversion of etoposide to O-demethylated metabolites (quinone). Hover over products below to view reaction partners Etoposide 3'-demethyletoposide Etoposide glucuronide Etoposide catechol Etoposide ortho-quinone
+
+## Route Of Elimination
+
+Etoposide is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion. Glucuronide and/or sulfate conjugates of etoposide are also excreted in human urine. Biliary excretion of unchanged drug and/or metabolites is an important route of etoposide elimination as fecal recovery of radioactivity is 44% of the intravenous dose. 56% of the dose was in the urine, 45% of which was excreted as etoposide.
+
+## Half Life
+
+4-11 hours
+
+## Clearance
+
+Total body clearance = 33 - 48 mL/min [IV administration, adults] Mean renal clearance = 7 - 10 mL/min/m^2
+
+## Toxicity
+
+Side effects include alopecia, constipation, diarrhea, nausea and vomiting and secondary malignancies (leukemia).

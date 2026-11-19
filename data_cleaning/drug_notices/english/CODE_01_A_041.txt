@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_041
+DCI: CETIRIZINE DICHLORHYDRATE 10 mg/ml sol buv en gte (CETIRIZINE BIOGARAN)
+DrugBank ID: DB00341
+DrugBank Name: Cetirizine
+Brand Names: ARTIZ | CETIRIPEX | CETIRIZINE GL | CETIRIZINE PHYSIOPHARM | CYRTEC | HISTARIZINE | RHITENE | TRIZ | ZETIREC | ZETREC | ZITRAL | ZITRINE
+Pharmaceutical Forms: Solution
+Dosages: 10mg/ml
+Packaging: b/flacon 15 ml | b/flacon 30ml
+ATC Classification: R - SYSTEME RESPIRATOIRE | R06 - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06A - ANTIHISTAMINIQUES A USAGE SYSTEMIQUE | R06AE - DERIVES DE LA PIPERAZINE | R06AE07 - CETIRIZINE
+Registration Numbers: 035/01 A 041/23 | 065/01 A 041/17/22 | 073/01 A 041/19 | 088/01 A 041/24 | 235/01 A 041/14/24 | 242/01 A 041/19 | 285/01 A 041/13/19 | 304/01 A 041/21 | 318/01 A 041/23 | 352/01 A 041/16/22 | 462/01 A 041/19 | 528/01 A 041/21
+Drug Codes: 01 A 041
+
+------------------------------------------------------------
+
+## Description
+
+Cetirizine, also commonly known as Zyrtec , is an orally active second-generation histamine H1 antagonist proven effective in the treatment of various allergic symptoms, such as sneezing, coughing, nasal congestion, hives, and other symptoms 1 , 2 . One of the most common uses for this drug is for a condition called allergic rhinitis . The prevalence of allergic rhinitis in the United States is about 15% according to physician diagnoses, and up to 30%, according to self-reported nasal symptoms. Allergic rhinitis is associated with multiple missed or unproductive days at work and school, problems with sleep, and other difficulties with day to day activities for many individuals 3 . Furthermore, some antihistamine agents that are used to treat this condition cause undesirable, sedating effects 4 . Cetirizine is one of the first second-generation H1 antihistamines (SGAHs) formulated to selectively inhibit the H1 receptor without sedating effects 2 .
+
+## Pharmacodynamics
+
+General effects and respiratory effects Cetirizine, the active metabolite of the piperazine H 1 -receptor antagonist hydroxyzine, minimizes or eliminates the symptoms of chronic idiopathic urticaria, perennial allergic rhinitis, seasonal allergic rhinitis, allergic asthma, physical urticaria, and atopic dermatitis.
+The clinical efficacy of cetirizine for allergic respiratory diseases has been well established in numerous trials Label . Effects on urticaria/anti-inflammatory effects It has anti-inflammatory properties that may play a role in asthma management 1 . There is evidence that cetirizine improves symptoms of urticaria. Marked clinical inhibition of a wheal and flare response occurs in infants, children as well as adults within 20 minutes of one oral dose and lasts for 24 h 1 . Concomitant use of cetirizine reduces the duration and dose of topical anti-inflammatory formulas used for the treatment of atopic dermatitis 1 .
+
+## Mechanism Of Action
+
+Histamine H1 receptor Antagonist
+
+## Absorption
+
+Cetirizine was rapidly absorbed with a time to maximum concentration (Tmax) of about 1 hour after oral administration of tablets or syrup formulation in adult volunteers Label . Bioavailability was found to be similar between the tablet and syrup dosage forms. When healthy study volunteers were given several doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (Cmax) of 311 ng/mL was measured Label . Effect of food on absorption Food had no effect on cetirizine exposure (AUC), however, Tmax was delayed by 1.7 hours and Cmax was decreased by 23% in the fed state Label .
+
+## Volume Of Distribution
+
+Apparent volume of distribution: 0.44 +/- 0.19 L/kg 5 .
+
+## Metabolism
+
+A mass balance clinical trial comprised of 6 healthy male study volunteers showed that 70% of the administered radioactivity was measured in the urine and 10% in the feces after cetirizine administration. About 50% of the radioactivity was measured in the urine as unchanged cetirizine. Most of the rapid increase in peak plasma radioactivity was related to the parent drug, implying a low level of first pass metabolism. This prevents potential interactions of cetirizine with drugs interacting with hepatic cytochrome enzymes 1 . Cetirizine is metabolized partially by oxidative O-dealkylation to a metabolite with insignificant antihistaminic activity. The enzyme or enzymes responsible for this step in cetirizine metabolism have not yet been identified Label .
+
+## Route Of Elimination
+
+Mainly eliminated in the urine Label , 1 . Between 70 – 85% of an orally administered dose can be found in the urine and 10 – 13% in the feces 1 .
+
+## Half Life
+
+Plasma elimination half-life is 8.3 hours Label .
+
+## Clearance
+
+Apparent total body clearance: approximately 53 mL/min Label . Cetirizine is mainly eliminated by the kidneys 1 , Label . Dose adjustment is required for patients with moderate to severe renal impairment and in patients on hemodialysis Label .
+
+## Toxicity
+
+Oral LD50 (rat): 365 mg/kg; Intraperitoneal LDLO (mouse): 138 mg/kg; Oral TDLO (rat): 50 mg/kg; Oral TDLO (mouse): 0.1 mg/kg MSDS . Carcinogenesis and mutagenesis : In a 2-year carcinogenicity study in rats, cetirizine was not shown to be carcinogenic at dietary doses up to 20 mg/kg (approximately 15 times the maximum recommended daily oral dose in adults). In a 2-year carcinogenicity study in mice, cetirizine administration lead to an incidence of benign liver tumors in males at a dietary dose of 16 mg/kg (approximately 6 times the maximum recommended daily oral dose in adults). The clinical significance of these findings during long-term use of cetirizine is unknown at this time Label . Cetirizine was not mutagenic in the Ames test, and not clastogenic in the human lymphocyte assay, the mouse lymphoma assay, and in vivo micronucleus test in rats Label . Impairment of fertility In a fertility and reproduction study in mice, cetirizine did not negatively impact fertility at an oral dose of 64 mg/kg (approximately 25 times the maximum recommended daily oral dose in adults) Label . Pregnancy Category B : In mice, rats, and rabbits, cetirizine was not teratogenic at oral doses up to 96, 225, and 135 mg/kg, respectively (approximately 40, 180 and 220 times the maximum recommended daily oral dose in adults). There are no adequate and well-controlled studies in pregnant women. Because animal studies are not always predictive of human response, cetirizine should be used in pregnancy only if clearly needed Label . Use in breastfeeding/nursing Cetirizine has been reported to be excreted in human breast milk. The use of cetirizine in nursing mothers is not recommended Label .

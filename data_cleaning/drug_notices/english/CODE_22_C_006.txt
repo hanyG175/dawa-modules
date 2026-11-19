@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_C_006
+DCI: Cromoglycate De Sodium
+DrugBank ID: DB01003
+DrugBank Name: Cromoglicic acid
+Brand Names: CROMOSOL | DADCROME
+Pharmaceutical Forms: Sol.Nas. | Solution
+Dosages: 0.02
+Packaging: f/10ml | flacon. pulverisat. de 15ml
+Registration Numbers: 079/22 C 006/11 | 272/22 C 006/98/09
+Drug Codes: 22 C 006
+
+------------------------------------------------------------
+
+## Description
+
+A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+
+## Pharmacodynamics
+
+Cromoglicate or cromolyn (USAN), a synthetic compound, inhibits antigen-induced bronchospasms and, hence, is used to treat asthma and allergic rhinitis. Cromoglicate is used as an ophthalmic solution to treat conjunctivitis and is taken orally to treat systemic mastocytosis and ulcerative colitis.
+
+## Mechanism Of Action
+
+Cromoglicate inhibits degranulation of mast cells, subsequently preventing the release of histamine and slow-reacting substance of anaphylaxis (SRS-A), mediators of type I allergic reactions. Cromoglicate also may reduce the release of inflammatory leukotrienes. Cromoglicate may act by inhibiting calcium influx. Target Actions Organism U Heat shock protein HSP 90-alpha inhibitor Humans U Protein S100-P antagonist Humans
+
+## Half Life
+
+1.3 hours
+
+## Toxicity
+
+Symptoms of overdose include cough, nasal congestion, nausea, sneezing and wheezing.

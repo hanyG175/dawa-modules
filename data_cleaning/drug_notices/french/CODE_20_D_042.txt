@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_D_042
+DCI: Carbocisteine
+Brand Names: BIOCARB ADULTE | BRONCHOLACTOL ADULTES | CARBODAL SANS SUCRE | CARBOFLUIDE ADULTE | CARBOLAM | CARBOMEX | GRIPEX TOUX GRASSE | HUMEX EXPECTORANT ADULTE | MUCOLYSE AD. | PECTOSAN EXPECTORANT ADULTE | PULMOFOR ADULTES | RHINATHIOL ADULTE | RHINOLACTOL
+Pharmaceutical Forms: Siropop
+Dosages: 0.05
+Packaging: b/01 flacon de 125ml | b/01 flacon de 150ml | b/01 flacon de 200ml | b/01 flacon de 250ml
+Laboratories: BIOGARAN | 15, BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: R05CB03
+Registration Numbers: 035/20 D 042/17 | 073/20 D 042/06 | 077/20 D 042/08 | 079/20 D 042/98/09 | 201/20 D 042/97/25 | 235/20 D 042/06/23 | 242/20 D 042/06 | 263/20 D 042/09 | 285/20 D 042/08 | 296/20 D 042/07/13 | 311/20 D 042/06 | 318/20 D 042/07/22 | 400/20 D 042/17
+Drug Codes: 20 D 042
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement des troubles de la sécrétion bronchique, notamment au cours des affections bronchiques aiguës : bronchite aiguë et épisode aigu des bronchopneumopathies chroniques.
+
+## Posology
+
+Posologie | Cette spécialité est adaptée aux patients suivant un régime hypoglucidique ou hypocalorique. | Une cuillère-mesure de 5 mL contient 100 mg de carbocistéine. | Population pédiatrique | Enfants de 2 à 5 ans | 200 mg par jour, répartis en 2 prises, soit 1 cuillère-mesure de 5 mL 2 fois par jour. | Enfants de plus de 5 ans | · 300 mg par jour, répartis en 3 prises, soit 1 cuillère-mesure de 5 mL 3 fois par jour. | Durée du traitement | Elle doit être brève de 8 à 10 jours. | Mode d’administration | Voie orale.
+
+## Contraindications
+
+· Hypersensibilité à la carbocistéine, au parahydroxybenzoate de méthyle, aux autres sels de parahydroxybenzoate ou à l’un des excipients mentionnés à la rubrique 6.1. | · En cas d’ulcère gastroduodénal actif. | · Nourrisson (moins de 2 ans) (voir rubrique 4.4).
+
+## Precautions
+
+Mises en garde spéciales | En cas d’expectoration grasse et purulente, en cas de fièvre ou en cas de maladie chronique des bronches et des poumons, procéder à un réexamen de la situation clinique. | Les toux productives, qui représentent un élément fondamental de la défense broncho-pulmonaire sont à respecter. | L’association de mucomodificateurs bronchiques avec des antitussifs et/ou des substances asséchant les sécrétions (atropiniques) est irrationnelle. | Les mucolytiques peuvent induire un surencombrement bronchique chez le nourrisson. En effet, ses capacités de drainage du mucus bronchique sont limitées en raison des particularités physiologiques de son arbre respiratoire. Ils ne doivent donc pas être utilisés chez le nourrisson (voir rubriques 4.3 et 4.8). | Le traitement devra être réévalué en cas de persistance ou d’aggravation des symptômes ou de la pathologie. | Précautions d’emploi | La prudence est recommandée chez les sujets âgés et chez les sujets ayant des antécédents d'ulcères gastroduodénaux ou en cas d’administration concomitante avec des médicaments susceptibles de provoquer des saignements gastro-intestinaux . | En cas d’apparition de ces saignements les patients doivent arrêter le traitement. | Saccharose, fructose, glucose | Ce médicament ne contient pas plus de 20 mg de fructose par cuillère-mesure de 5 mL . L’effet additif des produits administrés concomitamment contenant du fructose (ou du sorbitol) et l’apport alimentaire de fructose (ou sorbitol) doit être pris en compte. | Les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du galactose ou un déficit en sucrase/isomaltase (maladies héréditaires rares) ne doivent pas prendre ce médicament | Ce médicament contient du « parahydroxybenzoate » (E219) et peut provoquer des réactions allergiques (éventuellement retardées). | Ce médicament contient moins de 1 mmol (23 mg) de sodium par cuillère-mesure de 5 mL, c’est-à-dire qu’il est essentiellement « sans sodium ». | Ce médicament contient 30 mg d’alcool (éthanol) par cuillère-mesure de 5 mL. La quantité pour une cuillère-mesure de ce médicament équivaut à moins de 1 mL de bière ou 1 mL de vin. La faible quantité d’alcool contenue dans ce médicament n’est pas susceptible d’entraîner d’effet notable.
+
+## Interactions
+
+Sans objet.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Les études chez l’animal n’ont pas mis en évidence d’effet tératogène. | Il n'existe pas de données disponibles sur l'utilisation de carbocistéine chez les femmes enceintes. | Par conséquent, l'utilisation de carbocistéine chez la femme enceinte est déconseillée. | Allaitement | Il n’existe pas de données disponibles sur le passage de la carbocistéine dans le lait maternel. | Par conséquent, l'utilisation de carbocistéine chez la femme allaitante est déconseillée.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : MUCOLYTIQUE, code ATC : R05CB03 (Système respiratoire). | La carbocistéine est un mucomodificateur de type mucolytique. Elle exerce son action sur la phase gel du mucus, vraisemblablement en rompant les ponts disulfures des glycoprotéines, et favorise ainsi l’expectoration.
+
+## Adverse Effects
+
+· Risque de surencombrement bronchique chez le nourrisson (voir rubriques 4.3 et 4.4). | · Gêne épigastrique. | · Troubles gastro-intestinaux (gastralgies, nausées, vomissements, diarrhées). Il est alors conseillé de réduire la dose. | · Saignements gastro-intestinaux. Il est recommandé d’arrêter le traitement. | · Eruption cutanée allergique et réactions anaphylactiques telles que prurit, éruption érythémateuse, urticaire et angiœdème. | · Eruption fixe d’origine médicamenteuse. | · Quelques cas d’érythème pigmenté fixe ont été rapportés. | · Cas isolés de dermatoses bulleuses telles que syndrome de Stevens-Johnson et érythème polymorphe. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/
+
+## Conservation
+
+A conserver à une température ne dépassant pas 25°C.

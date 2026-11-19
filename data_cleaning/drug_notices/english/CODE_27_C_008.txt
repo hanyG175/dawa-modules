@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_27_C_008
+DCI: Baricitinib
+DrugBank ID: DB11817
+DrugBank Name: Baricitinib
+Brand Names: OLUMIANT
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/28
+Registration Numbers: 263/27 C 008/24
+Drug Codes: 27 C 008
+
+------------------------------------------------------------
+
+## Description
+
+Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are tyrosine protein kinases that play an important role in pro-inflammatory signaling pathways. Overactive JAKs have been implicated in autoimmune disorders, such as rheumatoid arthritis. By inhibiting the actions of JAK1 and JAK2, baricitinib attenuates JAK-mediated inflammation and immune responses. 9 Baricitinib was first approved by the European Commission (EC) in February 2017 for the treatment of rheumatoid arthritis in adults 4 and was later approved by the FDA in 2018. 5 The EC later approved baricitinib for the treatment of atopic dermatitis, making it the first JAK inhibitor used for this indication in Europe. 6 While baricitinib was granted emergency use as a treatment for COVID-19 in combination with remdesivir under the Emergency Use Authorization (EUA) in November 2020, 8 the FDA fully approved the use of baricitinib for the treatment of COVID-19 in May 2022. 9
+
+## Pharmacodynamics
+
+Baricitinib is a disease-modifying antirheumatic drug (DMARD) used to ameliorate symptoms and slow down the progression of rheumatoid arthritis. In animal models of inflammatory arthritis, baricitinib was shown to have significant anti-inflammatory effects but also led to the preservation of cartilage and bone, with no detectable suppression of humoral immunity or adverse hematologic effects. 1 Baricitinib decreased the levels of immunoglobulins and serum C-reactive protein in patients with rheumatoid arthritis. 9
+
+## Mechanism Of Action
+
+Tyrosine-protein kinase JAK1 Inhibitor Tyrosine-protein kinase JAK2 Inhibitor Tyrosine-protein kinase JAK3 Inhibitor
+
+## Absorption
+
+The absolute bioavailability of baricitinib is approximately 80%. The C max was reached after one hour of oral drug administration. A high-fat meal decreased the mean AUC and C max of baricitinib by approximately 11% and 18%, respectively, and delayed T max by 0.5 hours. 9
+
+## Volume Of Distribution
+
+Following intravenous administration, the volume of distribution was 76 L, indicating distribution into tissues. 9
+
+## Metabolism
+
+Baricitinib is metabolized by CYP3A4. Approximately 6% of the orally administered dose was identified as metabolites in urine and feces; however, no metabolites of baricitinib were quantifiable in plasma. 9
+
+## Route Of Elimination
+
+Baricitinib is predominantly excreted via renal elimination. It is cleared via filtration and active secretion. Approximately 75% of the administered dose was eliminated in the urine, with 20% of that dose being the unchanged drug. About 20% of the dose was eliminated in the feces, with 15% of that dose being an unchanged drug. 9
+
+## Half Life
+
+The elimination half-life in patients with rheumatoid arthritis is approximately 12 hours. The elimination half-life was 10.8 hours in intubated patients with COVID-19 who received baricitinib via nasogastric (NG) or orogastric (OG) tube. 9
+
+## Clearance
+
+The total body clearance of baricitinib was 8.9 L/h in patients with rheumatoid arthritis. The total body clearance and half-life of baricitinib was 14.2 L/h in intubated patients with COVID-19 who received baricitinib via nasogastric (NG) or orogastric (OG) tube. 9
+
+## Toxicity
+
+The oral lowest published toxic dose (TDLo) is 1820 g/kg in mice and 5096 g/kg in rats. 10 In clinical trials, single doses up to 40 mg and multiple doses of up to 20 mg daily for 10 days did not result in any dose-limiting toxicity. Pharmacokinetic data of a single dose of 40 mg in healthy volunteers indicate that more than 90% of the administered dose is expected to be eliminated within 24 hours. In case of an overdose, it is recommended that patients are monitored for signs and symptoms of drug-related adverse reactions, which should be responded with appropriate treatment. 9

@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_034
+DCI: Loratadine
+Brand Names: LORATADINE
+Pharmaceutical Forms: Siropop
+Dosages: 1MG/ML
+Packaging: FL./100ML
+Laboratories: PHARMALLIANCE
+Countries: ALGERIE
+Reference Tariff (DA): 161 DA
+Prescription List: Liste II
+ATC Classification: 01A034 | R06AX27
+Registration Numbers: 073/01 A 034/07/25 | 317/01 A 034/07/24 | 400/01 A 034/21 | 528/01 A 034/18
+Drug Codes: 01 A 034
+
+------------------------------------------------------------
+
+## Indications
+
+ALLERGOLOGIE
+
+## Mechanism Of Action
+
+ANTIHISTAMINIQUES

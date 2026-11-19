@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_H_096
+DCI: SPIRONOLACTONE 25 mg + ALTIZIDE 15 mg cp (SPIRONOLACTONE ALTIZIDE ZENTIVA)
+DrugBank ID: DB00421
+DrugBank Name: Spironolactone
+Brand Names: SPIROZIDE
+Pharmaceutical Forms: Comprimé
+Dosages: 25mg/15mg
+Packaging: boite de 30
+Registration Numbers: 235/06 H 096/13/23
+Drug Codes: 06 H 096
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Spironolactone has a potassium-sparing diuretic effect. It promotes sodium and water excretion and potassium retention. It increases renin and aldosterone levels. 7 Spironolactone is a mineralocorticoid receptor antagonist and has a low affinity for the glucocorticoid receptor. 13 It also exhibits progestogenic and anti-androgenic actions as it binds to the androgen receptor and, to a lesser extent, estrogen and progesterone receptors. 7 , 6 , 11 Spironolactone exhibits anti-inflammatory effects. 6
+
+## Mechanism Of Action
+
+Mineralocorticoid receptor Antagonist
+
+## Absorption
+
+The mean time to reach peak plasma concentration of spironolactone and the active metabolite, canrenone, in healthy volunteers is 2.6 and 4.3 hours, respectively. Food increased the bioavailability of spironolactone (as measured by AUC) by approximately 95.4%. 14
+
+## Metabolism
+
+Spironolactone is rapidly and extensively metabolized to form different metabolites. A group of metabolites are formed when sulfur of spironolactone is removed, such as canrenone . Sulfur is retained in another group of metabolites, including 7-alpha (α)-thiomethylspironolactone (TMS) and 6-beta (ß)-hydroxy-7-alpha (α)-thiomethylspirolactone (HTMS). 14 Spironolactone is firstly deacetylated to 7-α-thiospironolactone. 2 , 3 , 5 7-α-thiospironolactone is S-methylated to TMS, which is the primary metabolite, 7 , 8 , 12 or dethioacetylated to canrenone. 2 , 3 , 12 TMS and HTMS can be further metabolized. 2 , 3 , 12 In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were approximately a third relative to spironolactone. However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities. 14 Hover over products below to view reaction partners Spironolactone 7-alpha-thiospironolactone 7-alpha-thiomethylspironolactone 6-beta-7-alpha-thiomethylspironolactone 3beta-hydroxythiomethylspironolactone 3alpha-hydroxythiomethylspironolactone Canrenone
+
+## Route Of Elimination
+
+The metabolites are excreted primarily in the urine and secondarily in bile. 14 Metabolites of spironolactone are excreted in urine (42-56%) and in the feces (14.2-14.6%). No unmetabolized spironolactone is present in the urine. 5
+
+## Half Life
+
+The mean half-life of spironolactone is 1.4 hours. The mean half-life values of its metabolites, including canrenone, TMS, and HTMS are 16.5, 13.8, and 15 hours, respectively. 14
+
+## Toxicity
+
+The oral LD 50 of spironolactone is greater than 1000 mg/kg in mice, rats, and rabbits. 14 Acute overdosage of ALDACTONE may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea. Rarely, instances of hyponatremia, hyperkalemia,or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage. Hyperkalemia may occur, especially in patients with impaired renal function. In case of an overdose, vomiting may be induced and gastric lavage may be instituted. As there is no specific antidote, treatment is supportive to maintain hydration, electrolyte balance, and vital functions. Patients who have renal impairment may develop hyperkalemia. In such cases, discontinue spironolactone. 14

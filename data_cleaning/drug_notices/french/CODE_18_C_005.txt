@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_C_005
+DCI: N-Acetyl- Dl- Leucine
+Brand Names: TANGANIL
+Pharmaceutical Forms: Solution
+Dosages: 500mg/5ml
+Packaging: b/5amp. de 5ml
+Laboratories: PIERRE FABRE MEDICAMENT | les cauquillous | 81500 lavaur
+ATC Classification: N07CA04
+Registration Numbers: 099/18 C 005/98/16
+Drug Codes: 18 C 005
+
+------------------------------------------------------------
+
+## Indications
+
+Ce médicament est indiqué dans le traitement symptomatique de la crise vertigineuse chez l’adulte.
+
+## Posology
+
+Posologie | 2 ampoules par jour (jusqu’à 4 si nécessaire). | La durée du traitement est variable selon l’évolution clinique. | Mode d’administration | Utilisation intraveineuse directe.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.
+
+## Precautions
+
+Des réactions d'hypersensibilité (pouvant être sévères, par exemple choc anaphylactoïde, œdème laryngé) ont été observées. Le traitement doit être interrompu dès les premiers signes d'une réaction d'hypersensibilité après l'administration d'acétylleucine (voir rubrique 4.8).
+
+## Interactions
+
+Aucune étude d’interaction n’a été réalisée.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n’existe pas de données ou il existe des données limitées sur l’utilisation de l’acétylleucine chez la femme enceinte. Il n’existe pas de données chez l’animal en ce qui concerne la toxicité sur la reproduction (voir rubrique 5.3). Par mesure de précaution, il est préférable d’éviter l’utilisation de TANGANIL 500 mg/5 ml, solution injectable I.V. en ampoule durant la grossesse. | Allaitement | On ne sait si l’acétylleucine et ses métabolites sont excrétés dans le lait maternel. Un risque pour l’enfant allaité ne peut être exclu. TANGANIL 500 mg/5 ml, solution injectable I.V. en ampoule ne doit pas être utilisé durant l’allaitement. | Fertilité | Il n’y a pas de données sur les effets de l’acétylleucine sur la fertilité.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : ANTIVERTIGINEUX, Code ATC : N07CA04.
+
+## Adverse Effects
+
+Les effets indésirables sont classés comme indiqué ci-dessous par classe de systèmes d'organes MedDRA et par fréquence. La fréquence est définie selon la convention suivante : très fréquente (≥ 1/10), fréquente (≥ 1/100 et < 1/10), peu fréquente (≥ 1/1 000 et < 1/100), rare (≥ 1 /10 000 et < 1/1 000), très rare (< 1/10 000), fréquence indéterminée (ne peut être estimée à partir des données disponibles). | CLASSE DE SYSTEMES D’ORGANES (Classification MedDRA) Très rare Fréquence indéterminée Affections du système immunitaire Réactions d’hypersensibilité, choc anaphylactoïde et œdème laryngé Affections de la peau et du tissu sous-cutané Réactions cutanées (parfois associées à du prurit), érythème, urticaire Troubles généraux et anomalies au site d’administration Réactions au site d’injection (telles que douleur, œdème ou hématome) | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/
+
+## Conservation
+
+Pas de précautions particulières de conservation.

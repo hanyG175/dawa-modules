@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_A_167
+DCI: Lansoprazole
+DrugBank ID: DB00448
+DrugBank Name: Lansoprazole
+Brand Names: LANSOPOMP
+Pharmaceutical Forms: Gles. A Microg. Gastroresist.
+Dosages: 30mg
+Packaging: BT/30 GLES. Gastrorésistantes
+Laboratories: Les Laboratoires FRATER-RAZES
+Countries: ALGERIE
+Reference Tariff (DA): 1 DA
+Prescription List: Liste I
+ATC Classification: A02BC03
+Registration Numbers: 001/10 A 167/17 | 035/10 A 167/07 | 289/10 A 167/18/23 | 544/10 A 167/09/19 | 549/10 A 167/22
+Drug Codes: 10 A 167
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Lansoprazole decreases gastric acid secretion by targeting H+,K+-ATPase, which is the enzyme that catalyzes the final step in the acid secretion pathway in parietal cells. 6 Conveniently, lansoprazole administered any time of day is able to inhibit both daytime and nocturnal acid secretion. 6 The result is that lansoprazole is effective at healing duodenal ulcers, reduces ulcer-related pain, and offers relief from symptoms of heartburn 6 Lansoprazole also reduces pepsin secretion, making it a useful treatment option for hypersecretory conditions such as Zollinger-Ellison syndrome. 7 6
+
+## Mechanism Of Action
+
+Potassium-transporting ATPase alpha chain 1 Inhibitor
+
+## Absorption
+
+The oral bioavailability of lansoprazole is reported to be 80-90% 2 and the peak plasma concentration(Cmax) is achieved about 1.7 hours after oral dosing. Label Food reduces the absorption of lansoprazole (both Cmax and AUC are reduced by 50-70%); therefore, patients should be instructed to take lansoprazole before meals. Label
+
+## Volume Of Distribution
+
+The apparent volume of distribution of lansoprazole is 0.4 L/kg. 3
+
+## Metabolism
+
+Lansoprazole is predominantly metabolized in the liver by CYP3A4 and CYP2C19. 3 The resulting major metabolites are 5-hydroxy lansoprazole and the sulfone derivative of lansoprazole. 3 Label Hover over products below to view reaction partners Lansoprazole Lansoprazole sulfone Hydroxylansoprazole
+
+## Route Of Elimination
+
+A reported 14-23% of a lansoprazole is eliminated in the urine with this percentage range including both conjugated and unconjugated hydroxylated metabolites. 6
+
+## Half Life
+
+One source reports the half life of lansoprazole to be 0.9 - 1.6 hours 2 , while another source cites 0.9 - 2.1 hours 3 . The general consensus is that lansoprazole has a short half life and is approximately 2 hours or less. Label These numbers may be misleading since it suggests that lansoprazole has a short duration of action when in practice, lansoprazole can effectively inhibit acid secretion for ~24 hours due to it's mechanism of action. Label
+
+## Clearance
+
+The reported clearance of lansoprazole is 400-650 mL/min. 3
+
+## Toxicity
+
+The most commonly reported adverse events occurring more frequently in lansoprazole treated patients compared to placebo include abdominal pain, constipation, diarrhea, and nausea. Label There is a case report of toxic epidermal necrolysis (TEN), which is a rare but very serious cutaneous reaction, caused by lansoprazole. 8 The previously healthy patient presented with symptoms of TEN 15 days after starting lansoprazole to manage peptic disease. 8 Although the use of PPI's is rarely associated with TEN, causation should be considered if a patient presents with TEN shortly after newly commencing a PPI. 8 In a single case report, a patient ingested 600 mg of lansoprazole and did not experience any adverse effects or symptoms of overdose. Label Overall, lansoprazole is well tolerated with relatively few adverse effects. Lansoprazole is classified as Pregnancy Category B. Label Although there are animal studies that suggest lansoprazole does not cause harm to the fetus, there is still a paucity of human data. Hence, lansoprazole should only be administered to pregnant women if other options with more safety data have been exhausted. It is unknown if lansoprazole is excreted in human breast milk. Label It is worth mentioning that lansoprazole has been used safely in infants, and is therefore likely safe to use during breastfeeding. 9

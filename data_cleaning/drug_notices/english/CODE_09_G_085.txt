@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_G_085
+DCI: Estriol
+DrugBank ID: DB04573
+DrugBank Name: Estriol
+Brand Names: OVESTIN
+Pharmaceutical Forms: Comprimé
+Dosages: 1 mg
+Packaging: boite de 30
+Registration Numbers: 606/09 G 085/97/23
+Drug Codes: 09 G 085
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Estriol (also oestriol) is one of the three main estrogens produced by the human body. It is only produced in significant amounts during pregnancy as it is made by the placenta. In pregnant women with multiple sclerosis (MS), estriol reduces the disease's symptoms noticeably, according to researchers at UCLA's Geffen Medical School.
+
+## Mechanism Of Action
+
+Estrogen receptor Agonist
+
+## Metabolism
+
+Hover over products below to view reaction partners Estriol Estriol-16-Glucuronide Estriol-17-glucuronide Estriol-3-glucuronide 16-alpha,17-beta-estriol 17-beta-D-glucuronide Estriol 3-sulfate 16-glucuronide
+
+## Toxicity
+
+ORAL (LD50): Acute: >2000 mg/kg [Rat].

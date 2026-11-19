@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_174
+DCI: Clobetasol Propionate
+DrugBank ID: DB01013
+DrugBank Name: Clobetasol propionate
+Brand Names: CLOBECORT
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.0005
+Packaging: tube/30g
+Registration Numbers: 352/07 H 174/16/22
+Drug Codes: 07 H 174
+
+------------------------------------------------------------
+
+## Description
+
+Clobetasol propionate is a prednisolone derivative with higher specificity for glucocorticoid receptors than mineralocorticoid receptors. 10 It has demonstrated superior activity compared to fluocinonide 4 and was first described in the literature in 1974. 1 Clobetasol Propionate was granted FDA approval on 27 December 1985. 9
+
+## Pharmacodynamics
+
+Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals. 5 Clobetasol propionate is generally applied twice daily so the duration of action is long. 10 , 11 , 12 , 13 , 14 , 15 Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces. 5 Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections. 5
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Twice daily application of clobetasol foam leads to a C max of 59±36pg/mL with a T max of 5 hours. 10 Clobetasol cream showed an increase in clobetasol concentrations from 50.7±96.0pg/mL to 56.3±104.7pg/mL. 12
+
+## Volume Of Distribution
+
+Data regarding the volume of distribution of clobetasole propionate are not readily available. 10 , 11 , 12 , 13 , 14 , 15
+
+## Metabolism
+
+The metabolism of clobetasol propionate is not well studied but it does induce metabolic enzymes, even when delivered topically. 2 The metabolism of clobetasol propionate is predicted to follow similar metabolic pathways to other corticosteroids including the addition of oxygen, hydrogen, glucuronides, and sulfates to form water soluble metabolites. 15
+
+## Route Of Elimination
+
+Corticosteroids are eliminated predominantly in the urine. 7
+
+## Half Life
+
+Data regarding the half life of clobetasol propionate are not readily available. 3
+
+## Clearance
+
+Data regarding the clearance of clobetasol propionate are not readily available. 3
+
+## Toxicity
+
+Data regarding acute overdoses of glucocorticoids are rare. 10 , 11 , 12 Overdoses of clobetasol propionate can lead to reversible HPA axis suppression and glucocorticoid insufficiency. 15 Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency. 8 Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment. 8

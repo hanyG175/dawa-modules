@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_148
+DCI: peginterféron bêta-1a
+Brand Names: PLEGRIDY
+Pharmaceutical Forms: Sol Pour Inj Sc
+Dosages: 125mcg/0.5ml
+Packaging: b/02 stylos
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L03 - IMMUNOSTIMULANTS | L03A - IMMUNOSTIMULANTS | L03AB - INTERFERONS | L03AB13 - PEGINTERFERON BETA-1A
+Registration Numbers: 628/15 G 148/25
+Drug Codes: 15 G 148
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | seringue | peginterféron bêta-1a : 125 µg/0.5 ml | Modalités d'administration | Voie intramusculaire, voie sous-cutanée | Administrer dans le haut du bras, dans l'abdomen ou dans la cuisse | Administrer en variant le site d'injection | En cas d'oubli : faire l'injection si la prise suivante = 7 jours | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Sclérose en plaques rémittente-récurrente | Posologie standard | 125 µg 1 fois ce jour toutes les 2 semaines
+
+## Precautions
+
+Angor | Antécédent d'épilepsie | Antécédent de dépression | Aplasie médullaire | Arythmie | Cardiopathie | Epilepsie | Grossesse | Hypothyroïdie, antécédent (d') | Insuffisance cardiaque congestive | Insuffisance hépatique sévère | Insuffisance rénale sévère | Sujet âgé | Sujet de moins de 18 ans
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Interféron bêta : Mécanisme d'action | Les interférons sont une famille de protéines d'origine naturelle, produites par les cellules eucaryotes en réponse à une infection virale et à d'autres inducteurs biologiques. Les interférons sont des cytokines médiatrices d'activités antivirale, antiproliférative et immunomodulatrice. On peut distinguer trois formes majeures d'interférons : les interférons alpha, bêta et gamma. Les interférons alpha et bêta sont classés en type I et l' | interféron gamma | en type II. Ces interférons ont des activités biologiques qui se chevauchent tout en étant clairement identifiables. Ils peuvent également se différencier par leurs sites cellulaires de synthèse. | L'interféron bêta est produit par divers types de cellules dont les fibroblastes et les macrophages. L'interféron bêta naturel et l’interféron bêta-1a sont glycosylés et disposent d'un seul complexe carbohydraté lié à une terminaison azotée. La glycosylation d'autres protéines est connue pour modifier leur stabilité, leur activité, leur distribution et leur demi-vie plasmatique. Cependant, les effets de l'interféron bêta liés à la glycosylation ne sont pas complètement élucidés. | L’interféron bêta-1a exerce ses effets biologiques en se liant à des récepteurs spécifiques à la surface des cellules humaines. Cette liaison déclenche une cascade complexe d'événements intracellulaires qui mène à l'expression d'un grand nombre de produits et de marqueurs génétiques induits par les interférons. Ceux-ci incluent une protéine CMH de classe I, la protéine Mx, la 2'-5'-oligoadénylate synthétase, la ß-2-microglobuline et la néoptérine. | L'interféron bêta-1b a montré des activités à la fois antivirales et immunorégulatrices. Son mécanisme d'action dans la sclérose en plaques n'est pas encore clairement élucidé. Cependant, il est connu que l'action modulatrice de l'interféron bêta-1b sur la réponse biologique résulte d'une interaction avec les récepteurs cellulaires spécifiques se trouvant à la surface des cellules humaines. La liaison de l'interféron bêta-1b à ces récepteurs induit l'expression de certains gènes supposés être les médiateurs biologiques de l'action de l'interféron bêta-1b. Un certain nombre de ces produits a été mesuré dans le sérum et les fractions cellulaires sanguines de patients traités avec l'interféron bêta-1b. L'interféron bêta-1b agit sur les récepteurs de l'interféron gamma en diminuant leur affinité et en augmentant leur internalisation et leur dégradation. L'interféron bêta-1b augmente aussi l'activité suppressive des cellules sanguines mononucléées du sang périphérique.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - ASAT (augmentation) (Fréquent) | - Hémoglobinémie (diminution) (Fréquent) | - Gamma GT (augmentation) (Fréquent) | - ALAT (augmentation) (Fréquent) | - Elévation de la température corporelle (Fréquent) | - Globules blancs diminués (Fréquent) | - Protéines urinaires présentes | DERMATOLOGIE: | - Prurit (Fréquent) | - Urticaire (Peu fréquent) | - Alopécie (Fréquent) | DIVERS: | - Frisson (Très fréquent) | - Asthénie (Très fréquent) | - Syndrome pseudogrippal (Très fréquent) | - Douleur (Fréquent) | - Fièvre (Très fréquent) | - Hyperthermie (Fréquent) | HÉMATOLOGIE: | - Thrombopénie (Peu fréquent) | - Purpura thrombopénique thrombotique | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Peu fréquent) | - Hypersensibilité (Peu fréquent) | - Réaction anaphylactique | INSTRUMENTATION: | - Douleur au point d'injection (Très fréquent) | - Sensation de chaleur au point d'injection (Fréquent) | - Eruption cutanée au point d'injection (Fréquent) | - Couleur de la peau au point d'injection (modification) (Fréquent) | - Oedème au point d'injection (Fréquent) | - Hématome au site d'injection (Fréquent) | - Inflammation au site d'injection (Fréquent) | - Prurit au point d'injection (Très fréquent) | - Erythème au point d'injection (Très fréquent) | - Nécrose au point d'injection (Rare) | PSYCHIATRIE: | - Dépression (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Microangiopathie thrombotique (Rare) | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Vomissement (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire (Très fréquent) | - Douleur articulaire (Très fréquent) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Epilepsie (crise) (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Hypertension artérielle pulmonaire | UROLOGIE, NÉPHROLOGIE: | - Glomérulosclérose (Rare) | - Syndrome néphrotique (Rare) | - Syndrome hémolytique et urémique

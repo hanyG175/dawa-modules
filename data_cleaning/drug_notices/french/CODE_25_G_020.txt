@@ -1,0 +1,18 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_G_020
+DCI: RETINOL 2 000 UI/g pom (A 313)
+Brand Names: RENACID A14 RENABIC L14
+Pharmaceutical Forms: Sol. Pour Hemodialyse
+Packaging: bidon de sol. concentree acide de 10l et bidon de sol. au bicarbonate de 10l
+Laboratories: PHARMA DEVELOPPEMENT SA
+Registration Numbers: 280/25 G 020/06
+Drug Codes: 25 G 020
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement d'appoint des dermites irritatives.

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_L_189
+DCI: Macrogol 4000 (Ou Peg=Polyethylene Glycol 4000)
+DrugBank ID: DB09287
+DrugBank Name: Polyethylene glycol
+Brand Names: FORLAX 4G | OROLAX
+Pharmaceutical Forms: Poudre
+Dosages: 4g
+Packaging: b/20
+Registration Numbers: 289/10 L 189/21 | 662/10 L 189/09/25
+Drug Codes: 10 L 189
+
+------------------------------------------------------------
+
+## Description
+
+Polyethylene glycol (PEG) is a synthetic polymer produced via polymerization of ethylene oxide molecules to make joining units of ethylene glycol by an ether linkage. 2 , 3 PEGs are water-soluble polymers that can form hydrogen bonds in a ratio of 100 water molecules per one PEG molecule. 2 Molecular weights of PEGs vary by time of the polymerization process and the molecular weight represents the weighted average of the individual PEG molecules. PEGs differ in their physical and chemical properties depending on their molecular weight: PEGs are liquids when molecular weights are <1000 and the molecule turns to waxy solids with increasing molecular weights. 3 The most common preparations of PEGs include PEG 3350 and PEG 400. PEGs have various applications in many fields, ranging from medical to industrial areas. PEGs have a long history of gastroenterology: PEG 3350 is a common over-the-counter osmotic laxative used to relieve occasional constipation. 8 PEG 3350 is also used for cleansing of the colon in preparation for colonoscopy in adults. 5 The rationale of using PEG in gastroenterology is due to the physical properties of the compound: its potent water-binding capacity, negligible intestinal absorption with increasing molecular mass, lack of significant toxicity, and limited intestinal enzymatic degradation or bacterial metabolism all make PEG a useful therapeutic agent for the treatment of occasional constipation and bowel cleansing for preparation in colonoscopy. 1
+
+## Pharmacodynamics
+
+The osmotic effect of PEG produces a copious watery diarrhea. The onset of action of PEG 3350 is about 1 to 2 hours after oral ingestion. 5 The colonic transit of polyethylene glycol occurs in a dose-dependent manner. 2 When used for bowel preparation before colonscopy, electrolytes are typically added in the oral solution to prevent dehydration and electrolyte disturbances. As an over-the-counter laxative, the OTC product does not contain any salts that can be absorbed. 4 In a study involving healthy subjects, PEG 3350 had negligible effects on colonic fluid absorption or with the ability of the colonic mucosa to generate and sustain steep electrochemical gradients. 3
+
+## Mechanism Of Action
+
+Osmotic laxatives contain substances that are poorly absorbable and draw water into the lumen of the bowel. 9 Polyethylene glycol functions is an osmotic laxative that causes increased water retention in the lumen of the colon by binding to water molecules, thereby producing loose stools. 4 , 5
+
+## Absorption
+
+Following a two-day split-dosing regimen of an oral suspension containing 140 grams of PEG 3350 in healthy subjects, the mean Cmax was 2.7 mcg/mL and the mean Tmax was 3 hours. 5 Typically, polyethylene glycols with a high molecular weight are poorly absorbed from the gastrointestinal tract following oral administration. 2 , 3
+
+## Volume Of Distribution
+
+Following a two-day split-dosing regimen of an oral suspension containing 140 grams of PEG 3350 in healthy subjects, the mean volume of distribution was 48,481 L. 5
+
+## Metabolism
+
+Polyethylene glycol is a metabolically inert laxative that does not undergo intestinal enzymatic degradation or bacterial metabolism. 1 , 4
+
+## Route Of Elimination
+
+Following administration of an oral suspension containing 140 grams of PEG 3350 in healthy subjects, up to 85% to 99% of the compound was excreted in the feces. 5
+
+## Half Life
+
+Following a two-day split-dosing regimen of an oral suspension containing 140 grams of PEG 3350 in healthy subjects, the mean half life was 4.1 hours. 5
+
+## Clearance
+
+There is limited information on the clearance rate of polyethylene glycols.
+
+## Toxicity
+
+The oral LD 50 of PEG 3350 in rats is 22000 mg/kg. 10 There is limited clinical information on the overdose of polyethylene glycols. Based on the pharmacological action of the compound, severe diarrhea may be suspected. Overdose of polyethylene glycols should be responded with symptomatic and supportive care.

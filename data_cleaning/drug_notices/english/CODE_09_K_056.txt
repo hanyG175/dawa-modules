@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_K_056
+DCI: LEVOTHYROXINE SODIQUE 50 µg cp (LEVOTHYROX) | Levothyroxine Sodique
+DrugBank ID: DB00451
+DrugBank Name: Levothyroxine
+Brand Names: BERLTHYROX | LEVOTHYROX | LEVOTIRON
+Pharmaceutical Forms: Comprimé
+Dosages: 50mcg
+Packaging: b/100 | b/30 | b/50 et b/100
+Laboratories: MERCK SANTE | 37 RUE SAINT ROMAIN | 69379 LYON CEDEX 08 | FRANCE | MERCK SERONO
+ATC Classification: H - HORMONES SYSTEMIQUES, HORMONES SEXUELLES EXCLUES | H03 - MEDICAMENTS DE LA THYROIDE | H03A - PREPARATIONS THYROIDIENNES | H03AA - HORMONES THYROIDIENNES | H03AA01 - LEVOTHYROXINE SODIQUE | H03AA01
+Registration Numbers: 062/09 K 056/99/14 | 177/09 K 056/18/24 | 431/09 K 056/16
+Drug Codes: 09 K 056
+
+------------------------------------------------------------
+
+## Description
+
+Levothyroxine is a synthetically produced form of thyroxine, a major endogenous hormone secreted by the thyroid gland. 15 Also known as L-thyroxine or the brand name product Synthroid, levothyroxine is used primarily to treat hypothyroidism, a condition where the thyroid gland is no longer able to produce sufficient quantities of the thyroid hormones T 4 (tetraiodothyronine or thyroxine) and T 3 (triiodothyronine or Liothyronine ), resulting in diminished down-stream effects of these hormones. Without sufficient quantities of circulating thyroid hormones, symptoms of hypothyroidism begin to develop such as fatigue, increased heart rate, depression 4 , dry skin and hair, muscle cramps, constipation, weight gain, memory impairment, and poor tolerance to cold temperatures. 16 , 10 In response to Thyroid Stimulating Hormone (TSH) release by the pituitary gland, a normally functioning thyroid gland will produce and secrete T 4 , which is then converted through deiodination (by type I or type II 5′-deiodinases) 8 into its active metabolite T 3 . While T 4 is the major product secreted by the thyroid gland, T 3 exerts the majority of the physiological effects of the thyroid hormones; T 4 and T 3 have a relative potency of ~1:4 (T4:T3). 15 T 4 and T 3 act on nearly every cell of the body, but have a particularly strong effect on the cardiac system. 6 As a result, many cardiac functions including heart rate, cardiac output, and systemic vascular resistance are closely linked to thyroid status. 7 Prior to the development of levothyroxine, Thyroid, porcine or desiccated thyroid, used to be the mainstay of treatment for hypothyroidism. However, this is no longer recommended for the majority of patients due to several clinical concerns including limited controlled trials supporting its use. Desiccated thyroid products contain a ratio of T4 to T3 of 4.2:1, which is significantly lower than the 14:1 ratio of secretion by the human thyroid gland. This higher proportion of T3 in desiccated thyroid products can lead to supraphysiologic levels of T3 which may put patients at risk of thyrotoxicosis if thyroid extract therapy is not adjusted according to the serum TSH. 10 , 16
+
+## Pharmacodynamics
+
+Oral levothyroxine is a synthetic hormone that exerts the same physiologic effect as endogenous T 4 , thereby maintaining normal T 4 levels when a deficiency is present. Levothyroxine has a narrow therapeutic index and is titrated to maintain a euthyroid state with TSH (thyroid stimulating hormone) within a therapeutic range of 0.4–4.0 mIU/L. 10 Over- or under-treatment with levothyroxine may have negative effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, emotional state, gastrointestinal function and glucose and lipid metabolism. The dose of levothyroxine should be titrated slowly and carefully and patients should be monitored for their response to titration to avoid these effects. TSH levels should be monitored at least yearly to avoid over-treating with levothyroxine which can result in hyperthyroidism (TSH <0.1mIU/L) and symptoms of increased heart rate, diarrhea, tremor, hypercalcemia, and weakness to name a few. 16 As many cardiac functions including heart rate, cardiac output, and systemic vascular resistance are closely linked to thyroid status, 7 over-treatment with levothyroxine may result in increases in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias, particularly in patients with cardiovascular disease and in elderly patients. In populations with any cardiac concerns, levothyroxine should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease. Patients receiving concomitant levothyroxine and sympathomimetic agents should be monitored for signs and symptoms of coronary insufficiency. If cardiac symptoms develop or worsen, reduce the levothyroxine dose or withhold for one week and restart at a lower dose. 16 Increased bone resorption and decreased bone mineral density may occur as a result of levothyroxine over-replacement, particularly in post-menopausal women. The increased bone resorption may be associated with increased serum levels and urinary excretion of calcium and phosphorous, elevations in bone alkaline phosphatase and suppressed serum parathyroid hormone levels. Administer the minimum dose of levothyroxine that achieves the desired clinical and biochemical response to mitigate this risk. Addition of levothyroxine therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements. Carefully monitor glycemic control after starting, changing or discontinuing levothyroxine.
+
+## Mechanism Of Action
+
+Integrin alpha-V Binder Integrin beta-3 Binder Thyroid hormone receptor alpha Agonist + 1 more target
+
+## Absorption
+
+Absorption of orally administered T4 from the gastrointestinal tract ranges from 40% to 80% with the majority of the levothyroxine dose absorbed from the jejunum and upper ileum. T4 absorption is increased by fasting, and decreased in malabsorption syndromes and by certain foods such as soybeans, milk, and dietary fiber. Absorption may also decrease with age. In addition, many drugs affect T4 absorption including bile acide sequestrants, sucralfate, proton pump inhibitors, and minerals such as calcium (including in yogurt and milk products) 3 , magnesium, iron, and aluminum supplements. To prevent the formation of insoluble chelates, levothyroxine should generally be taken on an empty stomach at least 2 hours before a meal and separated by at least 4 hours from any interacting agents.
+
+## Metabolism
+
+Approximately 70% of secreted T 4 is deiodinated to equal amounts of T 3 and reverse triiodothyronine (rT 3 ), which is calorigenically inactive. T 4 is slowly eliminated through its major metabolic pathway to T 3 via sequential deiodination, where approximately 80% of circulating T 3 is derived from peripheral T 4 . The liver is the major site of degradation for both T 4 and T 3 , with T 4 deiodination also occurring at a number of additional sites, including the kidney and other tissues. Elimination of T 4 and T 3 involves hepatic conjugation to glucuronic and sulfuric acids. The hormones undergo enterohepatic circulation as conjugates are hydrolyzed in the intestine and reabsorbed. Conjugated compounds that reach the colon are hydrolyzed and eliminated as free compounds in the feces. Other minor T 4 metabolites have been identified. 16 Hover over products below to view reaction partners Levothyroxine Liothyronine Reverse triiodothyronine (rT3) Diiodothyronine
+
+## Route Of Elimination
+
+Thyroid hormones are primarily eliminated by the kidneys. A portion of the conjugated hormone reaches the colon unchanged and is eliminated in the feces. Approximately 20% of T 4 is eliminated in the stool. Urinary excretion of T 4 decreases with age. 16
+
+## Half Life
+
+T 4 half-life is 6 to 7 days. T 3 half-life is 1 to 2 days. 16
+
+## Toxicity
+
+LD 50 =20 mg/kg (orally in rat). Hypermetabolic state indistinguishable from thyrotoxicosis of endogenous origin. Symptoms of thyrotoxicosis include weight loss, increased appetite, palpitations, nervousness, diarrhea, abdominal cramps, sweating, tachycardia, increased pulse and blood pressure, cardiac arrhythmias, tremors, insomnia, heat intolerance, fever, and menstrual irregularities.

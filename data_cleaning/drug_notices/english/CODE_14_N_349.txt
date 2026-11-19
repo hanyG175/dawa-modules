@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_349
+DCI: Agalsidase Beta
+DrugBank ID: DB00103
+DrugBank Name: Agalsidase beta
+Brand Names: FABRAZYME
+Pharmaceutical Forms: Poudre P/Sol. A Diluer P/Perfusion Iv
+Dosages: 35mg/fl. de pdre.
+Packaging: b/01 flacon. de pdre.
+Registration Numbers: 339/14 N 349/15
+Drug Codes: 14 N 349
+
+------------------------------------------------------------
+
+## Description
+
+Agalsidase beta is a recombinant human α-galactosidase A similar to agalsidase alfa . While patients generally do not experience a clinically significant difference in outcomes between the two drugs, some patients may experience greater benefit with agalsidase beta. 1 , 2 Use of agalsidase beta has decreased in Europe, in favor of agalsidase alfa, after a contamination event in 2009. 5 Agalsidase beta was granted FDA approval on 24 April 2003. 6
+
+## Pharmacodynamics
+
+Agalsidase beta is a recombinant human α-galactosidase A used as enzyme replacement therapy in the treatment of Fabry disease. 7 It has a long duration of action and a wide therapeutic index. 6 Patients should be counselled regarding the risk of infusion related reactions and hypersensitivity. 6
+
+## Mechanism Of Action
+
+Globotriaosylceramide Metabolizer Ligand
+
+## Absorption
+
+A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes reaches a C max 5.0 ± 1.1 µg/mL with an AUC of 496 ± 137 µg*min/mL. 6
+
+## Volume Of Distribution
+
+A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes has a V SS of 112 ± 13 mL/kg. 6
+
+## Metabolism
+
+Data regarding the metabolism of agalsidase beta is not readily available. 6 However, protein drugs are expected to be degraded by proteases and other catalytic enzymes to smaller peptides and amino acids. 4
+
+## Route Of Elimination
+
+After nonspecific proteolysis, the amino acids from protein drugs are reused for protein synthesis or further broken down and eliminated by the kidneys. 4
+
+## Half Life
+
+agalsidase beta has a half like of 67 ± 12 min for a 1 mg/kg dose with a mean infusion length of 115 minutes. 6
+
+## Clearance
+
+A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes has a clearance of 2.1 ± 0.7 mL/min/kg. 6
+
+## Toxicity
+
+Data regarding overdoses of agalsidase beta are not readily available. 6 Patients experiencing an overdose of agalsidase beta may experience an increased incidence and severity of adverse effects. 6 Overdose can be managed through the use of symptomatic and supportive measures.

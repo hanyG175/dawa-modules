@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_24_D_022
+DCI: Deferiprone
+DrugBank ID: DB08826
+DrugBank Name: Deferiprone
+Brand Names: KELFER-250
+Pharmaceutical Forms: Gélule
+Dosages: 250mg
+Packaging: b/50
+Registration Numbers: 182/24 D 022/06/16
+Drug Codes: 24 D 022
+
+------------------------------------------------------------
+
+## Description
+
+Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011.
+
+## Mechanism Of Action
+
+Iron Chelator
+
+## Absorption
+
+Deferiprone is absorbed in the upper gastrointestinal tract. Absorption is rapid with maximum plasma concentrations occurring after 1 hour in the fasted state and after 2 hours in the fed state.
+
+## Volume Of Distribution
+
+In healthy patients, the volume of distribution is 1L/kg, and in thalassemia patients, the volume of distribution is 1.6L/kg.
+
+## Metabolism
+
+Deferiprone is mainly metabolized by UGT1A6 to the 3-O-glucuronide metabolite. This metabolite cannot chelate iron.
+
+## Route Of Elimination
+
+Within 5-6 hours of administration, more than 90% of deferiprone is eliminated from the plasma. 75 to 90% of deferiprone is excreted in the urine as the metabolite.
+
+## Half Life
+
+The half-life is 1.9 hours.
+
+## Toxicity
+
+Agranulocytosis and neutropenia may occur, which can lead to fatal infections. Hepatoxicity is also possible. Most common side effects that lead to discontinuation of therapy were the gastrointestinal adverse effects (diarrhea, ulcer, nausea, gastrointestinal disturbances)

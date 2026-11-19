@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_B_010
+DCI: DILTIAZEM CHLORHYDRATE 300 mg gél LP (DILTIAZEM SANDOZ LP)
+Brand Names: MONO-TILDIEM LP
+Pharmaceutical Forms: Microgranule En Gellule
+Dosages: 300mg
+Packaging: b/28
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C08 - INHIBITEURS CALCIQUES | C08D - INHIBITEURS CALCIQUES SELECTIFS A EFFETS CARDIAQUES DIRECTS | C08DB - DERIVES DE LA BENZOTHIAZEPINE | C08DB01 - DILTIAZEM
+Registration Numbers: 392/06 B 010/97/24
+Drug Codes: 06 B 010
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | diltiazem chlorhydrate : 200 mg | Modalités d'administration | Voie orale | Administrer avant ou pendant le repas | Administrer avec un peu d'eau | Administrer chaque jour à la même heure | Administrer entier | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Angor, traitement préventif (de l') - Hypertension artérielle | Posologie standard | 1 gélule 1 fois par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie | Sujet âgé : Adapter la posologie
+
+## Precautions
+
+Allaitement | Anesthésie générale | Asthme | Bloc auriculoventriculaire du premier degré | Bradycardie | Diabète | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Grossesse | Hyperréactivité bronchique | Hypotension artérielle sévère | Insuffisance hépatique | Insuffisance rénale | Insuffisance ventriculaire gauche | Sujet âgé | Sujet à risque d'occlusion intestinale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Diltiazem : Mécanisme d'action | Le diltiazem freine l'entrée du | calcium | transmembranaire au niveau de la fibre musculaire myocardique et de la fibre musculaire lisse des vaisseaux et diminue ainsi la concentration intracellulaire calcique atteignant les protéines contractiles. | Chez l'homme, le diltiazem augmente le débit coronaire par diminution des résistances. | Par son action bradycardisante modérée et la diminution modérée des résistances artérielles systémiques, le diltiazem réduit le travail cardiaque. | Il n'a pas été mis en évidence d'effet inotrope négatif sur un myocarde sain. Le diltiazem ralentit modérément la fréquence cardiaque et peut présenter un effet dépresseur sur le noeud sinusal pathologique. Il ralentit la conduction auriculoventriculaire, avec risque de BAV. Le diltiazem n'a pas d'effet sur la conduction à l'étage hissien et infrahissien.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Enzymes hépatiques (augmentation) (Peu fréquent) | - Hyperglycémie | - ASAT (augmentation) | - LDH (augmentation) | - Phosphatases alcalines (augmentation) | - ALAT (augmentation) | DERMATOLOGIE: | - Erythème cutané (Fréquent) | - Urticaire (Rare) | - Photosensibilisation | - Pustulose exanthémateuse aiguë généralisée | - Nécrolyse épidermique toxique | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Hypersudation | - Dermatite exfoliative | - Eruption lichénoïde | - Erythème polymorphe | - Erythème desquamatif | - Kératose lichenoïde | DIVERS: | - Asthénie (Fréquent) | - Oedème des membres inférieurs (Très fréquent) | - Fièvre | ENDOCRINOLOGIE: | - Gynécomastie | HÉMATOLOGIE: | - Thrombopénie | HÉPATOLOGIE: | - Hépatite | IMMUNO-ALLERGOLOGIE: | - Angioedème | ORL, STOMATOLOGIE: | - Vertige (Fréquent) | - Sécheresse buccale (Rare) | - Hyperplasie gingivale | PSYCHIATRIE: | - Nervosité (Peu fréquent) | - Insomnie (Peu fréquent) | - Dépression | - Humeur changeante | SYSTÈME CARDIOVASCULAIRE: | - Bouffée de chaleur (Fréquent) | - Bouffée congestive (Fréquent) | - Hypotension orthostatique (Peu fréquent) | - Bradycardie (Peu fréquent) | - Bloc auriculoventriculaire (Fréquent) | - Malaise (Fréquent) | - Palpitation (Fréquent) | - Bloc de branche | - Bloc auriculoventriculaire du premier degré | - Vascularite leucocytoclasique | - Vascularite | - Pause sinusale | - Bloc auriculoventriculaire complet | - Asystolie | - Bloc auriculoventriculaire de 2e degré | - Insuffisance cardiaque congestive | - Arrêt cardiaque | - Bloc sino-auriculaire | - Vasodilatation | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Constipation (Fréquent) | - Douleur épigastrique (Fréquent) | - Dyspepsie (Fréquent) | - Vomissement (Peu fréquent) | - Diarrhée (Peu fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Syndrome de type lupus | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Syndrome extrapyramidal | SYSTÈME RESPIRATOIRE: | - Asthme (aggravation) | - Bronchospasme

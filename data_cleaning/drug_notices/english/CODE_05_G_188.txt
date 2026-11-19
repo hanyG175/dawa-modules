@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_188
+DCI: CHLORAMBUCIL 2 mg gél (CHLORAMINOPHENE)
+DrugBank ID: DB00291
+DrugBank Name: Chlorambucil
+Brand Names: LEUKERAN
+Pharmaceutical Forms: Comprimé
+Dosages: 2 mg
+Packaging: b/25
+Laboratories: Laboratoires TECHNI-PHARMA
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01A - AGENTS ALKYLANTS | L01AA - MOUTARDES A L'AZOTE | L01AA02 - CHLORAMBUCIL | G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES
+Registration Numbers: 467/05 G 188/17/25
+Drug Codes: 05 G 188
+
+------------------------------------------------------------
+
+## Description
+
+A nitrogen mustard alkylating agent used as antineoplastic agent for the treatment of various malignant and nonmalignant diseases. Although it is less toxic than most other nitrogen mustards, it has been listed as a known carcinogen in the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (Merck Index, 11th ed)
+
+## Pharmacodynamics
+
+Chlorambucil is an antineoplastic in the class of alkylating agents that is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn inhibits their correct utilization by base pairing and causes a miscoding of DNA. Alkylating agents are cell cycle-nonspecific. Alkylating agents work by three different mechanisms all of which achieve the same end result - disruption of DNA function and cell death.
+
+## Mechanism Of Action
+
+DNA Cross-linking/alkylation
+
+## Route Of Elimination
+
+Chlorambucil is extensively metabolized in the liver primarily to phenylacetic acid mustard. The pharmacokinetic data suggests that oral chlorambucil undergoes rapid gastrointestinal absorption and plasma clearance and that it is almost completely metabolized, having extremely low urinary excretion.
+
+## Half Life
+
+1.5 hours

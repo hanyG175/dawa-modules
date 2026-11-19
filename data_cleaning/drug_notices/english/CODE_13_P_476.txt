@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_476
+DCI: Sofosbuvir/Ledipasvir | Sofosbuvir/Ledipasvir Acetone (Ledipasvir)
+DrugBank ID: DB08934
+DrugBank Name: Sofosbuvir
+Brand Names: HEPAVONI | SOFOSLED
+Pharmaceutical Forms: Comprimé
+Dosages: 400mg/90mg
+Packaging: b/28
+Registration Numbers: 252/13 P 476/20 | 447/13 P 476/16/22
+Drug Codes: 13 P 476
+
+------------------------------------------------------------
+
+## Description
+
+Sofosbuvir (tradename Sovaldi) is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients 14 . Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as sofosbuvir. As a prodrug nucleotide analog, Sofosbuvir is metabolized into its active form as the antiviral agent 2'-deoxy-2'-α-fluoro-β-C-methyluridine-5'-triphosphate (also known as GS-461203), which acts as a defective substrate for NS5B (non-structural protein 5B) Synthesis . NS5B, an RNA-dependent RNA polymerase, is essential for the transcription of Hepatitis C viral RNA and for its high replicative rate and genetic diversity 4 . Sofosbuvir and other direct acting antivirals are therefore very potent options for the treatment of Hepatitis C, as they exhibit a high barrier to the development of resistance 5 . This is an important advantage relative to HCV drugs that target other viral enzymes such as the protease, for which rapid development of resistance has proven to be an important cause of therapeutic failure. In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend Sofosbuvir as first line therapy in combination with other antivirals for all six genotypes of Hepatitis C 14 . Depending on the genotype, sofosbuvir is often used in combination with other antivirals such as Ledipasvir , Velpatasvir , Daclatasvir , Simeprevir , Elbasvir , Grazoprevir , Ribavirin , Peginterferon alfa-2a , or Peginterferon alfa-2b with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality 6 . Treatment with direct acting antivirals such as sofosbuvir is associated with very minimal side effects, with the most common being headache and fatigue Label . Lack of significant side effects and short duration of therapy is a considerable advantage over older interferon- and ribavirin-based regimens, which were limited by infusion site reactions, reduced blood count, and neuropsychiatric effects 11 . Since 2014, sofosbuvir has been available as a fixed dose combination product with Ledipasvir (tradename Harvoni) used for the treatment of chronic Hepatitis C. Approved in October 2014 by the FDA, Harvoni is indicated for the treatment of HCV genotypes 1, 4, 5, and 6 with or without Ribavirin depending on the level of liver damage or cirrhosis Label . When combined together, ledipasvir and sofosbuvir as the combination product Harvoni has been shown to achieve a SVR between 93 and 99% after 12 weeks of treatment 3 . Its use has also proven successful in the treatment of HCV in patients co-infected with HIV 7 . Sofosbuvir is also available as a fixed dose combination product with Velpatasvir as the commercially available product Epclusa. First approved in June 2016, Epclusa is the first combination HCV product indicated for the treatment of all genotypes of Hepatitis C with or without cirrhosis. Epclusa is also currently the most potent HCV antiviral medication on the market with a sustained virologic response (SVR) after 12 weeks of therapy of 93-99% depending on genotype and level of cirrhosis 14 . Both Canadian and American guidelines list Epclusa as a first line recommendation for all genotypes of HCV 14 , 6 . Notably, sofosbuvir has come under intense scrutiny since its release to market in 2013. With the price per pill set at $1000, a 12-week treatment can cost upwards of $84,000 per patient 12 .
+
+## Pharmacodynamics
+
+Sofosbuvir acts against HCV and is categorized as a direct-acting antiviral agent (DAA). At a dose 3 times the recommended dose, sofosbuvir does not prolong QTc to any clinically relevant extent Label .
+
+## Mechanism Of Action
+
+RNA-directed RNA polymerase (Hepatitis C Virus) Inhibitor
+
+## Absorption
+
+When given orally, sofosbuvir reaches its maximum plasma concentration in about 0.5 to 2 hours with a maximal concentration (Cmax) of 567 ng/mL Label .
+
+## Volume Of Distribution
+
+The volume of distribution for sofosbuvir has yet to be determined Label .
+
+## Metabolism
+
+In vitro studies in human liver microsomes showed that sofosbuvir was an efficient substrate for Cathepsin A (Cat A) and carboxyl esterase 1 (CES1). Sofosbuvir was cleaved by CatA and CES1 and subsequent activation steps included amino acid removal by histidine triad nucleotide-binding protein 1 (HINT1) and phosphorylation by uridine monophosphate-cytidine monophosphate (UMP-CMP) kinase and nucleoside diphosphate (NDP) kinase. In vitro data indicated that Cat A preferentially hydrolysed sofosbuvir (the S-diastereomer) while CES1 did not exhibit stereoselectivity 8 , 9 . Hover over products below to view reaction partners Sofosbuvir GS-56650 GS-606965 GS-461203
+
+## Route Of Elimination
+
+Sofosbuvir is eliminated by three routes: urine ( 80%), feces (14%), and respiration (2.5%); however, elimination through the kidneys is the major route Label .
+
+## Half Life
+
+Sofosbuvir has a terminal half life of 0.4 hours Label .
+
+## Clearance
+
+The clearance of sofosbuvir has yet to be determined Label .
+
+## Toxicity
+
+Sofosbuvir, as a single agent, has very mild toxicity. The most common adverse reactions are headache and fatigue. The FDA Label currently warns of a risk of symptomatic bradycardia when Epclusa is used in combination with amiodarone Label .

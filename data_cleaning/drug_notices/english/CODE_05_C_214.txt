@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_214
+DCI: Axitinib
+DrugBank ID: DB06626
+DrugBank Name: Axitinib
+Brand Names: AXIPHAL | INLYTA | ORIONLYTA
+Pharmaceutical Forms: Comprimé
+Dosages: 1mg
+Packaging: b/14 | b/56 | b/60
+Laboratories: biogaran | 15 BOULEVARD CHARLES DE GAULLE | 92700 COLOMBES
+ATC Classification: L01EK01
+Registration Numbers: 039/05 C 214/24 | 045/05 C 214/19 | 596/05 C 214/24
+Drug Codes: 05 C 214
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Axitinib prevents the progression of cancer by inhibiting angiogenesis and blocking tumor growth.
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor receptor 1 Inhibitor Vascular endothelial growth factor receptor 2 Inhibitor Vascular endothelial growth factor receptor 3 Inhibitor
+
+## Absorption
+
+After one 5 mg dose of axitinib, it takes about 2.5 to 4.1 hours to reach maximum plasma concentration.
+
+## Volume Of Distribution
+
+The volume of distribution is 160 L.
+
+## Metabolism
+
+Axitinib undergoes mainly hepatic metabolism. CYP3A4 and CYP3A5 are the main hepatic enzymes while CYP1A2, CYP2C19, and UGT1A1 enzymes are secondary.
+
+## Route Of Elimination
+
+Axitinib is mainly eliminated unchanged in the feces (41%) with 12% of the original dose as unchanged axitinib. There is also 23% eliminated in the urine, most of which are metabolites.
+
+## Half Life
+
+Axitinib has a half life of 2.5 to 6.1 hours.
+
+## Clearance
+
+The average clearance of axitinib is 38 L/h.
+
+## Toxicity
+
+Some of the more serious toxic effects seen in patients taking axitinib include, but are not limited to, hypertension, thrombotic events, hemorrhage, and GI perforation.

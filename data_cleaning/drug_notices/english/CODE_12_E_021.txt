@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_E_021
+DCI: Cyanocobalamine
+DrugBank ID: DB00115
+DrugBank Name: Cyanocobalamin
+Brand Names: COBAMINE | VIT B12 | VITAMINE B12 GEO
+Pharmaceutical Forms: Solution
+Dosages: 1000 mcg/ml | 1000mcg/ml
+Packaging: b/05 amps de 1ml | b/5 ampoule. de 1ml | boite de 05 ampoules de 01ml
+Registration Numbers: 003/12 E 021/98/20 | 304/12 E 021/23 | 380/12 E 021/20
+Drug Codes: 12 E 021
+
+------------------------------------------------------------
+
+## Description
+
+Cyanocobalamin (commonly known as Vitamin B12) is a highly complex, essential vitamin, owing its name to the fact that it contains the mineral, cobalt. This vitamin is produced naturally by bacteria 16 , and is necessary for DNA synthesis and cellular energy production. Vitamin B12 has many forms, including the cyano-, methyl-, deoxyadenosyl- and hydroxy-cobalamin forms. The cyano form, is the most widely used form in supplements and prescription drugs 10 , Label . Several pharmaceutical forms of cyanocobalamin have been developed, including the tablet, injection, and nasal spray forms Label , 19 , 20 . This drug was initially approved by the FDA in 1942 Label .
+
+## Pharmacodynamics
+
+General effects Cyanocobalamin corrects vitamin B12 deficiency and improves the symptoms and laboratory abnormalities associated with pernicious anemia (megaloblastic indices, gastrointestinal lesions, and neurologic damage). This drug aids in growth, cell reproduction, hematopoiesis, nucleoprotein, and myelin synthesis. It also plays an important role in fat metabolism, carbohydrate metabolism, as well as protein synthesis. Cells that undergo rapid division (for example, epithelial cells, bone marrow, and myeloid cells) have a high demand for vitamin B12 10 . Parenteral cyanocobalamin effects The parenteral administration of vitamin B12 rapidly and completely reverses the megaloblastic anemia and gastrointestinal symptoms of vitamin B12 deficiency. Rapid parenteral administration of vitamin B12 in deficiency related neurological damage prevents the progression of this condition 20 . Nasal spray effects In 24 vitamin B12 deficient patients who were already stabilized on intramuscular (IM) vitamin B12 therapy, single daily doses of intranasal cyanocobalamin for 8 weeks lead to serum vitamin B12 concentrations that were within the target therapeutic range (>200 ng/L) Label .
+
+## Mechanism Of Action
+
+Methionine synthase Cofactor Methylmalonyl-CoA mutase, mitochondrial Cofactor
+
+## Absorption
+
+Vitamin B12 is quickly absorbed from intramuscular (IM) and subcutaneous (SC) sites of injection; with peak plasma concentrations achieved about 1 hour after IM injection 26 . Orally administered vitamin B12 binds to intrinsic factor (IF) during its transport through the stomach. The separation of Vitamin B12 and IF occurs in the terminal ileum when calcium is present, and vitamin B12 is then absorbed into the gastrointestinal mucosal cells. It is then transported by transcobalamin binding proteins 20 . Passive diffusion through the intestinal wall can occur, however, high doses of vitamin B12 are required in this case (i.e. >1 mg). After the administration of oral doses less than 3 mcg, peak plasma concentrations are not reached for 8 to 12 hours, because the vitamin is temporarily retained in the wall of the lower ileum 26 .
+
+## Volume Of Distribution
+
+Cobalamin is distributed to tissues and stored mainly in the liver and bone marrow Label .
+
+## Metabolism
+
+Vitamin B12 or cyanocobalamin obtained from food is initially bound by haptocorrin , a protein found in the saliva with high affinity for B12. This forms a haptocorrin-B12 complex. Cyanocobalamin passes through the stomach and is protected from acid degradation due to its binding to haptocorrin. In the duodenum, pancreatic proteases release cobalamin from the haptocorrin-B12 complex and from other proteins containing protein-bound B12 that have been ingested. Following this, the binding of cobalamin to a second glycoprotein, intrinsic factor , promotes its uptake by terminal ileum mucosal cells by a process called cubilin /AMN receptor-mediated endocytosis. After absorption into enterocytes, intrinsic factor is broken down in the lysosome, and cobalamin is then released into the bloodstream. The transporter ABCC1, found in the basolateral membrane of intestinal epithelial and other cells, exports cobalamin bound to transcobalamin out of the cell 15 . Cyanocobalamin then passes through the portal vein in the liver, and then reaches the systemic circulation. The active forms of cyanocobalamin are methylcobalamin and adenosylcobalamin 15 , 24 . Hover over products below to view reaction partners Cyanocobalamin Mecobalamin
+
+## Route Of Elimination
+
+This drug is partially excreted in the urine 27 . According to a clinical study, approximately 3-8 mcg of vitamin B12 is secreted into the gastrointestinal tract daily via the bile. In patients with adequate levels of intrinsic factor, all except approximately 1 mcg is reabsorbed. When vitamin B12 is administered in higher doses that saturate the binding capacity of plasma proteins and the liver, the unbound vitamin B12 is eliminated rapidly in the urine. The body storage of vitamin B12 is dose-dependent Label .
+
+## Half Life
+
+Approximately 6 days (400 days in the liver) 27 .
+
+## Clearance
+
+During vitamin loading, the kidney accumulates large amounts of unbound vitamin B12. This drug is cleared partially by the kidney, however, multiligand receptor megalin promotes the reuptake and reabsorption of vitamin B12 into the body 13 , 14 .
+
+## Toxicity
+
+LD50 Oral (mouse): > 5,000 mg/kg 25 . General toxicity Vitamin B12 is generally non-toxic, even at higher doses. Mild, transient diarrhea, polycythemia vera, peripheral vascular thrombosis, itching, transitory exanthema, a feeling of swelling of entire body, pulmonary edema and congestive heart failure in early treatment stages, anaphylactic shock and death have been observed after vitamin B12 administration 26 . Carcinogenesis and mutagenesis Long term studies in animals examining the carcinogenic potential of any of the vitamin B12 formulations have not completed to date. There is no evidence from long-term use in patients with pernicious anemia that vitamin B12 has carcinogenic potential. Pernicious
+anemia is known to be associated with an increased incidence of stomach carcinoma, however, this malignancy has been attributed to the underlying cause of pernicious anemia and has not been found to be related to treatment with vitamin B12 Label . Use in pregnancy No adverse effects have been reported with ingestion of normal daily requirements during pregnancy 26 . A note on the use of the nasal spray in pregnancy Although vitamin B12 is an essential vitamin and requirements are increased during pregnancy, it is currently unknown whether the nasal spray form can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. The nasal spray form should be given to a pregnant woman only if clearly needed, as it is considered a pregnancy category C drug in this form. Sufficient well-controlled studies have not been done to this date in pregnant women Label . Use in lactation Vitamin B12 has been found distributed into the milk of nursing women in concentrations similar to the maternal blood vitamin B12 concentrations. No adverse effects have been reported to date with intake of normal required doses during lactation 26 .

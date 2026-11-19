@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_234
+DCI: TIOTROPIUM (bromure) 18 µg pdre p inhal en gél (TIOTROPIUM BIOGARAN EOLIP) | Tiotropium / Tiotropium Bromure Monohydrate
+Brand Names: RESPYVA | SPIRIVA | TIOTUM | TROPIRUS
+Pharmaceutical Forms: Poudre
+Dosages: 18mcg/22.5mcg
+Packaging: boite de 30 + inhalateur | boite de 30 + inhalateur handihaler | boite de 30 +flacon avec un dispositifs d'inhalation respihaler
+Laboratories: BOEHRINGER INGELHEIM INTERNATIONAL GMBH | BINGER STRASSE 173 | 55216 INGELHEIM AM RHEIN | ALLEMAGNE
+ATC Classification: R03BB04
+Registration Numbers: 152/20 A 234/08/23 | 317/20 A 234/24 | 321/20 A 234/24 | 648/20 A 234/24
+Drug Codes: 20 A 234
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gélule | tiotropium (bromure) : 18 µg | Modalités d'administration | Voie inhalée | Administrer au moyen de l'inhalateur fourni | Administrer chaque jour à la même heure | Administrer en une prise quotidienne | Respecter la posologie maximale recommandée | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | BPCO, traitement symptomatique continu (de la) | Posologie standard | 1 gélule 1 fois par jour | Posologies maximales | Nombre d'unité de prise maximale: 1 gélule par jour
+
+## Precautions
+
+Allaitement | Antécédent récent d'infarctus du myocarde | Arythmie non contrôlée | Glaucome à angle fermé | Grossesse | Hypertrophie bénigne de la prostate | Insuffisance cardiaque sévère, antécédent (d') | Insuffisance rénale : clairance de la créatinine < 50 ml/min | Sténose du col vésico-urétral | Sujet de moins de 18 ans | Traitement prolongé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Tiotropium bromure : Mécanisme d'action | Le bromure de tiotropium est un antagoniste spécifique des récepteurs muscariniques de longue durée d'action, souvent désigné en pratique clinique sous le terme « anticholinergique ». En se fixant aux récepteurs muscariniques des muscles lisses des bronches, le bromure de tiotropium inhibe les effets cholinergiques (bronchoconstriction) de l'acétylcholine, libérée à partir des terminaisons nerveuses parasympathiques. Il possède une affinité similaire pour les sous-types de récepteurs muscariniques M | 1 | à M | 5 | . Dans les voies aériennes, le bromure de tiotropium inhibe de façon réversible et compétitive les récepteurs M | 3 | , ce qui se traduit par une relaxation du muscle lisse bronchique. L'effet est dose-dépendant et persiste plus de 24 heures. La longue durée d'action est probablement due à la dissociation très lente des récepteurs M | 3 | , la demi-vie de dissociation étant significativement plus longue que celle observée avec l'ipratropium. | Anticholinergique N-quaternaire, le bromure de tiotropium exerce un effet sélectif direct au niveau des bronches lorsqu'il est administré par inhalation, et offre ainsi une marge thérapeutique acceptable avant l'apparition d'effets anticholinergiques systémiques. La bronchodilatation est principalement due à un effet local (sur les voies aériennes) et non pas à un effet systémique. | Le tiotropium se dissocie plus rapidement des récepteurs M | 2 | que des récepteurs M | 3 | , comme le suggèrent les études | in vitro | , marquant une sélectivité plus importante (exprimée de façon cinétique) pour les récepteurs de type M | 3 | par rapport à M | 2 | .
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Urticaire (Rare) | - Prurit (Rare) | - Ulcère cutané | - Exanthème | - Infection cutanée | - Sécheresse cutanée | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Hypersensibilité (Rare) | - Hypersensibilité immédiate | - Réaction anaphylactique | INFECTIOLOGIE D'ORIGINE FONGIQUE: | - Candidose oropharyngée (Peu fréquent) | NUTRITION, MÉTABOLISME: | - Dysphagie (Rare) | - Déshydratation | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | - Glaucome (Rare) | - Pression intraoculaire augmentée (Rare) | ORL, STOMATOLOGIE: | - Sensation de vertige (Peu fréquent) | - Sécheresse buccale (Fréquent) | - Dysphonie (Peu fréquent) | - Dysgueusie (Peu fréquent) | - Pharyngite (Peu fréquent) | - Sinusite (Rare) | - Stomatite (Rare) | - Laryngite (Rare) | - Glossite (Rare) | - Epistaxis (Rare) | - Gingivite (Rare) | - Carie dentaire | PSYCHIATRIE: | - Insomnie (Rare) | SYSTÈME CARDIOVASCULAIRE: | - Fibrillation auriculaire (Peu fréquent) | - Tachycardie supraventriculaire (Rare) | - Palpitation (Rare) | - Tachycardie (Rare) | SYSTÈME DIGESTIF: | - Reflux gastro-oesophagien (Peu fréquent) | - Constipation (Peu fréquent) | - Occlusion intestinale (Rare) | - Nausée (Rare) | - Iléus paralytique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Tuméfaction articulaire | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Toux (Peu fréquent) | - Bronchospasme (Rare) | TOXICOLOGIE: | - Effet atropinique | UROLOGIE, NÉPHROLOGIE: | - Rétention urinaire (Peu fréquent) | - Dysurie (Peu fréquent) | - Infection urinaire (Rare)

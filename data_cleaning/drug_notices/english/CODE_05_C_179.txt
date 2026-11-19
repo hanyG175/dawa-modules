@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_179
+DCI: Regorafenib
+DrugBank ID: DB08896
+DrugBank Name: Regorafenib
+Brand Names: REGOPHAL | STIVARGRA
+Pharmaceutical Forms: Comprimé
+Dosages: 40mg
+Packaging: b/1 flacon de 28 b/3 flacons de 28 | b/28
+Registration Numbers: 039/05 C 179/24 | 424/05 C 179/15
+Drug Codes: 05 C 179
+
+------------------------------------------------------------
+
+## Description
+
+Regorafenib is an orally-administered inhibitor of multiple kinases. It is used for the treatment of metastatic colorectal cancer, advanced gastrointestinal stromal tumours, and hepatocellular carcinoma. FDA approved on September 27, 2012. Approved use of Regorafenib was expanded to treat Hepatocellular Carcinoma in April 2017.
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor receptor 1 Inhibitor Vascular endothelial growth factor receptor 2 Inhibitor Vascular endothelial growth factor receptor 3 Inhibitor + 16 more targets
+
+## Absorption
+
+Cmax = 2.5 μg/mL;
+Tmax = 4 hours;
+AUC = 70.4 μg h/mL;
+Cmax, steady-state = 3.9 μg/mL;
+AUC, steady-state = 58.3 μg h/mL;
+The mean relative bioavailability of tablets compared to an oral solution is 69% to 83%.
+
+## Volume Of Distribution
+
+Regorafenib undergoes enterohepatic circulation with multiple plasma concentration peaks observed across the 24-hour dosing interval.
+
+## Metabolism
+
+Regorafenib is metabolized by CYP3A4 and UGT1A9. The main circulating metabolites of regorafenib measured at steady-state in human plasma are M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl), both of them having similar in vitro pharmacological activity and steady-state concentrations as regorafenib. M-2 and M-5 are highly protein bound (99.8% and 99.95%, respectively). Regorafenib is an inhibitor of P-glycoprotein Label , while its active metabolites M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl) are substrates of P-glycoprotein 1 .
+
+## Route Of Elimination
+
+Approximately 71% of a radiolabeled dose was excreted in feces (47% as parent compound, 24% as metabolites) and 19% of the dose was excreted in urine (17% as glucuronides) within 12 days after administration of a radiolabeled oral solution at a dose of 120 mg.
+
+## Half Life
+
+Regorafenib, 160 mg oral dose = 28 hours (14 - 58 hours);
+M2 metabolite, 160 mg oral dose = 25 hours (14-32 hours);
+M5 metabolite, 160 mg oral dose = 51 hours (32-72 hours);
+
+## Toxicity
+
+The most common adverse reactions (≥20%) are asthenia/fatigue, HFSR, diarrhea, decreased appetite/food intake, hypertension, mucositis, dysphonia, and infection, pain (not otherwise specified), decreased weight, gastrointestinal and abdominal pain, rash, fever, and nausea

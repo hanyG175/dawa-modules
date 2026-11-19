@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_B_010
+DCI: DILTIAZEM CHLORHYDRATE 300 mg gél LP (DILTIAZEM SANDOZ LP)
+DrugBank ID: DB00343
+DrugBank Name: Diltiazem
+Brand Names: MONO-TILDIEM LP
+Pharmaceutical Forms: Microgranule En Gellule
+Dosages: 300mg
+Packaging: b/28
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C08 - INHIBITEURS CALCIQUES | C08D - INHIBITEURS CALCIQUES SELECTIFS A EFFETS CARDIAQUES DIRECTS | C08DB - DERIVES DE LA BENZOTHIAZEPINE | C08DB01 - DILTIAZEM
+Registration Numbers: 392/06 B 010/97/24
+Drug Codes: 06 B 010
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Diltiazem is an antihypertensive and vasodilating agent that works by relaxing the vascular muscle and reducing blood pressure. This is related to the long-term therapeutic effects, as lowering the blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. 12 Diltiazem inhibits the influx of extracellular calcium ions across the myocardial and vascular smooth muscle cell membranes during depolarization. Diltiazem is classified as a negative inotrope (decreased force) and negative chronotrope (decreased rate). 9 It is also considered a rate-control drug as it reduces heart rate. 2 , 8 Diltiazem is exerts hemodynamic actions by reducing blood pressure, systemic vascular resistance, the rate-pressure product, and coronary vascular resistance while increasing coronary blood flow. 10 Diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations. 12 In supraventricular tachycardia, diltiazem prolongs AV nodal refractories. 10 As the magnitude of blood pressure reduction is related to the degree of hypertension, the antihypertensive effect of diltiazem is most pronounced in individuals with hypertension. In a randomized, double-blind, parallel-group, dose-response study involving patients with essential hypertension, there was a reduction in the diastolic blood pressure by 1.9, 5.4, 6.1, and 8.6 mmHg in the patients receiving diltiazem at doses of 120, 240, 360, and 540 mg, respectively. In patients receiving placebo, there was a reduction in the diastolic blood pressure by 2.6 mmHg.In a randomized, double-blind study involving patients with chronic stable angina, variable doses of diltiazem administered at night all caused an increased exercise tolerance in the after 21 hours, compared to placebo. 12 In the NORDIL study of patients with hypertension, the therapeutic effectiveness of diltiazem in reducing cardiovascular morbidity and mortality was assessed. 2 When using the combined primary endpoint as fatal and non-fatal stroke, myocardial infarction, and other cardiovascular death, fatal and non-fatal stroke was shown to be reduced by 25% in the diltiazem group. Although the clinical significance to this effect remains unclear, it is suggested that diltiazem may exert a protective role against cerebral stroke in hypertensive patients. 2
+
+## Mechanism Of Action
+
+Voltage-dependent L-type calcium channel subunit alpha-1C Blocker Voltage-dependent calcium channel gamma-1 subunit Blocker
+
+## Absorption
+
+Diltiazem is readily absorbed from the gastrointestinal tract. Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL. Following oral administration of extended formulations of 360 mg diltiazem, the drug in plasma was detectable within 3 to 4 hours and the peak plasma concentrations were reached between 11 and 18 hours post-dose. Diltiazem peak and systemic exposures were not affected by concurrent food intake. 12 Due to hepatic first-pass metabolism, the absolute bioavailability following oral administration is about 40%, 12 with the value ranging from 24 to 74% due to high interindividual variation in the first pass effect. 1 The bioavailability may increase in patients with hepatic impairment. 12
+
+## Volume Of Distribution
+
+The apparent volume of distribution of diltiazem was approximately 305 L following a single intravenous injection in healthy male volunteers. 10
+
+## Metabolism
+
+Diltiazem is subject to extensive first-pass metabolism, which explains its relatively low absolute oral bioavailability. It undergoes N-demethylation primarily mediated by CYP3A4. CYP2D6 is responsible for O-demethylation and esterases mediate deacetylation. 7 There was large inter-individual variability in the circulating plasma levels of metabolites in healthy volunteers. 6 In healthy volunteers, the major circulating metabolites in the plasma are N-monodesmethyl diltilazem, deacetyl diltiazem, and deacetyl N-monodesmethyl diltiazem, which are all pharmacologically active. 6 Deacetyl diltiazem retains about 25-50% of the pharmacological activity to that of the parent compound. 12 Deacetyl diltiazem can be further transformed into deacetyl diltiazem N-oxide or deacetyl O-desmethyl diltiazem. N-monodesmethyl diltilazem can be further metabolized to N,O-didesmethyl diltiazem. Deacetyl N-monodesmethyl diltiazem can be further metabolized to deacetyl N,O-didesmethyl diltiazem, which can be glucuronidated or sulphated. 6 Diltiazem can be O-demethylated by CYP2D6 to form O-desmethyl diltiazem. 7 Hover over products below to view reaction partners Diltiazem N-monodesmethyl diltiazem Deacetyl N-monodesmethyl diltiazem Deacetyl N,O-didesmethyl diltiazem N,O-didesmethyl diltiazem Deacetyl diltiazem Deacetyl O-desmethyl diltiazem Deacetyl diltiazem N-oxide O-desmethyl diltiazem
+
+## Route Of Elimination
+
+Due to its extensive metabolism, only 2% to 4% of the unchanged drug can be detected in the urine. 12 The major urinary metabolite in healthy volunnteers was N-monodesmethyl diltiazem, followed by deacetyl N,O-didesmethyl diltiazem, deacetyl N-monodesmethyl diltiazem, and deacetyl diltiazem; however, there seems to be large inter-individual variability in the urinary excretion of DTZ and its metabolites. 6
+
+## Half Life
+
+The plasma elimination half-life is approximately 3.0 to 4.5 hours following single and multiple oral doses. The half-life may slightly increase with dose and the extent of hepatic impairment. 12 The apparent elimination half-life for diltiazem as extended-release tablets after single or multiple dosing is 6 to 9 hours. 12 The plasma elimination half-life is approximately 3.4 hours following administration of a single intravenous injection. 10 The elimination half-lives of pharmacologically active metabolites are longer than that of diltiazem. 6
+
+## Clearance
+
+Following a single intravenous injection in healthy male volunteers, the systemic clearance of diltiazem was approximately 65 L/h. After constant rate intravenous infusion, the systemic clearance decreased to 48 L/h. 10
+
+## Toxicity
+
+Clinical Toxicity and Overdose The oral LD 50 ranges from 415 to 740mg/kg in mice and 560 to 810 mg/kg in rats. The oral LD 50 in dogs is considered to be in excess of 50 mg/kg. A dose of 360 mg/kg resulted in lethality in monkeys. The intravenous LD 50 is 60 mg/kg in mice and 38 mg/kg in rats. Cases of overdose from doses ranging from less than 1 g to 18 g have been reported with diltiazem, with several cases involving multiple drug ingestions resulting in death. Overdoses were associated with bradycardia, hypotension, heart block, and cardiac failure that may manifest as dizziness, lightheadedness, and fatigue. 9 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician. Diltiazem overdose should be responded with appropriate supportive measures and gastrointestinal decontamination. Bradycardia and heart block can be treated with atropine at doses ranging from 0.60 to 1.0 mg. In the case of bradycardia, if there is no response to vagal blockage, cautious administration of isoproterenol should be considered. Cardiac pacing can also be used to treat fixed high-degree AV block. In the case of heart failure, blood pressure may be maintained with the use of fluids and vasopressors, as well as inotropic agents such as isoproterenol , dopamine , or dobutamine . Other appropriate measures include ventilatory support, gastric lavage, activated charcoal, and/or intravenous calcium. Diltiazem does not appear to be removed by peritoneal or hemodialysis. 12 Non-clinical toxicity In a 24-month study in rats receiving oral doses of up to 100 mg/kg/day, there was no evidence of carcinogenicity. There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro bacterial assays. No evidence of impaired fertility was observed in a study performed in male and female rats receiving oral doses of up to 100 mg/kg/day. 12 Pregnancy and Lactation In reproduction studies in animals, administration of diltiazem at doses ranging from five to twenty times the daily recommended human therapeutic dose resulted in cases of the embryo and fetal lethality and skeletal abnormalities, and an increase in the risk of stillbirths. There have been no up-to-date controlled studies that investigated the use of diltiazem in pregnant women. The use of diltiazem in pregnant women should be undertaken only if the potential benefit justifies the risk to the fetus. 12 Diltiazem is excreted in human milk, where one report suggests that the concentrations in breast milk may approximate serum levels; therefore, the decision should be made to either discontinue nursing or the use of the drug after careful consideration of the clinical necessity of diltiazem therapy in the nursing mother. 12 Use in special populations As there is limited information on the variable effects of diltiazem in geriatric patients, the initial therapy of diltiazem should involve the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Currently, there are no specific dosing guidelines for patients with renal or hepatic impairment. 12

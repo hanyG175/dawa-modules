@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_181
+DCI: TROLAMINE 0,67 % émuls cut (TROLAMINE BIOGARAN CONSEIL)
+Brand Names: BRUFINE
+Pharmaceutical Forms: Emulsion P.Application Cutanee
+Dosages: 0.670g/100
+Packaging: tube/93g et 186g
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES | D03 - PREPARATIONS POUR LE TRAITEMENT DES PLAIES ET ULCERES | D03A - CICATRISANTS | D03AX - AUTRES CICATRISANTS | D03AX12 - TROLAMINE
+Registration Numbers: 418/07 P 136/20
+Drug Codes: 07 P 181
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | application | Modalités d'administration | Voie cutanée | Posologie | Patient à partir de 30 mois | Patient quel que soit le poids | Radiodermites | Posologie standard | Appliquer par massage doux | 1 application 2 à 3 fois par jour | Brûlure du deuxième degré - Brûlure du premier degré - Erythème solaire - Plaie cutanée non infectée | Posologie standard | Appliquer en couche épaisse | 1 application 2 à 5 fois par jour
+
+## Precautions
+
+Allaitement | Brûlure | Grossesse | Nouveau-né de moins de 1 mois | Plaie
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Trolamine : Mécanisme d'action | La trolamine est un protecteur cutané.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Douleur au site d'application (Peu fréquent) | - Dermite allergique de contact (Rare) | - Eczéma de contact (Très rare) | DIVERS: | - Picotement au site d'application

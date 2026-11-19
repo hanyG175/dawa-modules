@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_19_D_026
+DCI: Tinidazole
+DrugBank ID: DB00911
+DrugBank Name: Tinidazole
+Brand Names: FAGYX | FASIGYNE
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/4
+Registration Numbers: 045/19 D 026/98/06 | 293/19 D 026/07/17
+Drug Codes: 19 D 026
+
+------------------------------------------------------------
+
+## Description
+
+A nitroimidazole antitrichomonal agent effective against Trichomonas vaginalis , Entamoeba histolytica , and Giardia lamblia infections.
+
+## Pharmacodynamics
+
+Tinidazole is a synthetic antiprotozoal agent. Tinidazole demonstrates activity both in vitro and in clinical infections against the following protozoa: Trichomonas vaginalis , Giardia duodenalis (also termed G. lamblia ), and Entamoeba histolytica . Tinidazole does not appear to have activity against most strains of vaginal lactobacilli.
+
+## Mechanism Of Action
+
+DNA Binder
+
+## Absorption
+
+Rapidly and completely absorbed under fasting conditions. Administration with food results in a delay in T max of approximately 2 hours and a decline in C max of approximately 10% and an AUC of 901.6 ± 126.5 mcg hr/mL.
+
+## Metabolism
+
+Hepatic, mainly via CYP3A4. Tinidazole, like metronidazole, is significantly metabolized in humans prior to excretion. Tinidazole is partly metabolized by oxidation, hydroxylation and conjugation. Tinidazole is the major drug-related constituent in plasma after human treatment, along with a small amount of the 2-hydroxymethyl metabolite.
+
+## Route Of Elimination
+
+Tinidazole crosses the placental barrier and is secreted in breast milk. Tinidazole is excreted by the liver and the kidneys.
+Tinidazole is excreted in the urine mainly as unchanged drug (approximately 20-25% of the administered dose).
+Approximately 12% of the drug is excreted in the feces.
+
+## Half Life
+
+The elimination half-life is 13.2±1.4 hours and the plasma half-life is 12 to 14 hours.
+
+## Toxicity
+
+There are no reported overdoses with tinidazole in humans. In acute studies with mice and rats, the LD 50 for mice was generally > 3,600 mg/kg for oral administration and was > 2,300 mg/kg for intraperitoneal administration. In rats, the LD 50 was > 2,000 mg/kg for both oral and intraperitoneal administration.

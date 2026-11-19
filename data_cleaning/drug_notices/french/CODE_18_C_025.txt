@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_C_025
+DCI: BETAHISTINE DICHLORHYDRATE 16 mg cp (BETAHISTINE ARROW)
+Brand Names: ANATAX | LECTIL | MEVERC
+Pharmaceutical Forms: Comprimé
+Dosages: 16mg
+Packaging: b/20 | b/45
+ATC Classification: N - SYSTEME NERVEUX | N07 - AUTRES MEDICAMENTS DU SYSTEME NERVEUX | N07C - ANTIVERTIGINEUX | N07CA - ANTIVERTIGINEUX | N07CA01 - BETAHISTINE
+Registration Numbers: 077/18 C 025/16 | 269/18 C 025/08 | 352/18 C 025/19
+Drug Codes: 18 C 025
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | bétahistine dichlorhydrate : 24 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Administrer pendant le repas | Posologie | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie de Ménière - Vertige, traitement de fond (du) | Traitement initial | 1 comprimé 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse clinique | Traitement à renouveler si besoin | 1 comprimé 1 à 2 fois par jour | Pendant 2 à 3 mois | Posologie maximale: 48 mg par jour
+
+## Precautions
+
+Allaitement | Asthme | Eruption cutanée | Grossesse | Hypotension artérielle sévère | Rhinite allergique | Sujet âgé | Sujet de moins de 18 ans | Ulcère gastroduodénal, antécédent (d') | Ulcère gastroduodénal évolutif | Urticaire
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Bétahistine : Mécanisme d'action | Le mécanisme d'action de la bétahistine est partiellement connu. | In vitro | , la bétahistine facilite la transmission histaminergique par son effet agoniste partiel sur les récepteurs H | 1 | , et un effet antagoniste des récepteurs de type H | 3 | . | Elle diminue l'activité électrique des neurones polysynaptiques des noyaux vestibulaires après administration IV chez l'animal. Elle n'a pas d'effet sédatif. | Elle dispose d’actions analogues à celles de l' | histamine | . | En pharmacologie animale : la bétahistine augmente le débit sanguin des artères labyrinthiques et basilaires. | La bétahistine produit une vasodilatation des artérioles précapillaires et augmente le débit sanguin dans la strie vasculaire et dans le ligament spiral de la cochlée. On suppose que la bétahistine diminue la pression de l'endolymphe par suite de ces vascularisations accrues. L'augmentation du débit sanguin cochléaire, provoquée par la bétahistine, est comparable à celle produite par le vasodilatateur physiologique qu'est le CO | 2 | . Cette augmentation est supérieure à celle observée après administration des produits de référence classiques ( | histamine | , | papavérine | , | acide nicotinique | ). | En pharmacologie clinique : la bétahistine, administrée par voie orale, à des doses répétées, atténue la symptomatologie fonctionnelle de la fonction labyrinthique des patients souffrant de la maladie de Ménière.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Transaminases (augmentation) | DERMATOLOGIE: | - Prurit | - Urticaire | - Eruption cutanée | - Dermatite allergique | DIVERS: | - Asthénie | HÉMATOLOGIE: | - Thrombopénie | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Réaction anaphylactique | - Hypersensibilité | ORL, STOMATOLOGIE: | - Sécheresse buccale | SYSTÈME DIGESTIF: | - Nausée (Fréquent) | - Dyspepsie (Fréquent) | - Vomissement | - Trouble gastrique | - Diarrhée | - Distension abdominale | - Ballonnement | - Douleur abdominale | - Douleur épigastrique | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Somnolence

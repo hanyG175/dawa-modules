@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_C_027
+DCI: Alpha-Amylase
+Brand Names: ALFALASE | LAMYLASE | MAXILASE | MEGAMYLASE
+Pharmaceutical Forms: Siropop
+Dosages: 200 u ceip/ml
+Packaging: b/01flacon de 100 ml | b/01flacon de 125 ml
+Laboratories: OPELLA HEALTHCARE FRANCE SAS | 157 AVENUE CHARLES-DE-GAULLE | 92200 NEUILLY-SUR-SEINE - France
+ATC Classification: Classe pharmacothérapeutique : ENZYMES A VISEE ANTI-INFLAMMATOIRE
+Registration Numbers: 065/04 C 027/19 | 077/04 C 027/15/23 | 201/04 C 027/96/24 | 599/04 C 027/22
+Drug Codes: 04 C 027
+
+------------------------------------------------------------
+
+## Indications
+
+Traitement d'appoint des états congestifs de l'oropharynx. | NB : Devant les signes cliniques généraux d'infection bactérienne, une antibiothérapie par voie générale doit être envisagée.
+
+## Posology
+
+Voie orale. | Adulte : 1 cuillère à soupe (15 ml), 3 fois par jour. | Population pédiatrique | Enfant de plus de 3 ans (plus de 15 kg) : 2 cuillerées à café (10 ml), 3 fois par jour. | Nourrisson et enfant de 6 mois à 3 ans (7 kg à 15 kg) : 1 cuillère à café (5 ml), 3 fois par jour. | En l'absence d'amélioration au bout de 5 jours de traitement, il est nécessaire de prendre un avis médical.
+
+## Contraindications
+
+Ce médicament est contre-indiqué dans les situations suivantes : | · Hypersensibilité à l'alpha-amylase ou à l'un des excipients mentionnés à la rubrique 6.1, notamment les parabènes.
+
+## Precautions
+
+Précautions d'emploi | En cas d'apparition d'autres symptômes (maux de gorge importants, céphalées, nausées, vomissements...) ou de fièvre associée, la conduite à tenir doit être réévaluée. | Ce médicament ne doit pas être utilisé de façon prolongée sans avis médical. | Hypersensibilité : Des réactions d’hypersensibilité, y compris des réactions de type anaphylactique et des chocs anaphylactiques, peuvent survenir dès la première prise (voir rubrique 4.8) et peuvent mettre en jeu le pronostic vital. Dans ces cas, l’administration d’alpha-amylase doit être interrompue immédiatement et un traitement médical adapté doit être instauré. | Excipients à effet notoire : | Ce médicament contient du saccharose. Son utilisation est déconseillée chez les patients présentant une intolérance au fructose, un syndrome de malabsorption du glucose et du galactose ou un déficit en sucrase-isomaltase. | Ce médicament contient 3,2 g de saccharose par cuillère à café (5 ml) et 9,6 g de saccharose par cuillère à soupe (15 ml) dont il faut tenir compte dans la ration journalière en cas de régime pauvre en sucre ou de diabète. | Ce médicament contient du parahydroxybenzoate de méthyle sodé (E219) et du parahydroxybenzoate de propyle sodé (E217) et peut provoquer des réactions allergiques (éventuellement retardées). | Ce médicament contient moins de 1 mmol (23 mg) de sodium par cuillère à soupe de 15 ml, c’est-à-dire qu’il est essentiellement « sans sodium ». | Ce médicament contient 1,5 mg d’éthanol par cuillère à soupe de 15 ml de sirop ce qui est équivalent à 0,1 mg/ml (0,01% p/v). La quantité d'éthanol dans 15 ml de ce médicament équivaut à moins de 0,1 ml de bière ou 0,1 ml de vin. | La faible quantité d'ethanol contenue dans ce médicament n'est pas susceptible d'entraîner d'effet notable.
+
+## Interactions
+
+Les données disponibles à ce jour ne laissent pas supposer l'existence d'interactions cliniquement significatives.
+
+## Pregnancy Breastfeeding
+
+Grossesse | Il n'existe pas de données de tératogénèse chez l'animal. | En clinique, aucun effet malformatif ou fœtotoxique n'est apparu à ce jour. Toutefois, le suivi de grossesses exposées à ce médicament est insuffisant pour pouvoir exclure tout risque. | En conséquence, par mesure de précaution, il est préférable de ne pas utiliser ce médicament pendant la grossesse. | Allaitement | En l'absence de données sur le passage de l'alpha-amylase dans le lait maternel, l'utilisation de Maxilase est à éviter pendant l'allaitement.
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : ENZYMES A VISEE ANTI-INFLAMMATOIRE
+
+## Adverse Effects
+
+Les effets indésirables sont classés par système organe et par fréquence de la façon suivante : très fréquent (>1/100, 1/1 000, 1/10 000, < 1/1 000) ; très rare (< 1/10 000) et les fréquences indéterminées (qui ne peuvent pas être estimées sur la base des données disponibles). | Affections de la peau et du tissu sous-cutané | Fréquence indéterminée : angio-œdème, urticaire, prurit, éruption cutanée, éruption maculopapuleuse. | Affections du système immunitaire | Fréquence indéterminée : hypersensibilité, réaction anaphylactique, choc anaphylactique (voir rubrique 4.4). | Affections respiratoires, thoraciques et médiastinales | Fréquence indéterminée : bronchospasme. | Affections gastro-intestinales | Fréquence indéterminée : nausées, vomissements | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+A conserver à une température inférieure à 25°C.

@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_03_H_112
+DCI: METHADONE CHLORHYDRATE vingt milligrammes/quinze millilitres sol buv récip unidose (METHADONE AP-HP Unidose)
+DrugBank ID: DB12293
+DrugBank Name: Nefopam
+Brand Names: ANTAPAM
+Pharmaceutical Forms: Solution
+Dosages: 20mg/2ml
+Packaging: b/05amp de 2ml+b/50amp de 2ml
+ATC Classification: N - SYSTEME NERVEUX | N07 - AUTRES MEDICAMENTS DU SYSTEME NERVEUX | N07B - MEDICAMENTS UTILISES DANS LES TROUBLES TOXICOMANOGENES | N07BC - MEDICAMENTS UTILISES DANS LA DEPENDANCE OPIOIDE | N07BC02 - METHADONE
+Registration Numbers: 433/03 H 112/22
+Drug Codes: 03 H 112
+
+------------------------------------------------------------
+
+## Description
+
+Nefopam is under investigation for the prevention of Cholecystitis and Post Anaesthetic Shivering. Nefopam has been investigated for the prevention of Kidney Transplantation.

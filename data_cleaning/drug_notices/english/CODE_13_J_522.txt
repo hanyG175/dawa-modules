@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_J_522
+DCI: Colistimethate Sodique
+DrugBank ID: DB01111
+DrugBank Name: Colistimethate
+Brand Names: COLISTIMETHATE SODIUM 1000000 UI | COLISTINE HIKMA
+Pharmaceutical Forms: Poudre
+Dosages: 1000000 UI
+Packaging: b/1 flacon de 10 ml | b/10 flacon
+Laboratories: MEDAC SAS | 1 RUE CROIX BARRET | 69007 LYON
+ATC Classification: J01XB01
+Registration Numbers: 001/13 J 522/24 | 638/13 J 522/24
+Drug Codes: 13 J 522
+
+------------------------------------------------------------
+
+## Description
+
+Colistimethate is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. Colistimethate is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa.
+
+## Pharmacodynamics
+
+Colistimethate is a polymyxin antibiotic agent. Originally, colistimethate sodium was thought to be less toxic than polymyxin B; however, if the drugs are administered at comparable doses, their toxicities may be similar. Polymyxins are cationic polypeptides that disrupt the bacterial cell membrane through a detergentlike mechanism. With the development of less toxic agents, such as extended-spectrum penicillins and cephalosporins, parenteral polymyxin use was largely abandoned, except for the treatment of multidrug-resistant pulmonary infections in patients with cystic fibrosis. More recently, however, the emergence of multidrug-resistant gram-negative bacteria, such as Pseudomonas aeruginosa and Acinetobacter baumannii , and the lack of new antimicrobial agents have led to the revived use of the polymyxins.
+
+## Mechanism Of Action
+
+Bacterial outer membrane (Bacteria) Incorporation into and destabilization
+
+## Absorption
+
+Very poor absorption from gastrointestinal tract.
+
+## Metabolism
+
+As 80% of the dose can be recovered unchanged in the urine, and there is no biliary excretion, it can be assumed that the remaining drug is inactivated in the tissues, however the mechanism is unknown.
+
+## Half Life
+
+2-3 hours following either intravenous or intramuscular administration in adults and in the pediatric population, including premature infants.
+
+## Toxicity
+
+Oral LD 50 in rats is 5450 mg/kg. Overdosage with colistimethate can cause neuromuscular blockade characterized by paresthesia, lethargy, confusion, dizziness, ataxia, nystagmus, disorders of speech and apnea. Respiratory muscle paralysis may lead to apnea, respiratory arrest and death.

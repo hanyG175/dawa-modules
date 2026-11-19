@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_094
+DCI: Chlorhydrate De Terbinafine
+DrugBank ID: DB00857
+DrugBank Name: Terbinafine
+Brand Names: DERMAFINE | LAMIDAZ | MANTIXA | ONYCAL | TERBIDERME | TERBIFINE | TERBIL | TERBINAMEX | TERBINAN | TERCYD | TERFINEX
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.01
+Packaging: t/15g
+Registration Numbers: 003/07 D 094/06/24 | 035/07 D 094/15 | 088/07 D 094/09/24 | 149/07 D 094/15 | 263/07 D 094/15/24 | 309/07 D 094/21 | 311/07 D 094/15 | 400/07 D 094/16 | 418/07 D 094/08/25 | 462/07 D 094/21 | 622/07 D 094/24
+Drug Codes: 07 D 094
+
+------------------------------------------------------------
+
+## Description
+
+Terbinafine hydrochloride (Lamisil) is a synthetic allylamine antifungal. 10 , 11 It is highly lipophilic in nature and tends to accumulate in skin, nails, and fatty tissues. 1 Like other allylamines, terbinafine inhibits ergosterol synthesis by inhibiting the fungal squalene monooxygenase (also called squalene epoxidase), an enzyme that is part of the fungal cell wall synthesis pathway. 1 , 2 , 11 Terbinafine hydrochloride was granted FDA approval on 30 December 1992. 9
+
+## Pharmacodynamics
+
+Terbinafine is an allylamine antifungal that inhibits squalene epoxidase (also known as squalene monooxygenase) to prevent the formation of ergosterol and cause an accumulation of squalene, weakening the cell wall of fungal cells. 1 , 2 , 11 Terbinafine distributes into tissues and has a long terminal elimination half life, so the duration of action is long. 1 Overdose with terbinafine is rare, even above the therapeutic dose, so the therapeutic index is wide. 10 , 11 Patients taking oral terbinafine should have liver function tests performed prior to treatment to reduce the risk of liver injury. 10
+
+## Mechanism Of Action
+
+Squalene epoxidase ERG1 (Yeast) Inhibitor
+
+## Absorption
+
+Oral terbinafine is >70% absorbed but only 40% bioavailable after first pass metabolism, reaching a C max of 1µg/mL with a T max of 2 hours an an AUC of 4.56µg*h/mL. 10 Over the course of a week, 1% topical terbinafine's C max increases from 949-1049ng/cm 2 and the AUC increases from 9694-13,492ng/cm 2 /h. 4
+
+## Volume Of Distribution
+
+A single 250mg oral dose of terbinafine has a volume of distribution at steady state of 947.5L or 16.6L/kg. 1
+
+## Metabolism
+
+Terbinafine can be deaminated to 1-naphthaldehyde by CYP2C9, 2B6, 2C8, 1A2, 3A4, and 2C19. 6 1-naphthaldehyde is then oxidized to 1-naphthoic acid or reduced to 1-naphthalenemethanol. 6 Terbinafine can also be hydroxylated by CYP1A2, 2C9, 2C8, 2B6, and 2C19 to hydroxyterbinafine. 6 Hydroxyterbinafine is then oxidized to carboxyterbinafine or N-demethylated by CYP3A4, 2B6, 1A2, 2C9, 2C8, and 2C19 to desmethylhydroxyterbinafine. 6 Terbinafine can be N-demethylated to desmethylterbinafine. 6 Desmethylterbinafine is then dihydroxylated to a desmethyldihydrodiol or hydroxylated to desmethylhydroxyterbinafine. 6 Finally, terbinafine can be dihydroxylated to a dihydrodiol which is then N-demethylated to a desmethyldihydrodiol. 6 Hover over products below to view reaction partners Terbinafine Hydroxyterbinafine N-Desmethylhydroxyterbinafine Carboxyterbinafine N-Desmethylterbinafine N-Desmethylterbinafine dihydrodiol derivative (2) N-Desmethylterbinafine dihydrodiol derivative (1) N-Desmethylhydroxyterbinafine 1-Naphthaldehyde 1-Naphthalenemethanol 1-Naphthoic acid Terbinafine dihydrodiol derivative (1) N-Desmethylterbinafine dihydrodiol derivative (1) Terbinafine dihydrodiol derivative (2) N-Desmethylterbinafine dihydrodiol derivative (2)
+
+## Route Of Elimination
+
+Terbinafine is approximately 80% eliminated in urine, while the remainder is eliminated in feces. 1 The unmetabolized parent drug is not present in urine. 7
+
+## Half Life
+
+Oral terbinafine has an effective half life of approximately 36 hours. 10 However, the terminal half life ranges from 200-400 hours as it distributes into skin and adipose tissue. 10 1% topical terbinafine's half life increases over the first seven days from approximately 10-40 hours. 4
+
+## Clearance
+
+A single 250mg oral dose of terbinafine has a clearance of 76L/h or 1.11L/h/kg. 1
+
+## Toxicity
+
+The subcutaneous LD 50 in rats and mice is >2g/kg. 12 The TDLO for women is 210mg/kg/6W. 12 Overdose data with terbinafine is rare, however symptoms are expected to be nausea, vomiting, abdominal pain, dizziness, rash, frequent urination, and headache. 10 Treat overdose with activated charcoal as well as symptomatic and supportive therapy. 11

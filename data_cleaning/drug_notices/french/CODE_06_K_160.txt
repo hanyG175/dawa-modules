@@ -1,0 +1,54 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_K_160
+DCI: Diosmine
+Brand Names: DIOSMINE GGAM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 600MG
+Packaging: B/30
+Laboratories: PHARMIDAL
+Countries: ALGERIE
+Prescription List: N/D
+ATC Classification: C05CA03
+Registration Numbers: 235/06 K 160/09/25 | 318/06 K 160/20 | 450/06 K 160/07/12
+Drug Codes: 06 K 160
+
+------------------------------------------------------------
+
+## Indications
+
+DIOSMINE ARROW CONSEIL est indiqué chez l’adulte pour : | · les manifestations fonctionnelles de l’insuffisance veino-lymphatique : jambes lourdes, | · le traitement des signes fonctionnels liés à la crise hémorroïdaire.
+
+## Posology
+
+Posologie | · Dans l’insuffisance veino-lymphatique : 1 comprimé par jour, le matin, pendant 1 mois. | · Dans la crise hémorroïdaire : 1 comprimé 3 fois par jour pendant 4 jours, puis 1 comprimé 2 fois par jour pendant 3 jours. | Population pédiatrique | Les données étant insuffisantes, DIOSMINE ARROW CONSEIL ne doit pas être utilisé chez les enfants et les adolescents âgés de moins de 18 ans . | Mode d’administration | Voie orale. | Les comprimés doivent être pris pendant les repas.
+
+## Contraindications
+
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.
+
+## Precautions
+
+Insuffisance veino-lymphatique : le traitement est particulièrement bénéfique s’il s’accompagne d’un mode de vie équilibré : l’exposition au soleil et la station debout prolongée doivent être évitées, un poids approprié doit être maintenu, le port de bas spéciaux peut améliorer la circulation chez certains patients. | Crise hémorroïdaire : l’administration de ce produit ne dispense pas du traitement spécifique des autres maladies anales. Le traitement doit être de courte durée. Si les symptômes ne cèdent pas rapidement, un examen proctologique doit être pratiqué et le traitement doit être revu. | Excipients à effet notoire | Ce médicament contient du lactose. Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament. | Ce médicament contient un colorant azoïque, le rouge cochenille A (E124), et peut provoquer des réactions allergiques.
+
+## Interactions
+
+Aucune étude d’interaction n’a été réalisée. Aucune interaction médicamenteuse cliniquement pertinente n’a été rapportée à ce jour depuis la commercialisation de produits à base de substances actives de même classe (bioflavonoïdes).
+
+## Pregnancy Breastfeeding
+
+Grossesse | Les études chez l’animal n’ont mis en évidence aucun effet délétère direct ou indirect sur la grossesse et le développement embryonnaire ou fœtal (voir rubrique 5.3). La prudence est de mise en cas de prescription chez les femmes enceintes. | Allaitement | On ignore si DIOSMINE ARROW CONSEIL est excrété dans le lait humain. Un risque pour les nouveau-nés/nourrissons ne peut être exclu. Il convient de décider d’arrêter l’allaitement ou d’arrêter/de s’abstenir de prendre ce médicament en tenant compte des bénéfices de l’allaitement pour l’enfant et de ceux du traitement pour la mère. | Fertilité | Les études de reprotoxicité n’ont montré aucun effet sur la fertilité chez des rats mâles et femelles (voir rubrique 5.3).
+
+## Mechanism Of Action
+
+Classe pharmacothérapeutique : VASCULOPROTECTEUR / MEDICAMENT AGISSANT SUR LES CAPILLAIRES, code ATC : C05CA03. | Veinotonique et vasculoprotecteur entraînant une vasoconstriction, une augmentation de la résistance des vaisseaux et une diminution de leur perméabilité. | Différentes études, tant chez l’animal que chez l’Homme, ont été conduites pour démontrer ces propriétés : | Chez l’animal | Propriétés veinotoniques | Augmentation de la pression veineuse chez le chien anesthésié, observée par voie I.V. | Propriétés vasculoprotectrices | · Action sur la perméabilité capillaire, action anti-œdémateuse et anti-inflammatoire chez le rat. | · Action sur la déformabilité des hématies mesurée par le temps de filtration érythrocytaire. | · Augmentation de la résistance capillaire chez le rat et le cobaye carencés en facteur vitaminique P. | · Diminution du temps de saignement chez le cobaye carencé en facteur vitaminique P. | · Diminution de la perméabilité capillaire, induite par le chloroforme, par l’histamine ou par la hyaluronidase. | Chez l’Homme | Propriétés veinotoniques démontrées en pharmacologie clinique | · Augmentation de l’action vasoconstrictrice de l’adrénaline, de la noradrénaline et de la sérotonine sur les veines superficielles de la main ou sur une saphène isolée. | · Augmentation du tonus veineux, mise en évidence par la mesure de la capacitance veineuse à l’aide de la pléthysmographie par jauge de contrainte ; diminution du volume de la stase veineuse. | · L’effet veinoconstricteur est en relation avec la dose administrée. | · Abaissement de la pression veineuse moyenne aussi bien au niveau du système superficiel que profond, mis en évidence par un essai en double insu contre placebo sous contrôle Doppler. | · Augmentation de la pression sanguine systolique et diastolique dans l’hypotension orthostatique post-opératoire. | · Activité dans les suites de saphénectomie. | Propriétés vasculoprotectrices | · Augmentation de la résistance capillaire, effet relié à la dose administrée.
+
+## Adverse Effects
+
+Les effets indésirables suivants sont présentés par classe de système d’organes MedDRA et en fonction de leur fréquence définie comme suit : très fréquent (≥ 1/10), fréquent (≥ 1/100, < 1/10), peu fréquent (≥ 1/1 000, < 1/100), rare (≥ 1/10 000, < 1/1 000), très rare (< 1/10 000) et fréquence indéterminée (ne peut être estimée sur la base des données disponibles). | Classe de système organe Fréquent Peu fréquent Rare Affections gastro-intestinales* Gastralgie Ballonnements, diarrhée, dyspepsie, nausée Vomissements Affections de la peau et du tissu sous-cutané Réactions allergiques telles que rash, prurit, urticaire, angiœdème | *Les affections gastro-intestinales entraînent rarement l’arrêt du traitement. | Déclaration des effets indésirables suspectés | La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/ .
+
+## Conservation
+
+Ce médicament ne nécessite pas de précautions particulières de conservation.

@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_D_058
+DCI: Levomepromazine
+DrugBank ID: DB01403
+DrugBank Name: Methotrimeprazine
+Brand Names: BIOZINAN BR | LEVONON BGL | NOVAZIN | NOZINAN
+Pharmaceutical Forms: Comprimé
+Dosages: 100mg
+Packaging: b/20 | b/20 et b/500
+Registration Numbers: 013/16 D 058/99/15 | 235/16 D 058/21 | 263/16 D 058/97/23 | 378/16 D 058/20
+Drug Codes: 16 D 058
+
+------------------------------------------------------------
+
+## Description
+
+A phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Pharmacodynamics
+
+Methotrimeprazine is a phenothiazine with pharmacological activity similar to that of both chlorpromazine and promethazine. It has the histamine-antagonist properties of the antihistamines together with central nervous system effects resembling those of chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p604)
+
+## Mechanism Of Action
+
+D(2) dopamine receptor Antagonist
+
+## Absorption
+
+Methotrimeprazine has an incomplete oral bioavailability, because it undergoes considerable first-pass-metabolism in the liver. Oral bioavailability is approximately 50 to 60%.
+
+## Metabolism
+
+Hepatic. Methotrimeprazine is metabolized in the liver and degraded to a sulfoxid-, a glucuronid- and a demethyl-moiety.
+
+## Half Life
+
+Approximately 20 hours.
+
+## Toxicity
+
+Symptoms of overdose include convulsions, spastic movements, and coma.

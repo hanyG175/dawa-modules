@@ -1,0 +1,53 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_M_236
+DCI: FLUVASTATINE (sodique) 80 mg cp LP (FLUVASTATINE ACCORD LP)
+DrugBank ID: DB01095
+DrugBank Name: Fluvastatin
+Brand Names: COLESTOR LP | CORED XL | FLUVACOL LP | FLUVASTAN | FLUVASTATINE LDM | FLUVASTATINE NOVAGENERICS | LUVASCOL
+Pharmaceutical Forms: Comprimé
+Dosages: 80mg
+Packaging: b/28 | b/30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C10 - HYPOLIPIDEMIANTS | C10A - HYPOLIPIDEMIANTS SEULS | C10AA - INHIBITEURS DE L'HMG-COA REDUCTASE | C10AA04 - FLUVASTATINE
+Registration Numbers: 001/06 M 236/12/19 | 097/06 M 236/17 | 149/06 M 236/19 | 309/06 M 236/15/23 | 352/06 M 236/14 | 418/06 M 236/20 | 447/06 M 236/15/26
+Drug Codes: 06 M 236
+
+------------------------------------------------------------
+
+## Description
+
+Fluvastatin is an antilipemic agent that competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonic acid, the rate-limiting step in cholesterol biosynthesis. Fluvastatin belongs to a class of medications called statins and is used to reduce plasma cholesterol levels and prevent cardiovascular disease. It is also the first entirely synthetic HMG-CoA reductase inhibitor and is structurally distinct from the fungal derivatives of this therapeutic class. Fluvastatin is a racemate comprising equimolar amounts of (3R,5S)- and (3S,5R)-fluvastatin.
+
+## Pharmacodynamics
+
+Fluvastatin, the first synthetically-derived HMG-CoA reductase inhibitor, is a hydrophilic, acidic, antilipemic agent used to lower cholesterol and triglyceride levels associated with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson types IIa and IIb), to slow the progression of coronary atherosclerosis in patients with CHD and as secondary prevention therapy in patients with CHD to reduce the risk of requiring coronary revascularization procedures. Although similar to lovastatin, simvastatin, and pravastatin, fluvastatin has a shorter half-life, no active metabolites, extensive protein binding, and minimal CSF penetration. Fluvastatin acts primarily in the liver. It is prepared as a racemate of two erythro enantiomers of which the 3R,5S enantiomer exerts the pharmacologic effect.
+
+## Mechanism Of Action
+
+3-hydroxy-3-methylglutaryl-coenzyme A reductase Inhibitor
+
+## Absorption
+
+Rapidly and almost completely absorbed (> 90%), but undergoes extensive first pass metabolism. Bioavailability is 24% (range 9-50%) when a 10 mg dose is given. The mean relative bioavailability of the extended-release tablet is 29% (range: 9% to 66%) compared to an immediate-release capsule administered under fasting conditions. When given orally, fluvastatin reaches peak concentrations (Tmax) in less than one hour. Taking the extended release tablet with a high-fat meal will delay absorption (Tmax = 6 hours) and increase bioavailability by approximately 50%. However, the maximum concentration of fluvastatin sodium extended-release tablets seen after a high fat meal is less than the peak concentration following a single dose or twice daily dose of the 40 mg fluvastatin capsule.
+
+## Metabolism
+
+Undergoes hepatic metabolism primarily via hydroxylation of the indole ring at the 5- and 6-positions to 5-hydroxy fluvastatin and 6-hydroxy fluvastatin, respectively. N-dealkylation to N-desisopropyl fluvastatin and beta-oxidation of the side chain also occurs. Metabolized primarily by the CYP2C9 isozyme system (75%), and to a lesser extent by CYP3A4 (~20%) and CYP2C8 (~5%). Hydroxylated metabolites retain some pharmcological activity, but are present as conjugates (glucuronides and sulfates) in the blood and are rapidly eliminated via bile into feces. Both enantiomers of fluvastatin are metabolized in a similar manner. Fluvastatin also undergoes glucuronidation via UGT enzymes. Hover over products below to view reaction partners Fluvastatin 6-Hydroxyfluvastatin N-Deisopropyl-fluvastatin 5-Hydroxyfluvastatin 6-OH-fluvastatin 5-OH-fluvastatin
+
+## Route Of Elimination
+
+When orally administered, fluvastatin is primarily excreted in the faces ( ~90%) as metabolites, with less than 2% present as unchanged drug. Approximately 5% was recovered in the urine.
+
+## Half Life
+
+3 hours
+
+## Clearance
+
+0.8 L/h/kg 107 ± 38.1 L/h [Hypercholesterolemia patients receiving a single dose of 20 mg] 87.8 ± 45 L/h [Hypercholesterolemia patients receiving 20 mg twice daily] 108 ± 44.7 L/h [Hypercholesterolemia patients receiving 40 mg single] 64.2 ± 21.1 L/h [Hypercholesterolemia patients receiving 40 mg twice daily]
+
+## Toxicity
+
+Generally well-tolerated. May cause gastrointestinal upset (diarrhea, nausea, constipation, gas, abdominal pain), myotoxicity (mypothy, myositis, rhabdomyolysis), and hepatotoxicity.

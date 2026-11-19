@@ -1,0 +1,21 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_U_531
+DCI: Vaccin Papillomavirus Humain (Types 6,11,16,18,31,33,45,52,58) Recombinant,Adsorbe
+DrugBank ID: DB10299
+DrugBank Name: Human papillomavirus type 6 L1 capsid protein antigen
+Brand Names: GARDASIL 9
+Pharmaceutical Forms: Suspension
+Dosages: 1 dose (0.5ml)contient : 30mcg/40mcg/60mcg/40mcg/20mcg/20mcg/20mcg/20mcg/20mcg
+Packaging: b/01 seringue preremplie et 02 aiguilles
+Registration Numbers: 633/13 U 531/25
+Drug Codes: 13 U 531
+
+------------------------------------------------------------
+
+## Description
+
+Human papillomavirus type 6 L1 capsid protein antigen is contained in Gardasil, or a recombinant Human Papillomavirus Quadrivalent (Types 6, 11, 16, and 18) vaccine for intramuscular injection. It is an immunization for young men and women 9-26 years of age for the prevention of diseases caused by Human Papillomavirus (HPV) types 6, 11, 16 and 18.
+The vaccine is prepared from the purified virus-like particles (VLPs) of the major capsid (L1) protein of HPV Types 6, 11, 16, and 18, which are produced by separate fermentations in recombinant Saccharomyces cerevisiae and self-assembled into VLPs.

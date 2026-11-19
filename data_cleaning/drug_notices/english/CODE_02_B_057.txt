@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_02_B_057
+DCI: Sevoflurane
+DrugBank ID: DB01236
+DrugBank Name: Sevoflurane
+Brand Names: SEVOFLURANE USP
+Pharmaceutical Forms: Liquide P. Inhal
+Dosages: 100ML/100ML DE LIQUIDE POUR INHALATION PAR VAPEUR
+Packaging: CARTON DE 06 FL. DE 250ML
+Laboratories: BAXTER
+Countries: ETATS UNIS D'AMERIQUE
+Reference Tariff (DA): DA
+Prescription List: Liste I
+ATC Classification: 02B057
+Registration Numbers: 298/02 B 057/16 | 498/02 B 057/05/24 | 499/02 B 057/21
+Drug Codes: 02 B 057
+
+------------------------------------------------------------
+
+## Description
+
+Sevoflurane is an ether inhalation anesthetic agent used to induce and maintain general anesthesia. 8 It is a volatile, non-flammable compound with a low solubility profile and blood/gas partition coefficient. 8 Sevoflurane was patented in 1972, was approved for clinical use in Japan in 1990, and approved by the FDA in 1996. 1 Sevoflurane is three times more potent than desflurane , but has lower potency compared to halothane and isoflurane . Unlike other volatile anesthetics, sevoflurane has a pleasant odor and does not irritate the airway. The hemodynamic and respiratory depressive effects of sevoflurane are well tolerated, and most patients receiving this anesthetic agent present little toxicity. 7 Therefore, it can be used for inhalational induction in adults and children for a wide variety of anesthetic procedures. 1
+
+## Pharmacodynamics
+
+Sevoflurane induces muscle relaxation and reduces sensitivity by altering tissue excitability with a fast onset of action. It does so by decreasing the extent of gap junction-mediated cell-cell coupling and altering the activity of the channels that underlie the action potential. 6 Compared to halothane and isoflurane , sevoflurane has a shorter emergence time, as well as a shorter time to first analgesia. 8 To reach an equilibrium between alveolar and arterial partial pressure, only a minimal amount of sevoflurane needs to be dissolved in blood. 8 The use of sevoflurane can increase the risk of renal injury, respiratory depression, and QT prolongation. Also, it can lead to malignant hyperthermia, perioperative hyperkalemia, and pediatric neurotoxicity. Episodes of severe bradycardia and cardiac arrest have been reported in pediatric patients with Down Syndrome given sevoflurane. Sevoflurane anesthesia may impair the performance of activities requiring mental alertness, such as driving or operating machinery. 8
+
+## Mechanism Of Action
+
+GABA(A) Receptor Agonist Glycine receptor subunit alpha-1 Agonist Glutamate receptor 1 Antagonist + 2 more targets
+
+## Absorption
+
+Sevoflurane is rapidly absorbed into circulation through the lungs; however, solubility in the blood is low (blood/gas partition coefficient at 37°C ranges from 0.63 to 0.69). 8 Therefore, a minimal amount of sevoflurane needs to be dissolved in blood in order to induce anesthesia. 1
+
+## Volume Of Distribution
+
+Patients given low-flow sevoflurane anesthesia during maxillofacial surgery (n=16) had a peripheral volume of distribution of 1634 ml vapour /kg bw and a total volume of distribution of 1748 ml vapour /kg bw . 2
+
+## Metabolism
+
+Sevoflurane is metabolized to hexafluoroisopropanol by cytochrome P450 2E1 in a reaction that promotes the release of inorganic fluoride and carbon dioxide. Hexafluoroisopropanol is rapidly conjugated with glucuronic acid and eliminated in urine. In vivo metabolism studies suggest that approximately 5% of the sevoflurane dose may be metabolized. 8 In most cases, inorganic fluoride reaches its highest concentration within 2 hours of the end of sevoflurane anesthesia, and returns to baseline levels within 48 hours. Sevoflurane metabolism may be induced by chronic exposure to isoniazid and ethanol, and it has been shown that barbiturates do not affect it. 8 Hover over products below to view reaction partners Sevoflurane Carbon dioxide + Fluoride + Hexafluoroisopropanol
+
+## Route Of Elimination
+
+The low solubility of sevoflurane facilitates its rapid elimination through the lungs, where 95% to 98% of this anesthetic is eliminated. 1 , 8 Up to 3.5% of the sevoflurane dose appears in urine as inorganic fluoride, and as much as 50% of fluoride clearance is nonrenal (fluoride taken up into bone). 8
+
+## Half Life
+
+The terminal elimination half-life of sevoflurane from the peripheral fat compartment is approximately 20 hours. 1
+
+## Clearance
+
+In patients given low-flow sevoflurane anaesthesia during maxillofacial surgery (n=16), the transport clearance from the central to the peripheral compartment was 13.0 ml vapour /kg bw ⋅min. 2
+
+## Toxicity
+
+In the event of sevoflurane overdosage (or what may appear to be overdosage) discontinue administration, maintain a patent airway, initiate assisted or controlled ventilation with oxygen, and maintain adequate cardiovascular function. 8 Patients experiencing an overdose may be at an increased risk of severe adverse effects such as renal injury, respiratory depression, severe bradycardia and cardiac arrest. Fatalities due to sevoflurane abuse have been reported as well. 5 Symptomatic and supportive measures are recommended. Animal studies have shown that the use of anesthetic agents during periods of rapid brain growth or synaptogenesis results in alterations in synaptic morphology and neurogenesis. In primates, anesthetic regimens of up to 3 hours did not increase neuronal cell loss, but regimens of 5 hours or longer did have a significant effect. 8 The oral LD 50 of sevoflurane is 10.8 g/kg in rats and 18.2 g/kg in mice. 9

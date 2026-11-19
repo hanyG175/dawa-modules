@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_25_E_058
+DCI: FOSFOMYCINE (trométamol) 3 g glé p sol buv sach (FOSFOMYCINE ARROW)
+Brand Names: MONURIL ADULTE | URICARE | URONYX
+Pharmaceutical Forms: Granule Pour Suspension Buvable
+Dosages: 3 g | 3g/sachet
+Packaging: b/01 sachet | b/01sachet | boite de 1 sachet
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01X - AUTRES ANTIBACTERIENS | J01XX - AUTRES ANTIBACTERIENS | J01XX01 - FOSFOMYCINE
+Registration Numbers: 093/25 E 058/07 | 293/25 E 058/14 | 546/25 E 058/23
+Drug Codes: 25 E 058
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | sachet | fosfomycine (trométamol) : 3 g | Modalités d'administration | Voie orale | A dissoudre dans un verre d'eau immédiatement avant administration | Administrer à distance du repas | Posologie | Patient à partir de 12 an(s) | Patient quel que soit le poids | Patient de sexe féminin | Bactériurie asymptomatique gravidique - Cystite aiguë non compliquée - Cystite gravidique | Posologie standard | 1 sachet 1 fois ce jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Patient de sexe masculin | Infection en chirurgie urologique, traitement préventif (de l') | Traitement initial | Administrer 3 heures avant l'examen | 1 sachet 1 fois ce jour | Traitement ultérieur | Administrer 24 heures après la première prise | 1 sachet 1 fois ce jour
+
+## Precautions
+
+Enfant de moins de 12 ans | Homme | Insuffisance rénale très sévère : clairance de la créatinine < 10 ml/min
+
+## Mechanism Of Action
+
+Fosfomycine : Mécanisme d'action | La fosfomycine est un antibiotique antibactérien. | Les concentrations critiques séparent les souches sensibles des souches de sensibilité intermédiaire et ces dernières, des résistantes : S 32 mg/l. | Espèces sensibles : | aérobies à Gram + : | Enterococcus faecalis | , | Streptococcus pneumoniae | , | staphylococcus | méti-S, | staphylococcus | méti-R ; | aérobies à Gram - : | citrobacter | , | enterobacter | , | Escherichia coli | , | Haemophilus influenzae | , | klebsiella | , | Neisseria meningitidis | , | pasteurella | , | Proteus mirabilis | , | Proteus vulgaris | , | Providencia stuartii | , | Pseudomonas aeruginosa | , | salmonella | , | serratia | , | shigella | ; | anaérobies : | fusobacterium | . | Espèces résistantes : | aérobies à Gram + : | corynebacterium | , | Enterococcus faecium | , | erysipelothrix | , | Listeria monocytogenes | , | Staphylococcus saprophyticus | , | streptococcu | s ; | aérobies à Gram - : | acinetobacter | , | Burkholderia cepacia | , | Morganella morganii | , | Stenotrophomonas maltophilia | , | Vibrio cholerae | ; | anaérobies : | bacteroides | , | clostridium | , | prevotella | ; | autres : | chlamydia | , | mycoplasma | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Phosphatases alcalines (augmentation) | - Eosinophilie | - Transaminases (augmentation) | DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Exanthème (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | GYNÉCOLOGIE, OBSTÉTRIQUE: | - Vulvovaginite (Fréquent) | HÉMATOLOGIE: | - Aplasie médullaire (Rare) | - Thrombocytose | IMMUNO-ALLERGOLOGIE: | - Choc anaphylactique | - Réaction anaphylactique | - Hypersensibilité | - Angioedème | INFECTIOLOGIE NON PRECISÉE: | - Surinfection (Rare) | NUTRITION, MÉTABOLISME: | - Anorexie | OPHTALMOLOGIE: | - Trouble de la vision | ORL, STOMATOLOGIE: | - Sensation de vertige (Fréquent) | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Dyspepsie (Fréquent) | - Vomissement (Peu fréquent) | - Colite liée à un antibiotique | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Dyspnée | - Bronchospasme

@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_237
+DCI: Lamivudine
+DrugBank ID: DB00709
+DrugBank Name: Lamivudine
+Brand Names: LAMIVIR
+Pharmaceutical Forms: Solution
+Dosages: 10mg/ml
+Packaging: flacon/100ml
+Registration Numbers: 182/13 P 237/03/17
+Drug Codes: 13 P 237
+
+------------------------------------------------------------
+
+## Description
+
+A reverse transcriptase inhibitor and zalcitabine analog in which a sulfur atom replaces the 3' carbon of the pentose ring. It is used to treat Human Immunodeficiency Virus Type 1 (HIV-1) and hepatitis B (HBV).
+
+## Pharmacodynamics
+
+Lamivudine is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1) and hepatitis B (HBV) to disrupt viral DNA synthesis. When phosphorylated, lamivudine can form active metabolites that compete for incorporation into viral DNA. Via DNA incorporation, lamivudine metabolites competitively inhibit the activity of the HIV reverse transcriptase enzyme and act as a chain terminator of DNA synthesis. Due to the lack of a 3'-OH group, incorporated nucleoside analogues prevent the formation of a 5' to 3' phosphodiester linkage that is essential for DNA chain elongation.
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor DNA Binder Protein P (HBV-F) Inhibitor
+
+## Absorption
+
+Lamivudine was rapidly absorbed after oral administration in HIV-infected patients. Absolute bioavailability in 12 adult patients was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution. The peak serum lamivudine concentration (Cmax) was 1.5 ± 0.5 mcg/mL when an oral dose of 2 mg/kg twice a day was given to HIV-1 patients. When given with food, absorption is slower, compared to the fasted state.
+
+## Volume Of Distribution
+
+Apparent volume of distribution, IV administration = 1.3 ± 0.4 L/kg. Volume of distribution was independent of dose and did not correlate with body weight.
+
+## Metabolism
+
+Metabolism of lamivudine is a minor route of elimination. In man, the only known metabolite of lamivudine is the trans-sulfoxide metabolite. This biotransformation is catalyzed by sulfotransferases. Hover over products below to view reaction partners Lamivudine Lamivudine sulfoxide Lamivudine-diphosphate-choline Lamivudine-diphosphate-ethanolamine Lamivudine-monophosphate Lamivudine-triphosphate
+
+## Route Of Elimination
+
+The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion. 5.2% ± 1.4% (mean ± SD) of the dose was excreted as the trans-sulfoxide metabolite in the urine. Lamivudine is excreted in human breast milk and into the milk of lactating rats.
+
+## Half Life
+
+5 to 7 hours (healthy or HBV-infected patients)
+
+## Clearance
+
+Renal clearance = 199.7 ± 56.9 mL/min [300 mg oral dose, healthy subjects] Renal clearance = 280.4 ± 75.2 mL/min [single IV dose, HIV-1-infected patients] Total clearance = 398.5 ± 69.1 mL/min [HIV-1-infected patients]
+
+## Toxicity
+
+The most common reported adverse reactions (incidence ≥15%) in adults were headache, nausea, malaise and fatigue, nasal signs and symptoms, diarrhea, and cough.

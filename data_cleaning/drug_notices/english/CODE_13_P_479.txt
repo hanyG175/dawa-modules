@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_479
+DCI: Sofosbuvir/Daclatasvir | VALACICLOVIR (chlorhydrate) 500 mg cp (VALACICLOVIR ALTER)
+DrugBank ID: DB00577
+DrugBank Name: Valaciclovir
+Brand Names: RANCLOVIR | SOFOSDAC
+Pharmaceutical Forms: Comprimé
+Dosages: 400mg/60mg | 500 mg
+Packaging: b/10 | b/28
+ATC Classification: J05AB11
+Registration Numbers: 330/13 P 479/17 | 447/13 P 479/17/23
+Drug Codes: 13 P 479
+
+------------------------------------------------------------
+
+## Description
+
+Valaciclovir (valacyclovir), also known as Valtrex , is an antiviral drug that has been used to manage and treat various herpes infections
+
+## Pharmacodynamics
+
+Antiviral effects Valacyclovir shows varying levels of inhibition towards herpes simplex virus types 1 (HSV-1), 2 (HSV-2), Varicella Zoster Virus (VZV), Epstein-Barr virus (EBV), and cytomegalovirus (CMV). The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response of humans to the same antiviral therapy has not yet been elucidated. Sensitivity testing results, described by the concentration of drug needed to inhibit the growth of the virus by 50% in cell culture (EC50), vary widely depending on various factors Label . Clinical study results For the various conditions below, clinical study results are summarized as follows Label : Cold sores Immunocompetent volunteers with cold sores were observed following the administration of a 1-day regimen (2 grams of valacyclovir twice a day for 1 day followed by one day of placebo) or a 2-day regimen (2 grams of valacyclovir twice daily for two days). The average duration of cold sore episodes was approximately 1 day shorter in treated subjects when compared to subjects treated with placebo. A 2-day drug administration regimen of valacyclovir did not provide superior benefit over the 1-day regimen. There was no clinically significant difference observed between subjects receiving valacyclovir or placebo in the prevention of progression of cold sore lesions after the papular stage, indicating that timing of valacyclovir administration is an important consideration Label . Initial genital herpes episodes 643 immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of valacyclovir 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320). In both groups, the median time to healing of herpetic lesions was measured to be 9 days, and the median time to cessation of pain was found to be 5 days, with the median time to cessation of viral shedding was approximately 3 days. Recurrent genital herpes episodes The results of 3 separate studies of patients taking 3 to 5-day regimens of valacyclovir showed an average of 4 days to lesion healing, 2-3 days to resolution of pain associated with the lesions, with an average of 2 days until the cessation of viral shedding Label . These findings showed valacyclovir administration to show superior beneficial effects when compared to the findings associated with placebo administration. A note on resistance The resistance of Herpes Simplex Virus and Varicella Zoster Virus to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase. Clinical isolates of VZV with decreased susceptibility to acyclovir have been isolated from patients diagnosed with AIDS. A total of 522 TK-deficient mutants of VZV have been identified in these cases Label .
+
+## Mechanism Of Action
+
+Thymidine kinase (HHV-1) Substrate DNA polymerase catalytic subunit (HHV-1) Inhibitor
+
+## Absorption
+
+After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal (GI) tract and converted to acyclovir and L-valine. The absolute bioavailability of acyclovir after administration of valacyclovir was measured at 54.5% ± 9.1% after the administration of a 1 gram oral dose of valacyclovir and a 350 mg intravenous (IV) acyclovir dose to 12 healthy subjects. Acyclovir (a metabolite of valacyclovir) bioavailability from the administration of this drug is not affected by the administration with food Label .
+
+## Volume Of Distribution
+
+Cerebrospinal fluid (CSF) penetration, determined by CSF/plasma AUC ratio, is approximately 25% for aciclovir and the metabolite 8-hydroxy-aciclovir (8-OH-ACV), and approximately 2.5% for the metabolite 9-(carboxymethoxy)methylguanine 10 . In a study of immunocompromised pediatric patients, the volume of distribution of a 15 ml/kg dose of valacyclovir was 1.34 ± 0.65 L/kg 6 .
+
+## Metabolism
+
+Valacyclovir is converted to acyclovir and L-valine via first-pass intestinal and/or hepatic metabolism. Acyclovir is also transformed, to a small extent, to inactive metabolites by aldehyde oxidase in addition to alcohol dehydrogenase and aldehyde dehydrogenase . Neither valacyclovir nor acyclovir is metabolized by cytochrome P450 enzymes Label . Hover over products below to view reaction partners Valaciclovir Acyclovir + L-valine Acyclovir monophosphate Acyclovir diphosphate Acyclovir triphosphate
+
+## Route Of Elimination
+
+After oral administration of a single 1 gram dose of radiolabeled valacyclovir to 4 healthy subjects, 46% and 47% of administered radioactivity was measured in urine and feces, respectively, over 96 hours. Acyclovir accounted for 89% of the radioactivity excreted in the urine Label .
+
+## Half Life
+
+The plasma elimination half-life of acyclovir typically averaged 2.5 to 3.3 hours in several studies of valacyclovir in volunteers with normal renal function Label .
+
+## Clearance
+
+Renal clearance of acyclovir following the administration of a single 1 gram dose of valacylcovir to 12 healthy
+437 volunteers was approximately 255 ± 86 mL/min, which represents 42% of total acyclovir apparent plasma clearance Label .
+
+## Toxicity
+
+LD50 Oral Rat – 903.5 mg/kg 11 Carcinogenesis, Mutagenesis, Impairment of Fertility Valacyclovir was noncarcinogenic in lifetime carcinogenicity assays at single daily gavage doses of valacyclovir giving plasma acyclovir concentrations equivalent to human levels in the mouse bioassay and 1.4 to 2.3 times human levels in the rat bioassay. No clinically significant difference in the incidence of tumors between treated and control animals was observed, and valacyclovir was not found to shorten the latency period of tumors. Valacyclovir was tested in 5 genetic toxicity assays. An Ames assay was negative in the absence or presence of metabolic activation. An in vitro cytogenetic study with human lymphocytes and a rat cytogenetic study was negative Label . In the mouse lymphoma assay, valacyclovir was not found to be mutagenic without metabolic activation, however, in the presence of metabolic activation (76% to 88% conversion to acyclovir), valacyclovir was mutagenic. Valacyclovir was also found to be mutagenic in a mouse micronucleus assay Label . Valacyclovir did not impair fertility or reproduction in rats at 6 times the normal concentrations in human plasma Label . Use in pregnancy Valacyclovir is categorized as a pregnancy category B drug. There are insufficient well-controlled studies of valacyclovir in pregnant women. The general rate of birth defects in infants exposed to acyclovir in-utero is comparable to the rate for infants measured in the general population. This drug should be used during pregnancy only if the potential benefit justifies the possible fetal risk Label . Use in nursing Acyclovir, a major metabolite of valacyclovir, was excreted in breastmilk at lower concentrations when a normal therapeutic dose of valacyclovir was administered. Exercise caution when acyclovir is used while nursing Label . A note on renal function and toxicity in elderly patients Elderly patients and patients with decreased renal function are at increased risk of valacyclovir toxicity, which can sometimes lead to central nervous system effects, such as encephalopathy, agitation, dysarthria, mania, and psychosis, among other effects. Consider reducing the dose of this drug in these populations to decrease the risk of toxicity Label .

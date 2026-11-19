@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_P_278
+DCI: Nevirapine
+DrugBank ID: DB00238
+DrugBank Name: Nevirapine
+Brand Names: NEVIVIR
+Pharmaceutical Forms: Comprimé
+Dosages: 200 mg
+Packaging: b/1fl de 60
+Laboratories: ARROW GENERIQUES | 26 AVENUE TONY GARNIER | 69007 LYON
+ATC Classification: J05AG01
+Registration Numbers: 524/13 P 278/19
+Drug Codes: 13 P 278
+
+------------------------------------------------------------
+
+## Description
+
+A potent, non-nucleoside reverse transcriptase inhibitor (NNRTI) used in combination with nucleoside analogues for treatment of Human Immunodeficiency Virus Type 1 (HIV-1) infection and AIDS. Structurally, nevirapine belongs to the dipyridodiazepinone chemical class.
+
+## Pharmacodynamics
+
+Nevirapine is a non-nucleoside reverse transcriptase inhibitor (nNRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). HIV-2 RT and eukaryotic DNA polymerases (such as human DNA polymerases alpha, beta, or sigma) are not inhibited by nevirapine. Nevirapine is, in general, only prescribed after the immune system has declined and infections have become evident. It is always taken with at least one other HIV medication such as Retrovir or Videx. The virus can develop resistance to nevirapine if the drug is taken alone, although even if used properly, nevirapine is effective for only a limited time.
+
+## Mechanism Of Action
+
+Reverse transcriptase/RNaseH (Human immunodeficiency virus 1) Inhibitor
+
+## Absorption
+
+Nevirapine is readily absorbed (greater than 90%) after oral administration in healthy subjects and adults with HIV-1 infection. The absolute bioavailability in healthy adults following a single dose administration is 93 ± 9% (mean ± SD) for a 50 mg tablet and 91 ± 8% for an oral solution. Peak plasma nevirapine concentrations of 2 ± 0.4 mcg/mL (7.5 micromolar) were attained by 4 hours following a single 200 mg dose. Nevirapine tablets and suspension have been shown to be comparably bioavailable and interchangeable at doses up to 200 mg. When the oral tablet is given with a high-fat meal, the extent of absorption is compared to that of the fasted-state.
+
+## Volume Of Distribution
+
+1.21 ± 0.09 L/kg [apparent volume of distribution, healthy adults, IV]
+Nevirapine is capable of crossing the placenta and is found in breast milk.
+
+## Metabolism
+
+Hepatic. In vivo studies in humans and in vitro studies with human liver microsomes have shown that nevirapine is extensively biotransformed via cytochrome P450 3A4 metabolism to several hydroxylated metabolites. Hover over products below to view reaction partners Nevirapine 12-Hydroxynevirapine 4-carboxynevirapine 12-hydroxynevirapine glucuronide 2-Hydroxynevirapine 2-hydroxynevirapine glucuronide 8-Hydroxynevirapine 8-hydroxynevirapine glucuronide 3-Hydroxynevirapine 3-hydroxynevirapine glucuronide 2-OH-nevirapine 8-OH-nevirapine 3-OH-nevirapine 12-OH-nevirapine
+
+## Route Of Elimination
+
+Thus cytochrome P450 metabolism, glucuronide conjugation, and urinary excretion of glucuronidated metabolites represent the primary route of nevirapine biotransformation and elimination in humans. Only a small fraction (<5%) of the radioactivity in urine (representing <3% of the total dose) was made up of parent compound; therefore, renal excretion plays a minor role in elimination of the parent compound.
+
+## Half Life
+
+45 hours
+
+## Toxicity
+
+Symptoms of overdose include edema, erythema nodosum, fatigue, fever, headache, insomnia, nausea, pulmonaryinfiltrates, rash, vertigo, vomiting, and weight decrease. The most common adverse reaction is rash.

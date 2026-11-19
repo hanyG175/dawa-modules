@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_C_026
+DCI: ALPHA-AMYLASE 3 000 U CEIP cp (MAXILASE ALPHA-AMYLASE)
+Brand Names: ALPHA AMYLASE BR
+Pharmaceutical Forms: Comprimé
+Dosages: 3000u.ceip
+Packaging: b/24
+Laboratories: OPELLA HEALTHCARE France SAS
+ATC Classification: R - SYSTEME RESPIRATOIRE | R02 - PREPARATIONS POUR LA GORGE | R02A - PREPARATIONS POUR LA GORGE | R02AA - ANTISEPTIQUES | R02AA20 - DIVERS
+Registration Numbers: 378/04 C 026/24
+Drug Codes: 04 C 026
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement d'appoint des états congestifs de l'oropharynx. | NB : devant les signes cliniques généraux d'infection bactérienne, une antibiothérapie par voie générale doit être envisagée.
+
+## Posology
+
+Posologie | Unité de prise | ml | alpha-amylase : 200 U CEIP | Modalités d'administration | Voie orale | Traitement à réévaluer en cas d'absence d'amélioration après 5 jours | Posologie | Patient de 1 mois à 3 an(s) | Patient quel que soit le poids | Affection bucco-pharyngée, traitement adjuvant (d'une) | Posologie standard | 5 ml 3 fois par jour | Patient de 3 an(s) à 15 an(s) | Patient quel que soit le poids | Affection bucco-pharyngée, traitement adjuvant (d'une) | Posologie standard | 10 ml 3 fois par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Affection bucco-pharyngée, traitement adjuvant (d'une) | Posologie standard | 15 ml 3 fois par jour | Durées absolues de traitement | Ne pas dépasser 5 jours de traitement.
+
+## Mechanism Of Action
+
+Amylase : Mécanisme d'action | L'amylase est une enzyme à visée anti-inflammatoire.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire | - Prurit | - Eruption cutanée | - Eruption maculopapuleuse | IMMUNO-ALLERGOLOGIE: | - Angioedème | - Hypersensibilité | - Choc anaphylactique | - Réaction anaphylactique | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | SYSTÈME RESPIRATOIRE: | - Bronchospasme

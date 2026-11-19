@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_H_072
+DCI: Desogestrel
+DrugBank ID: DB00304
+DrugBank Name: Desogestrel
+Brand Names: CERAZETTE | DESIRETT | DESONETTE
+Pharmaceutical Forms: Comprimé
+Dosages: 0.075mg | 0.75mcg/cp
+Packaging: b/28
+Registration Numbers: 005/11 H 072/07/15 | 285/11 H 072/18/23 | 532/11 H 072/17
+Drug Codes: 11 H 072
+
+------------------------------------------------------------
+
+## Description
+
+Desogestrel, a prodrug, is a third generation progestogen 1 and hence, a member of the gonane family which was largely used in Europe before being approved in the US and Canada. 4 It was firstly generated from a study that showed that 11-beta and 11-alkylidene substituent in nortestosterone can enhance the biological activity. 10 Desogestrel is now produced semi-synthetically from naturally occurred plant steroids. 14 In the US, desogestrel is found only in combination with ethinyl estradiol . 5 The first approved drug containing desogestrel was developed by Organon USA Inc in 1972 and FDA approved in 1992. 11
+
+## Pharmacodynamics
+
+The effects of desogestrel are divided on reproductive including modification of luteinizing hormone and follicle stimulating hormone, declines on the onset of menstruation, and increases the viscosity of the vaginal fluid; and on metabolic that includes increase insulin secretion and resistance, increased lipase activity, and increased fat deposition. 9 The effect of desogestrel on the lipids has been studied extensively and the results are contradictory. Desogestrel main therapeutic effect due to its mechanism of action is known to be related to the inhibition of the ovulation in 97% of the cycles. This effect was proven in clinical trials in non-breastfeeding women from which the Pearl failure rate was reported to be of 0.17 per 100 women-years. This result indicated that desogestrel is more efficient when compared to other progestogen-only pills. 6 All the therapeutic effect is produced by a transformation of the endometrium followed by an inhibition of the ovulation due to the suppression of other hormones. 10 Desogestrel has been widely confirmed to be related to an increase in the risk of venous thromboembolism due to the driven increased in blood coagulation factors, leading to a pronounced prothrombotic state. 1 However, the effects of desogestrel are known to not impact significantly the level of total cholesterol remaining in the range of change of 10% which allows it to be a molecule that presents a favorable lipid profile. 4
+
+## Mechanism Of Action
+
+Progesterone receptor Agonist Estrogen receptor Agonist
+
+## Absorption
+
+After oral administration, desogestrel is rapidly absorbed and it reaches a peak concentration of 2 ng/ml after 1.5 hours. The bioavailability of desogestrel is reported to be in the range of 60-80% and the reported AUC is of 3000 ng.h/ml. 14 Almost all the administered dose is modified to the active metabolite, etonogestrel . 7
+
+## Volume Of Distribution
+
+The apparent volume of distribution of desogestrel is of 1.5 L/kg. 14
+
+## Metabolism
+
+Desogestrel is rapidly metabolized in the intestinal mucosa and by first-pass hepatic metabolism 8 to form the major metabolite of desogestrel is etonogestrel which is the biologically active metabolite. 2 , 3 This modification is described by the hydroxylation in C3 of the desogestrel molecule. 7 Later, etonogestrel is metabolized following the normal pathways of steroid metabolism. On the other hand, due to the 11-methylene side chain, desogestrel cannot be metabolized to other progestins. 14 Hover over products below to view reaction partners Desogestrel 2-hydroxydesogestrel 3alpha-Hydroxydesogestrel Etonogestrel 3beta-Hydroxydesogestrel 6-alpha-hydroxydesogestrel 6-beta-hydroxydesogestrel 16-hydroxy-desogestrel Desogestrel-17-sulfate 15-alpha-hydroxydesogestrel Glucuronic acid 3-alpha-OH-desogestrel 3-beta-OH-desogestrel
+
+## Route Of Elimination
+
+The elimination of desogestrel is found to be mainly renal corresponding to about 6 times the dose eliminated in the bile. 14 The elimination of desogestrel is only done as the metabolites and not as the unchanged drug and about 85% of the administered dose can be excreted as metabolites after 6-8 days. 10
+
+## Half Life
+
+The terminal half-life of desogestrel is determined to be of 30 hours. 14
+
+## Clearance
+
+The metabolic clearance rate of desogestrel is reported to be of about 2 ml/min/kg. 14
+
+## Toxicity
+
+Administration of large quantities of desogestrel has been shown to produce strong hormonal effects but to lack chronic toxicity. The reported LD50 in rats after oral administration of desogestrel is higher than 2000 mg/kg. 10 Overdose hasn't reported serious effects but only symptoms of nausea and withdrawal of bleeding. Label Most reports haven't linked the administration of desogestrel with the increased risk of breast cancer. The increased risk has been reported to be related to the duration of use. However, several reports indicate a desogestrel-driven increased risk in cervical intra-epithelial neoplasia but the results are still not conclusive. Label

@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_B_043
+DCI: Azathioprine
+Brand Names: AZATHIOPRINE MYLAN
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 50MG
+Packaging: B/100
+Laboratories: MYLAN
+Countries: FRANCE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 05B043
+Registration Numbers: 450/05 B 043/06/15 | 467/05 B 043/18/24 | 609/05 B 043/06/24 | 660/05 B 043/25
+Drug Codes: 05 B 043
+
+------------------------------------------------------------
+
+## Indications
+
+CANCEROLOGIE
+
+## Mechanism Of Action
+
+IMMUNOSUPPRESSEURS

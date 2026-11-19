@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_355
+DCI: Agalsidase Alfa
+DrugBank ID: DB15874
+DrugBank Name: Agalsidase alfa
+Brand Names: REPLAGAL
+Pharmaceutical Forms: Sol A Diluer Pour Perfusion Iv
+Dosages: 1 mg/ml
+Packaging: b/01 flacon de 5 ml
+Registration Numbers: 493/14 N 355/16
+Drug Codes: 14 N 355
+
+------------------------------------------------------------
+
+## Description
+
+Agalsidase alfa is a recombinant human α-galactosidase A similar to agalsidase beta . While patients generally do not experience a clinically significant difference in outcomes between the two drugs, some patients may experience greater benefit with agalsidase beta. 1 , 2 Use of agalsidase beta has decreased in Europe, in favor of agalsidase alfa, after a contamination event in 2009. 6 Agalsidase alfa was granted EMA approval on 3 August 2001. 8
+
+## Pharmacodynamics
+
+Agalsidase alfa is a recombinant human α-galactosidase A used as enzyme replacement therapy in the treatment of Fabry disease. 7 It has a long duration of action and a wide therapeutic index. 7 Patients should be counselled regarding the risk of infusion related reactions and hypersensitivity. 7
+
+## Mechanism Of Action
+
+Globotriaosylceramide Metabolizer Ligand Alpha-galactosidase A Other
+
+## Absorption
+
+A dose of agalsidase alfa in non end stage renal disease patients reaches a C max of 3710 ± 855 U/mL with an AUC of 256,958 ± 63,499 min*U/mL. 5
+
+## Volume Of Distribution
+
+The volume of distribution at steady state in non end stage renal disease patients was approximately 17% of body weight regardless of sex. 5 , 7
+
+## Metabolism
+
+Data regarding the metabolism of agalsidase alfa is not readily available. 7 However, protein drugs are expected to be degraded by proteases and other catalytic enzymes to smaller peptides and amino acids. 4
+
+## Route Of Elimination
+
+After nonspecific proteolysis, the amino acids from protein drugs are reused for protein synthesis or further broken down and eliminated by the kidneys. 4
+
+## Half Life
+
+The elimination half life was 108 ± 17 minutes for males and 89 ± 28 minutes for females. 7
+
+## Clearance
+
+The clearance for doses of 0.007-0.2 mg/kg were 2.66 mL/min/kg for males and 2.10 mL/min/kg for females. 7
+
+## Toxicity
+
+Data regarding overdoses of agalsidase alfa are not readily available. 7 Patients experiencing an overdose of agalsidase alfa may experience an increased incidence and severity of adverse effects. Overdose can be managed through the use of symptomatic and supportive measures.

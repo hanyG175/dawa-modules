@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_A_005
+DCI: Piroxicam
+Brand Names: PIROXICAM LPA
+Pharmaceutical Forms: Gel Derm.
+Dosages: 0.005
+Packaging: T/50G
+Laboratories: LPA (LABORATOIRE PHARMACEUTIQUE ALGERIEN)
+Countries: ALGERIE
+Reference Tariff (DA): 145 DA
+Prescription List: Liste I
+ATC Classification: 21A005
+Registration Numbers: 003/21 A 005/09/22 | 035/21 A 005/17 | 149/21 A 005/12/18 | 263/21 A 005/12/24 | 352/21 A 005/09 | 366/21 A 005/08
+Drug Codes: 21 A 005
+
+------------------------------------------------------------
+
+## Indications
+
+RHUMATOLOGIE
+
+## Mechanism Of Action
+
+ANALGESIQUES ANTIRHUMATISMAUX EXTERNES BAUMES REVULSIFS

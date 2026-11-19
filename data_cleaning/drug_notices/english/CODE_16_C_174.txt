@@ -1,0 +1,47 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_C_174
+DCI: MELATONINE 1 mg cp LP (SLENYTO)
+DrugBank ID: DB01065
+DrugBank Name: Melatonin
+Brand Names: DORMINE
+Pharmaceutical Forms: Comprimé
+Dosages: 1mg
+Packaging: b/60
+Laboratories: BIOCODEX
+ATC Classification: N - SYSTEME NERVEUX | N05 - PSYCHOLEPTIQUES | N05C - HYPNOTIQUES ET SEDATIFS | N05CH - RECEPTEURS AGONISTES DE LA MELATONINE | N05CH01 - MELATONINE
+Registration Numbers: 293/16 C 174/22
+Drug Codes: 16 C 174
+
+------------------------------------------------------------
+
+## Description
+
+Melatonin is a biogenic amine that is found in animals, plants and microbes. Aaron B. Lerner of Yale University is credited for naming the hormone and for defining its chemical structure in 1958. In mammals, melatonin is produced by the pineal gland. The pineal gland is small endocrine gland, about the size of a rice grain and shaped like a pine cone (hence the name), that is located in the center of the brain (rostro-dorsal to the superior colliculus) but outside the blood-brain barrier. The secretion of melatonin increases in darkness and decreases during exposure to light, thereby regulating the circadian rhythms of several biological functions, including the sleep-wake cycle. In particular, melatonin regulates the sleep-wake cycle by chemically causing drowsiness and lowering the body temperature. Melatonin is also implicated in the regulation of mood, learning and memory, immune activity, dreaming, fertility and reproduction. Melatonin is also an effective antioxidant. Most of the actions of melatonin are mediated through the binding and activation of melatonin receptors. Individuals with autism spectrum disorders (ASD) may have lower than normal levels of melatonin. A 2008 study found that unaffected parents of individuals with ASD also have lower melatonin levels, and that the deficits were associated with low activity of the ASMT gene, which encodes the last enzyme of melatonin synthesis. Reduced melatonin production has also been proposed as a likely factor in the significantly higher cancer rates in night workers.
+
+## Pharmacodynamics
+
+Melatonin is a hormone normally produced in the pineal gland and released into the blood. The essential amino acid L-tryptophan is a precursor in the synthesis of melatonin. It helps regulate sleep-wake cycles or the circadian rhythm. Production of melatonin is stimulated by darkness and inhibited by light. High levels of melatonin induce sleep and so consumption of the drug can be used to combat insomnia and jet lag.
+MT1 and MT2 receptors may be a target for the treatment of circadian and non circadian sleep disorders because of their differences in pharmacology and function within the SCN. SCN is responsible for maintaining the 24 hour cycle which regulates many different body functions ranging from sleep to immune functions
+
+## Mechanism Of Action
+
+Melatonin receptor type 1A Agonist Melatonin receptor type 1B Agonist Ribosyldihydronicotinamide dehydrogenase [quinone] Inhibitor
+
+## Absorption
+
+The absorption and bioavailability of melatonin varies widely.
+
+## Metabolism
+
+Hepatically metabolized to at least 14 identified metabolites (identified in mouse urine): 6-hydroxymelatonin glucuronide, 6-hydroxymelatonin sulfate, N-acetylserotonin glucuronide, N-acetylserotonin sulfate, 6-hydroxymelatonin, 2-oxomelatonin, 3-hydroxymelatonin, melatonin glucuronide, cyclic melatonin, cyclic N-acetylserotonin glucuronide, cyclic 6-hydroxymelatonin, 5-hydroxyindole-3-acetaldehyde, di-hydroxymelatonin and its glucuronide conjugate. 6-Hydroxymelatonin glucuronide is the major metabolite found in mouse urine (65-88% of total melatonin metabolites in urine). Hover over products below to view reaction partners Melatonin 6-Hydroxymelatonin 6-Hydroxymelatonin glucuronide 6-Hydroxymelatonin sulfate N-Acetyl-5-hydroxytryptamine N-Acetyl-5-hydroxytryptamine glucuronide N-Acetyl-5-hydroxytryptamine sulfate 5-Methoxytryptamine Bufotenine N,N-Dimethyltryptamine Pinoline
+
+## Half Life
+
+35 to 50 minutes
+
+## Toxicity
+
+Generally well-tolerated when taken orally. The most common side effects, day-time drowsiness, headache and dizziness, appear to occur at the same frequency as with placebo. Other reported side effects include transient depressive symptoms, mild tremor, mild anxiety, abdominal cramps, irritability, reduced alertness, confusion, nausea, vomiting, and hypotension. Safety in Adults: Evidence indicates that it is likely safe to use in oral and parenteral forms for up to two months when used appropriately. Some evidence indicates that it can be safely used orally for up to 9 months in some patients. It is also likely safe to use topically when used appropriately. Safety in Children: Melatonin appeared to be used safely in small numbers of children enrolled in short-term clinical trials. However, concerns regarding safety in children have arisen based on their developmental state. Compared to adults over 20 years of age, people under 20 produce high levels of melatonin. Melatonin levels are inversely related to gonadal development and it is thought that exogenous administration of melatonin may adversely affect gonadal development. Safety during Pregnancy: High doses of melatonin administered orally or parenterally may inhibit ovulation. Not advised for use in individuals who are pregnant or trying to become pregnant. Safety during Lactation: Not recommended as safety has not be established. Oral, rat: LD 50 ≥3200 mg/kg

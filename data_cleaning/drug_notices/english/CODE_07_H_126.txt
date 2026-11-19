@@ -1,0 +1,48 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_H_126
+DCI: Hydrocortisone (Sous Forme D'Hydrocortisone 17-Butyrate)** | Hydrocortisone Sous Forme De Hydrocortisone 17-Butyrate
+DrugBank ID: DB14540
+DrugBank Name: Hydrocortisone butyrate
+Brand Names: LOCACORT | LOCOID
+Pharmaceutical Forms: Creme
+Dosages: 0.001
+Packaging: t/30g | tube/30g
+Registration Numbers: 149/07 H 126/19 | 600/07 H 126/03/19
+Drug Codes: 07 H 126
+
+------------------------------------------------------------
+
+## Description
+
+A medication used to treat certain skin conditions.
+
+## Pharmacodynamics
+
+Hydrocortisone is the most important human glucocorticoid. It is essential for life and regulates or supports a variety of important cardiovascular, metabolic, immunologic and homeostatic functions. Topical hydrocortisone is used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects. Glucocorticoids are distinguished from mineralocorticoids and sex steroids by having different receptors, target cells, and effects. Technically, the term corticosteroid refers to both glucocorticoids and mineralocorticoids, but is often used as a synonym for glucocorticoid. Glucocorticoids suppress cell-mediated immunity. They act by inhibiting genes that code for the cytokines IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8 and TNF-alpha, the most important of which is the IL-2. Reduced cytokine production limits T cell proliferation. Glucocorticoids also suppress humoral immunity, causing B cells to express lower amounts of IL-2 and IL-2 receptors. This diminishes both B cell clonal expansion and antibody synthesis. The diminished amounts of IL-2 also leads to fewer T lymphocyte cells being activated.
+
+## Mechanism Of Action
+
+Annexin A1 Agonist Glucocorticoid receptor Agonist
+
+## Absorption
+
+Topical corticosteroids can be absorbed from normal intact skin. Inflammation and/or other disease processes in the skin increase percutaneous absorption.
+
+## Metabolism
+
+Primarily hepatic via CYP3A4
+
+## Route Of Elimination
+
+Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys. Some of the topical corticosteroids and their metabolites are also excreted into the bile.
+
+## Half Life
+
+6-8 hours
+
+## Toxicity
+
+Side effects include inhibition of bone formation, suppression of calcium absorption and delayed wound healing

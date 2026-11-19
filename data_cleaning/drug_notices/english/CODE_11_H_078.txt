@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_H_078
+DCI: DROSPIRENONE 3 mg + ETHINYLESTRADIOL 20 µg cp (DROSPIRENONE/ETHINYLESTRADIOL VIATRIS)
+DrugBank ID: DB01395
+DrugBank Name: Drospirenone
+Brand Names: DIVA | JASMINE | YASMINE
+Pharmaceutical Forms: Comprimé
+Dosages: 3mg/0.03mg
+Packaging: b/21
+ATC Classification: G - SYSTEME GENITO URINAIRE ET HORMONES SEXUELLES | G03 - HORMONES SEXUELLES ET MODULATEURS DE LA FONCTION GENITALE | G03A - CONTRACEPTIFS HORMONAUX A USAGE SYSTEMIQUE | G03AC - PROGESTATIFS | G03AC10 - DROSPIRENONE
+Registration Numbers: 285/11 H 078/21 | 424/11 H 078/21 | 532/11 H 078/19
+Drug Codes: 11 H 078
+
+------------------------------------------------------------
+
+## Description
+
+Drospirenone is a synthetic progestin commonly found in the popular oral contraceptive, Yaz in combination with Ethinyl estradiol . 19 Most recently, it was approved by both Health Canada and the FDA in combination with Estetrol as an oral contraceptive therapy. 27 , 28 Aside from its contraceptive effects, drospirenone is used with estrogens to control acne and premenstrual dysphoric disorder (PMDD). Drospirenone has been the subject of widespread safety concern due to the possibility of an increased risk of venous thromboembolism associated with its use. 4 , 7 In 2012, however, a safety statement by the FDA concluded that the increase in the risk of thromboembolism resulting from the use of drospirenone remains unclear, as studies regarding this risk are conflicting. Some studies have demonstrated a significantly increased risk and some demonstrating no risk of thromboembolic events. In its statement, the FDA has mentioned that increased risk of venous thromboembolism with oral contraceptives such as drospirenone exists but remains lower than the risk of this condition during pregnancy and during the postpartum period, and this should be considered when assessing potential risks of hormonal contraceptive use. 21
+
+## Pharmacodynamics
+
+Drospirenone inhibits the maturation of follicles and inhibits ovulation, preventing pregnancy. It has antiandrogen effects, improving acne and hirsutism. When combined with ethinyl estradiol, it has been shown to have favorable effects on the plasma lipid profile. 20 Due to its similarity to naturally occurring progesterone, drospirenone is thought to be associated with a lower incidence of progesterone contraceptive related adverse effects, such as breast tenderness and mood swings. 1 A note on venous thromboembolism risk and antimineralcorticoid effects As with other oral contraceptives, the risk of venous thromboembolism and cardiovascular events may be increased when drospirenone is taken. The risk is especially higher in smokers and women aged 35 and older. Women taking this drug should be advised not to smoke. In addition, drospirenone, due to its antimineralcorticoid effects, may increase the risk of hyperkalemia. Patients at high risk for hyperkalemia should not be administered this drug. Consult the official prescribing information for detailed and updated information on the cardiovascular and other risks associated with drospirenone use. 19 , 20 , 23
+
+## Mechanism Of Action
+
+Mineralocorticoid receptor Antagonist Androgen receptor Antagonist Progesterone receptor Agonist
+
+## Absorption
+
+The absolute bioavailability of drospirenone is approximately 76% due to first-pass effects. 13 , 19 The maximum plasma concentration of drospirenone occurs within 1 to 2 hours after oral administration and is estimated to range between 60 and 87 ng/mL. 1 A European prescribing monograph for the combination product of estradiol and drospirenone indicates that drospirenone is both completely and rapidly absorbed. It reports a Cmax of 21.9 ng/ml, achieved approximately 1-hour post-administration. The absolute bioavailability is reported to range between 76 to 85%. 23
+
+## Volume Of Distribution
+
+The volume of distribution of drospirenone is estimated to be 4 L/kg, according to the FDA label for Yaz. 19 Prescribing information from a combination of estradiol and drospirenone estimates the volume of distribution to range from 3.7- 4.2 L/kg. 23
+
+## Metabolism
+
+Drospirenone is heavily metabolized. The two major inactive metabolites identified are the acid form of drospirenone produced by the opening of its lactone ring, known as M11, and the 4,5-dihydro-drospirenone-3-sulfate (M14). 1 , 13 Drospirenone also undergoes oxidative metabolism via the hepatic cytochrome enzyme CYP3A4. 17 , 18 , 23 Hover over products below to view reaction partners Drospirenone 4,5-dihydro-drospirenone-3-sulfate
+
+## Route Of Elimination
+
+Various metabolites of drospirenone are measured in the urine and feces. Drospirenone elimination from the body is almost after 10 days post-administration 1 when negligible amounts of drospirenone are found unchanged in both the urine and feces. 23 Between 38% to 47% of the metabolites are identified as glucuronide and sulfate conjugates in the urine. In the feces, approximately 17% to 20% of identifiable metabolites are found to be excreted as glucuronides and sulfates. 1
+
+## Half Life
+
+The serum half-life of drospirenone is estimated to be 30 hours. 13 The half-life of drospirenone metabolite excretion in the urine and feces is approximately 40 hours. 23
+
+## Clearance
+
+Drospirenone is rapidly cleared, typically within 2-3 days of administration of the last active tablet. 14 The rate of clearance of drospirenone calculated in the serum ranges from 1.2-1.5 ml/min/kg, however, this value can vary by up to 25% according to the patient. 23
+
+## Toxicity
+
+The oral LD50 of drospirenone in rats is >2000 mg/kg. 22 Overdose information
+An overdose of drospirenone, like other oral contraceptives, may lead to cause nausea or withdrawal bleeding. For drospirenone in particular, as an analog of spironolactone, may affect the levels of serum sodium and potassium. Their concentrations should be monitored in cases of overdose in addition to monitoring from metabolic acidosis and hyperkalemia, which may also result. 15 , 19

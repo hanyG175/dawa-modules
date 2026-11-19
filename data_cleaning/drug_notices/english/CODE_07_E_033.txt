@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_E_033
+DCI: Aciclovir
+DrugBank ID: DB00787
+DrugBank Name: Acyclovir
+Brand Names: CLOVIRAX | NOVACLOVIR | VIRAVIR
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.05
+Packaging: t/15g et t/02g | t/2g et t/10g | t/3g et t/5g
+Registration Numbers: 035/07 E 033/98/13 | 079/07 E 033/07/14 | 149/07 E 033/13/19
+Drug Codes: 07 E 033
+
+------------------------------------------------------------
+
+## Description
+
+Acyclovir is a deoxynucleoside analog antiviral used to treat herpes simplex, Varicella zoster , herpes zoster, herpes labialis, and acute herpetic keratitis. 10 , 11 , 12 , 13 , 14 , 15 Acyclovir is generally used first line in the treatment of these viruses and some products are indicated for patients as young as 6 years old. 13 Acyclovir was granted FDA approval on 29 March 1982. 12
+
+## Pharmacodynamics
+
+Acyclovir is a deoxynucleoside analog that inhibits the action of viral DNA polymerase and DNA replication of different herpesvirus. 10 , 11 , 12 , 13 , 14 , 15 Acyclovir has a wide therapeutic window as overdose is rare in otherwise healthy patients. 11
+
+## Mechanism Of Action
+
+DNA polymerase catalytic subunit (HHV-1) Inhibitor DNA polymerase catalytic subunit (HHV-3) Inhibitor
+
+## Absorption
+
+The oral bioavailability of acyclovir is 10-20% but decreases with increasing doses. 11 Acyclovir ointment is <0.02-9.4% absorbed. 12 Acyclovir buccal tablets and ophthalmic ointment are minimally absorbed. 14 , 15 The bioavailability of acyclovir is not affected by food. 11 Acyclovir has a mean T max of 1.1±0.4 hours, mean C max of 593.7-656.5ng/mL, and mean AUC of 2956.6-3102.5h/*ng/mL. 9
+
+## Volume Of Distribution
+
+The volume of distribution of acyclovir is 0.6L/kg. 6
+
+## Metabolism
+
+Acyclovir is <15% oxidized to 9-carboxymethoxymethylguanine by alcohol dehydrogenase and aldehyde dehydrogenase and 1% 8-hydroxylated to 8-hydroxy-acyclovir by aldehyde oxidase. 4 Acyclovir is becomes acyclovir monophosphate due to the action of viral thymidine kinase. 5 Acyclovir monophosphate is converted to the diphosphate form by guanylate kinase. 1 Acyclovir diphosphate is converted to acyclovir triphosphate by nucleoside diphosphate kinase, pyruvate kinase, creatine kinase, phosphoglycerate kinase, succinyl-CoA synthetase, phosphoenolpyruvate carboxykinase and adenylosuccinate synthetase. 1 , 7 Hover over products below to view reaction partners Acyclovir 9-carboxymethoxymethylguanine 8-hydroxy-acyclovir
+
+## Route Of Elimination
+
+The majority of acyclovir is excreted in the urine as unchanged drug. 4 , 14 90-92% of the drug can be excreted unchanged through glomerular filtration and tubular secretion. 5 <2% of the drug is recovered in feces and <0.1% is expired as CO 2 . 8
+
+## Half Life
+
+The clearance of acyclovir varies from 2.5-3 hours depending on the creatinine clearance of the patient. 5 The plasma half life of acyclovir during hemodialysis is approximately 5 hours. 11 The mean half life in patients from 7 months to 7 years old is 2.6 hours. 11
+
+## Clearance
+
+The renal clearance of acyclovir is 248mL/min/1.73m 2 . 8 The total clearance in neonates if 105-122mL/min/1.73m 2 . 8
+
+## Toxicity
+
+Symptoms of overdose include agitation, coma, seizures, lethargy, and precipitation in renal tubules. 11 These symptoms are more common in patients given high doses without monitoring of fluid and electrolyte balance or reduced kidney function. 11 , 4 , 6 In the case of an overdose, treat with symptomatic and supportive care. 13

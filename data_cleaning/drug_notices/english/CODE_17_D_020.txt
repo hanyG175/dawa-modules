@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_020
+DCI: GENTAMICINE (sulfate) 3 000 UI/1 ml + INDOMETACINE 1 mg/1 ml collyre sol récip unidose (INDOBIOTIC Unidose) | Gentamicine | Gentamicine** | Gentamicine** (Sous Forme De Sulfate)
+DrugBank ID: DB00798
+DrugBank Name: Gentamicin
+Brand Names: APIGEN | GENTADAR | GENTALEX | GENTAMYCINE | GENTHERAXINE | GENTOCIL
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 3mg/ml | 3mg/ml (0.3%) | 3mg/ml**
+Packaging: 1 flacon de 5 ml | flacon./10ml | flacon/10 ml | flacon/5 ml | flacon/5ml
+Laboratories: PANPHARMA | ZI DU CLAIRAY | 35133 LUITRE
+ATC Classification: J01GB03 | S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01B - ANTIINFLAMMATOIRES | S01BC - ANTIINFLAMMATOIRES NON STEROIDIENS | S01BC01 - INDOMETACINE
+Registration Numbers: 135/17 D 020/98 | 165/17 D 020/98 | 185/17 D 020/17 | 188/17 D 020/99 | 272/17 D 020/98/09 | 543/17 D 020/21
+Drug Codes: 17 D 020
+
+------------------------------------------------------------
+
+## Description
+
+Gentamicin is a bactericidal aminoglycoside that was discovered and isolated from Micromonospora purpurea in 1963. 7 It is one of the most frequently prescribed aminoglycosides due to its spectrum of activity, low cost, and availability. 5 , 8 Gentamicin is effective against both gram-positive and gram-negative organisms but is particularly useful for the treatment of severe gram-negative infections including those caused by Pseudomonas aeruginosa . 6 , 10 , 11 There is the added benefit of synergy when gentamicin is co-administered with other antibacterials such as beta-lactams. 11 This synergistic activity is not only important for the treatment of complex infections, but can also contribute to dose optimization and reduced adverse effects. 10 , 11 Although gentamicin is well-established and may be used in a variety of clinical applications, it is also associated with severe adverse effects including nephrotoxicity and ototoxicity which may limit its use. 12
+
+## Mechanism Of Action
+
+Small ribosomal subunit protein uS12 (Escherichia coli (strain K12)) Binder 16S ribosomal RNA (Enteric bacteria and other eubacteria) Binder 23S ribosomal RNA (Enteric bacteria and other eubacteria) Inhibitor + 2 more targets
+
+## Metabolism
+
+Gentamicin undergoes little to no metabolism. 24
+
+## Route Of Elimination
+
+Gentamicin is excreted primarily by the kidneys. In patients with normal renal function, 70% or more of an initial gentamicin dose can be recovered in the urine within 24 hours. Excretion of gentamicin is significantly reduced in patients with renal impairment. 24
+
+## Half Life
+
+One study assessing the pharmacokinetics of gentamicin in children and adults reported a mean half-life of 75 minutes after intravenous administration. 2 The mean half-life associated with intramuscular administration was about 29 minutes longer. 2 Fever and anemia may result in a shorter half-life although dose adjustments are not usually necessary. 2 , 24 Severe burns are also associated with a shorter half-life and may result in lower gentamicin serum concentrations. 24
+
+## Clearance
+
+The renal clearance of gentamicin is comparable to individual creatinine clearance. 3 , 24
+
+## Toxicity
+
+As with other aminoglycosides, nephrotoxicity and ototoxicity are associated with gentamicin. 9 Signs of nephrotoxicity include an increase in plasma creatinine and urea, while signs of ototoxicity include issues with balance, nausea, tinnitus, and hearing loss. 5 It is important to note that aminoglycoside-induced nephrotoxicity is typically reversible, while ototoxicity is more likely to be permanent. 9 The risk of both toxicities increases with long-term gentamicin therapy. 1 Gentamicin is considered to be more vestibulotoxic than cochleotoxic compared to other aminoglycosides. 9 , 4 Unfortunately, gentamicin-related ototoxicity does not correlate with cumulative dosing, peak and trough levels, or dosing schedule. 5 The unpredictability of ototoxicity supports close monitoring of the patient throughout treatment. 5 In cases of toxicity or overdose, the medication should be discontinued immediately; hemodialysis may be initiated to lower gentamicin serum concentrations. 24

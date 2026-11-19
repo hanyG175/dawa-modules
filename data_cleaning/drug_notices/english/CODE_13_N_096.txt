@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_N_096
+DCI: Vancomycine** (Sous Forme De Chlorhydrate)
+DrugBank ID: DB00512
+DrugBank Name: Vancomycin
+Brand Names: VANCOLON
+Pharmaceutical Forms: Poudre Sol. Inj. Iv
+Dosages: 500mg
+Packaging: b/1fl. de pdre
+Registration Numbers: 329/13 N 096/08/24
+Drug Codes: 13 N 096
+
+------------------------------------------------------------
+
+## Description
+
+Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear. As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus , including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+
+## Pharmacodynamics
+
+Vancomycin is a branched tricyclic glycosylated nonribosomal peptide often reserved as the "drug of last resort", used only after treatment with other antibiotics has failed. Vancomycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections: Listeria monocytogenes , Streptococcus pyogenes , Streptococcus pneumoniae (including penicillin-resistant strains), Streptococcus agalactiae , Actinomyces species, and Lactobacillus species. The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus, Streptococcus bovis, enterococci, and the viridans group streptococci Label .
+
+## Mechanism Of Action
+
+D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan (Gram-positive Bacteria) Ligand
+
+## Absorption
+
+Poorly absorbed from gastrointestinal tract, however systemic absorption (up to 60%) may occur following intraperitoneal administration Label .
+
+## Volume Of Distribution
+
+The volume of distribution, as discussed in the literature, varies between 0.4-1 L/kg 6 .
+
+## Metabolism
+
+Since almost 75-80% of the drug is excreted unchanged in the urine after the first 24 hours following administration, there is seemingly no apparent metabolism of the drug Label , 8 . The concentration of vancomycin in the liver tissue and bile 24 hours after administration has also been reported at or below detection limits as well 8 .
+
+## Route Of Elimination
+
+In the first 24 hours, about 75-80% of an administered dose of vancomycin is excreted in urine by glomerular filtration Label , 8 .
+
+## Half Life
+
+Half-life in normal renal patients is approximately 6 hours (range 4 to 11 hours). In anephric patients, the average half-life of elimination is 7.5 days Label .
+
+## Clearance
+
+The mean plasma clearance of vancomycin is about 0.058 L/kg/h Label .
+
+## Toxicity
+
+The oral LD 50 in mice is 5000 mg/kg. The median lethal intravenous dose is 319 mg/kg in rats and 400 mg/kg in mice. Label Conversely, the most common adverse effects associated with vancomycin appear to be nausea, abdominal pain, and hypokalemia Label . In particular, incidences of hypokalemia, urinary tracy infection, peripheral edema, insomnia, constipation, anemia, depression, vomiting, and hypotension are higher among subjects >65 years of than in those that are 65 years old or younger Label . Additionally, nephrotoxicity involving reports of renal failure, renal impairment, elevated blood creatinine, and others has also occurred with vancomycin therapy during studies, and can occur during or after completion of a course of therapy Label . Risk of such nephrotoxicity is increased in patients greater than 65 years of age Label . Ototoxicity has also occurred in patients receiving vancomycin treatment, and it can be transient or permanent. This effect has been reported primarily in patients who have been given excessive intravenous doses, who have kidney dysfunction, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent like an aminoglycoside Label . Potentially related adverse effects like vertigo, dizziness, and tinnitus have also been reported Label . Neutropenia, often beginning one week or more after onset of intravenous vancomycin therapy or after a total dose of more than 25 mg has been observed for several dozen patients as well. This neutropenia however, appears to be promptly reversible when the vancomycin treatment is discontinued. Alternatively, thrombocytopenia has also been reported Label . Additionally, a condition has been reported that is described as being similar to IV-induced symptoms involving symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (in what is known as the so-called 'Red Man Syndrome'), pain and muscle spasm of the chest and back. Although on average such reactions usually resolve within 20 minutes, they are just as likely to persist for hours Label , 4 . In a controlled clinical study, the potential ototoxic and nephrotoxic effects of vancomycin on infants were assessed when the drug was given intravenously to pregnant women for serious staphylococcal infections complicating intravenous drug abuse. The results obtained demonstrated that vancomycin was found in cord blood but that no sensorineural hearing loss or nephrotoxicity attributable to vancomycin was noted. Ultimately however, because the number of subjects treated in this study was limited and vancomycin was administered only in the second and third trimesters, it is not formally known whether vancomycin causes fetal harm. Subsequently, vancomycin should be given to a pregnant woman only if clearly needed Label . Although it is known that vancomycin is excreted in human milk based on information obtained from the intravenous administration of the medication, it is not known if vancomycin is excreted into human milk after oral administration. However, because of the overall potential for adverse events, caution must be exercised when vancomycin is given to a nursing woman and a decision must be made whether to discontinue nursing or discontinue the drug, taking into consideration the importance of the drug to the mother Label . The safety and effectiveness in pediatric patients have not been formally established Label . Patients older than 65 years of age may take longer to respond to therapy compared to patients aged 65 year or younger. Vancomycin treatment in patients aged older than 65 years subsequently should not be discontinued or switched to an alternative treatment prematurely Label . Furthermore, clinical studies have demonstrated that geriatric patients are at increased risk of developing nephrotoxicity following treatment with oral vancomycin, which can occur during or after completion of therapy. In patients aged older than 65 years, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with vancomycin to detect any potential vancomycin induced nephrotoxicity Label .

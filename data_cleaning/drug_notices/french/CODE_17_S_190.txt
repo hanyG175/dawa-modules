@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_S_190
+DCI: KETOROLAC TROMETAMOL 0,5 % collyre sol (ACULAR)
+Brand Names: MEDROLGIN
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.5mg/ml
+Packaging: 1fl/05ml
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01B - ANTIINFLAMMATOIRES | S01BC - ANTIINFLAMMATOIRES NON STEROIDIENS | S01BC05 - KETOROLAC
+Registration Numbers: 521/17 S 190/25
+Drug Codes: 17 S 190
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Information du patient : reboucher le flacon après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Inflammation post-opératoire de la cataracte | Posologie standard | Débuter le traitement 24 heures avant l'intervention chirurgicale | 1 à 2 gouttes toutes les 6 à 8 heures | Pendant 21 jours | Conjonctivite allergique | Posologie standard | 1 gte 4 fois par jour
+
+## Precautions
+
+Allaitement | Altération de l'épithélium cornéen | Antécédent d'asthme | Association à un corticoïde | Dénervation cornéenne | Diabète | Enfant de moins de 15 ans | Femme susceptible d'être enceinte | Fragilité cornéenne | Grossesse, 5 premiers mois (de la) | Hyposécrétion lacrymale | Infection | Intervention chirurgicale oculaire | Nouveau-né exposé in utero au médicament | Polyarthrite rhumatoïde | Sujet à risque d'infection | Sujet à risque de kératopathie | Sujet à risque hémorragique | Traitement concomitant par des médicaments perturbant l'hémogramme | Traitement concomitant par un collyre | Traitement prolongé | Traumatisme oculaire
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Kétorolac : Mécanisme d'action | Le kétorolac est un anti-inflammatoire non stéroïdien possédant une activité antalgique. Il agit par inhibition de la synthèse des prostaglandines. L'instillation oculaire du kétorolac réduit le taux des PGE2 de l'humeur aqueuse.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Allongement du temps de saignement | DIVERS: | - Retard de cicatrisation | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Réaction allergique locale | OPHTALMOLOGIE: | - Trouble de la vision (Fréquent) | - Hyperhémie conjonctivale (Fréquent) | - Irritation oculaire (Très fréquent) | - Infection oculaire (Fréquent) | - Vision floue (Fréquent) | - Hémorragie rétinienne (Fréquent) | - Oedème palpébral (Fréquent) | - Epiphora (Peu fréquent) | - Inflammation oculaire (Fréquent) | - Iritis (Fréquent) | - Kératite ponctuée (Fréquent) | - Oedème maculaire cystoïde (Fréquent) | - Traumatisme oculaire (Fréquent) | - Kératite ulcérative (Peu fréquent) | - Hyposécrétion lacrymale (Peu fréquent) | - Hypertension intra-oculaire (Fréquent) | - Oedème oculaire (Fréquent) | - Précipités cornéens (Fréquent) | - Ulcère cornéen (Peu fréquent) | - Kératite superficielle (Fréquent) | - Infiltrat cornéen (Peu fréquent) | - Douleur oculaire (Très fréquent) | - Prurit oculaire (Fréquent) | - Hyperhémie oculaire | - Hémorragie oculaire | - Erosion cornéenne | - Altération de l'épithélium cornéen | - Picotement oculaire | - Oedème cornéen | - Hypertonie oculaire | - Amincissement de la cornée | - Perforation de la cornée | - Sensation de brûlure dans l?oeil | - Kératopathie | - Kératite | - Hypersécrétion lacrymale | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | SYSTÈME RESPIRATOIRE: | - Asthme (aggravation) | - Crise d'asthme | - Bronchospasme

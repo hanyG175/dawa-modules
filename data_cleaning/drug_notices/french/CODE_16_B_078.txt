@@ -1,0 +1,27 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_078
+DCI: Prazepam
+Brand Names: PRAZEPAM GS
+Pharmaceutical Forms: Comprimé
+Dosages: 10MG
+Packaging: B/40
+Laboratories: GROUPE SANTE
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16B078
+Registration Numbers: 235/16 B 078/10/26 | 242/16 B 078/17 | 595/16 B 078/98/24
+Drug Codes: 16 B 078
+
+------------------------------------------------------------
+
+## Indications
+
+PSYCHIATRIE
+
+## Mechanism Of Action
+
+ANXIOLYTIQUES

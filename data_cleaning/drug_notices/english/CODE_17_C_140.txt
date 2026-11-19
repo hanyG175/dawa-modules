@@ -1,0 +1,51 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_C_140
+DCI: Brinzolamide
+DrugBank ID: DB01194
+DrugBank Name: Brinzolamide
+Brand Names: AZOPT | BRITIL
+Pharmaceutical Forms: Collyree En Suspension
+Dosages: 10mg/ml
+Packaging: b/01 flacon 5ml
+Laboratories: ZENTIVA FRANCE | 35 RUE DU VAL DE MARNE | 75013 PARIS
+ATC Classification: S01EC54
+Registration Numbers: 028/17 C 140/05/16 | 521/17 C 140/24
+Drug Codes: 17 C 140
+
+------------------------------------------------------------
+
+## Description
+
+Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase II (CA-II) inhibitor indicated to reduce ocular pressure in patients with ocular hypertension or open-angle glaucoma. 5 Although the exact pathophysiology of glaucoma is still unknown, one of the main hallmarks of this disease is vascular dysregulation and abnormalities. 1 , 2 The resulting vascular resistance increases intraocular pressure, thus impairing ocular perfusion. 1 , 2 Although systemic anti-carbonic anhydrase (CA) therapy has been used for almost 50 years with varying degrees of success, systemic administration results in an increase in incidences of adverse effects. 1 , 2 Brinzolamide was developed as a topical solution to the systemic side effects and dorzolamide , the first-ever approved topical CA inhibitor with contrasting results and evidence. 2 Unlike dorzolamide , brinzolamide has a higher lipophilicity to facilitate diffusion across the blood-retinal barrier. 2 Brinzolamide was approved by the FDA in 1998 as a standalone product and in 2013 as a combination product with brimonidine tartrate. 5 , 6 In Europe, it was also approved as a combination product with timolol in 2008. 7
+
+## Pharmacodynamics
+
+Inhibition of carbonic anhydrase II (CA-II) in the ciliary process of the eye slows the formation of bicarbonate and thus fluid flow, lowering intraocular pressure (IOP). 3 , 4 The IOP-reducing effect of brinzolamide as adjunctive therapy to the prostaglandin analog travoprost was studied. Following a 4-week run-in with travoprost, patients with an IOP ≥19 mmHg were randomized to receive added treatment with brinzolamide or timolol. An additional decrease in mean diurnal IOP of 3.2 to 3.4 mmHg for the brinzolamide group and 3.2 to 4.2 mmHg for the timolol group were observed. There was an overall higher incidence of non-serious ocular adverse reactions, mainly related to signs of local irritation, in the brinzolamide/travoprost groups. The events were mild and did not affect the overall discontinuation rates in the studies. 11 A clinical trial was conducted with brinzolamide in 32 pediatric patients less than 6 years of age, diagnosed with glaucoma or ocular hypertension. Some patients were naive to IOP therapy whilst others were on other IOP-lowering medicinal product(s). Those who had been on previous IOP medicinal products were not required to discontinue their IOP medicinal product(s) until the initiation of monotherapy with brinzolamide. 11 Among patients who were naive to IOP therapy (10 patients), the efficacy of brinzolamide was similar to that seen previously in adults, with mean IOP reductions from baseline ranging up to 5 mmHg. Among patients who were on topical IOP-lowering medicinal products (22 patients), mean IOP increased slightly from baseline in the brinzolamide group. 11
+
+## Mechanism Of Action
+
+Carbonic anhydrase 2 Inhibitor
+
+## Absorption
+
+Brinzolamide is absorbed through the cornea following topical ocular administration. The substance is also absorbed into the systemic circulation where it binds strongly to carbonic anhydrase in red blood cells (RBCs). Plasma concentrations are very low. 10
+
+## Metabolism
+
+Brinzolamide is metabolized by hepatic cytochrome P450 isozymes, specifically CYP3A4, CYP2A6, CYP2B6, CYP2C8 and CYP2C9. The primary metabolite is N-desethylbrinzolamide followed by the N-desmethoxypropyl and O-desmethyl metabolites as well as an N-propionic acid analog formed by oxidation of the N-propyl side chain of O-desmethyl brinzolamide. Brinzolamide and N-desethylbrinzolamide do not inhibit cytochrome P450 isozymes at concentrations at least 100-fold above maximum systemic levels. 10 Brimonidine is extensively metabolized by hepatic aldehyde oxidase with the formation of 2-oxobrimonidine, 3-oxobrimonidine, and 2,3-dioxobrimonidine being the major metabolites. Oxidative cleavage of the imidazoline ring to 5-bromo-6-guanidinoquinoxaline is also observed. 10 Hover over products below to view reaction partners Brinzolamide N-desethylbrinzolamide
+
+## Route Of Elimination
+
+Brinzolamide is eliminated predominantly in the urine as unchanged drug. 8 N-Desethyl brinzolamide is also found in
+the urine along with lower concentrations of the N-desmethoxypropyl and O-desmethyl metabolites. 8
+
+## Half Life
+
+Due to its affinity for CAII, brinzolamide distributes extensively into the red blood cells (RBCs) and exhibits a long half-life in whole blood (approximately 111 days). 8
+
+## Toxicity
+
+Developmental toxicity studies with brinzolamide in rabbits at oral doses of 1, 3, and 6 mg/kg/day (20, 60, and 120 times the recommended human ophthalmic dose) produced maternal toxicity at 6 mg/kg/day and a significant increase in the number of fetal variations, such as accessory skull bones, which was only slightly higher than the historical value at 1 and 6 mg/kg. In rats, statistically, decreased body weights of fetuses from dams receiving oral doses of 18 mg/kg/day (180 times the recommended human ophthalmic dose) during gestation were proportional to the reduced maternal weight gain, with no statistically significant effects on organ or tissue development. Increases in unossified sternebrae, reduced ossification of the skull, and unossified hyoid that occurred at 6 and 18 mg/kg were not statistically significant. No treatment-related malformations were seen. Following oral administration of 14C-brinzolamide 14Cbrinzolamide to pregnant rats, radioactivity was found to cross the placenta and was present in the fetal tissues and blood. 8 Developmental toxicity studies performed in rats with oral doses of 0.66 mg brimonidine base/kg revealed no evidence of harm to the fetus. Dosing at this level resulted in a plasma drug concentration approximately 100 times higher than that seen in humans at the recommended human ophthalmic dose. In animal studies, brimonidine crossed the placenta and entered into fetal circulation to a limited extent. 8 There are no adequate and well-controlled studies in pregnant women. Brinzolamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. 8 Brinzolamide caused urinary bladder tumors in female mice at oral doses of 10 mg/kg/day and in male rats at oral doses of 8 mg/kg/day in 2-year studies. Brinzolamide was not carcinogenic in male mice or female rats dosed orally for up to 2 years. The carcinogenicity appears secondary to kidney and urinary bladder toxicity. These levels of exposure cannot be achieved with topical ophthalmic dosing in humans. 8 The following tests for the mutagenic potential of brinzolamide were negative: (1) in vivo mouse micronucleus assay; (2) in vivo sister chromatid exchange assay; and (3) Ames E. coli test. The in vitro mouse lymphoma forward mutation assay was negative in the absence of activation, but positive in the presence of microsomal activation. In this assay, there was no consistent dose-response relationship to the increased mutation frequency and cytotoxicity likely contributed to the high mutation frequency. Carbonic anhydrase inhibitors, as a class, are not mutagenic and the weight of evidence supports that brinzolamide is consistent with the class. In reproduction studies of brinzolamide in rats, there were no adverse effects on the fertility or reproductive capacity of males or females at doses up to 18 mg/kg/day (180 times the recommended human ophthalmic dose). 8 Brimonidine tartrate was not carcinogenic in either a 21-month mouse or 24-month rat study. In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1 mg/kg/day in rats resulted in plasma drug concentrations 80 and 120 times higher than the human plasma drug level at the recommended clinical dose, respectively. Brimonidine tartrate was not mutagenic or cytogenic in a series of in vitro and in vivo studies including the Ames test, chromosomal aberration assay in Chinese Hamster Ovary (CHO) cells, a host-mediated assay and cytogenic studies in mice, and a dominant lethal assay. In reproductive studies performed in rats with oral doses of 0.66 mg brimonidine base/kg (approximately 100 times the plasma drug concentration level seen in humans following multiple ophthalmic doses), fertility was not impaired. 8

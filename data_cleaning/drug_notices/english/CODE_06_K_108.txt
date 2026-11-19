@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_K_108
+DCI: Diosmine
+DrugBank ID: DB08995
+DrugBank Name: Diosmin
+Brand Names: DIOSMINE UPC
+Pharmaceutical Forms: Comprimé
+Dosages: 300MG
+Packaging: B/30
+Laboratories: UPC (UNION PHARMACEUTIQUE CONSTANTINOISE)
+Countries: ALGERIE
+Prescription List: N/D
+ATC Classification: 06K108
+Registration Numbers: 077/06 K 108/07/16 | 235/06 K 108/09/25 | 571/06 K 108/22
+Drug Codes: 06 K 108
+
+------------------------------------------------------------
+
+## Description
+
+Chronic venous insufficiency is a common condition the western population. Compression and pharmacotherapy are frequently used to manage chronic venous insufficiency, improving circulation and symptoms of venous disease. 6 Diosmin is a bioflavonoid isolated from various plants or synthesized from hesperidin . It is used for the improvement of capillary fragility or venous insufficiency, including chronic venous insufficiency (CVI) and hemorrhoids. Diosmin is widely available over-the-counter and demonstrates a favourable a favorable safety profile. 7 , 16 , 20
+
+## Pharmacodynamics
+
+Diosmin is a venoactive drug supporting circulatory health through various actions on blood vessels; it supports lymphatic drainage and improves microcirculation while increasing venous tone and elasticity. For these reasons, diosmin is frequently taken by individuals with chronic venous disease to support vascular health and has been demonstrated to improve quality of life. 3 , 17 In addition to the above effects, diosmin exerts antioxidant activity and scavenges oxygen free radicals, reducing levels of oxidative stress normally detected through biomarkers such as prostaglandins isoprostane precursors. 1 In one clinical study, mean content of TNF alpha, VEGF-C, VEGF-A IL-6, in addition to FGF2 were decreased by after the therapy with diosmin; findings were statistically significant. Additionally, a decrease in edema and mean leg circumference of patients taking diosmin for three months was observed in a clinical study. 3 Diosmin has been demonstrated to enhance the metabolism of glucose in diabetic disorders. 14
+
+## Mechanism Of Action
+
+Diosmin helps to maintain circulatory system structure and function, particularly vein strength and competence. 17 The molecular mechanism of action of diosmin has not been established. 3 Several resources indicate that diosmin binds to the aryl hydrocarbon receptor, however clinical relevance to vascular function is unknown. 11 , 12 , 13 One study demonstrates that oral diosmin exerts effects on the in vitro metabolism of noradrenaline by varicose veins, potentially benefitting vascular health. 9 Target Actions Organism U Aryl hydrocarbon receptor agonist Humans
+
+## Absorption
+
+Diosmin is rapidly absorbed in the gastrointestinal tract. 2 After a 900 mg single oral dose in a study using liquid chromatography with tandem mass spectrometry (LC-MS/MS) method, Cmax was 4.2±3.8 ng·mL-1 , Tmax was 18.7±9.9 hours, and AUC0~96 was 185.4±166.2 ng·mL-1 in healthy volunteers. 15 Another pharmacokinetic study of 5 adults revealed a Cmax of 417±94.1 ng/dL. 18
+
+## Volume Of Distribution
+
+A pharmacokinetic study of 5 adults revealed a volume of distribution of 62.1±7.9 L. 18
+
+## Metabolism
+
+Degradation products of diosmin such as alkyl-phenolic acids confirm a metabolic pattern similar to that of other flavonoids. 2
+
+## Route Of Elimination
+
+Pharmacokinetic data show absence of urinary elimination for diosmin and its aglycone diosmetin. Minor metabolites are found to be eliminated in the urine as glucuronic acid conjugates. 2
+
+## Half Life
+
+Diosmin half-life ranges from 26 to 43 hours. 2 One study using a liquid chromatography with tandem mass spectrometry (LC-MS/MS) method after a single 900 mg dose of diosmin demonstrated a half-life of 60.2±85.7 hours in healthy volunteers. 15
+
+## Toxicity
+
+The LD50 of diosmin is >3g/kg in animal studies, with an LD50 of great than 3000 mg/kg in rats. 15 No cases of overdose have been reported, however, an overdose is likely to result in gastrointestinal effects such as nausea, dyspepsia, vomiting, and diarrhea. 20

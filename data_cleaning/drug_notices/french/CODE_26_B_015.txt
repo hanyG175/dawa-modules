@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_26_B_015
+DCI: HYDROGENE PEROXYDE 3 % sol cut récip unidose (DOSOXYGENEE Unidose) | Peroxyde D'Hydrogene
+Brand Names: EAU OXYGENEE | EAU OXYGENEE 10V | OXYDERM 10 V RPP
+Pharmaceutical Forms: Sol. Usage Externe
+Dosages: 10 v . flacon de 1000 ml pet | 10 volumes
+Packaging: f/1000 ml | flacon./1l | flacon/100ml
+Laboratories: Cooperation Pharmaceutique Francaise | Place Lucien-Auvert | 77020 Melun Cedex
+ATC Classification: ANTISEPTIQUE | ( D. Dermatologie ) | Solution faiblement antiseptique de la classe des agents oxydants. | Exerce par l'effervescence une action mécanique de nettoyage. | Hémostatique. | Inactivée par les matières organiques (protéines, sang, pus). | D - MEDICAMENTS DERMATOLOGIQUES | D08 - ANTISEPTIQUES ET DESINFECTANTS | D08A - ANTISEPTIQUES ET DESINFECTANTS | D08AX - AUTRES ANTISEPTIQUES ET DESINFECTANTS | D08AX01 - HYDROGENE PEROXYDE
+Registration Numbers: 234/26 B 015/02 | 314/26 B 015/15/22 | 464/26 B 015/10
+Drug Codes: 26 B 015
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | application | Modalités d'administration | Voie cutanée | Ne pas mettre en contact avec les muqueuses | Ne pas utiliser sous pansement occlusif | Posologie | Patient à partir de 1 mois | Patient quel que soit le poids | Antisepsie des plaies - Hémorragie capillaire superficielle | Posologie standard | 1 application 1 à 3 fois par jour
+
+## Mechanism Of Action
+
+Hydrogène peroxyde : Mécanisme d'action | Le peroxyde d'hydrogène est un antiseptique local utilisé au niveau buccal. L'action principale est le résultat du contact du peroxyde d'hydrogène et des peroxydases et catalases présentes dans les tissus et la salive, ce qui permet une libération rapide de l' | oxygène | . Il s'agit d'une action mécanique de nettoyage qui, par l'élimination des débris alimentaires, aide à soulager certaines irritations mineures de la sphère buccale.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Picotement | SYSTÈME RESPIRATOIRE: | - Embolie gazeuse (Cas isolés)

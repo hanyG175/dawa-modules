@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_208
+DCI: Carvedilol
+DrugBank ID: DB01136
+DrugBank Name: Carvedilol
+Brand Names: CARVEDILOL LDM
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 6,25MG
+Packaging: B/30
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: ALGERIE
+Reference Tariff (DA): 698 DA
+PPA (DA): 694.00 DA
+Prescription List: Liste I
+ATC Classification: 06F208
+Registration Numbers: 309/06 F 208/07/22 | 352/06 F 208/10/25 | 380/06 F 208/19
+Drug Codes: 06 F 208
+
+------------------------------------------------------------
+
+## Description
+
+Carvedilol is a racemic mixture where the S(-) enantiomer is both a beta and alpha-1 adrenoceptor blocker, and the R(+) enantiomer is an alpha-1 adrenoceptor blocker. 5 , 6 It is currently used to treat heart failure, left ventricular dysfunction, and hypertension. 5 , 6 The dual action of carvedilol is advantageous in combination therapies as moderate doses of 2 drugs have a decreased incidence of adverse effects compared to high dose monotherapy in the treatment of moderate hypertension. 4 Carvedilol was granted FDA approval on 14 September 1995. 5
+
+## Pharmacodynamics
+
+Carvedilol reduces tachycardia through beta adrenergic antagonism and lowers blood pressure through alpha-1 adrenergic antagonism. 5 , 6 It has a long duration of action as it is generally taken once daily and has a broad therapeutic index as patients generally take 10-80mg daily. 5 , 6 Patients taking carvedilol should not abruptly stop taking this medication as this may exacerbate coronary artery disease. 5 , 6
+
+## Mechanism Of Action
+
+Beta-1 adrenergic receptor Antagonist Beta-2 adrenergic receptor Antagonist Alpha-1B adrenergic receptor Antagonist + 2 more targets
+
+## Absorption
+
+Carvedilol has a bioavailability of 25-35%. 4 , 5 , 6 Carvedilol has a T max of 1 to 2 hours. 4 Taking carvedilol with a meal increases T max without increasing AUC. 4 Carvedilol doses of 50mg lead to a C max of 122-262µg/L and an AUC of 717-1600µg/L*h. 4 Carvedilol doses of 25mg lead to a C max of 24-151µg/L and an AUC of 272-947µg/L*h. 4 Carvedilol doses of 12.5mg lead to a C max of 58-69µg/L and an AUC of 208-225µg/L*h. 4
+
+## Volume Of Distribution
+
+Carvedilol has a volume of distribution of 1.5-2L/kg 4 or 115L. 6
+
+## Metabolism
+
+Carvedilol can be hydroxlated at the 1 position by CYP2D6, CYP1A2, or CYP1A1 to form 1-hydroxypheylcarvedilol; at the 4 position by CYP2D6, CYP2E1, CYP2C9, or CYP3A4 to form 4'-hydroxyphenylcarvedilol; at the 5 position by CYP2D6, CYP2C9, or CYP3A4 to form 5'-hydroxyphenylcarvedilol; and at the 8 position by CYP1A2, CYP3A4, and CYP1A1 to form 8-hydroxycarbazolylcarvedilol. 2 Carvedilol can also be demethylated by CYP2C9, CYP2D6, CYP1A2, or CYP2E1 to form O-desmethylcarvedilol. 2 Carvedilol and its metabolites may undergo further sulfate conjugation or glucuronidation before elimination. 2 Carvedilol can be O-glucuronidated by UGT1A1, UGT2B4, and UGT2B7 to form carvedilol glucuronide. 3 Hover over products below to view reaction partners Carvedilol 8-Hydroxycarbazolylcarvedilol 4'-Hydroxyphenylcarvedilol 5'-Hydroxyphenylcarvedilol O-Desmethylcarvedilol 1-Hydroxyphenylcarvedilol Carvedilol Glucuronide
+
+## Route Of Elimination
+
+16% of carvedilol is excreted in the urine with <2% excreted as unmetabolized drug. 4 Carvedilol is primarily excreted in the bile and feces. 5 , 6
+
+## Half Life
+
+The half life of carvedilol is between 7-10 hours, though significantly shorter half lives have also been reported. 4 , 5 , 6
+
+## Clearance
+
+The plasma clearance of carvedilol has been reported as 0.52L/kg 4 or 500-700mL/min. 5 , 6
+
+## Toxicity
+
+Patients experiencing an overdose may present with hypotension, bradycardia, cardiac insufficiency, cardiogenic shock, and cardiac arrest. 5 , 6 Patients should remain in a supine position and may be given atropine for bradycardia and glucagon followed by sympathomimetics to support cardiovascular function. 5 , 6

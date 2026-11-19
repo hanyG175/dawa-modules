@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_01_A_044
+DCI: Diphenhydramine Chlorhydrate
+DrugBank ID: DB01075
+DrugBank Name: Diphenhydramine
+Brand Names: FENYDRA | HUDU
+Pharmaceutical Forms: Comprimé
+Dosages: 50 mg | 50mg
+Packaging: b/20
+Registration Numbers: 289/01 A 044/21 | 406/01 A 044/08/16
+Drug Codes: 01 A 044
+
+------------------------------------------------------------
+
+## Indications
+
+Diphenhydramine is a first-generation histamine H1 receptor antagonist (H1 antihistamine) that is widely available as a non-prescription, over-the-counter (OTC) medication. As an OTC medication, diphenhydramine is typically formulated as tablets and creams indicated for use in treating sneezing, runny nose, itchy/watery eyes, itching of nose or throat, insomnia, pruritis, urticaria, insect bites/stings, allergic rashes, and nausea 9 , 10 , 11 , 17 , 5 . Additionally, when the use of oral diphenhydramine is impractical, there are also prescription-only formulations such as diphenhydramine injection products that are effective in adults and pediatric patients (other than premature infants and neonates) for:
+i) the amelioration of allergic reactions to blood or plasma, in anaphylaxis as an adjunct to epinephrine and other standard measures after acute allergic reaction symptoms have been controlled, and for other uncomplicated allergic conditions of the immediate type when oral therapy is impossible or contraindicated 16 ;
+ii) the active treatment of motion sickness 16 ;
+
+## Pharmacodynamics
+
+Diphenhydramine has anti-histaminic (H1-receptor), anti-emetic, anti-vertigo and sedative and hypnotic properties 12 . The anti-histamine action occurs by blocking the spasmogenic and congestive effects of histamine by competing with histamine for H1 receptor sites on effector cells, preventing but not reversing responses mediated by histamine alone 12 . Such receptor sites may be found in the gut, uterus, large blood vessels, bronchial muscles, and elsewhere 12 . Anti-emetic action is by inhibition at the medullary chemoreceptor trigger zone 12 . Anti-vertigo action is by a central antimuscarinic effect on the vestibular apparatus and the integrative vomiting center and medullary chemoreceptor trigger zone of the midbrain 12 .
+
+## Mechanism Of Action
+
+Histamine H1 receptor Inverse agonist Muscarinic acetylcholine receptor M2 Antagonist
+
+## Absorption
+
+Diphenhydramine is quickly absorbed after oral administration with maximum activity occurring in approximately one hour 6 , 13 . The oral bioavailability of diphenhydramine has been documented in the range of 40% to 60%, and peak plasma concentration occurs about 2 to 3 hours after administration 6 , 13 .
+
+## Volume Of Distribution
+
+Diphenhydramine is widely distributed throughout the body, including the CNS 18 . Following a 50 mg oral dose of diphenhydramine, the volume of distribution is in the range of 3.3 - 6.8 l/kg 18 .
+
+## Metabolism
+
+Diphenhydramine undergoes rapid and extensive first-pass metabolism 18 , 13 , 8 . In particular, two successive N-demethylations occur wherein diphenhydramine is demethylated to N-desmethyldiphenhydramine (the N-desmethyl metabolite) and then this metabolite is itself demethylated to N,N-didesmethyldiphenhydramine (the N,N-didesmethyl metabolite) 18 , 8 . Subsequently, acetyl metabolites like N-acetyl-N-desmethyldiphenhydramine are generated via the amine moiety of the N,N-didesmethyl metabolite 8 . Additionally, the N,N-didesmethyl metabolite also undergoes some oxidation to generate the diphenylmethoxyacetic acid metabolite as well 18 , 13 , 8 . The remaining percentage of a dose of administered diphenhydramine is excreted unchanged 18 , 13 , 8 . The metabolites are further conjugated with glycine and glutamine and excreted in urine 13 . Moreover, studies have determined that a variety of cytochrome P450 isoenzymes are involved in the N-demethylation that characterizes the primary metabolic pathway of diphenhydramine, including CYP2D6, CYP1A2, CYP2C9, and CYP2C19 7 . In particular, CYP2D6 demonstrates higher affinity catalysis with the diphenhydramine substrate than the other isoenzymes identified 7 . Consequently, inducers or inhibitors of these such CYP enzymes may potentially affect the serum concentration and incidence and/or severity of adverse effects associated with exposure to diphenhydramine 7 . Hover over products below to view reaction partners Diphenhydramine N-Desmethyldiphenhydramine N,N-Didesmethyldiphenhydramine Diphenylmethoxyacetic acid + N-Acetyl-N-desmethyldiphenhydramine Diphenhydramine N-glucuronide
+
+## Route Of Elimination
+
+The metabolites of diphenhydramine are conjugated with glycine and glutamine and excreted in urine 12 , 13 . Only about 1% of a single dose is excreted unchanged in urine 12 , 13 . The medication is ultimately eliminated by the kidneys slowly, mainly as inactive metabolites 12 , 13 .
+
+## Half Life
+
+The elimination half-life ranges from 2.4-9.3 hours in healthy adults 18 , 13 . The terminal elimination half-life is prolonged in liver cirrhosis 13 .
+
+## Clearance
+
+Values for plasma clearance of a 50 mg oral dose of diphenhydramine has been documented as lying in the range of 600-1300 ml/min 18 .
+
+## Toxicity
+
+Overdose is expected to result in effects similar to the adverse effects that are ordinarily associated with the use of diphenhydramine, including drowsiness, hyperpyrexia, and anticholinergic effects, among others 10 , 11 , 12 , 13 , 18 . Additional symptoms during overdose may include mydriasis, fever, flushing, agitation, tremor, dystonic reactions, hallucinations and ECG changes 13 . Large overdose may cause rhabdomyolysis, convulsions, delirium, toxic psychosis, arrhythmias, coma and cardiovascular collapse 13 . Moreover, with higher doses, and particularly in children, symptoms of CNS excitation including hallucinations and convulsions may appear; with massive doses, coma or cardiovascular collapse may follow 18 . Although diphenhydramine has been in widespread use for many years without ill consequence, it is known to cross the placenta and has been detected in breast milk 18 . This medication should therefore only be used when the potential benefit of treatment to the mother exceeds any possible hazards to the developing fetus or suckling infant 18 . Pharmacokinetic studies indicate no major differences in the distribution or elimination of diphenhydramine compared to younger adults 18 . Nevertheless, diphenhydramine should be used with caution in the elderly, who are more likely to experience adverse effects 13 . Avoid use in elderly patients with confusion 13 . The results of a review on the use of diphenhydramine in renal failure suggest that in moderate to severe renal failure, the dose interval should be extended by a period dependent on Glomerular filtration rate (GFR) 18 . After intravenous administration of 0.8 mg/kg diphenhydramine, a prolonged half-life was noted in patients with chronic liver disease which correlated with the severity of the disease 18 . However, the mean plasma clearance and apparent volume of distribution were not significantly affected 18 . LD 50 =500 mg/kg (orally in rats). Considerable overdosage can lead to myocardial infarction (heart attack), serious ventricular dysrhythmias, coma and death.

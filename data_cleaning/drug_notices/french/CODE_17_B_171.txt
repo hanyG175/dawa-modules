@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_B_171
+DCI: KETOTIFENE (fumarate) 0,1 mg/0,4 ml collyre sol récip unidose (MONOKETO Unidose) | Ketotifene Hydrogenofumarate Exprime En Ketotifene
+Brand Names: CITIGEN | OPHTALGON | PARVISTEN | ZALERG
+Pharmaceutical Forms: Collyree En Solution
+Dosages: 0.25mg/ml
+Packaging: boite de 1 flacon de 5ml
+Laboratories: HORUS PHARMA | LABORATOIRES THEA | 12, RUE LOUIS BLERIOT | ZONE INDUSTRIELLE DU BREZET | 63100 CLERMONT-FERRAND
+ATC Classification: S - ORGANES SENSORIELS | S01 - MEDICAMENTS OPHTALMOLOGIQUES | S01G - DECONGESTIONNANTS ET ANTIALLERGIQUES | S01GX - AUTRES ANTIALLERGIQUES | S01GX08 - KETOTIFENE | S01GX08
+Registration Numbers: 022/17 B 171/13/24 | 065/17 B 171/24 | 406/17 B 171/23 | 521/17 B 171/25
+Drug Codes: 17 B 171
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement symptomatique de la conjonctivite allergique saisonnière.
+
+## Posology
+
+Posologie | Unité de prise | gte | Modalités d'administration | Voie ophtalmique | Administrer dans le cul-de-sac conjonctival de l'oeil à traiter | Info du patient : éliminer les 5 premières gouttes avant la première utilisation | Information du patient : reboucher le flacon après utilisation | Information du patient : se laver les mains avant instillation | Information du patient : éviter le contact de l'embout avec l'oeil et les paupières | Posologie | Patient à partir de 3 an(s) | Patient quel que soit le poids | Conjonctivite allergique | Posologie standard | 1 gte 2 fois par jour
+
+## Precautions
+
+Enfant de moins de 3 ans | Grossesse | Traitement concomitant par un collyre
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Kétotifène : Mécanisme d'action | Le kétotifène est un antihistaminique, antagoniste des récepteurs H1 à l' | histamine | . | Les études réalisées | in vivo | chez l'animal et les études réalisées | in vitro | suggèrent des mécanismes d'action additionnels telles la stabilisation de la membrane mastocytaire et l'inhibition de l'infiltration, de l'activation et de la dégranulation des éosinophiles.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eczéma (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Eczéma aggravé | - Dermatite de contact | DIVERS: | - Oedème de la face | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Réaction allergique locale | - Réaction allergique (exacerbation) | - Réaction allergique systémique | OPHTALMOLOGIE: | - Douleur oculaire (Fréquent) | - Irritation oculaire (Fréquent) | - Irritation palpébrale (Peu fréquent) | - Vision floue (Peu fréquent) | - Kératite ponctuée (Fréquent) | - Hyposécrétion lacrymale (Peu fréquent) | - Altération de l'épithélium cornéen (Fréquent) | - Hémorragie conjonctivale (Peu fréquent) | - Photophobie (Peu fréquent) | - Conjonctivite (Peu fréquent) | - Prurit palpébral | - Gonflement oculaire | - Oedème palpébral | ORL, STOMATOLOGIE: | - Sécheresse buccale (Peu fréquent) | - Vertige | SYSTÈME NERVEUX: | - Somnolence (Peu fréquent) | - Céphalée (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Asthme (aggravation)

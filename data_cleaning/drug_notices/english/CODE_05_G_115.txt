@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_115
+DCI: Vinorelbine
+DrugBank ID: DB00361
+DrugBank Name: Vinorelbine
+Brand Names: NAVELBINE
+Pharmaceutical Forms: Gélule
+Dosages: 30mg
+Packaging: b/1
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: L01CA04
+Registration Numbers: 099/05 G 115/06/17
+Drug Codes: 05 G 115
+
+------------------------------------------------------------
+
+## Description
+
+Vinorelbine is an anti-mitotic chemotherapy drug that is used in the treatment of several types of malignancies, including breast cancer and non-small cell lung cancer (NSCLC) 5 . It was initially approved in the USA in 1990's for the treatment of NSCLC 13 . It is a third-generation vinca alkaloid. The introduction of third-generation drugs (vinorelbine, gemcitabine, taxanes) in platinum combination improved survival of patients with advanced NSCLC, with very similar results from the various drugs. Treatment toxicities are considerable in the combination treatment setting 2 . A study was done on the clearance rate of vinorelbine on individuals with various single polymorphonuclear mutations. It was found that there was 4.3-fold variation in vinorelbine clearance across the cohort, suggesting a strong influence of genetics on the clearance of this drug 7 .
+
+## Pharmacodynamics
+
+Vinorelbine is a semi-synthetic vinca-alkaloid with a wide spectrum of anti-tumor activity. The vinca-alkaloids are considered spindle poisons. They work by interfering with the polymerization of tubulin, a protein responsible for building the microtubule system which appears during cell division in proliferating cancer cells 11 .
+
+## Mechanism Of Action
+
+Tubulin beta chain Antagonist Inhibitor
+
+## Absorption
+
+Vinorelbine is rapidly absorbed with peak serum concentration reached within 2 hours 5 . Vinorelbine is highly bound to platelets and lymphocytes and is also bound to alpha 1-acid glycoprotein, albumin, and lipoproteins 4 .
+
+## Volume Of Distribution
+
+The volume of distribution is large, indicating extensive extravascular distribution 4 . The steady-state volume of distribution values range from 25.4 to 40.1 L/kg, according to one study 7 . Widely distributed, with highest amounts found in elimination organs such as liver and kidneys, minimal in heart and brain 7 .
+
+## Metabolism
+
+Vinorelbine undergoes substantial hepatic elimination in humans. Two metabolites of vinorelbine have been identified in human blood, plasma, and urine; vinorelbine N-oxide and deacetylvinorelbine. Deacetylvinorelbine has been demonstrated to be the primary metabolite of vinorelbine in humans, and has been shown to possess antitumor activity similar to vinorelbine 9 , 10 . Vinorelbine is metabolized into two other minor metabolites, 20'-hydroxyvinorelbine and vinorelbine 6'-oxide 10 . Therapeutic doses of vinorelbine (30 mg/m2) yield very small, if any, quantifiable levels of either metabolite in blood or urine. The metabolism of vinorelbine is mediated by hepatic cytochrome P450 isoenzymes in the CYP3A subfamily 8 , 4 . As the liver provides the main route for metabolism of the drug, patients with hepatic impairment may demonstrate increased toxicity with standard dosing, however, there are no available data on this. Likewise, the contribution of cytochrome P450 enzyme action to vinorelbine metabolism has potential implications in patients receiving other drugs metabolized by this route 11 . Hover over products below to view reaction partners Vinorelbine 4-0-deacetyl Vinorelbine
+
+## Route Of Elimination
+
+Vinorelbine undergoes substantial hepatic elimination in humans, with large amounts recovered in feces after intravenous administration to humans 5 . Urinary excretion of unchanged drug accounts for less than 20% of an intravenous dose, with fecal elimination accounting for an additional 30% to 60% 4 . After intravenous administration of radioactive vinorelbine, approximately 18% and 46% of administered radioactivity was recovered in urine and feces, respectively 7 .
+
+## Half Life
+
+The terminal phase half-life averaged 27.7 to 43.6 hours; the mean plasma clearances ranged from 0.97 to 1.26 L/hr/kg 4 .
+
+## Clearance
+
+The plasma clearance of vinorelbine is high, approaching the same as hepatic blood flow in humans, and its volume of distribution is large, indicating extensive extravascular distribution. In comparison to vinblastine or vincristine 4 . The clearance was found to be in the range of 0.29-1./26 L/ per kg in 4 clinical trials of patients receiving 30 mg/m2 of vinorelbine 12 .
+
+## Toxicity
+
+Due to the wide array of adverse effects of this drug, the toxicity of is categorized into organ systems 5 . Hematologic: Granulocytopenia was the primary dose-limiting toxicity with vinorelbine tartrate therapy; it is generally reversible and not cumulative. In one study, granulocytopenia resulted in hospitalizations for fever and/or sepsis in 8% of NSCLC and 9% of breast cancer patients 5 .
+Infectious (septic) deaths occurred in about 1% of patients. Grade 3 or 4 anemia occurred in about 1% of lung cancer and approximately 14% of breast cancer patients. Blood transfusions were administered to 18% of patients who received vinorelbine tartrate therapy. The incidence of Grade 3 and 4 thrombocytopenia was found to be less than 1% 5 . Neurologic: Mild to moderate peripheral neuropathy may occur. Symptoms of paresthesia and hypesthesia are reported as the most commonly reported neurologic toxicities of this drug. The loss of deep tendon reflexes (DTR) occurs in less than 5% of patients, according to one study. The development of severe peripheral neuropathy is rare 5 . Dermatologic: Alopecia has been reported in only about 12% of patients and is usually reported as mild. Vinorelbine tartrate is a moderate vesicant, leading to injection site reactions. Symptoms include erythema, pain at the injection site and vein discoloration occurred in about 1/3 of all patients. Chemical phlebitis along the vein, near the site of injection, has been reported 5 . Respiratory: Shortness of breath was reported in 3% of NSCLC and 9% of breast cancer patients, and was severe in 2% of each patient population. Interstitial pulmonary changes have been documented in a few patients 5 . Gastrointestinal: Mild or moderate nausea symptoms occurred in 32% of NSCLC and 47% of breast cancer patients treated with vinorelbine tartrate. Severe nausea was occurred infrequently (1% and 3% in NSCLC and breast cancer patients, respectively). Prophylactic administration of anti-emetics was not routine in patients treated with single-agent vinorelbine tartrate. Constipation occurred in about 28% of NSCLC and 38% of breast cancer patients. The paralytic ileus incidence of less than 2% of patients. Vomiting, diarrhea, anorexia and stomatitis were found to be mild or moderate and occurred in less than 20% of study patients 5 . Hepatic: Transient elevations of liver enzymes were reported without clinical symptoms. Cardiovascular: Chest pain was reported in 5% of NSCLC and 8% of breast cancer patients. Most reports of chest pain were in patients who had either a history of cardiovascular disease or tumor within the chest. There have been rare reports of myocardial infarction; however, these have not been shown definitely attributable to vinorelbine tartrate 8 . Other: Muscle weakness (asthenia) occurred in about 25% of patients with NSCLC and 41% of patients with breast cancer. It was usually mild or moderate but showed a linear increase with cumulative doses 8 . Several other toxicities reported in approximately 5% of patients include jaw pain, myalgia, arthralgia, headache, dysphagia, and skin rash. Hemorrhagic cystitis (bladder inflammation with blood in urine) and the syndrome of inappropriate ADH secretion were both reported in less than 1% of patients. The treatment of these entities are mainly symptomatic 8 . The carcinogenic potential of Vinorelbine has not been adequately studied. Vinorelbine has been demonstrated to affect chromosome number and likely the chromosome structure in vivo (polyploidy in bone marrow cells from Chinese hamsters and a positive micronucleus test in mice were observed) 8 .

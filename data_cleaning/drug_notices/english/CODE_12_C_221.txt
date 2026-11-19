@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_C_221
+DCI: Acide Tranexamique
+DrugBank ID: DB00302
+DrugBank Name: Tranexamic acid
+Brand Names: ACIDO TRANEXAMICO BIOINDUSTRIA L.I.M | XENAMEX
+Pharmaceutical Forms: Solution
+Dosages: 500mg
+Packaging: boite de 10 flacons de 5ml | boite de 5 ampoules de 5ml
+Laboratories: TILLOMED PHARMA GMBH | MITTELSTRAßE 5 / 5A | 12529, SCHÖNEFELD | ALLEMAGNE
+ATC Classification: B02AA02
+Registration Numbers: 505/12 C 221/23 | 551/12 C 221/23
+Drug Codes: 12 C 221
+
+------------------------------------------------------------
+
+## Description
+
+Tranexamic acid is a synthetic derivative of lysine used as an antifibrinolytic in the treatment and prevention of major bleeding. It possesses a similar mechanism of action to aminocaproic acid but is approximately 10-fold more potent. 6 It was first patented in 1957 2 and received its initial US approval in 1986. 5
+
+## Pharmacodynamics
+
+Tranexamic acid is an antifibrinolytic that competitively inhibits the activation of plasminogen to plasmin. 5 At much higher concentrations it behaves as a noncompetitive inhibitor of plasmin similar to aminocaproic acid , a similar antifibrinolytic which is 10-fold less potent. 6 Tranexamic acid binds more strongly than aminocaproic acid to both the strong and weak receptor sites of the plasminogen molecule in a ratio corresponding to the difference in potency between the compounds. In patients with hereditary angioedema, inhibition of the formation and activity of plasmin by tranexamic acid may prevent attacks of angioedema by decreasing plasmin-induced activation of the first complement protein (C1). 3 Off-target antagonism of GABA(A) receptors may be associated with the development of convulsions and hyperexcitability following tranexamic acid administration 1 - the risk appears higher with improper administration or administration during cardiovascular surgery. 6 Consider EEG monitoring of patients with a history of seizure.
+
+## Mechanism Of Action
+
+Plasminogen Inhibitor
+
+## Absorption
+
+The bioavailability of tranexamic acid after oral administration in humans is approximately 30 to 50% of the ingested dose and is not affected by food intake. 5 The C max and T max following multiple oral doses (1300 mg three times daily x 5 days) were 16.41 mcg/mL and 2.5 h, respectively. 5
+
+## Volume Of Distribution
+
+The initial volume of distribution of tranexamic acid is 0.18 L/kg and its steady-state volume of distribution is 0.39 L/kg. 5 Tranexamic acid distributes into cerebrospinal fluid and the aqueous humor of the eye at concentrations approximately 1/10th of typical plasma concentrations. Tranexamic acid is also able to cross the placenta, found in cord blood at concentrations equivalent to maternal plasma concentrations. 5
+
+## Metabolism
+
+Tranexamic acid metabolism is poorly characterized but does not appear to be a significant means of drug elimination. According to prescribing information, approximately 1% and 0.5% of an orally administered dose are excreted as a dicarboxylic acid and acetylated metabolite, respectively. 5
+
+## Route Of Elimination
+
+Urinary excretion is the primary means of tranexamic acid elimination, with >95% of an administered dose excreted in the urine as unchanged parent drug. 5 The rate of excretion is dependent on the route of administration - approximately 90% of an intravenously administered dose is excreted within 24 hours whereas only 39% of an orally administered dose is excreted within the same time frame. 6
+
+## Half Life
+
+Following intravenous administration, the apparent elimination half-life is approximately 2 hours and the mean terminal half-life is approximately 11 hours. 5
+
+## Clearance
+
+The plasma clearance of tranexamic acid is 110-116 mL/min. 5
+
+## Toxicity
+
+Reported symptoms of tranexamic acid overdose include severe gastrointestinal symptoms, hypotension, thromboembolism, visual impairment, convulsions, mental status changes, and rash. 4 , 5

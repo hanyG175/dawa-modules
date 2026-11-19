@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_A_028
+DCI: Methotrexate
+DrugBank ID: DB00563
+DrugBank Name: Methotrexate
+Brand Names: METHOTREXATE MYLAN
+Pharmaceutical Forms: Sol. Inj.
+Dosages: 25MG/ML (OU 50MG/2ML - 500MG/20ML)
+Packaging: B/10FL DE 2ML ET B/10FL. DE 20ML
+Laboratories: MYLAN
+Countries: FRANCE
+Prescription List: Liste I
+ATC Classification: L01BA01
+Registration Numbers: 534/05 A 028/21 | 610/05 A 028/23
+Drug Codes: 05 A 028
+
+------------------------------------------------------------
+
+## Description
+
+Methotrexate is a folate derivative that inhibits several enzymes responsible for nucleotide synthesis. 1 This inhibition leads to suppression of inflammation as well as prevention of cell division. 1 Because of these effects, methotrexate is often used to treat inflammation caused by arthritis or to control cell division in neoplastic diseases such as breast cancer and non-Hodgkin's lymphoma. 1 , 4 , 5 , 6 , 7 Due to the toxic effects of methotrexate, it is indicated for treatment of some forms of arthritis and severe psoriasis only if first line treatment has failed or patients are intolerant of those treatments. 7 Methotrexate was granted FDA approval on 7 December 1953. 8
+
+## Pharmacodynamics
+
+Methotrexate inhibits enzymes responsible for nucleotide synthesis which prevents cell division and leads to anti-inflammatory actions. 1 It has a long duration of action and is generally given to patients once weekly. 1 , 4 , 5 , 6 Methotrexate has a narrow therapeutic index. 2 Do not take methotrexate daily. 5 , 6
+
+## Mechanism Of Action
+
+Thymidylate synthase Inhibitor Bifunctional purine biosynthesis protein ATIC Inhibitor Dihydrofolate reductase Inhibitor
+
+## Absorption
+
+Methotrexate has a bioavailability of 64-90%, though this decreases at oral doses above 25mg due to saturation of the carrier mediated transport of methotrexate. 1 . Methotrexate has a T max of 1 to 2 hours. 1 oral doses of 10-15µg reach serum levels of 0.01-0.1µM. 1
+
+## Volume Of Distribution
+
+The volume of distribution of methotrexate at steady state is approximately 1L/kg. 1
+
+## Metabolism
+
+Methotrexate is metabolized by folylpolyglutamate synthase to methotrexate polyglutamate in the liver as well as in tissues. 1 , 7 Gamma-glutamyl hydrolase hydrolyzes the glutamyl chains of methotrexate polyglutamates converting them back to methotrexate. 1 , 7 A small amount of methotrexate is also converted to 7-hydroxymethotrexate. 1 , 7 Hover over products below to view reaction partners Methotrexate 7-hydroxymethotrexate
+
+## Route Of Elimination
+
+Methotrexate is >80% excreted as the unchanged drug and approximately 3% as the 7-hydroxylated metabolite. 1 Methotrexate is primarily excreted in the urine with 8.7-26% of an intravenous dose appearing in the bile. 1
+
+## Half Life
+
+The half life of low dose methotrexate is 3 to 10 hours in adults. 4 The half life for high dose methotrexate is 8 to 15 hours. 5 Pediatric patients taking methotrexate for acute lymphoblastic anemia experience a terminal half life of 0.7 to 5.8 hours. 4 Pediatric patients taking methotrexate for juvenile idiopathic arthritis experience a half life of 0.9 to 2.3 hours. 4
+
+## Clearance
+
+Methotrexate clearance varies widely between patients and decreases with increasing doses. 3 Currently, predicting clearance of methotrexate is difficult and exceedingly high serum levels of methotrexate can still occur when all precautions are taken. 3
+
+## Toxicity
+
+The oral LD 50 in rats is 135mg/kg and in mice is 146mg/kg. 9 Symptoms of overdose include hematologic and gastrointestinal reactions like leukopenia, thombocytopenia, anemia, pancytopenia, bone marrow suppression, mucositis, stomatitis, oral ulceration, nausea, vomiting, gastrointestinal ulceration, and gastrointestinal bleeding. 7 In the event of an overdose, patients should be treated with glucarpidase and not be given leucovorin for 2 hours before or after glucarpidase. 7

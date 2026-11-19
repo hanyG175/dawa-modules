@@ -1,0 +1,58 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_C_166
+DCI: PAZOPANIB (chlorhydrate) 200 mg cp (PAZOPANIB ACCORD)
+DrugBank ID: DB06589
+DrugBank Name: Pazopanib
+Brand Names: PAZOPANIB BIOPHARM | PORENZA | VOTRIENT
+Pharmaceutical Forms: Comprimé
+Dosages: 200mg
+Packaging: b/30
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01E - INHIBITEURS DE PROTEINE KINASE | L01EX - AUTRES INHIBITEURS DE PROTEINE KINASE | L01EX03 - PAZOPANIB
+Registration Numbers: 262/05 C 166/14 | 263/05 C 166/25 | 352/05 C 166/25
+Drug Codes: 05 C 166
+
+------------------------------------------------------------
+
+## Description
+
+Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. It is developed by GlaxoSmithKline and was FDA approved on October 19, 2009.
+
+## Pharmacodynamics
+
+Pazopanib is a synthetic indazolylpyrimidine and reaches steady state concentrations of >15 μg/ml. This concentration is high enough to observe maximal inhibition of VEGFR2 phosphorylation and some anti-tumour activity (concentration required to inhibit receptors is 0.01 - 0.084 μmol/L). A reduction in tumour blood flow, increased tumour apoptosis, inhibition of tumour growth, reduction in tumour interstitial fluid pressure, and hypoxia in cancer cells can be observed in patients receiving treatment.
+
+## Mechanism Of Action
+
+Vascular endothelial growth factor receptor 1 Inhibitor Vascular endothelial growth factor receptor 2 Inhibitor Vascular endothelial growth factor receptor 3 Inhibitor + 3 more targets
+
+## Absorption
+
+Absorption of pazopanib in cancer patients is slow and incomplete. In patients with solid tumour, over a dose range of 50-2000 mg, absorption is nonlinear. Significant accumulation of pazopanib can also be observed in patients receiving 800 mg once daily for 22 days. Crushing tablets may increase exposure (increase in Cmax and AUC, while Tmax decreases by 2 hours).
+Bioavailability, oral tablet 800 mg, cancer patient = 21%;
+Bioavailability may be low due to incomplete absorption from the gastrointestinal tract. The major circulating component of the drug in the systemic is pazopanib, and not its metabolites.
+Mean maximum plasma concentration= 58.1 µg/mL;
+Mean AUC= 1037 µg · h/mL;
+
+## Volume Of Distribution
+
+Vd steady state, IV administration 5 mg, cancer patient = 11.1 L (range of 9.15 - 13.4)
+
+## Metabolism
+
+Metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C8. Metabolites are less active than pazopanib (10 to 20-fold less active). Three of its metabolites can be observed in the systemic and account for <10% of plasma radioactivity.
+
+## Route Of Elimination
+
+Primarily excreted via feces (82.2%) and to a negligible extent via urine (<4%) in cancer patients. Most of the administered dose is excreted unchanged. Approximately 10% of dose are oxidative metabolites and are mostly eliminated via the feces.
+
+## Half Life
+
+35 hours. Oral absorption is not the rate limiting step of elimination from the plasma.
+
+## Clearance
+
+CL, cancer patient, IV administration 5 mg = 4mL/min
+Half of the absorbed dose is cleared via oxidative metabolism.

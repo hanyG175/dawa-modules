@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_A_137
+DCI: Bicalutamide
+DrugBank ID: DB01128
+DrugBank Name: Bicalutamide
+Brand Names: BICALUTAMIDE CINFA
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 50MG
+Packaging: B/30
+Laboratories: CINFA
+Countries: ESPAGNE
+Reference Tariff (DA): 0 DA
+PPA (DA): 5350.00 DA
+Prescription List: Liste I
+ATC Classification: 09A137
+Registration Numbers: 157/09 A 137/14 | 263/09 A 137/24 | 285/09 A 137/20 | 323/09 A 137/16 | 352/09 A 137/19 | 569/09 A 137/05/23
+Drug Codes: 09 A 137
+
+------------------------------------------------------------
+
+## Description
+
+Bicalutamide is an oral non-steroidal anti-androgen for prostate cancer. It is comprised of a racemic mixture that is a 50:50 composition of the (R)-bicalutamide and (S)-bicalutamide enantionmers. Bicalutamide binds to the androgen receptor.
+
+## Pharmacodynamics
+
+Bicalutamide is an antineoplastic hormonal agent primarily used in the treatment of prostate cancer. Bicalutamide is a pure, nonsteroidal anti-androgen with affinity for androgen receptors (but not for progestogen, estrogen, or glucocorticoid receptors). Consequently, Bicalutamide blocks the action of androgens of adrenal and testicular origin which stimulate the growth of normal and malignant prostatic tissue. Prostate cancer is mostly androgen-dependent and can be treated with surgical or chemical castration. To date, antiandrogen monotherapy has not consistently been shown to be equivalent to castration.
+
+## Mechanism Of Action
+
+Androgen receptor Antagonist
+
+## Absorption
+
+Bicalutamide is well-absorbed following oral administration, although the absolute bioavailability is unknown.
+
+## Metabolism
+
+Bicalutamide undergoes stereo specific metabolism. The S (inactive) isomer is metabolized primarily by glucuronidation. The R (active) isomer also undergoes glucuronidation but is predominantly oxidized to an inactive metabolite followed by glucuronidation.
+
+## Clearance
+
+Apparent oral cl=0.32 L/h [Normal Males]

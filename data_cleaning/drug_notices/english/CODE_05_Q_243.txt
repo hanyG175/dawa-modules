@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_Q_243
+DCI: Ustekinumab
+DrugBank ID: DB05679
+DrugBank Name: Ustekinumab
+Brand Names: STELARA
+Pharmaceutical Forms: Solution
+Dosages: 45 mg/0.5 ml
+Packaging: boite d'une seringue pre-remplie de 0.5 ml
+Registration Numbers: 095/05 Q 243/24
+Drug Codes: 05 Q 243
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Ustekinumab is a targeted antibody therapy that suppresses immune responses. It acts by reducing the signaling pathways of pro-inflammatory cytokines IL-12 and IL-23, which play a role in various inflammatory conditions. 6 It downregulates the gene expression of inflammatory cytokines and chemokines such as MCP-1, TNF-alpha, IP-10, and IL-8. 8 The formation of cytochrome P-450 enzymes may be altered by elevated levels of certain cytokines during chronic inflammation. 6 Research shows that there is an inverse relationship between plasma levels of inflammatory cytokines and CYP450 enzyme formation and activity. While ustekinumab may potentially normalize the formation of CYP enzymes and enhance the CYP-mediated metabolism of drugs, 5 there were no clinically significant effects on human CYP enzyme activities. 6 The steady-state was achieved by 28 weeks after multiple subcutaneous dose administration in adult patients with psoriasis. 6
+
+## Mechanism Of Action
+
+Interleukin-23 Inhibitor Interleukin-12 subunit beta Inhibitor
+
+## Absorption
+
+The median Tmax following a single subcutaneous dose administration of 45mg and 90mg in adults with psoriasis was 13.5 days and 7 days, respectively. The median Cmax in the same group of patients was 2.4 μg/mL and 5.3 μg/mL at doses of 45mg and 90mg, respectively. The median AUC was 84.9 μg·day/mL and 226.9 μg·day/mL, respectively. 8 Following an intravenous induction dose administration, the mean ± SD Cmax was 125.2 ± 33.6 mcg/mL in patients with Crohn’s disease and 129.1 ± 27.6 mcg/mL in patients with ulcerative colitis. 6 The systemic exposure of ustekinumab (Cmax and AUC) increases in a linear or dose-proportional manner following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis. The estimated absolute bioavailability (F) of ustekinumab following a single subcutaneous dose administration in patients with psoriasis is 57.2%. 8
+
+## Volume Of Distribution
+
+The total volume of distribution at steady-state was 4.62 L in patients with Crohn’s disease and 4.4 L in patients with ulcerative colitis. 6 The median apparent volume of distribution during the terminal phase (Vz/F) ranged from 76 to 161 mL/kg in patients with psoriasis receiving a single subcutaneous dose. 8
+
+## Metabolism
+
+The metabolic pathway of ustekinumab has not been fully characterized; it is expected to undergo nonspecific protein degradation via catabolic pathways in the same manner as endogenous IgG. 6
+
+## Route Of Elimination
+
+There is limited information on the main route of elimination of ustekinumab; it is expected to undergo renal excretion following degradation.
+
+## Half Life
+
+Following administration of a single subcutaneous dose of 45 mg or 90 mg in patients with psoriasis, the median half-life was 19.8 days and 21.2, respectively. 8 The estimated median terminal half-life of approximately 19 days in patients with Crohn’s disease or ulcerative colitis. 6
+
+## Clearance
+
+The median apparent clearance (CL/F) following a single subcutaneous administration to patients with psoriasis ranged from 2.7 to 5.3 mL/day/kg. 8 In patients with Crohn’s disease, the clearance was 0.19 L/day in patients with Crohn’s disease or ulcerative colitis. 6
+
+## Toxicity
+
+Signs of dose-limiting toxicity were not observed with intravenous administration of single doses up to 6 mg/kg in clinical trials. Information on overdose of ustekinumab is limited: in the event of overdose, patients should be monitored for any signs and symptoms of drug-related adverse events and appropriate symptomatic treatment should be initiated. 6

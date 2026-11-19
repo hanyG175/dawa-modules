@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_013
+DCI: CEFAZOLINE (sodique) 1 g pdre p sol inj/p perf (CEFAZOLINE PANPHARMA) | Cefazoline
+DrugBank ID: DB01327
+DrugBank Name: Cefazolin
+Brand Names: CEFAZAL | CEFAZOLINE
+Pharmaceutical Forms: Poudre | Poudre Inj.
+Dosages: 1G | 1g
+Packaging: B/1+1 et B/50FL* | b/01fl. pdre. + 01amp. de solvant. (lidocaine 0.8%) de 05ml
+Laboratories: BIOCHEMIE GmbH
+Countries: AUTRICHE
+Reference Tariff (DA): 181 DA
+PPA (DA): DA
+Prescription List: Liste I
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01D - AUTRES BETALACTAMINES | J01DB - CEPHALOSPORINES DE PREMIERE GENERATION | J01DB04 - CEFAZOLINE | J01DB04
+Registration Numbers: 023/13 B 013/08/16 | 039/13 B 013/07/23 | 178/13 B 013/99/16 | 556/13 B 013/20/25
+Drug Codes: 13 B 013
+
+------------------------------------------------------------
+
+## Description
+
+A semisynthetic cephalosporin analog with broad-spectrum antibiotic action due to inhibition of bacterial cell wall synthesis. It attains high serum levels and is excreted quickly via the urine.
+
+## Pharmacodynamics
+
+Cefazolin (also known as cefazoline or cephazolin) is a semi-synthetic first generation cephalosporin for parenteral administration. Cefazolin has broad-spectrum antibiotic action due to inhibition of bacterial cell wall synthesis. It attains high serum levels and is excreted quickly via the urine.
+
+## Mechanism Of Action
+
+Penicillin-binding protein 1A (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1B (Escherichia coli (strain K12)) Inhibitor Penicillin-binding protein 1C (Escherichia coli (strain K12)) Inhibitor + 2 more targets
+
+## Absorption
+
+Not absorbed from GI tract. Must be administered parenterally. Peak serum concentrations attained 1-2 hours post intramuscular injection.
+
+## Metabolism
+
+Not metabolized.
+
+## Route Of Elimination
+
+Cefazolin is present in very low concentrations in the milk of nursing mothers. Cefazolin is excreted unchanged in the urine. In the first six hours approximately 60% of the drug is excreted in the urine and this increases to 70%-80% within 24 hours.
+
+## Half Life
+
+The serum half-life is approximately 1.8 hours following IV administration and approximately 2.0 hours following IM administration.

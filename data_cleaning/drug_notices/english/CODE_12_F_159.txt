@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_F_159
+DCI: Rivaroxaban
+DrugBank ID: DB06228
+DrugBank Name: Rivaroxaban
+Brand Names: INHIXA | RIVOKSAR | RYVOL | TROMBIX | VAROXA | XARELTO | ZARLAN
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/05 - b/10 - b/30 - b/100 | b/10 - b/30 | b/30 | b/30 b/100
+Registration Numbers: 035/12 F 159/18/26 | 055/12 F 159/24 | 173/12 F 159/23 | 177/12 F 159/23 | 293/12 F 159/20/26 | 424/12 F 159/09/16 | 447/12 F 159/16/22
+Drug Codes: 12 F 159
+
+------------------------------------------------------------
+
+## Description
+
+Rivaroxaban is an anticoagulant and the first orally active direct factor Xa inhibitor. Unlike warfarin, routine lab monitoring of INR is not necessary. However there is no antidote available in the event of a major bleed. Only the 10 mg tablet can be taken without regard to food. The 15 mg and 20 mg tablet should be taken with food. FDA approved on July 1, 2011.
+
+## Pharmacodynamics
+
+Rivaroxaban is an anticoagulant which binds directly to factor Xa. Thereafter, it effectively blocks the amplification of the coagulation cascade, preventing the formation of thrombus. Rivaroxaban is a unqiue anticoagulant for two reasons. First of all, it is does not involve antithrombin III (ATIII) to exert its anticoagulant effects. Secondly, it is an oral agent whereas the widely used unfractionated heparin and low molecular weight heparins are for parenteral use only. Although the activated partial thromboplastin time (aPTT) and HepTest (a test developed to assay low molecular weight heparins) are prolonged in a dose-dependant manner, neither test is recommended for the assessment of the pharmacodynamic effects of rivaroxaban. Anti-Xa activity and inhibition of anti-Xa activity monitoring is also not recommended despite being influenced by rivaroxaban.
+
+## Mechanism Of Action
+
+Coagulation factor X Antagonist
+
+## Absorption
+
+Following oral administration, rivaroxaban is rapidly absorbed and reaches peak plasma concentration in 2-4 hours. Bioavailability of the 10 mg dose is >80%. However, the 15-20 mg dose have a lower bioavailability if taken in the fasted state and consequently should be taken with food.
+
+## Volume Of Distribution
+
+The steady state Vd is 50 L
+
+## Metabolism
+
+Approximately two-thirds of the dose is metabolized. It is metabolized by CYP3A4, CYP3A5, CYP2J2 and CYP-independant mechanisms
+
+## Route Of Elimination
+
+Approximately two-thirds of rivaroxaban is excreted into urine (via active tubular secretion in which approximately 36% as unchanged drug and 30% as inactive metabolism). The remaining third of the administered dose is excreted via feces in which 7% is in the form of unchanged drug and 21% as inactive metabolites.
+
+## Half Life
+
+The terminal half life is 5-9 hours in adults and 11-13 hours in the elderly.
+
+## Clearance
+
+Systemic clearance is approximately 10 L/h, so rivaroxaban is considered a drug with low clearance. Renal clearance is ~3-4 L/h.
+
+## Toxicity
+
+Excessive bleeding. Overdosages should be treated using activated charcoal and supportive measures such as mechanical compression and hemodynamic support. If bleeding is not controlled, the following procoagulants can be administered: activated prothrombin complex concentrate, prothrombin complex concentrate and recombinant factor VIIa. There is also a higher chance of post procedural hemorrhage compared to enoxaparin (1.55% vs. 1.39% respectively).

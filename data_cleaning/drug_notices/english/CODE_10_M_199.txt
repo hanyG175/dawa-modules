@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_M_199
+DCI: Glycerol
+DrugBank ID: DB09462
+DrugBank Name: Glycerin
+Brand Names: GLYCERINE BEBES
+Pharmaceutical Forms: Suppositoireositoire
+Dosages: 0.642g
+Packaging: b/10
+Registration Numbers: 366/10 M 199/15
+Drug Codes: 10 M 199
+
+------------------------------------------------------------
+
+## Description
+
+A trihydroxy sugar alcohol that is an intermediate in carbohydrate and lipid metabolism.
+
+## Pharmacodynamics
+
+Glycerin is commonly classified as an osmotic laxative but may act additionally or alternatively through its local irritant effects; it may also have lubricating and fecal softening actions. Glycerin suppositories usually work within 15 to 30 minutes.
+
+## Mechanism Of Action
+
+Peroxisome proliferator-activated receptor delta Agonist
+
+## Absorption
+
+Well absorbed orally, poorly absorbed rectally. Studies in humans and animals indicate glycerol is rapidly absorbed in the intestine and the stomach
+
+## Volume Of Distribution
+
+Glycerin is distributed throughout the blood. Although glycerin generally does not appear in ocular fluids, it may enter the orbital sac when the eye is inflamed, with a consequent decrease in osmotic effect.
+
+## Metabolism
+
+Glycerin is a substrate for synthesis of triacylglycerols and of phospholipids in the liver and adipose tissue. When fat metabolized as a source of energy, glycerol and fatty acids are released into the bloodstream. Circulating glycerin does not glycate proteins and does not lead to the formation of advanced glycation endproducts (AGEs). In some organisms, the glycerin component can enter the glycolysis pathway directly to provide a substrate for energy or glucose production. Glycerol must be converted to their intermediate glyceraldehyde 3-phosphate before being used in glycolysis or gluconeogenesis. Glycerol metabolism is regulated by the enzymes glycerol kinase, (cytosolic) NAD+-dependent G3P dehydrogenase and (mitochondrial) FAD-linked G3P dehydrogenase.
+
+## Route Of Elimination
+
+Approx 7-14% of dose is excreted unchanged in the urine within 2.5 hr.
+
+## Half Life
+
+30 - 45 minutes
+
+## Toxicity
+
+Glycerol has very low toxicity when ingested ;
+Rat LD50 (oral)-12600mg/kg
+Mice LD50 (oral )-4090mg/kg
+Human TDLo (oral) - 1428mg/kg

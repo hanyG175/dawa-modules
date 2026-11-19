@@ -1,0 +1,59 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_F_176
+DCI: Denosumab
+DrugBank ID: DB06643
+DrugBank Name: Denosumab
+Brand Names: DENO | XGEVA
+Pharmaceutical Forms: Solution
+Dosages: 70mg/ml (120mg/1.7ml)
+Packaging: b/01 flacon. usage unique 1.7ml
+Laboratories: ACCORD HEALTHCARE FRANCE SAS | 45 RUE DU FAUBOURG DE ROUBAIX | 59000 LILLE
+Registration Numbers: 039/05 F 176/25 | 481/05 F 176/15
+Drug Codes: 05 F 176
+
+------------------------------------------------------------
+
+## Description
+
+Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption via inhibiting RANK-mediated activation of osteoclasts. It is the first and currently the only RANKL inhibitor approved to prevent osteoclast-mediated bone loss. 6 Chemically, it consists of 2 heavy and 2 light chains, with each light chain consisting of 215 amino acids and each heavy chain consisting of 448 amino acids with 4 intramolecular disulfides. 5 Denosumab was approved by the FDA approved on June 2010 for the treatment of osteoporosis in postmenopausal women. It further received additional indication approval to increase bone mass in men at high risk for fracture receiving androgen deprivation therapy for non-metastatic prostate cancer and women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer in September 2011 and in men with osteoporosis at high risk for fracture in September 2012. 5 An Denosumab biosimilar, Jubbonti, was approved for Health Canada in February 2024. 9 . Two denosumab biosimilars—Wyost® (denosumab-bbdz) 11 and Jubbonti® (denosumab-bbdz) 10 —were approved by the FDA in March 2024 for all indications of the reference products Xgeva® and Prolia®; Both biosimilars also received marketing authorization in the EU in May 2024. 12 13
+
+## Pharmacodynamics
+
+In clinical studies, treatment with 60 mg of denosumab resulted in a reduction in the bone resorption marker serum type 1 C-telopeptide (CTX) by approximately 85% by 3 days, with maximal reductions occurring by 1 month. CTX levels were below the limit of assay quantitation (0.049 ng/mL) in 39% to 68% of patients 1 to 3 months after dosing of denosumab. At the end of each dosing interval, CTX reductions were partially attenuated from a maximal reduction of ≥ 87% to ≥ 45% (range: 45% to 80%), as serum denosumab levels diminished, reflecting the reversibility of the effects of denosumab on bone remodelling. 7 These effects were sustained with continued treatment. Upon reinitiation, the degree of inhibition of CTX by denosumab was similar to that observed in patients initiating denosumab treatment. Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e., osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of denosumab. After discontinuation of denosumab therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months. 7 In patients with breast cancer and bone metastases, the median reduction in urinary N-terminal telopeptide corrected for creatinine (uNTx/Cr) was 82% within 1 week following initiation of denosumab 120 mg administered subcutaneously. In Studies 20050136, 20050244, and 20050103, the median reduction in uNTx/Cr from baseline to Month 3 was approximately 80% in 2075 denosumab-treated patients. 8 In a phase 3 study of patients with newly diagnosed multiple myeloma who received subcutaneous doses of denosumab 120 mg every 4 weeks (Q4W), median reductions in uNTx/Cr of approximately 75% were observed by week 5. Reductions in bone turnover markers were maintained, with median reductions of 74% to 79% for uNTx/Cr from weeks 9 to 49 of continued 120 mg Q4W dosing. 8
+
+## Mechanism Of Action
+
+Tumor necrosis factor ligand superfamily member 11 Antibody
+
+## Absorption
+
+In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg after fasting (at least for 12 hours), the mean maximum denosumab concentration (C max ) was 6.75 mcg/mL (standard deviation [SD] = 1.89 mcg/mL). The median time to maximum denosumab concentration (T max ) was 10 days (range: 3 to 21 days). The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg⋅day/mL (SD = 101 mcg⋅day/mL. 7 No accumulation or change in denosumab pharmacokinetics with time was observed upon multiple dosing of 60 mg subcutaneously administered once every 6 months. 7 Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years). After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) C max values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels. The median (range) T max values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively. Among the subjects, the highest denosumab concentration in the seminal fluid was 301 ng/mL at 22 days post-dose. On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen. On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (± 36.5) ng/mL across all subjects (n = 12). 7 In patients with newly diagnosed multiple myeloma who received 120 mg every 4 weeks, denosumab concentrations appear to reach a steady state by month 6. In patients with giant cell tumor of bone, after administration of subcutaneous doses of 120 mg once every 4 weeks with additional 120 mg doses on Days 8 and 15 of the first month of therapy, mean (± standard deviation) serum trough concentrations on Day 8, 15, and one month after the first dose were 19.0 (± 24.1), 31.6 (± 27.3), 36.4 (± 20.6) mcg/mL,
+respectively. Steady-state was achieved in 3 months after initiation of treatment with a mean serum trough concentration of 23.4 (± 12.1) mcg/mL. 8
+
+## Volume Of Distribution
+
+The central volume of distribution and volume of distribution at steady-state were calculated to be 2.49 L/66 kg and 3.5-7 L respectively. 3
+
+## Metabolism
+
+No information is available on the metabolism of denosumab.
+
+## Route Of Elimination
+
+As an antibody, denosumab is likely cleared by the reticuloendothelial system with minimal renal filtration and excretion. 4
+
+## Half Life
+
+After C max , serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46). 7
+
+## Clearance
+
+No information is available on the clearance of denosumab.
+
+## Toxicity
+
+Denosumab is contraindicated for use in pregnant women because it may cause harm to a fetus. There are insufficient data with denosumab use in pregnant women to inform any drug-associated risks for adverse developmental outcomes. In utero denosumab exposure from cynomolgus monkeys dosed monthly with denosumab throughout pregnancy at a dose 50-fold higher than the recommended human dose based on body weight resulted in increased fetal loss, stillbirths, and postnatal mortality, and absent lymph nodes,
+abnormal bone growth, and decreased neonatal growth. 7 In clinical trials, hypercalcemia has been reported in pediatric patients with osteogenesis imperfect treated with denosumab products, including Prolia. Some cases required hospitalization and were complicated by acute renal injury. Based on results from animal studies, denosumab may negatively affect long-bone growth and dentition in pediatric patients below the age of 4 years. 7 The carcinogenic and genotoxic potential of denosumab has not been evaluated in long-term animal studies. Denosumab had no effect on female fertility or male reproductive organs in monkeys at doses that were 13- to 50-fold higher than the recommended human dose of 60 mg subcutaneously administered once every 6 months, based on body weight (mg/kg). 7

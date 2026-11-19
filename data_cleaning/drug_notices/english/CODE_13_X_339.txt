@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_X_339
+DCI: Teicoplanine
+DrugBank ID: DB06149
+DrugBank Name: Teicoplanin
+Brand Names: TARGOCID | TARGOPLANIN
+Pharmaceutical Forms: Lyoph. Et Solv. P. Usage Parenteral Im/Iv | Lyoph. P. Usage Parent. Im/Iv/Ip
+Dosages: 200mg/fl. de lyoph | 200mg/fl.de pdre.
+Packaging: b/01fl. de pdre. + 01amp. de 3.2ml de solv. (eppi) | b/1fl. de lyoph.
+Laboratories: HIKMA FARMAC ê UTICA (PORTUGAL), S.A. | ESTRADA DO RIO DA Mó 8, 8A E 8B – FERVENçA | 2705-906 TERRUGEM SNT | PORTUGAL
+ATC Classification: J01XA02
+Registration Numbers: 001/13 X 339/10/25 | 376/13 X 339/09/16
+Drug Codes: 13 X 339
+
+------------------------------------------------------------
+
+## Description
+
+Teicoplanin is a glycopeptide antibiotic consisting of a mixture of several compounds, five major (named teicoplanin A2-1 through A2-5) and four minor (named teicoplanin RS-1 through RS-4). All teicoplanins share a same glycopeptide core, teicoplanin A3-1, but differ in the length and conformation of side chains attached to their β-D-glucosamine moiety.
+
+## Pharmacodynamics
+
+It is a glycopeptide antiobiotic extracted from Actinoplanes teichomyceticus , with a similar spectrum of activity to vancomycin. Its mechanism of action is to inhibit bacterial cell wall synthesis. Oral teicoplanin has been demonstrated to be effective in the treatment of pseudomembranous colitis and Clostridium difficile-associated diarrhoea, with comparable efficacy to vancomycin.
+
+## Mechanism Of Action
+
+D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan (Gram-positive Bacteria) Inhibitor
+
+## Absorption
+
+Teicoplanin is poorly absorbed after oral administration but is 90% bioavailable when administered intramuscularly.
+
+## Metabolism
+
+Two metabolites (metabolites 1 and 2; 2 to 3% of total teicoplanin) have been isolated after intravenous administration of radiolabeled teicoplanin. After purification, their structures were found to be new teicoplanin-like molecules, bearing 8-hydroxydecanoic and 9-hydroxydecanoic acyl moieties. This metabolic transformation is likely due to hydroxylation in the omega-2 and omega-1 positions for metabolites 1 and 2, respectively, of the C-10 linear side chain of component A2-3. This might explain the low extent of metabolism of teicoplanin if we consider that only component A2-3 has a linear chain that is susceptible to such oxidation.
+
+## Half Life
+
+70-100 hours

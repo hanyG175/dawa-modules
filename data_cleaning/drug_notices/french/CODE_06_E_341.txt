@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_341
+DCI: VALSARTAN 160 mg + HYDROCHLOROTHIAZIDE 12,5 mg cp (VALSARTAN/HYDROCHLOROTHIAZIDE ARROW GENERIQUES)
+Brand Names: LOTEVAN PLUS
+Pharmaceutical Forms: Comprimé
+Dosages: 160 mg/5 mg/25 mg
+Packaging: boite de 30
+ATC Classification: C - SYSTEME CARDIOVASCULAIRE | C09 - MEDICAMENTS AGISSANT SUR LE SYSTEME RENINE-ANGIOTENSINE | C09C - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA - INHIBITEURS DES RECEPTEURS DE L'ANGIOTENSINE II NON ASSOCIES | C09CA03 - VALSARTAN
+Registration Numbers: 173/06 E 341/23
+Drug Codes: 06 E 341
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | valsartan : 80 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer indépendamment de la prise des repas | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 18 an(s) | 18 kg = 6 ans | Traitement initial | 40 mg 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse tensionnelle | 40 à 80 mg 1 fois par jour | Posologie maximale: 80 mg par jour | 35 kg = 6 ans | Traitement initial | 80 mg 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse tensionnelle | 80 à 160 mg 1 fois par jour | Posologie maximale: 160 mg par jour | 80 kg = 6 ans | Traitement initial | 80 mg 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse tensionnelle | 80 à 320 mg 1 fois par jour | Posologie maximale: 320 mg par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Hypertension artérielle de l'adulte et de l'enfant >= 6 ans | Traitement initial | 80 mg 1 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la réponse tensionnelle | 80 à 320 mg 1 fois par jour | Posologie maximale: 320 mg par jour | Postinfarctus du myocarde chez l?adulte | Traitement initial | Débuter le traitement dans les 12 heures suivant l'infarctus du myocarde | 20 mg 2 fois par jour | Traitement ultérieur | Posologie à adapter en fonction de la tolérance | Posologie à augmenter progressivement si nécessaire | 40 à 160 mg 2 fois par jour | Posologie maximale: 320 mg par jour | Insuffisance cardiaque chez l'adulte, traitement de 2e intention (de l') | Traitement initial | 40 mg 2 fois par jour | Traitement d'entretien | Posologie à adapter en fonction de la tolérance | Posologie à augmenter par palier à intervalles d'au moins 2 semaines | 80 à 160 mg 2 fois par jour | Posologie maximale: 320 mg par jour | Populations particulières | Insuffisance hépatique : Adapter la posologie
+
+## Precautions
+
+Allaitement | Antécédent d?angioedème | Cardiomyopathie obstructive | Enfant ayant des difficultés de déglutition | Enfant de moins de 6 ans | Hyperaldostéronisme primaire | Hyponatrémie | Hypovolémie | Insuffisance hépatique légère à modérée | Insuffisance rénale sévère : clairance de la créatinine < 30 ml/min | Patient en hémodialyse | Rétrécissement aortique | Rétrécissement mitral | Transplantation rénale
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Valsartan : Mécanisme d'action | Le valsartan, en administration orale, est un antagoniste puissant et spécifique du récepteur de l'angiotensine II. Il inhibe de manière sélective le récepteur AT1, responsable des effets connus de l'angiotensine II. | L'augmentation des concentrations plasmatiques d'angiotensine II secondaire au blocage du récepteur AT1 pourrait stimuler le récepteur AT2 non bloqué, ce qui semble compenser l'effet du récepteur AT1. Aucune activité agoniste partielle sur le récepteur AT1 n'a été mise en évidence pour le valsartan dont l'affinité pour le récepteur AT1 est beaucoup plus forte (environ 20 000 fois) que pour le récepteur AT2. Le valsartan ne se lie à aucun autre récepteur hormonal et ne bloque aucun canal ionique dont l'importance pour la régulation cardiovasculaire soit connue. | L'administration de valsartan à des patients hypertendus diminue la pression artérielle sans toutefois influencer la fréquence cardiaque. | L'association de valsartan et d' | amlodipine | ou d' | hydrochlorothiazide | entraîne une réduction additive de la pression artérielle.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hyperkaliémie (Peu fréquent) | - Créatininémie (augmentation) (Peu fréquent) | - Hémoglobinémie (diminution) | - Hématocrite (diminution) | - Neutropénie | - Test hépatique augmenté | - Urémie (augmentation) | - Hyperbilirubinémie | - Hyponatrémie | DERMATOLOGIE: | - Eruption cutanée | - Prurit | - Dermatose bulleuse | DIVERS: | - Asthénie (Peu fréquent) | - Fatigue (Peu fréquent) | HÉMATOLOGIE: | - Thrombopénie | IMMUNO-ALLERGOLOGIE: | - Angioedème (Peu fréquent) | - Maladie sérique | - Hypersensibilité | NUTRITION, MÉTABOLISME: | - Appétit diminué | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Sensation de vertige (Fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Insuffisance cardiaque (Peu fréquent) | - Syncope (Peu fréquent) | - Sensation vertigineuse orthostatique (Fréquent) | - Hypotension orthostatique (Fréquent) | - Hypotension artérielle (Fréquent) | - Vascularite | SYSTÈME DIGESTIF: | - Nausée (Peu fréquent) | - Diarrhée (Peu fréquent) | - Douleur abdominale (Peu fréquent) | - Angioedème intestinal (Très rare) | - Vomissement | - Trouble digestif | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur musculaire | SYSTÈME NERVEUX: | - Céphalée (Peu fréquent) | SYSTÈME RESPIRATOIRE: | - Toux (Peu fréquent) | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale (Fréquent) | - Insuffisance rénale aiguë (Peu fréquent) | - Trouble rénal (Fréquent)

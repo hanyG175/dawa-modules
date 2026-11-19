@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_044
+DCI: Ibuprofene
+Brand Names: IBUPROFENE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 600MG
+Packaging: B/20
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 157 DA
+PPA (DA): 157.00 DA
+Prescription List: Liste II
+ATC Classification: 04B044
+Registration Numbers: 039/04 B 044/13/24 | 190/04 B 044/03/17 | 235/04 B 044/11/24 | 268/04 B 044/15/25 | 293/04 B 044/12 | 318/04 B 044/19 | 380/04 B 044/16/22 | 392/04 B 044/18 | 400/04 B 044/17 | 418/04 B 044/14 | 447/04 B 044/15/25 | 468/04 B 044/14
+Drug Codes: 04 B 044
+
+------------------------------------------------------------
+
+## Indications
+
+ANTI-INFLAMMATOIRES
+
+## Mechanism Of Action
+
+ANTI-INFLAMMATOIRES NON STEROIDIENS

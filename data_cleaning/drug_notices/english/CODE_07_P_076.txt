@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_P_076
+DCI: Polyvidone Iodee
+DrugBank ID: DB11061
+DrugBank Name: Povidone
+Brand Names: BETADERMINE MOUSSANT 4%
+Pharmaceutical Forms: Solution
+Dosages: 0.04
+Packaging: flacon/125ml et flacon/1000ml
+Registration Numbers: 314/07 P 076/25
+Drug Codes: 07 P 076
+
+------------------------------------------------------------
+
+## Description
+
+Povidone, also known as polyvinylpyrrolidone (PVP) or polyvidone, is a synthetic water-soluble polymer made from the monomer N-vinylpyrrolidone used as a binder in many pharmaceutical tablets and lubricant in eye drops. It is also used in many technical applications with various roles as an adhesive, additive, and emulsifier. When in complex with iodine, Povidone-iodine displays antiseptic properties where the iodine, a bactericidal component, mainly contributes to this effect, and povidone acts as a carrier 1 . Povidone-iodine can be found in over-the-counter topical solutions, ointment, pessaries, liquid soaps and surgical scrubs. The clinical effectiveness of Povidone-iodine on wound healing remains somewhat controversial, as it was demonstrated in a few clinical studies that the application of the compound in wounds was associated with impaired wound healing, reduced wound strength, or infection in open wounds 1 . The FDA withdrew its approval for the use of all intravenous drug products containing povidone. 5 Other formulations of povidone continue to be available.
+
+## Pharmacodynamics
+
+Povidone itself has no microbicidal activity. Povidone-iodine exhibits rapid, potent, broad-spectrum antimicrobial properties 2 . The clinical effectiveness of povidon-iodine on wound healing remains somewhat controversial; in few clinical studies investigating the effects of povidone-iodine on wound healing, topical administration of the complex was associated with no significant infections, but slower healing and mild to moderate discomfort on application 1 .
+
+## Mechanism Of Action
+
+Povidone-iodine is a water-soluble complex that mediates a bactericidal or virucidal action following the gradual liberation of free iodine from the complex at the application site to react with the pathogen 1 . Please refer to the drug entry for Povidone-iodine for the full mechanism of action of the complex.
+
+## Absorption
+
+This pharmacokinetic data does not apply to povidone.
+
+## Volume Of Distribution
+
+This pharmacokinetic data does not apply to povidone.
+
+## Metabolism
+
+This pharmacokinetic data does not apply to povidone.
+
+## Route Of Elimination
+
+This pharmacokinetic data does not apply to povidone.
+
+## Half Life
+
+This pharmacokinetic data does not apply to povidone.
+
+## Clearance
+
+This pharmacokinetic data does not apply to povidone.
+
+## Toxicity
+
+Oral LD50 in mouse, rat, and rabbit are >40 mg/kg, 100 mg/kg, and 1040 mg/kg, respectively MSDS . No cases of overdose in humans have been reported.

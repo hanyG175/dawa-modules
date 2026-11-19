@@ -1,0 +1,19 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_18_C_006
+DCI: PARACETAMOL 500 mg susp buv sach (DOLIPRANELIQUIZ)
+Brand Names: BIOGANIL | GANTANIL | ISOGANIL | TANGANIL PRO
+Pharmaceutical Forms: Comprimé
+Dosages: 500mg
+Packaging: b/30
+Laboratories: OPELLA HEALTHCARE France SAS
+Registration Numbers: 073/18 C 006/24 | 099/18 C 006/98/24 | 378/18 C 006/24 | 418/18 C 006/21
+Drug Codes: 18 C 006
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Mon Aug 25 00:00:00 CEST 2025 | is_edited: False | title: INDICATIONS | text: Traitement symptomatique des douleurs légères à modérées et/ou de la fièvre. | Adulte et enfant à partir de 27 kg (environ 8 ans).

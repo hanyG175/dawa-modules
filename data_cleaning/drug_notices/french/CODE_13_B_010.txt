@@ -1,0 +1,20 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_B_010
+DCI: CEFALEXINE 500 mg cp (KEFORAL) | Cefalexine Monohydratee Exprime En Cefalexine
+Brand Names: ANCEFAL | CEPHADAR 500 | CEPHALEX | KEFALEX | KEFORAL | LEXIN | LEXINAL | MIDAFLEX | RAMOXIN | UNILEXIN
+Pharmaceutical Forms: Comprimé | Comrime Pellicule | Gélule
+Dosages: 500mg | 500mg**
+Packaging: b/10 et b/20 | b/12 | b/20
+Laboratories: LABORATOIRE SCIENCEX | 9, RUE NICOLAS CHARLET | 75015 PARIS | FRANCE | Laboratoire SCIENCEX
+ATC Classification: J01DA01
+Registration Numbers: 001/13 B 010/06/23 | 035/13 B 010/18 | 039/13 B 010/15/24 | 039/13 B 010/17/23 | 055/13 B 010/98/24 | 166/13 B 010/98/17 | 173/13 B 010/98/17 | 174/13 B 010/99/16 | 226/13 B 010/99/17 | 263/13 B 010/97/16 | 380/13 B 010/19
+Drug Codes: 13 B 010
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Elles procèdent de l'activité antibactérienne et des caractéristiques pharmacocinétiques de la céfalexine. Elles tiennent compte à la fois des études cliniques auxquelles a donné lieu le médicament et de sa place dans l'éventail des produits antibactériens actuellement disponibles. | Elles sont limitées aux infections dues aux germes sensibles lorsque ces infections autorisent une antibiothérapie orale et à l'exclusion des localisations méningées, notamment : | les infections ORL : angines documentées à streptocoque A bêta-hémolytique, sinusites, otites ; | les infections respiratoires basses : | surinfections des bronchites aiguës, | exacerbations des bronchites chroniques, | pneumopathies communautaires chez des sujets : sans facteur de risques, sans signe de gravité clinique, en l'absence d'argument faisant craindre une résistance de | Streptococcus pneumoniae | à la pénicilline, en l'absence d'argument évocateur d'une pneumopathie atypique ; | les infections urinaires non compliquées, excepté les prostatites et pyélonéphrites. | Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des antibactériens.

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_05_G_177
+DCI: CABAZITAXEL 60 mg sol diluer/solv p sol p perf (CABAZITAXEL REDDY PHARMA)
+DrugBank ID: DB06772
+DrugBank Name: Cabazitaxel
+Brand Names: BACAZIRED | CABAZITAXEL-SAIDAL | JEVTANA | NEUTAXAN | Z-TEXEL
+Pharmaceutical Forms: Sol. A Diluer Et Solvant P./Sol. P./Perf. Iv
+Dosages: 60 mg/1.5 ml
+Packaging: b/01 flacon. de 1.5ml de sol. a diluer + 01 flacon. de 4.5ml de solvant | b/01 flacon. de 1.5ml de sol. a diluer + 01 flacon. de 4.5ml de solvant (ethanol 96°. eppi) | b/01 flacon. de sol. a diluer + 01 flacon. de de solvant (ethanol 96°+ eau pour injection) | boite de 01 flacon de sol + 01 flacon de solvant | boite de 1 flacon de 1.5ml et un de dil 4.5ml
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L01 - ANTINEOPLASIQUES | L01C - ALCALOÏDES VEGETAUX ET AUTRES MEDICAMENTS D'ORIGINE NATURELLE | L01CD - TAXANES | L01CD04 - CABAZITAXEL
+Registration Numbers: 003/05 G 177/25 | 176/05 G 177/23 | 376/05 G 177/15 | 488/05 G 177/23 | 536/05 G 177/18/23
+Drug Codes: 05 G 177
+
+------------------------------------------------------------
+
+## Description
+
+Cabazitaxel is a taxoid synthesized from 10-deacetylbaccatin III, a compound isolated from the yew tree. 4 As a second-generation semisynthetic microtubule inhibitor, cabazitaxel stabilizes microtubules and induces tumour cell death. 2 Due to its low affinity for the P-glycoprotein (P-gp) efflux pump, cabazitaxel can more readily penetrate the blood–brain barrier compared to other taxanes like paclitaxel and docetaxel . 2 , 3 , 4 Cabazitaxel is used to treat metastatic castration-resistant prostate cancer. It was first approved by the FDA on June 17, 2010. 3 It was also approved by the EMA on March 17, 2011 7 and Health Canada on December 17, 2019. 6
+
+## Pharmacodynamics
+
+Cabazitaxel demonstrates a broad spectrum of antitumour activity against advanced human tumours xenografted in mice, including intracranial human glioblastomas. 6 Cabazitaxel has a low affinity to P-glycoprotein, allowing it to penetrate the blood-brain barrier without being subject to extensive P-gp-mediated active efflux. 3 , 4 Cabazitaxel works against docetaxel-sensitive tumours and tumour models resistant to docetaxel and other chemotherapy drugs. 4 , 6
+
+## Mechanism Of Action
+
+Tubulin beta-1 chain Inhibitor
+
+## Absorption
+
+Based on the population pharmacokinetic analysis, after an intravenous dose of cabazitaxel 25 mg/m 2 every three weeks, the mean C max in patients with metastatic prostate cancer was 226 ng/mL (CV 107%) and was reached at the end of the one-hour infusion (T max ). The mean AUC in patients with metastatic prostate cancer was 991 ng x h/mL (CV 34%). No major deviation from the dose proportionality was observed from 10 to 30 mg/m 2 in patients with advanced solid tumours. 5
+
+## Volume Of Distribution
+
+Steady-state volume of distribution (V ss ) was 4,864 L (2,643 L/m 2 for a patient with a median BSA of 1.84 m 2 ). 5
+
+## Metabolism
+
+More than 95% of cabazitaxel is extensively metabolized in the liver. CYP3A4 and CYP3A5 are responsible for 80% to 90% of drug metabolism, while CYP2C8 is involved to a lesser extent. While cabazitaxel is the main circulating moiety in human plasma, seven metabolites have been detected in plasma, including three active metabolites arising from O-demethylation 5 - docetaxel , RPR112698, and RPR123142. 1 The main metabolite accounts for 5% of total cabazitaxel exposure. 5 Hover over products below to view reaction partners Cabazitaxel Docetaxel RPR112698 RPR123142
+
+## Route Of Elimination
+
+After a one-hour intravenous infusion [ 14 C]-cabazitaxel 25 mg/m 2 , approximately 80% of the administered dose was eliminated within two weeks. Cabazitaxel is mainly excreted in the feces as numerous metabolites (76% of the dose), while renal excretion of cabazitaxel and metabolites account for 3.7% of the dose (2.3% as unchanged drug in urine). Around 20 metabolites of cabazitaxel are excreted into human urine and feces. 5
+
+## Half Life
+
+Following a one-hour intravenous infusion, plasma concentrations of cabazitaxel can be described by a three-compartment pharmacokinetic model with α-, β-, and γ- half-lives of four minutes, two hours, and 95 hours, respectively. 5
+
+## Clearance
+
+Based on the population pharmacokinetic analysis, cabazitaxel has a plasma clearance of 48.5 L/h (CV 39%; 26.4 L/h/m 2 for a patient with a median BSA of 1.84 m 2 ) in patients with metastatic prostate cancer. 5
+
+## Toxicity
+
+The oral LD 50 in rats is 500 mg/kg. 8

@@ -1,0 +1,32 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_G_036
+DCI: Crotamiton
+DrugBank ID: DB00265
+DrugBank Name: Crotamiton
+Brand Names: E-RAX | EURAXYDERME | PRURAX
+Pharmaceutical Forms: Creme Dermique
+Dosages: 0.1
+Packaging: t/40g
+Registration Numbers: 003/07 G 036/10/25 | 088/07 G 036/19 | 622/07 G 036/25
+Drug Codes: 07 G 036
+
+------------------------------------------------------------
+
+## Description
+
+Crotamiton is a scabicidal and antipruritic agent available as a cream or lotion for topical use only. It is a colorless to slightly yellowish oil, having a faint amine-like odor. It is miscible with alcohol and with methanol.
+
+## Pharmacodynamics
+
+Crotamiton is usually used to treat pruritis (itching of the skin) caused by scabies or sunburn. Crotamiton relieves itching by producing what is called a counter-irritation. As crotamiton evaporates from the skin, it produces a cooling effect. This cooling effect helps to divert your body's attention away from the itching. Due to this cooling effect it is also effective for the relief of sunburn. The drug is also believed to kill scabies through an unknown mechanism.
+
+## Mechanism Of Action
+
+Transient receptor potential cation channel subfamily V member 4 Inhibitor
+
+## Absorption
+
+10 % absorbed when applied locally.

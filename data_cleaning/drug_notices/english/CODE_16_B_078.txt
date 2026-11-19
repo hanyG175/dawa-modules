@@ -1,0 +1,45 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_16_B_078
+DCI: Prazepam
+DrugBank ID: DB01588
+DrugBank Name: Prazepam
+Brand Names: PRAZEPAM GS
+Pharmaceutical Forms: Comprimé
+Dosages: 10MG
+Packaging: B/40
+Laboratories: GROUPE SANTE
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+Prescription List: Liste I
+ATC Classification: 16B078
+Registration Numbers: 235/16 B 078/10/26 | 242/16 B 078/17 | 595/16 B 078/98/24
+Drug Codes: 16 B 078
+
+------------------------------------------------------------
+
+## Description
+
+Prazepam is a benzodiazepine that is used in the treatment of anxiety disorders. It is a schedule IV drug in the U.S.
+
+## Pharmacodynamics
+
+Prazepam is a benzodiazepine derivative with anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant activity. Benzodiazepines may be habit-forming (causing mental or physical dependence), especially when taken for a long time or in high doses.
+
+## Mechanism Of Action
+
+GABA(A) Receptor Positive allosteric modulator GABA(A) Receptor Benzodiazepine Binding Site Ligand
+
+## Metabolism
+
+Hepatic.
+
+## Half Life
+
+36-200 hours
+
+## Toxicity
+
+Symptoms of overdose include somnolence, confusion, coma, and diminished reflexes. Respiration, pulse and blood pressure should be monitored.

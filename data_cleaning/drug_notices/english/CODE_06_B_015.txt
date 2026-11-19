@@ -1,0 +1,52 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_B_015
+DCI: Nicardipine Chlorhydrate
+DrugBank ID: DB00622
+DrugBank Name: Nicardipine
+Brand Names: CARDIPEN LP | LOXEN LP | LOXIDIPINE LP | NICARDIPINE BIOCARE LP | PULSAGEN LP
+Pharmaceutical Forms: Gélule | Micro Granules A Liberation Prolonge En Gelule | Microgranule En Gellule Liberation Prolongee | Microgranules A Liberation Prolongee En Gelule
+Dosages: 50mg
+Packaging: b/60
+Registration Numbers: 065/06 B 015/12/22 | 293/06 B 015/10 | 426/06 B 015/13 | 470/06 B 015/13/23 | 541/06 B 015/96/24
+Drug Codes: 06 B 015
+
+------------------------------------------------------------
+
+## Description
+
+A potent calcium channel blockader with marked vasodilator action. It has antihypertensive properties and is effective in the treatment of angina and coronary spasms without showing cardiodepressant effects. It has also been used in the treatment of asthma and enhances the action of specific antineoplastic agents. [PubChem]
+
+## Pharmacodynamics
+
+Nicardipine, a dihydropyridine calcium-channel blocker, is used alone or with an angiotensin-converting enzyme inhibitor, to treat hypertension, chronic stable angina pectoris, and Prinzmetal's variant angina. Nicardipine is similar to other peripheral vasodilators. Nicardipine inhibits the influx of extra cellular calcium across the myocardial and vascular smooth muscle cell membranes possibly by deforming the channel, inhibiting ion-control gating mechanisms, and/or interfering with the release of calcium from the sarcoplasmic reticulum. The decrease in intracellular calcium inhibits the contractile processes of the myocardial smooth muscle cells, causing dilation of the coronary and systemic arteries, increased oxygen delivery to the myocardial tissue, decreased total peripheral resistance, decreased systemic blood pressure, and decreased afterload.
+
+## Mechanism Of Action
+
+Voltage-dependent L-type calcium channel subunit alpha-1C Inhibitor Voltage-dependent L-type calcium channel subunit beta-2 Inhibitor Voltage-dependent calcium channel subunit alpha-2/delta-1 Inhibitor + 1 more target
+
+## Absorption
+
+While nicardipine is completely absorbed, it is subject to saturable first pass metabolism and the systemic bioavailability is about 35% following a 30 mg oral dose at steady state.
+
+## Metabolism
+
+Nicardipine HCl is metabolized extensively by the liver. Hover over products below to view reaction partners Nicardipine De-benzylated nicardipine Dehydronicardipine
+
+## Route Of Elimination
+
+Nicardipine has been shown to be rapidly and extensively metabolized by the liver.
+
+## Half Life
+
+8.6 hours
+
+## Clearance
+
+0.4 L/hr∙kg [Following infusion]
+
+## Toxicity
+
+Oral LD 50 Rat = 184 mg/kg, Oral LD 50 Mouse = 322 mg/kg

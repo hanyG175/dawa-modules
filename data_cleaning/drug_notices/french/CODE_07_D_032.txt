@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_D_032
+DCI: NYSTATINE 100 000 UI/ml susp buv (MYCOSTATINE)
+Brand Names: MYCOTINE
+Pharmaceutical Forms: Pommademade
+Dosages: 100000 UI/g
+Packaging: t/15g
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A07 - ANTIDIARRHEIQUES, ANTIINFLAMMATOIRES ET ANTI-INFECTIEUX INTESTINAUX | A07A - ANTI-INFECTIEUX INTESTINAUX | A07AA - ANTIBIOTIQUES | A07AA02 - NYSTATINE
+Registration Numbers: 003/07 D 032/98/17
+Drug Codes: 07 D 032
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | nystatine : 100000 UI | Modalités d'administration | Voie orale | Administrer au moyen du matériel doseur fourni | Administrer à distance du repas | Information du patient : agiter le flacon avant emploi | Traitement à poursuivre pendant 48 heures après la disparition des symptômes | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient de 1 mois à 30 mois | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Candidose buccale - Candidose oropharyngée | Posologie standard | Badigeonner la zone à traiter pendant quelques secondes | 1 ml 4 à 6 fois par jour | Candidose chez le sujet à risque, traitement préventif (de la) - Candidose cutanée, traitement adjuvant (de la) - Candidose digestive - Stérilisation intestinale d'un foyer à candida | Posologie standard | 1 à 2 ml 4 fois par jour | Patient de 30 mois à 12 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Candidose buccale - Candidose oropharyngée | Posologie standard | Badigeonner la zone à traiter pendant quelques secondes | 1 ml 4 à 6 fois par jour | Candidose chez le sujet à risque, traitement préventif (de la) - Candidose cutanée, traitement adjuvant (de la) - Candidose digestive - Stérilisation intestinale d'un foyer à candida | Posologie standard | 1 à 6 ml 4 fois par jour | Patient à partir de 12 an(s) | Patient quel que soit le poids | Patient de sexe masculin ou féminin | Candidose buccale - Candidose oropharyngée | Posologie standard | Badigeonner la zone à traiter pendant quelques secondes | 1 ml 4 à 6 fois par jour | Candidose chez le sujet à risque, traitement préventif (de la) - Candidose cutanée, traitement adjuvant (de la) - Candidose digestive - Stérilisation intestinale d'un foyer à candida | Posologie standard | 1 à 6 ml 4 fois par jour | Patient de sexe féminin | Candidose vaginale, traitement adjuvant (de la) | Posologie standard | 1 à 6 ml 4 fois par jour
+
+## Precautions
+
+Allaitement | Grossesse | Mycose systémique | Nouveau-né de moins de 1 mois
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Nystatine : Mécanisme d'action | La nystatine est un antibiotique antifongique de contact de la famille des polyènes, extrait de culture de | Streptomyces noursei | . Active | in vitro | sur une large variété de champignons levuriformes et filamenteux, son action | in vivo | s'exerce essentiellement sur le genre candida et geotrichum. | Son activité est essentiellement locale (de contact).
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire | - Syndrome de Stevens-Johnson | - Eruption cutanée | - Pustulose exanthémateuse aiguë généralisée | DIVERS: | - Irritation locale | - Oedème de la face | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité | - Oedème de Quincke | SYSTÈME DIGESTIF: | - Gêne gastro-intestinale (Peu fréquent) | - Diarrhée (Peu fréquent) | - Vomissement | - Nausée

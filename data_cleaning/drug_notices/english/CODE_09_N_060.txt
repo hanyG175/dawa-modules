@@ -1,0 +1,44 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_N_060
+DCI: Dydrogesterone Micronisee
+DrugBank ID: DB00378
+DrugBank Name: Dydrogesterone
+Brand Names: DYDROGYN
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/10
+Registration Numbers: 285/09 N 060/25
+Drug Codes: 09 N 060
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic progestational hormone with no androgenic or estrogenic properties. Unlike many other progestational compounds, dydrogesterone produces no increase in temperature and does not inhibit ovulation.
+
+## Pharmacodynamics
+
+Dydrogesterone is an orally active progestogen which acts directly on the uterus, producing a complete secretory endometrium in an estrogen-primed uterus. At therapeutic levels, dydrogesterone has no contraceptive effect as it does not inhibit or interfere with ovulation or the corpus luteum. Furthermore, dydrogesterone is non-androgenic, non-estrogenic, non-corticoid, non-anabolic and is not excreted as pregnanediol. Dydrogesterone helps to regulate the healthy growth and normal shedding of the uterus lining. Therefore, it may be useful in the treatment of menstrual disorders such as absent, irregular or painful menstrual periods, infertility, premenstrual syndrome and endometriosis.
+
+## Mechanism Of Action
+
+Progesterone receptor Agonist
+
+## Absorption
+
+Rapidly absorbed in the gastrointestinal tract with a bioavailability of 28%.
+
+## Metabolism
+
+Metabolism is complete to a 20-dihydrodydrogesterone (DHD) metabolite. Hover over products below to view reaction partners Dydrogesterone 20-dihydrodydrogesterone
+
+## Half Life
+
+Dydrogesterone: 5-7 hours, 20-dihydrodydrogesterone (DHD) metabolite: 14-17 hours
+
+## Toxicity
+
+No serious or unexpected toxicity has been observed with dydrogesterone. In acute toxicity studies, the LD50 doses in rats exceeded 4,640mg/kg for the oral route.

@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_104
+DCI: FLUTICASONE PROPIONATE 100 µg/dose + SALMETEROL (xinafoate) 50 µg/dose pdre p inhal en récip unidose (PROPIONATE DE FLUTICASONE/SALMETEROL ARROW AIRMASTER Unidose)
+DrugBank ID: DB00588
+DrugBank Name: Fluticasone propionate
+Brand Names: SERETIDE DISKUS
+Pharmaceutical Forms: Poudre P. Inhal.
+Dosages: 100mcg/50mcg/dose
+Packaging: f/60doses
+ATC Classification: R - SYSTEME RESPIRATOIRE | R01 - PREPARATIONS POUR LE NEZ | R01A - DECONGESTIONNANTS ET AUTRES PREPARATIONS A USAGE TOPIQUE | R01AD - CORTICOIDES | R01AD12 - FLUTICASONE FUROATE
+Registration Numbers: 112/20 A 104/03
+Drug Codes: 20 A 104
+
+------------------------------------------------------------
+
+## Description
+
+Fluticasone propionate is a synthetic glucocorticoid 9 , 10 Label . These drugs are available as inhalers, nasal, sprays, and topical treatments for various inflammatory indications 9 , 10 Label . Fluticasone propionate was first approved in 1990 7 .
+
+## Pharmacodynamics
+
+Systemically, fluticasone propionate activates glucocorticoid receptors, and inhibits lung eosinophilia in rats 10 Label . Fluticasone propionate as a topical formulation is also associated with vasoconstriction in the skin 9 , 3 .
+
+## Mechanism Of Action
+
+Glucocorticoid receptor Agonist
+
+## Absorption
+
+Intranasal bioavailability of fluticasone propionate is <2%, and oral bioavailability is <1% 10 Label . Intranasal exposure results in the majority of the dose being swallowed 3 . Topical absorption of fluticasone propionate is very low but can change depending on a number of factors including integrity of the skin and the presence of inflammation or disease 9 . A study of 24 healthy Caucasian males showed an inhaled bioavailability of 9.0% 1 .
+
+## Volume Of Distribution
+
+The volume of distribution of intravenous fluticasone propionate is 4.2L/kg 10 Label . A study of 24 healthy Caucasian males showed a volume of distribution at steady state of 577L following intravenous administration 1 .
+
+## Metabolism
+
+Fluticasone propionate is cleared from hepatic metabolism by cytochrome P450 3A4 10 , 4 Label . Fluticasone propionate is hydrolysed at the FIVE-S-fluoromethyl carbothioate group, forming an inactive metabolite 9 , 3 Label . Hover over products below to view reaction partners Fluticasone propionate fluticasone 17beta-carboxylic acid
+
+## Route Of Elimination
+
+Fluticasone propionate is mainly eliminated in the feces with <5% eliminated in the urine 10 , 5 Label .
+
+## Half Life
+
+7.8 hours for intravenous fluticasone propionate 10 Label . A study of 24 healthy Caucasian males shows a half life of 14.0 hours following intravenous administration and 10.8 hours following inhalation 1 .
+
+## Clearance
+
+1093mL/min for fluticasone propionate 10 . A study of 24 healthy Caucasian males showed a clearance of 63.9L/h following intravenous administration 1 .
+
+## Toxicity
+
+Fluticasone propionate's use in specific populations has not been well studied 10 . Fluticasone propionate is not carcinogenic, mutagenic, or clastogenic, nor did it affect fertility in animal studies 10 Label . Subcutaneous fluticasone propionate has been shown to produce teratogenic effects in rats though oral administration does not 9 Label . Generally, there are no reported adverse effects with fluticasone in pregnancy 6 . Fluticasone propionate in human milk may cause growth suppression, effects on endogenous corticosteroid production, or other effects 9 , 2 . Pediatric patients treated with fluticasone propionate ointment experienced adrenal suppression 9 . Geriatric patients treated with fluticasone propionate did not show any difference in safety or efficacy compared to other patient groups, though older patients may be more sensitive to adverse effects 9 . There is no difference in the clearance of fluticasone propionate across genders or race Label . Patients with hepatic impairment should be closely monitored due to the elimination mechanism Label 5 .

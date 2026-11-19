@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_07_V_187
+DCI: aprémilast
+Brand Names: PSORIASIX
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/12
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AA - IMMUNOSUPPRESSEURS SELECTIFS | L04AA32 - APREMILAST
+Registration Numbers: 447/07 V 187/21
+Drug Codes: 07 V 187
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | aprémilast : 30 mg | Modalités d'administration | Voie orale | Administrer entier | Administrer indépendamment de la prise des repas | En cas d'oubli : prendre la dose dès que possible mais ne pas doubler la dose | Traitement à réévaluer régulièrement | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 6 an(s) à 18 an(s) | 20 kg = 6 ans | Traitement phase 1 | Administrer le matin | 10 mg en 1 prise par jour | Pendant 1 jour | Traitement phase 2 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 20 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 3 | Administrer la plus forte dose le soir | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 30 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 4 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 40 mg en 2 prises par jour | Pendant 2 jours | Traitement ultérieur | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 20 mg 2 fois par jour | Poids >= 50 kg | Psoriasis en plaques modéré à sévère chez l?enfant >= 6 ans | Traitement phase 1 | Administrer le matin | 10 mg en 1 prise par jour | Pendant 1 jour | Traitement phase 2 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 20 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 3 | Administrer la plus forte dose le soir | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 30 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 4 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 40 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 5 | Administrer la plus forte dose le soir | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 50 mg en 2 prises par jour | Pendant 1 jour | Traitement ultérieur | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 30 mg 2 fois par jour | Patient à partir de 18 an(s) | Patient quel que soit le poids | Maladie de Behçet, ulcères buccaux (de la) - Psoriasis en plaques modéré à sévère de l'adulte, traitement de 2e intention (du) - Rhumatisme psoriasique, traitement de fond associé de 2e intention (du) - Rhumatisme psoriasique, traitement de fond de deuxième intention (du) | Traitement phase 1 | Administrer le matin | 10 mg en 1 prise par jour | Pendant 1 jour | Traitement phase 2 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 20 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 3 | Administrer la plus forte dose le soir | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 30 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 4 | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 40 mg en 2 prises par jour | Pendant 1 jour | Traitement phase 5 | Administrer la plus forte dose le soir | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 50 mg en 2 prises par jour | Pendant 1 jour | Traitement ultérieur | Administrer matin et soir | Respecter un intervalle de 12 heures entre 2 prises | 30 mg 2 fois par jour | Populations particulières | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Antécédent de maladie psychiatrique | Femme susceptible d'être enceinte | Insuffisance rénale sévère | Maladie psychiatrique | Sujet âgé | Sujet à risque de maladie psychiatrique | Sujet de faible poids
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | X | II | X | Contre-indication absolue | II | Précaution
+
+## Mechanism Of Action
+
+Aprémilast : Mécanisme d'action | L'aprémilast est une petite molécule prise par voie orale, inhibiteur de la phosphodiestérase 4 (PDE4), qui agit au niveau intracellulaire pour moduler un réseau de médiateurs pro-inflammatoires et anti-inflammatoires. La PDE4 est une phosphodiestérase spécifique de l' | adénosine | monophosphate cyclique (AMPc) qui est la PDE prédominante dans les cellules inflammatoires. L'inhibition de la PDE4 augmente les taux intracellulaires d'AMPc, ce qui à son tour diminue la réponse inflammatoire en modulant l'expression du TNF-α, de l'IL-23, de l'IL-17 et d'autres cytokines inflammatoires. L'AMP cyclique module également les taux de cytokines anti-inflammatoires telles que l'IL-10. Ces médiateurs pro-inflammatoires et anti-inflammatoires ont été impliqués dans le rhumatisme psoriasique et le psoriasis.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Eruption cutanée (Peu fréquent) | DIVERS: | - Fatigue (Fréquent) | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Peu fréquent) | - Angioedème | NUTRITION, MÉTABOLISME: | - Poids (diminution) (Peu fréquent) | - Appétit diminué (Fréquent) | ORL, STOMATOLOGIE: | - Rhinopharyngite (Fréquent) | PSYCHIATRIE: | - Idée suicidaire (Peu fréquent) | - Dépression (Fréquent) | - Anxiété (Peu fréquent) | - Insomnie (Fréquent) | - Humeur changeante (Peu fréquent) | - Comportement suicidaire (Peu fréquent) | SYSTÈME DIGESTIF: | - Nausée (Très fréquent) | - Selles fréquentes (Fréquent) | - Diarrhée (Très fréquent) | - Reflux gastro-oesophagien (Fréquent) | - Hémorragie gastro-intestinale (Peu fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Douleur abdominale haute (Fréquent) | SYSTÈME MUSCULO-SQUELETTIQUE: | - Dorsalgie (Fréquent) | SYSTÈME NERVEUX: | - Céphalée (Très fréquent) | - Céphalée de tension (Fréquent) | - Migraine (Fréquent) | SYSTÈME RESPIRATOIRE: | - Bronchite (Fréquent) | - Toux (Fréquent) | - Infection des voies respiratoires supérieures (Très fréquent)

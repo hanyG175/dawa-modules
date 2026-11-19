@@ -1,0 +1,61 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_10_L_062
+DCI: Lactulose
+DrugBank ID: DB00581
+DrugBank Name: Lactulose
+Brand Names: LACTULOSE AGD | LACTULOSE MYLAN
+Pharmaceutical Forms: Sol. Buv. | Sol. Buv. Sachetet
+Dosages: 10G/15ML | 66,7%
+Packaging: B/20SACHETS DE 15ML | FL/200ML+GODET GRADUE EN ML
+Laboratories: AGD PHARMA | MYLAN
+Countries: ALGERIE | FRANCE
+Reference Tariff (DA): 172 DA
+Prescription List: N/D
+ATC Classification: A06AD11
+Registration Numbers: 065/10 L 062/19 | 073/10 L 062/01/23 | 317/10 L 062/05/25 | 320/10 L 062/06/12 | 352/10 L 062/99/24 | 400/10 L 062/21 | 528/10 L 062/17
+Drug Codes: 10 L 062
+
+------------------------------------------------------------
+
+## Description
+
+Lactulose is a synthetic disaccharide derivative of lactose that is most commonly used as a laxative agent despite also being formally indicated to serve as an adjunct therapy in treating portal-systemic encephalopathy (PSE). Label , 3 , 4 Despite being first synthesized in 1929 1 , investigations regarding its possible use as a laxative for the treatment of chronic constipation did not occur until the 1960s and its first clinical use for treating PSE was not until 1966. 4 Nevertheless, although lactulose received formal FDA approval in 1977 and has since become a readily available generic and brand-name non-prescription medication listed on the World Health Organization's List of Essential Medicines as one of the most effective and safe medicines employed in a health system 5 , data regarding its optimal place in therapy is often ambiguous. 4 Especially considering the use of lactulose as a laxative is typically only considered after lifestyle and dietary modifications fail and the fact that lactulose therapy cannot be ethically withheld from patients diagnosed with PSE in a placebo study, the substance may just be one of many options available for treating constipation and its efficacy in managing PSE may never be formally confirmed or refuted via clinical investigation. 4
+
+## Pharmacodynamics
+
+Lactulose formulations are most commonly administered via the oral route or the rectal route. 4 Consequently, because the substance experiences minimal absorption by the gut it typically remains localized in the gastrointestinal tract environment and ultimately demonstrates almost all of its pharmacologic effects within the gut. Label , 3 , 4 In particular, as lactulose elicits its laxative effects in enhancing stool amounts and softening stool, such biochemical and physiologic activities can cause increased bowel sounds (borborygmi), a feeling of bloatedness, belching, frequent flatus, and diarrhea. Label , 3 , 4
+
+## Mechanism Of Action
+
+Evolved beta-galactosidase subunit alpha (Escherichia coli (strain K12)) Other
+
+## Absorption
+
+After administration by the oral route, less than 3% of the given dose of lactulose solution is absorbed by the small intestine. 3 The remaining unabsorbed lactulose reaches the large intestine where it is metabolized - but even then, negligible quantities of unchanged lactulose or its metabolites are absorbed across the colon. 3 , 4
+
+## Volume Of Distribution
+
+Negligible amounts of lactulose - metabolized or non-metabolized - are absorbed into the body. Label , 3 , 4 . Most lactulose that is administered subsequently remains predominantly around the gastrointestinal tract area.
+
+## Metabolism
+
+Lactulose is essentially only metabolized in the colon by saccharolytic bacteria that are present there. Label , 3 , 4 In particular, the substance is broken down into lactic acid and small amounts of acetic and formic acid. Label , 3 , 4 Specific examples of bacteria that normally inhabit the large intestine that are capable of lactulose metabolism include Lactobacilli, Bacteroides, Escherichia coli, and Clostridia. 3 Hover over products below to view reaction partners Lactulose Acetic acid + Formic acid + Lactic acid
+
+## Route Of Elimination
+
+The renal excretion of any lactulose that manages to be absorbed into the circulation has been determined to be 3% or less and is generally complete within 24 hours. Label Any unabsorbed lactulose is largely excreted with stool. Label , 3 , 4
+
+## Half Life
+
+The data regarding the half-life of lactulose is not readily available or accessible.
+
+## Clearance
+
+Negligible amounts of lactulose - metabolized or non-metabolized - are absorbed into the body. Label , 3 , 4 . Regardless, data regarding the clearance of lactulose is not readily available or accessible.
+
+## Toxicity
+
+It has been documented that the oral LD50 of lactulose is 48.8 mL/kg in mice and more than 30 mL/ kg in rats. Label , 3 , 4 It is expected that overdosage with lactulose would result in abdominal cramps and diarrhea, both of which should be treated with fluid and electrolyte replacement as required. Label , 3 , 4 Considering the use of lactulose during pregnancy in humans has not been formally investigated, the agent should only be used during pregnancy only when clearly needed. Label , 3 , 4 Similarly, it is unknown whether lactulose is distributed into human breastmilk. Label , 3 , 4 Use of the medication in nursing women should subsequently be undertaken with caution. Label , 3 , 4 Reproduction studies in rats, mice, and rabbits have not revealed any evidence of impaired fertility as a result of administering lactulose. Label , 3 , 4 Data regarding the safety and efficacy of using lactulose in children for the treatment of chronic constipation or portal-systemic encephalopathy (PSE) is either very limited or yet to be established. Label , 3 , 4 Information regarding the long-term mutagenic potential of lactulose solution in animals or humans and about the long-term carcinogenic potential in humans are not available. Label , 3 , 4

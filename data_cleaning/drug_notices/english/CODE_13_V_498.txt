@@ -1,0 +1,24 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_V_498
+DCI: Immunoglobuline Humaine De L'Hepetite B
+DrugBank ID: DB05276
+DrugBank Name: Hepatitis B immune globulin
+Brand Names: FOVEPTA 200UI-UI
+Pharmaceutical Forms: Solution
+Dosages: 500ui/ml
+Packaging: b/01 seringue pre-remplie de 0.4ml (200ui/0.4ml)
+Registration Numbers: 370/13 V 498/19
+Drug Codes: 13 V 498
+
+------------------------------------------------------------
+
+## Description
+
+Long-term hepatitis B immune globulin (HBIG) has been shown to reduce hepatitis B virus (HBV) reinfection in patients transplanted for hepatitis B. Infection with hepatitis B may lead to hepatocellular carcinoma, a type of liver cancer. Therefore, the hepatitis-B vaccines are cancer-preventing vaccines. According to the Centers for Disease Control and Prevention (CDC), the hepatitis B vaccine was the first anti-cancer vaccine. HBIG is prepared from the plasma of donors who have high antibody levels of the hepatitis B surface antigen. It is extracted from the Cohn fraction II. During the process, viruses are deactivated, and in the final steps, solvents used in the preparation are removed. The preparation is tested for absence of HIV, HCV, herpes virus, and reovirus.
+
+## Mechanism Of Action
+
+In countries with high rates of hepatitis B infection, vaccination of newborns has not only reduced the risk of infection, but has also led to marked reduction in liver cancer. Target Actions Organism U HBsAg Not Available HBV

@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_12_L_177
+DCI: Darbepoetin Alfa
+DrugBank ID: DB00012
+DrugBank Name: Darbepoetin alfa
+Brand Names: ARANESP | DARBEPOETIN-SAIDAL | DERISE 100
+Pharmaceutical Forms: Solution
+Dosages: 100mcg/0.50ml | 200mcg/ml | 200mcg/ml (60mcg/0.3ml)(80mcg/0.4ml)(100mcg/0.5ml)
+Packaging: b/04 seringues preremplies de 0.3ml avec syst. de securite ; b/04 seringues preremplies de 0.3ml sans syst. de securite ; b/04 seringues preremplies de 0.4ml avec syst. de securite ; b/04 seringues preremplies de 0.4ml sans syst. de securite ; b/04 seringues preremplies de 0.5ml avec syst. de securite ; b/04 seringues preremplies de 0.5ml sans syst. de securite | b/1 serin pre rempli de 0.50 ml | b/1 seringue pre-remplie et boite de 4 seringues pre-remplies seringue pre-remplie de 0.3ml en verre hydrolytique neutre et incolore de classe i
+Registration Numbers: 003/12 L 177/24 | 481/12 L 177/15 | 524/12 L 177/21
+Drug Codes: 12 L 177
+
+------------------------------------------------------------
+
+## Description
+
+Human erythropoietin with 2 aa substitutions to enhance glycosylation (5 N-linked chains), 165 residues (MW=37 kD). Produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
+
+## Pharmacodynamics
+
+Darbepoetin alfa is used in the treatment of anemia. It is involved in the regulation of erythrocyte differentiation and the maintenance of a physiological level of circulating erythrocyte mass.
+
+## Mechanism Of Action
+
+Erythropoietin receptor Agonist

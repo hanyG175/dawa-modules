@@ -1,0 +1,38 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_09_C_005
+DCI: Danazol
+DrugBank ID: DB01406
+DrugBank Name: Danazol
+Brand Names: DANATROL
+Pharmaceutical Forms: Gélule
+Dosages: 200mg
+Packaging: bt/100
+Laboratories: LABORATOIRES FIDIA | 1 PARVIS DE LA DEFENSE | IMMEUBLE PAROI NORD DE LA GRANDE ARCHE | 92800 PUTEAUX
+ATC Classification: G03XA01
+Registration Numbers: 255/09 C 005/98/17
+Drug Codes: 09 C 005
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders.
+
+## Pharmacodynamics
+
+Danazol is a derivative of the synthetic steroid ethisterone, a modified testosterone. It was approved by the U.S. Food and Drug Administration (FDA) as the first drug to specifically treat endometriosis, but its role as a treatment for endometriosis has been largely replaced by the gonadotropin-releasing hormone (GnRH) agonists. Danazol has antigonadotropic and anti-estrogenic activities. Danazol acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties.
+
+## Mechanism Of Action
+
+Estrogen receptor Agonist Androgen receptor Agonist Progesterone receptor Agonist + 2 more targets
+
+## Metabolism
+
+Hepatic, to principal metabolites, ethisterone and 17-hydroxymethylethisterone. Hover over products below to view reaction partners Danazol 17-hydroxymethylethisterone Ethisterone
+
+## Half Life
+
+Approximately 24 hours.

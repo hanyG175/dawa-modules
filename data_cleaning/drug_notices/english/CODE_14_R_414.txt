@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_R_414
+DCI: Semaglutide
+DrugBank ID: DB13928
+DrugBank Name: Semaglutide
+Brand Names: OZEMPIC
+Pharmaceutical Forms: Solution
+Dosages: 0.25mg
+Packaging: stylo pre rempli 1.5 ml
+Registration Numbers: 069/14 R 414/25
+Drug Codes: 14 R 414
+
+------------------------------------------------------------
+
+## Description
+
+Semaglutide is a glucagon-like peptide 1 (GLP-1) analog used to manage type 2 diabetes along with lifestyle changes, such as dietary restrictions and increased physical activity. 1 , 15 Other members of this drug class include Exenatide and Liraglutide . Semaglutide was developed by Novo Nordisk and approved by the FDA for subcutaneous injection in December 2017. 15 The tablet formulation was approved for oral administration in September 2019. Semaglutide works by binding to and activating the GLP-1 receptor, thereby stimulating insulin secretion and reducing blood glucose. 14 The subcutaneous injection is administered once weekly and the tablet is administered once a day. Semaglutide offers a competitive advantage over other drugs used to manage diabetes, which may require several daily doses. Clinical trials have determined that this drug reduces glycosylated hemoglobin (HbA1c) levels and reduces body weight, proving to be effective for patients with type 2 diabetes. 5 In June 2021, semaglutide was approved by the FDA for chronic weight management in adults with general obesity or overweight who have at least one weight-related condition, marking semaglutide as the first approved drug for such use since 2014. 19 The use of semaglutide in weight management is also approved by Health Canada 20 and the EMA. 21 On May 31, 2023, the FDA issued a warning regarding the use of compounded semaglutide after receiving adverse event reports. The use of salt forms of semaglutide, including semaglutide sodium and semaglutide acetate, has not been proven to be safe or effective. 23 On August 15, 2025, the FDA granted Accelerated Approval for the treatment of metabolic-associated steatohepatitis (MASH) in adults with moderate-to-advanced fibrosis 28
+
+## Pharmacodynamics
+
+Semaglutide reduces HbA1c, systolic blood pressure, and body weight. 6 After 12 weeks of treatment, semaglutide decreased fasting and postprandial glucose by increasing insulin production and decreasing glucagon secretion (which is normally associated with increases in blood sugar). Semaglutide also lowers fasting triglycerides and VLDL cholesterol, exerting beneficial effects on cardiovascular health. 5 , 12 Semaglutide has been shown to cause medullary thyroid cell carcinoma in rodents. While its clinical relevance to humans is unknown, the FDA advises not to administer this drug in those with a personal or family history of medullary thyroid carcinoma. Semaglutide also poses a risk of pancreatitis and dehydration. Patients must be adequately hydrated while on semaglutide and are advised to seek medical attention immediately in cases of abdominal pain radiating to the back. Because this drug delays gastric emptying, it is important to monitor for the efficacy or adverse effects of other drugs that are administered orally. 15
+
+## Mechanism Of Action
+
+Glucagon-like peptide 1 receptor Agonist
+
+## Absorption
+
+The Cmax of semaglutide was 10.9 nmol/L, with AUC of 3123.4 nmol h/L and a Tmax of 56 h in one clinical trial, achieved within 1-3 days. 4 , 15 The absolute bioavailability is 89%. 15 Steady-state concentration of the oral tablet is achieved in 4-5 weeks. 10 Average steady state concentrations of semaglutide are the mean steady state concentrations after dosing at 0.5mg to 1mg range from 16 nmol/L to 30 nmol/L. 16
+
+## Volume Of Distribution
+
+The volume of distribution of semaglutide is 8L to 9.4L. It crosses the placenta in rats. 4 , 15
+
+## Metabolism
+
+Semaglutide is cleaved at the peptide backbone, followed by β‐oxidation of the fatty acid chain. 11 Naturally occurring GLP‐1 is quickly metabolized by dipeptidyl peptidase‐4 (DPP‐4) and other enzymes, which is ubiquitous in human tissues. Chemical structure modifications render semaglutide less susceptible to enzymatic degradation by gastrointestinal DPP‐4 enzymes. 11 It is slowly and extensively metabolized, with about 83% of the administered dose measured in the plasma as unchanged drug. Neural endopeptidase (NEP) is another enzyme that metabolizes this drug. DPP-4 inactivates semaglutide, truncating the N-terminal segment while NEP hydrolyzes peptide bondsSix different metabolites of semaglutide have been identified in human plasma. The major metabolite, named P3, accounts for about 7.7% of an ingested dose. 4 Hover over products below to view reaction partners Semaglutide P3 semaglutide U7 semaglutide U6 semaglutide
+
+## Route Of Elimination
+
+This drug is mainly cleared by the kidneys, and is found excreted in both the urine and feces. 11 The main elimination route is the urine by corresponding to 53% of an ingested radiolabeled dose, with 18.6% found in the feces. A smaller amount of 3.2% was found to be exhaled. 4 Hepatic impairment does not appear to affect the clearance of this drug and dose adjustments are not required in patients with decreased liver function. 11
+
+## Half Life
+
+One of the major properties of semaglutide is its long half-life of 168 h. 4 The long half-life is attributed to its albumin binding. This lowers the renal clearance and protects semaglutide from metabolic breakdown. 14 , 15
+
+## Clearance
+
+The clearance rate of semaglutide is 0.039 L/h according to one clinical study. 4 On the FDA label, semaglutide clearance is reported to be about 0.05 L/h in patients with type 2 diabetes mellitus. 15
+
+## Toxicity
+
+Overdoses of up to 4 mg in one ingestion have been reported, with nausea being the most commonly reported symptom. All patients in clinical trials who experienced an overdose recovered fully. 16 Appropriate supportive care should be given according and dictated by the patient's condition. Prolonged observation and treatment may be required, as the half-life of this drug is about one week. 15 There is no antidote to an overdose with semaglutide. 16

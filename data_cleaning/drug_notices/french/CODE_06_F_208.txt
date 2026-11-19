@@ -1,0 +1,28 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_F_208
+DCI: Carvedilol
+Brand Names: CARVEDILOL LDM
+Pharmaceutical Forms: Comp. Sec.
+Dosages: 6,25MG
+Packaging: B/30
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: ALGERIE
+Reference Tariff (DA): 698 DA
+PPA (DA): 694.00 DA
+Prescription List: Liste I
+ATC Classification: 06F208
+Registration Numbers: 309/06 F 208/07/22 | 352/06 F 208/10/25 | 380/06 F 208/19
+Drug Codes: 06 F 208
+
+------------------------------------------------------------
+
+## Indications
+
+CARDIOLOGIE ET ANGEIOLOGIE
+
+## Mechanism Of Action
+
+BETA-BLOQUANTS

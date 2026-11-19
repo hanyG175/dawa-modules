@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_13_G_072
+DCI: PHENOXYMETHYLPENICILLINE 1 M UI cp (ORACILLINE)
+Brand Names: ORAPEN
+Pharmaceutical Forms: Comprimé
+Dosages: 1000000ui
+Packaging: b/12
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01C - BETALACTAMINES : PENICILLINES | J01CE - PENICILLINES SENSIBLES AUX BETALACTAMASES | J01CE10 - BENZATHINE PHENOXYMETHYLPENICILLINE | J01CE02 - PHENOXYMETHYLPENICILLINE
+Registration Numbers: 003/13 G 072/96/25
+Drug Codes: 13 G 072
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | ml | phénoxyméthylpénicilline (benzathine lécithinée) : 0.1 M UI | Modalités d'administration | Voie orale | Administrer indépendamment de la prise des repas | Bien agiter le flacon avant emploi | Posologie | Patient de 1 mois à 15 an(s) | Poids < 10 kg | Infection cutanée | Posologie standard | 0,05 à 0,1 M UI/kg en 2 à 4 prises par jour | Angine aiguë streptococcique | Posologie standard | 0,05 à 0,1 M UI/kg en 2 à 3 prises par jour | Pendant 10 jours | Erysipèle récidivant, traitement préventif (de l') - Infection à pneumocoque chez le sujet à risque, traitement préventif (de l') - Rhumatisme articulaire aigu, traitement préventif des rechutes (du) - Scarlatine, sujets contacts dans l'entourage (d'une), traitement préventif (des) | Posologie standard | 0,1 M UI/kg en 2 prises par jour | 10 kg <= Poids < 40 kg | Infection cutanée | Posologie standard | 0,05 à 0,1 M UI/kg en 2 à 4 prises par jour | Angine aiguë streptococcique | Posologie standard | 0,05 à 0,1 M UI/kg en 2 à 3 prises par jour | Pendant 10 jours | Erysipèle récidivant, traitement préventif (de l') - Infection à pneumocoque chez le sujet à risque, traitement préventif (de l') - Rhumatisme articulaire aigu, traitement préventif des rechutes (du) - Scarlatine, sujets contacts dans l'entourage (d'une), traitement préventif (des) | Posologie standard | 0,05 M UI/kg en 2 prises par jour | Posologie maximale: 2 M UI par jour | Patient à partir de 15 an(s) | Patient quel que soit le poids | Infection cutanée | Posologie standard | 2 à 4 M UI en 2 à 4 prises par jour | Angine aiguë streptococcique | Posologie standard | 2 à 4 M UI en 2 à 3 prises par jour | Pendant 10 jours | Erysipèle récidivant, traitement préventif (de l') - Infection à pneumocoque chez le sujet à risque, traitement préventif (de l') - Rhumatisme articulaire aigu, traitement préventif des rechutes (du) - Scarlatine, sujets contacts dans l'entourage (d'une), traitement préventif (des) | Posologie standard | 2 M UI en 2 prises par jour
+
+## Precautions
+
+Allaitement | Asplénie fonctionnelle | Drépanocytose | Insuffisance rénale | Patient splénectomisé
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | Précaution
+
+## Mechanism Of Action
+
+Phénoxyméthylpénicilline : Mécanisme d'action | La phénoxyméthylpénicilline (pénicilline V) est un antibiotique bactéricide de la famille des bêtalactamines, du groupe des pénicillines naturelles, du type des phénoxypénicillines. | Espèces sensibles : | aérobies à Gram + : | Corynebacterium diphteriae | , | Streptococcus pneumoniae | , | Streptococcus pyogenes | ; | anaérobies : | Fusobacterium nucleatum | ; | autres : | Treponema vincentii | .
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Eosinophilie (Très rare) | - Neutropénie (Très rare) | DERMATOLOGIE: | - Prurit (Fréquent) | - Urticaire (Fréquent) | - Eruption cutanée (Fréquent) | - Pustulose exanthémateuse aiguë généralisée | - Syndrome de Lyell | - Syndrome de Stevens-Johnson | - Rash érythémateux | - Eruption maculopapuleuse | - Erythème cutané | DIVERS: | - Fièvre | HÉMATOLOGIE: | - Agranulocytose (Très rare) | - Thrombopénie (Très rare) | - Anémie hémolytique (Très rare) | - Leucopénie (Très rare) | - Anémie (Très rare) | - Trouble de la coagulation | IMMUNO-ALLERGOLOGIE: | - Oedème de Quincke (Rare) | - Hypersensibilité (Rare) | - Réaction anaphylactique (Rare) | - Choc anaphylactique | - Syndrome DRESS | INFECTIOLOGIE NON PRECISÉE: | - Surinfection | ORL, STOMATOLOGIE: | - Langue pileuse | PSYCHIATRIE: | - Confusion mentale | SYSTÈME DIGESTIF: | - Diarrhée (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Colite pseudomembraneuse | SYSTÈME NERVEUX: | - Altération de la conscience | - Mouvement anormal | - Epilepsie | - Encéphalopathie | UROLOGIE, NÉPHROLOGIE: | - Insuffisance rénale

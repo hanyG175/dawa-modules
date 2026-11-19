@@ -1,0 +1,35 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_B_137
+DCI: RIZATRIPTAN (benzoate) 10 mg cp (RIZATRIPTAN ARROW)
+Brand Names: MITRIPTAN | ZORTAN
+Pharmaceutical Forms: Comprimé
+Dosages: 10 mg
+Packaging: b/10 | boite d'un pilulier de 06 comprimes pilulier en hdpe avec bouchon en pp
+ATC Classification: N - SYSTEME NERVEUX | N02 - ANALGESIQUES | N02C - ANTIMIGRAINEUX | N02CC - AGONISTES SELECTIFS DES RECEPTEURS 5HT1 | N02CC04 - RIZATRIPTAN
+Registration Numbers: 263/15 B 137/22 | 352/15 B 137/25
+Drug Codes: 15 B 137
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | rizatriptan (benzoate) : 10 mg | Modalités d'administration | Voie orale | Administrer dès le début de la crise | Laisser fondre le comprimé sur la langue jusqu'à dissolution | Ne pas renouveler la dose en cas d'absence de réponse | Respecter un intervalle d'au moins 2 heures entre 2 prises | Utiliser le dosage le plus adapté à la posologie | Posologie | Patient de 18 an(s) à 65 an(s) | Patient quel que soit le poids | Migraine, traitement de la crise (de) | Posologie standard | 10 mg 1 à 2 fois par 24 heures | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Femme ménopausée | Grossesse | Homme de plus de 40 ans | Insuffisance hépatique légère à modérée | Insuffisance rénale légère à modérée | Migraine atypique | Migraine basilaire | Migraine hémiplégique | Pathologie cérébrovasculaire | Patient à risque d'insuffisance coronarienne | Sujet âgé | Sujet à risque de maladie cardiovasculaire | Sujet de moins de 18 ans | Traitement prolongé | Traitement répété
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Rizatriptan : Mécanisme d'action | Le rizatriptan se lie sélectivement avec une grande affinité aux récepteurs 5-HT1B et 5-HT1D et a peu ou pas d'effet ni d'activité pharmacologique sur les récepteurs 5-HT2, 5-HT3, sur les récepteurs alpha-1, alpha-2 ou bêta-adrénergiques, sur les récepteurs D1 et D2 dopaminergiques, histaminergiques H1, muscariniques ou benzodiazépiniques. | L'activité thérapeutique du rizatriptan sur la migraine peut être attribuée à ses effets agonistes au niveau des récepteurs 5-HT1B et 5-HT1D des vaisseaux sanguins intracrâniens extracérébraux dont on suppose qu'ils se dilatent lors d'une crise de migraine et sur les voies nerveuses sensitives trigéminées les innervant. L'activation de ces récepteurs 5-HT1B et 5-HT1D peut entraîner la constriction des vaisseaux sanguins intracrâniens responsables de la douleur et l'inhibition de la libération de neuropeptides ; cette inhibition entraîne une diminution de l'inflammation dans les tissus sensibles et de la transmission du signal de la douleur au niveau central par la voie trigéminée.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Urticaire (Peu fréquent) | - Hypersudation (Peu fréquent) | - Eruption cutanée (Peu fréquent) | - Prurit (Peu fréquent) | - Nécrolyse épidermique toxique | DIVERS: | - Douleur thoracique (Fréquent) | - Oppression thoracique (Peu fréquent) | - Douleur faciale (Peu fréquent) | - Sensation de lourdeur (Fréquent) | - Asthénie (Fréquent) | - Fatigue (Fréquent) | - Oedème de la face | IMMUNO-ALLERGOLOGIE: | - Angioedème (Peu fréquent) | - Hypersensibilité (Rare) | - Réaction anaphylactique (Rare) | - Réaction anaphylactoïde (Rare) | OPHTALMOLOGIE: | - Vision floue (Peu fréquent) | ORL, STOMATOLOGIE: | - Vertige (Peu fréquent) | - Sécheresse buccale (Fréquent) | - Dysgueusie (Peu fréquent) | - Gêne pharyngée (Fréquent) | - Goût désagréable (Peu fréquent) | - Oedème pharyngé | PSYCHIATRIE: | - Nervosité (Peu fréquent) | - Insomnie (Fréquent) | - Désorientation temporospatiale (Peu fréquent) | SYSTÈME CARDIOVASCULAIRE: | - Anomalie de l'électrocardiogramme (Peu fréquent) | - Bouffée de chaleur (Peu fréquent) | - Tachycardie (Peu fréquent) | - Arythmie (Peu fréquent) | - Hypertension artérielle (Peu fréquent) | - Syncope (Peu fréquent) | - Palpitation (Fréquent) | - Bradycardie (Rare) | - Infarctus du myocarde | - Thrombose vasculaire périphérique | - Ischémie myocardique | SYSTÈME DIGESTIF: | - Douleur abdominale (Fréquent) | - Nausée (Fréquent) | - Vomissement (Fréquent) | - Dyspepsie (Fréquent) | - Diarrhée (Fréquent) | - Soif (Peu fréquent) | - Oedème de la langue | - Colite ischémique | SYSTÈME MUSCULO-SQUELETTIQUE: | - Douleur dans le cou (Fréquent) | - Raideur musculo-squelettique (Fréquent) | - Douleur musculaire (Peu fréquent) | - Faiblesse musculaire (Peu fréquent) | SYSTÈME NERVEUX: | - Céphalée (Fréquent) | - Ataxie (Peu fréquent) | - Tremblement (Peu fréquent) | - Acuité intellectuelle (diminution) (Fréquent) | - Hypoesthésie (Fréquent) | - Paresthésie (Fréquent) | - Somnolence (Fréquent) | - Accident vasculaire cérébral (Rare) | - Convulsions | SYSTÈME RESPIRATOIRE: | - Dyspnée (Peu fréquent) | - Sifflement respiratoire (Rare) | TOXICOLOGIE: | - Syndrome sérotoninergique

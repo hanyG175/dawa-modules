@@ -1,0 +1,50 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_21_D_042
+DCI: LEFLUNOMIDE 10 mg cp (LEFLUNOMIDE BIOGARAN)
+DrugBank ID: DB01097
+DrugBank Name: Leflunomide
+Brand Names: ARAVA | BIORAVA
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/30
+ATC Classification: L - ANTINEOPLASIQUES ET IMMUNOMODULATEURS | L04 - IMMUNOSUPPRESSEURS | L04A - IMMUNOSUPPRESSEURS | L04AK - INHIBITEURS DE LA DIHYDROOROTATE DESHYDROGENASE | L04AK01 - LEFLUNOMIDE
+Registration Numbers: 230/21 D 042/03 | 293/21 D 042/19
+Drug Codes: 21 D 042
+
+------------------------------------------------------------
+
+## Description
+
+Leflunomide is a pyrimidine synthesis inhibitor belonging to the DMARD (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. Leflunomide was approved by FDA and in many other countries (e.g., Canada, Europe) in 1999.
+
+## Pharmacodynamics
+
+Leflunomide is a pyrimidine synthesis inhibitor indicated in adults for the treatment of active rheumatoid arthritis (RA). RA is an auto-immune disease characterized by high T-cell activity. T cells have two pathways to synthesize pyrimidines: the salvage pathways and the de novo synthesis. At rest, T lymphocytes meet their metabolic requirements by the salvage pathway. Activated lymphocytes need to expand their pyrimidine pool 7- to 8-fold, while the purine pool is expanded only 2- to 3-fold. To meet the need
+
+## Mechanism Of Action
+
+Dihydroorotate dehydrogenase (quinone), mitochondrial Inhibitor Protein-tyrosine kinase 2-beta Antagonist
+
+## Absorption
+
+Well absorbed, peak plasma concentrations appear 6-12 hours after dosing
+
+## Metabolism
+
+Primarily hepatic. Leflunomide is converted to its active form following oral intake. Hover over products below to view reaction partners Leflunomide A771726
+
+## Route Of Elimination
+
+The active metabolite is eliminated by further metabolism and subsequent renal excretion as well as by direct biliary excretion. In a 28 day study of drug elimination (n=3) using a single dose of radiolabeled compound, approximately 43% of the total radioactivity was eliminated in the urine and 48% was eliminated in the feces. It is not known whether leflunomide is excreted in human milk.
+Many drugs are excreted in human milk, and there is a potential for serious adverse reactions in nursing infants from leflunomide.
+
+## Half Life
+
+2 weeks
+
+## Toxicity
+
+LD 50 =100-250 mg/kg (acute oral toxicity)

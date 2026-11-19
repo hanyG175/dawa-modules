@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_147
+DCI: Valsartan
+DrugBank ID: DB00177
+DrugBank Name: Valsartan
+Brand Names: VALSARTAN LDM
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 80MG
+Packaging: B/30
+Laboratories: LDM (LABORATOIRE DE DIAGNOSTIC MAGHREBINS)
+Countries: ALGERIE
+Reference Tariff (DA): 1597.5 DA
+PPA (DA): 1850.00 DA
+Prescription List: Liste I
+ATC Classification: C09CA03
+Registration Numbers: 001/06 E 147/14/23 | 003/06 E 147/11/25 | 035/06 E 147/15/25 | 068/06 E 147/99/24 | 173/06 E 147/20/26 | 268/06 E 147/12/23 | 289/06 E 147/24 | 309/06 E 147/13/24 | 317/06 E 147/14/24 | 320/06 E 147/08/13 | 352/06 E 147/10/25 | 380/06 E 147/19 | 447/06 E 147/11/23 | 470/06 E 147/12/24 | 518/06 E 147/16 | 544/06 E 147/18/24
+Drug Codes: 06 E 147
+
+------------------------------------------------------------
+
+## Description
+
+Valsartan belongs to the angiotensin II receptor blocker (ARB) family of drugs, which also includes telmisartan , candesartan , losartan , olmesartan , and irbesartan . ARBs selectively bind to angiotensin receptor 1 (AT1) and prevent the protein angiotensin II from binding and exerting its hypertensive effects, which include vasoconstriction, stimulation and synthesis of aldosterone and ADH, cardiac stimulation, and renal reabsorption of sodium, among others. Overall, valsartan's physiologic effects lead to reduced blood pressure, lower aldosterone levels, reduced cardiac activity, and increased excretion of sodium. Valsartan also affects the renin-angiotensin aldosterone system (RAAS), which plays an important role in hemostasis and regulation of kidney, vascular, and cardiac functions. Pharmacological blockade of RAAS via AT1 receptor blockade inhibits negative regulatory feedback within RAAS, which is a contributing factor to the pathogenesis and progression of cardiovascular disease, heart failure, and renal disease. In particular, heart failure is associated with chronic activation of RAAS, leading to inappropriate fluid retention, vasoconstriction, and ultimately a further decline in left ventricular function. ARBs have been shown to have a protective effect on the heart by improving cardiac function, reducing afterload, increasing cardiac output and preventing ventricular hypertrophy and remodelling. 5 By comparison, the angiotensin-converting enzyme inhibitor (ACEI) class of medications (which includes drugs such as ramipril , lisinopril , and perindopril ) inhibit the conversion of angiotensin I to angiotensin II through inhibition of the ACE enzyme. However, this does not prevent the formation of all angiotensin II within the body. The angiotensin II receptor blocker (ARB) family of drugs unique in that it blocks all angiotensin II activity, regardless of where or how it was synthesized. Valsartan is commonly used for the management of hypertension, heart failure, and Type 2 Diabetes-associated nephropathy, particularly in patients who are unable to tolerate ACE inhibitors. ARBs such as valsartan have been shown in a number of large-scale clinical outcomes trials to improve cardiovascular outcomes including reducing risk of myocardial infarction, stroke, the progression of heart failure, and hospitalization. 1 , 9 , 10 , 11 , 12 , 13 , 14 , 15 Valsartan also slows the progression of diabetic nephropathy due to its renoprotective effects. 6 , 7 , 8 Improvements in chronic kidney disease with valsartan include both clinically and statistically significant decreases in urinary albumin and protein excretion in patients diagnosed with type 2 diabetes and in nondiabetic patients diagnosed with chronic kidney disease. 1 , 10 Valsartan was initially approved in 1996 in Europe for the treatment of hypertension in adults. Shortly after, in 1997, this drug was approved in the United States. 1 Valsartan is generally well-tolerated with a side-effect profile superior to that of other antihypertensive drugs. 3 , 4
+
+## Pharmacodynamics
+
+Valsartan inhibits the pressor effects of angiotensin II with oral doses of 80 mg inhibiting the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours. Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients. Minimal decreases in plasma aldosterone were observed after administration of valsartan. In multiple-dose studies in hypertensive patients, valsartan had no notable effects on total cholesterol, fasting triglycerides, fasting serum glucose, or uric acid. 18 Hypotension Excessive hypotension was rarely seen (0.1%) in patients with uncomplicated hypertension treated with valsartan alone. In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur. This condition should be corrected prior to administration of valsartan, or the treatment should start under close medical supervision. Caution should be observed when initiating therapy in patients with heart failure. Patients with heart failure given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed. In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients. If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized. 18 Impaired Renal Function Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on valsartan. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on valsartan. 18 Hyperkalemia Some patients with heart failure have developed increases in potassium. These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of valsartan may be required. 18
+
+## Mechanism Of Action
+
+Type-1 angiotensin II receptor Antagonist
+
+## Absorption
+
+After one oral dose, the antihypertensive activity of valsartan begins within approximately 2 hours and peaks within 4-6 hours in most patients. 24 Food decreases the exposure to orally administered valsartan by approximately 40% and peak plasma concentration by approximately 50%. AUC and Cmax values of valsartan generally increase linearly with increasing dose over the therapeutic dose range. Valsartan does not accumulate appreciably in plasma following repetitive administration. 18
+
+## Volume Of Distribution
+
+The steady-state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively. 24
+
+## Metabolism
+
+Valsartan undergoes minimal liver metabolism and is not biotransformed to a high degree, as only approximately 20% of a single dose is recovered as metabolites. 1 , 24 The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan. In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan. Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations. CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism. 18 Hover over products below to view reaction partners Valsartan Valeryl-4-hydroxyvalsartan
+
+## Route Of Elimination
+
+Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose). The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites. 18
+
+## Half Life
+
+After intravenous (IV) administration, valsartan demonstrates bi-exponential decay kinetics, with an average elimination half-life of about 6 hours. 18
+
+## Clearance
+
+Following intravenous administration, plasma clearance of valsartan is approximately 2 L/hour and its renal clearance is 0.62 L/hour (about 30% of total clearance). 18
+
+## Toxicity
+
+Approximate LD50 >2000 mg/kg (Gavage, rat) 24 Reproductive Toxicology Studies No teratogenic effects were seen when valsartan was given to pregnant mice and rats at oral doses up to 600 mg/kg/day and to pregnant rabbits at oral doses reaching up to 10 mg/kg/day. Despite this, marked decreases in fetal weight, pup birth weight, pup survival rate, and delays in developmental milestones were noted in studies in which parental rats were treated with valsartan at oral, maternally toxic doses of 600 mg/kg/day during the organogenesis period or during late gestation and lactation. 18 Pregnancy When used in pregnancy, drugs that act directly on the renin-angiotensin system (RAAS) can cause injury and death to the developing fetus. When pregnancy is detected, valsartan should be discontinued as soon as possible. 18

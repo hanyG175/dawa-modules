@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_04_B_019
+DCI: Naproxene Sodique
+DrugBank ID: DB00788
+DrugBank Name: Naproxen
+Brand Names: NAPROLGIC | NAPROX | NAPROXENE PHYSIOPHARM | NEXOPAIN | NEXORPAN | NHUPAIN
+Pharmaceutical Forms: Comprimé
+Dosages: 275mg
+Packaging: b/20 | b/30
+Registration Numbers: 097/04 B 019/17 | 166/04 B 019/98/15 | 317/04 B 019/15/23 | 380/04 B 019/14 | 462/04 B 019/22 | 470/04 B 019/20/25
+Drug Codes: 04 B 019
+
+------------------------------------------------------------
+
+## Description
+
+Naproxen is classified as a nonsteroidal anti-inflammatory dug (NSAID) and was initially approved for prescription use in 1976 and then for over-the-counter (OTC) use in 1994. 3 It can effectively manage acute pain as well as pain related to rheumatic diseases, and has a well studied adverse effect profile. 5 Given its overall tolerability and effectiveness, naproxen can be considered a first line treatment for a variety of clinical situations requiring analgesia. 5 Naproxen is available in both immediate and delayed release formulations, in combination with sumatriptan to treat migraines, and in combination with esomeprazole to lower the risk of developing gastric ulcers. 12 13 15 16
+
+## Pharmacodynamics
+
+Naproxen is an established non-selective NSAID and is useful as an analgesic, anti-inflammatory and antipyretic. 5 Similar to other NSAIDs, the pharmacological activity of naproxen can be attributed to the inhibition of cyclo-oxygenase, which in turn reduces prostaglandin synthesis in various tissues and fluids including the synovial fluid, gastric mucosa, and the blood. 5 Although naproxen is an effective analgesic, it can have unintended deleterious effects in the patient. For instance, naproxen can adversely affect blood pressure control. 10 A study found that use of naproxen induced an increase in blood pressure, although the increase was not as significant as that found with ibuprofen use. 10 Further, studies have found that the risk of upper gastrointestinal bleeding is on average four-fold higher for individuals taking NSAIDs. 11 Other factors that increase the risk of upper gastrointestinal bleeding include concurrent use of corticosteroids or anticoagulants, and a history of gastrointestinal ulcers. 11
+
+## Mechanism Of Action
+
+Prostaglandin G/H synthase 1 Inhibitor Prostaglandin G/H synthase 2 Inhibitor
+
+## Absorption
+
+Naproxen is available as a free acid and sodium salt. 5 At comparable doses, (naproxen 500 mg = naproxen sodium 550 mg) they differ slightly in their rates of absorption, but otherwise they are therapeutically and pharmacologically equivalent. 5 Naproxen sodium achieves a peak plasma concentration after 1 hour, while peak plasma concentration is observed after 2 hours with naproxen (free acid). 5 There are no differences between the 2 forms in the post-absorption phase pharmacokinetics. 5 The difference in initial absorption should be considered when treating acute pain, since naproxen sodium may offer a quicker onset of action. 5 The mean Cmax for the various formulations (immediate release, enteric coated, controlled release etc.) of naproxen are comparable and range from 94 mcg/mL to 97.4 mcg/mL. 12 13 In one pharmacokinetic study, the mean Tmax of naproxen 500 mg (immediate release) given every 12 hours over 5 days was 3 hours, compared to a mean Tmax of 5 hours for Naprelan 1000 mg (controlled release) given every 24 hours over 5 days. 12 In this same study, the AUC 0-24hr was 1446mcgxhr/mL for naproxen immediate release and 1448 mcgxhr/mL for the controlled release formulation. 12 A separate study comparing the pharmacokinetics of Naprosyn tablets and EC-Naprosyn observed the following values: Tmax and AUC 0-12hrs of EC-Naprosyn were 4 hours and 845 mcgxhr/mL respectively, and Tmax and AUC 0-12hrs values of Naprosyn were 1.9 hours and 767 mcgxhr/mL respectively. 13 When given in combination with sumatriptan the Cmax of naproxen is roughly 36% lower compared to naproxen sodium 550 mg tablets, and the median Tmax is 5 hours. 15 Based on the AUC and Cmax of naproxen, Vimovo (naproxen/esomeprazole combination product) and enteric-coated naproxen may be considered bioequivalent. 16 Overall, naproxen is rapidly and completely absorbed when administered orally and rectally. 6 5 Food may contribute to a delay in the absorption of orally administered naproxen, but will not affect the extent of absorption. 5
+
+## Volume Of Distribution
+
+Naproxen has a volume of distribution of 0.16 L/kg. 12 13
+
+## Metabolism
+
+Naproxen is heavily metabolized in the liver and undergoes both Phase I and Phase II metabolism. 12 13 7 The first step involves demethylation of naproxen via CYP 1A2, 2C8, and 2C9 8 9 . Both naproxen and desmethylnaproxen proceed to Phase II metabolism; however, desmethylnaproxen can form both acyl and phenolic glucoronide products, while naproxen only produces the acyl glucuronide. 8 7 The acyl glucuronidation process involves UGT 1A1, 1A3, 1A6, 1A7, 1A9, 1A10 and 2B7, while phenolic glucuronidation is catalyzed by UGT 1A1, 1A7,1A9, and 1A10. 8 Desmethylnaproxen also undergoes sulphation which is mediated by SULT 1A1, 1B1 and 1E1. 7 Hover over products below to view reaction partners Naproxen O-Desmethylnaproxen O-Desmethylnaproxen O-glucuronide O-Desmethylnaproxen acyl glucuronide O-Desmethylnaproxen sulfate Naproxen O-glucuronide
+
+## Route Of Elimination
+
+After oral administration, about 95% of naproxen and it's metabolites can be recovered in the urine with 66-92% recovered as conjugated metabolite and less than 1% recovered as naproxen or desmethylnaproxen. 7 12 13 Less than 5% of naproxen is excreted in the feces. 12 13
+
+## Half Life
+
+The elimination half-life of naproxen is reported to be 12-17 hours. 3 13
+
+## Clearance
+
+Naproxen is cleared at a rate of 0.13 mL/min/kg. 12 13
+
+## Toxicity
+
+Although the over-the-counter (OTC) availability of naproxen provides convenience to patients, it also increases the likelihood of overdose. 3 Thankfully, the extent of overdose is typically mild with adverse effects normally limited to drowsiness, lethargy, epigastric pain, nausea and vomiting. 3 12 13 Although there is no antidote for naproxen overdose, symptoms will typically subside with appropriate supportive care. 12 13 3 Naproxen is classified as Category B during the first 2 trimesters of pregnancy, and as Category D during the third trimester. 14 Naproxen is contraindicated in the 3rd trimester since it increases the risk of premature closure of the fetal ductus arteriosus and should be avoided in pregnant women starting at 30 weeks gestation. 12 13

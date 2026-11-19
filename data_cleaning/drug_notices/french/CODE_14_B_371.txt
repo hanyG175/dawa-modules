@@ -1,0 +1,40 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_B_371
+DCI: INSULINE LISPRO 100 UI/ml sol inj stylo prérempli (HUMALOG KWIKPEN) | Insuline Degludec
+Brand Names: TRESIBA FLEXPEN | TRESIBA FLEXTOUCH
+Pharmaceutical Forms: Solution
+Dosages: 100ui/1ml
+Packaging: b/01 et b/02 et 05 stylos preremplis de 3ml en cartouche | b/01 stylos preremplis munis de cartouche de 3ml
+Laboratories: LILLY FRANCE
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A10 - MEDICAMENTS DU DIABETE | A10A - INSULINES ET ANALOGUES | A10AB - INSULINES ET ANALOGUES D'ACTION RAPIDE PAR VOIE INJECTABLE | A10AB04 - INSULINE LISPRO
+Registration Numbers: 069/14 B 371/20 | 368/14 B 371/24
+Drug Codes: 14 B 371
+
+------------------------------------------------------------
+
+## Indications
+
+title: INDICATIONS | text: INDICATIONS | Traitement des adultes et enfants atteints de diabète nécessitant un traitement par insuline pour maintenir un équilibre glycémique normal. | Humalog est également indiqué pour la stabilisation initiale du diabète.
+
+## Posology
+
+Posologie | Unité de prise | ml | insuline lispro : 100 UI | Modalités d'administration | Voie sous-cutanée | A n'utiliser qu'avec le nécessaire d'administration recommandé | Administrer dans l'abdomen, dans la cuisse, dans le bras ou dans le muscle fessier | Administrer en variant le site d'injection régulièrement pour prévenir des affections cutanées | Administrer immédiatement avant ou après le repas | Info patient : vérifier l'étiquette de l'insuline avant chaque administration | Posologie à adapter en cas de relais d'une insuline par une autre | Posologie à adapter en fonction du poids corporel | Posologie à adapter en fonction du régime alimentaire | Posologie à adapter à la glycémie | Posologie | Patient à partir de 30 mois | Patient quel que soit le poids | Diabète insulinodépendant - Diabète insulinonécessitant | Posologie standard | La posologie de l?insuline dépend de chaque individu et est déterminée en fonction des besoins du patient. Un contrôle glycémique et un ajustement de la dose de l'insuline sont recommandés afin d'obtenir un équilibre glycémique optimal. | Populations particulières | Insuffisance hépatique : Adapter la posologie | Insuffisance rénale : | Adapter la posologie
+
+## Precautions
+
+Allaitement | Cécité | Diabète non insulinodépendant | Enfant de moins de 3 ans | Grossesse | Insuffisance hépatique | Insuffisance rénale | Pathologie intercurrente | Patient traité en association avec la pioglitazone | Patient traité par voie sous-cutanée | Sportif | Sujet âgé | Sujet exerçant une activité physique | Traitement nécessitant des prises régulières | Trouble émotionnel
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Insuline lispro : Mécanisme d'action | L'activité principale de l'insuline lispro est la régulation du métabolisme glucidique. | De plus, les insulines possèdent plusieurs actions anaboliques et anticataboliques dans différents tissus. Dans le tissu musculaire, ces effets comprennent une augmentation de la synthèse du glycogène, des acides gras, du | glycérol | , des protéines, et une augmentation de la fixation des acides aminés, ainsi qu'une diminution de la glycogénolyse, de la néoglucogenèse, de la cétogenèse, de la lipolyse, du catabolisme protéique et de l'élimination des acides aminés. | La réponse glucodynamique à l'insuline lispro n'est pas affectée par une altération de la fonction rénale ou hépatique. Les différences pharmacodynamiques entre l'insuline lispro et l'insuline rapide humaine, mesurées durant une épreuve de clamp, sont maintenues pour de larges variations de la fonction rénale. | En terme molaire, l'insuline lispro est aussi efficace que l'insuline humaine rapide, mais son action est plus rapide et de plus courte durée.
+
+## Adverse Effects
+
+ANOMALIE DES EXAMENS DE LABORATOIRE: | - Hypoglycémie (Très fréquent) | - Anticorps anti-insuline | - Anticorps spécifique à la substance | DERMATOLOGIE: | - Eruption cutanée (Peu fréquent) | - Lipodystrophie (Peu fréquent) | - Prurit (Peu fréquent) | - Eruption cutanée généralisée (Rare) | - Hypersudation | - Amyloïdose cutanée | - Réaction cutanée généralisée | DIVERS: | - Décès | - Oedème | IMMUNO-ALLERGOLOGIE: | - Hypersensibilité (Fréquent) | - Oedème de Quincke (Fréquent) | - Réaction anaphylactique (Fréquent) | - Réaction allergique locale (Fréquent) | - Réaction allergique généralisée (Rare) | - Angioedème | INSTRUMENTATION: | - Lipodystrophie au point d'injection (Peu fréquent) | - Réaction au point d'injection (Fréquent) | - Eruption cutanée au point d'injection (Fréquent) | - Oedème au point d'injection (Fréquent) | - Douleur au point d'injection (Fréquent) | - Ecchymose au point d'injection (Fréquent) | - Prurit au point d'injection (Fréquent) | - Erythème au point d'injection (Fréquent) | - Inflammation au site d'injection (Fréquent) | - Amyloïdose cutanée au site d'injection | PSYCHIATRIE: | - Confusion mentale | - Indifférence | SYSTÈME CARDIOVASCULAIRE: | - Choc (Fréquent) | - Tachycardie (Rare) | - Pression artérielle (diminution) (Rare) | - Palpitation | - Pouls (modification) | - Hypotension artérielle | SYSTÈME DIGESTIF: | - Vomissement | SYSTÈME NERVEUX: | - Perte de conscience | - Céphalée | SYSTÈME RESPIRATOIRE: | - Bronchospasme (Fréquent) | - Sifflement respiratoire | - Dyspnée

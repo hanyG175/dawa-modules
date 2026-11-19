@@ -1,0 +1,36 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_22_F_038
+DCI: L-CYSTINE 500 mg + PYRIDOXINE CHLORHYDRATE 50 mg cp (CYSTINE B6 BAILLEUL)
+Brand Names: RHINAAXIA
+Pharmaceutical Forms: Sol. Pulv. Nasale
+Dosages: 6g/100ml
+Packaging: flacon./13ml
+Laboratories: Laboratoires BAILLEUL
+ATC Classification: D - MEDICAMENTS DERMATOLOGIQUES
+Registration Numbers: 263/22 F 038/09
+Drug Codes: 22 F 038
+
+------------------------------------------------------------
+
+## Indications
+
+rubric_code: ind | source_date: Tue Feb 18 00:00:00 CET 2020 | is_edited: False | title: INDICATIONS | text: Traitement d'appoint des affections phanériennes (ongles et cheveux fragiles). | Traitement d'appoint des troubles de la cicatrisation cornéenne. | lists: Traitement d'appoint des affections phanériennes (ongles et cheveux fragiles). | Traitement d'appoint des troubles de la cicatrisation cornéenne.
+
+## Posology
+
+Posologie | Unité de prise | gélule | L-cystine : 500 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Administrer entier | Traitement à réévaluer en cas de persistance ou d'aggravation des symptômes ou de la pathologie | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Cheveux fragiles, traitement d'appoint (des) - Ongles fragiles, traitement d'appoint (des) | Posologie standard | 2 à 4 gélules en 1 à 2 prises par jour
+
+## Precautions
+
+Allaitement | Grossesse
+
+## Pregnancy Breastfeeding
+
+Grossesse et allaitement | Contre-indications et précautions d'emploi | Grossesse (mois) | Allaitement | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Risques | II | II | II | Précaution
+
+## Mechanism Of Action
+
+Cystine : Mécanisme d'action | La cystine est un acide aminé soufré contenu dans la kératine des phanères.

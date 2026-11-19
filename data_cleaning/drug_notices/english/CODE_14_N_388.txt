@@ -1,0 +1,33 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_N_388
+DCI: DICLOFENAC SODIQUE 50 mg cp gastrorésis (DICLOFENAC EG)
+DrugBank ID: DB00122
+DrugBank Name: Choline
+Brand Names: ORPHACOL
+Pharmaceutical Forms: Gélule
+Dosages: 50 mg
+Packaging: b/30
+ATC Classification: M - MUSCLE ET SQUELETTE | M02 - TOPIQUES POUR DOULEUR ARTICULAIRE ET MUSCULAIRE | M02A - TOPIQUES POUR DOULEUR ARTICULAIRE ET MUSCULAIRE | M02AA - ANTIINFLAMMATOIRES NON STEROIDIENS A USAGE TOPIQUE | M02AA15 - DICLOFENAC
+Registration Numbers: 242/14 N 388/21
+Drug Codes: 14 N 388
+
+------------------------------------------------------------
+
+## Description
+
+A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism.
+
+## Pharmacodynamics
+
+This compound is needed for good nerve conduction throughout the CNS (central nervous system) as it is a precursor to acetylcholine (ACh). Choline is also needed for gallbladder regulation, liver function and lecithin (a key lipid) formation. Choline also aids in fat and cholesterol metabolism and prevents excessive fat build up in the liver. Choline has been used to mitigate the effects of Parkinsonism and tardive dyskinesia. Choline deficiencies may result in excessive build-up of fat in the liver, high blood pressure, gastric ulcers, kidney and liver dysfunction and stunted growth.
+
+## Mechanism Of Action
+
+Choline is a major part of the polar head group of phosphatidylcholine. Phosphatidylcholine's role in the maintenance of cell membrane integrity is vital to all of the basic biological processes: information flow, intracellular communication and bioenergetics. Inadequate choline intake would negatively affect all these processes. Choline is also a major part of another membrane phospholipid, sphingomyelin, also important for the maintenance of cell structure and function. It is noteworthy and not surprising that choline deficiency in cell culture causes apoptosis or programmed cell death. This appears to be due to abnormalities in cell membrane phosphatidylcholine content and an increase in ceramide, a precursor, as well as a metabolite, of sphingomyelin. Ceramide accumulation, which is caused by choline deficiency, appears to activate Caspase, a type of enzyme that mediates apoptosis. Betaine or trimethylglycine is derived from choline via an oxidation reaction. Betaine is one of the factors that maintains low levels of homocysteine by resynthesizing L-methionine from homocysteine. Elevated homocysteine levels are a significant risk factor for atherosclerosis, as well as other cardiovascular and neurological disorders. Acetylcholine is one of the major neurotransmitters and requires choline for its synthesis. Adequate acetylcholine levels in the brain are believed to be protective against certain types of dementia, including Alzheimer's disease. Target Actions Organism U Neuronal acetylcholine receptor subunit alpha-2 inhibitor Humans U Neuronal acetylcholine receptor subunit alpha-7 agonist Humans N Choline-phosphate cytidylyltransferase B product of Humans
+
+## Toxicity
+
+Oral rat LD 50 : 3400 mg/kg

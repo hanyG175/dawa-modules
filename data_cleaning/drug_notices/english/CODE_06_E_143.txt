@@ -1,0 +1,62 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_E_143
+DCI: Moxonidine
+DrugBank ID: DB09242
+DrugBank Name: Moxonidine
+Brand Names: MOXONIDINE BEKER
+Pharmaceutical Forms: Comp. Pelli.
+Dosages: 0,2MG
+Packaging: B/30 ET B/90
+Laboratories: BEKER Laboratoires
+Countries: ALGERIE
+Reference Tariff (DA): 0 DA
+PPA (DA): 551.93 DA
+Prescription List: Liste I
+ATC Classification: C02AC05
+Registration Numbers: 147/06 E 143/99/17 | 235/06 E 143/23 | 263/06 E 143/21 | 289/06 E 143/21 | 293/06 E 143/24 | 352/06 E 143/22 | 447/06 E 143/16/22
+Drug Codes: 06 E 143
+
+------------------------------------------------------------
+
+## Description
+
+Moxonidine is a new-generation centrally acting antihypertensive drug approved for the treatment of mild to moderate essential hypertension. It is suggested to be effective in cases where other agents such as thiazides, beta-blockers, ACE inhibitors, and calcium channel blockers are not appropriate or irresponsive. As well, moxonidine has been shown to present blood pressure-independent beneficial effects on insulin resistance syndrome.
+
+## Pharmacodynamics
+
+Antihypertensive agent whose site of action is the Central Nervous System (CNS), specifically involving interactions with I1- imidazoline and alpha-2-adrenergic rececptors within the rostral ventrolateral medulla (RSV). Label
+
+## Mechanism Of Action
+
+Stimulation of central alpha 2-adrenergic receptors is associated with sympathoadrenal suppression and subsequent reduction of blood pressure. As this class was further explored it was discovered that sympathoadrenal activity can also be suppressed by a second pathway with a newly discovered drug target specific to imidazolines 5 . Specifically, moxonidine binds the imidazoline receptor subtype 1 (I1) and to a lesser extent αlpha-2-adrenoreceptors in the RSV causing a reduction of sympathetic activity, reducing systemic vascular resistance and thus arterial blood pressure. Label Moreover, since alpha-2-adrenergic receptors are considered the primary molecular target that facilitates the most common side effects of sedation and dry mouth that are elicited by most centrally acting antihypertensives, moxonidine differs from these other centrally acting antihypertensives by demonstrating only low affinity for central alpha-2-adrenoceptors compared to the aforementioned I1-imidazoline receptors Label . Target Actions Organism A Alpha-2A adrenergic receptor agonist Humans A Nischarin agonist Humans U Alpha-2B adrenergic receptor inhibitor Humans U Alpha-2C adrenergic receptor inhibitor Humans
+
+## Absorption
+
+90% of an oral dose is absorbed with negligible interference from food intake or first pass metabolism, resulting in a high bioavailability of 88%. Label
+
+## Volume Of Distribution
+
+1.8±0.4L/kg. Label
+
+## Metabolism
+
+Biotransformation is unimportant 3 with 10-20% of moxonidine undergoing oxidation reactions to the primary 4,5-dehydromoxonidine metabolite and a guanidine derivative by opening of the imidazoline ring. Label The antihypertensive effects of these 4,5-dehydromoxonidine and guanidine metabolites are only 1/10 and 1/100 the effect of moxonidine Label . Oxidation on either the methyl group (pyrimidine ring) or on the imidazole ring of moxonidine results in the formation of the hydroxylmethyl moxonidine metabolite or the hydroxy moxonidine metabolite 6 . The hydroxy moxonidine metabolite can be further oxidized to the dihydroxy metabolite or it can lose water to form the dehydrogenated moxonidine metabolite, which itself can be further oxidized to form an N-oxide 6 . Aside from these Phase I metabolites, Phase II metabolism of moxonidine is also evident with the presence of a cysteine conjugate metabolite minus chlorine 6 . Nevertheless, the identification of the hydroxy moxonidine metabolite with a high level of dehydrogenated moxonidine metabolite in human urine samples suggests that dehydrogenation from the hydroxy metabolite to the dehydrogenated moxonidine metabolite represents the primary metabolic pathway in humans 6 . The cytochromes P450 responsible for the metabolism of moxonidine in humans have not yet been determined 6 . Ultimately, the parent moxonidine compound was observed to be the most abundant component in different biological matrices of urinary excretion samples, verifying that metabolism only plays a modest role in the clearance of moxonidine in humans 6 .
+
+## Route Of Elimination
+
+Elimination is nearly entirely via the kidneys with a majority (50 -75%) of overall moxonidine being eliminated unchanged through renal excretion. Ultimately, more than 90% of a dose is eliminated by way of the kidneys within the first 24 hours after administration, with only approximately 1% being eliminiated via faeces. Label
+
+## Half Life
+
+Plasma elimination half life is 2.2 - 2.3 hours while renal elimination half life is 2.6-2.8 hours. Label
+
+## Clearance
+
+Administered twice daily due to short half life Label . However, lower dosage adjustments and close monitoring is necessary in elderly and renal impairment patients due to reduced clearance. In particular, the exposure AUC can increase by about 50% following a single dose and at steady state in elderly patients and moderately impaired renal function with GFR between 30-60 mL/min can cause AUC increases by 85% and decreases in clearence to 52 %. Label
+
+## Toxicity
+
+Contraindicated due to known hypersensitivity to an ingredient (Physiotens tablets contain lactose), heart failure, severe renal impairment, 75 years old, bradycardia, severe bradyarrhythmia, sick sinus syndrome, second or third degree atrioventricular block, malignant arrhythmias. Label Used with caution in patients with history of severe coronary artery disease (CAD), unstable angina, angioneurotic edema. Label Pregnancy Category B3:Avoid use during pregnancy (inadequate data in pregnant woman) and lactation (maternal blood stream transfer to breast milk shown) unless benefit clearly justifies risk. Label Lack of specific therapeutic experience in cases of intermittent claudication, Raynaud's disease, Parkinson's disease, epileptic disorders, gluacoma, and depression suggest moxonidine should not be used in such instances Label . Carcinogenicity and genotoxicity does not appear significant. Label Concurrent administration of other hypotensives or sedative and hypnotics can enhance the hypotensive effect and intensify sedation respectively. Label Avoid concurrent Tricyclic Antidepressant (TCA) use to avoid reduction of monoxidine efficacy. Label Generally well tolerated with dry mouth and headache the most common adverse effects Label Symptoms of overdose correlate with pharmacodynamic properties:hypotension, sedation, orthostatic dysregulation, bradycardia, dry mouth with no specific counter-treatment known. Label

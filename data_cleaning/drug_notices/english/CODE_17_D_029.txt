@@ -1,0 +1,46 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_17_D_029
+DCI: NORFLOXACINE 0,3 % collyre sol (CHIBROXINE)
+DrugBank ID: DB01059
+DrugBank Name: Norfloxacin
+Brand Names: APIFLOX | CHIBROGEN | CHIBROXINE | NORFLOTEK | NOROFLOX | OPRELEX
+Pharmaceutical Forms: Collyree | Collyree En Solution
+Dosages: 0.3% (300 mg/100ml) | 0.3% (3mg/ml) | 0.3% (ou 3mg/ml)
+Packaging: flacon/10ml | flacon/5ml
+Laboratories: THÉA PHARMA
+ATC Classification: J - ANTI-INFECTIEUX GENERAUX A USAGE SYSTEMIQUE | J01 - ANTIBACTERIENS A USAGE SYSTEMIQUE | J01M - QUINOLONES ANTIBACTERIENNES | J01MA - FLUOROQUINOLONES | J01MA06 - NORFLOXACINE
+Registration Numbers: 022/17 D 029/99/16 | 055/17 D 029/24 | 065/17 D 029/22 | 165/17 D 029/98 | 380/17 D 029/21 | 543/17 D 029/25
+Drug Codes: 17 D 029
+
+------------------------------------------------------------
+
+## Description
+
+A synthetic fluoroquinolone (fluoroquinolones) with broad-spectrum antibacterial activity against most gram-negative and gram-positive bacteria. Norfloxacin inhibits bacterial DNA gyrase.
+
+## Pharmacodynamics
+
+Norfloxacin is a quinolone/fluoroquinolone antibiotic. Norfloxacin is bactericidal and its mode of action depends on blocking of bacterial DNA replication by binding itself to an enzyme called DNA gyrase, which allows the untwisting required to replicate one DNA double helix into two. Notably the drug has 100 times higher affinity for bacterial DNA gyrase than for mammalian.
+
+## Mechanism Of Action
+
+DNA gyrase subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor DNA topoisomerase 4 subunit A (Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)) Inhibitor
+
+## Absorption
+
+Rapid
+
+## Metabolism
+
+Via liver and kidney
+
+## Route Of Elimination
+
+Norfloxacin is eliminated through metabolism, biliary excretion, and renal excretion. It is expected to undergo both glomerular filtration and tubular secretion during renal excretion, as shown by its high renal clearance rate of approximately 275 mL/min.
+
+## Half Life
+
+3-4 hours

@@ -1,0 +1,55 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_11_P_086
+DCI: Dienogest
+DrugBank ID: DB09123
+DrugBank Name: Dienogest
+Brand Names: DIMETRUM | VISANNE
+Pharmaceutical Forms: Comprimé
+Dosages: 2mg
+Packaging: b/28
+Laboratories: LABORATOIRES MAJORELLE | 6 RUE COPERNIC | 75116 PARIS
+ATC Classification: G03DB08
+Registration Numbers: 169/11 P 086/25 | 424/11 P 086/14
+Drug Codes: 11 P 086
+
+------------------------------------------------------------
+
+## Pharmacodynamics
+
+Dienogest exhibits a very potent progestagenic effect in the endometrium, and causes endometrial atrophy after prolonged use 2 . It also mediates an antiandrogenic effect that is equivalent to approximately one third that of cyproterone acetate 5 . A dose of 2 mg inhibits the growth of ovarian follicles at 10 mm and maintains the concentration of progesterone at a low level, but has a weak inhibitory effect on FSH and LH. 1mg/kg of dienogest also directly inhibits ovulation 2 . In clinical trials composing of patients with endometriosis, dienogest therapy effectively reduced painful symptoms and endometriotic lesions associated with the disorder 1 .
+Dienogest displays no antiestrogenic activity as it activate neither estrogen receptor (ER) α nor ERβ 4 , and causes hypoestrogenic effects instead as it is shown to decrease the relative expressions of ERβ and ERα 3 . It has no glucocorticoid or mineralocorticoid effects. In combined oral contraceptive pills (COCP) with ethinyloestradiol, dienogest conjuction therapy effectively reduces the symptoms of acne and hirsutism, as well as improving excessively heavy or prolonged menstrual bleeding 2 .
+
+## Mechanism Of Action
+
+Progesterone receptor Agonist Androgen receptor Antagonist
+
+## Absorption
+
+Dienogest is rapidly absorbed following oral administration, with 91% bioavailability. The peak plasma concentration of 47 ng/mL is reached at about 1.5 hours after single ingestion of 2 mg 5 . The stable concentrations of the drug are reached after two days of initial treatment 2 .
+
+## Volume Of Distribution
+
+The apparent volume of distribution (Vd/F) of dienogest is 40 L 5 .
+
+## Metabolism
+
+Dienogest undergoes complete metabolism that is mainly mediated by CYP3A4. The metabolites are pharmacologically inactive and rapidly eliminated from the plasma.
+
+## Route Of Elimination
+
+The ratio of renal elimination to fecal elimination of dienogest is 3:1, where dienogest is predominantly excreted in the form of inactive metabolites. Most of orally administered drug is excreted in the urine within the first 24 hours of ingestion 5 .
+
+## Half Life
+
+Elimination half-life of dienogest is around 9-10 hours. The half-life of urinary metabolites excretion is 14 hours 5 .
+
+## Clearance
+
+The metabolic clearance rate from serum (Cl/F) is 64 mL/min 5 .
+
+## Toxicity
+
+Oral LD50 in mouse is 4 mg/kg MSDS . In a long-term carcinogenicity study involving rats and mice, exposure of 10 times the dose of maximum recommended clinical dose of dienogest resulted in increased incidences of pituitary adenomas, fibroepithelial mammary tumours, stromal polyps of the uterus and malignant lymphoma 6 . These tumors are thought to arise from marked species differences in the optimal oestrogen:progestogen ratio for reproductive function. In rat liver foci assay, dienogest did not induce tumor promotion activity 6 . Dienogest does not display genotoxic potential.

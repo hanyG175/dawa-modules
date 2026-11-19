@@ -1,0 +1,56 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_20_A_016
+DCI: Salbutamol Sulfate Expirime En Salbutamol
+DrugBank ID: DB01001
+DrugBank Name: Albuterol
+Brand Names: KOXMA | RABWALYSE | SALBULAM | SALBUMEX | SALBUTAMOL PHYSIOPHARM | SALBUTAMOL-SAIDAL | XABUMOL
+Pharmaceutical Forms: Solution
+Dosages: 2mg/5ml ou 0.40mg/ml
+Packaging: b/01 flacon de 125ml | b/01 flacon de 150ml
+Registration Numbers: 003/20 A 016/97/24 | 073/20 A 016/05/16 | 077/20 A 016/98/24 | 079/20 A 016/13 | 242/20 A 016/04/12 | 400/20 A 016/16 | 462/20 A 016/16
+Drug Codes: 20 A 016
+
+------------------------------------------------------------
+
+## Description
+
+Salbutamol (Albuterol [USAN]) is a short-acting, selective beta2-adrenergic receptor agonist used in the treatment of asthma and COPD. It is 29 times more selective for beta2 receptors than beta1 receptors giving it higher specificity for pulmonary beta receptors versus beta1-adrenergic receptors located in the heart. Salbutamol is formulated as a racemic mixture of the R- and S-isomers. The R-isomer has 150 times greater affinity for the beta2-receptor than the S-isomer and the S-isomer has been associated with toxicity. This lead to the development of levalbuterol, the single R-isomer of salbutamol. However, the high cost of levalbuterol compared to salbutamol has deterred wide-spread use of this enantiomerically pure version of the drug. Salbutamol is generally used for acute episodes of bronchospasm caused by bronchial asthma, chronic bronchitis and other chronic bronchopulmonary disorders such as chronic obstructive pulmonary disorder (COPD). It is also used prophylactically for exercise-induced asthma. Label , 1 , 2
+
+## Pharmacodynamics
+
+Salbutamol (INN) or albuterol (USAN), a moderately selective beta(2)-receptor agonist similar in structure to terbutaline, is widely used as a bronchodilator to manage asthma and other chronic obstructive airway diseases. Label , 4 , 5 The R-isomer, levalbuterol, is responsible for bronchodilation while the S-isomer increases bronchial reactivity. 2 The R-enantiomer is available and sold in its pure form as levalbuterol and subsequently may produce fewer side-effects with only the R-enantiomer present - although this has not been formally demonstrated. 2 After oral and parenteral administration, stimulation of the beta receptors in the body, both beta-1 and beta-2, occurs because (a) beta-2 selectivity is not absolute, and (b) higher concentrations of salbutamol occur in the regions of these receptors with these modes of administration. Label , 4 , 5 This results in the beta-1 effect of cardiac stimulation, though not so much as with isoprenaline, and beta-2 effects of peripheral vasodilatation and hypotension, skeletal muscle tremor, and uterine muscle relaxation. Label , 4 , 5 Metabolic effects such as hyperinsulinemia and hyperglycemia also may occur, although it is not known whether these effects are mediated by beta-1 or beta-2 receptors. Label , 4 , 5 The serum potassium levels have a tendency to fall. 4
+
+## Mechanism Of Action
+
+Beta-2 adrenergic receptor Agonist
+
+## Absorption
+
+Following inhalation, salbutamol acts topically on bronchial smooth muscle and the drug is initially undetectable in the blood. 4 After 2 to 3 hours low concentrations are seen, due presumably to the portion of the dose which is swallowed and absorbed in the gut. 4 In particular, the systemic levels of salbutamol are low after inhalation of recommended doses. Label A trial conducted in 12 healthy male and female subjects using a higher dose (1,080 mcg of albuterol base) showed that mean peak plasma concentrations of approximately 3 ng/mL occurred after dosing when salbutamol was delivered using propellant HFA-134a. Label The mean time to peak concentrations (Tmax) was delayed after administration of VENTOLIN (salbutamol) HFA (Tmax = 0.42 hours) as compared with CFC-propelled salbutamol inhaler (Tmax = 0.17 hours). Label
+
+## Volume Of Distribution
+
+The volume of distribution recorded for intravenously administered salbutamol has been recorded as 156 +/- 38 L. 1
+
+## Metabolism
+
+Salbutamol is not metabolized in the lung but is converted in the liver to the 4'-o-sulphate (salbutamol 4'-O-sulfate) ester, which has negligible pharmacologic activity. 4 , 5 It may also be metabolized by oxidative deamination and/or conjugation with glucuronide. 4 , 5 Salbutamol is ultimately excreted in the urine as free drug and as the metabolite. 4 , 5 Hover over products below to view reaction partners Albuterol Salbutamol 4-O-sulfate
+
+## Route Of Elimination
+
+After oral administration, 58-78% of the dose is excreted in the urine in 24 hours, approximately 60% as metabolites. 4 , 5 A small fraction is excreted in the feces. 4 , 5
+
+## Half Life
+
+The elimination half-life of inhaled or oral salbutamol has been recorded as being between 2.7 and 5 hours while the apparent terminal plasma half-life of albuterol has been documented as being approximately 4.6 hours. 4 , Label
+
+## Clearance
+
+The renal clearance of salbutamol has been documented as 272 +/- 38 ml/min after oral administration and 291 +/- 70 ml/min after intravenous administration. 1 Furthermore, the renal clearance of the predominant sulfate conjugate metabolite was recorded as 98.5 +/- 23.5 ml/min following oral administration. 1
+
+## Toxicity
+
+The expected signs and symptoms with overdosage of albuterol are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the signs and symptoms of beta-adrenergic stimulation (e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, muscle cramps, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, insomnia, hyperglycemia, hypokalemia, metabolic acidosis). Label In particular, the signs of salbutamol overdosage are significant tachycardia and/or significant muscle tremor. 4 , 5 Hypokalaemia may occur following overdosage with salbutamol. 4 Serum potassium levels should be monitored. 4 Lactic acidosis has been reported in association with high therapeutic doses as well as overdoses of short-acting beta-agonist therapy, therefore monitoring for elevated serum lactate and consequent metabolic acidosis (particularly if there is persistence or worsening of tachypnea despite resolution of other signs of bronchospasm such as wheezing) may be indicated in the setting of overdose. 4 , 5 Salbutamol is categorized as Pregnancy Category C. Label There are no adequate and well-controlled trials with salbutamolc or albuterol sulfate in pregnant women. Label During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with salbutamol. Label Some of the mothers were taking multiple medications during their pregnancies. Label No consistent pattern of defects can be discerned, and a relationship between salbutamol use and congenital anomalies has not been established. Label Animal reproduction studies in mice and rabbits revealed evidence of teratogenicity. Label Salbutamol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetusLabel]. Women should be advised to contact their physicians if they become pregnant while taking salbutamol. Label Since there exists a potential for beta-agonist interference with uterine contractility, the use of salbutamol during labour should be restricted to those patients in whom the benefits clearly outweigh the risk. Label Plasma levels of albuterol sulfate and HFA-134a after inhaled therapeutic doses are very low in humans, but it is not known whether the components of salbutamol are excreted in human milk. Label Because of the potential for tumorigenicity shown for albuterol in animal studies and lack of experience with the use of salbutamol by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Label Caution should be exercised when salbutamol is administered to a nursing woman. Label The safety and effectiveness of salbutamol in children younger than 4 years of age has not yet been established. Label Clinical trials of VENTOLIN HFA did not include sufficient numbers of subjects aged 65 years and older to determine whether older subjects respond differently than younger subjects. Label Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Label In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Label The LD 50 value was determined to be 1100 mg/kg (orally in mice).

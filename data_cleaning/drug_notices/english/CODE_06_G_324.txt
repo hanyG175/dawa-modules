@@ -1,0 +1,42 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_06_G_324
+DCI: Levosimendan
+DrugBank ID: DB00922
+DrugBank Name: Levosimendan
+Brand Names: SIMDAX
+Pharmaceutical Forms: Concentre P/Sol P/Perf I.V
+Dosages: 2.5mg/ml
+Packaging: b/01 flacon de 5ml
+Laboratories: ACCORD HEALTHCARE FRANCE S.A.S. | 635 RUE DE LA CHAUDE RIVIERE | 59000 LILLE
+ATC Classification: C01CX08
+Registration Numbers: 402/06 G 324/19
+Drug Codes: 06 G 324
+
+------------------------------------------------------------
+
+## Description
+
+Levosimendan increases calcium sensitivity to myocytes by binding to troponin C in a calcium dependent manner. This increases contractility without raising calcium levels. It also relaxes vascular smooth muscle by opening adenosine triphosphate sensitive potassium channels. Levosimendan is used to manage acutely decompensated congestive heart failure. Levosimendan is under investigation in clinical trial NCT00527059 (Renal Effects of Levosimendan in Patients Admitted With Acute Decompensated Heart Failure).
+
+## Pharmacodynamics
+
+Levosimendan is a new Ca 2+ -sensitizing inotropic agent. Ca 2+ sensitizers represent a new class of inotropic agents, which overcome the disadvantages associated with currently available inotropic agents in as they are not associated with an increased risk of arrhythmias, cell injury and death due to Ca 2+ overload in myocardial cells; they do not increase the activation energy; and they have the potential to reverse contractile dysfunction under pathophysiologic conditions, such as acidosis or myocardial stunning. Levosimendan has not been approved for use in the U.S. or Canada.
+
+## Mechanism Of Action
+
+Troponin C, slow skeletal and cardiac muscles Potentiator ATP-sensitive inward rectifier potassium channel 11 Inducer ATP-sensitive inward rectifier potassium channel 8 Inducer
+
+## Absorption
+
+The bioavailability of oral levosimendan is 85 ± 6% in healthy volunteers and 84 ± 4% in patients.
+
+## Metabolism
+
+Complete metabolism, with some active metabolites (OR-1855 and OR-1896) possibly extending the drug's haemodynamic effects. Hover over products below to view reaction partners Levosimendan OR-1855 OR-1896
+
+## Half Life
+
+Eliminination half-life is approximately 1 hour.

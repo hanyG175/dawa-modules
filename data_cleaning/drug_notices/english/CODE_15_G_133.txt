@@ -1,0 +1,60 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_G_133
+DCI: Fampridine
+DrugBank ID: DB06637
+DrugBank Name: Dalfampridine
+Brand Names: SCLERYL
+Pharmaceutical Forms: Comprimé
+Dosages: 10mg
+Packaging: b/14
+Registration Numbers: 263/15 G 133/20/25
+Drug Codes: 15 G 133
+
+------------------------------------------------------------
+
+## Description
+
+Dalfampridine is a potassium channel blocker used to help multiple sclerosis patients walk. This is the first drug that was specifically approved to help with mobility in these patients. FDA approved on January 22, 2010.
+
+## Pharmacodynamics
+
+Dalfampridine is a board-spectrum lipophillic potassium channel blocker and binds favourably to the open state than closed state of the potassium channel in the CNS. Its pharmacological target are the potassium channels exposed in MS patients. Does not prolong the QTc interval.
+
+## Mechanism Of Action
+
+Potassium voltage-gated channel subfamily A member 1 Antagonist Potassium voltage-gated channel subfamily A member 2 Antagonist Potassium voltage-gated channel subfamily A member 3 Antagonist + 13 more targets
+
+## Absorption
+
+Orally-administered dalfampridine is rapidly and completely absorbed from the gastrointestinal tract.
+Tmax, immediate release form = 1 hour;
+Tmax, extended release form = 3.5 hours;
+Cmax, 10 mg extended release = 17.3 - 21.6 ng/mL;
+Relative bioavailability of 10 mg extended-release tablets compared to aqueous oral solution = 96%
+
+## Volume Of Distribution
+
+10 mg extended release = 2.6 L/kg
+
+## Metabolism
+
+Not extensively metabolized by the liver therefore drugs effecting the cytochrome P450 enzyme system that are concomitantly administered with dalfampridine are not expected to interact with each other. Metabolites include 3-hydroxy-4-aminopyridine and 3-hydroxy-4-aminopyridine sulfate and both are inactive. CYP2E1 is the enzyme responsible for 3-hydroxylation of dalfampridine. Hover over products below to view reaction partners Dalfampridine 3-hydroxy-4-aminopyridine 3-hydroxy-4-aminopyridine sulfate
+
+## Route Of Elimination
+
+Almost all of the dose and its metabolites are completely eliminated by the kidneys after 24 hours.
+Urine (96%; 90% of total dose as unchanged drug);
+Feces (0.5%)
+
+## Half Life
+
+Immediate release form = 3.5 hours;
+Extended release form = 5.47 hours;
+
+## Toxicity
+
+LD50, oral, mouse = 19 mg/kg
+LD50, oral, rat = 21 mg/kg

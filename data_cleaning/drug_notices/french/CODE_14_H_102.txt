@@ -1,0 +1,31 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_14_H_102
+DCI: PYRIDOXINE CHLORHYDRATE 250 mg/5 ml sol inj (PYRIDOXINE RENAUDIN)
+Brand Names: PYRIDOXINE API
+Pharmaceutical Forms: Comprimé
+Dosages: 250mg
+Packaging: b/20
+ATC Classification: A - VOIES DIGESTIVES ET METABOLISME | A11 - VITAMINES | A11H - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA - AUTRES PREPARATIONS VITAMINIQUES NON ASSOCIEES | A11HA02 - PYRIDOXINE (VIT B6)
+Registration Numbers: 348/14 H 102/08
+Drug Codes: 14 H 102
+
+------------------------------------------------------------
+
+## Posology
+
+Posologie | Unité de prise | comprimé | pyridoxine chlorhydrate : 250 mg | Modalités d'administration | Voie orale | Administrer avec une quantité suffisante d'eau | Traitement prolongé à éviter | Posologie | Patient à partir de 15 an(s) | Patient quel que soit le poids | Carence en vitamine B6 | Posologie standard | 1 comprimé 1 à 4 fois par jour
+
+## Precautions
+
+Enfant de moins de 15 ans | Patient traité à posologie élevée | Traitement prolongé
+
+## Mechanism Of Action
+
+Pyridoxine : Mécanisme d'action | La pyridoxine est la forme active de la vitamine B6. | Cette vitamine intervient dans de nombreuses réactions enzymatiques. | En cas de carence, les manifestations cliniques sont les suivantes : dermatite, anémie microcytaire et hypochrome, convulsions, névrites périphériques. Les carences en vitamine B6 sont rarement isolées mais le plus souvent associées à celles en vitamines du groupe B.
+
+## Adverse Effects
+
+DERMATOLOGIE: | - Photosensibilisation | NUTRITION, MÉTABOLISME: | - Anorexie | SYSTÈME DIGESTIF: | - Vomissement | - Nausée | - Douleur abdominale | - Trouble digestif | SYSTÈME NERVEUX: | - Trouble neurologique (Exceptionnel)

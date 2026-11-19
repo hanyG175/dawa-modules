@@ -1,0 +1,57 @@
+============================================================
+DRUG NOTICE
+============================================================
+
+Drug Code: CODE_15_A_006
+DCI: Carbamazepine
+DrugBank ID: DB00564
+DrugBank Name: Carbamazepine
+Brand Names: TEGRETOL | TEGRIDIS
+Pharmaceutical Forms: Suspension
+Dosages: 100mg/5ml | 20mg/ml
+Packaging: b/01 flacon. 150 ml + seringue p. admin. orale de 10ml graduee a 0.25 ml | flacon/150ml
+Registration Numbers: 068/15 A 006/97 | 317/15 A 006/18
+Drug Codes: 15 A 006
+
+------------------------------------------------------------
+
+## Description
+
+Carbamazepine, also known as Tegretol, is an anticonvulsant drug and analgesic drug used to control seizures and to treat pain resulting from trigeminal neuralgia. It was initially approved by the FDA in 1965. 3 Aside from the above uses, this drug is also given to control the symptoms of bipolar 1. 16 Interestingly, carbamazepine was the first anticonvulsant used to treat individuals with bipolar disorder. 6
+
+## Pharmacodynamics
+
+General effects Carbamazepine treats seizures and the symptoms of trigeminal neuralgia by inhibiting sodium channels. In bipolar 1 disorder, carbamazepine has been found to decrease mania symptoms in a clinically significant manner according to the Young Mania Rating Scale (YMRS). 16 Carbamazepine has a narrow therapeutic index. 3 A note on genetic variation and carbamazepine use In studies of Han Chinese ancestry patients, a pronounced association between the HLA-B*1502 genotype and Steven Johnson syndrome and/or toxic epidermal necrolysis (SJS/TEN) resulting from carbamazepine use was observed. 7
+
+## Mechanism Of Action
+
+Voltage-gated sodium channel alpha subunit Inhibitor
+
+## Absorption
+
+The bioavailability of carbamazepine is in the range of 75-85% of an ingested dose. 3 After one 200 mg oral extended-release dose of carbamazepine in a pharmacokinetic study, the Cmax carbamazepine was measured to be 1.9 ± 0.3 mcg/mL. The Tmax was 19 ± 7 hours. After several doses of 800 mg every 12 hours, the peak concentrations of carbamazepine were measured to be 11.0 ± 2.5 mcg/mL. The Tmax was reduced to 5.9 ± 1.8 hours. Extended-release carbamazepine demonstrated linear pharmacokinetics over a range of 200–800 mg. 16 Effect of food on absorption A meal containing high-fat content increased the rate of absorption of one 400 mg dose but not the AUC of carbamazepine. 16 The elimination half-life remained unchanged between fed and fasting state. The pharmacokinetics of an extended-release carbamazepine dose was demonstrated to be similar when administered in the fasted state or with food. 16 Based on these findings, food intake is unlikely to exert significant effects on carbamazepine absorption.
+
+## Volume Of Distribution
+
+The volume of distribution of carbamazepine was found to be 1.0 L/kg in one pharmacokinetic study. 4 Another study indicates that the volume of distribution of carbamazepine ranges between 0.7 to 1.4 L/kg. 11 . Carbamazepine crosses the placenta, and higher concentrations of this drug are found in the liver and kidney as opposed to lung and brain tissue. 16 Carbamazepine crosses variably through the blood-brain barrier. 13
+
+## Metabolism
+
+Carbamazepine is largely metabolized in the liver. CYP3A4 hepatic enzyme is the major enzyme that metabolizes carbamazepine to its active metabolite, carbamazepine-10,11-epoxide 12 , which is further metabolized to its trans-diol form by the enzyme epoxide hydrolase. 16 Other hepatic cytochrome enzymes that contribute to the metabolism of carbamazepine are CYP2C8, CYP3A5, and CYP2B6. 17 Carbamazepine also undergoes hepatic glucuronidation by UGT2B7 enzyme and several other metabolic reactions occur, resulting in the formation of minor hydroxy metabolites and quinone metabolites. 17 Interestingly, carbamazepine induces its own metabolism. 16 This leads to enhanced clearance, reduced half-life, and a reduction in serum levels of carbamazepine. 3 , 16 Hover over products below to view reaction partners Carbamazepine 10,11-Epoxycarbamazepine 10,11-Dihydroxycarbamazepine 3-hydroxycarbamazepine 2,3-Dihydroxycarbamazepine Carbamazepine-o-quinione Carbamazepine 2,3-epoxide 2-hydroxycarbamazepine 2-hydroxyiminostilbene Iminoquinone
+
+## Route Of Elimination
+
+After an oral dose of radiolabeled carbamazepine, 72% of the administered radioactive dose was detected in the urine and the remainder of the ingested dose was found in the feces. Carbamazepine is mainly excreted as hydroxylated and conjugated metabolites, and minimal amounts of unchanged drug. 16
+
+## Half Life
+
+The mean elimination half-life of carbamazepine was 35 to 40 hours after one dose of carbamazepine extended-release formulations. The half-life ranged from 12-17 hours after several doses of carbamazepine. 16 One pharmacokinetic study determined the elimination half-life of carbamazepine to range between 27 to 36.8 hours in healthy volunteers. 11
+
+## Clearance
+
+In a pharmacokinetic study, the apparent oral clearance of carbamazepine was 25 ± 5 mL/min 11 , 16 after one dose of carbamazepine and 80 ± 30 mL/min after several doses. 16
+
+## Toxicity
+
+Toxicity information
+Oral LDLO (female): 1920 mg/kg/17W (intermittent); Oral LDLO (male): 54 mg/kg/9D (intermittent) 18 Oral LD50 (rat): 1957 mg/kg 18 Overdose information The initial signs of carbamazepine overdose occur 1-3 hours post ingestion. These signs and symptoms may vary in case of an overdose between carbamazepine and other drugs. Carbamazepine may cause various cardiovascular, neurological, respiratory, urinary symptoms as well as laboratory abnormalities including leukocytosis, reduced leucocytes, acetonuria, and glycosuria. 16 Neuromuscular symptoms may occur initially, followed by mild cardiac symptoms such as tachycardia, hypertension, or hypotension. Higher doses of carbamazepine may cause more severed cardiovascular effects. Restlessness, muscular twitching, tremor, dilated pupils, nystagmus, psychomotor disturbances, and other neurological symptoms may occur. Hyperreflexia in the initial stages of overdose may be followed by hyporeflexia. Nausea, vomiting, urinary retention, dizziness or drowsiness may also occur. 16 In cases of overdose, contact the local poison control center. Ensure to provide supportive and symptomatic treatment, which may include monitoring and careful supervision by a medical professional. The possibility of overdose with multiple drugs must be considered in the case of carbamazepine overdose. Maintain an adequate airway, oxygen, in addition to ventilation. Vital signs should be monitored. 16
