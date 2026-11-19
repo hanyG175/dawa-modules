@@ -86,7 +86,7 @@ This is a research project being shaped into a publishable repository. The OCR, 
 
 The **final UI is maintained outside this repository** and is not the frontend currently reproduced here. Its source repository, release status, and ownership should be confirmed before it is linked publicly.
 
-- UI repository: **link to be added after approval**
+- UI repository: [DAWA Frontend]([docs/screenshots](https://github.com/BelkacemYerfa/dawa-frontend))
 - Presentation screenshots: stored in [`docs/screenshots`](docs/screenshots) when approved and sanitized
 - The screenshots in this repository should show synthetic or anonymized data only
 
