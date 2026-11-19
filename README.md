@@ -10,9 +10,8 @@ extraction tools, and multilingual data cleaning.
 
 ## My contribution
 
-<!-- TODO: fill in before publishing. Keep only what is true and delete this comment. -->
-- **Built by me:** [list the modules you wrote, e.g. OCR parsing, DDI workflow, scrapers, data cleaning]
-- **Built with others:** [list modules written together, and with whom/what role]
+- **Built by me:** DDI, OCR Module, Ragflow implementation and prompt engineering.
+- **Built with my teammate:** Frontend, ElasticSearch implementation, Scrapers.
 - **RAG assistant (not in this repo):** I prepared and cleaned the data it uses and designed
   its prompts. The RAG framework is [RAGFlow](https://github.com/infiniflow/ragflow), which
   I did not write, running on a hosted VM.
